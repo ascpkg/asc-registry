@@ -1,0 +1,4 @@
+Source: fontconfig-2-12-1-0
+Version: 2.12.1
+Description: Library for configuring and customizing font access.
+Build-Depends: freetype-2-6-3-3-0, expat-2-1-1-0, libiconv-1-14-0
