@@ -5764,6 +5764,10 @@
       "baseline": "3.1.0",
       "port-version": 0
     },
+    "nlohmann-json-3-1-2-0": {
+      "baseline": "3.1.2",
+      "port-version": 0
+    },
     "nlopt-2-4-2-c43afa08d-vcpkg1-0": {
       "baseline": "2.4.2-c43afa08d~vcpkg1",
       "port-version": 0
