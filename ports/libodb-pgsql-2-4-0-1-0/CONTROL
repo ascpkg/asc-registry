@@ -1,4 +1,4 @@
 Source: libodb-pgsql-2-4-0-1-0
 Version: 2.4.0-1
 Description: Description: PostgreSQL support for the ODB ORM library
-Build-Depends: libodb-2-4-0-1-0, libpq-9-6-1-1-0
+Build-Depends: libodb-2-4-0-3-0, libpq-9-6-1-5-0
