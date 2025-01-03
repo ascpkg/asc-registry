@@ -1,0 +1,4 @@
+Source: openmvg-1-4-1-0
+Version: 1.4-1
+Description: open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
+Build-Depends: coinutils-2-10-14-0-0, clp-1-16-11-0-0, osi-0-107-9-0-0, liblemon-1-3-1-3-0, flann-1-9-1-9-0, eigen3-3-3-7-0, ceres-1-14-0-1-0, cereal-1-2-2-1-0, libjpeg-turbo-1-5-3-2-0, tiff-4-0-10-3-0, libpng-1-6-36-1-0, zlib-1-2-11-5-0
