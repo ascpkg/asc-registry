@@ -1,0 +1,4 @@
+Source: libimobiledevice-1-2-1-215-1-0
+Version: 1.2.1.215-1
+Description: A cross-platform protocol library to communicate with iOS devices
+Build-Depends: libplist-2-0-1-197-1-0, libusbmuxd-1-0-107-1-0, openssl-0-0, dirent-1-23-1-0, getopt-0-0

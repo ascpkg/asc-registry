@@ -1,0 +1,4 @@
+Source: libideviceactivation-1-0-38-1-0
+Version: 1.0.38-1
+Description: A library to handle the activation process of iOS devices
+Build-Depends: libimobiledevice-1-2-1-215-1-0, libxml2-2-9-4-5-0, curl-7-61-0-0

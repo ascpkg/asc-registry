@@ -4680,7 +4680,15 @@
       "baseline": "3.6.2-3",
       "port-version": 0
     },
+    "getopt-0-0": {
+      "baseline": "0",
+      "port-version": 0
+    },
     "getopt-0-1-0": {
+      "baseline": "0.1",
+      "port-version": 0
+    },
+    "getopt-win32-0-1-0": {
       "baseline": "0.1",
       "port-version": 0
     },
@@ -5504,6 +5512,14 @@
       "baseline": "61.1-1",
       "port-version": 0
     },
+    "ideviceinstaller-1-1-2-23-1-0": {
+      "baseline": "1.1.2.23-1",
+      "port-version": 0
+    },
+    "idevicerestore-1-0-12-1-0": {
+      "baseline": "1.0.12-1",
+      "port-version": 0
+    },
     "if97-2-1-0-0": {
       "baseline": "2.1.0",
       "port-version": 0
@@ -6160,8 +6176,20 @@
       "baseline": "1.15-4",
       "port-version": 0
     },
+    "libideviceactivation-1-0-38-1-0": {
+      "baseline": "1.0.38-1",
+      "port-version": 0
+    },
     "libidn2-2-0-4-0": {
       "baseline": "2.0.4",
+      "port-version": 0
+    },
+    "libimobiledevice-1-2-1-215-1-0": {
+      "baseline": "1.2.1.215-1",
+      "port-version": 0
+    },
+    "libirecovery-1-0-25-1-0": {
+      "baseline": "1.0.25-1",
       "port-version": 0
     },
     "libjpeg-turbo-1-4-90-1-0": {
@@ -6458,6 +6486,10 @@
     },
     "libp7-baical-4-4-3-0": {
       "baseline": "4.4-3",
+      "port-version": 0
+    },
+    "libplist-2-0-1-197-1-0": {
+      "baseline": "2.0.1.197-1",
       "port-version": 0
     },
     "libpng-1-6-24-1-0": {
@@ -6800,6 +6832,10 @@
       "baseline": "1.2.6.0-1",
       "port-version": 0
     },
+    "libusbmuxd-1-0-107-1-0": {
+      "baseline": "1.0.107-1",
+      "port-version": 0
+    },
     "libuuid-1-0-3-0": {
       "baseline": "1.0.3",
       "port-version": 0
@@ -7062,6 +7098,10 @@
     },
     "libzip-rel-1-5-1-0": {
       "baseline": "rel-1-5-1",
+      "port-version": 0
+    },
+    "libzip-rel-1-5-1-vcpkg1-0": {
+      "baseline": "rel-1-5-1-vcpkg1",
       "port-version": 0
     },
     "live555-2017-06-04-0": {
@@ -9744,8 +9784,16 @@
       "baseline": "2018-07-30",
       "port-version": 0
     },
+    "readline-0-0": {
+      "baseline": "0",
+      "port-version": 0
+    },
     "readline-5-0-1-0": {
       "baseline": "5.0-1",
+      "port-version": 0
+    },
+    "readline-win32-5-0-2-0": {
+      "baseline": "5.0-2",
       "port-version": 0
     },
     "readosm-1-1-0-0": {
@@ -11474,6 +11522,10 @@
     },
     "uriparser-0-8-5-0": {
       "baseline": "0.8.5",
+      "port-version": 0
+    },
+    "usbmuxd-1-1-1-133-1-0": {
+      "baseline": "1.1.1.133-1",
       "port-version": 0
     },
     "utf8h-841cb2deb8eb806e73fff0e1f43a11fca4f5da45-0": {
