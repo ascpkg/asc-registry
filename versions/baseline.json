@@ -1728,6 +1728,10 @@
       "baseline": "4.0.3",
       "port-version": 0
     },
+    "parquet-cpp-apache-parquet-cpp-1-1-0-0": {
+      "baseline": "apache-parquet-cpp-1.1.0",
+      "port-version": 0
+    },
     "pcre-8-38-0": {
       "baseline": "8.38",
       "port-version": 0

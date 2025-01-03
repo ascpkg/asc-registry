@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "git-tree": "21dac141af3a4f0a36b01444bc977e2ebb06cd65",
+      "version": "apache-parquet-cpp-1.1.0",
+      "port-version": 0
+    }
+  ]
+}
