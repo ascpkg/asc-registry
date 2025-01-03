@@ -1,0 +1,4 @@
+Source: shiva-0-1-0
+Version: 0.1
+Description: Modern C++ Game Engine
+Build-Depends: boost-stacktrace-1-67-0-0, boost-filesystem-1-67-0-0, entt-2-6-1-0, eastl-3-09-00-0
