@@ -1,0 +1,4 @@
+Source: yara-e3439e4ead4ed5d3b75a0b46eaf15ddda2110bb9-0
+Version: e3439e4ead4ed5d3b75a0b46eaf15ddda2110bb9
+Description: The pattern matching swiss knife
+Build-Depends: openssl-1-0-2n-2-0, jansson-2-10-1-0
