@@ -1,0 +1,4 @@
+Source: strtk-2019-01-09-0
+Version: 2019-01-09
+Description: robust, optimized and portable string processing algorithms for the C++ language
+Build-Depends: boost-1-68-0-0
