@@ -2664,6 +2664,10 @@
       "baseline": "Version 1.1.0 (Paho 1.2)",
       "port-version": 0
     },
+    "pango-1-40-11-0": {
+      "baseline": "1.40.11",
+      "port-version": 0
+    },
     "pango-1-40-3-0": {
       "baseline": "1.40.3",
       "port-version": 0
