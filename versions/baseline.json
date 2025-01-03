@@ -4924,6 +4924,10 @@
       "baseline": "1.53",
       "port-version": 0
     },
+    "imgui-1-60-0": {
+      "baseline": "1.60",
+      "port-version": 0
+    },
     "inja-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
