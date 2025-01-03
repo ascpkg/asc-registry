@@ -1,0 +1,4 @@
+Source: librtmp-2-4-0
+Version: 2.4
+Build-Depends: zlib-1-2-11-3-0, openssl-1-0-2n-1-0
+Description: RTMPDump Real-Time Messaging Protocol API
