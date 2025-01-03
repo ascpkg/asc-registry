@@ -7064,6 +7064,10 @@
       "baseline": "3.6.3-3",
       "port-version": 0
     },
+    "geotrans-3-7-0": {
+      "baseline": "3.7",
+      "port-version": 0
+    },
     "getopt-0-0": {
       "baseline": "0",
       "port-version": 0
