@@ -1384,6 +1384,10 @@
       "baseline": "1.11.0",
       "port-version": 0
     },
+    "catch-classic-1-12-0-0": {
+      "baseline": "1.12.0",
+      "port-version": 0
+    },
     "catch2-2-1-0-0": {
       "baseline": "2.1.0",
       "port-version": 0
