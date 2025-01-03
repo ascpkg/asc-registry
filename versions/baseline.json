@@ -1748,6 +1748,10 @@
       "baseline": "libsndfile-1.0.29-6830c42",
       "port-version": 0
     },
+    "libssh-0-7-5-0": {
+      "baseline": "0.7.5",
+      "port-version": 0
+    },
     "libssh2-1-8-0-0": {
       "baseline": "1.8.0",
       "port-version": 0
