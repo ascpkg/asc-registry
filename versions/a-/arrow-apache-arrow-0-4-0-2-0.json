@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "git-tree": "27448e16c2b6bf34b985e37e557da7997719dd52",
+      "version": "apache-arrow-0.4.0-2",
+      "port-version": 0
+    }
+  ]
+}

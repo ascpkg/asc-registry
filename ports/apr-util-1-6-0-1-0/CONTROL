@@ -1,0 +1,4 @@
+Source: apr-util-1-6-0-1-0
+Version: 1.6.0-1
+Description: Apache Portable Runtime (APR) project  mission is to create and maintain software libraries that provide a predictable and consistent interface to underlying platform-specific implementation
+Build-Depends: expat-2-2-4-2-0, apr-1-6-2-1-0, openssl-1-0-2l-2-0

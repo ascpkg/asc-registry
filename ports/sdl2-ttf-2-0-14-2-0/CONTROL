@@ -1,0 +1,4 @@
+Source: sdl2-ttf-2-0-14-2-0
+Version: 2.0.14-2
+Description: A library for rendering TrueType fonts with SDL
+Build-Depends: sdl2-2-0-5-4-0, freetype-2-8-1-0

@@ -1,0 +1,4 @@
+Source: butteraugli-2017-09-02-8c60a2aefa19adb-1-0
+Version: 2017-09-02-8c60a2aefa19adb-1
+Description: butteraugli estimates the psychovisual difference between two images
+Build-Depends: libpng-1-6-32-1-0, libjpeg-turbo-1-5-2-1-0

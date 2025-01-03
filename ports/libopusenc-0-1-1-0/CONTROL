@@ -1,0 +1,4 @@
+Source: libopusenc-0-1-1-0
+Version: 0.1-1
+Description: Library for encoding .opus audio files and live streams.
+Build-Depends: opus-1-2-1-0

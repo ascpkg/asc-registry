@@ -1,0 +1,4 @@
+Source: libkml-1-3-0-1-0
+Version: 1.3.0-1
+Description: Reference implementation of OGC KML 2.2
+Build-Depends: zlib-1-2-11-1-0, boost-1-65-1-0, expat-2-2-4-2-0, minizip-1-2-11-2-0, uriparser-0-8-4-1-0

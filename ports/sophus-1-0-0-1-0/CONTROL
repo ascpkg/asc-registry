@@ -1,0 +1,4 @@
+Source: sophus-1-0-0-1-0
+Version: 1.0.0-1
+Build-Depends: eigen3-3-3-4-1-0, ceres-1-13-0-1-0
+Description: Lie group library for C++

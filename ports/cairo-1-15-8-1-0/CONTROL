@@ -1,0 +1,4 @@
+Source: cairo-1-15-8-1-0
+Version: 1.15.8-1
+Description: Cairo is a 2D graphics library with support for multiple output devices. Currently supported output targets include the X Window System (via both Xlib and XCB), Quartz, Win32, image buffers, PostScript, PDF, and SVG file output. Experimental backends include OpenGL, BeOS, OS/2, and DirectFB.
+Build-Depends: zlib-1-2-11-1-0, libpng-1-6-32-1-0, pixman-0-34-0-2-0, glib-2-52-3-1-0, freetype-2-8-1-0, fontconfig-2-12-4-1-0

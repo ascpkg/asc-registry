@@ -1,0 +1,4 @@
+Source: libgd-2-2-4-3-0
+Version: 2.2.4-3
+Description: Open source code library for the dynamic creation of images by programmers.
+Build-Depends: freetype-2-8-1-0, libjpeg-turbo-1-5-2-1-0, libpng-1-6-32-1-0, libwebp-0-6-0-2-0, tiff-4-0-8-1-0, fontconfig-2-12-4-1-0

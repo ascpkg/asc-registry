@@ -1,0 +1,4 @@
+Source: tiff-4-0-8-1-0
+Version: 4.0.8-1
+Build-Depends: zlib-1-2-11-1-0, libjpeg-turbo-1-5-2-1-0, liblzma-5-2-3-2-0 (windows)
+Description: A library that supports the manipulation of TIFF image files

@@ -1,0 +1,4 @@
+Source: parmetis-4-0-3-1-0
+Version: 4.0.3-1
+Description: Parallel Graph Partitioning and Fill-reducing Matrix Ordering
+Build-Depends: metis-5-1-0-1-0, msmpi-8-1-0

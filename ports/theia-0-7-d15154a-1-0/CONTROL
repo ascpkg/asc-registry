@@ -1,0 +1,4 @@
+Source: theia-0-7-d15154a-1-0
+Version: 0.7-d15154a-1
+Build-Depends: flann-1-9-1-6-0, cereal-1-2-2-1-0, ceres-1-13-0-1-0, openimageio-1-7-15-1-0, glew-2-1-0-1-0, freeglut-3-0-0-2-0
+Description: An open source library for multiview geometry and structure from motion

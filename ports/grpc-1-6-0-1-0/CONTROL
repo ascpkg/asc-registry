@@ -1,0 +1,4 @@
+Source: grpc-1-6-0-1-0
+Version: 1.6.0-1
+Build-Depends: zlib-1-2-11-1-0, openssl-1-0-2l-2-0, protobuf-3-4-0-2-0, c-ares-1-13-0-1-0
+Description: An RPC library and framework

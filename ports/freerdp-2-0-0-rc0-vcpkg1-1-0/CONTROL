@@ -1,0 +1,4 @@
+Source: freerdp-2-0-0-rc0-vcpkg1-1-0
+Version: 2.0.0-rc0~vcpkg1-1
+Description: A free implementation of the Remote Desktop Protocol (RDP)
+Build-Depends: openssl-1-0-2l-2-0
