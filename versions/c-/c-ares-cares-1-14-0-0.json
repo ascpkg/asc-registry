@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "git-tree": "697c8afedf68048b358f1cc84b3d58e05566756f",
+      "version": "cares-1_14_0",
+      "port-version": 0
+    }
+  ]
+}
