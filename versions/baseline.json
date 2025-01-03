@@ -12948,6 +12948,10 @@
       "baseline": "sept2016",
       "port-version": 0
     },
+    "uvw-1-11-2-0": {
+      "baseline": "1.11.2",
+      "port-version": 0
+    },
     "uwebsockets-0-12-0-0": {
       "baseline": "0.12.0",
       "port-version": 0
