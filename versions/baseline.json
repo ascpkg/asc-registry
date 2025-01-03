@@ -2184,6 +2184,10 @@
       "baseline": "1.0",
       "port-version": 0
     },
+    "qhull-2015-2-0": {
+      "baseline": "2015.2",
+      "port-version": 0
+    },
     "qscintilla-2-10-0": {
       "baseline": "2.10",
       "port-version": 0
