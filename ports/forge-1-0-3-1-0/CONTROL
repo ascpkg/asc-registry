@@ -1,0 +1,4 @@
+Source: forge-1-0-3-1-0
+Version: 1.0.3-1
+Description: Helps with high performance visulizations involving OpenGL-CUDA/OpenCL interop.
+Build-Depends: glfw3-3-2-1-3-0, glm-0-9-9-3-0, glbinding-3-0-2-4-0, freetype-2-8-1-4-0, boost-functional-1-69-0-0, freeimage-3-18-0-2-0, fontconfig-2-12-4-7-0 (!windows)
