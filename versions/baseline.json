@@ -344,6 +344,10 @@
       "baseline": "oct2016",
       "port-version": 0
     },
+    "dlfcn-win32-1-1-0-0": {
+      "baseline": "1.1.0",
+      "port-version": 0
+    },
     "dlib-19-2-0": {
       "baseline": "19.2",
       "port-version": 0
