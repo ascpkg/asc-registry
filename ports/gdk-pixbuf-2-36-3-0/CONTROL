@@ -1,0 +1,4 @@
+Source: gdk-pixbuf-2-36-3-0
+Version: 2.36.3
+Description: Image loading library.
+Build-Depends: gettext-0-19-0, zlib-1-2-11-0, libpng-1-6-24-1-0, glib-2-50-2-0
