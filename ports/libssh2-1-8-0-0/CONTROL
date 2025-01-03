@@ -1,0 +1,4 @@
+Source: libssh2-1-8-0-0
+Version: 1.8.0
+Build-Depends: zlib-1-2-8-0, openssl-1-0-2j-0
+Description: The SSH library
