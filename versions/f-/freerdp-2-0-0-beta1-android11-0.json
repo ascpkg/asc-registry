@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "git-tree": "070a1356c24626532588a07c761538a19617d789",
+      "version": "2.0.0-beta1+android11",
+      "port-version": 0
+    }
+  ]
+}

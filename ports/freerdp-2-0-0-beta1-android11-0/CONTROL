@@ -1,0 +1,4 @@
+Source: freerdp-2-0-0-beta1-android11-0
+Version: 2.0.0-beta1+android11
+Description: A free implementation of the Remote Desktop Protocol (RDP)
+Build-Depends: openssl-1-0-2k-2-0
