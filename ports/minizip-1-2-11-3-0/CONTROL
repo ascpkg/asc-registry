@@ -1,4 +1,4 @@
 Source: minizip-1-2-11-3-0
 Version: 1.2.11-3
 Description: Zip compression library
-Build-Depends: bzip2-1-0-6-3-0, zlib-1-2-11-3-0
+Build-Depends: bzip2-1-0-6-4-0, zlib-1-2-11-3-0
