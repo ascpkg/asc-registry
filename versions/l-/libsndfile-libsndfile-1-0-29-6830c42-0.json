@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "git-tree": "b99ff6a28a26362c00720c5b9809fa3ae2536df0",
+      "version": "libsndfile-1.0.29-6830c42",
+      "port-version": 0
+    }
+  ]
+}
