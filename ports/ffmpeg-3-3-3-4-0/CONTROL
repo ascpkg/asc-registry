@@ -13,7 +13,7 @@ Feature: ffprobe
 Description: ffprobe appplication support in ffmpeg
 
 Feature: openssl
-Build-Depends: openssl-1-0-2n-2-0, ffmpeg-3-3-3-4-0[nonfree]
+Build-Depends: openssl-1-0-2n-3-0, ffmpeg-3-3-3-4-0[nonfree]
 Description: openssl support in ffmpeg
 
 Feature: lzma
