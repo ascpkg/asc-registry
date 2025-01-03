@@ -1,3 +1,8 @@
+if(VCPKG_CMAKE_SYSTEM_NAME STREQUAL "WindowsStore")
+    include(${CMAKE_CURRENT_LIST_DIR}/portfile-uwp.cmake)
+    return()
+endif()
+
 include(vcpkg_common_functions)
 set(SOURCE_PATH ${CURRENT_BUILDTREES_DIR}/src/openssl-1.0.2j)
 vcpkg_find_acquire_program(PERL)
