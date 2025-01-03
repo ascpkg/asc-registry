@@ -2988,6 +2988,10 @@
       "baseline": "2.8.0",
       "port-version": 0
     },
+    "botan-2-9-0-0": {
+      "baseline": "2.9.0",
+      "port-version": 0
+    },
     "box2d-2-3-1-374664b-0": {
       "baseline": "2.3.1-374664b",
       "port-version": 0
@@ -3178,6 +3182,10 @@
     },
     "caf-0-15-7-0": {
       "baseline": "0.15.7",
+      "port-version": 0
+    },
+    "caf-0-16-2-0": {
+      "baseline": "0.16.2",
       "port-version": 0
     },
     "caffe2-0-8-1-0": {
@@ -3438,6 +3446,10 @@
     },
     "celero-2-4-0-0": {
       "baseline": "2.4.0",
+      "port-version": 0
+    },
+    "celero-2-4-0-1-0": {
+      "baseline": "2.4.0-1",
       "port-version": 0
     },
     "cereal-1-2-1-0": {
@@ -4578,6 +4590,10 @@
     },
     "docopt-2018-04-16-2-0": {
       "baseline": "2018-04-16-2",
+      "port-version": 0
+    },
+    "docopt-2018-11-01-0": {
+      "baseline": "2018-11-01",
       "port-version": 0
     },
     "doctest-1-1-0-0": {
@@ -6182,6 +6198,10 @@
     },
     "glbinding-3-0-2-3-0": {
       "baseline": "3.0.2-3",
+      "port-version": 0
+    },
+    "glbinding-3-0-2-4-0": {
+      "baseline": "3.0.2-4",
       "port-version": 0
     },
     "glew-1-13-0-0": {
@@ -9732,6 +9752,10 @@
       "baseline": "2.12.4-2",
       "port-version": 0
     },
+    "nanodbc-2-12-4-3-0": {
+      "baseline": "2.12.4-3",
+      "port-version": 0
+    },
     "nanomsg-1-1-2-0": {
       "baseline": "1.1.2",
       "port-version": 0
@@ -12884,6 +12908,10 @@
       "baseline": "0.3.2-2",
       "port-version": 0
     },
+    "sfgui-0-4-0-0": {
+      "baseline": "0.4.0",
+      "port-version": 0
+    },
     "sfml-2-4-1-0": {
       "baseline": "2.4.1",
       "port-version": 0
@@ -12918,6 +12946,10 @@
     },
     "sfml-2-5-1-0": {
       "baseline": "2.5.1",
+      "port-version": 0
+    },
+    "sfml-2-5-1-1-0": {
+      "baseline": "2.5.1-1",
       "port-version": 0
     },
     "shaderc-12fb656ab20ea9aa06e7084a74e5ff832b7ce2da-0": {

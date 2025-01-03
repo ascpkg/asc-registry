@@ -1,0 +1,3 @@
+Source: nanodbc-2-12-4-3-0
+Version: 2.12.4-3
+Description: A small C++ wrapper for the native C ODBC API.
