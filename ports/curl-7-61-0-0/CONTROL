@@ -20,5 +20,5 @@ Build-Depends: openssl-0-0
 Description: SSL support
 
 Feature: ssh
-Build-Depends: libssh2-1-8-0-3-0, curl-7-61-0-0[non-http]
+Build-Depends: libssh2-1-8-0-4-0, curl-7-61-0-0[non-http]
 Description: SSH support via libssh2
