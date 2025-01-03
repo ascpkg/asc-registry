@@ -1,0 +1,78 @@
+Source: opencv-3-4-3-2-0
+Version: 3.4.3-2
+Build-Depends: zlib-1-2-11-3-0
+Description: computer vision library
+Default-Features: opengl, jpeg, png, tiff, eigen, flann
+
+Feature: opengl
+Build-Depends: opengl-0-0-5-0
+Description: opengl support for opencv
+
+Feature: dnn
+Build-Depends: protobuf-3-6-1-4-0
+Description: opencv_dnn module
+
+Feature: ovis
+Build-Depends: ogre-1-10-11-0
+Description: opencv_ovis module
+
+Feature: flann
+Description: opencv_flann module
+
+Feature: sfm
+Build-Depends: eigen3-3-3-5-0, glog-0-3-5-1-0, gflags-2-2-1-3-0, ceres-1-14-0-1-0
+Description: opencv_sfm module
+
+Feature: contrib
+Build-Depends: opencv-3-4-3-2-0[flann]
+Description: opencv_contrib module
+
+Feature: cuda
+Build-Depends: cuda-9-0-0
+Description: CUDA support for opencv
+
+Feature: ffmpeg
+Description: prebuilt ffmpeg support for opencv
+
+Feature: ipp
+Description: Enable Intel Integrated Performance Primitives
+
+Feature: qt
+Build-Depends: qt5-5-11-2-0
+Description: Qt GUI support for opencv
+
+Feature: vtk
+Build-Depends: vtk-8-1-0-3-0
+Description: vtk support for opencv
+
+Feature: gdcm
+Build-Depends: gdcm2-2-8-8-0
+Description: GDCM support for opencv
+
+Feature: webp
+Build-Depends: libwebp-0-6-1-2-0
+Description: WebP support for opencv
+
+Feature: openexr
+Build-Depends: openexr-2-2-1-1-0
+Description: OpenEXR support for opencv
+
+Feature: tiff
+Build-Depends: tiff-4-0-10-0
+Description: TIFF support for opencv
+
+Feature: png
+Build-Depends: libpng-1-6-35-1-0
+Description: PNG support for opencv
+
+Feature: jpeg
+Build-Depends: libjpeg-turbo-1-5-3-1-0
+Description: JPEG support for opencv
+
+Feature: jasper
+Build-Depends: jasper-2-0-14-1-0
+Description: JPEG 2000 support for opencv
+
+Feature: eigen
+Build-Depends: eigen3-3-3-5-0
+Description: Eigen support for opencv
