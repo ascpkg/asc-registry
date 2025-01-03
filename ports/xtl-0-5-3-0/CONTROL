@@ -1,0 +1,4 @@
+Source: xtl-0-5-3-0
+Version: 0.5.3
+Build-Depends: nlohmann-json-3-5-0-0
+Description: The x template library.
