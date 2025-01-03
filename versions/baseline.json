@@ -36,6 +36,10 @@
       "baseline": "1.6.2",
       "port-version": 0
     },
+    "apr-util-1-6-0-0": {
+      "baseline": "1.6.0",
+      "port-version": 0
+    },
     "arrow-apache-arrow-0-4-0-0": {
       "baseline": "apache-arrow-0.4.0",
       "port-version": 0
