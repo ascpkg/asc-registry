@@ -280,6 +280,10 @@
       "baseline": "d8905de",
       "port-version": 0
     },
+    "argtable2-2-13-1-0": {
+      "baseline": "2.13-1",
+      "port-version": 0
+    },
     "armadillo-8-400-0-1-0": {
       "baseline": "8.400.0-1",
       "port-version": 0
