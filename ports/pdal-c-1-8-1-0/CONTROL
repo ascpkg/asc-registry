@@ -1,0 +1,4 @@
+Source: pdal-c-1-8-1-0
+Version: 1.8-1
+Description:  C API for the Point Data Abstraction Library (PDAL)
+Build-Depends: pdal-1-7-1-3-0
