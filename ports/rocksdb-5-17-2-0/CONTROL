@@ -14,3 +14,7 @@ Description: snappy support in rocksdb
 Feature: zlib
 Build-Depends: zlib-1-2-11-3-0
 Description: zlib support in rocksdb
+
+Feature: tbb
+Build-Depends: tbb-2019-U3-0
+Description: tbb support in rocksdb
