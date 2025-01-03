@@ -1,0 +1,4 @@
+Source: qt5imageformats-5-9-2-0-0
+Version: 5.9.2-0
+Description: Qt5 Image Formats Module - Plugins for additional image formats: TIFF, MNG, TGA, WBMP
+Build-Depends: qt5base-5-9-2-0-0
