@@ -1500,6 +1500,10 @@
       "baseline": "4.11-2",
       "port-version": 0
     },
+    "cgicc--0": {
+      "baseline": "",
+      "port-version": 0
+    },
     "chaiscript-6-0-0-0": {
       "baseline": "6.0.0",
       "port-version": 0
