@@ -1,0 +1,4 @@
+Source: libtheora-1-2-0alpha1-20170719-vcpkg1-0
+Version: 1.2.0alpha1-20170719~vcpkg1
+Description: Theora is a free and open video compression format from the Xiph.org Foundation.
+Build-Depends: libogg-1-3-2-0
