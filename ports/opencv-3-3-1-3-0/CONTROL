@@ -7,7 +7,7 @@ Feature: ffmpeg
 Description: prebuilt ffmpeg support for opencv
 
 Feature: vtk
-Build-Depends: vtk-8-0-0-3-0
+Build-Depends: vtk-8-0-1-0
 Description: vtk support for opencv
 
 Feature: cuda
