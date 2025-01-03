@@ -1,0 +1,4 @@
+Source: blaze-3-2-1-0
+Version: 3.2-1
+Build-Depends: boost-1-65-1-2-0, clapack-3-2-1-1-0
+Description: Blaze is an open-source, high-performance C++ math library for dense and sparse arithmetic.
