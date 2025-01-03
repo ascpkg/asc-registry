@@ -1,0 +1,88 @@
+Source: magnum-plugins-2019-01-1-0
+Version: 2019.01-1
+Build-Depends: magnum-2019-01-1-0[core]
+Description: Plugins for magnum, C++11/C++14 graphics middleware for games and data visualization http://magnum.graphics/
+Default-Features: ddsimporter, miniexrimageconverter, opengeximporter, stanfordimporter, stbimageconverter, stbimageimporter
+
+Feature: assimpimporter
+Description: AssimpImporter plugin
+Build-Depends: assimp-4-1-0-3-0, magnum-2019-01-1-0[anyimageimporter], magnum-2019-01-1-0[trade]
+
+Feature: openddl
+Description: OpenDdl library
+
+Feature: ddsimporter
+Description: DdsImporter plugin
+Build-Depends: magnum-2019-01-1-0[trade]
+
+Feature: devilimageimporter
+Description: DevIlImageImporter plugin
+Build-Depends: devil-1-8-0-3-0, magnum-2019-01-1-0[trade]
+
+Feature: drflacaudioimporter
+Description: DrFlacAudioImporter plugin
+Build-Depends: magnum-2019-01-1-0[audio]
+
+Feature: drwavaudioimporter
+Description: DrWavAudioImporter plugin
+Build-Depends: magnum-2019-01-1-0[audio]
+#
+#Feature: faad2audioimporter
+#Description: Faad2AudioImporter plugin
+#Build-Depends: magnum[audio], faad2
+
+Feature: freetypefont
+Description: FreeTypeFont plugin
+Build-Depends: freetype-2-9-1-0, magnum-2019-01-1-0[text]
+
+Feature: harfbuzzfont
+Description: HarfBuzzFont plugin
+Build-Depends: harfbuzz-1-8-4-4-0, magnum-plugins-2019-01-1-0[freetypefont]
+
+Feature: jpegimporter
+Description: JpegImporter plugin
+Build-Depends: libjpeg-turbo-1-5-3-2-0, magnum-2019-01-1-0[trade]
+
+Feature: jpegimageconverter
+Description: JpegImageConverter plugin
+Build-Depends: libjpeg-turbo-1-5-3-2-0, magnum-2019-01-1-0[trade]
+
+Feature: miniexrimageconverter
+Description: MiniExrImageConverter plugin
+Build-Depends: magnum-2019-01-1-0[trade]
+
+Feature: opengeximporter
+Description: OpenGexImporter plugin
+Build-Depends: magnum-2019-01-1-0[anyimageimporter], magnum-2019-01-1-0[trade], magnum-plugins-2019-01-1-0[openddl]
+
+Feature: pngimageconverter
+Description: PngImageConverter plugin
+Build-Depends: libpng-1-6-36-0, magnum-2019-01-1-0[trade]
+
+Feature: pngimporter
+Description: PngImporter plugin
+Build-Depends: libpng-1-6-36-0, magnum-2019-01-1-0[trade]
+
+Feature: stanfordimporter
+Description: StanfordImporter plugin
+Build-Depends: magnum-2019-01-1-0[trade]
+
+Feature: stbimageconverter
+Description: StbImageConverter plugin
+Build-Depends: magnum-2019-01-1-0[trade]
+
+Feature: stbimageimporter
+Description: StbImageImporter plugin
+Build-Depends: magnum-2019-01-1-0[trade]
+
+Feature: stbtruetypefont
+Description: StbTrueTypeFont plugin
+Build-Depends: magnum-2019-01-1-0[text]
+
+Feature: stbvorbisaudioimporter
+Description: StbVorbisAudioImporter plugin
+Build-Depends: magnum-2019-01-1-0[audio]
+
+Feature: tinygltfimporter
+Description: TinyGltfImporter plugin
+Build-Depends: magnum-2019-01-1-0[anyimageimporter], magnum-plugins-2019-01-1-0[stbimageimporter], magnum-2019-01-1-0[trade]
