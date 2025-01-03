@@ -3312,6 +3312,10 @@
       "baseline": "release_2017_10_30",
       "port-version": 0
     },
+    "halide-release-2018-02-15-0": {
+      "baseline": "release_2018_02_15",
+      "port-version": 0
+    },
     "harfbuzz-1-3-2-0": {
       "baseline": "1.3.2",
       "port-version": 0
