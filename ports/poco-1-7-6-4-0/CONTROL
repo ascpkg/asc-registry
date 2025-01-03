@@ -1,0 +1,4 @@
+Source: poco-1-7-6-4-0
+Version: 1.7.6-4
+Build-Depends: zlib-1-2-11-0, pcre-8-38-1-0, sqlite3-3-17-0-0, expat-2-1-1-0
+Description: Modern, powerful open source C++ class libraries for building network and internet-based applications that run on desktop, server, mobile and embedded systems.

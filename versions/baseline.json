@@ -1060,6 +1060,10 @@
       "baseline": "2.1.2",
       "port-version": 0
     },
+    "openjpeg-2-1-2-1-0": {
+      "baseline": "2.1.2-1",
+      "port-version": 0
+    },
     "openssl-1-0-2h-0": {
       "baseline": "1.0.2h",
       "port-version": 0
@@ -1150,6 +1154,10 @@
     },
     "poco-1-7-6-3-0": {
       "baseline": "1.7.6-3",
+      "port-version": 0
+    },
+    "poco-1-7-6-4-0": {
+      "baseline": "1.7.6-4",
       "port-version": 0
     },
     "pqp-1-3-0": {
