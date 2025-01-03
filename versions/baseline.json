@@ -13828,6 +13828,10 @@
       "baseline": "1.x-2018-07.04",
       "port-version": 0
     },
+    "spectra-0-7-0-0": {
+      "baseline": "0.7.0",
+      "port-version": 0
+    },
     "speex--0": {
       "baseline": "",
       "port-version": 0
