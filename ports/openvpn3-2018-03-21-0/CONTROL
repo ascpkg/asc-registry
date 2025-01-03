@@ -1,0 +1,4 @@
+Source: openvpn3-2018-03-21-0
+Version: 2018-03-21
+Build-Depends: asio-1-12-0-1-0, tap-windows6-9-21-2-0e30f5c-0 (windows), mbedtls-2-6-1-0
+Description: a C++ class library that implements the functionality of an OpenVPN client, and is protocol-compatible with the OpenVPN 2.x branch.

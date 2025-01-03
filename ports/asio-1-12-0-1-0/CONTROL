@@ -1,0 +1,4 @@
+Source: asio-1-12-0-1-0
+Version: 1.12.0-1
+Build-Depends: boost-config-1-66-0-0, boost-throw-exception-1-66-0-0, boost-utility-1-66-0-0, boost-date-time-1-66-0-0
+Description: Asio is a cross-platform C++ library for network and low-level I/O programming that provides developers with a consistent asynchronous model using a modern C++ approach.
