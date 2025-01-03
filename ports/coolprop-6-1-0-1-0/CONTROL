@@ -1,0 +1,4 @@
+Source: coolprop-6-1-0-1-0
+Version: 6.1.0-1
+Description: Thermophysical properties for the masses
+Build-Depends: catch-2-0-1-1-0, eigen3-3-3-4-2-0, pybind11-2-2-0-0, if97-2-1-0-0, fmt-4-0-0-1-0, rapidjson-1-1-0-0, msgpack-2-1-5-1-0, refprop-headers-2017-11-7-882aec454b2bc3d5323b8691736ff09c288f4ed6-0
