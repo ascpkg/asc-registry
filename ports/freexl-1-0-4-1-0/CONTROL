@@ -1,0 +1,5 @@
+Source: freexl-1-0-4-1-0
+Version: 1.0.4-1
+Description: FreeXL is an open source library to extract valid data from within an Excel (.xls) spreadsheet
+Build-Depends: libiconv-1-15-1-0
+
