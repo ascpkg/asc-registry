@@ -1,0 +1,4 @@
+Source: sfgui-0-3-2-1-0
+Version: 0.3.2-1
+Description: simple and fast graphical user interface library
+Build-Depends: sfml-2-4-2-2-0
