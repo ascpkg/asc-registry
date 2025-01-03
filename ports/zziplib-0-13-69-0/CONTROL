@@ -1,0 +1,4 @@
+Source: zziplib-0-13-69-0
+Version: 0.13.69
+Build-Depends: zlib-1-2-11-3-0
+Description: library providing read access on ZIP-archives
