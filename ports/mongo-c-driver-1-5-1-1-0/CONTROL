@@ -1,0 +1,4 @@
+Source: mongo-c-driver-1-5-1-1-0
+Version: 1.5.1-1
+Build-Depends: libbson-1-5-1-3-0, openssl-1-0-2k-2-0[uwp]
+Description: Client library written in C for MongoDB.
