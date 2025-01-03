@@ -1,0 +1,4 @@
+Source: azure-umqtt-c-1-1-11-2-0
+Version: 1.1.11-2
+Build-Depends: azure-c-shared-utility-1-1-11-3-0
+Description: General purpose library for communication over the mqtt protocol
