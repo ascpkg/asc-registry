@@ -1,0 +1,5 @@
+include(vcpkg_common_functions)
+
+include(${CURRENT_INSTALLED_DIR}/share/qt5modularscripts/qt_modular_library.cmake)
+
+qt_modular_library(qtsvg 2e9b126e72335b4b39296d033c6ea8761739148b812841797e1678135eaad944a5e4073010b5dbfb17708bd8fc8de0dd6b2b092330176b3b29c7637357353e39)
