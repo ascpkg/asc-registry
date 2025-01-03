@@ -1,0 +1,4 @@
+Source: proj-0-0
+Version: 0
+Description: a stub package that pulls in proj4. Do not depend on this package.
+Build-Depends: proj4-4-9-3-1-0
