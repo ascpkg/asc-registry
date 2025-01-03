@@ -14344,6 +14344,10 @@
       "baseline": "1.0.0-2",
       "port-version": 0
     },
+    "urdfdom-headers-1-0-2-0": {
+      "baseline": "1.0.2",
+      "port-version": 0
+    },
     "urdfdom_headers-1-0-0-1-0": {
       "baseline": "1.0.0-1",
       "port-version": 0
