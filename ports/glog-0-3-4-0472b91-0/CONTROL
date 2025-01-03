@@ -1,0 +1,4 @@
+Source: glog-0-3-4-0472b91-0
+Version: 0.3.4-0472b91
+Description: C++ implementation of the Google logging module
+Build-Depends: gflags-2-1-2-0
