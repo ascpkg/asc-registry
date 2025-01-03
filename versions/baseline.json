@@ -6188,6 +6188,10 @@
       "baseline": "3.22.19-1",
       "port-version": 0
     },
+    "gtk-3-22-19-2-0": {
+      "baseline": "3.22.19-2",
+      "port-version": 0
+    },
     "gtk-3-22-8-0": {
       "baseline": "3.22.8",
       "port-version": 0
