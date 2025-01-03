@@ -1,0 +1,4 @@
+Source: readosm-1-1-0-0
+Version: 1.1.0
+Description: ReadOSM is an open source library to extract valid data from within an Open Street Map input file (.osm or .osm.pbf)
+Build-Depends: expat-2-2-4-2-0, zlib-1-2-11-2-0
