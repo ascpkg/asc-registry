@@ -1,6 +1,11 @@
 {
   "versions": [
     {
+      "git-tree": "HEAD:ports/cppwinrt-fall-2017-creators-update-for-vs-15-3-0",
+      "version": "fall_2017_creators_update_for_vs_15.3",
+      "port-version": 0
+    },
+    {
       "git-tree": "42b39600fff92ebb5d4b7455d3e1450e2180b7c2",
       "version": "Fall_2017_Creators_Update_for_VS_15.3",
       "port-version": 0
