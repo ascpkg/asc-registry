@@ -1,0 +1,4 @@
+Source: bitserializer-0-7-0
+Version: 0.7
+Build-Depends: cpprestsdk-2-10-2-0
+Description: The library for simple serialization of arbitrary C++ types to various output formats (currently just supported JSON based on CppRestSDK).
