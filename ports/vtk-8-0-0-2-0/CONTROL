@@ -1,0 +1,4 @@
+Source: vtk-8-0-0-2-0
+Version: 8.0.0-2
+Description: Software system for 3D computer graphics, image processing, and visualization
+Build-Depends: zlib-1-2-11-0, libpng-1-6-32-0, tiff-4-0-8-0, libxml2-2-9-4-1-0, jsoncpp-1-8-1-0, glew-2-1-0-0, freetype-2-8-0, expat-2-2-4-1-0, hdf5-1-10-0-patch1-1-0, qt5-5-8-4-0, msmpi-8-1-0, libjpeg-turbo-1-5-2-0, proj-4-9-3-0, lz4-1-8-0-0, libtheora-1-2-0alpha1-20170719-vcpkg1-0, libharu-2017-08-15-d84867ebf9f-1-0
