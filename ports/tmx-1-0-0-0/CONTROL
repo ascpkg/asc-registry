@@ -1,0 +1,4 @@
+Source: tmx-1-0-0-0
+Version: 1.0.0
+Description: A portable C library to load tiled maps in your games.
+Build-Depends: zlib-1-2-11-3-0, libxml2-2-9-4-5-0
