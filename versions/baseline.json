@@ -2488,6 +2488,10 @@
       "baseline": "20170730_git-2",
       "port-version": 0
     },
+    "gainput-1-0-0-0": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
     "gdal-1-11-3-0": {
       "baseline": "1.11.3",
       "port-version": 0
