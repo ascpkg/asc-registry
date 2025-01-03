@@ -3884,6 +3884,10 @@
       "baseline": "20171104-d10ebc6555b627c9d1196076a78467e7be505987",
       "port-version": 0
     },
+    "ms-gsl-20171204-9d65e74400976b3509833f49b16d401600c7317d-0": {
+      "baseline": "20171204-9d65e74400976b3509833f49b16d401600c7317d",
+      "port-version": 0
+    },
     "msgpack-2-1-1-0": {
       "baseline": "2.1.1",
       "port-version": 0
