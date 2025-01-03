@@ -46,7 +46,7 @@ Build-Depends: vtk-8-1-0-3-0
 Description: vtk support for opencv
 
 Feature: gdcm
-Build-Depends: gdcm2-2-8-8-0
+Build-Depends: gdcm2-2-8-8-2-0
 Description: GDCM support for opencv
 
 Feature: webp
