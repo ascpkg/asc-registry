@@ -3224,6 +3224,10 @@
       "baseline": "2.1.0",
       "port-version": 0
     },
+    "cxxopts-2-1-0-1-0": {
+      "baseline": "2.1.0-1",
+      "port-version": 0
+    },
     "date-2-2-0": {
       "baseline": "2.2",
       "port-version": 0
