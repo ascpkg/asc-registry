@@ -1,0 +1,4 @@
+Source: assimp-3-2-1-0
+Version: 3.2.1
+Description: The Open Asset import library
+Build-Depends: zlib-1-2-8-0
