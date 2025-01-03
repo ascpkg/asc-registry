@@ -8328,6 +8328,10 @@
       "baseline": "3.6.2-rc3",
       "port-version": 0
     },
+    "osg-qt-3-5-7-0": {
+      "baseline": "3.5.7",
+      "port-version": 0
+    },
     "osgearth-2-9-0": {
       "baseline": "2.9",
       "port-version": 0
