@@ -9824,6 +9824,10 @@
       "baseline": "3.2",
       "port-version": 0
     },
+    "sqlite-modern-cpp-3-2-e2248fa-0": {
+      "baseline": "3.2-e2248fa",
+      "port-version": 0
+    },
     "sqlite-orm-1-1-0": {
       "baseline": "1.1",
       "port-version": 0
