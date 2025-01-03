@@ -1,3 +1,4 @@
 Source: libass-0-14-0-0
 Version: 0.14.0
+Build-Depends: freetype-2-8-1-4-0, fribidi-1-0-5-0, harfbuzz-1-8-4-3-0, dirent-1-23-1-0 (windows)
 Description: libass is a portable subtitle renderer for the ASS/SSA (Advanced Substation Alpha/Substation Alpha) subtitle format.
