@@ -1600,6 +1600,10 @@
       "baseline": "jun2017-2",
       "port-version": 0
     },
+    "magnum-jun2017-3-0": {
+      "baseline": "jun2017-3",
+      "port-version": 0
+    },
     "magnum-plugins-jun2017-0": {
       "baseline": "jun2017",
       "port-version": 0
