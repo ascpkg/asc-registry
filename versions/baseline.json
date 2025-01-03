@@ -1176,6 +1176,10 @@
       "baseline": "2.09",
       "port-version": 0
     },
+    "mdnsresponder-765-30-11-0": {
+      "baseline": "765.30.11",
+      "port-version": 0
+    },
     "metis-5-1-0-0": {
       "baseline": "5.1.0",
       "port-version": 0
