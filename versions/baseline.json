@@ -5088,6 +5088,10 @@
       "baseline": "3.0.0-4",
       "port-version": 0
     },
+    "freeglut-3-0-0-5-0": {
+      "baseline": "3.0.0-5",
+      "port-version": 0
+    },
     "freeimage-3-17-0-0": {
       "baseline": "3.17.0",
       "port-version": 0
