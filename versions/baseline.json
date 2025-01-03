@@ -1800,6 +1800,10 @@
       "baseline": "dec2016",
       "port-version": 0
     },
+    "directxtex-dec2017-0": {
+      "baseline": "dec2017",
+      "port-version": 0
+    },
     "directxtk-dec2016-0": {
       "baseline": "dec2016",
       "port-version": 0
