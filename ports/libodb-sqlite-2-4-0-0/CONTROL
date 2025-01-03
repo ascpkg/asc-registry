@@ -1,0 +1,4 @@
+Source: libodb-sqlite-2-4-0-0
+Version: 2.4.0
+Description: Sqlite support for the ODB ORM library
+Build-Depends: libodb-2-4-0-0, sqlite3-3-15-0-0
