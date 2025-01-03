@@ -3520,6 +3520,10 @@
       "baseline": "0.19-2",
       "port-version": 0
     },
+    "gettext-0-19-4-0": {
+      "baseline": "0.19-4",
+      "port-version": 0
+    },
     "gettimeofday-2017-10-14-1-0": {
       "baseline": "2017-10-14-1",
       "port-version": 0
