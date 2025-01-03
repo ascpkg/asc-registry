@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "git-tree": "9563fa5d69b9076f000eba8c0a7fa01cf17d212a",
+      "version": "Speex-1.2.0",
+      "port-version": 0
+    }
+  ]
+}
