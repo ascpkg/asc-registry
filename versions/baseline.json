@@ -1260,6 +1260,10 @@
       "baseline": "374664b",
       "port-version": 0
     },
+    "breakpad-2018-02-25-0": {
+      "baseline": "2018-02-25",
+      "port-version": 0
+    },
     "breakpad-2018-2-19-0": {
       "baseline": "2018-2-19",
       "port-version": 0
@@ -1314,6 +1318,10 @@
     },
     "butteraugli-2017-09-02-8c60a2aefa19adb-1-0": {
       "baseline": "2017-09-02-8c60a2aefa19adb-1",
+      "port-version": 0
+    },
+    "butteraugli-2018-02-25-0": {
+      "baseline": "2018-02-25",
       "port-version": 0
     },
     "bzip2-1-0-6-0": {
@@ -1504,6 +1512,10 @@
       "baseline": "2.1",
       "port-version": 0
     },
+    "cctz-2-2-0": {
+      "baseline": "2.2",
+      "port-version": 0
+    },
     "cctz-v2-1-0": {
       "baseline": "v2.1",
       "port-version": 0
@@ -1636,6 +1648,10 @@
       "baseline": "1.7.4-1",
       "port-version": 0
     },
+    "chakracore-1-8-1-0": {
+      "baseline": "1.8.1",
+      "port-version": 0
+    },
     "charls-2-0-0-0": {
       "baseline": "2.0.0",
       "port-version": 0
@@ -1674,6 +1690,10 @@
     },
     "clara-2017-07-20-9661f2b4a50895d52ebb4c59382785a2b416c310-0": {
       "baseline": "2017-07-20-9661f2b4a50895d52ebb4c59382785a2b416c310",
+      "port-version": 0
+    },
+    "clara-2018-02-25-0": {
+      "baseline": "2018-02-25",
       "port-version": 0
     },
     "clockutils-1-1-1-0": {
@@ -2016,6 +2036,10 @@
       "baseline": "dec2017",
       "port-version": 0
     },
+    "directxmesh-feb2018-0": {
+      "baseline": "feb2018",
+      "port-version": 0
+    },
     "directxmesh-oct2016-0": {
       "baseline": "oct2016",
       "port-version": 0
@@ -2028,6 +2052,10 @@
       "baseline": "dec2017",
       "port-version": 0
     },
+    "directxtex-feb2018b-0": {
+      "baseline": "feb2018b",
+      "port-version": 0
+    },
     "directxtk-dec2016-0": {
       "baseline": "dec2016",
       "port-version": 0
@@ -2038,6 +2066,10 @@
     },
     "directxtk-dec2017-0": {
       "baseline": "dec2017",
+      "port-version": 0
+    },
+    "directxtk-feb2018-0": {
+      "baseline": "feb2018",
       "port-version": 0
     },
     "directxtk-oct2016-0": {
@@ -2348,6 +2380,10 @@
       "baseline": "0.6.1-1",
       "port-version": 0
     },
+    "exiv2-2018-02-25-0": {
+      "baseline": "2018-02-25",
+      "port-version": 0
+    },
     "exiv2-327b3f6c4de4ffda82818367fc870640d2ae8820-0": {
       "baseline": "327b3f6c4de4ffda82818367fc870640d2ae8820",
       "port-version": 0
@@ -2426,6 +2462,10 @@
     },
     "fdk-aac-2017-11-02-1e351-0": {
       "baseline": "2017-11-02-1e351",
+      "port-version": 0
+    },
+    "fdk-aac-2018-02-25-0": {
+      "baseline": "2018-02-25",
       "port-version": 0
     },
     "ffmpeg-3-2-4-0": {
@@ -2774,6 +2814,10 @@
     },
     "freetype-gl-2017-10-9-82fb152a74f01b1483ac80d15935fbdfaf3ed836-0": {
       "baseline": "2017-10-9-82fb152a74f01b1483ac80d15935fbdfaf3ed836",
+      "port-version": 0
+    },
+    "freetype-gl-2018-02-25-0": {
+      "baseline": "2018-02-25",
       "port-version": 0
     },
     "freexl-1-0-4-0": {
@@ -3154,6 +3198,10 @@
     },
     "glslang-1c573fbcfba6b3d631008b1babc838501ca925d3-2-0": {
       "baseline": "1c573fbcfba6b3d631008b1babc838501ca925d3-2",
+      "port-version": 0
+    },
+    "glslang-2018-02-25-0": {
+      "baseline": "2018-02-25",
       "port-version": 0
     },
     "glslang-3a21c880500eac21cdf79bef5b80f970a55ac6af-0": {
@@ -3682,6 +3730,10 @@
     },
     "jsonnet-2017-09-02-11cf9fa9f2fe8acbb14b096316006082564ca580-0": {
       "baseline": "2017-09-02-11cf9fa9f2fe8acbb14b096316006082564ca580",
+      "port-version": 0
+    },
+    "jsonnet-2018-02-25-0": {
+      "baseline": "2018-02-25",
       "port-version": 0
     },
     "jxrlib-1-1-0": {
@@ -4816,6 +4868,10 @@
       "baseline": "2017-09-01-8a0f16afe74a6a-1",
       "port-version": 0
     },
+    "lodepng-2018-02-25-0": {
+      "baseline": "2018-02-25",
+      "port-version": 0
+    },
     "log4cplus-1-1-3-RC7-0": {
       "baseline": "1.1.3-RC7",
       "port-version": 0
@@ -4902,6 +4958,10 @@
     },
     "luasocket-2017-05-25-5a17f79b0301f0a1b4c7f1c73388757a7e2ed309-0": {
       "baseline": "2017.05.25.5a17f79b0301f0a1b4c7f1c73388757a7e2ed309",
+      "port-version": 0
+    },
+    "luasocket-2018-02-25-0": {
+      "baseline": "2018-02-25",
       "port-version": 0
     },
     "lz4-1-7-4-2-0": {
@@ -5248,6 +5308,10 @@
       "baseline": "20171204-9d65e74400976b3509833f49b16d401600c7317d",
       "port-version": 0
     },
+    "ms-gsl-2018-02-25-0": {
+      "baseline": "2018-02-25",
+      "port-version": 0
+    },
     "msgpack-2-1-1-0": {
       "baseline": "2.1.1",
       "port-version": 0
@@ -5262,6 +5326,10 @@
     },
     "msinttypes-2017-06-26-f9e7c5758ed9e3b9f4b2394de1881c704dd79de0-0": {
       "baseline": "2017-06-26-f9e7c5758ed9e3b9f4b2394de1881c704dd79de0",
+      "port-version": 0
+    },
+    "msinttypes-2018-02-25-0": {
+      "baseline": "2018-02-25",
       "port-version": 0
     },
     "msmpi-7-1-0": {
@@ -5390,6 +5458,10 @@
     },
     "nuklear-2017-06-15-5c7194c2fe2c68c1a8212712c0b4b6195382d27d-0": {
       "baseline": "2017-06-15-5c7194c2fe2c68c1a8212712c0b4b6195382d27d",
+      "port-version": 0
+    },
+    "nuklear-2018-02-25-0": {
+      "baseline": "2018-02-25",
       "port-version": 0
     },
     "octomap-cefed0c1d79afafa5aeb05273cf1246b093b771c-1-0": {
@@ -6032,12 +6104,20 @@
       "baseline": "2017-09-01-c5ff159b6",
       "port-version": 0
     },
+    "picosha2-2018-02-25-0": {
+      "baseline": "2018-02-25",
+      "port-version": 0
+    },
     "piex-2017-09-01-473434f2dd974978b-0": {
       "baseline": "2017-09-01-473434f2dd974978b",
       "port-version": 0
     },
     "piex-2017-09-01-473434f2dd974978b-1-0": {
       "baseline": "2017-09-01-473434f2dd974978b-1",
+      "port-version": 0
+    },
+    "piex-2018-02-25-0": {
+      "baseline": "2018-02-25",
       "port-version": 0
     },
     "pixman-0-34-0-0": {
@@ -6704,6 +6784,10 @@
       "baseline": "2017-12-01-1",
       "port-version": 0
     },
+    "re2-2018-02-25-0": {
+      "baseline": "2018-02-25",
+      "port-version": 0
+    },
     "readosm-1-1-0-0": {
       "baseline": "1.1.0",
       "port-version": 0
@@ -6778,6 +6862,10 @@
     },
     "rpclib-2-2-0-0": {
       "baseline": "2.2.0",
+      "port-version": 0
+    },
+    "rs-core-lib-2018-02-25-0": {
+      "baseline": "2018-02-25",
       "port-version": 0
     },
     "rs-core-lib-commit-1ed2dadbda3977b13e5e83cc1f3eeca76b36ebe5-0": {
@@ -7568,6 +7656,10 @@
       "baseline": "20172805-72ca60debae1d9fb35d9f0085118873669006d7f-2",
       "port-version": 0
     },
+    "thrift-2018-02-25-0": {
+      "baseline": "2018-02-25",
+      "port-version": 0
+    },
     "thrift-latest-0": {
       "baseline": "latest",
       "port-version": 0
@@ -7622,6 +7714,10 @@
     },
     "tiny-dnn-2017-10-09-dd906fed8c8aff8dc837657c42f9d55f8b793b0e-0": {
       "baseline": "2017-10-09-dd906fed8c8aff8dc837657c42f9d55f8b793b0e",
+      "port-version": 0
+    },
+    "tiny-dnn-2018-02-25-0": {
+      "baseline": "2018-02-25",
       "port-version": 0
     },
     "tinydir-1-2-3-0": {
@@ -7702,6 +7798,14 @@
     },
     "unicorn-2017-12-06-bc34c36eaeca0f4fc672015d24ce3efbcc81d6e4-1-0": {
       "baseline": "2017-12-06-bc34c36eaeca0f4fc672015d24ce3efbcc81d6e4-1",
+      "port-version": 0
+    },
+    "unicorn-2018-02-25-0": {
+      "baseline": "2018-02-25",
+      "port-version": 0
+    },
+    "unicorn-lib-2018-02-25-0": {
+      "baseline": "2018-02-25",
       "port-version": 0
     },
     "unicorn-lib-commit-3ffa7fe69a1d0c37fb52a4af61380c5fd84fa5aa-0": {
