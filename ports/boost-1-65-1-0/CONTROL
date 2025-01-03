@@ -1,4 +1,4 @@
 Source: boost-1-65-1-0
-Version: 1.65-1
+Version: 1.65.1
 Description: Peer-reviewed portable C++ source libraries
-Build-Depends: zlib-1-2-11-0, bzip2-1-0-6-1-0, icu-59-1-1-0[windows], python3-3-6-1-0[windows]
+Build-Depends: zlib-1-2-11-1-0, bzip2-1-0-6-2-0
