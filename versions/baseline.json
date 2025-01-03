@@ -8,6 +8,10 @@
       "baseline": "2017-10-14",
       "port-version": 0
     },
+    "abseil-2017-11-10-0": {
+      "baseline": "2017-11-10",
+      "port-version": 0
+    },
     "ace-6-4-0-0": {
       "baseline": "6.4.0",
       "port-version": 0
