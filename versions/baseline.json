@@ -4536,7 +4536,15 @@
       "baseline": "5.8-6",
       "port-version": 0
     },
+    "qt53d-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
     "qt5base-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5charts-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
     },
@@ -4552,7 +4560,15 @@
       "baseline": "5.9.2-0",
       "port-version": 0
     },
+    "qt5serial-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
     "qt5speech-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5svg-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
     },
