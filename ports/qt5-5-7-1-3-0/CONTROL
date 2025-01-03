@@ -1,0 +1,4 @@
+Source: qt5-5-7-1-3-0
+Version: 5.7.1-3
+Description: Qt5 application framework main components. Webengine, examples and tests not included.
+Build-Depends: sqlite3-3-17-0-0, libpq-9-6-1-0, double-conversion-2-0-1-0
