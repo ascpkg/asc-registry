@@ -1680,6 +1680,10 @@
       "baseline": "",
       "port-version": 0
     },
+    "freetype-gl-2017-10-9-82fb152a74f01b1483ac80d15935fbdfaf3ed836-0": {
+      "baseline": "2017-10-9-82fb152a74f01b1483ac80d15935fbdfaf3ed836",
+      "port-version": 0
+    },
     "freexl-1-0-4-0": {
       "baseline": "1.0.4",
       "port-version": 0

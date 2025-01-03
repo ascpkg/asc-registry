@@ -1,0 +1,4 @@
+Source: freetype-gl-2017-10-9-82fb152a74f01b1483ac80d15935fbdfaf3ed836-0
+Version: 2017-10-9-82fb152a74f01b1483ac80d15935fbdfaf3ed836
+Description: OpenGL text using one vertex buffer, one texture and FreeType
+Build-Depends: glew-2-1-0-1-0, freetype-2-8-1-0
