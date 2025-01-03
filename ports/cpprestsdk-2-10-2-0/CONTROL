@@ -1,0 +1,5 @@
+Source: cpprestsdk-2-10-2-0
+Version: 2.10.2
+Build-Depends: zlib-1-2-11-3-0, openssl-1-0-2n-2-0 (windows), boost-system-1-66-0-0 (windows), boost-date-time-1-66-0-0 (windows), boost-regex-1-66-0-0 (windows), websocketpp-0-7-0-1-0 (windows)
+Description: C++11 JSON, REST, and OAuth library
+  The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
