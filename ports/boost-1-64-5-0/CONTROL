@@ -1,0 +1,4 @@
+Source: boost-1-64-5-0
+Version: 1.64-5
+Description: Peer-reviewed portable C++ source libraries
+Build-Depends: zlib-1-2-11-0, bzip2-1-0-6-1-0
