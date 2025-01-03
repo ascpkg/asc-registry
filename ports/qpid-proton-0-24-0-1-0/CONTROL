@@ -1,0 +1,4 @@
+Source: qpid-proton-0-24-0-1-0
+Version: 0.24.0-1
+Build-Depends: openssl-0-0, libuv-1-25-0-0 (osx)
+Description: Qpid Proton is a high-performance, lightweight messaging library.
