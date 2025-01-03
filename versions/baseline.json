@@ -1,5 +1,9 @@
 {
   "default": {
+    "abseil-2017-09-28-0": {
+      "baseline": "2017-09-28",
+      "port-version": 0
+    },
     "ace-6-4-0-0": {
       "baseline": "6.4.0",
       "port-version": 0
