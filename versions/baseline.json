@@ -2960,6 +2960,10 @@
       "baseline": "0.39.0",
       "port-version": 0
     },
+    "libmspack-0-6-0": {
+      "baseline": "0.6",
+      "port-version": 0
+    },
     "libmysql-5-7-16-0": {
       "baseline": "5.7.16",
       "port-version": 0
