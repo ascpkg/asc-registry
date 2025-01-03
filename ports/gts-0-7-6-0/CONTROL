@@ -1,0 +1,4 @@
+Source: gts-0-7-6-0
+Version: 0.7.6
+Description: A Library intended to provide a set of useful functions to deal with 3D surfaces meshed with interconnected triangles
+Build-Depends: glib-2-52-3-1-0
