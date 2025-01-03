@@ -1,0 +1,4 @@
+Source: openimageio-1-8-10-0
+Version: 1.8.10
+Description: A library for reading and writing images, and a bunch of related classes, utilities, and application
+Build-Depends: libjpeg-turbo-1-5-3-1-0, tiff-4-0-9-0, libpng-1-6-34-3-0, openexr-2-2-1-1-0, boost-thread-1-66-0-0, boost-smart-ptr-1-66-0-0, boost-foreach-1-66-0-0, boost-regex-1-66-0-0, boost-type-traits-1-66-0-0, boost-static-assert-1-66-0-0, boost-unordered-1-66-0-0, boost-config-1-66-0-0, boost-algorithm-1-66-0-0, boost-filesystem-1-66-0-0, boost-system-1-66-0-0, boost-thread-1-66-0-0, boost-asio-1-66-0-1-0, boost-random-1-66-0-0
