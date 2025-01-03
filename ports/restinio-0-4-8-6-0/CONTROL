@@ -1,0 +1,4 @@
+Source: restinio-0-4-8-6-0
+Version: 0.4.8.6
+Description: A header-only C++14 library that gives you an embedded HTTP/Websocket server targeted primarily for asynchronous processing of HTTP-requests.
+Build-Depends: asio-1-12-2-0, fmt-5-3-0-0, http-parser-2-8-1-0
