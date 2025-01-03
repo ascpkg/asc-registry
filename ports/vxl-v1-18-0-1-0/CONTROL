@@ -1,0 +1,5 @@
+Source: vxl-v1-18-0-1-0
+Version: v1.18.0-1
+Build-Depends: bzip2-1-0-6-3-0, libgeotiff-1-4-2-6-0, libjpeg-turbo-1-5-3-1-0, libpng-1-6-35-1-0, tiff-4-0-9-6-0, zlib-1-2-11-3-0, expat-2-2-6-0, shapelib-1-4-1-1-0
+# Build-Depends: bzip2, dcmtk, libgeotiff, libjpeg-turbo, openjpeg, libpng, tiff, zlib
+Description: A multi-platform collection of C++ software libraries for Computer Vision and Image Understanding.
