@@ -1,0 +1,4 @@
+Source: freetype-gl--0
+Version:
+Description:
+Build-Depends: glew-2-1-0-1-0, freetype-2-8-1-0
