@@ -4292,6 +4292,10 @@
       "baseline": "5.0.0-3",
       "port-version": 0
     },
+    "llvm-5-0-0-4-0": {
+      "baseline": "5.0.0-4",
+      "port-version": 0
+    },
     "lmdb-0-9-18-1-0": {
       "baseline": "0.9.18-1",
       "port-version": 0
