@@ -800,6 +800,10 @@
       "baseline": "5.7.1-2",
       "port-version": 0
     },
+    "qwt-6-1-3-0": {
+      "baseline": "6.1.3",
+      "port-version": 0
+    },
     "ragel--0": {
       "baseline": "",
       "port-version": 0
