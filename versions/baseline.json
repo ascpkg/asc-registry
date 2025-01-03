@@ -2092,6 +2092,10 @@
       "baseline": "7.58.0-5",
       "port-version": 0
     },
+    "curl-7-59-0-0": {
+      "baseline": "7.59.0",
+      "port-version": 0
+    },
     "cxxopts-1-3-0-0": {
       "baseline": "1.3.0",
       "port-version": 0
