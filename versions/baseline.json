@@ -2344,6 +2344,10 @@
       "baseline": "0.24.0",
       "port-version": 0
     },
+    "gsl-lite-0-26-0-0": {
+      "baseline": "0.26.0",
+      "port-version": 0
+    },
     "gtest-1-8-0": {
       "baseline": "1.8",
       "port-version": 0
