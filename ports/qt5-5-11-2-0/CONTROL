@@ -1,0 +1,4 @@
+Source: qt5-5-11-2-0
+Version: 5.11.2
+Description: Qt5 Application Framework
+Build-Depends: qt5-base-5-11-2-1-0, qt5-charts-5-11-2-0, qt5-datavis3d-5-11-2-0, qt5-declarative-5-11-2-0, qt5-gamepad-5-11-2-0, qt5-graphicaleffects-5-11-2-0, qt5-imageformats-5-11-2-0, qt5-multimedia-5-11-2-0, qt5-networkauth-5-11-2-0, qt5-quickcontrols-5-11-2-0, qt5-quickcontrols2-5-11-2-0, qt5-scxml-5-11-2-0, qt5-serialport-5-11-2-0, qt5-speech-5-11-2-0, qt5-svg-5-11-2-0, qt5-tools-5-11-2-0, qt5-virtualkeyboard-5-11-2-0, qt5-websockets-5-11-2-0, qt5-3d-5-11-2-0, qt5-winextras-5-11-2-0, qt5-xmlpatterns-5-11-2-0

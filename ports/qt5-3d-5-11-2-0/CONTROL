@@ -1,0 +1,4 @@
+Source: qt5-3d-5-11-2-0
+Version: 5.11.2
+Description: Qt5 3d Module - Functionality for near-realtime simulation systems with support for 2D and 3D rendering
+Build-Depends: qt5-modularscripts-2018-11-01-1-0, qt5-base-5-11-2-1-0, qt5-declarative-5-11-2-0
