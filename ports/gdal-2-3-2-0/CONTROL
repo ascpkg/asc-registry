@@ -1,7 +1,7 @@
 Source: gdal-2-3-2-0
 Version: 2.3.2
 Description: The Geographic Data Abstraction Library for reading and writing geospatial raster and vector data.
-Build-Depends: proj-0-0, libpng-1-6-35-0, geos-3-6-2-3-0, sqlite3-3-24-0-1-0, curl-7-61-1-1-0, expat-2-2-6-0, libpq-9-6-1-4-0, openjpeg-2-3-0-0, libwebp-0-6-1-2-0, libxml2-2-9-4-5-0, liblzma-5-2-4-0
+Build-Depends: proj-0-0, libpng-1-6-35-0, geos-3-6-3-2-0, sqlite3-3-24-0-2-0, curl-7-61-1-1-0, expat-2-2-6-0, libpq-9-6-1-4-0, openjpeg-2-3-0-0, libwebp-0-6-1-2-0, libxml2-2-9-4-5-0, liblzma-5-2-4-0
 Default-Features: mysql-libmysql
 
 Feature: mysql-libmysql
@@ -9,5 +9,5 @@ Build-Depends: libmysql-8-0-4-3-0
 Description: Add mysql support using libmysql
 
 Feature: mysql-libmariadb
-Build-Depends: libmariadb-3-0-2-0
+Build-Depends: libmariadb-3-0-2-1-0
 Description: Add mysql support using libmariadb
