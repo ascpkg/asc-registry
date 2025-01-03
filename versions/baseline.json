@@ -14404,6 +14404,10 @@
       "baseline": "1.0.2-2",
       "port-version": 0
     },
+    "tinyexif-1-0-2-4-0": {
+      "baseline": "1.0.2-4",
+      "port-version": 0
+    },
     "tinyexr-0-9-5-d16ea6-0": {
       "baseline": "0.9.5-d16ea6",
       "port-version": 0
