@@ -1,4 +1,4 @@
 Source: hdf5-1-8-18-0
 Version: 1.8.18
 Description: HDF5 is a data model, library, and file format for storing and managing data
-Build-Depends: zlib-1-2-10-0, szip, msmpi
+Build-Depends: zlib-1-2-11-0, szip-2-1-0, msmpi-8-0-0
