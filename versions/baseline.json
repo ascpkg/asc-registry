@@ -236,6 +236,10 @@
       "baseline": "0.46~alpha-3",
       "port-version": 0
     },
+    "aubio-0-46-alpha-4-0": {
+      "baseline": "0.46~alpha-4",
+      "port-version": 0
+    },
     "aurora-2017-06-21-c75699d2a8caa726260c29b6d7a0fd35f8f28933-0": {
       "baseline": "2017-06-21-c75699d2a8caa726260c29b6d7a0fd35f8f28933",
       "port-version": 0
