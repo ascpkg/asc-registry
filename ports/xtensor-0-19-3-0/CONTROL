@@ -1,0 +1,12 @@
+Source: xtensor-0-19-3-0
+Version: 0.19.3
+Description: C++ tensors with broadcasting and lazy computing
+Build-Depends: nlohmann-json-3-5-0-5-0, xtl-0-5-4-0
+
+Feature: xsimd
+Description: xtensor with xsimd support
+Build-Depends: xsimd-7-1-3-0
+
+Feature: tbb
+Description: xtensor with tbb support
+Build-Depends: tbb-2019-U3-0
