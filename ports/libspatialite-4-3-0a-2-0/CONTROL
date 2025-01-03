@@ -1,5 +1,5 @@
 Source: libspatialite-4-3-0a-2-0
 Version: 4.3.0a-2
 Description: SpatiaLite is an open source library intended to extend the SQLite core to support fully fledged Spatial SQL capabilities.
-Build-Depends: libxml2-2-9-4-4-0, sqlite3-3-21-0-1-0, geos-3-6-2-2-0, proj4-4-9-3-1-0, zlib-1-2-11-3-0, freexl-1-0-4-1-0, libiconv-1-15-2-0
+Build-Depends: libxml2-2-9-4-5-0, sqlite3-3-23-1-1-0, geos-3-6-2-3-0, proj4-4-9-3-1-0, zlib-1-2-11-3-0, freexl-1-0-4-1-0, libiconv-1-15-4-0
 

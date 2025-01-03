@@ -1,4 +1,4 @@
 Source: spatialite-tools-4-3-0-1-0
 Version: 4.3.0-1
 Description: Contains spatialite.exe and other command line tools to work with SpatiaLite databases (import, export, SQL queries)
-Build-Depends: sqlite3-3-21-0-0, libspatialite-4-3-0a-1-0, geos-3-6-2-2-0, readosm-1-1-0-0, proj4-4-9-3-1-0, zlib-1-2-11-3-0, libiconv-1-15-1-0, expat-2-2-5-0
+Build-Depends: sqlite3-3-23-1-1-0, libspatialite-4-3-0a-2-0, geos-3-6-2-3-0, readosm-1-1-0-1-0, proj4-4-9-3-1-0, zlib-1-2-11-3-0, libiconv-1-15-4-0, expat-2-2-5-0
