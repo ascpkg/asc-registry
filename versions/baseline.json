@@ -344,6 +344,10 @@
       "baseline": "3.0.2",
       "port-version": 0
     },
+    "qt5-5-7-0": {
+      "baseline": "5.7",
+      "port-version": 0
+    },
     "ragel--0": {
       "baseline": "",
       "port-version": 0
