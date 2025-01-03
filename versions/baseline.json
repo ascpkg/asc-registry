@@ -2548,6 +2548,10 @@
       "baseline": "",
       "port-version": 0
     },
+    "thor-v2-0-0": {
+      "baseline": "v2.0",
+      "port-version": 0
+    },
     "thrift-0-10-0-0": {
       "baseline": "0.10.0",
       "port-version": 0
