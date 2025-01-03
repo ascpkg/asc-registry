@@ -19,5 +19,5 @@ Build-Depends: qt5-5-8-6-0
 Description: Qt GUI support for opencv
 
 Feature: vtk
-Build-Depends: vtk-8-0-1-0
+Build-Depends: vtk-8-0-1-1-0
 Description: vtk support for opencv
