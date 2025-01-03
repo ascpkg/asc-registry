@@ -6500,6 +6500,10 @@
       "baseline": "3120200",
       "port-version": 0
     },
+    "sqlitecpp-2-2-0": {
+      "baseline": "2.2",
+      "port-version": 0
+    },
     "stb-1-0-0": {
       "baseline": "1.0",
       "port-version": 0
