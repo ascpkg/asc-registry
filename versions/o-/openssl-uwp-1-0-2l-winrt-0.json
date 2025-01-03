@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "git-tree": "f09c40ee068c96dab1ee89bb1262dac7a3135cbe",
+      "version": "1.0.2l-winrt",
+      "port-version": 0
+    }
+  ]
+}
