@@ -1,4 +1,4 @@
 Source: qt5declarative-5-9-2-0-0
 Version: 5.9.2-0
 Description: Qt5 Declarative (Quick 2) Module. Includes QtQuick, QtQuickParticles, QtQuickWidgets, QtQml, and QtPacketProtocol.
-Build-Depends: qt5base-5-9-2-0-0
+Build-Depends: qt5modularscripts-0-0, qt5base-5-9-2-0-0

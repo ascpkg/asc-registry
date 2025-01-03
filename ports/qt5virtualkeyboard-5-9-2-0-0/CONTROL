@@ -1,4 +1,4 @@
 Source: qt5virtualkeyboard-5-9-2-0-0
 Version: 5.9.2-0
 Description: Qt5 Virtual Keyboard Module - A framework for implementing different input methods. Supports localized keyboard layouts and custom visual themes
-Build-Depends: qt5base-5-9-2-0-0
+Build-Depends: qt5modularscripts-0-0, qt5base-5-9-2-0-0
