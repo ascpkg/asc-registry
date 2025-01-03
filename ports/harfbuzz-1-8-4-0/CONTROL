@@ -4,8 +4,12 @@ Description: HarfBuzz OpenType text shaping engine
 Build-Depends: freetype-2-8-1-3-0, ragel-6-10-1-0
 Default-Features: ucdn
 
+Feature: graphite2
+Build-Depends: graphite2-1-3-10-0
+Description: Graphite2 shaper support
+
 Feature: icu
-Build-Depends: icu-61-1-1-0
+Build-Depends: icu-61-1-2-0
 Description: icu support for harfbuzz
 
 Feature: ucdn
