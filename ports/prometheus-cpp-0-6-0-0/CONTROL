@@ -1,0 +1,16 @@
+Source: prometheus-cpp-0-6-0-0
+Version: 0.6.0
+Description: Prometheus Client Library for Modern C++
+Default-Features: compression, pull
+
+Feature: compression
+Build-Depends: zlib-1-2-11-3-0
+Description: Enable zlib compression
+
+Feature: pull
+Build-Depends: civetweb-1-11-1-0
+Description: Support for regular pull mode
+
+Feature: push
+Build-Depends: curl-7-61-1-1-0
+Description: Support push gateway
