@@ -4604,6 +4604,10 @@
       "baseline": "3.4.1-2",
       "port-version": 0
     },
+    "protobuf-3-5-0-0": {
+      "baseline": "3.5.0",
+      "port-version": 0
+    },
     "ptex-2-1-28-0": {
       "baseline": "2.1.28",
       "port-version": 0
