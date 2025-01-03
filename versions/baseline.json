@@ -1228,6 +1228,10 @@
       "baseline": "1c573fbcfba6b3d631008b1babc838501ca925d3-1",
       "port-version": 0
     },
+    "glslang-1c573fbcfba6b3d631008b1babc838501ca925d3-2-0": {
+      "baseline": "1c573fbcfba6b3d631008b1babc838501ca925d3-2",
+      "port-version": 0
+    },
     "gnusl-2-3-0": {
       "baseline": "2.3",
       "port-version": 0
