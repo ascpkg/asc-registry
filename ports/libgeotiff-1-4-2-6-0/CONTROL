@@ -1,0 +1,4 @@
+Source: libgeotiff-1-4-2-6-0
+Version: 1.4.2-6
+Description: Libgeotiff is an open source library normally hosted on top of ​libtiff for reading, and writing GeoTIFF information tags.
+Build-Depends: tiff-4-0-9-6-0, proj4-4-9-3-1-0, zlib-1-2-11-3-0, libjpeg-turbo-1-5-3-1-0
