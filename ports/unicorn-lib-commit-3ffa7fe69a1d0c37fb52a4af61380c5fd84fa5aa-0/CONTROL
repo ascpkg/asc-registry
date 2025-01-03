@@ -1,0 +1,4 @@
+Source: unicorn-lib-commit-3ffa7fe69a1d0c37fb52a4af61380c5fd84fa5aa-0
+Version: commit-3ffa7fe69a1d0c37fb52a4af61380c5fd84fa5aa
+Description: Unicode library for C++ by Ross Smith
+Build-Depends: rs-core-lib-commit-1ed2dadbda3977b13e5e83cc1f3eeca76b36ebe5-0, pcre-8-41-1-0, zlib-1-2-11-3-0, libiconv-1-15-0
