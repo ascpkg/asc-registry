@@ -1,0 +1,4 @@
+Source: leptonica-1-74-4-0
+Version: 1.74.4
+Description: An open source library containing software that is broadly useful for image processing and image analysis applications
+Build-Depends: libjpeg-turbo-1-5-2-0, zlib-1-2-11-0, libpng-1-6-32-0, tiff-4-0-8-0, giflib-5-1-4-0
