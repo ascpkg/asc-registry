@@ -2040,6 +2040,10 @@
       "baseline": "2.3.1-374664b",
       "port-version": 0
     },
+    "box2d-2-3-1-374664b-1-0": {
+      "baseline": "2.3.1-374664b-1",
+      "port-version": 0
+    },
     "box2d-374664b-0": {
       "baseline": "374664b",
       "port-version": 0
