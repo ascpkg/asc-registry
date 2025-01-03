@@ -7068,6 +7068,10 @@
       "baseline": "0.5.4-rc-2",
       "port-version": 0
     },
+    "yoga-1-7-0-0": {
+      "baseline": "1.7.0",
+      "port-version": 0
+    },
     "zeromq-20170908-18498f620f0f6d4076981ea16eb5760fe4d28dc2-0": {
       "baseline": "20170908-18498f620f0f6d4076981ea16eb5760fe4d28dc2",
       "port-version": 0
