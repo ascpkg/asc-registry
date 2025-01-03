@@ -12292,6 +12292,10 @@
       "baseline": "1.5.2-f47e02c-2",
       "port-version": 0
     },
+    "orc-1-5-5-0": {
+      "baseline": "1.5.5",
+      "port-version": 0
+    },
     "orocos-kdl-1-4-0": {
       "baseline": "1.4",
       "port-version": 0
