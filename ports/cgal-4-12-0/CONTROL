@@ -1,4 +1,8 @@
 Source: cgal-4-12-0
 Version: 4.12
-Build-Depends: mpfr-3-1-6-2-0, mpir-3-0-0-4-0, zlib-1-2-11-3-0, qt5-5-9-2-1-0, boost-format-1-67-0-0, boost-container-1-67-0-0, boost-iterator-1-67-0-0, boost-variant-1-67-0-0, boost-any-1-67-0-0, boost-unordered-1-67-0-0, boost-random-1-67-0-0
+Build-Depends: mpfr-3-1-6-2-0, mpir-3-0-0-4-0, zlib-1-2-11-3-0, boost-format-1-67-0-0, boost-container-1-67-0-0, boost-iterator-1-67-0-0, boost-variant-1-67-0-0, boost-any-1-67-0-0, boost-unordered-1-67-0-0, boost-random-1-67-0-0, boost-foreach-1-67-0-0, boost-graph-1-67-0-0, boost-heap-1-67-0-0, boost-logic-1-67-0-0
 Description: The Computational Geometry Algorithms Library (CGAL) is a C++ library that aims to provide easy access to efficient and reliable algorithms in computational geometry.
+
+Feature: qt
+Build-Depends: qt5-5-9-2-1-0
+Description: Qt GUI support for CGAL
