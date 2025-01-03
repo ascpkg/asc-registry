@@ -596,6 +596,10 @@
       "baseline": "1.15.3-2",
       "port-version": 0
     },
+    "capstone--0": {
+      "baseline": "",
+      "port-version": 0
+    },
     "catch-1-10-0-0": {
       "baseline": "1.10.0",
       "port-version": 0
