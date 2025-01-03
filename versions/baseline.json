@@ -6572,6 +6572,10 @@
       "baseline": "1.74.4-5",
       "port-version": 0
     },
+    "leptonica-1-76-0-0": {
+      "baseline": "1.76.0",
+      "port-version": 0
+    },
     "leveldb-2017-10-25-8b1cd3753b184341e837b30383832645135d3d73-0": {
       "baseline": "2017-10-25-8b1cd3753b184341e837b30383832645135d3d73",
       "port-version": 0
