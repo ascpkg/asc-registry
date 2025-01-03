@@ -5792,6 +5792,10 @@
       "baseline": "2018.02-1",
       "port-version": 0
     },
+    "magnum-2018-02-2-0": {
+      "baseline": "2018.02-2",
+      "port-version": 0
+    },
     "magnum-extras-2018-02-1-0": {
       "baseline": "2018.02-1",
       "port-version": 0
@@ -5838,6 +5842,10 @@
     },
     "magnum-plugins-2018-02-1-0": {
       "baseline": "2018.02-1",
+      "port-version": 0
+    },
+    "magnum-plugins-2018-02-2-0": {
+      "baseline": "2018.02-2",
       "port-version": 0
     },
     "magnum-plugins-jan2018-1-0": {
