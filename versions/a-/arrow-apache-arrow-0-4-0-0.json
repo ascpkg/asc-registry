@@ -1,7 +1,7 @@
 {
   "versions": [
     {
-      "git-tree": "b6ae666db47a4ae34e2a33e2ae90959b2e62999b",
+      "git-tree": "0cbee11a2c4c8de2080b64e0bdbd907f2a3f10db",
       "version": "apache-arrow-0.4.0",
       "port-version": 0
     }
