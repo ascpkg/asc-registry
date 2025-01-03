@@ -5680,6 +5680,10 @@
       "baseline": "0.2.5",
       "port-version": 0
     },
+    "json-dto-0-2-6-0": {
+      "baseline": "0.2.6",
+      "port-version": 0
+    },
     "json11-2017-06-20-0": {
       "baseline": "2017-06-20",
       "port-version": 0
