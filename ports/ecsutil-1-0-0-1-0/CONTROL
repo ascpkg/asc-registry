@@ -1,0 +1,3 @@
+Source: ecsutil-1-0-0-1-0
+Version: 1.0.0.1
+Description: Native Windows SDK for accessing ECS via the S3 HTTP protocol.
