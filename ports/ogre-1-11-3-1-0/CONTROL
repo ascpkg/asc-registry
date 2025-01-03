@@ -1,0 +1,14 @@
+Source: ogre-1-11-3-1-0
+Version: 1.11.3-1
+Build-Depends: freeimage-3-18-0-2-0, freetype-2-8-1-3-0, zlib-1-2-11-3-0, zziplib-0-13-69-0
+Description: 3D Object-Oriented Graphics Rendering Engine
+
+Feature: d3d9
+Description: Build Direct3D9 RenderSystem
+
+Feature: java
+Description: Build Java (JNI) bindings
+
+Feature: python
+Description: Build Python bindings
+Build-Depends: python3-3-6-4-2-0
