@@ -2,4 +2,4 @@ Source: think-cell-range-61e184a-0
 Maintainer: jfrederich@gmail.com
 Version: 61e184a
 Description: think-cell's range library <https://think-cell.com>, <https://github.com/think-cell/range>, <https://www.think-cell.com/en/career/talks/ranges/#1>
-Build-Depends: boost-1-62-0
+Build-Depends: boost-1-62-1-0
