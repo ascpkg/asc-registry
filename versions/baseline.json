@@ -2832,6 +2832,10 @@
       "baseline": "1.3.4-5",
       "port-version": 0
     },
+    "fmem-c-libs-2ccee3d2fb-0": {
+      "baseline": "c-libs-2ccee3d2fb",
+      "port-version": 0
+    },
     "fmt-3-0-0-0": {
       "baseline": "3.0.0",
       "port-version": 0
@@ -3278,6 +3282,10 @@
     },
     "gflags-2-2-1-3-0": {
       "baseline": "2.2.1-3",
+      "port-version": 0
+    },
+    "gherkin-c-c-libs-e63e83104b-0": {
+      "baseline": "c-libs-e63e83104b",
       "port-version": 0
     },
     "giflib-5-1-4-0": {
