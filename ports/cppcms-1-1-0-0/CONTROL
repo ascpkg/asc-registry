@@ -1,0 +1,4 @@
+Source: cppcms-1-1-0-0
+Version: 1.1.0
+Description: CppCMS is a Free High Performance Web Development Framework (not a CMS) aimed at Rapid Web Application Development
+Build-Depends: icu-59-1-1-0, pcre-8-40-1-0, openssl-1-0-2l-1-0, zlib-1-2-11-0
