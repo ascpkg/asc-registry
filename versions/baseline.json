@@ -8100,6 +8100,10 @@
       "baseline": "3.4-1",
       "port-version": 0
     },
+    "pdcurses-3-6-0": {
+      "baseline": "3.6",
+      "port-version": 0
+    },
     "physfs--0": {
       "baseline": "",
       "port-version": 0
