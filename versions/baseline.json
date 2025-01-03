@@ -7864,6 +7864,10 @@
       "baseline": "0.9.18-3",
       "port-version": 0
     },
+    "lmdb-0-9-18-4-0": {
+      "baseline": "0.9.18-4",
+      "port-version": 0
+    },
     "lodepng-2017-09-01-8a0f16afe74a6a-0": {
       "baseline": "2017-09-01-8a0f16afe74a6a",
       "port-version": 0
