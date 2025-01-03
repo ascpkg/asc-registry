@@ -1,0 +1,4 @@
+Source: ceres-1-12-0-4-0
+Version: 1.12.0-4
+Build-Depends: suitesparse-4-5-5-2-0, eigen3-3-3-4-0, clapack-3-2-1-0, gflags-2-2-0-4-0, glog-0-3-5-0
+Description: non-linear optimization package
