@@ -1588,6 +1588,10 @@
       "baseline": "1.4.1-66be23c9204c5567d1c51e6f57ba23bffa517a7c",
       "port-version": 0
     },
+    "nana-1-5-1-hotfix-42f8985-0": {
+      "baseline": "1.5.1-hotfix-42f8985",
+      "port-version": 0
+    },
     "nanodbc-2-12-4-0": {
       "baseline": "2.12.4",
       "port-version": 0
