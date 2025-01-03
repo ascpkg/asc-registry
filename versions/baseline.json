@@ -68,6 +68,10 @@
       "baseline": "0",
       "port-version": 0
     },
+    "aurora-2017-06-21-c75699d2a8caa726260c29b6d7a0fd35f8f28933-0": {
+      "baseline": "2017-06-21-c75699d2a8caa726260c29b6d7a0fd35f8f28933",
+      "port-version": 0
+    },
     "aws-sdk-cpp-1-0-34-0": {
       "baseline": "1.0.34",
       "port-version": 0
