@@ -15396,6 +15396,10 @@
       "baseline": "0.4.1",
       "port-version": 0
     },
+    "xsimd-7-1-2-0": {
+      "baseline": "7.1.2",
+      "port-version": 0
+    },
     "xtl-0-5-3-0": {
       "baseline": "0.5.3",
       "port-version": 0
