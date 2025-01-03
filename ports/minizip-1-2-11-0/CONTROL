@@ -1,0 +1,4 @@
+Source: minizip-1-2-11-0
+Version: 1.2.11
+Description:
+Build-Depends: bzip2-1-0-6-1-0, zlib-1-2-11-0
