@@ -1,0 +1,4 @@
+Source: range-v3-0-3-5-0
+Version: 0.3.5
+Build-Depends: range-v3-vs2015-20151130-vcpkg5-0 (windows), range-v3-vs2015-20151130-vcpkg5-0 (uwp)
+Description: Range library for C++11/14/17.
