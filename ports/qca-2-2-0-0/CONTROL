@@ -1,3 +1,4 @@
 Source: qca-2-2-0-0
 Version: 2.2.0
 Description: Qt Cryptographic Api (QCA)
+Build-Depends: qt5-5-7-1-0
