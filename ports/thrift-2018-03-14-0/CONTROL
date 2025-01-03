@@ -1,0 +1,4 @@
+Source: thrift-2018-03-14-0
+Version: 2018-03-14
+Build-Depends: zlib-1-2-11-3-0, libevent-2-1-8-3-0, openssl-1-0-2n-2-0, boost-range-1-66-0-0, boost-smart-ptr-1-66-0-0, boost-date-time-1-66-0-0, boost-locale-1-66-0-0, boost-scope-exit-1-66-0-0
+Description: Apache Thrift is a software project spanning a variety of programming languages and use cases. Our goal is to make reliable, performant communication and data serialization across languages as efficient and seamless as possible. Originally developed at Facebook, Thrift was open sourced in April 2007 and entered the Apache Incubator in May, 2008. Thrift became an Apache TLP in October, 2010.
