@@ -144,6 +144,10 @@
       "baseline": "2.0.0",
       "port-version": 0
     },
+    "lua--0": {
+      "baseline": "",
+      "port-version": 0
+    },
     "mpg123-1-23-3-0": {
       "baseline": "1.23.3",
       "port-version": 0
