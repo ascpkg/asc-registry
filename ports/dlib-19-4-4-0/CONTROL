@@ -1,0 +1,4 @@
+Source: dlib-19-4-4-0
+Version: 19.4-4
+Build-Depends: libjpeg-turbo-1-5-1-1-0, libpng-1-6-29-2-0, sqlite3-3-19-1-1-0, fftw3-3-3-6-p12-0
+Description: Modern C++ toolkit containing machine learning algorithms and tools for creating complex software in C++
