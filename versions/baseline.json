@@ -2356,6 +2356,10 @@
       "baseline": "5.4.6",
       "port-version": 0
     },
+    "rtmidi-2-1-1-0": {
+      "baseline": "2.1.1",
+      "port-version": 0
+    },
     "rttr-0-9-5-0": {
       "baseline": "0.9.5",
       "port-version": 0
