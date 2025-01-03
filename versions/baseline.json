@@ -2440,6 +2440,10 @@
       "baseline": "2017-10-25-8b1cd3753b184341e837b30383832645135d3d73",
       "port-version": 0
     },
+    "libaiff-5-0-0": {
+      "baseline": "5.0",
+      "port-version": 0
+    },
     "libarchive-3-2-2-0": {
       "baseline": "3.2.2",
       "port-version": 0
