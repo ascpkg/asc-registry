@@ -2172,6 +2172,10 @@
       "baseline": "3.22.9",
       "port-version": 0
     },
+    "gtkmm-3-22-2-0": {
+      "baseline": "3.22.2",
+      "port-version": 0
+    },
     "gts-0-7-6-0": {
       "baseline": "0.7.6",
       "port-version": 0
