@@ -1,4 +1,4 @@
-Source: decimalforcpp-1-12-0
+Source: decimal-for-cpp-1-12-0
 Version:1.12
 Description: Decimal data type support, for COBOL-like fixed-point operations on currency values. 
 
