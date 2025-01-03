@@ -1,0 +1,4 @@
+Source: qt5-winextras-5-9-2-0-0
+Version: 5.9.2-0
+Description: Qt5 Windows Extras Module. Provides platform-specific APIs for Windows.
+Build-Depends: qt5-modularscripts-0-0, qt5-base-5-9-2-0-0, atlmfc-0-0

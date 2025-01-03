@@ -1,4 +1,4 @@
 Source: qt5-5-9-2-1-0
 Version: 5.9.2-1
 Description: Qt5 Application Framework
-Build-Depends: qt5base-5-9-2-0-0, qt5charts-5-9-2-0-0, qt5datavis3d-5-9-2-0-0, qt5declarative-5-9-2-0-0, qt5gamepad-5-9-2-0-0, qt5imageformats-5-9-2-0-0, qt5multimedia-5-9-2-0-0, qt5networkauth-5-9-2-0-0, qt5scxml-5-9-2-0-0, qt5serialport-5-9-2-0-0, qt5speech-5-9-2-0-0, qt5svg-5-9-2-0-0, qt5tools-5-9-2-0-0, qt5virtualkeyboard-5-9-2-0-0, qt5websockets-5-9-2-0-0, qt53d-5-9-2-0-0, qt5winextras-5-9-2-0-0, qt5xmlpatterns-5-9-2-0-0
+Build-Depends: qt5-base-5-9-2-0-0, qt5-charts-5-9-2-0-0, qt5-datavis3d-5-9-2-0-0, qt5-declarative-5-9-2-0-0, qt5-gamepad-5-9-2-0-0, qt5-imageformats-5-9-2-0-0, qt5-multimedia-5-9-2-0-0, qt5-networkauth-5-9-2-0-0, qt5-scxml-5-9-2-0-0, qt5-serialport-5-9-2-0-0, qt5-speech-5-9-2-0-0, qt5-svg-5-9-2-0-0, qt5-tools-5-9-2-0-0, qt5-virtualkeyboard-5-9-2-0-0, qt5-websockets-5-9-2-0-0, qt5-3d-5-9-2-0-0, qt5-winextras-5-9-2-0-0, qt5-xmlpatterns-5-9-2-0-0
