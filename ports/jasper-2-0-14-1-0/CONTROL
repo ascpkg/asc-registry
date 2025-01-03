@@ -1,0 +1,4 @@
+Source: jasper-2-0-14-1-0
+Version: 2.0.14-1
+Description: Open source implementation of the JPEG-2000 Part-1 standard
+Build-Depends: libjpeg-turbo-1-5-2-2-0
