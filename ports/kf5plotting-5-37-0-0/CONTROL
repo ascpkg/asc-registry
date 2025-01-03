@@ -1,0 +1,4 @@
+Source: kf5plotting-5-37-0-0
+Version: 5.37.0
+Description: Lightweight plotting framework
+Build-Depends: ecm-5-32-0-0, qt5-5-8-4-0
