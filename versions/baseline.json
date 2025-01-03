@@ -224,12 +224,20 @@
       "baseline": "dec2016",
       "port-version": 0
     },
+    "directxtk-dec2016-0": {
+      "baseline": "dec2016",
+      "port-version": 0
+    },
     "directxtk-oct2016-0": {
       "baseline": "oct2016",
       "port-version": 0
     },
     "directxtk-oct2016-1-0": {
       "baseline": "oct2016-1",
+      "port-version": 0
+    },
+    "directxtk12-dec2016-0": {
+      "baseline": "dec2016",
       "port-version": 0
     },
     "directxtk12-oct2016-0": {
