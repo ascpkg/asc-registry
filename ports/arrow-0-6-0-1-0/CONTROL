@@ -1,0 +1,4 @@
+Source: arrow-0-6-0-1-0
+Version: 0.6.0-1
+Build-Depends: boost-system-1-66-0-0, boost-filesystem-1-66-0-0, boost-multiprecision-1-66-0-0, boost-algorithm-1-66-0-0, flatbuffers-1-7-1-1-0, rapidjson-1-1-0-0, zlib-1-2-11-3-0, lz4-1-8-0-1-0, brotli-1-0-2-1-0, zstd-1-3-1-1-0, snappy-1-1-7-1-0, gflags-2-2-0-5-0
+Description: Apache Arrow is a columnar in-memory analytics layer designed to accelerate big data. It houses a set of canonical in-memory representations of flat and hierarchical data along with multiple language-bindings for structure manipulation. It also provides IPC and common algorithm implementations.
