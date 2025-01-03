@@ -1,5 +1,15 @@
-include(${CMAKE_TRIPLET_FILE})
 include(vcpkg_common_functions)
+
+string(LENGTH "${CURRENT_BUILDTREES_DIR}" BUILDTREES_PATH_LENGTH)
+if(BUILDTREES_PATH_LENGTH GREATER 27)
+    message(WARNING "Qt5's buildsystem uses very long paths and may fail on your system.\n"
+        "We recommend moving vcpkg to a short path such as 'C:\\src\\vcpkg' or using the subst command."
+    )
+endif()
+
+if(VCPKG_LIBRARY_LINKAGE STREQUAL static)
+    message(FATAL_ERROR "Qt5 doesn't currently support static builds. Please use a dynamic triplet instead.")
+endif()
 
 list(APPEND CMAKE_MODULE_PATH ${CMAKE_CURRENT_LIST_DIR})
 include(configure_qt)
