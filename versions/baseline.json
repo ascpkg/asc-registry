@@ -10524,6 +10524,10 @@
       "baseline": "3.5.7",
       "port-version": 0
     },
+    "osgearth-2-10-0": {
+      "baseline": "2.10",
+      "port-version": 0
+    },
     "osgearth-2-9-0": {
       "baseline": "2.9",
       "port-version": 0
