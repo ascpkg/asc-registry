@@ -5868,6 +5868,10 @@
       "baseline": "3.0.5",
       "port-version": 0
     },
+    "gmmlib-18-3-pre2-1-0": {
+      "baseline": "18.3.pre2-1",
+      "port-version": 0
+    },
     "gnusl-2-3-0": {
       "baseline": "2.3",
       "port-version": 0
