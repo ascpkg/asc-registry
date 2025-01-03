@@ -1,0 +1,4 @@
+Source: libarchive-3-2-2-2-0
+Version: 3.2.2-2
+Description: Library for reading and writing streaming archives
+Build-Depends: zlib-1-2-10-0, bzip2-1-0-6-0, libxml2-2-9-4-0, lz4-1-7-4-2-0, liblzma-5-2-2-0, openssl-1-0-2j-1-0
