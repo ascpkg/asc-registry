@@ -2548,6 +2548,10 @@
       "baseline": "3.17.0-3",
       "port-version": 0
     },
+    "freeimage-3-17-0-4-0": {
+      "baseline": "3.17.0-4",
+      "port-version": 0
+    },
     "freerdp-2-0-0-beta1-android11-0": {
       "baseline": "2.0.0-beta1+android11",
       "port-version": 0
