@@ -5,11 +5,11 @@ Description: A full featured cross-platform image library
 Default-Features: libpng, tiff, libjpeg, openexr, jasper, lcms
 
 Feature: libpng
-Build-Depends: libpng-1-6-35-0
+Build-Depends: libpng-1-6-35-1-0
 Description: Use Libpng for .png (and some .ico)
 
 Feature: tiff
-Build-Depends: tiff-4-0-9-4-0
+Build-Depends: tiff-4-0-10-0
 Description: Use Libtiff for .tif support
 
 Feature: libjpeg
