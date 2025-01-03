@@ -1628,6 +1628,10 @@
       "baseline": "2.6.8-1",
       "port-version": 0
     },
+    "gdcm2-2-8-3-0": {
+      "baseline": "2.8.3",
+      "port-version": 0
+    },
     "gdk-pixbuf-2-36-3-0": {
       "baseline": "2.36.3",
       "port-version": 0
