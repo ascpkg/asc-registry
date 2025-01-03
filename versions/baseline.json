@@ -692,6 +692,10 @@
       "baseline": "2.2.0-2",
       "port-version": 0
     },
+    "gflags-2-2-0-3-0": {
+      "baseline": "2.2.0-3",
+      "port-version": 0
+    },
     "giflib-5-1-4-0": {
       "baseline": "5.1.4",
       "port-version": 0
