@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "git-tree": "61033223e55565f34dffe92d849f5b61bda11fa6",
+      "version": "Version 1.1.0 (Paho 1.2)",
+      "port-version": 0
+    }
+  ]
+}
