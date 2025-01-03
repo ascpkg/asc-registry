@@ -1,0 +1,10 @@
+Source: irrlicht-1-8-4-0
+Version: 1.8.4
+Description: Irrlicht lightning fast 3d engine
+Build-Depends: zlib-1-2-11-3-0, libpng-1-6-36-0, bzip2-1-0-6-4-0, libjpeg-turbo-1-5-3-2-0
+
+Feature: fast-fpu
+Description: Enable fast maths (at the expense of precision)
+
+Feature: tools
+Description: Build the Tools FileToHeader, FontTool, GUIEditor and MeshConverter
