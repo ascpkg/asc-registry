@@ -1,0 +1,16 @@
+Source: poco-2-0-0-pre-0
+Version: 2.0.0-pre
+Build-Depends: expat-2-2-6-0, libpq-9-6-1-5-0, pcre-8-41-1-0, sqlite3-3-26-0-0, zlib-1-2-11-5-0
+Description: Modern, powerful open source C++ class libraries for building network and internet-based applications that run on desktop, server, mobile and embedded systems. (https://github.com/pocoproject/poco)
+
+Feature: mysql
+Build-Depends: libmysql-8-0-4-3-0
+Description: Mysql support for POCO
+
+Feature: mariadb
+Build-Depends: libmariadb-3-0-2-1-0
+Description: MariaDB support for POCO
+
+Feature: postgresql
+Build-Depends: libpqxx-6-0-0-1-0
+Description: PostgreSQL support for POCO

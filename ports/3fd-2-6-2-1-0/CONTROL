@@ -1,0 +1,4 @@
+Source: 3fd-2-6-2-1-0
+Version: 2.6.2-1
+Description: C++ Framework For Fast Development
+Build-Depends: boost-lockfree-1-69-0-0 (windows), boost-regex-1-69-0-0 (windows), poco-2-0-0-pre-0 (windows), sqlite3-3-26-0-0, rapidxml-1-13-0
