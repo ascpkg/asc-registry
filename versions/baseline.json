@@ -3256,6 +3256,10 @@
       "baseline": "2.0.5",
       "port-version": 0
     },
+    "luasocket-2017-05-25-5a17f79b0301f0a1b4c7f1c73388757a7e2ed309-0": {
+      "baseline": "2017.05.25.5a17f79b0301f0a1b4c7f1c73388757a7e2ed309",
+      "port-version": 0
+    },
     "lz4-1-7-4-2-0": {
       "baseline": "1.7.4.2",
       "port-version": 0
