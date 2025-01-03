@@ -1,0 +1,4 @@
+Source: libxmlpp-2-40-1-1-0
+Version: 2.40.1-1
+Description: a C++ wrapper for the libxml XML parser library.
+Build-Depends: libxml2-2-9-4-5-0, glibmm-2-52-1-7-0
