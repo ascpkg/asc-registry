@@ -8872,6 +8872,10 @@
       "baseline": "0.34.0-3",
       "port-version": 0
     },
+    "plib-1-8-5-2-0": {
+      "baseline": "1.8.5-2",
+      "port-version": 0
+    },
     "plibsys-0-0-3-0": {
       "baseline": "0.0.3",
       "port-version": 0
