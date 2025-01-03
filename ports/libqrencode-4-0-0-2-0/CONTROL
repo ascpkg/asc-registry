@@ -1,0 +1,4 @@
+Source: libqrencode-4-0-0-2-0
+Version: 4.0.0-2
+Build-Depends: libpng-1-6-34-3-0, libiconv-1-15-4-0
+Description: libqrencode - a fast and compact QR Code encoding library
