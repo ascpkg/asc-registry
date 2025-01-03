@@ -1,0 +1,8 @@
+Source: azure-iot-sdk-c-1-2-13-1-0
+Version: 1.2.13-1
+Build-Depends: azure-uamqp-c-1-2-11-3-0, azure-umqtt-c-1-1-11-3-0, azure-c-shared-utility-1-1-11-4-0, parson-2018-12-14-0
+Description: A C99 SDK for connecting devices to Microsoft Azure IoT services 
+
+Feature: public-preview
+Description: A version of the azure-iot-sdk-c containing public-preview features.
+Build-Depends: azure-uamqp-c-1-2-11-3-0[public-preview], azure-umqtt-c-1-1-11-3-0[public-preview], azure-c-shared-utility-1-1-11-4-0[public-preview]
