@@ -1,0 +1,18 @@
+Source: soci-3-2-3-2-0
+Version: 3.2.3-2
+Description: SOCI database access library
+
+Feature: boost
+Build-Depends: boost-date-time-1-69-0-0, boost-fusion-1-69-0-0, boost-optional-1-69-0-0, boost-preprocessor-1-69-0-0, boost-tuple-1-69-0-0
+Description: Integration with Boost
+
+Feature: sqlite3
+Build-Depends: sqlite3-3-26-0-0
+Description: Build sqlite3 backend
+
+Feature: postgresql
+Build-Depends: libpq-9-6-1-5-0
+Description: Build postgresql backend
+
+Feature: odbc
+Description: Build odbc backend
