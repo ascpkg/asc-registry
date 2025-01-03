@@ -11812,12 +11812,20 @@
       "baseline": "5.11.2",
       "port-version": 0
     },
+    "qt5-3d-5-12-0-0": {
+      "baseline": "5.12.0",
+      "port-version": 0
+    },
     "qt5-3d-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
     },
     "qt5-5-11-2-0": {
       "baseline": "5.11.2",
+      "port-version": 0
+    },
+    "qt5-5-12-0-0": {
+      "baseline": "5.12.0",
       "port-version": 0
     },
     "qt5-5-7-0": {
@@ -11892,6 +11900,10 @@
       "baseline": "5.11.2",
       "port-version": 0
     },
+    "qt5-activeqt-5-12-0-0": {
+      "baseline": "5.12.0",
+      "port-version": 0
+    },
     "qt5-activeqt-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -11906,6 +11918,10 @@
     },
     "qt5-base-5-11-2-1-0": {
       "baseline": "5.11.2-1",
+      "port-version": 0
+    },
+    "qt5-base-5-12-0-0": {
+      "baseline": "5.12.0",
       "port-version": 0
     },
     "qt5-base-5-9-2-0-0": {
@@ -11948,6 +11964,10 @@
       "baseline": "5.11.2",
       "port-version": 0
     },
+    "qt5-charts-5-12-0-0": {
+      "baseline": "5.12.0",
+      "port-version": 0
+    },
     "qt5-charts-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -11958,6 +11978,10 @@
     },
     "qt5-datavis3d-5-11-2-0": {
       "baseline": "5.11.2",
+      "port-version": 0
+    },
+    "qt5-datavis3d-5-12-0-0": {
+      "baseline": "5.12.0",
       "port-version": 0
     },
     "qt5-datavis3d-5-9-2-0-0": {
@@ -11972,6 +11996,10 @@
       "baseline": "5.11.2",
       "port-version": 0
     },
+    "qt5-declarative-5-12-0-0": {
+      "baseline": "5.12.0",
+      "port-version": 0
+    },
     "qt5-declarative-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -11982,6 +12010,10 @@
     },
     "qt5-gamepad-5-11-2-0": {
       "baseline": "5.11.2",
+      "port-version": 0
+    },
+    "qt5-gamepad-5-12-0-0": {
+      "baseline": "5.12.0",
       "port-version": 0
     },
     "qt5-gamepad-5-9-2-0-0": {
@@ -11996,6 +12028,10 @@
       "baseline": "5.11.2",
       "port-version": 0
     },
+    "qt5-graphicaleffects-5-12-0-0": {
+      "baseline": "5.12.0",
+      "port-version": 0
+    },
     "qt5-graphicaleffects-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -12006,6 +12042,10 @@
     },
     "qt5-imageformats-5-11-2-0": {
       "baseline": "5.11.2",
+      "port-version": 0
+    },
+    "qt5-imageformats-5-12-0-0": {
+      "baseline": "5.12.0",
       "port-version": 0
     },
     "qt5-imageformats-5-9-2-0-0": {
@@ -12032,6 +12072,10 @@
       "baseline": "2018-11-01-1",
       "port-version": 0
     },
+    "qt5-modularscripts-2018-12-17-0": {
+      "baseline": "2018-12-17",
+      "port-version": 0
+    },
     "qt5-modularscripts-3-0": {
       "baseline": "3",
       "port-version": 0
@@ -12048,6 +12092,10 @@
       "baseline": "5.11.2",
       "port-version": 0
     },
+    "qt5-multimedia-5-12-0-0": {
+      "baseline": "5.12.0",
+      "port-version": 0
+    },
     "qt5-multimedia-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -12060,6 +12108,10 @@
       "baseline": "5.11.2",
       "port-version": 0
     },
+    "qt5-networkauth-5-12-0-0": {
+      "baseline": "5.12.0",
+      "port-version": 0
+    },
     "qt5-networkauth-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -12070,6 +12122,10 @@
     },
     "qt5-quickcontrols-5-11-2-0": {
       "baseline": "5.11.2",
+      "port-version": 0
+    },
+    "qt5-quickcontrols-5-12-0-0": {
+      "baseline": "5.12.0",
       "port-version": 0
     },
     "qt5-quickcontrols-5-9-2-0-0": {
@@ -12088,6 +12144,10 @@
       "baseline": "5.11.2",
       "port-version": 0
     },
+    "qt5-quickcontrols2-5-12-0-0": {
+      "baseline": "5.12.0",
+      "port-version": 0
+    },
     "qt5-quickcontrols2-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -12098,6 +12158,10 @@
     },
     "qt5-script-5-11-2-0": {
       "baseline": "5.11.2",
+      "port-version": 0
+    },
+    "qt5-script-5-12-0-0": {
+      "baseline": "5.12.0",
       "port-version": 0
     },
     "qt5-script-5-9-2-0": {
@@ -12112,6 +12176,10 @@
       "baseline": "5.11.2",
       "port-version": 0
     },
+    "qt5-scxml-5-12-0-0": {
+      "baseline": "5.12.0",
+      "port-version": 0
+    },
     "qt5-scxml-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -12122,6 +12190,10 @@
     },
     "qt5-serialport-5-11-2-0": {
       "baseline": "5.11.2",
+      "port-version": 0
+    },
+    "qt5-serialport-5-12-0-0": {
+      "baseline": "5.12.0",
       "port-version": 0
     },
     "qt5-serialport-5-9-2-0-0": {
@@ -12136,6 +12208,10 @@
       "baseline": "5.11.2",
       "port-version": 0
     },
+    "qt5-speech-5-12-0-0": {
+      "baseline": "5.12.0",
+      "port-version": 0
+    },
     "qt5-speech-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -12146,6 +12222,10 @@
     },
     "qt5-svg-5-11-2-0": {
       "baseline": "5.11.2",
+      "port-version": 0
+    },
+    "qt5-svg-5-12-0-0": {
+      "baseline": "5.12.0",
       "port-version": 0
     },
     "qt5-svg-5-9-2-0-0": {
@@ -12160,6 +12240,10 @@
       "baseline": "5.11.2",
       "port-version": 0
     },
+    "qt5-tools-5-12-0-0": {
+      "baseline": "5.12.0",
+      "port-version": 0
+    },
     "qt5-tools-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -12170,6 +12254,10 @@
     },
     "qt5-virtualkeyboard-5-11-2-0": {
       "baseline": "5.11.2",
+      "port-version": 0
+    },
+    "qt5-virtualkeyboard-5-12-0-0": {
+      "baseline": "5.12.0",
       "port-version": 0
     },
     "qt5-virtualkeyboard-5-9-2-0-0": {
@@ -12184,6 +12272,10 @@
       "baseline": "5.11.2",
       "port-version": 0
     },
+    "qt5-websockets-5-12-0-0": {
+      "baseline": "5.12.0",
+      "port-version": 0
+    },
     "qt5-websockets-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -12196,6 +12288,10 @@
       "baseline": "5.11.2",
       "port-version": 0
     },
+    "qt5-winextras-5-12-0-0": {
+      "baseline": "5.12.0",
+      "port-version": 0
+    },
     "qt5-winextras-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -12206,6 +12302,10 @@
     },
     "qt5-xmlpatterns-5-11-2-0": {
       "baseline": "5.11.2",
+      "port-version": 0
+    },
+    "qt5-xmlpatterns-5-12-0-0": {
+      "baseline": "5.12.0",
       "port-version": 0
     },
     "qt5-xmlpatterns-5-9-2-0-0": {

@@ -1,0 +1,5 @@
+include(vcpkg_common_functions)
+
+include(${CURRENT_INSTALLED_DIR}/share/qt5modularscripts/qt_modular_library.cmake)
+
+qt_modular_library(qtquickcontrols2 e954832787fcb36cc3bab529b5ddf88ffa96d90924b9193a99e524831aff24026c9b278b4f3bb41afb2cc52a89888621637863ad0cda928901d9eb81e49017a5)
