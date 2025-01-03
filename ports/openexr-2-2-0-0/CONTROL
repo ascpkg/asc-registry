@@ -1,0 +1,4 @@
+Source: openexr-2-2-0-0
+Version: 2.2.0
+Description: OpenEXR is a high dynamic-range (HDR) image file format developed by Industrial Light & Magic for use in computer imaging applications
+Build-Depends: zlib-1-2-11-0, ilmbase-2-2-0-0
