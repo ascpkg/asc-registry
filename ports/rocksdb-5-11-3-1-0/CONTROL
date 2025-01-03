@@ -1,0 +1,12 @@
+Source: rocksdb-5-11-3-1-0
+Version: 5.11.3-1
+Description: A library that provides an embeddable, persistent key-value store for fast storage
+Build-Depends: zlib-1-2-11-3-0
+
+Feature: lz4
+Build-Depends: lz4-1-8-1-2-1-0
+Description: lz4 support in rocksdb
+
+Feature: snappy
+Build-Depends: snappy-1-1-7-2-0
+Description: snappy support in rocksdb
