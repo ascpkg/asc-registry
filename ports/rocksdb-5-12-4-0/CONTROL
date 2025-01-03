@@ -4,7 +4,7 @@ Description: A library that provides an embeddable, persistent key-value store f
 Default-Features: zlib
 
 Feature: lz4
-Build-Depends: lz4-1-8-1-2-1-0
+Build-Depends: lz4-1-8-2-0
 Description: lz4 support in rocksdb
 
 Feature: snappy
