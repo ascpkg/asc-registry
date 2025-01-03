@@ -4860,6 +4860,10 @@
       "baseline": "1.0.6-1",
       "port-version": 0
     },
+    "fastcdr-1-0-6-2-0": {
+      "baseline": "1.0.6-2",
+      "port-version": 0
+    },
     "fastfeat-391d5e9-0": {
       "baseline": "391d5e9",
       "port-version": 0
