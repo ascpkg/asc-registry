@@ -820,6 +820,10 @@
       "baseline": "0.8.2",
       "port-version": 0
     },
+    "gli-0-8-2-1-0": {
+      "baseline": "0.8.2-1",
+      "port-version": 0
+    },
     "glib-2-50-2-0": {
       "baseline": "2.50.2",
       "port-version": 0
