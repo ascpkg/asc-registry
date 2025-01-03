@@ -8376,6 +8376,10 @@
       "baseline": "5.5.21",
       "port-version": 0
     },
+    "sobjectizer-5-5-22-0": {
+      "baseline": "5.5.22",
+      "port-version": 0
+    },
     "soci-2016-10-22-0": {
       "baseline": "2016.10.22",
       "port-version": 0
