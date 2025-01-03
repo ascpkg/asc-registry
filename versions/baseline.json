@@ -1224,6 +1224,10 @@
       "baseline": "5.1.4",
       "port-version": 0
     },
+    "gl2ps-1-4-0-0": {
+      "baseline": "1.4.0",
+      "port-version": 0
+    },
     "gl2ps-OpenGL-to-PostScript-Printing-Library-0": {
       "baseline": "OpenGL to PostScript Printing Library",
       "port-version": 0
