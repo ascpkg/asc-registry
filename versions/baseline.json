@@ -9172,6 +9172,10 @@
       "baseline": "6.3",
       "port-version": 0
     },
+    "openmesh-7-0-0": {
+      "baseline": "7.0",
+      "port-version": 0
+    },
     "openni2-2-2-0-33-0": {
       "baseline": "2.2.0.33",
       "port-version": 0
