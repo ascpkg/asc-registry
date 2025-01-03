@@ -7496,6 +7496,10 @@
       "baseline": "2018-03-02-1",
       "port-version": 0
     },
+    "glslang-2018-03-02-2-0": {
+      "baseline": "2018-03-02-2",
+      "port-version": 0
+    },
     "glslang-3a21c880500eac21cdf79bef5b80f970a55ac6af-0": {
       "baseline": "3a21c880500eac21cdf79bef5b80f970a55ac6af",
       "port-version": 0
