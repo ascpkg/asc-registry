@@ -1,0 +1,4 @@
+Source: avro-c-1-8-2-1-0
+Version: 1.8.2-1
+Description: Apache Avro is a data serialization system
+Build-Depends: jansson-2-11-2-0, liblzma-5-2-3-2-0, zlib-1-2-11-3-0
