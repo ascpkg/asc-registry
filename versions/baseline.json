@@ -6796,6 +6796,10 @@
       "baseline": "3.7.6-1",
       "port-version": 0
     },
+    "scintilla-4-0-3-0": {
+      "baseline": "4.0.3",
+      "port-version": 0
+    },
     "sciter-4-0-0-7-0": {
       "baseline": "4.0.0.7",
       "port-version": 0
