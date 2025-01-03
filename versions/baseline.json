@@ -1,5 +1,9 @@
 {
   "default": {
+    "3fd-2-6-2-0": {
+      "baseline": "2.6.2",
+      "port-version": 0
+    },
     "abseil-2017-09-28-0": {
       "baseline": "2017-09-28",
       "port-version": 0
