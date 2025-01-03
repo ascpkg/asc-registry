@@ -1168,6 +1168,10 @@
       "baseline": "2.2.0",
       "port-version": 0
     },
+    "jansson-v2-10-0": {
+      "baseline": "v2.10",
+      "port-version": 0
+    },
     "jasper-2-0-13-0": {
       "baseline": "2.0.13",
       "port-version": 0
