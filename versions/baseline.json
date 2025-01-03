@@ -3972,6 +3972,10 @@
       "baseline": "2.3",
       "port-version": 0
     },
+    "libsamplerate-0-1-9-0-0": {
+      "baseline": "0.1.9.0",
+      "port-version": 0
+    },
     "libsigcpp-2-10-0": {
       "baseline": "2.10",
       "port-version": 0
