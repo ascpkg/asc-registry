@@ -3256,6 +3256,10 @@
       "baseline": "2.0.0-2",
       "port-version": 0
     },
+    "libwebsockets-2-0-0-3-0": {
+      "baseline": "2.0.0-3",
+      "port-version": 0
+    },
     "libxml2-2-9-4-0": {
       "baseline": "2.9.4",
       "port-version": 0
