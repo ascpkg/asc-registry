@@ -1,0 +1,4 @@
+Source: matio-1-5-12-0
+Version: 1.5.12
+Description: MATLAB MAT File I/O Library
+Build-Depends: zlib-1-2-11-3-0, hdf5-1-10-1-1-0
