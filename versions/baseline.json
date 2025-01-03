@@ -520,6 +520,10 @@
       "baseline": "1.7.6-2",
       "port-version": 0
     },
+    "proj4-4-9-3-0": {
+      "baseline": "4.9.3",
+      "port-version": 0
+    },
     "protobuf-3-0-2-0": {
       "baseline": "3.0.2",
       "port-version": 0
