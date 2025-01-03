@@ -1,0 +1,4 @@
+Source: caf-0-15-7-0
+Version: 0.15.7
+Build-Depends: openssl-1-0-2n-3-0
+Description: an open source C++11 actor model implementation featuring lightweight & fast actor implementations, pattern matching for messages, network transparent messaging, and more.
