@@ -1,0 +1,4 @@
+Source: devil-1-8-0-1-0
+Version: 1.8.0-1
+Build-Depends: zlib-1-2-11-3-0, libpng-1-6-32-1-0, libjpeg-turbo-1-5-2-2-0, tiff-4-0-8-1-0, openjpeg-2-2-0-1-0, libwebp-0-6-0-2-0, libraw-0-18-2-4-0, jxrlib-1-1-4-0, openexr-2-2-0-1-0, jasper-2-0-13-1-0, liblzma-5-2-3-2-0
+Description: A full featured cross-platform image library
