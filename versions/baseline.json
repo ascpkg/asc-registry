@@ -2116,6 +2116,10 @@
       "baseline": "1.7.5",
       "port-version": 0
     },
+    "lz4-1-8-0-0": {
+      "baseline": "1.8.0",
+      "port-version": 0
+    },
     "lzfse-1-0-0": {
       "baseline": "1.0",
       "port-version": 0
