@@ -3756,6 +3756,10 @@
       "baseline": "1.0.0.1",
       "port-version": 0
     },
+    "ecsutil-1-0-0-2-0": {
+      "baseline": "1.0.0.2",
+      "port-version": 0
+    },
     "egl-registry-2018-06-30-0": {
       "baseline": "2018-06-30",
       "port-version": 0
