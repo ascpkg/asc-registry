@@ -1,0 +1,4 @@
+Source: pangolin-0-5-2-0
+Version: 0.5-2
+Build-Depends: eigen3-3-3-4-1-0, glew-2-1-0-1-0, libpng-1-6-32-1-0, libjpeg-turbo-1-5-2-1-0, ffmpeg-3-3-3-0
+Description: Lightweight GUI Library
