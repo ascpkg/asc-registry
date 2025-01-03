@@ -108,6 +108,10 @@
       "baseline": "2018-08-03",
       "port-version": 0
     },
+    "abseil-2018-09-18-0": {
+      "baseline": "2018-09-18",
+      "port-version": 0
+    },
     "abseil-2018-2-23-0": {
       "baseline": "2018-2-23",
       "port-version": 0
@@ -614,6 +618,10 @@
     },
     "aws-sdk-cpp-1-5-7-0": {
       "baseline": "1.5.7",
+      "port-version": 0
+    },
+    "aws-sdk-cpp-1-6-12-0": {
+      "baseline": "1.6.12",
       "port-version": 0
     },
     "azmq-1-0-2-0": {
@@ -2860,6 +2868,10 @@
       "baseline": "2018-08-03-1",
       "port-version": 0
     },
+    "breakpad-2018-09-18-0": {
+      "baseline": "2018-09-18",
+      "port-version": 0
+    },
     "breakpad-2018-2-19-0": {
       "baseline": "2018-2-19",
       "port-version": 0
@@ -3332,6 +3344,10 @@
       "baseline": "1.10.1-1",
       "port-version": 0
     },
+    "chakracore-1-11-1-0": {
+      "baseline": "1.11.1",
+      "port-version": 0
+    },
     "chakracore-1-2-0-0-0": {
       "baseline": "1.2.0.0",
       "port-version": 0
@@ -3430,6 +3446,10 @@
     },
     "cimg-2-3-3-0": {
       "baseline": "2.3.3",
+      "port-version": 0
+    },
+    "cimg-2-3-6-0": {
+      "baseline": "2.3.6",
       "port-version": 0
     },
     "cimg-220-0": {
@@ -3960,6 +3980,10 @@
       "baseline": "apr2018",
       "port-version": 0
     },
+    "directxmesh-aug2018-0": {
+      "baseline": "aug2018",
+      "port-version": 0
+    },
     "directxmesh-dec2017-0": {
       "baseline": "dec2017",
       "port-version": 0
@@ -3996,6 +4020,10 @@
       "baseline": "apr2018",
       "port-version": 0
     },
+    "directxtex-aug2018b-0": {
+      "baseline": "aug2018b",
+      "port-version": 0
+    },
     "directxtex-dec2016-0": {
       "baseline": "dec2016",
       "port-version": 0
@@ -4022,6 +4050,10 @@
     },
     "directxtk-apr2018-0": {
       "baseline": "apr2018",
+      "port-version": 0
+    },
+    "directxtk-aug2018-0": {
+      "baseline": "aug2018",
       "port-version": 0
     },
     "directxtk-dec2016-0": {
@@ -4216,6 +4248,10 @@
       "baseline": "1.2.9",
       "port-version": 0
     },
+    "doctest-2-0-0-0": {
+      "baseline": "2.0.0",
+      "port-version": 0
+    },
     "double-conversion-2-0-1-0": {
       "baseline": "2.0.1",
       "port-version": 0
@@ -4318,6 +4354,10 @@
     },
     "eastl-3-10-00-0": {
       "baseline": "3.10.00",
+      "port-version": 0
+    },
+    "eastl-3-12-01-0": {
+      "baseline": "3.12.01",
       "port-version": 0
     },
     "ebml-1-3-5-0": {
@@ -4612,6 +4652,10 @@
       "baseline": "2018-08-03",
       "port-version": 0
     },
+    "exiv2-2018-09-18-0": {
+      "baseline": "2018-09-18",
+      "port-version": 0
+    },
     "exiv2-327b3f6c4de4ffda82818367fc870640d2ae8820-0": {
       "baseline": "327b3f6c4de4ffda82818367fc870640d2ae8820",
       "port-version": 0
@@ -4658,6 +4702,10 @@
     },
     "expat-2-2-5-0": {
       "baseline": "2.2.5",
+      "port-version": 0
+    },
+    "expat-2-2-6-0": {
+      "baseline": "2.2.6",
       "port-version": 0
     },
     "exprtk-2018-01-01-f32d2b4-0": {
@@ -4952,6 +5000,10 @@
       "baseline": "5.1.0",
       "port-version": 0
     },
+    "fmt-5-2-0-0": {
+      "baseline": "5.2.0",
+      "port-version": 0
+    },
     "folly-2017-10-02-00-0": {
       "baseline": "2017.10.02.00",
       "port-version": 0
@@ -5014,6 +5066,10 @@
     },
     "folly-2018-07-30-00-0": {
       "baseline": "2018.07.30.00",
+      "port-version": 0
+    },
+    "folly-2018-09-17-00-0": {
+      "baseline": "2018.09.17.00",
       "port-version": 0
     },
     "folly-v2017-05-08-00-0": {
@@ -5098,6 +5154,10 @@
     },
     "forest-9-0-1-0": {
       "baseline": "9.0.1",
+      "port-version": 0
+    },
+    "forest-9-0-5-0": {
+      "baseline": "9.0.5",
       "port-version": 0
     },
     "freeglut-3-0-0-0": {
@@ -5214,6 +5274,10 @@
     },
     "freetype-gl-2018-02-25-0": {
       "baseline": "2018-02-25",
+      "port-version": 0
+    },
+    "freetype-gl-2018-09-18-0": {
+      "baseline": "2018-09-18",
       "port-version": 0
     },
     "freexl-1-0-4-0": {
@@ -6504,6 +6568,10 @@
       "baseline": "2018-07-30",
       "port-version": 0
     },
+    "jsonnet-2018-09-18-0": {
+      "baseline": "2018-09-18",
+      "port-version": 0
+    },
     "jxrlib-1-1-0": {
       "baseline": "1.1",
       "port-version": 0
@@ -7732,6 +7800,10 @@
       "baseline": "1.22.0",
       "port-version": 0
     },
+    "libuv-1-23-0-0": {
+      "baseline": "1.23.0",
+      "port-version": 0
+    },
     "libuv-1-9-1-0": {
       "baseline": "1.9.1",
       "port-version": 0
@@ -7838,6 +7910,10 @@
     },
     "libwebsockets-3-0-0-0": {
       "baseline": "3.0.0",
+      "port-version": 0
+    },
+    "libwebsockets-3-0-1-0": {
+      "baseline": "3.0.1",
       "port-version": 0
     },
     "libxml2-2-9-4-0": {
@@ -8044,6 +8120,10 @@
       "baseline": "2018-07-30",
       "port-version": 0
     },
+    "lodepng-2018-09-18-1-0": {
+      "baseline": "2018-09-18-1",
+      "port-version": 0
+    },
     "log4cplus-1-1-3-RC7-0": {
       "baseline": "1.1.3-RC7",
       "port-version": 0
@@ -8144,6 +8224,10 @@
       "baseline": "2018-06-12",
       "port-version": 0
     },
+    "luasocket-2018-09-18-0": {
+      "baseline": "2018-09-18",
+      "port-version": 0
+    },
     "lz4-1-7-4-2-0": {
       "baseline": "1.7.4.2",
       "port-version": 0
@@ -8170,6 +8254,10 @@
     },
     "lz4-1-8-2-0": {
       "baseline": "1.8.2",
+      "port-version": 0
+    },
+    "lz4-1-8-3-0": {
+      "baseline": "1.8.3",
       "port-version": 0
     },
     "lzfse-1-0-0": {
@@ -8326,6 +8414,10 @@
     },
     "mbedtls-2-12-0-0": {
       "baseline": "2.12.0",
+      "port-version": 0
+    },
+    "mbedtls-2-13-1-0": {
+      "baseline": "2.13.1",
       "port-version": 0
     },
     "mbedtls-2-6-1-0": {
@@ -8620,6 +8712,10 @@
       "baseline": "2018-08-03",
       "port-version": 0
     },
+    "ms-gsl-2018-09-18-0": {
+      "baseline": "2018-09-18",
+      "port-version": 0
+    },
     "msgpack-2-1-1-0": {
       "baseline": "2.1.1",
       "port-version": 0
@@ -8726,6 +8822,10 @@
     },
     "nana-1-6-1-0": {
       "baseline": "1.6.1",
+      "port-version": 0
+    },
+    "nana-1-6-2-0": {
+      "baseline": "1.6.2",
       "port-version": 0
     },
     "nanodbc-2-12-4-0": {
@@ -8916,6 +9016,10 @@
       "baseline": "2018-07-01",
       "port-version": 0
     },
+    "nuklear-2018-09-18-0": {
+      "baseline": "2018-09-18",
+      "port-version": 0
+    },
     "nvml-1-3-0-0": {
       "baseline": "1.3-0",
       "port-version": 0
@@ -9002,6 +9106,10 @@
     },
     "openal-soft-1-18-2-2-0": {
       "baseline": "1.18.2-2",
+      "port-version": 0
+    },
+    "openal-soft-1-19-0-0": {
+      "baseline": "1.19.0",
       "port-version": 0
     },
     "openblas-0-2-20-2-0": {
@@ -9632,6 +9740,10 @@
       "baseline": "2018-08-03",
       "port-version": 0
     },
+    "parson-2018-09-18-0": {
+      "baseline": "2018-09-18",
+      "port-version": 0
+    },
     "pcg-0-98-1-0": {
       "baseline": "0.98.1",
       "port-version": 0
@@ -9881,7 +9993,7 @@
       "port-version": 0
     },
     "pmdk-1-4-2-0": {
-      "baseline": "1.4-2",
+      "baseline": "1.4.2",
       "port-version": 0
     },
     "pngwriter-0-7-0-1-0": {
@@ -10692,6 +10804,10 @@
       "baseline": "2018-07-30",
       "port-version": 0
     },
+    "re2-2018-09-18-0": {
+      "baseline": "2018-09-18",
+      "port-version": 0
+    },
     "readerwriterqueue-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
@@ -10962,6 +11078,10 @@
     },
     "rs-core-lib-2018-07-30-0": {
       "baseline": "2018-07-30",
+      "port-version": 0
+    },
+    "rs-core-lib-2018-09-18-0": {
+      "baseline": "2018-09-18",
       "port-version": 0
     },
     "rs-core-lib-commit-1ed2dadbda3977b13e5e83cc1f3eeca76b36ebe5-0": {
@@ -12164,6 +12284,10 @@
       "baseline": "2018-08-03",
       "port-version": 0
     },
+    "thrift-2018-09-18-0": {
+      "baseline": "2018-09-18",
+      "port-version": 0
+    },
     "thrift-latest-0": {
       "baseline": "latest",
       "port-version": 0
@@ -12242,6 +12366,10 @@
     },
     "tiny-dnn-2018-07-30-0": {
       "baseline": "2018-07-30",
+      "port-version": 0
+    },
+    "tiny-dnn-2018-09-18-0": {
+      "baseline": "2018-09-18",
       "port-version": 0
     },
     "tinydir-1-2-3-0": {
@@ -12380,6 +12508,10 @@
       "baseline": "2018-08-03",
       "port-version": 0
     },
+    "unicorn-2018-09-18-0": {
+      "baseline": "2018-09-18",
+      "port-version": 0
+    },
     "unicorn-lib-2018-02-25-0": {
       "baseline": "2018-02-25",
       "port-version": 0
@@ -12426,6 +12558,10 @@
     },
     "unicorn-lib-2018-08-03-0": {
       "baseline": "2018-08-03",
+      "port-version": 0
+    },
+    "unicorn-lib-2018-09-18-0": {
+      "baseline": "2018-09-18",
       "port-version": 0
     },
     "unicorn-lib-commit-3ffa7fe69a1d0c37fb52a4af61380c5fd84fa5aa-0": {
@@ -12752,6 +12888,10 @@
       "baseline": "4.0.3-1",
       "port-version": 0
     },
+    "wt-4-0-4-0": {
+      "baseline": "4.0.4",
+      "port-version": 0
+    },
     "wtl-10-0-0": {
       "baseline": "10.0",
       "port-version": 0
@@ -12998,6 +13138,10 @@
     },
     "zeromq-2018-07-30-0": {
       "baseline": "2018-07-30",
+      "port-version": 0
+    },
+    "zeromq-2018-09-18-0": {
+      "baseline": "2018-09-18",
       "port-version": 0
     },
     "zeromq-4-2-0-0": {
