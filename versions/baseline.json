@@ -3980,6 +3980,10 @@
       "baseline": "1.15.3-2",
       "port-version": 0
     },
+    "capnproto-0-7-0-0": {
+      "baseline": "0.7.0",
+      "port-version": 0
+    },
     "capstone--0": {
       "baseline": "",
       "port-version": 0
