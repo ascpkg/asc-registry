@@ -1,0 +1,4 @@
+Source: gl3w-99ed3211-0
+Version: 99ed3211
+Description: Simple OpenGL core profile loading
+Build-Depends: opengl-registry-2018-06-30-1-0
