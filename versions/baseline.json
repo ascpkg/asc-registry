@@ -3524,6 +3524,10 @@
       "baseline": "2018.01.01-f32d2b4",
       "port-version": 0
     },
+    "exprtk-2018-04-30-46877b6-0": {
+      "baseline": "2018.04.30-46877b6",
+      "port-version": 0
+    },
     "fadbad-2-1-0-0": {
       "baseline": "2.1.0",
       "port-version": 0
