@@ -7460,6 +7460,10 @@
       "baseline": "0.8.4-1",
       "port-version": 0
     },
+    "uriparser-0-8-5-0": {
+      "baseline": "0.8.5",
+      "port-version": 0
+    },
     "utf8proc-2-1-0-0": {
       "baseline": "2.1.0",
       "port-version": 0
