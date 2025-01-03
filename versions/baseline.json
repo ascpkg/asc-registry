@@ -2028,6 +2028,10 @@
       "baseline": "10.0.10240.0",
       "port-version": 0
     },
+    "openimageio-1-7-15-0": {
+      "baseline": "1.7.15",
+      "port-version": 0
+    },
     "openjpeg--0": {
       "baseline": "",
       "port-version": 0

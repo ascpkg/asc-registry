@@ -1,0 +1,4 @@
+Source: openimageio-1-7-15-0
+Version: 1.7.15
+Description: An library for reading and writing images, and a bunch of related classes, utilities, and application
+Build-Depends: boost-1-64-5-0, libjpeg-turbo-1-5-1-1-0, tiff-4-0-8-0, libpng-1-6-29-2-0, openexr-2-2-0-0
