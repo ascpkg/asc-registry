@@ -1,0 +1,4 @@
+Source: libcds-2-3-2-0
+Version: 2.3.2
+Build-Depends: boost-system-1-66-0-0, boost-thread-1-66-0-0
+Description: a collection of concurrent containers that don't require external (manual) synchronization for shared access, and safe memory reclamation (SMR) algorithms like Hazard Pointer and user-space RCU that is used as an epoch-based SMR.
