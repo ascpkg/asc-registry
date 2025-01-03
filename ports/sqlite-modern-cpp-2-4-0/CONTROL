@@ -1,3 +1,4 @@
 Source: sqlite-modern-cpp-2-4-0
 Version: 2.4
+Build-Depends: sqlite3-3-15-0-0
 Description: The C++14 wrapper around sqlite library
