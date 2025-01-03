@@ -1,0 +1,4 @@
+Source: freeimage-3-17-0-1-0
+Version: 3.17.0-1
+Build-Depends: zlib-1-2-11-0, libpng-1-6-28-0, libjpeg-turbo-1-5-1-1-0, tiff-4-0-7-0, openjpeg-2-1-2-1-0, libwebp-0-6-0-1-0, libraw-0-18-0-1-0, jxrlib-1-1-2-0
+Description: Support library for graphics image formats
