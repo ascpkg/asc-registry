@@ -1,0 +1,4 @@
+Source: shiva-0-7-0
+Version: 0.7
+Description: Modern C++ Game Engine
+Build-Depends: boost-stacktrace-1-67-0-0, boost-filesystem-1-67-0-0, boost-dll-1-67-0-0, entt-2-7-1-0, eastl-3-10-00-0, lua-5-3-4-4-0 (windows), sol2-2-20-4-0, pybind11-2-2-3-0, spdlog-1-x-2018-07-04-0
