@@ -1,0 +1,4 @@
+Source: qt5-webchannel-5-12-1-0
+Version: 5.12.1
+Description: Qt5 Web Channel module - Provides access to QObject or QML objects from HTML clients for seamless integration of Qt applications with HTML/JavaScript clients.
+Build-Depends: qt5-modularscripts-2019-02-02-0, qt5-base-5-12-1-0

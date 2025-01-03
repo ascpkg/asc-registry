@@ -1,0 +1,4 @@
+Source: qt5-script-5-12-1-0
+Version: 5.12.1
+Build-Depends: qt5-base-5-12-1-0, qt5-modularscripts-2019-02-02-0
+Description:Qt5 Script Module.
