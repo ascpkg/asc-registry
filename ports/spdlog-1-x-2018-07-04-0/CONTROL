@@ -1,0 +1,4 @@
+Source: spdlog-1-x-2018-07-04-0
+Version: 1.x-2018-07.04
+Description: Very fast, header only, C++ logging library
+Build-Depends: fmt-5-0-0-1-0
