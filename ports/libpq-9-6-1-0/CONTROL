@@ -1,3 +1,4 @@
 Source: libpq-9-6-1-0
 Version: 9.6.1
 Description: The official database access API of postgresql
+Build-Depends: openssl-1-0-2j-0
