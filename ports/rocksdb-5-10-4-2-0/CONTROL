@@ -1,0 +1,4 @@
+Source: rocksdb-5-10-4-2-0
+Version: 5.10.4-2
+Description: A library that provides an embeddable, persistent key-value store for fast storage
+Build-Depends: snappy-1-1-7-2-0, gflags-2-2-1-3-0, lz4-1-8-1-2-1-0, zlib-1-2-11-4-0
