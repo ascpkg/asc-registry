@@ -2492,6 +2492,10 @@
       "baseline": "0.6.1-2",
       "port-version": 0
     },
+    "evpp-0-7-0-0": {
+      "baseline": "0.7.0",
+      "port-version": 0
+    },
     "exiv2-2018-02-25-0": {
       "baseline": "2018-02-25",
       "port-version": 0
