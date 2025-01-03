@@ -1,0 +1,4 @@
+Source: shiva-sfml-0-9-0
+Version: 0.9
+Description: shiva-sfml plugins of shiva C++ engine
+Build-Depends: sfml-2-5-0-2-0 (windows), shiva-0-9-0
