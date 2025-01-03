@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "git-tree": "b65fa35d669b450350390b97053e6dd293e2e9f1",
+      "version": "rel-1-5-1-vcpkg2",
+      "port-version": 0
+    }
+  ]
+}
