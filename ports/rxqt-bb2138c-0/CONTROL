@@ -1,0 +1,4 @@
+Source: rxqt-bb2138c-0
+Version: bb2138c
+Description: The Reactive Extensions for Qt. <https://github.com/tetsurom/rxqt>
+Build-Depends: rxcpp-4-0-0-1-0
