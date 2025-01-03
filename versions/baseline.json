@@ -8068,6 +8068,10 @@
       "baseline": "3.5.6-2",
       "port-version": 0
     },
+    "osg-3-5-6-3-0": {
+      "baseline": "3.5.6-3",
+      "port-version": 0
+    },
     "osgearth-2-9-0": {
       "baseline": "2.9",
       "port-version": 0
