@@ -1,0 +1,4 @@
+Source: cgal-4-11-0
+Version: 4.11
+Build-Depends: mpfr-3-1-6-0, mpir-3-0-0-2-0, zlib-1-2-11-3-0, boost-1-65-1-0, qt5-5-8-6-0
+Description: The Computational Geometry Algorithms Library (CGAL) is a C++ library that aims to provide easy access to efficient and reliable algorithms in computational geometry.
