@@ -7852,6 +7852,10 @@
       "baseline": "2018.08.05",
       "port-version": 0
     },
+    "live555-latest-0": {
+      "baseline": "latest",
+      "port-version": 0
+    },
     "llvm-4-0-0-0": {
       "baseline": "4.0.0",
       "port-version": 0
