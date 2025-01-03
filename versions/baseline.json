@@ -4852,6 +4852,10 @@
       "baseline": "1.10.8",
       "port-version": 0
     },
+    "tiny-dnn-2017-10-09-dd906fed8c8aff8dc837657c42f9d55f8b793b0e-0": {
+      "baseline": "2017-10-09-dd906fed8c8aff8dc837657c42f9d55f8b793b0e",
+      "port-version": 0
+    },
     "tinyexr-v0-9-5-d16ea6-0": {
       "baseline": "v0.9.5-d16ea6",
       "port-version": 0
