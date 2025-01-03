@@ -1,0 +1,4 @@
+Source: brynet-1-0-0-1-0
+Version: 1.0.0-1
+Description: A C++ cross platform high performance tcp network library, and support SSL/HTTP/Websocket.
+Build-Depends: openssl-0-0
