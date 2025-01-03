@@ -1720,6 +1720,10 @@
       "baseline": "jun2017-4",
       "port-version": 0
     },
+    "magnum-jun2017-5-0": {
+      "baseline": "jun2017-5",
+      "port-version": 0
+    },
     "magnum-plugins-jun2017-0": {
       "baseline": "jun2017",
       "port-version": 0
@@ -1734,6 +1738,10 @@
     },
     "magnum-plugins-jun2017-3-0": {
       "baseline": "jun2017-3",
+      "port-version": 0
+    },
+    "magnum-plugins-jun2017-4-0": {
+      "baseline": "jun2017-4",
       "port-version": 0
     },
     "mdnsresponder-765-30-11-0": {
