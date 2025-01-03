@@ -6080,6 +6080,10 @@
       "baseline": "0.26.0",
       "port-version": 0
     },
+    "libgit2-0-27-4-1-0": {
+      "baseline": "0.27.4-1",
+      "port-version": 0
+    },
     "libgo-2-7-0": {
       "baseline": "2.7",
       "port-version": 0
