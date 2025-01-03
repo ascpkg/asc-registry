@@ -1,0 +1,4 @@
+Source: highfive-1-5-1-0
+Version: 1.5-1
+Description: HighFive is a modern C++/C++11 friendly interface for libhdf5
+Build-Depends: hdf5-1-10-5-1-0
