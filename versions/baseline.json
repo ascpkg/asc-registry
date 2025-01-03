@@ -2552,6 +2552,10 @@
       "baseline": "",
       "port-version": 0
     },
+    "speex-2017-06-28-cae5026cfd88782c7051af6e685059223578b7e9-0": {
+      "baseline": "2017-06-28-cae5026cfd88782c7051af6e685059223578b7e9",
+      "port-version": 0
+    },
     "spirv-tools--0": {
       "baseline": "",
       "port-version": 0
