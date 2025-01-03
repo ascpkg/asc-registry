@@ -580,6 +580,10 @@
       "baseline": "0.17.2-2",
       "port-version": 0
     },
+    "libsigcpp-2-10-0": {
+      "baseline": "2.10",
+      "port-version": 0
+    },
     "libssh2-1-8-0-0": {
       "baseline": "1.8.0",
       "port-version": 0
