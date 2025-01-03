@@ -1,0 +1,5 @@
+Source: curl-7-58-0-0
+Version: 7.58.0
+Build-Depends: zlib-1-2-11-3-0, openssl-1-0-2n-1-0, libssh2-1-8-0-3-0
+Description: A library for transferring data with URLs
+# For WINSSL create target triplet which contains set(CURL_USE_WINSSL ON)
