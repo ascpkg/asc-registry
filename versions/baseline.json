@@ -644,6 +644,10 @@
       "baseline": "5.6.5",
       "port-version": 0
     },
+    "ctemplate-2017-06-23-44b7c5-2-0": {
+      "baseline": "2017-06-23-44b7c5-2",
+      "port-version": 0
+    },
     "ctemplate-2017-06-23-44b7c5b918a08ad561c63e9d28beecb40c10ebca-0": {
       "baseline": "2017-06-23-44b7c5b918a08ad561c63e9d28beecb40c10ebca",
       "port-version": 0
