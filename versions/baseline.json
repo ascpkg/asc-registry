@@ -616,6 +616,10 @@
       "baseline": "5.7.16",
       "port-version": 0
     },
+    "libmysql-5-7-17-0": {
+      "baseline": "5.7.17",
+      "port-version": 0
+    },
     "libodb-2-4-0-0": {
       "baseline": "2.4.0",
       "port-version": 0
