@@ -1,0 +1,4 @@
+Source: exiv2-2018-03-29-0
+Version: 2018-03-29
+Build-Depends: zlib-1-2-11-3-0, expat-2-2-5-0, libiconv-1-15-2-0
+Description: Image metadata library and tools http://www.exiv2.org
