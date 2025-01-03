@@ -1,0 +1,4 @@
+Source: vtk-7-1-1-0
+Version: 7.1.1
+Description: Software system for 3D computer graphics, image processing, and visualization
+Build-Depends: zlib-1-2-11-0, libpng-1-6-29-2-0, tiff-4-0-8-0, libxml2-2-9-4-1-0, jsoncpp-1-7-7-0, glew-2-0-0-2-0, freetype-2-8-0, expat-2-1-1-1-0, hdf5-1-10-0-patch1-1-0, qt5-5-8-3-0, msmpi-8-0-1-0
