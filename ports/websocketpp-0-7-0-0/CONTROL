@@ -1,3 +1,4 @@
 Source: websocketpp-0-7-0-0
 Version: 0.7.0
+Build-Depends: zlib-1-2-11-0, openssl-1-0-2k-2-0, boost-1-63-0
 Description: Library that implements RFC6455 The WebSocket Protocol
