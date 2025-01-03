@@ -1,0 +1,16 @@
+Source: magnum-integration-2018-02-1-0
+Version: 2018.02-1
+Build-Depends: magnum-2018-02-1-0
+Description: Integrations for magnum, C++11/C++14 graphics middleware for games and data visualization http://magnum.graphics/
+Default-Features:
+
+Feature: bullet
+Description: BulletIntegration library
+Build-Depends: bullet3-2-87-0
+#Feature: ovr
+#Description: OvrIntegration library
+#Build-Depends: ovrsdk
+#Feature: dart
+#Description: DartIntegration library
+#Build-Depends: dart
+
