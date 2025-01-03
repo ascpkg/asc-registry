@@ -1,0 +1,4 @@
+Source: socket-io-client-1-6-1-1-0
+Version: 1.6.1-1
+Description: C++11 implementation of Socket.IO client
+Build-Depends: boost-1-69-0-0, rapidjson-1-1-0-3-0, websocketpp-0-8-1-0

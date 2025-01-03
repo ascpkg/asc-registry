@@ -1,0 +1,4 @@
+Source: mongo-cxx-driver-3-2-0-2-0
+Version: 3.2.0-2
+Build-Depends: libbson-1-9-5-1-0, mongo-c-driver-1-9-5-3-0, boost-smart-ptr-1-69-0-0, boost-optional-1-69-0-0, boost-utility-1-69-0-0
+Description: MongoDB C++ Driver.

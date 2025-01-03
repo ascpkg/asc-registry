@@ -1,0 +1,4 @@
+Source: libevent-2-1-8-4-0
+Version: 2.1.8-4
+Build-Depends: openssl-0-0
+Description: An event notification library
