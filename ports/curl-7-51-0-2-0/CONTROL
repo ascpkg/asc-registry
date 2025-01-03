@@ -1,4 +1,4 @@
 Source: curl-7-51-0-2-0
 Version: 7.51.0-2
-Build-Depends: zlib-1-2-10-0, openssl-1-0-2j-1-0, libssh2-1-8-0-0
+Build-Depends: zlib-1-2-10-0, openssl-1-0-2j-1-0, libssh2-1-8-0-1-0
 Description: A library for transferring data with URLs
