@@ -1,0 +1,4 @@
+Source: spdlog-0-12-0-0
+Version: 0.12.0
+Description: Very fast, header only, C++ logging library
+Build-Depends: fmt-3-0-1-4-0
