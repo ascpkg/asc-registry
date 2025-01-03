@@ -1,4 +1,4 @@
 Source: libpng-1-6-24-1-0
 Version: 1.6.24-1
-Build-Depends: zlib-1-2-8-0
+Build-Depends: zlib-1-2-11-0
 Description: libpng is a library implementing an interface for reading and writing PNG (Portable Network Graphics) format files.
