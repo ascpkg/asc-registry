@@ -1,0 +1,4 @@
+Source: harfbuzz-1-7-1-0
+Version: 1.7.1
+Description: HarfBuzz OpenType text shaping engine
+Build-Depends: freetype-2-8-1-1-0, glib-2-52-3-1-0 (windows)
