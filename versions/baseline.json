@@ -1436,6 +1436,10 @@
       "baseline": "v2017.07.17.01-1",
       "port-version": 0
     },
+    "folly-v2017-10-02-00-0": {
+      "baseline": "v2017.10.02.00",
+      "port-version": 0
+    },
     "fontconfig-2-12-1-0": {
       "baseline": "2.12.1",
       "port-version": 0
