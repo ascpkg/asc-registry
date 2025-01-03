@@ -1108,6 +1108,10 @@
       "baseline": "2.2",
       "port-version": 0
     },
+    "date-2-3-0": {
+      "baseline": "2.3",
+      "port-version": 0
+    },
     "decimal-for-cpp-1-12-0": {
       "baseline": "1.12",
       "port-version": 0
