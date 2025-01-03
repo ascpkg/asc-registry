@@ -3540,6 +3540,10 @@
       "baseline": "1.9.0",
       "port-version": 0
     },
+    "libbson-1-9-2-0": {
+      "baseline": "1.9.2",
+      "port-version": 0
+    },
     "libccd-2-0-0-0": {
       "baseline": "2.0.0",
       "port-version": 0
