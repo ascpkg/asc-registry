@@ -24,6 +24,7 @@ Build-Depends: eigen3-3-3-4-2-0, glog-0-3-5-1-0, gflags-2-2-1-2-0, ceres-1-13-0-
 Description: opencv_sfm module
 
 Feature: contrib
+Build-Depends: opencv-3-4-1-0[flann]
 Description: opencv_contrib module
 
 Feature: cuda
