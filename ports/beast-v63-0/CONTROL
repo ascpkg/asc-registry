@@ -1,0 +1,4 @@
+Source: beast-v63-0
+Version: v63
+Build-Depends: boost-1-64-5-0
+Description: HTTP/1 and WebSocket, header-only using Boost.Asio and C++11

@@ -136,6 +136,10 @@
       "baseline": "v59",
       "port-version": 0
     },
+    "beast-v63-0": {
+      "baseline": "v63",
+      "port-version": 0
+    },
     "benchmark-1-1-0-0": {
       "baseline": "1.1.0",
       "port-version": 0
