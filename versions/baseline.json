@@ -560,6 +560,10 @@
       "baseline": "oct2016",
       "port-version": 0
     },
+    "dirent-2017-06-23-5c7194c2fe2c68c1a8212712c0b4b6195382d27d-0": {
+      "baseline": "2017-06-23-5c7194c2fe2c68c1a8212712c0b4b6195382d27d",
+      "port-version": 0
+    },
     "dlfcn-win32-1-1-0-0": {
       "baseline": "1.1.0",
       "port-version": 0
