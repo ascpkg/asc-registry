@@ -188,6 +188,10 @@
       "baseline": "d8905de",
       "port-version": 0
     },
+    "armadillo-8-400-0-1-0": {
+      "baseline": "8.400.0-1",
+      "port-version": 0
+    },
     "arrow-0-6-0-0": {
       "baseline": "0.6.0",
       "port-version": 0
