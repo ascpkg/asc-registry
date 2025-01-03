@@ -1,0 +1,4 @@
+Source: qt5docs-5-9-2-0-0
+Version: 5.9.2-0
+Description: Qt5 Documentation
+Build-Depends: qt5base-5-9-2-0-0, qt5tools-5-9-2-0-0
