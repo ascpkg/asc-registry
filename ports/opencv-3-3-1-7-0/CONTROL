@@ -1,6 +1,6 @@
 Source: opencv-3-3-1-7-0
 Version: 3.3.1-7
-Build-Depends: zlib-1-2-11-3-0, libpng-1-6-32-1-0, libjpeg-turbo-1-5-2-2-0, tiff-4-0-8-1-0, protobuf-3-4-1-2-0 (windows)
+Build-Depends: zlib-1-2-11-3-0, libpng-1-6-34-2-0, libjpeg-turbo-1-5-2-2-0, tiff-4-0-8-1-0, protobuf-3-4-1-2-0 (windows)
 Description: computer vision library
 
 Feature: sfm
@@ -19,5 +19,9 @@ Build-Depends: qt5-5-8-6-0
 Description: Qt GUI support for opencv
 
 Feature: vtk
-Build-Depends: vtk-8-0-1-1-0
+Build-Depends: vtk-8-0-1-5-0
 Description: vtk support for opencv
+
+Feature: gdcm
+Build-Depends: gdcm2-2-8-3-0
+Description: GDCM support for opencv
