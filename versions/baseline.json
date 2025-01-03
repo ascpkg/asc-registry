@@ -5468,6 +5468,10 @@
       "baseline": "5.5.19.2-1",
       "port-version": 0
     },
+    "sobjectizer-5-5-20-0": {
+      "baseline": "5.5.20",
+      "port-version": 0
+    },
     "sobjectizer-5-5-20-beta1-201712061845-0": {
       "baseline": "5.5.20-beta1-201712061845",
       "port-version": 0
