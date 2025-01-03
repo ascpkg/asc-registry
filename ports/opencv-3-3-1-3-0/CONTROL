@@ -14,6 +14,10 @@ Feature: cuda
 Build-Depends: cuda-8-0-1-0
 Description: CUDA support for opencv
 
+Feature: qt
+Build-Depends: qt5-5-8-6-0
+Description: Qt GUI support for opencv
+
 Feature: sfm
 Build-Depends: eigen3-3-3-4-2-0, glog-0-3-5-1-0, gflags-2-2-0-5-0
 Description: opencv_sfm module
