@@ -1,0 +1,4 @@
+Source: uvatlas-sept2016-0
+Version: sept2016
+Description: UVAtlas isochart texture atlas
+Build-Depends: directxtex, directxmesh
