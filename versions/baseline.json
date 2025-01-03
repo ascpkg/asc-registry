@@ -2312,6 +2312,10 @@
       "baseline": "0.8",
       "port-version": 0
     },
+    "osg-3-5-6-0": {
+      "baseline": "3.5.6",
+      "port-version": 0
+    },
     "paho-mqtt-Version-1-1-0-Paho-1-2-0": {
       "baseline": "Version 1.1.0 (Paho 1.2)",
       "port-version": 0
