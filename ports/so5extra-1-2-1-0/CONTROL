@@ -1,0 +1,4 @@
+Source: so5extra-1-2-1-0
+Version: 1.2.1
+Description: A set of additional tools for SObjectizer framework.
+Build-Depends: sobjectizer-5-5-23-0
