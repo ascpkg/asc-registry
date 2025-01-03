@@ -1040,6 +1040,10 @@
       "baseline": "2.8",
       "port-version": 0
     },
+    "g2o-20170730-git-0": {
+      "baseline": "20170730_git",
+      "port-version": 0
+    },
     "gdal-1-11-3-0": {
       "baseline": "1.11.3",
       "port-version": 0
