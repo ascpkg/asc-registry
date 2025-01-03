@@ -1020,6 +1020,10 @@
       "baseline": "0.8.8.5-bb25b05",
       "port-version": 0
     },
+    "libmodplug-0-8-9-0-0": {
+      "baseline": "0.8.9.0",
+      "port-version": 0
+    },
     "libmpv-0-39-0-0": {
       "baseline": "0.39.0",
       "port-version": 0
