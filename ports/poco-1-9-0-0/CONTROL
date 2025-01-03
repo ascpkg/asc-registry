@@ -1,6 +1,6 @@
 Source: poco-1-9-0-0
 Version: 1.9.0
-Build-Depends: zlib-1-2-11-3-0, pcre-8-41-1-0, sqlite3-3-23-1-1-0, expat-2-2-5-0
+Build-Depends: zlib-1-2-11-3-0, pcre-8-41-1-0, sqlite3-3-24-0-1-0, expat-2-2-5-0
 Description: Modern, powerful open source C++ class libraries for building network and internet-based applications that run on desktop, server, mobile and embedded systems.
 
 Feature: mysql
