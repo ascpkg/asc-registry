@@ -1,0 +1,6 @@
+Source: azmq-1-0-2-0
+Version: 1.0.2
+Build-Depends: boost-asio-1-66-0-1-0, boost-assert-1-66-0-0, boost-config-1-66-0-0, boost-container-1-66-0-0, boost-format-1-66-0-0, boost-intrusive-1-66-0-0, boost-iterator-1-66-0-0, boost-lexical-cast-1-66-0-0, boost-logic-1-66-0-0, boost-optional-1-66-0-0, boost-random-1-66-0-0, boost-range-1-66-0-0, boost-regex-1-66-0-0, boost-system-1-66-0-0, boost-thread-1-66-0-0, boost-utility-1-66-0-0, zeromq-2018-03-20-0
+Description: Boost Asio style bindings for ZeroMQ
+  This library is built on top of ZeroMQ's standard C interface and is intended to work well with C++ applications which use the Boost libraries in general, and Asio in particular.
+  The main abstraction exposed by the library is azmq::socket which provides an Asio style socket interface to the underlying zeromq socket and interfaces with Asio's io_service(). The socket implementation participates in the io_service's reactor for asynchronous IO and may be freely mixed with other Asio socket types (raw TCP/UDP/Serial/etc.).
