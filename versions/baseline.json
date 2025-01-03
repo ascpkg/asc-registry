@@ -888,6 +888,10 @@
       "baseline": "1.7.4.2",
       "port-version": 0
     },
+    "lz4-1-7-5-0": {
+      "baseline": "1.7.5",
+      "port-version": 0
+    },
     "lzo-2-09-0": {
       "baseline": "2.09",
       "port-version": 0
