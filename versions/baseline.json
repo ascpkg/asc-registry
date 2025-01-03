@@ -700,6 +700,10 @@
       "baseline": "2.6.3-5",
       "port-version": 0
     },
+    "freetype-2-8-0": {
+      "baseline": "2.8",
+      "port-version": 0
+    },
     "gdal-1-11-3-0": {
       "baseline": "1.11.3",
       "port-version": 0
