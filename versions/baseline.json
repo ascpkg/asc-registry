@@ -152,6 +152,10 @@
       "baseline": "2019-01-09-1",
       "port-version": 0
     },
+    "abseil-2019-01-30-0": {
+      "baseline": "2019-01-30",
+      "port-version": 0
+    },
     "ace-6-4-0-0": {
       "baseline": "6.4.0",
       "port-version": 0
@@ -416,6 +420,10 @@
       "baseline": "2018-10-25",
       "port-version": 0
     },
+    "args-2019-01-18-0": {
+      "baseline": "2019-01-18",
+      "port-version": 0
+    },
     "args-d8905de-0": {
       "baseline": "d8905de",
       "port-version": 0
@@ -498,6 +506,10 @@
     },
     "asmjit-2018-12-14-0": {
       "baseline": "2018-12-14",
+      "port-version": 0
+    },
+    "asmjit-2019-01-30-0": {
+      "baseline": "2019-01-30",
       "port-version": 0
     },
     "asmjit-673dcefaa048c5f5a2bf8b85daf8f7b9978d018a-0": {
@@ -798,6 +810,10 @@
     },
     "aws-sdk-cpp-1-7-38-0": {
       "baseline": "1.7.38",
+      "port-version": 0
+    },
+    "aws-sdk-cpp-1-7-41-0": {
+      "baseline": "1.7.41",
       "port-version": 0
     },
     "azmq-1-0-2-0": {
@@ -4400,6 +4416,10 @@
       "baseline": "2.4.4",
       "port-version": 0
     },
+    "cimg-2-4-5-0": {
+      "baseline": "2.4.5",
+      "port-version": 0
+    },
     "cimg-220-0": {
       "baseline": "220",
       "port-version": 0
@@ -5408,6 +5428,10 @@
       "baseline": "2.2.0",
       "port-version": 0
     },
+    "doctest-2-2-2-0": {
+      "baseline": "2.2.2",
+      "port-version": 0
+    },
     "double-conversion-2-0-1-0": {
       "baseline": "2.0.1",
       "port-version": 0
@@ -5530,6 +5554,10 @@
     },
     "eastl-3-12-08-0": {
       "baseline": "3.12.08",
+      "port-version": 0
+    },
+    "eastl-3-13-00-0": {
+      "baseline": "3.13.00",
       "port-version": 0
     },
     "easyloggingpp-9-96-5-1-0": {
@@ -6450,6 +6478,10 @@
     },
     "folly-2019-01-07-00-0": {
       "baseline": "2019.01.07.00",
+      "port-version": 0
+    },
+    "folly-2019-01-28-00-0": {
+      "baseline": "2019.01.28.00",
       "port-version": 0
     },
     "folly-v2017-05-08-00-0": {
@@ -9632,6 +9664,10 @@
       "baseline": "1.24.1",
       "port-version": 0
     },
+    "libuv-1-25-0-0": {
+      "baseline": "1.25.0",
+      "port-version": 0
+    },
     "libuv-1-9-1-0": {
       "baseline": "1.9.1",
       "port-version": 0
@@ -10520,6 +10556,10 @@
       "baseline": "1.3.0",
       "port-version": 0
     },
+    "mpark-variant-1-4-0-0": {
+      "baseline": "1.4.0",
+      "port-version": 0
+    },
     "mpfr-3-1-5-0": {
       "baseline": "3.1.5",
       "port-version": 0
@@ -10686,6 +10726,10 @@
     },
     "ms-gsl-2019-01-15-0": {
       "baseline": "2019-01-15",
+      "port-version": 0
+    },
+    "ms-gsl-2019-01-18-0": {
+      "baseline": "2019-01-18",
       "port-version": 0
     },
     "msgpack-2-1-1-0": {
@@ -13476,6 +13520,10 @@
       "baseline": "2019-01-09",
       "port-version": 0
     },
+    "re2-2019-01-30-0": {
+      "baseline": "2019-01-30",
+      "port-version": 0
+    },
     "readerwriterqueue-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
@@ -13798,6 +13846,10 @@
     },
     "rs-core-lib-2019-01-09-0": {
       "baseline": "2019-01-09",
+      "port-version": 0
+    },
+    "rs-core-lib-2019-01-30-0": {
+      "baseline": "2019-01-30",
       "port-version": 0
     },
     "rs-core-lib-commit-1ed2dadbda3977b13e5e83cc1f3eeca76b36ebe5-0": {
@@ -15216,6 +15268,10 @@
       "baseline": "2019-01-09",
       "port-version": 0
     },
+    "thrift-2019-01-30-0": {
+      "baseline": "2019-01-30",
+      "port-version": 0
+    },
     "thrift-latest-0": {
       "baseline": "latest",
       "port-version": 0
@@ -15480,6 +15536,10 @@
       "baseline": "32-1",
       "port-version": 0
     },
+    "trompeloeil-33-0": {
+      "baseline": "33",
+      "port-version": 0
+    },
     "tsl-hopscotch-map-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
@@ -15552,6 +15612,10 @@
       "baseline": "2019-01-09",
       "port-version": 0
     },
+    "unicorn-2019-01-30-0": {
+      "baseline": "2019-01-30",
+      "port-version": 0
+    },
     "unicorn-lib-2018-02-25-0": {
       "baseline": "2018-02-25",
       "port-version": 0
@@ -15618,6 +15682,10 @@
     },
     "unicorn-lib-2019-01-09-0": {
       "baseline": "2019-01-09",
+      "port-version": 0
+    },
+    "unicorn-lib-2019-01-30-0": {
+      "baseline": "2019-01-30",
       "port-version": 0
     },
     "unicorn-lib-commit-3ffa7fe69a1d0c37fb52a4af61380c5fd84fa5aa-0": {
@@ -16394,6 +16462,10 @@
     },
     "zeromq-2019-01-09-0": {
       "baseline": "2019-01-09",
+      "port-version": 0
+    },
+    "zeromq-2019-01-30-0": {
+      "baseline": "2019-01-30",
       "port-version": 0
     },
     "zeromq-4-2-0-0": {
