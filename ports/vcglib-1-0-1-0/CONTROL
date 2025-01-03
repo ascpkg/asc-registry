@@ -1,0 +1,4 @@
+Source: vcglib-1-0-1-0
+Version: 1.0.1
+Description: library for manipulation, processing, cleaning, simplifying triangle meshes.
+Build-Depends: eigen3-3-3-7-0
