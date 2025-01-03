@@ -1,0 +1,4 @@
+Source: libirecovery-1-0-25-2-0
+Version: 1.0.25-2
+Description: Library and utility to talk to iBoot/iBSS via USB on Mac OS X, Windows, and Linux
+Build-Depends: libusbmuxd-1-0-107-2-0, readline-0-0, getopt-0-0

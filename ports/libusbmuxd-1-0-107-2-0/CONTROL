@@ -1,0 +1,4 @@
+Source: libusbmuxd-1-0-107-2-0
+Version: 1.0.107-2
+Description: A client library to multiplex connections from and to iOS devices
+Build-Depends: libplist-2-0-1-197-2-0

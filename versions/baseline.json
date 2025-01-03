@@ -6896,6 +6896,10 @@
       "baseline": "1.0.25-1",
       "port-version": 0
     },
+    "libirecovery-1-0-25-2-0": {
+      "baseline": "1.0.25-2",
+      "port-version": 0
+    },
     "libjpeg-turbo-1-4-90-1-0": {
       "baseline": "1.4.90-1",
       "port-version": 0
@@ -7206,6 +7210,10 @@
     },
     "libplist-2-0-1-197-1-0": {
       "baseline": "2.0.1.197-1",
+      "port-version": 0
+    },
+    "libplist-2-0-1-197-2-0": {
+      "baseline": "2.0.1.197-2",
       "port-version": 0
     },
     "libpng-1-6-24-1-0": {
@@ -7554,6 +7562,10 @@
     },
     "libusbmuxd-1-0-107-1-0": {
       "baseline": "1.0.107-1",
+      "port-version": 0
+    },
+    "libusbmuxd-1-0-107-2-0": {
+      "baseline": "1.0.107-2",
       "port-version": 0
     },
     "libuuid-1-0-3-0": {
@@ -9288,12 +9300,20 @@
       "baseline": "1.0.2o-1",
       "port-version": 0
     },
+    "openssl-unix-1-0-2p-0": {
+      "baseline": "1.0.2p",
+      "port-version": 0
+    },
     "openssl-uwp-1-0-2l-winrt-0": {
       "baseline": "1.0.2l-winrt",
       "port-version": 0
     },
     "openssl-windows-1-0-2o-0": {
       "baseline": "1.0.2o",
+      "port-version": 0
+    },
+    "openssl-windows-1-0-2p-0": {
+      "baseline": "1.0.2p",
       "port-version": 0
     },
     "openvdb-5-0-0-0": {
