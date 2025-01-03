@@ -956,6 +956,10 @@
       "baseline": "4.2.x.1a02b1b3f2",
       "port-version": 0
     },
+    "zlib-1-2-10-0": {
+      "baseline": "1.2.10",
+      "port-version": 0
+    },
     "zlib-1-2-8-0": {
       "baseline": "1.2.8",
       "port-version": 0
