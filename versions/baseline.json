@@ -7448,6 +7448,10 @@
       "baseline": "0.2.6",
       "port-version": 0
     },
+    "json-spirit-4-1-0-0": {
+      "baseline": "4.1.0",
+      "port-version": 0
+    },
     "json11-2017-06-20-0": {
       "baseline": "2017-06-20",
       "port-version": 0
