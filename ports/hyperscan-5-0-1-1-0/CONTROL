@@ -1,0 +1,4 @@
+Source: hyperscan-5-0-1-1-0
+Version: 5.0.1-1
+Description: A regular expression library with O(length of input) match times that takes advantage of Intel hardware to provide blazing speed.
+Build-Depends: boost-array-1-69-0-0, boost-chrono-1-69-0-0, boost-config-1-69-0-0, boost-core-1-69-0-0, boost-detail-1-69-0-0, boost-functional-1-69-0-0, boost-regex-1-69-0-0, boost-system-1-69-0-0, boost-thread-1-69-0-0, boost-type-traits-1-69-0-1-0, boost-unordered-1-69-0-0, boost-utility-1-69-0-0, boost-dynamic-bitset-1-69-0-0, boost-random-1-69-0-0, boost-graph-1-69-0-0, boost-multi-array-1-69-0-0, boost-icl-1-69-0-0, boost-ptr-container-1-69-0-0, python3-3-6-4-5-0, ragel-6-10-1-0
