@@ -72,6 +72,10 @@
       "baseline": "3.1.2",
       "port-version": 0
     },
+    "glfw3-3-2-1-0": {
+      "baseline": "3.2.1",
+      "port-version": 0
+    },
     "glm-0-9-8-0-0": {
       "baseline": "0.9.8.0",
       "port-version": 0
