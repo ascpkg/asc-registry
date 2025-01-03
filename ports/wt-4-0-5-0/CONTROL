@@ -1,0 +1,4 @@
+Source: wt-4-0-5-0
+Version: 4.0.5
+Description: Wt is a C++ library for developing web applications
+Build-Depends: openssl-0-0, sqlite3-3-26-0-0, libpq-9-6-1-5-0, pango-1-40-11-3-0, glew-2-1-0-1-0, boost-date-time-1-68-0-0, boost-regex-1-68-0-0, boost-program-options-1-68-0-0, boost-signals-1-68-0-0, boost-system-1-68-0-0, boost-filesystem-1-68-0-0, boost-thread-1-68-0-0, boost-random-1-68-0-0, boost-multi-index-1-68-0-0, boost-signals2-1-68-0-0, boost-asio-1-68-0-1-0, boost-ublas-1-68-0-0, boost-conversion-1-68-0-0, boost-array-1-68-0-0, boost-smart-ptr-1-68-0-0, boost-tuple-1-68-0-0, boost-algorithm-1-68-0-0, boost-logic-1-68-0-0, boost-interprocess-1-68-0-0
