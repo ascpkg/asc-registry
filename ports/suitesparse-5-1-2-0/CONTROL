@@ -1,0 +1,8 @@
+Source: suitesparse-5-1-2-0
+Version: 5.1.2
+Build-Depends: clapack-3-2-1-1-0
+Description: algebra library
+
+Feature: metis
+Build-Depends: metis-5-1-0-2-0
+Description: Use metis in SuiteSparse
