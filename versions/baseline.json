@@ -440,6 +440,10 @@
       "baseline": "1.4.24",
       "port-version": 0
     },
+    "aws-sdk-cpp-1-4-26-0": {
+      "baseline": "1.4.26",
+      "port-version": 0
+    },
     "azmq-1-0-2-0": {
       "baseline": "1.0.2",
       "port-version": 0
@@ -2386,6 +2390,10 @@
     },
     "discord-rpc-3-1-0-0": {
       "baseline": "3.1.0",
+      "port-version": 0
+    },
+    "discord-rpc-3-2-0-0": {
+      "baseline": "3.2.0",
       "port-version": 0
     },
     "dlfcn-win32-1-1-0-0": {
@@ -8594,6 +8602,10 @@
     },
     "thrift-2018-03-29-0": {
       "baseline": "2018-03-29",
+      "port-version": 0
+    },
+    "thrift-2018-03-30-0": {
+      "baseline": "2018-03-30",
       "port-version": 0
     },
     "thrift-latest-0": {
