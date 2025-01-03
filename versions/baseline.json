@@ -5024,6 +5024,10 @@
       "baseline": "5.9.2-0",
       "port-version": 0
     },
+    "qt5serialport-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
     "qt5speech-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
