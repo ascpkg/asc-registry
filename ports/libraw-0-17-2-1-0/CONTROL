@@ -1,0 +1,4 @@
+Source: libraw-0-17-2-1-0
+Version: 0.17.2-1
+Build-Depends: libjpeg-turbo-1-4-90-1-0
+Description: raw image decoder library
