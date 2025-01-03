@@ -1,0 +1,4 @@
+Source: glib-2-52-3-2-0
+Version: 2.52.3-2
+Description: Portable, general-purpose utility library.
+Build-Depends: zlib-1-2-11-3-0, pcre-8-41-1-0, libffi-3-1-1-0, gettext-0-19-2-0, libiconv-1-15-1-0
