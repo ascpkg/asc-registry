@@ -1,0 +1,4 @@
+Source: opencv-3-2-0-0
+Version: 3.2.0
+Build-Depends: zlib-1-2-11-0, libpng-1-6-24-1-0, libjpeg-turbo-1-4-90-1-0, tiff-4-0-6-2-0
+Description: computer vision library
