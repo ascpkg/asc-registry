@@ -7936,6 +7936,10 @@
       "baseline": "Release-1.8.12",
       "port-version": 0
     },
+    "openimageio-Release-1-8-12-1-0": {
+      "baseline": "Release-1.8.12-1",
+      "port-version": 0
+    },
     "openimageio-Release-1-9-2dev-0": {
       "baseline": "Release-1.9.2dev",
       "port-version": 0
