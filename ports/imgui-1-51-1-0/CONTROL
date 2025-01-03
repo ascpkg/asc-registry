@@ -1,0 +1,4 @@
+Source: imgui-1-51-1-0
+Version: 1.51-1
+Build-Depends: stb-20170724-9d9f75e-0
+Description: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies.
