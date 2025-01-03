@@ -1,0 +1,4 @@
+Source: gamma-gamma-2018-01-27-0
+Version: gamma-2018-01-27
+Build-Depends: libsndfile-1-0-29-6830c42-3-0, portaudio-19-0-6-00-2-0
+Description: Gamma is a cross-platform, C++ library for doing generic synthesis and filtering of signals. It is oriented towards real-time sound and graphics applications, but is equally useful for non-real-time tasks. Gamma is designed to be "light-footed" in terms of memory and processing making it highly suitable for plug-in development or embedding in other C++ projects.
