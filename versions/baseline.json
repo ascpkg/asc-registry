@@ -724,6 +724,10 @@
       "baseline": "5.7.17",
       "port-version": 0
     },
+    "libmysql-5-7-17-1-0": {
+      "baseline": "5.7.17-1",
+      "port-version": 0
+    },
     "libnice-0-1-13-0": {
       "baseline": "0.1.13",
       "port-version": 0
