@@ -1180,6 +1180,10 @@
       "baseline": "7.1.0",
       "port-version": 0
     },
+    "websocketpp-0-7-0-0": {
+      "baseline": "0.7.0",
+      "port-version": 0
+    },
     "wt-3-3-6-0": {
       "baseline": "3.3.6",
       "port-version": 0
