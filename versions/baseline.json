@@ -8808,6 +8808,10 @@
       "baseline": "2.2.4-5",
       "port-version": 0
     },
+    "libgd-2-2-5-0": {
+      "baseline": "2.2.5",
+      "port-version": 0
+    },
     "libgeotiff-1-4-2-0": {
       "baseline": "1.4.2",
       "port-version": 0
