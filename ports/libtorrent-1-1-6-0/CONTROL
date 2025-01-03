@@ -1,0 +1,4 @@
+Source: libtorrent-1-1-6-0
+Version: 1.1.6
+Description: An efficient feature complete C++ BitTorrent implementation 
+Build-Depends: openssl-1-0-2n-1-0, boost-system-1-66-0-0, boost-date-time-1-66-0-0, boost-chrono-1-66-0-0, boost-random-1-66-0-0, boost-asio-1-66-0-0, boost-crc-1-66-0-0, boost-config-1-66-0-0
