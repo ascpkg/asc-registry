@@ -68,6 +68,10 @@
       "baseline": "5.0.0-4-g53ea136",
       "port-version": 0
     },
+    "bond-5-2-0-0": {
+      "baseline": "5.2.0",
+      "port-version": 0
+    },
     "boost-1-60-0": {
       "baseline": "1.60",
       "port-version": 0
