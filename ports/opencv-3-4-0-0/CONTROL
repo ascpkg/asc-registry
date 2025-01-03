@@ -1,10 +1,10 @@
 Source: opencv-3-4-0-0
 Version: 3.4.0
-Build-Depends: zlib-1-2-11-3-0, libpng-1-6-34-2-0, libjpeg-turbo-1-5-2-2-0, tiff-4-0-8-1-0, protobuf-3-5-0-1-0 (windows)
+Build-Depends: zlib-1-2-11-3-0, libpng-1-6-34-2-0, libjpeg-turbo-1-5-3-0, tiff-4-0-9-0, protobuf-3-5-0-1-0 (windows)
 Description: computer vision library
 
 Feature: sfm
-Build-Depends: eigen3-3-3-4-2-0, glog-0-3-5-1-0, gflags-2-2-0-5-0
+Build-Depends: eigen3-3-3-4-2-0, glog-0-3-5-1-0, gflags-2-2-1-0
 Description: opencv_sfm module
 
 Feature: cuda
@@ -15,11 +15,11 @@ Feature: ffmpeg
 Description: prebuilt ffmpeg support for opencv
 
 Feature: qt
-Build-Depends: qt5-5-8-6-0
+Build-Depends: qt5-5-9-2-1-0
 Description: Qt GUI support for opencv
 
 Feature: vtk
-Build-Depends: vtk-8-0-1-5-0
+Build-Depends: vtk-8-1-0-1-0
 Description: vtk support for opencv
 
 Feature: gdcm
