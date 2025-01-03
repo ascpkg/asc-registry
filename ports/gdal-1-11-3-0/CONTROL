@@ -1,4 +1,4 @@
 Source: gdal-1-11-3-0
 Version: 1.11.3
 Description: The Geographic Data Abstraction Library for reading and writing geospatial raster and vector data.
-Build-Depends: proj-4-9-3-0
+Build-Depends: proj-4-9-3-0, libpng-1-6-24-1-0
