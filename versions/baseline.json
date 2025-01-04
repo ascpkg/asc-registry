@@ -6216,6 +6216,10 @@
       "baseline": "1.14.0",
       "port-version": 0
     },
+    "ensmallen-1-14-2-0": {
+      "baseline": "1.14.2",
+      "port-version": 0
+    },
     "entityx--0": {
       "baseline": "",
       "port-version": 0
