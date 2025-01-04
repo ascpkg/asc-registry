@@ -1,0 +1,4 @@
+Source: pbc-0-5-14-1-0
+Version: 0.5.14-1
+Build-Depends: mpir-3-0-0-7-0
+Description: Pairing-Based Crypto library provides low-level routines for pairing-based cryptosystems.
