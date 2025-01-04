@@ -1,0 +1,5 @@
+Source: azure-storage-cpp-6-1-0-0
+Version: 6.1.0
+Build-Depends: cpprestsdk-2-10-13-1-0[core], atlmfc-0-0 (windows), boost-log-1-70-0-0 (!windows&!uwp), boost-locale-1-70-0-2-0 (!windows&!uwp), libxml2-2-9-9-4-0 (!windows&!uwp), libuuid-1-0-3-2-0 (!windows&!uwp&!osx), gettext-0-19-10-0
+Description: Microsoft Azure Storage Client SDK for C++
+  A client library for working with Microsoft Azure storage services including blobs, files, tables, and queues. This client library enables working with the Microsoft Azure storage services which include the blob service for storing binary and text data, the file service for storing binary and text data, the table service for storing structured non-relational data, and the queue service for storing messages that may be accessed by a client. Microsoft Azure Storage team's blog - http://blogs.msdn.com/b/windowsazurestorage/
