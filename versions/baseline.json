@@ -528,6 +528,10 @@
       "baseline": "2.11.1-2",
       "port-version": 0
     },
+    "argagg-2019-01-25-0": {
+      "baseline": "2019-01-25",
+      "port-version": 0
+    },
     "argh-2018-12-18-0": {
       "baseline": "2018-12-18",
       "port-version": 0
