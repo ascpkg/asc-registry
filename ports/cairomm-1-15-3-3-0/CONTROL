@@ -1,0 +1,4 @@
+Source: cairomm-1-15-3-3-0
+Version: 1.15.3-3
+Description: A C++ wrapper for the cairo graphics library
+Build-Depends: cairo-1-16-0-0, libsigcpp-2-10-1-0

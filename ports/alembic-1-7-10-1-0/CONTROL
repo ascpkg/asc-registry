@@ -1,4 +1,4 @@
 Source: alembic-1-7-10-1-0
 Version: 1.7.10-1
-Build-Depends: ilmbase-2-3-0-0, hdf5-1-10-5-4-0
+Build-Depends: ilmbase-2-3-0-0, hdf5-1-10-5-5-0
 Description: Alembic is an open framework for storing and sharing scene data that includes a C++ library, a file format, and client plugins and applications. http://alembic.io/

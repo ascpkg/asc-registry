@@ -1,0 +1,4 @@
+Source: atk-2-24-0-3-0
+Version: 2.24.0-3
+Description: GNOME Accessibility Toolkit
+Build-Depends: glib-2-52-3-13-1-0, gettext-0-19-10-0

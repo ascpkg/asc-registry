@@ -1,0 +1,5 @@
+Source: hpx-1-2-1-1-0
+Version: 1.2.1-1
+Build-Depends: hwloc-1-11-7-3-0, boost-accumulators-1-69-0-0, boost-algorithm-1-69-0-0, boost-asio-1-69-0-1-0, boost-assign-1-69-0-0, boost-atomic-1-69-0-0, boost-bimap-1-69-0-0, boost-chrono-1-69-0-0, boost-config-1-69-0-0, boost-context-1-69-0-0, boost-dynamic-bitset-1-69-0-0, boost-exception-1-69-0-0, boost-filesystem-1-69-0-0, boost-iostreams-1-69-0-3-0, boost-lockfree-1-69-0-0, boost-program-options-1-69-0-0, boost-range-1-69-0-0, boost-regex-1-69-0-0, boost-signals2-1-69-0-0, boost-smart-ptr-1-69-0-0, boost-spirit-1-69-0-0, boost-system-1-69-0-0, boost-throw-exception-1-69-0-0, boost-variant-1-69-0-0, boost-winapi-1-69-0-0
+Description: The C++ Standards Library for Concurrency and Parallelism
+  HPX is a C++ Standards Library for Concurrency and Parallelism. It implements all of the corresponding facilities as defined by the C++ Standard. Additionally, in HPX we implement functionalities proposed as part of the ongoing C++ standardization process. We also extend the C++ Standard APIs to the distributed case.

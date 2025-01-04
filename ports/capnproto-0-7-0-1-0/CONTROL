@@ -1,0 +1,4 @@
+Source: capnproto-0-7-0-1-0
+Version: 0.7.0-1
+Description: Data interchange format and capability-based RPC system https://capnproto.org/
+Build-Depends: zlib-1-2-11-5-0

@@ -1,0 +1,4 @@
+Source: telnetpp-1-2-4-1-0
+Version:  1.2.4-1
+Description:  Telnet++ is an implementation of the Telnet Session Layer protocol using C++14
+Build-Depends: boost-1-69-0-0, gtest-2019-01-04-2-0, zlib-1-2-11-5-0

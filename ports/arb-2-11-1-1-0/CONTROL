@@ -1,0 +1,4 @@
+Source: arb-2-11-1-1-0
+Version: 2.11.1-1
+Description: a C library for arbitrary-precision interval arithmetic
+Build-Depends: flint-2-5-2-2-0

@@ -1,0 +1,4 @@
+Source: guetzli-2018-07-30-1-0
+Version: 2018-07-30-1
+Description: Perceptual JPEG encoder
+Build-Depends: libpng-1-6-37-0, butteraugli-2018-02-25-1-0

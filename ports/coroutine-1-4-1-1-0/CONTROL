@@ -1,0 +1,4 @@
+Source: coroutine-1-4-1-1-0
+Version: 1.4.1-1
+Build-Depends: ms-gsl-2019-04-19-0
+Description: C++ coroutine helper/example library
