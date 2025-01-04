@@ -1,0 +1,5 @@
+Source: msix-MsixCoreInstaller-preview-0
+Version: MsixCoreInstaller-preview
+Build-Depends: xerces-c-3-2-2-9-0, zlib-1-2-11-5-0, openssl-0-0 (!uwp&!windows)
+Description: The MSIX Packaging SDK project is an effort to enable developers on a variety of platforms to pack and unpack packages for the purposes of distribution from either the Microsoft Store, or their own content distribution networks.
+  The MSIX Packaging APIs that a client app would use to interact with .msix/.appx packages are a subset of those documented here. See sample/ExtractContentsSample/ExtractContentsSample.cpp for additional details.

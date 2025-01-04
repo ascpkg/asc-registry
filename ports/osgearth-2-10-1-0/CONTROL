@@ -1,4 +1,4 @@
 Source: osgearth-2-10-1-0
-Version: 2.10-1
+Version: 2.10.1
 Description:  osgEarth - Dynamic map generation toolkit for OpenSceneGraph Copyright 2015 Pelican Mapping.
-Build-Depends: osg-3-6-2-2-0
+Build-Depends: osg-3-6-3-0

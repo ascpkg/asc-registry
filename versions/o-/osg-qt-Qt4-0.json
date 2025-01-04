@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "git-tree": "8aeefeceb2c2d381a03bb2fc81099b50b7954f4b",
+      "version": "Qt4",
+      "port-version": 0
+    }
+  ]
+}

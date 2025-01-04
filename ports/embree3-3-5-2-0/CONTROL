@@ -1,0 +1,4 @@
+Source: embree3-3-5-2-0
+Version: 3.5.2
+Description: High Performance Ray Tracing Kernels.
+Build-Depends: tbb-2019-U6-0

@@ -1,0 +1,4 @@
+Source: libraw-0-19-2-0
+Version: 0.19.2
+Build-Depends: lcms-2-9-0, jasper-2-0-16-0
+Description: raw image decoder library

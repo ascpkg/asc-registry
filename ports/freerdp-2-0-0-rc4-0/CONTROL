@@ -1,0 +1,4 @@
+Source: freerdp-2-0-0-rc4-0
+Version: 2.0.0-rc4
+Description: A free implementation of the Remote Desktop Protocol (RDP)
+Build-Depends: openssl-0-0

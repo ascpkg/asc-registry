@@ -1,0 +1,4 @@
+Source: blosc-1-16-3-0
+Version: 1.16.3
+Build-Depends: lz4-1-9-1-1-0, snappy-1-1-7-2-0, zlib-1-2-11-5-0, zstd-1-4-0-0
+Description: A blocking, shuffling and loss-less compression library that can be faster than `memcpy()`

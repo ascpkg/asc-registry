@@ -1,0 +1,4 @@
+Source: duktape-2-3-0-0
+Version: 2.3.0
+Description: Embeddable Javascript engine with a focus on portability and compact footprint.
+Build-Depends: 

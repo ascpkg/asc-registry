@@ -1,0 +1,5 @@
+Source: ensmallen-1-15-0-0
+Version: 1.15.0
+Description: A header-only C++ library for mathematical optimization.
+Build-Depends: openblas-0-3-6-2-0, clapack-3-2-1-4-0, armadillo-2019-04-16-f00d3225-0
+

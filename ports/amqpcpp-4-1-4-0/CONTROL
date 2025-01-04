@@ -1,0 +1,4 @@
+Source: amqpcpp-4-1-4-0
+Version: 4.1.4
+Description: AMQP-CPP is a C++ library for communicating with a RabbitMQ message broker
+Build-Depends: openssl-0-0 (linux)

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "git-tree": "aba2b0922a44794214d12a45bbe72485f71cd1f1",
+      "version": "MsixCoreInstaller-preview",
+      "port-version": 0
+    }
+  ]
+}
