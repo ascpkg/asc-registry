@@ -1,0 +1,8 @@
+Source: ompl-1-4-2-1-0
+Version: 1.4.2-1
+Description: The Open Motion Planning Library, consists of many state-of-the-art sampling-based motion planning algorithms
+Build-Depends: boost-disjoint-sets-1-70-0-0, boost-dynamic-bitset-1-70-0-0, boost-filesystem-1-70-0-0, boost-graph-1-70-0-0, boost-odeint-1-70-0-0, boost-program-options-1-70-0-0, boost-serialization-1-70-0-0, boost-system-1-70-0-0, boost-test-1-70-0-2-0, boost-ublas-1-70-0-0, boost-timer-1-70-0-0, eigen3-3-3-7-1-0
+
+Feature: app
+Description: Add support for reading meshes and performing collision checking
+Build-Depends: assimp-4-1-0-4-0, fcl-0-5-0-5-0

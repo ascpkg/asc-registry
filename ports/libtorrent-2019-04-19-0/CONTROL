@@ -1,0 +1,4 @@
+Source: libtorrent-2019-04-19-0
+Version: 2019-04-19
+Description: An efficient feature complete C++ BitTorrent implementation 
+Build-Depends: openssl-0-0, boost-system-1-70-0-0, boost-date-time-1-70-0-0, boost-chrono-1-70-0-0, boost-random-1-70-0-0, boost-asio-1-70-0-1-0, boost-crc-1-70-0-0, boost-config-1-70-0-0, boost-iterator-1-70-0-0, boost-scope-exit-1-70-0-0, boost-multiprecision-1-70-0-0
