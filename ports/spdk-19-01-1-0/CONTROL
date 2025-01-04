@@ -1,0 +1,4 @@
+Source: spdk-19-01-1-0
+Version: 19.01.1
+Description: Storage Performance Development Kit
+Build-Depends: spdk-dpdk-20181124-0, spdk-ipsec-20180711-0, spdk-isal-20181006-0
