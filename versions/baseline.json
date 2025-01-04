@@ -9452,6 +9452,10 @@
       "baseline": "0.39.0",
       "port-version": 0
     },
+    "libmspack-0-10-1-0": {
+      "baseline": "0.10.1",
+      "port-version": 0
+    },
     "libmspack-0-6-0": {
       "baseline": "0.6",
       "port-version": 0
