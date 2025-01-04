@@ -18156,6 +18156,10 @@
       "baseline": "1.2.2",
       "port-version": 0
     },
+    "so5extra-1-2-3-0": {
+      "baseline": "1.2.3",
+      "port-version": 0
+    },
     "sobjectizer-5-5-19-0": {
       "baseline": "5.5.19",
       "port-version": 0
@@ -18206,6 +18210,10 @@
     },
     "sobjectizer-5-5-24-3-0": {
       "baseline": "5.5.24.3",
+      "port-version": 0
+    },
+    "sobjectizer-5-5-24-4-0": {
+      "baseline": "5.5.24.4",
       "port-version": 0
     },
     "soci-2016-10-22-0": {
