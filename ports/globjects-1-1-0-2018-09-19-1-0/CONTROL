@@ -1,0 +1,5 @@
+Source: globjects-1-1-0-2018-09-19-1-0
+Maintainer: mattias@mattiascibien.net
+Version: 1.1.0-2018-09-19-1
+Build-Depends: glbinding-3-1-0-0, glm-0-9-9-5-3-0
+Description: C++ library strictly wrapping OpenGL objects. <https://github.com/cginternals/globjects>
