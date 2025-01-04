@@ -1,0 +1,4 @@
+Source: activemq-cpp-3-9-5-0
+Version: 3.9.5
+Build-Depends: apr-1-6-5-1-0
+Description: Apache ActiveMQ is the most popular and powerful open source messaging and Integration Patterns server.
