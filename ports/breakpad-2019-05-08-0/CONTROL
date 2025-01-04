@@ -1,0 +1,4 @@
+Source: breakpad-2019-05-08-0
+Version: 2019-05-08
+Build-Depends: libdisasm-0-23-2-0
+Description: a set of client and server components which implement a crash-reporting system.
