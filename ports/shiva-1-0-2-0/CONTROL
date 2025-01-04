@@ -1,0 +1,4 @@
+Source: shiva-1-0-2-0
+Version: 1.0-2
+Description: Modern C++ Game Engine
+Build-Depends: boost-stacktrace-1-70-0-0, boost-filesystem-1-70-0-0, boost-dll-1-70-0-0, entt-3-0-0-0, lua-5-3-5-1-0, luafilesystem-1-7-0-2-0 (windows), sol2-2-20-6-0, pybind11-2-2-4-0, spdlog-1-3-1-0, nlohmann-json-3-6-1-0
