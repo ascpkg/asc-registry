@@ -17808,6 +17808,10 @@
       "baseline": "1.1.1.133-2",
       "port-version": 0
     },
+    "usockets-0-1-2-0": {
+      "baseline": "0.1.2",
+      "port-version": 0
+    },
     "usrsctp-35c1d97020a-0": {
       "baseline": "35c1d97020a",
       "port-version": 0
@@ -17914,6 +17918,10 @@
     },
     "uwebsockets-0-14-8-2-0": {
       "baseline": "0.14.8-2",
+      "port-version": 0
+    },
+    "uwebsockets-0-15-6-0": {
+      "baseline": "0.15.6",
       "port-version": 0
     },
     "vcglib-1-0-1-0": {
