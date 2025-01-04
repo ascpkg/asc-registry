@@ -1,3 +1,4 @@
 Source: stormlib-9-22-0
 Version: 9.22
+Build-Depends: zlib-1-2-11-5-0, bzip2-1-0-6-4-0
 Description: StormLib is a library for opening and manipulating Blizzard MPQ files
