@@ -13144,6 +13144,10 @@
       "baseline": "2019-02-26",
       "port-version": 0
     },
+    "oniguruma-6-9-2-0": {
+      "baseline": "6.9.2",
+      "port-version": 0
+    },
     "open62541--0": {
       "baseline": "",
       "port-version": 0
