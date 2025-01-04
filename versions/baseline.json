@@ -15464,6 +15464,10 @@
       "baseline": "1.0.0-beta1-4",
       "port-version": 0
     },
+    "signalrclient-1-0-0-beta1-5-0": {
+      "baseline": "1.0.0-beta1-5",
+      "port-version": 0
+    },
     "simdjson-2019-03-03-0": {
       "baseline": "2019-03-03",
       "port-version": 0
