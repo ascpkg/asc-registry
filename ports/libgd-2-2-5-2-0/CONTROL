@@ -1,0 +1,28 @@
+Source: libgd-2-2-5-2-0
+Version: 2.2.5-2
+Description: Open source code library for the dynamic creation of images by programmers.
+Default-Features: fontconfig, freetype, jpeg, png, tiff, webp
+
+Feature: fontconfig
+Description: Support for fontconfig
+Build-Depends: fontconfig-2-12-4-8-0
+
+Feature: freetype
+Description: Support for freetype
+Build-Depends: freetype-2-9-1-1-0
+
+Feature: jpeg
+Description: Support for jpeg
+Build-Depends: libjpeg-turbo-2-0-1-1-0
+
+Feature: png
+Description: Support for png
+Build-Depends: libpng-1-6-37-0
+
+Feature: tiff
+Description: Support for tiff
+Build-Depends: tiff-4-0-10-4-0
+
+Feature: webp
+Description: Support for webp
+Build-Depends: libwebp-1-0-2-2-0
