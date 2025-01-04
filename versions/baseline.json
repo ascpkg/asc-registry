@@ -4948,6 +4948,10 @@
       "baseline": "2.10.12",
       "port-version": 0
     },
+    "cpprestsdk-2-10-13-0": {
+      "baseline": "2.10.13",
+      "port-version": 0
+    },
     "cpprestsdk-2-10-2-0": {
       "baseline": "2.10.2",
       "port-version": 0
