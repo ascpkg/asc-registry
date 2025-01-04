@@ -1,0 +1,4 @@
+Source: uvw-1-15-0-0
+Version: 1.15.0
+Description: Header-only, event based, tiny and easy to use libuv wrapper in modern C++. <https://github.com/skypjack/uvw>
+Build-Depends: libuv-1-27-0-0
