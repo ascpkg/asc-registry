@@ -5060,6 +5060,10 @@
       "baseline": "8.0.0",
       "port-version": 0
     },
+    "cryptopp-8-1-0-0": {
+      "baseline": "8.1.0",
+      "port-version": 0
+    },
     "ctemplate-2017-06-23-44b7c5-2-0": {
       "baseline": "2017-06-23-44b7c5-2",
       "port-version": 0
