@@ -1,0 +1,4 @@
+Source: qt5-quickcontrols2-5-12-3-0
+Version: 5.12.3
+Description: Qt5 QuickControls2 Module.
+Build-Depends: qt5-modularscripts-2019-04-30-0, qt5-base-5-12-3-0, qt5-declarative-5-12-3-0

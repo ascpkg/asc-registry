@@ -1,0 +1,4 @@
+Source: qt5-5-12-3-0
+Version: 5.12.3
+Description: Qt5 Application Framework
+Build-Depends: qt5-3d-5-12-3-0, qt5-activeqt-5-12-3-0, qt5-base-5-12-3-0, qt5-charts-5-12-3-0, qt5-datavis3d-5-12-3-0, qt5-declarative-5-12-3-0, qt5-gamepad-5-12-3-0, qt5-graphicaleffects-5-12-3-0, qt5-imageformats-5-12-3-0, qt5-location-5-12-3-0, qt5-multimedia-5-12-3-0, qt5-mqtt-5-12-3-0, qt5-networkauth-5-12-3-0, qt5-purchasing-5-12-3-0, qt5-quickcontrols-5-12-3-0, qt5-quickcontrols2-5-12-3-0, qt5-script-5-12-3-0, qt5-scxml-5-12-3-0, qt5-sensors-5-12-3-0, qt5-serialport-5-12-3-0, qt5-speech-5-12-3-0, qt5-svg-5-12-3-0, qt5-tools-5-12-3-0, qt5-virtualkeyboard-5-12-3-0, qt5-webchannel-5-12-3-0, qt5-websockets-5-12-3-0, qt5-winextras-5-12-3-0 (windows), qt5-macextras-5-12-3-0 (osx), qt5-xmlpatterns-5-12-3-0

@@ -1,0 +1,4 @@
+Source: qt5-sensors-5-12-3-0
+Version: 5.12.3
+Description: Qt5 Sensors module - Provides access to sensor hardware and motion gesture recognition.
+Build-Depends: qt5-modularscripts-2019-04-30-0, qt5-base-5-12-3-0
