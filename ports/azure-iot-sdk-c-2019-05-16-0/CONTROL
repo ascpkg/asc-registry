@@ -1,0 +1,8 @@
+Source: azure-iot-sdk-c-2019-05-16-0
+Version: 2019-05-16
+Build-Depends: azure-uamqp-c-2019-05-16-0, azure-umqtt-c-2019-05-16-0, azure-c-shared-utility-2019-05-16-0, parson-2019-04-19-0, azure-uhttp-c-2019-05-16-0, azure-macro-utils-c-2019-05-16-0, umock-c-2019-05-16-0
+Description: A C99 SDK for connecting devices to Microsoft Azure IoT services 
+
+Feature: public-preview
+Description: A version of the azure-iot-sdk-c containing public-preview features.
+Build-Depends: azure-uamqp-c-2019-05-16-0[public-preview], azure-umqtt-c-2019-05-16-0[public-preview], azure-c-shared-utility-2019-05-16-0[public-preview], azure-uhttp-c-2019-05-16-0[public-preview], azure-macro-utils-c-2019-05-16-0, umock-c-2019-05-16-0
