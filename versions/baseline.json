@@ -14344,6 +14344,10 @@
       "baseline": "5.12.1-5",
       "port-version": 0
     },
+    "qt5-base-5-12-1-6-0": {
+      "baseline": "5.12.1-6",
+      "port-version": 0
+    },
     "qt5-base-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -14538,6 +14542,10 @@
     },
     "qt5-modularscripts-2019-03-21-0": {
       "baseline": "2019-03-21",
+      "port-version": 0
+    },
+    "qt5-modularscripts-2019-04-30-0": {
+      "baseline": "2019-04-30",
       "port-version": 0
     },
     "qt5-modularscripts-3-0": {
