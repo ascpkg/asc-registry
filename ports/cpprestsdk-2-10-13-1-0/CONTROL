@@ -1,0 +1,18 @@
+Source: cpprestsdk-2-10-13-1-0
+Version: 2.10.13-1
+Build-Depends: zlib-1-2-11-5-0, openssl-0-0 (!uwp&!windows), boost-system-1-69-0-0 (!uwp&!windows), boost-date-time-1-69-0-0 (!uwp&!windows), boost-regex-1-69-0-0 (!uwp&!windows), boost-thread-1-69-0-0 (!uwp&!windows), boost-filesystem-1-69-0-0 (!uwp&!windows), boost-random-1-69-0-0 (!uwp&!windows), boost-chrono-1-69-0-0 (!uwp&!windows), boost-asio-1-69-0-1-0 (!uwp&!windows)
+Description: C++11 JSON, REST, and OAuth library
+  The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
+Default-Features: default-features
+
+Feature: default-features
+Build-Depends: cpprestsdk-2-10-13-1-0[brotli] (windows), cpprestsdk-2-10-13-1-0[websockets]
+Description: Features installed by default
+
+Feature: websockets
+Build-Depends: websocketpp-0-8-1-0 (!uwp), openssl-0-0 (!uwp), boost-system-1-69-0-0 (!uwp), boost-date-time-1-69-0-0 (!uwp), boost-regex-1-69-0-0 (!uwp)
+Description: Websockets support
+
+Feature: brotli
+Build-Depends: brotli-1-0-2-4-0
+Description: Brotli compression support
