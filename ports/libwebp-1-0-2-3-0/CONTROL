@@ -1,0 +1,8 @@
+Source: libwebp-1-0-2-3-0
+Version: 1.0.2-3
+Description: Lossy compression of digital photographic images.
+Build-Depends: opengl-0-0-5-0
+
+Feature: all
+Description: enable all webp features
+Build-Depends: giflib-5-1-4-3-0, libjpeg-turbo-2-0-1-1-0, zlib-1-2-11-5-0, libpng-1-6-37-1-0, tiff-4-0-10-4-0, freeglut-3-0-0-6-0 (!osx), sdl1-1-2-15-5-0 (windows)
