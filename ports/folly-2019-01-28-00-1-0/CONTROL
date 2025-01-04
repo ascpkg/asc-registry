@@ -13,7 +13,7 @@ Build-Depends: bzip2-1-0-6-4-0
 Description: Support bzip2 for compression
 
 Feature: lzma
-Build-Depends: liblzma-5-2-4-0
+Build-Depends: liblzma-5-2-4-1-0
 Description: Support LZMA for compression
 
 Feature: zstd
