@@ -1,0 +1,8 @@
+Source: geogram-1-6-9-3-0
+Version: 1.6.9-3
+Description: Geogram is a programming library of geometric algorithms.
+Build-Depends: openblas-0-3-5-4-0 (!osx), clapack-3-2-1-4-0
+
+Feature: graphics
+Description: Build viewers and geogram_gfx library.
+Build-Depends: glfw3-3-3-0
