@@ -10148,6 +10148,10 @@
       "baseline": "4.3.0a-2",
       "port-version": 0
     },
+    "libsquish-1-15-0": {
+      "baseline": "1.15",
+      "port-version": 0
+    },
     "libssh-0-7-5-0": {
       "baseline": "0.7.5",
       "port-version": 0
