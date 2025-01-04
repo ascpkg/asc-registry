@@ -1,0 +1,4 @@
+Source: xproperty-0-8-1-0
+Version: 0.8.1
+Build-Depends: xtl-0-6-4-0
+Description: Traitlets-like C++ properties and implementation of the observer pattern
