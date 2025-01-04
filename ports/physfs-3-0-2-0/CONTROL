@@ -1,0 +1,4 @@
+Source: physfs-3-0-2-0
+Version: 3.0.2
+Description: a library to provide abstract access to various archives
+Build-Depends: zlib-1-2-11-5-0
