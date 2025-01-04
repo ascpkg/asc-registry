@@ -6788,6 +6788,10 @@
       "baseline": "2019-4-28",
       "port-version": 0
     },
+    "duilib-2019-4-28-1-0": {
+      "baseline": "2019-4-28-1",
+      "port-version": 0
+    },
     "duktape-2-0-3-1-0": {
       "baseline": "2.0.3-1",
       "port-version": 0
