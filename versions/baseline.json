@@ -344,6 +344,10 @@
       "baseline": "2.1.0-3",
       "port-version": 0
     },
+    "anax-2-1-0-4-0": {
+      "baseline": "2.1.0-4",
+      "port-version": 0
+    },
     "angle-2017-06-14-8d471f-0": {
       "baseline": "2017-06-14-8d471f",
       "port-version": 0
@@ -7496,6 +7500,10 @@
       "baseline": "2.1.0-2",
       "port-version": 0
     },
+    "glew-2-1-0-3-0": {
+      "baseline": "2.1.0-3",
+      "port-version": 0
+    },
     "glfw3-3-1-2-0": {
       "baseline": "3.1.2",
       "port-version": 0
@@ -11904,6 +11912,10 @@
       "baseline": "cefed0c1d79afafa5aeb05273cf1246b093b771c-4",
       "port-version": 0
     },
+    "octomap-cefed0c1d79afafa5aeb05273cf1246b093b771c-5-0": {
+      "baseline": "cefed0c1d79afafa5aeb05273cf1246b093b771c-5",
+      "port-version": 0
+    },
     "odb--0": {
       "baseline": "",
       "port-version": 0
@@ -14802,6 +14814,10 @@
     },
     "roaring-2019-03-05-1-0": {
       "baseline": "2019-03-05-1",
+      "port-version": 0
+    },
+    "roaring-2019-03-05-2-0": {
+      "baseline": "2019-03-05-2",
       "port-version": 0
     },
     "robin-map-0-2-0-0": {
