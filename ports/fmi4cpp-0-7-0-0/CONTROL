@@ -1,0 +1,14 @@
+Source: fmi4cpp-0-7-0-0
+Version: 0.7.0
+Description: FMI 2.0 implementation written in modern C++
+Build-Depends: boost-property-tree-1-69-0-0, libzip-rel-1-5-2-0[openssl]
+
+Feature: curl
+Build-Depends: curl-7-61-1-6-0
+Description: Allows loading FMUs from URL
+
+Feature: odeint
+Build-Depends: boost-ublas-1-69-0-0, boost-odeint-1-69-0-0
+Description: Adds support for wrapping Model Exchange models as Co-simulation models using odeint solvers
+
+
