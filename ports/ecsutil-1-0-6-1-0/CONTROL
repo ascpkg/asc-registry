@@ -1,0 +1,4 @@
+Source: ecsutil-1-0-6-1-0
+Version: 1.0.6.1
+Description: Native Windows SDK for accessing ECS via the S3 HTTP protocol.
+Build-Depends: atlmfc-0-0
