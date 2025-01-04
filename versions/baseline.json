@@ -16388,6 +16388,10 @@
       "baseline": "5.12.3",
       "port-version": 0
     },
+    "qt5-base-5-12-3-1-0": {
+      "baseline": "5.12.3-1",
+      "port-version": 0
+    },
     "qt5-base-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
