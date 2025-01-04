@@ -16824,6 +16824,10 @@
       "baseline": "0.8.4-2",
       "port-version": 0
     },
+    "tgui-0-8-5-0": {
+      "baseline": "0.8.5",
+      "port-version": 0
+    },
     "theia-0-7-d15154a-0": {
       "baseline": "0.7-d15154a",
       "port-version": 0
