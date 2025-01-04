@@ -1,0 +1,24 @@
+Source: pcl-1-9-1-3-0
+Version: 1.9.1-3
+Description: Point Cloud Library (PCL) is open source library for 2D/3D image and point cloud processing.
+Build-Depends: eigen3-3-3-7-1-0, flann-jan2019-0, qhull-7-2-1-3-0, vtk-8-2-0-2-0, libpng-1-6-37-1-0, boost-system-1-70-0-0, boost-filesystem-1-70-0-0, boost-thread-1-70-0-0, boost-date-time-1-70-0-0, boost-iostreams-1-70-0-0, boost-random-1-70-0-0, boost-foreach-1-70-0-0, boost-dynamic-bitset-1-70-0-0, boost-property-map-1-70-0-0, boost-graph-1-70-0-0, boost-multi-array-1-70-0-0, boost-signals2-1-70-0-0, boost-ptr-container-1-70-0-0, boost-uuid-1-70-0-0, boost-interprocess-1-70-0-0, boost-asio-1-70-0-1-0
+
+Feature: openni2
+Description: OpenNI2 support for PCL
+Build-Depends: openni2-2-2-0-33-8-0
+
+Feature: qt
+Description: Qt support for PCL
+Build-Depends: vtk-8-2-0-2-0[qt]
+
+Feature: pcap
+Description: PCAP support for PCL
+Build-Depends: winpcap-4-1-3-2-0
+
+Feature: tools
+Description: Build PCL utilities
+Build-Depends: boost-accumulators-1-70-0-0
+
+Feature: cuda
+Description: CUDA support for PCL
+Build-Depends: cuda-9-0-0

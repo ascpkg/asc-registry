@@ -7664,6 +7664,10 @@
       "baseline": "1.9.1-9",
       "port-version": 0
     },
+    "flann-jan2019-0": {
+      "baseline": "jan2019",
+      "port-version": 0
+    },
     "flatbuffers-1-10-0-0": {
       "baseline": "1.10.0",
       "port-version": 0
@@ -12616,6 +12620,10 @@
       "baseline": "1.9.1",
       "port-version": 0
     },
+    "lz4-1-9-1-1-0": {
+      "baseline": "1.9.1-1",
+      "port-version": 0
+    },
     "lzfse-1-0-0": {
       "baseline": "1.0",
       "port-version": 0
@@ -14308,6 +14316,10 @@
       "baseline": "1.4-1",
       "port-version": 0
     },
+    "openmvg-1-4-2-0": {
+      "baseline": "1.4-2",
+      "port-version": 0
+    },
     "openmvs-0-9-0": {
       "baseline": "0.9",
       "port-version": 0
@@ -14954,6 +14966,10 @@
     },
     "pcl-1-9-1-2-0": {
       "baseline": "1.9.1-2",
+      "port-version": 0
+    },
+    "pcl-1-9-1-3-0": {
+      "baseline": "1.9.1-3",
       "port-version": 0
     },
     "pcre-8-38-0": {

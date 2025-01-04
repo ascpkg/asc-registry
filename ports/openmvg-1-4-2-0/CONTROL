@@ -1,0 +1,11 @@
+Source: openmvg-1-4-2-0
+Version: 1.4-2
+Description: open Multiple View Geometry library. Basis for 3D computer vision and Structure from Motion.
+Build-Depends: coinutils-2-10-14-1-0, clp-1-16-11-1-0, osi-0-107-9-1-0, liblemon-1-3-1-4-0, flann-jan2019-0, eigen3-3-3-7-1-0, ceres-1-14-0-3-0, cereal-1-2-2-1-0, libjpeg-turbo-2-0-1-1-0, tiff-4-0-10-4-0, libpng-1-6-37-1-0, zlib-1-2-11-5-0
+
+Feature: opencv
+Build-Depends: opencv-3-4-3-7-0[contrib]
+Description: opencv support for openmvg
+
+Feature: openmp
+Description: openmp support for openmvg
