@@ -1,0 +1,4 @@
+Source: usd-0-8-4-0
+Version: 0.8.4
+Build-Depends: boost-assign-1-69-0-0, boost-crc-1-69-0-0, boost-date-time-1-69-0-0, boost-filesystem-1-69-0-0, boost-format-1-69-0-0, boost-multi-index-1-69-0-0, boost-program-options-1-69-0-0, boost-regex-1-69-0-0, boost-system-1-69-0-0, boost-vmd-1-69-0-0, tbb-2019-U6-0, zlib-1-2-11-5-0
+Description: Universal Scene Description (USD) is an efficient, scalable system for authoring, reading, and streaming time-sampled scene description for interchange between graphics applications.
