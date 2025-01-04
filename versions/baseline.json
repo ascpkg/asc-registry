@@ -17888,6 +17888,10 @@
       "baseline": "0.3.1",
       "port-version": 0
     },
+    "sentencepiece-v0-1-82-0": {
+      "baseline": "v0.1.82",
+      "port-version": 0
+    },
     "septag-sx-2019-04-27-0": {
       "baseline": "2019-04-27",
       "port-version": 0
