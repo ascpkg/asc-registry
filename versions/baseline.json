@@ -13752,6 +13752,10 @@
       "baseline": "2019-04-20",
       "port-version": 0
     },
+    "nrf-ble-driver-4-1-0-0": {
+      "baseline": "4.1.0",
+      "port-version": 0
+    },
     "nuklear-2017-06-15-5c7194c2fe2c68c1a8212712c0b4b6195382d27d-0": {
       "baseline": "2017-06-15-5c7194c2fe2c68c1a8212712c0b4b6195382d27d",
       "port-version": 0
