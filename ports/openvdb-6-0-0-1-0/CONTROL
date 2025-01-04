@@ -1,0 +1,8 @@
+Source: openvdb-6-0-0-1-0
+Version: 6.0.0-1
+Build-Depends: boost-ptr-container-1-69-0-0, openexr-2-3-0-2-0, tbb-2019-U5-0, blosc-1-13-5-1-0, boost-iostreams-1-69-0-3-0, boost-system-1-69-0-0, boost-thread-1-69-0-0, boost-date-time-1-69-0-0, boost-any-1-69-0-0, boost-uuid-1-69-0-0, boost-interprocess-1-69-0-0
+Description: Sparse volume data structure and tools
+
+Feature: tools
+Description: OpenVDB utilities: view, print and render
+Build-Depends: glew-2-1-0-3-0, glfw3-3-2-1-3-0
