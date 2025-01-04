@@ -15740,6 +15740,10 @@
       "baseline": "1.13-04674e3",
       "port-version": 0
     },
+    "rdkafka-v1-0-0-RC8-test-deps13-0": {
+      "baseline": "v1.0.0-RC8-test-deps13",
+      "port-version": 0
+    },
     "re2-2017-12-01-0": {
       "baseline": "2017-12-01",
       "port-version": 0
