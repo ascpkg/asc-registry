@@ -16884,6 +16884,10 @@
       "baseline": "1.13-04674e3",
       "port-version": 0
     },
+    "raylib-2019-04-27-2-0": {
+      "baseline": "2019-04-27-2",
+      "port-version": 0
+    },
     "rdkafka-v1-0-0-0": {
       "baseline": "v1.0.0",
       "port-version": 0
