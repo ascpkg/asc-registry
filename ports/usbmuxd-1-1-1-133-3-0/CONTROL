@@ -1,0 +1,4 @@
+Source: usbmuxd-1-1-1-133-3-0
+Version: 1.1.1.133-3
+Description: A socket daemon to multiplex connections from and to iOS devices
+Build-Depends: libimobiledevice-1-2-1-215-1-0, libusb-1-0-22-2-0, libusb-win32-1-2-6-0-1-0, pthreads-3-0-0-0
