@@ -1,0 +1,20 @@
+Source: librdkafka-v1-0-0-1-0
+Version: v1.0.0-1
+Description: The Apache Kafka C/C++ library 
+Default-Features: ssl
+
+Feature: lz4
+Description: Enable external LZ4 library support 
+Build-Depends: lz4-1-9-0-0
+
+Feature: ssl
+Description: Build with OpenSSL
+Build-Depends: openssl-0-0
+
+Feature: zlib
+Description: Build with zlib
+Build-Depends: zlib-1-2-11-5-0
+
+Feature: zstd
+Description: Build with zstd
+Build-Depends: zstd-1-3-7-1-0
