@@ -9732,6 +9732,10 @@
       "baseline": "3.22.19-2",
       "port-version": 0
     },
+    "gtk-3-22-19-3-0": {
+      "baseline": "3.22.19-3",
+      "port-version": 0
+    },
     "gtk-3-22-8-0": {
       "baseline": "3.22.8",
       "port-version": 0
@@ -15354,6 +15358,10 @@
     },
     "pango-1-40-11-3-0": {
       "baseline": "1.40.11-3",
+      "port-version": 0
+    },
+    "pango-1-40-11-4-0": {
+      "baseline": "1.40.11-4",
       "port-version": 0
     },
     "pango-1-40-3-0": {
