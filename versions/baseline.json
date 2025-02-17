@@ -10928,6 +10928,10 @@
       "baseline": "2019-07-11",
       "port-version": 0
     },
+    "exprtk-2020-01-01-0": {
+      "baseline": "2020-01-01",
+      "port-version": 0
+    },
     "faad2-2-9-1-1-0": {
       "baseline": "2.9.1-1",
       "port-version": 0
