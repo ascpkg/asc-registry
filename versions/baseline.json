@@ -53668,6 +53668,10 @@
       "baseline": "0.1.2",
       "port-version": 0
     },
+    "jigson-0-1-3-0": {
+      "baseline": "0.1.3",
+      "port-version": 0
+    },
     "jinja2cpplight-2018-05-08-0": {
       "baseline": "2018-05-08",
       "port-version": 0
