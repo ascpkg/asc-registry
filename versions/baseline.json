@@ -77388,6 +77388,10 @@
       "baseline": "23.11.0",
       "port-version": 0
     },
+    "poppler-24-2-0-0": {
+      "baseline": "24.2.0",
+      "port-version": 0
+    },
     "popsift-0-9-0": {
       "baseline": "0.9",
       "port-version": 0
