@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/modern-cpp-kafka-2024-07-03-0",
+      "version-string": "2024.07.03",
+      "port-version": 0
+    }
+  ]
+}
