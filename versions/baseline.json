@@ -37052,6 +37052,10 @@
       "baseline": "4.2.2",
       "port-version": 0
     },
+    "wt-4-4-0-0": {
+      "baseline": "4.4.0",
+      "port-version": 0
+    },
     "wtl-10-0-0": {
       "baseline": "10.0",
       "port-version": 0
