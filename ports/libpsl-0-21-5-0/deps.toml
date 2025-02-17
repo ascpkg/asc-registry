@@ -1,0 +1,7 @@
+old = "libpsl"
+new = "libpsl-0-21-5-0"
+
+[deps]
+icu-74-1-1 = "icu"
+libidn2-2-3-4-3 = "libidn2"
+vcpkg-tool-meson-0-63-2 = "vcpkg-tool-meson"
