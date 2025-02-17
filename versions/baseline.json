@@ -77588,6 +77588,10 @@
       "baseline": "2.3.4",
       "port-version": 0
     },
+    "muparser-2-3-5-0": {
+      "baseline": "2.3.5",
+      "port-version": 0
+    },
     "muparser-6cf2746-0": {
       "baseline": "6cf2746",
       "port-version": 0
