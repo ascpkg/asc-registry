@@ -1,0 +1,15 @@
+old = "osg"
+new = "osg-3-6-4-0"
+
+[deps]
+collada-dom-2-5-0-2-0 = "collada-dom"
+fontconfig-2-12-4-9-0 = "fontconfig"
+freetype-2-10-1-1-0 = "freetype"
+gdal-2-4-1-7-0 = "gdal"
+giflib-5-1-4-3-0 = "giflib"
+jasper-2-0-16-2-0 = "jasper"
+libjpeg-turbo-2-0-2-0 = "libjpeg-turbo"
+libpng-1-6-37-2-0 = "libpng"
+openexr-2-3-0-4-0 = "openexr"
+tiff-4-0-10-7-0 = "tiff"
+zlib-1-2-11-5-0 = "zlib"
