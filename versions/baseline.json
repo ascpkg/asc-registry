@@ -34244,6 +34244,10 @@
       "baseline": "1.3.9",
       "port-version": 0
     },
+    "rhash-1-4-0-0": {
+      "baseline": "1.4.0",
+      "port-version": 0
+    },
     "riffcpp-2-1-0-0": {
       "baseline": "2.1.0",
       "port-version": 0
