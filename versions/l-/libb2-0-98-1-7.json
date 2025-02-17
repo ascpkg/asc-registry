@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libb2-0-98-1-7",
+      "version": "0.98.1",
+      "port-version": 7
+    }
+  ]
+}
