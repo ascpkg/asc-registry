@@ -103240,6 +103240,10 @@
       "baseline": "1.4.8",
       "port-version": 0
     },
+    "s2n-1-5-5-0": {
+      "baseline": "1.5.5",
+      "port-version": 0
+    },
     "safeint-3-0-26-0": {
       "baseline": "3.0.26",
       "port-version": 0
