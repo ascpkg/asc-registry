@@ -9384,6 +9384,10 @@
       "baseline": "2.12.4-9",
       "port-version": 0
     },
+    "foonathan-memory-2019-07-21-0": {
+      "baseline": "2019-07-21",
+      "port-version": 0
+    },
     "forest-10-1-1-0": {
       "baseline": "10.1.1",
       "port-version": 0
