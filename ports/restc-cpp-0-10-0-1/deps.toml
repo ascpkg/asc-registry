@@ -1,0 +1,17 @@
+old = "restc-cpp"
+new = "restc-cpp-0-10-0-1"
+
+[deps]
+boost-asio-1-76-0-0 = "boost-asio"
+boost-chrono-1-76-0-0 = "boost-chrono"
+boost-context-1-76-0-0 = "boost-context"
+boost-coroutine-1-76-0-0 = "boost-coroutine"
+boost-date-time-1-76-0-0 = "boost-date-time"
+boost-filesystem-1-76-0-0 = "boost-filesystem"
+boost-log-1-76-0-0 = "boost-log"
+boost-program-options-1-76-0-0 = "boost-program-options"
+boost-system-1-76-0-0 = "boost-system"
+boost-uuid-1-76-0-0 = "boost-uuid"
+openssl-1-1-1k-8 = "openssl"
+rapidjson-2020-09-14-1 = "rapidjson"
+zlib-1-2-11-10 = "zlib"
