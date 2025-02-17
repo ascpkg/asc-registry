@@ -12060,6 +12060,10 @@
       "baseline": "1.1.0-2",
       "port-version": 0
     },
+    "rapidstring-2018-08-03-0": {
+      "baseline": "2018-08-03",
+      "port-version": 0
+    },
     "rapidxml-1-13-0": {
       "baseline": "1.13",
       "port-version": 0
