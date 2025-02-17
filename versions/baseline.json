@@ -49660,6 +49660,10 @@
       "baseline": "8.13.11",
       "port-version": 0
     },
+    "libphonenumber-8-13-13-0": {
+      "baseline": "8.13.13",
+      "port-version": 0
+    },
     "libphonenumber-8-13-7-0": {
       "baseline": "8.13.7",
       "port-version": 0
