@@ -1,0 +1,5 @@
+old = "hashids"
+new = "hashids-1-2-1-0"
+
+[deps]
+getopt-0-2 = "getopt"
