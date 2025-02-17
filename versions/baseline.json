@@ -75268,6 +75268,10 @@
       "baseline": "2019-10-10",
       "port-version": 0
     },
+    "pmp-library-3-0-0-0": {
+      "baseline": "3.0.0",
+      "port-version": 0
+    },
     "pngpp-0-2-10-0": {
       "baseline": "0.2.10",
       "port-version": 0
