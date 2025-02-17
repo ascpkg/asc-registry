@@ -1,0 +1,8 @@
+old = "azure-c-shared-utility"
+new = "azure-c-shared-utility-2020-01-22-1-0"
+
+[deps]
+azure-macro-utils-c-2020-01-22-0 = "azure-macro-utils-c"
+curl-7-68-0-0 = "curl"
+openssl-1-1-1d-0 = "openssl"
+umock-c-2020-01-22-0 = "umock-c"
