@@ -57220,6 +57220,10 @@
       "baseline": "0.2.2",
       "port-version": 0
     },
+    "type-safe-0-2-2-1": {
+      "baseline": "0.2.2",
+      "port-version": 1
+    },
     "uchardet-2020-04-26-0": {
       "baseline": "2020-04-26",
       "port-version": 0
