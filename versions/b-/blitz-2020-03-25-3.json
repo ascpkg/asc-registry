@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/blitz-2020-03-25-3",
+      "version-string": "2020-03-25",
+      "port-version": 3
+    }
+  ]
+}
