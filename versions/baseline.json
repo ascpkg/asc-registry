@@ -47092,6 +47092,10 @@
       "baseline": "4.1.2",
       "port-version": 1
     },
+    "nrf-ble-driver-4-1-2-2": {
+      "baseline": "4.1.2",
+      "port-version": 2
+    },
     "nspr-4-33-0": {
       "baseline": "4.33",
       "port-version": 0
