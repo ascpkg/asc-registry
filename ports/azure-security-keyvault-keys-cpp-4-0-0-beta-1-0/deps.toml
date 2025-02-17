@@ -1,0 +1,5 @@
+old = "azure-security-keyvault-keys-cpp"
+new = "azure-security-keyvault-keys-cpp-4-0-0-beta-1-0"
+
+[deps]
+azure-security-keyvault-common-cpp-4-0-0-beta-1-0 = "azure-security-keyvault-common-cpp"
