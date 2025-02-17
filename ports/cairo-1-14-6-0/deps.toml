@@ -1,0 +1,7 @@
+old = "cairo"
+new = "cairo-1-14-6-0"
+
+[deps]
+libpng-1-6-24-1-0 = "libpng"
+pixman-0-34-0-0 = "pixman"
+zlib-1-2-8-0 = "zlib"
