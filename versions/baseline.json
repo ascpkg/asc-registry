@@ -39840,6 +39840,10 @@
       "baseline": "6.2",
       "port-version": 1
     },
+    "ncurses-6-3-0": {
+      "baseline": "6.3",
+      "port-version": 0
+    },
     "neargye-semver-0-2-2-0": {
       "baseline": "0.2.2",
       "port-version": 0
