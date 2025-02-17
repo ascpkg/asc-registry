@@ -5448,6 +5448,10 @@
       "baseline": "1.12.0",
       "port-version": 0
     },
+    "azure-core-cpp-1-13-0-0": {
+      "baseline": "1.13.0",
+      "port-version": 0
+    },
     "azure-core-cpp-1-2-0-0": {
       "baseline": "1.2.0",
       "port-version": 0
