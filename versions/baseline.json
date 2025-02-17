@@ -11640,6 +11640,10 @@
       "baseline": "1.0.7.9",
       "port-version": 0
     },
+    "edlib-1-2-6-0": {
+      "baseline": "1.2.6",
+      "port-version": 0
+    },
     "effolkronium-random-1-2-0-0": {
       "baseline": "1.2.0",
       "port-version": 0
