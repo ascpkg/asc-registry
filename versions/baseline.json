@@ -66396,6 +66396,10 @@
       "baseline": "2.0.0-rc2",
       "port-version": 2
     },
+    "tinyobjloader-2-0-0-rc9-0": {
+      "baseline": "2.0.0-rc9",
+      "port-version": 0
+    },
     "tinyply-2020-05-22-0": {
       "baseline": "2020-05-22",
       "port-version": 0
