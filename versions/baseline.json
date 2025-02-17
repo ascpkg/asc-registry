@@ -39136,6 +39136,10 @@
       "baseline": "4.3",
       "port-version": 1
     },
+    "libunibreak-5-0-0": {
+      "baseline": "5.0",
+      "port-version": 0
+    },
     "libunifex-2021-08-01-0": {
       "baseline": "2021-08-01",
       "port-version": 0
