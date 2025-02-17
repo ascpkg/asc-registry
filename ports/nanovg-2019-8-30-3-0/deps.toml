@@ -1,0 +1,5 @@
+old = "nanovg"
+new = "nanovg-2019-8-30-3-0"
+
+[deps]
+stb-2019-08-17-0 = "stb"
