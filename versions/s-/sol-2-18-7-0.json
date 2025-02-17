@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/sol-2-18-7-0",
+      "version": "2.18.7",
+      "port-version": 0
+    }
+  ]
+}
