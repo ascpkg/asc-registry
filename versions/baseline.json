@@ -19208,6 +19208,10 @@
       "baseline": "2019-08-30",
       "port-version": 0
     },
+    "hidapi-2019-08-30-1": {
+      "baseline": "2019-08-30",
+      "port-version": 1
+    },
     "highfive-1-3-0": {
       "baseline": "1.3",
       "port-version": 0
