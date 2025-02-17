@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/physfs-3-0-2-4",
+      "version-string": "3.0.2",
+      "port-version": 4
+    }
+  ]
+}
