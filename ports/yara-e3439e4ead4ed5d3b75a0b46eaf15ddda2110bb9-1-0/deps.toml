@@ -1,0 +1,6 @@
+old = "yara"
+new = "yara-e3439e4ead4ed5d3b75a0b46eaf15ddda2110bb9-1-0"
+
+[deps]
+jansson-2-11-2-0 = "jansson"
+openssl-0-0 = "openssl"
