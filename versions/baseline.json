@@ -101132,6 +101132,10 @@
       "baseline": "0.7.0",
       "port-version": 1
     },
+    "yaml-cpp-0-8-0-0": {
+      "baseline": "0.8.0",
+      "port-version": 0
+    },
     "yara-3-10-0-0": {
       "baseline": "3.10.0",
       "port-version": 0
