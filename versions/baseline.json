@@ -18664,6 +18664,10 @@
       "baseline": "5.84.0",
       "port-version": 2
     },
+    "ecm-5-84-0-3": {
+      "baseline": "5.84.0",
+      "port-version": 3
+    },
     "ecos-2-0-7-0": {
       "baseline": "2.0.7",
       "port-version": 0
@@ -23563,6 +23567,10 @@
     "glib-2-66-4-1": {
       "baseline": "2.66.4",
       "port-version": 1
+    },
+    "glib-2-66-4-2": {
+      "baseline": "2.66.4",
+      "port-version": 2
     },
     "glibmm-2-52-1-0": {
       "baseline": "2.52.1",
@@ -28476,6 +28484,10 @@
       "baseline": "5.84.0",
       "port-version": 0
     },
+    "kf5kio-5-84-0-1": {
+      "baseline": "5.84.0",
+      "port-version": 1
+    },
     "kf5newstuff-5-84-0-0": {
       "baseline": "5.84.0",
       "port-version": 0
@@ -28563,6 +28575,10 @@
     "kf5solid-5-84-0-3": {
       "baseline": "5.84.0",
       "port-version": 3
+    },
+    "kf5solid-5-84-0-4": {
+      "baseline": "5.84.0",
+      "port-version": 4
     },
     "kf5sonnet-5-84-0-0": {
       "baseline": "5.84.0",
@@ -31746,6 +31762,10 @@
     },
     "libmorton-2018-19-07-0": {
       "baseline": "2018-19-07",
+      "port-version": 0
+    },
+    "libmount-2-37-2-0": {
+      "baseline": "2.37.2",
       "port-version": 0
     },
     "libmpeg2-0-5-1-0": {
