@@ -21244,6 +21244,10 @@
       "baseline": "1.2.4",
       "port-version": 0
     },
+    "nngpp-1-3-0-0": {
+      "baseline": "1.3.0",
+      "port-version": 0
+    },
     "nngpp-2019-07-25-0": {
       "baseline": "2019-07-25",
       "port-version": 0
