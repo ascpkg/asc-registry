@@ -28508,6 +28508,10 @@
       "baseline": "6.2.1",
       "port-version": 10
     },
+    "gmp-6-2-1-11": {
+      "baseline": "6.2.1",
+      "port-version": 11
+    },
     "gmp-6-2-1-2-0": {
       "baseline": "6.2.1-2",
       "port-version": 0
