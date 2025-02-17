@@ -14288,6 +14288,10 @@
       "baseline": "5.1.0-4",
       "port-version": 0
     },
+    "hyperscan-5-2-1-0": {
+      "baseline": "5.2.1",
+      "port-version": 0
+    },
     "hypre-2-11-1-0": {
       "baseline": "2.11.1",
       "port-version": 0
