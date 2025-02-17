@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/openmvg-1-6-3",
+      "version": "1.6",
+      "port-version": 3
+    }
+  ]
+}
