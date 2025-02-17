@@ -16672,6 +16672,10 @@
       "baseline": "2.1.1",
       "port-version": 0
     },
+    "highfive-2-2-2-0": {
+      "baseline": "2.2.2",
+      "port-version": 0
+    },
     "hiredis-2019-11-1-0": {
       "baseline": "2019-11-1",
       "port-version": 0
