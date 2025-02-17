@@ -17856,6 +17856,10 @@
       "baseline": "6.2.0",
       "port-version": 5
     },
+    "gmp-6-2-1-2-0": {
+      "baseline": "6.2.1-2",
+      "port-version": 0
+    },
     "gnusl-2-3-0": {
       "baseline": "2.3",
       "port-version": 0
@@ -28203,6 +28207,10 @@
     "nettle-3-5-1-5": {
       "baseline": "3.5.1",
       "port-version": 5
+    },
+    "nettle-3-6-0": {
+      "baseline": "3.6",
+      "port-version": 0
     },
     "networkdirect-sdk-2-0-1-0": {
       "baseline": "2.0.1",
