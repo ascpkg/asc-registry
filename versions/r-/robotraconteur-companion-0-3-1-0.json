@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/robotraconteur-companion-0-3-1-0",
+      "version-semver": "0.3.1",
+      "port-version": 0
+    }
+  ]
+}
