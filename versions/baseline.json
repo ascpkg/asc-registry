@@ -2216,6 +2216,10 @@
       "baseline": "5.0.1",
       "port-version": 5
     },
+    "assimp-5-2-4-0": {
+      "baseline": "5.2.4",
+      "port-version": 0
+    },
     "asynch-2019-09-21-0": {
       "baseline": "2019-09-21",
       "port-version": 0
@@ -54532,6 +54536,10 @@
       "baseline": "5.15.5",
       "port-version": 0
     },
+    "qt5-3d-5-15-5-1": {
+      "baseline": "5.15.5",
+      "port-version": 1
+    },
     "qt5-3d-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -58623,6 +58631,10 @@
     "qtquick3d-6-3-1-0": {
       "baseline": "6.3.1",
       "port-version": 0
+    },
+    "qtquick3d-6-3-1-1": {
+      "baseline": "6.3.1",
+      "port-version": 1
     },
     "qtquickcontrols2-6-1-0-0": {
       "baseline": "6.1.0",
