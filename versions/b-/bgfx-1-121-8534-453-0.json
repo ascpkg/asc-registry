@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/bgfx-1-121-8534-453-0",
+      "version": "1.121.8534-453",
+      "port-version": 0
+    }
+  ]
+}
