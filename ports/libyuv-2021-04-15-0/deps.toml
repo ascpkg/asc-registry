@@ -1,0 +1,5 @@
+old = "libyuv"
+new = "libyuv-2021-04-15-0"
+
+[deps]
+libjpeg-turbo-2-0-6-0 = "libjpeg-turbo"

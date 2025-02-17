@@ -27528,6 +27528,10 @@
       "baseline": "0.2.5",
       "port-version": 0
     },
+    "libyuv-2021-04-15-0": {
+      "baseline": "2021-04-15",
+      "port-version": 0
+    },
     "libyuv-fec9121-0": {
       "baseline": "fec9121",
       "port-version": 0
