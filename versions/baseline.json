@@ -21264,6 +21264,10 @@
       "baseline": "1.0.29-9",
       "port-version": 0
     },
+    "libsndfile-1-0-30-0": {
+      "baseline": "1.0.30",
+      "port-version": 0
+    },
     "libsndfile-libsndfile-1-0-29-6830c42-0": {
       "baseline": "libsndfile-1.0.29-6830c42",
       "port-version": 0
