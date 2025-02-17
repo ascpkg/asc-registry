@@ -23048,6 +23048,10 @@
       "baseline": "1.2.8",
       "port-version": 0
     },
+    "zookeeper-3-5-5-0": {
+      "baseline": "3.5.5",
+      "port-version": 0
+    },
     "zopfli-2019-01-19-0": {
       "baseline": "2019-01-19",
       "port-version": 0
