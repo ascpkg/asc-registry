@@ -40848,6 +40848,10 @@
       "baseline": "14.4",
       "port-version": 1
     },
+    "libpq-14-4-2": {
+      "baseline": "14.4",
+      "port-version": 2
+    },
     "libpq-9-6-1-0": {
       "baseline": "9.6.1",
       "port-version": 0
