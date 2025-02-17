@@ -57456,6 +57456,10 @@
       "baseline": "0.2.2",
       "port-version": 0
     },
+    "sciter-0-1": {
+      "baseline": "0",
+      "port-version": 1
+    },
     "sciter-4-0-0-7-0": {
       "baseline": "4.0.0.7",
       "port-version": 0

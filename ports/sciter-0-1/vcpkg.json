@@ -1,0 +1,7 @@
+{
+  "name": "sciter-0-1",
+  "version": "0",
+  "port-version": 1,
+  "description": "Sciter is an embeddable HTML/CSS/scripting engine.",
+  "homepage": "https://github.com/c-smile/sciter-sdk"
+}
