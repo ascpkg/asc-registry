@@ -38496,6 +38496,10 @@
       "baseline": "8.0.20",
       "port-version": 7
     },
+    "libmysql-8-0-20-8": {
+      "baseline": "8.0.20",
+      "port-version": 8
+    },
     "libmysql-8-0-4-0": {
       "baseline": "8.0.4",
       "port-version": 0
