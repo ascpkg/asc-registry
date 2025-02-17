@@ -33108,6 +33108,10 @@
       "baseline": "6.1.2-1",
       "port-version": 0
     },
+    "rocksdb-6-11-4-0": {
+      "baseline": "6.11.4",
+      "port-version": 0
+    },
     "rocksdb-6-6-4-1-0": {
       "baseline": "6.6.4-1",
       "port-version": 0
