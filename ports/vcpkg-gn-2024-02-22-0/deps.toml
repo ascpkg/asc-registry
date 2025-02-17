@@ -1,0 +1,5 @@
+old = "vcpkg-gn"
+new = "vcpkg-gn-2024-02-22-0"
+
+[deps]
+vcpkg-tool-gn-2024-02-22-0 = "vcpkg-tool-gn"
