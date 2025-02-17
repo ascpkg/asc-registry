@@ -3996,6 +3996,10 @@
       "baseline": "3.0.5-rc3",
       "port-version": 0
     },
+    "capstone-4-0-1-120373dc-0": {
+      "baseline": "4.0.1-120373dc",
+      "port-version": 0
+    },
     "cartographer-0-3-0-3-0": {
       "baseline": "0.3.0-3",
       "port-version": 0
