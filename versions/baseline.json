@@ -13476,6 +13476,10 @@
       "baseline": "0.7.0-1",
       "port-version": 0
     },
+    "websocketpp-0-8-1-0": {
+      "baseline": "0.8.1",
+      "port-version": 0
+    },
     "wildmidi-0-4-1-0": {
       "baseline": "0.4.1",
       "port-version": 0
