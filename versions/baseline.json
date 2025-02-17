@@ -376,6 +376,10 @@
       "baseline": "3.0.0-4",
       "port-version": 0
     },
+    "azure-storage-cpp-3-1-0-0": {
+      "baseline": "3.1.0",
+      "port-version": 0
+    },
     "beast-0-0": {
       "baseline": "0",
       "port-version": 0
@@ -1736,6 +1740,10 @@
       "baseline": "4.3.0",
       "port-version": 0
     },
+    "cpp-redis-4-3-1-0": {
+      "baseline": "4.3.1",
+      "port-version": 0
+    },
     "cppcms-1-1-0-0": {
       "baseline": "1.1.0",
       "port-version": 0
@@ -2024,6 +2032,10 @@
       "baseline": "oct2016",
       "port-version": 0
     },
+    "dirent-1-23-1-0": {
+      "baseline": "1.23.1",
+      "port-version": 0
+    },
     "dirent-2017-06-23-5c7194c2fe2c68c1a8212712c0b4b6195382d27d-0": {
       "baseline": "2017-06-23-5c7194c2fe2c68c1a8212712c0b4b6195382d27d",
       "port-version": 0
@@ -2102,6 +2114,10 @@
     },
     "doctest-1-2-6-0": {
       "baseline": "1.2.6",
+      "port-version": 0
+    },
+    "doctest-1-2-7-0": {
+      "baseline": "1.2.7",
       "port-version": 0
     },
     "double-conversion-2-0-1-0": {
@@ -2784,6 +2800,10 @@
       "baseline": "2.8.3",
       "port-version": 0
     },
+    "gdcm2-2-8-4-0": {
+      "baseline": "2.8.4",
+      "port-version": 0
+    },
     "gdk-pixbuf-2-36-3-0": {
       "baseline": "2.36.3",
       "port-version": 0
@@ -3186,6 +3206,10 @@
     },
     "grpc-1-8-3-0": {
       "baseline": "1.8.3",
+      "port-version": 0
+    },
+    "grpc-1-9-1-0": {
+      "baseline": "1.9.1",
       "port-version": 0
     },
     "gsl-0-fd5ad87bf-0": {
@@ -4922,6 +4946,10 @@
     },
     "matio-1-5-10-2-0": {
       "baseline": "1.5.10-2",
+      "port-version": 0
+    },
+    "matio-1-5-11-0": {
+      "baseline": "1.5.11",
       "port-version": 0
     },
     "matroska-1-4-8-0": {
@@ -7088,6 +7116,10 @@
       "baseline": "0.14.0-1",
       "port-version": 0
     },
+    "spdlog-0-16-3-0": {
+      "baseline": "0.16.3",
+      "port-version": 0
+    },
     "speex--0": {
       "baseline": "",
       "port-version": 0
@@ -7886,6 +7918,10 @@
     },
     "yaml-cpp-0-5-4-rc-2-0": {
       "baseline": "0.5.4-rc-2",
+      "port-version": 0
+    },
+    "yaml-cpp-0-6-1-0": {
+      "baseline": "0.6.1",
       "port-version": 0
     },
     "yara-e3439e4ead4ed5d3b75a0b46eaf15ddda2110bb9-0": {
