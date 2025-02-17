@@ -31760,6 +31760,10 @@
       "baseline": "6.3.3",
       "port-version": 0
     },
+    "commsdsl-6-3-4-0": {
+      "baseline": "6.3.4",
+      "port-version": 0
+    },
     "compoundfilereader-0-1-0-0": {
       "baseline": "0.1.0",
       "port-version": 0
