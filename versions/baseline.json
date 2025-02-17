@@ -10860,6 +10860,10 @@
       "baseline": "3.0.0-7",
       "port-version": 0
     },
+    "freeglut-3-0-0-8-0": {
+      "baseline": "3.0.0-8",
+      "port-version": 0
+    },
     "freeimage-3-17-0-0": {
       "baseline": "3.17.0",
       "port-version": 0
@@ -12118,6 +12122,10 @@
     },
     "glslang-3a21c880500eac21cdf79bef5b80f970a55ac6af-1-0": {
       "baseline": "3a21c880500eac21cdf79bef5b80f970a55ac6af-1",
+      "port-version": 0
+    },
+    "glui-2019-11-30-0": {
+      "baseline": "2019-11-30",
       "port-version": 0
     },
     "gmime-3-0-2-0": {
