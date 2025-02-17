@@ -14992,6 +14992,10 @@
       "baseline": "3.1.6",
       "port-version": 0
     },
+    "libmodman-2-0-1-0": {
+      "baseline": "2.0.1",
+      "port-version": 0
+    },
     "libmodplug-0-8-8-5-bb25b05-0": {
       "baseline": "0.8.8.5-bb25b05",
       "port-version": 0
@@ -15538,6 +15542,10 @@
     },
     "libpqxx-6-4-5-0": {
       "baseline": "6.4.5",
+      "port-version": 0
+    },
+    "libproxy-0-4-15-0": {
+      "baseline": "0.4.15",
       "port-version": 0
     },
     "libqglviewer-2-7-0-0": {
