@@ -33524,6 +33524,10 @@
       "baseline": "20.12.1",
       "port-version": 3
     },
+    "poppler-20-12-1-4": {
+      "baseline": "20.12.1",
+      "port-version": 4
+    },
     "portable-snippets-2019-09-20-0": {
       "baseline": "2019-09-20",
       "port-version": 0
