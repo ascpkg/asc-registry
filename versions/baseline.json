@@ -28872,6 +28872,10 @@
       "baseline": "7.2.5",
       "port-version": 0
     },
+    "xsimd-7-4-5-0": {
+      "baseline": "7.4.5",
+      "port-version": 0
+    },
     "xtensor-0-19-3-0": {
       "baseline": "0.19.3",
       "port-version": 0
@@ -28896,6 +28900,10 @@
       "baseline": "0.20.8",
       "port-version": 0
     },
+    "xtensor-0-21-2-0": {
+      "baseline": "0.21.2",
+      "port-version": 0
+    },
     "xtensor-2019-01-20-0": {
       "baseline": "2019-01-20",
       "port-version": 0
@@ -28908,6 +28916,10 @@
       "baseline": "0.16.1",
       "port-version": 0
     },
+    "xtensor-blas-0-17-1-0": {
+      "baseline": "0.17.1",
+      "port-version": 0
+    },
     "xtensor-fftw-2019-11-30-0": {
       "baseline": "2019-11-30",
       "port-version": 0
@@ -28916,12 +28928,20 @@
       "baseline": "0.7.0",
       "port-version": 0
     },
+    "xtensor-io-0-9-0-0": {
+      "baseline": "0.9.0",
+      "port-version": 0
+    },
     "xtl-0-5-3-0": {
       "baseline": "0.5.3",
       "port-version": 0
     },
     "xtl-0-5-4-0": {
       "baseline": "0.5.4",
+      "port-version": 0
+    },
+    "xtl-0-6-10-0": {
+      "baseline": "0.6.10",
       "port-version": 0
     },
     "xtl-0-6-4-0": {
