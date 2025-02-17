@@ -82168,6 +82168,10 @@
       "baseline": "2024.3.0",
       "port-version": 0
     },
+    "openvino-2024-4-0-0": {
+      "baseline": "2024.4.0",
+      "port-version": 0
+    },
     "openvpn3-2018-03-21-0": {
       "baseline": "2018-03-21",
       "port-version": 0
