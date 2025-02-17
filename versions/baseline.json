@@ -57736,6 +57736,10 @@
       "baseline": "3.7.5",
       "port-version": 0
     },
+    "libarchive-3-7-6-0": {
+      "baseline": "3.7.6",
+      "port-version": 0
+    },
     "libass-0-14-0-0": {
       "baseline": "0.14.0",
       "port-version": 0
