@@ -33648,6 +33648,10 @@
       "baseline": "3.6.15",
       "port-version": 2
     },
+    "libgnutls-3-6-15-3": {
+      "baseline": "3.6.15",
+      "port-version": 3
+    },
     "libgo-2-7-0": {
       "baseline": "2.7",
       "port-version": 0
@@ -42744,6 +42748,10 @@
       "baseline": "6.3",
       "port-version": 0
     },
+    "ncurses-6-3-1": {
+      "baseline": "6.3",
+      "port-version": 1
+    },
     "neargye-semver-0-2-2-0": {
       "baseline": "0.2.2",
       "port-version": 0
@@ -47591,6 +47599,10 @@
     "pcapplusplus-21-11-0": {
       "baseline": "21.11",
       "port-version": 0
+    },
+    "pcapplusplus-21-11-1": {
+      "baseline": "21.11",
+      "port-version": 1
     },
     "pcg-0-98-1-0": {
       "baseline": "0.98.1",
