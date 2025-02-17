@@ -28176,6 +28176,10 @@
       "baseline": "3.2.0",
       "port-version": 2
     },
+    "harfbuzz-3-2-0-3": {
+      "baseline": "3.2.0",
+      "port-version": 3
+    },
     "hayai-2019-08-10-0": {
       "baseline": "2019-08-10",
       "port-version": 0
