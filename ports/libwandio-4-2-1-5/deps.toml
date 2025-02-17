@@ -1,0 +1,12 @@
+old = "libwandio"
+new = "libwandio-4-2-1-5"
+
+[deps]
+bzip2-1-0-8-2 = "bzip2"
+curl-7-81-0-0 = "curl"
+liblzma-5-2-5-4 = "liblzma"
+lz4-1-9-3-3 = "lz4"
+lzo-2-10-7 = "lzo"
+pthread-3-0-0-1 = "pthread"
+zlib-1-2-11-13 = "zlib"
+zstd-1-5-2-1 = "zstd"
