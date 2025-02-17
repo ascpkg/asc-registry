@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qtlocation-6-7-3-0",
+      "version": "6.7.3",
+      "port-version": 0
+    }
+  ]
+}

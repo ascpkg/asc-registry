@@ -1,0 +1,7 @@
+old = "qtremoteobjects"
+new = "qtremoteobjects-6-7-3-0"
+
+[deps]
+qtbase-6-7-3-0 = "qtbase"
+qtdeclarative-6-7-3-0 = "qtdeclarative"
+qtremoteobjects-6-7-3-0 = "qtremoteobjects"
