@@ -1,0 +1,9 @@
+old = "chronoengine"
+new = "chronoengine-8-0-0-0"
+
+[deps]
+eigen3-3-4-0-2 = "eigen3"
+irrlicht-1-8-4-13 = "irrlicht"
+tbb-2021-8-0-0 = "tbb"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
