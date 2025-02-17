@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/jsonnet-2018-11-01-1-0",
+      "version": "2018-11-01-1",
+      "port-version": 0
+    }
+  ]
+}
