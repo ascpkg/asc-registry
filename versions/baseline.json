@@ -41452,6 +41452,10 @@
       "baseline": "1.11.1-4",
       "port-version": 0
     },
+    "taglib-1-12-0-0": {
+      "baseline": "1.12.0",
+      "port-version": 0
+    },
     "taglib-1-12-0-20210123-0": {
       "baseline": "1.12.0-20210123",
       "port-version": 0
