@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/shaderc-12fb656ab20ea9aa06e7084a74e5ff832b7ce2da-2-0",
+      "version": "12fb656ab20ea9aa06e7084a74e5ff832b7ce2da-2",
+      "port-version": 0
+    }
+  ]
+}

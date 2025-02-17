@@ -5828,6 +5828,10 @@
       "baseline": "2018-03-02",
       "port-version": 0
     },
+    "glslang-2018-03-02-1-0": {
+      "baseline": "2018-03-02-1",
+      "port-version": 0
+    },
     "glslang-3a21c880500eac21cdf79bef5b80f970a55ac6af-0": {
       "baseline": "3a21c880500eac21cdf79bef5b80f970a55ac6af",
       "port-version": 0
@@ -11638,6 +11642,10 @@
     },
     "shaderc-12fb656ab20ea9aa06e7084a74e5ff832b7ce2da-1-0": {
       "baseline": "12fb656ab20ea9aa06e7084a74e5ff832b7ce2da-1",
+      "port-version": 0
+    },
+    "shaderc-12fb656ab20ea9aa06e7084a74e5ff832b7ce2da-2-0": {
+      "baseline": "12fb656ab20ea9aa06e7084a74e5ff832b7ce2da-2",
       "port-version": 0
     },
     "shaderc-2df47b51d83ad83cbc2e7f8ff2b56776293e8958-0": {
