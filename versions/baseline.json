@@ -38156,6 +38156,10 @@
       "baseline": "3.4.15",
       "port-version": 1
     },
+    "opencv3-3-4-15-2": {
+      "baseline": "3.4.15",
+      "port-version": 2
+    },
     "opencv3-3-4-3-10-0": {
       "baseline": "3.4.3-10",
       "port-version": 0
