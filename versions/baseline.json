@@ -23504,6 +23504,10 @@
       "baseline": "3.0.0-pre-697aaa0",
       "port-version": 0
     },
+    "pegtl-3-0-0-pre-83b6cdc-0": {
+      "baseline": "3.0.0-pre-83b6cdc",
+      "port-version": 0
+    },
     "pegtl-3-0-0-pre-9d58962-0": {
       "baseline": "3.0.0-pre-9d58962",
       "port-version": 0
