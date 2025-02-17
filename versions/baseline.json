@@ -94972,6 +94972,10 @@
       "baseline": "0.1.99",
       "port-version": 1
     },
+    "sentencepiece-0-2-0-0": {
+      "baseline": "0.2.0",
+      "port-version": 0
+    },
     "sentencepiece-v0-1-82-0": {
       "baseline": "v0.1.82",
       "port-version": 0
