@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gmmlib-22-3-17-0",
+      "version": "22.3.17",
+      "port-version": 0
+    }
+  ]
+}

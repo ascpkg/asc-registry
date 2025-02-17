@@ -41844,6 +41844,10 @@
       "baseline": "22.3.12",
       "port-version": 0
     },
+    "gmmlib-22-3-17-0": {
+      "baseline": "22.3.17",
+      "port-version": 0
+    },
     "gmp-6-2-0-0": {
       "baseline": "6.2.0",
       "port-version": 0
