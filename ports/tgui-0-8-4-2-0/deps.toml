@@ -1,0 +1,5 @@
+old = "tgui"
+new = "tgui-0-8-4-2-0"
+
+[deps]
+sfml-2-5-1-1-0 = "sfml"
