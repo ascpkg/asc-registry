@@ -71512,6 +71512,10 @@
       "baseline": "3.10.7",
       "port-version": 6
     },
+    "python3-3-10-7-7": {
+      "baseline": "3.10.7",
+      "port-version": 7
+    },
     "python3-3-6-1-0": {
       "baseline": "3.6.1",
       "port-version": 0
