@@ -113460,6 +113460,10 @@
       "baseline": "2.0",
       "port-version": 2
     },
+    "taglib-2-0-2-0": {
+      "baseline": "2.0.2",
+      "port-version": 0
+    },
     "talib-0-4-0-0": {
       "baseline": "0.4.0",
       "port-version": 0
