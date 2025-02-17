@@ -36812,6 +36812,10 @@
       "baseline": "1.8.2",
       "port-version": 1
     },
+    "librdkafka-1-8-2-2": {
+      "baseline": "1.8.2",
+      "port-version": 2
+    },
     "librdkafka-2019-04-16-0": {
       "baseline": "2019-04-16",
       "port-version": 0
