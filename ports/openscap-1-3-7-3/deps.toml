@@ -1,0 +1,17 @@
+old = "openscap"
+new = "openscap-1-3-7-3"
+
+[deps]
+curl-8-8-0-3 = "curl"
+getopt-win32-1-1-0-20220925-0 = "getopt-win32"
+glib-2-78-4-3 = "glib"
+libpopt-1-16-17 = "libpopt"
+libxml2-2-11-7-0 = "libxml2"
+libxslt-1-1-37-4 = "libxslt"
+libzip-1-10-1-0 = "libzip"
+openssl-3-3-1-0 = "openssl"
+pcre-8-45-6 = "pcre"
+pthreads-3-0-0-14 = "pthreads"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+xmlsec-1-3-3-1 = "xmlsec"
+zlib-1-3-1-0 = "zlib"
