@@ -76804,6 +76804,10 @@
       "baseline": "5.2.123",
       "port-version": 0
     },
+    "simd-5-2-123-1": {
+      "baseline": "5.2.123",
+      "port-version": 1
+    },
     "simde-0-7-0-0": {
       "baseline": "0.7.0",
       "port-version": 0
