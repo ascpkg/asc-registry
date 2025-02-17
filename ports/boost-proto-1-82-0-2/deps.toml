@@ -1,0 +1,15 @@
+old = "boost-proto"
+new = "boost-proto-1-82-0-2"
+
+[deps]
+boost-config-1-82-0-2 = "boost-config"
+boost-core-1-82-0-2 = "boost-core"
+boost-fusion-1-82-0-2 = "boost-fusion"
+boost-mpl-1-82-0-2 = "boost-mpl"
+boost-preprocessor-1-82-0-2 = "boost-preprocessor"
+boost-range-1-82-0-2 = "boost-range"
+boost-static-assert-1-82-0-2 = "boost-static-assert"
+boost-type-traits-1-82-0-2 = "boost-type-traits"
+boost-typeof-1-82-0-2 = "boost-typeof"
+boost-utility-1-82-0-2 = "boost-utility"
+boost-vcpkg-helpers-1-82-0-2 = "boost-vcpkg-helpers"
