@@ -1808,6 +1808,10 @@
       "baseline": "dec2016-1",
       "port-version": 0
     },
+    "directxtk-dec2017-0": {
+      "baseline": "dec2017",
+      "port-version": 0
+    },
     "directxtk-oct2016-0": {
       "baseline": "oct2016",
       "port-version": 0
