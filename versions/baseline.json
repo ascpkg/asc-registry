@@ -30592,6 +30592,10 @@
       "baseline": "2019-08-11",
       "port-version": 1
     },
+    "libical-3-0-11-0": {
+      "baseline": "3.0.11",
+      "port-version": 0
+    },
     "libiconv-1-14-0": {
       "baseline": "1.14",
       "port-version": 0
