@@ -61032,6 +61032,10 @@
       "baseline": "0.8.1",
       "port-version": 0
     },
+    "xxhash-0-8-1-1": {
+      "baseline": "0.8.1",
+      "port-version": 1
+    },
     "yajl-2-1-0-1-0": {
       "baseline": "2.1.0-1",
       "port-version": 0
