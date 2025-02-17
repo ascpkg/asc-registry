@@ -48076,6 +48076,10 @@
       "baseline": "17.0.1",
       "port-version": 0
     },
+    "halide-17-0-1-1": {
+      "baseline": "17.0.1",
+      "port-version": 1
+    },
     "halide-master-2020-03-07-0": {
       "baseline": "master_2020_03_07",
       "port-version": 0
@@ -66816,6 +66820,10 @@
       "baseline": "17.0.2",
       "port-version": 5
     },
+    "llvm-18-1-6-0": {
+      "baseline": "18.1.6",
+      "port-version": 0
+    },
     "llvm-4-0-0-0": {
       "baseline": "4.0.0",
       "port-version": 0
@@ -69163,6 +69171,10 @@
     "mesa-23-2-1-1": {
       "baseline": "23.2.1",
       "port-version": 1
+    },
+    "mesa-24-0-7-0": {
+      "baseline": "24.0.7",
+      "port-version": 0
     },
     "meschach--0": {
       "baseline": "",
@@ -104119,6 +104131,10 @@
     "symengine-0-11-2-0": {
       "baseline": "0.11.2",
       "port-version": 0
+    },
+    "symengine-0-11-2-1": {
+      "baseline": "0.11.2",
+      "port-version": 1
     },
     "symengine-0-7-0-0": {
       "baseline": "0.7.0",
