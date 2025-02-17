@@ -29284,6 +29284,10 @@
       "baseline": "2.7.0",
       "port-version": 0
     },
+    "fastrtps-2-7-0-1": {
+      "baseline": "2.7.0",
+      "port-version": 1
+    },
     "fawdlstty-libfv-0-0-6-0": {
       "baseline": "0.0.6",
       "port-version": 0
