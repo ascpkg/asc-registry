@@ -12020,6 +12020,10 @@
       "baseline": "1.79.0",
       "port-version": 0
     },
+    "boost-regex-1-79-0-1": {
+      "baseline": "1.79.0",
+      "port-version": 1
+    },
     "boost-safe-numerics-1-69-0-0": {
       "baseline": "1.69.0",
       "port-version": 0
