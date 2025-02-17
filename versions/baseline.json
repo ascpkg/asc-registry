@@ -156,6 +156,10 @@
       "baseline": "3.5.0",
       "port-version": 0
     },
+    "gettext-0-19-0": {
+      "baseline": "0.19",
+      "port-version": 0
+    },
     "gflags-2-1-2-0": {
       "baseline": "2.1.2",
       "port-version": 0
