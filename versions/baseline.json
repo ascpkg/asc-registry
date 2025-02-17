@@ -31268,6 +31268,10 @@
       "baseline": "1.7.3",
       "port-version": 0
     },
+    "faiss-1-7-4-0": {
+      "baseline": "1.7.4",
+      "port-version": 0
+    },
     "fakeit-2-0-7-0": {
       "baseline": "2.0.7",
       "port-version": 0
