@@ -1,0 +1,5 @@
+old = "atlmfc"
+new = "atlmfc-0-3"
+
+[deps]
+atl-0-0 = "atl"

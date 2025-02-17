@@ -3224,6 +3224,10 @@
       "baseline": "2.36.1",
       "port-version": 2
     },
+    "atl-0-0": {
+      "baseline": "0",
+      "port-version": 0
+    },
     "atlmfc-0-0": {
       "baseline": "0",
       "port-version": 0
@@ -3235,6 +3239,10 @@
     "atlmfc-0-2": {
       "baseline": "0",
       "port-version": 2
+    },
+    "atlmfc-0-3": {
+      "baseline": "0",
+      "port-version": 3
     },
     "atomic-queue-2021-05-03-0": {
       "baseline": "2021-05-03",
