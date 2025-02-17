@@ -19796,6 +19796,10 @@
       "baseline": "3.0.0",
       "port-version": 0
     },
+    "cocoyaxi-3-0-0-1": {
+      "baseline": "3.0.0",
+      "port-version": 1
+    },
     "coin-4-0-0-0": {
       "baseline": "4.0.0",
       "port-version": 0
