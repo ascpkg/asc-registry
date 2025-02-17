@@ -1,0 +1,14 @@
+old = "liblas"
+new = "liblas-1-8-1-13"
+
+[deps]
+boost-foreach-1-82-0-1 = "boost-foreach"
+boost-interprocess-1-82-0-1 = "boost-interprocess"
+boost-iostreams-1-82-0-1 = "boost-iostreams"
+boost-lambda-1-82-0-1 = "boost-lambda"
+boost-program-options-1-82-0-1 = "boost-program-options"
+boost-property-tree-1-82-0-1 = "boost-property-tree"
+boost-uuid-1-82-0-1 = "boost-uuid"
+libgeotiff-1-7-1-2 = "libgeotiff"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
