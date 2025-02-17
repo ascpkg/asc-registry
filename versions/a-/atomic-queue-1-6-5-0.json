@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/atomic-queue-1-6-5-0",
+      "version": "1.6.5",
+      "port-version": 0
+    }
+  ]
+}
