@@ -14220,6 +14220,10 @@
       "baseline": "2017-10-25-8b1cd3753b184341e837b30383832645135d3d73-3",
       "port-version": 0
     },
+    "libaaplus-2-1-0-0": {
+      "baseline": "2.1.0",
+      "port-version": 0
+    },
     "libaiff-5-0-0": {
       "baseline": "5.0",
       "port-version": 0
