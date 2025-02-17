@@ -118679,6 +118679,10 @@
     "zziplib-0-13-73-0": {
       "baseline": "0.13.73",
       "port-version": 0
+    },
+    "zziplib-0-13-78-0": {
+      "baseline": "0.13.78",
+      "port-version": 0
     }
   }
 }
