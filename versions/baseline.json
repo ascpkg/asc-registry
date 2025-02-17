@@ -50844,6 +50844,10 @@
       "baseline": "0.2.0",
       "port-version": 1
     },
+    "libmicrodns-0-2-0-2": {
+      "baseline": "0.2.0",
+      "port-version": 2
+    },
     "libmicrohttpd-0-9-55-0": {
       "baseline": "0.9.55",
       "port-version": 0
