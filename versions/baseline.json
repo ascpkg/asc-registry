@@ -22604,6 +22604,10 @@
       "baseline": "2018-12-06",
       "port-version": 0
     },
+    "tiny-regex-c-2019-07-31-0": {
+      "baseline": "2019-07-31",
+      "port-version": 0
+    },
     "tinycthread-2019-08-06-0": {
       "baseline": "2019-08-06",
       "port-version": 0
