@@ -2,8 +2,8 @@ old = "glib"
 new = "glib-2-52-3-14-3-0"
 
 [deps]
-gettext-0-19-10-0 = "gettext"
+gettext-0-19-11-0 = "gettext"
 libffi-3-1-5-0 = "libffi"
 libiconv-1-15-5-0 = "libiconv"
-pcre-8-41-2-0 = "pcre"
+pcre-8-41-3-0 = "pcre"
 zlib-1-2-11-5-0 = "zlib"
