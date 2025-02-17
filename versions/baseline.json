@@ -41988,6 +41988,10 @@
       "baseline": "0.3.1",
       "port-version": 3
     },
+    "selene-0-3-1-4": {
+      "baseline": "0.3.1",
+      "port-version": 4
+    },
     "sentencepiece-v0-1-82-0": {
       "baseline": "v0.1.82",
       "port-version": 0
@@ -45071,6 +45075,10 @@
     "tiff-4-1-0-2": {
       "baseline": "4.1.0",
       "port-version": 2
+    },
+    "tiff-4-3-0-0": {
+      "baseline": "4.3.0",
+      "port-version": 0
     },
     "tinkerforge-2-1-25-0": {
       "baseline": "2.1.25",
