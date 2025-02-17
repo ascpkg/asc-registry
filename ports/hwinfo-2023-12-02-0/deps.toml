@@ -1,0 +1,5 @@
+old = "hwinfo"
+new = "hwinfo-2023-12-02-0"
+
+[deps]
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
