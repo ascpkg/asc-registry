@@ -38320,6 +38320,10 @@
       "baseline": "2.4.0-rc1",
       "port-version": 0
     },
+    "libharu-2-4-2-0": {
+      "baseline": "2.4.2",
+      "port-version": 0
+    },
     "libharu-2017-08-15-10": {
       "baseline": "2017-08-15",
       "port-version": 10
@@ -73688,6 +73692,10 @@
       "baseline": "9.0.3-pv5.9.1",
       "port-version": 11
     },
+    "vtk-9-0-3-pv5-9-1-12": {
+      "baseline": "9.0.3-pv5.9.1",
+      "port-version": 12
+    },
     "vtk-9-0-3-pv5-9-1-2": {
       "baseline": "9.0.3-pv5.9.1",
       "port-version": 2
@@ -74594,6 +74602,10 @@
     },
     "wt-4-7-1-0": {
       "baseline": "4.7.1",
+      "port-version": 0
+    },
+    "wt-4-8-1-0": {
+      "baseline": "4.8.1",
       "port-version": 0
     },
     "wtl-10-0-0": {
