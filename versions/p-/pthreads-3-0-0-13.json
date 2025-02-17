@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/pthreads-3-0-0-13",
+      "version": "3.0.0",
+      "port-version": 13
+    }
+  ]
+}
