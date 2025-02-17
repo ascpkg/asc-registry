@@ -124,6 +124,10 @@
       "baseline": "2018-10-25",
       "port-version": 0
     },
+    "abseil-2018-11-01-0": {
+      "baseline": "2018-11-01",
+      "port-version": 0
+    },
     "abseil-2018-2-23-0": {
       "baseline": "2018-2-23",
       "port-version": 0
@@ -674,6 +678,10 @@
     },
     "aws-sdk-cpp-1-6-38-0": {
       "baseline": "1.6.38",
+      "port-version": 0
+    },
+    "aws-sdk-cpp-1-6-43-0": {
+      "baseline": "1.6.43",
       "port-version": 0
     },
     "azmq-1-0-2-0": {
@@ -2980,6 +2988,10 @@
       "baseline": "0.9.0",
       "port-version": 0
     },
+    "brynet-1-0-0-0": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
     "bullet3-2-83-7-0": {
       "baseline": "2.83.7",
       "port-version": 0
@@ -3246,6 +3258,10 @@
     },
     "catch2-2-4-1-0": {
       "baseline": "2.4.1",
+      "port-version": 0
+    },
+    "catch2-2-4-2-0": {
+      "baseline": "2.4.2",
       "port-version": 0
     },
     "cccapstone-9b4128ee1153e78288a1b5433e2c06a0d47a4c4e-0": {
@@ -3556,6 +3572,10 @@
       "baseline": "2.4.0",
       "port-version": 0
     },
+    "cimg-2-4-1-0": {
+      "baseline": "2.4.1",
+      "port-version": 0
+    },
     "cimg-220-0": {
       "baseline": "220",
       "port-version": 0
@@ -3598,6 +3618,10 @@
     },
     "clara-2018-10-25-0": {
       "baseline": "2018-10-25",
+      "port-version": 0
+    },
+    "clara-2018-11-01-0": {
+      "baseline": "2018-11-01",
       "port-version": 0
     },
     "clblas-2-12-1-0": {
@@ -4152,6 +4176,10 @@
       "baseline": "oct2016",
       "port-version": 0
     },
+    "directxmesh-oct2018-0": {
+      "baseline": "oct2018",
+      "port-version": 0
+    },
     "directxtex-apr2018-0": {
       "baseline": "apr2018",
       "port-version": 0
@@ -4182,6 +4210,10 @@
     },
     "directxtex-may2018b-0": {
       "baseline": "may2018b",
+      "port-version": 0
+    },
+    "directxtex-oct2018-0": {
+      "baseline": "oct2018",
       "port-version": 0
     },
     "directxtk-apr2018-0": {
@@ -4226,6 +4258,10 @@
     },
     "directxtk-oct2016-1-0": {
       "baseline": "oct2016-1",
+      "port-version": 0
+    },
+    "directxtk-oct2018b-0": {
+      "baseline": "oct2018b",
       "port-version": 0
     },
     "directxtk12-dec2016-0": {
@@ -4848,6 +4884,10 @@
       "baseline": "2018-10-25",
       "port-version": 0
     },
+    "exiv2-2018-11-01-0": {
+      "baseline": "2018-11-01",
+      "port-version": 0
+    },
     "exiv2-327b3f6c4de4ffda82818367fc870640d2ae8820-0": {
       "baseline": "327b3f6c4de4ffda82818367fc870640d2ae8820",
       "port-version": 0
@@ -5306,6 +5346,10 @@
     },
     "folly-2018-10-22-00-0": {
       "baseline": "2018.10.22.00",
+      "port-version": 0
+    },
+    "folly-2018-10-29-00-0": {
+      "baseline": "2018.10.29.00",
       "port-version": 0
     },
     "folly-v2017-05-08-00-0": {
@@ -5994,6 +6038,10 @@
     },
     "glm-0-9-9-2-0": {
       "baseline": "0.9.9.2",
+      "port-version": 0
+    },
+    "glm-0-9-9-3-0": {
+      "baseline": "0.9.9.3",
       "port-version": 0
     },
     "globjects-1-0-0-0": {
@@ -6906,6 +6954,10 @@
     },
     "jsonnet-2018-10-25-0": {
       "baseline": "2018-10-25",
+      "port-version": 0
+    },
+    "jsonnet-2018-11-01-0": {
+      "baseline": "2018-11-01",
       "port-version": 0
     },
     "jxrlib-1-1-0": {
@@ -9500,6 +9552,10 @@
       "baseline": "2018-10-25",
       "port-version": 0
     },
+    "nuklear-2018-11-01-0": {
+      "baseline": "2018-11-01",
+      "port-version": 0
+    },
     "nvml-1-3-0-0": {
       "baseline": "1.3-0",
       "port-version": 0
@@ -9802,6 +9858,10 @@
     },
     "openimageio-1-8-15-1-0": {
       "baseline": "1.8.15-1",
+      "port-version": 0
+    },
+    "openimageio-1-8-16-0": {
+      "baseline": "1.8.16",
       "port-version": 0
     },
     "openimageio-1-8-9-0": {
@@ -11600,6 +11660,10 @@
       "baseline": "2018-10-25",
       "port-version": 0
     },
+    "re2-2018-11-01-0": {
+      "baseline": "2018-11-01",
+      "port-version": 0
+    },
     "readerwriterqueue-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
@@ -13188,6 +13252,10 @@
       "baseline": "2018-10-25",
       "port-version": 0
     },
+    "thrift-2018-11-01-0": {
+      "baseline": "2018-11-01",
+      "port-version": 0
+    },
     "thrift-latest-0": {
       "baseline": "latest",
       "port-version": 0
@@ -13776,6 +13844,10 @@
       "baseline": "2018.10.22.00",
       "port-version": 0
     },
+    "wangle-2018-10-29-00-0": {
+      "baseline": "2018.10.29.00",
+      "port-version": 0
+    },
     "wangle-v2018-07-30-00-1-0": {
       "baseline": "v2018.07.30.00-1",
       "port-version": 0
@@ -14154,6 +14226,10 @@
     },
     "zeromq-2018-10-11-0": {
       "baseline": "2018-10-11",
+      "port-version": 0
+    },
+    "zeromq-2018-11-01-0": {
+      "baseline": "2018-11-01",
       "port-version": 0
     },
     "zeromq-4-2-0-0": {
