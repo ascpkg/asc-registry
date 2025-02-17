@@ -100428,6 +100428,10 @@
       "baseline": "5.0",
       "port-version": 1
     },
+    "raylib-5-0-2": {
+      "baseline": "5.0",
+      "port-version": 2
+    },
     "rbdl-2-6-0-0": {
       "baseline": "2.6.0",
       "port-version": 0
