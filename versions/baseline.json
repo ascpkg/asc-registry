@@ -6232,6 +6232,10 @@
       "baseline": "1.8.4-1",
       "port-version": 0
     },
+    "harfbuzz-1-8-4-2-0": {
+      "baseline": "1.8.4-2",
+      "port-version": 0
+    },
     "hdf5-1-10-0-patch1-0": {
       "baseline": "1.10.0-patch1",
       "port-version": 0
