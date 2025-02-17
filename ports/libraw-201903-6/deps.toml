@@ -1,0 +1,7 @@
+old = "libraw"
+new = "libraw-201903-6"
+
+[deps]
+jasper-2-0-33-0 = "jasper"
+lcms-2-12-2 = "lcms"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
