@@ -8292,6 +8292,10 @@
       "baseline": "2019-06-23",
       "port-version": 0
     },
+    "coin-4-0-0-0": {
+      "baseline": "4.0.0",
+      "port-version": 0
+    },
     "coinutils-2-10-14-0-0": {
       "baseline": "2.10.14-0",
       "port-version": 0
@@ -28952,6 +28956,10 @@
       "baseline": "1.0.0",
       "port-version": 0
     },
+    "simage-1-8-0-0": {
+      "baseline": "1.8.0",
+      "port-version": 0
+    },
     "simde-2019-06-05-0": {
       "baseline": "2019-06-05",
       "port-version": 0
@@ -29350,6 +29358,10 @@
     },
     "sophus-1-0-0-6-0": {
       "baseline": "1.0.0-6",
+      "port-version": 0
+    },
+    "soqt-1-6-0-0": {
+      "baseline": "1.6.0",
       "port-version": 0
     },
     "soundtouch-2-0-0-0": {
