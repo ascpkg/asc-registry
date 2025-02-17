@@ -12108,6 +12108,10 @@
       "baseline": "2019-08-14-2",
       "port-version": 0
     },
+    "gtest-2019-10-09-0": {
+      "baseline": "2019-10-09",
+      "port-version": 0
+    },
     "gtk-3-22-11-0": {
       "baseline": "3.22.11",
       "port-version": 0
@@ -20406,6 +20410,10 @@
     },
     "pmdk-1-6-3-0": {
       "baseline": "1.6-3",
+      "port-version": 0
+    },
+    "pmdk-2019-10-10-0": {
+      "baseline": "2019-10-10",
       "port-version": 0
     },
     "pngwriter-0-7-0-1-0": {
