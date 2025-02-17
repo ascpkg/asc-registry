@@ -2,6 +2,6 @@ old = "polyhook2"
 new = "polyhook2-2020-09-22-0"
 
 [deps]
-asmjit-2020-07-22-0 = "asmjit"
+asmjit-2020-09-14-0 = "asmjit"
 capstone-4-0-2-1 = "capstone"
 zydis-3-1-0-1-0 = "zydis"
