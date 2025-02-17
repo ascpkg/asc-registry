@@ -22680,6 +22680,10 @@
       "baseline": "commit-25aa2aa90d450d3c7550c535c7993a9e2ed0764a",
       "port-version": 0
     },
+    "nanobench-4-0-0-0": {
+      "baseline": "4.0.0",
+      "port-version": 0
+    },
     "nanodbc-2-12-4-0": {
       "baseline": "2.12.4",
       "port-version": 0
