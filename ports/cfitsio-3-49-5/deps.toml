@@ -1,0 +1,9 @@
+old = "cfitsio"
+new = "cfitsio-3-49-5"
+
+[deps]
+curl-8-4-0-0 = "curl"
+pthreads-3-0-0-14 = "pthreads"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-3-0 = "zlib"
