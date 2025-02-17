@@ -71184,6 +71184,10 @@
       "baseline": "1.1.0",
       "port-version": 5
     },
+    "mnn-1-1-0-6": {
+      "baseline": "1.1.0",
+      "port-version": 6
+    },
     "modern-cpp-kafka-2023-03-07-0": {
       "baseline": "2023.03.07",
       "port-version": 0

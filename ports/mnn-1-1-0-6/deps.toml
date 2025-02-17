@@ -1,0 +1,14 @@
+old = "mnn"
+new = "mnn-1-1-0-6"
+
+[deps]
+cuda-10-1-13 = "cuda"
+cudnn-7-6-5-12 = "cudnn"
+flatbuffers-24-3-25-0 = "flatbuffers"
+mnn-1-1-0-6 = "mnn"
+opencl-v2023-02-06-2 = "opencl"
+protobuf-4-25-1-0 = "protobuf"
+rapidjson-2023-07-17-1 = "rapidjson"
+stb-2023-04-11-1 = "stb"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vulkan-2023-12-17-0 = "vulkan"
