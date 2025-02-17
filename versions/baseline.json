@@ -24860,6 +24860,10 @@
       "baseline": "2.2.3",
       "port-version": 0
     },
+    "earcut-hpp-2-2-4-0": {
+      "baseline": "2.2.4",
+      "port-version": 0
+    },
     "eastl-3-05-08-0": {
       "baseline": "3.05.08",
       "port-version": 0
