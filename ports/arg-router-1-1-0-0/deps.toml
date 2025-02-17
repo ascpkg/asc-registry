@@ -1,0 +1,8 @@
+old = "arg-router"
+new = "arg-router-1-1-0-0"
+
+[deps]
+boost-lexical-cast-1-81-0-1 = "boost-lexical-cast"
+boost-mp11-1-81-0-1 = "boost-mp11"
+boost-preprocessor-1-81-0-1 = "boost-preprocessor"
+span-lite-0-10-3-0 = "span-lite"
