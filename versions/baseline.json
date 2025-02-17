@@ -10956,6 +10956,14 @@
       "baseline": "2.0.0-rc4-3",
       "port-version": 0
     },
+    "freerdp-2-0-0-rc4-4-0": {
+      "baseline": "2.0.0-rc4-4",
+      "port-version": 0
+    },
+    "freetds-1-1-17-0": {
+      "baseline": "1.1.17",
+      "port-version": 0
+    },
     "freetds-1-1-6-0": {
       "baseline": "1.1.6",
       "port-version": 0
@@ -15512,6 +15520,10 @@
       "baseline": "8.0.4-4",
       "port-version": 0
     },
+    "libmysql-8-0-4-5-0": {
+      "baseline": "8.0.4-5",
+      "port-version": 0
+    },
     "libnice-0-1-13-0": {
       "baseline": "0.1.13",
       "port-version": 0
@@ -15912,6 +15924,10 @@
       "baseline": "1.16-12",
       "port-version": 0
     },
+    "libpq-12-0-0": {
+      "baseline": "12.0",
+      "port-version": 0
+    },
     "libpq-9-6-1-0": {
       "baseline": "9.6.1",
       "port-version": 0
@@ -16200,6 +16216,10 @@
       "baseline": "2019-11-11",
       "port-version": 0
     },
+    "librtmp-2019-11-11-1-0": {
+      "baseline": "2019-11-11_1",
+      "port-version": 0
+    },
     "libsamplerate-0-1-9-0-0": {
       "baseline": "0.1.9.0",
       "port-version": 0
@@ -16386,6 +16406,10 @@
     },
     "libssh-0-7-6-1-0": {
       "baseline": "0.7.6-1",
+      "port-version": 0
+    },
+    "libssh-0-9-0-0": {
+      "baseline": "0.9.0",
       "port-version": 0
     },
     "libssh2-1-8-0-0": {
@@ -16982,6 +17006,10 @@
     },
     "libwebsockets-3-2-0-0": {
       "baseline": "3.2.0",
+      "port-version": 0
+    },
+    "libwebsockets-3-2-0-2-0": {
+      "baseline": "3.2.0-2",
       "port-version": 0
     },
     "libxlsxwriter-0-8-6-1-0": {
@@ -18416,6 +18444,10 @@
       "baseline": "1.6.7",
       "port-version": 0
     },
+    "mosquitto-1-6-7-1-0": {
+      "baseline": "1.6.7-1",
+      "port-version": 0
+    },
     "mozjpeg-3-2-0": {
       "baseline": "3.2",
       "port-version": 0
@@ -19154,6 +19186,10 @@
     },
     "nmap-7-70-1-0": {
       "baseline": "7.70-1",
+      "port-version": 0
+    },
+    "nmap-7-70-3-0": {
+      "baseline": "7.70-3",
       "port-version": 0
     },
     "nmslib-1-7-2-0": {
@@ -20344,6 +20380,10 @@
       "baseline": "1.0.2s",
       "port-version": 0
     },
+    "openssl-unix-1-1-1d-1-0": {
+      "baseline": "1.1.1d-1",
+      "port-version": 0
+    },
     "openssl-uwp-1-0-2l-winrt-0": {
       "baseline": "1.0.2l-winrt",
       "port-version": 0
@@ -20366,6 +20406,10 @@
     },
     "openssl-uwp-1-0-2r-1-0": {
       "baseline": "1.0.2r-1",
+      "port-version": 0
+    },
+    "openssl-uwp-1-1-1d-0": {
+      "baseline": "1.1.1d",
       "port-version": 0
     },
     "openssl-windows-1-0-2o-0": {
@@ -20398,6 +20442,10 @@
     },
     "openssl-windows-1-0-2s-2-0": {
       "baseline": "1.0.2s-2",
+      "port-version": 0
+    },
+    "openssl-windows-1-1-1d-0": {
+      "baseline": "1.1.1d",
       "port-version": 0
     },
     "opentracing-1-5-1-0": {
@@ -21222,6 +21270,10 @@
     },
     "pdal-1-7-1-7-0": {
       "baseline": "1.7.1-7",
+      "port-version": 0
+    },
+    "pdal-1-7-1-8-0": {
+      "baseline": "1.7.1-8",
       "port-version": 0
     },
     "pdal-c-1-8-0": {
@@ -22868,6 +22920,10 @@
       "baseline": "5.12.5",
       "port-version": 0
     },
+    "qt5-graphicaleffects-5-12-5-1-0": {
+      "baseline": "5.12.5-1",
+      "port-version": 0
+    },
     "qt5-graphicaleffects-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -23818,6 +23874,10 @@
     },
     "quickfix-1-15-1-1-0": {
       "baseline": "1.15.1-1",
+      "port-version": 0
+    },
+    "quickfix-1-15-1-3-0": {
+      "baseline": "1.15.1-3",
       "port-version": 0
     },
     "quirc-1-0-1-0": {
@@ -25646,6 +25706,10 @@
     },
     "slikenet-2019-10-22-0": {
       "baseline": "2019-10-22",
+      "port-version": 0
+    },
+    "slikenet-2019-10-22-1-0": {
+      "baseline": "2019-10-22_1",
       "port-version": 0
     },
     "smpeg2-2-0-0-0": {
@@ -29056,6 +29120,10 @@
       "baseline": "1.2.29",
       "port-version": 0
     },
+    "xmlsec-1-2-29-1-0": {
+      "baseline": "1.2.29-1",
+      "port-version": 0
+    },
     "xmsh-0-4-1-0": {
       "baseline": "0.4.1",
       "port-version": 0
@@ -29246,6 +29314,10 @@
     },
     "yara-3-10-0-0": {
       "baseline": "3.10.0",
+      "port-version": 0
+    },
+    "yara-3-10-0-1-0": {
+      "baseline": "3.10.0-1",
       "port-version": 0
     },
     "yara-e3439e4ead4ed5d3b75a0b46eaf15ddda2110bb9-0": {

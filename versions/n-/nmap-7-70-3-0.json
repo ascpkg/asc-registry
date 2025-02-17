@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/nmap-7-70-3-0",
+      "version": "7.70-3",
+      "port-version": 0
+    }
+  ]
+}
