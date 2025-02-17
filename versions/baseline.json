@@ -50396,6 +50396,10 @@
       "baseline": "2023-01-27",
       "port-version": 0
     },
+    "llfio-2023-03-13-0": {
+      "baseline": "2023-03-13",
+      "port-version": 0
+    },
     "llgl-2019-08-15-0": {
       "baseline": "2019-08-15",
       "port-version": 0
@@ -55102,6 +55106,10 @@
     },
     "ned14-internal-quickcpplib-2023-01-27-0": {
       "baseline": "2023-01-27",
+      "port-version": 0
+    },
+    "ned14-internal-quickcpplib-2023-03-13-0": {
+      "baseline": "2023-03-13",
       "port-version": 0
     },
     "neon2sse-2021-09-16-0": {
