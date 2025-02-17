@@ -16108,6 +16108,10 @@
       "baseline": "1.0.9",
       "port-version": 3
     },
+    "brotli-1-0-9-4": {
+      "baseline": "1.0.9",
+      "port-version": 4
+    },
     "brpc-0-9-7-0": {
       "baseline": "0.9.7",
       "port-version": 0
