@@ -60248,6 +60248,10 @@
       "baseline": "3.10.7",
       "port-version": 2
     },
+    "python3-3-10-7-3": {
+      "baseline": "3.10.7",
+      "port-version": 3
+    },
     "python3-3-6-1-0": {
       "baseline": "3.6.1",
       "port-version": 0
