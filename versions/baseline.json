@@ -4100,6 +4100,10 @@
       "baseline": "3.6.2-2",
       "port-version": 0
     },
+    "geos-3-6-2-3-0": {
+      "baseline": "3.6.2-3",
+      "port-version": 0
+    },
     "gettext-0-19-0": {
       "baseline": "0.19",
       "port-version": 0
