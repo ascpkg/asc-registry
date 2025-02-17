@@ -12596,6 +12596,10 @@
       "baseline": "2.2.9",
       "port-version": 0
     },
+    "expat-2020-08-18-0": {
+      "baseline": "2020-08-18",
+      "port-version": 0
+    },
     "expected-lite-0-3-0-0": {
       "baseline": "0.3.0",
       "port-version": 0
@@ -13632,6 +13636,10 @@
       "baseline": "2.12.4",
       "port-version": 12
     },
+    "fontconfig-2-12-4-13": {
+      "baseline": "2.12.4",
+      "port-version": 13
+    },
     "fontconfig-2-12-4-3-0": {
       "baseline": "2.12.4-3",
       "port-version": 0
@@ -14435,6 +14443,10 @@
     "gdcm-3-0-5-1": {
       "baseline": "3.0.5",
       "port-version": 1
+    },
+    "gdcm-3-0-5-2": {
+      "baseline": "3.0.5",
+      "port-version": 2
     },
     "gdcm2-2-6-7-0": {
       "baseline": "2.6.7",
@@ -17400,6 +17412,10 @@
       "baseline": "5.1.0",
       "port-version": 1
     },
+    "itk-5-1-0-2": {
+      "baseline": "5.1.0",
+      "port-version": 2
+    },
     "itpp-4-3-1-0": {
       "baseline": "4.3.1",
       "port-version": 0
@@ -19479,6 +19495,10 @@
     "libkml-1-3-0-5": {
       "baseline": "1.3.0",
       "port-version": 5
+    },
+    "libkml-1-3-0-6": {
+      "baseline": "1.3.0",
+      "port-version": 6
     },
     "liblas-1-8-1-0": {
       "baseline": "1.8.1",
@@ -28019,6 +28039,10 @@
     "poco-1-9-2-3": {
       "baseline": "1.9.2",
       "port-version": 3
+    },
+    "poco-1-9-2-4": {
+      "baseline": "1.9.2",
+      "port-version": 4
     },
     "poco-2-0-0-pre-0": {
       "baseline": "2.0.0-pre",
@@ -36856,6 +36880,10 @@
       "baseline": "9.0.1",
       "port-version": 1
     },
+    "vtk-9-0-1-2": {
+      "baseline": "9.0.1",
+      "port-version": 2
+    },
     "vtk-9-0-2-0": {
       "baseline": "9.0-2",
       "port-version": 0
@@ -37407,6 +37435,10 @@
     "wxwidgets-3-1-4-2": {
       "baseline": "3.1.4",
       "port-version": 2
+    },
+    "wxwidgets-3-1-4-3": {
+      "baseline": "3.1.4",
+      "port-version": 3
     },
     "x-plane-3-0-1-0": {
       "baseline": "3.0.1",
