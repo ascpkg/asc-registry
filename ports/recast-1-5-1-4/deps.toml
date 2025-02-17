@@ -1,0 +1,6 @@
+old = "recast"
+new = "recast-1-5-1-4"
+
+[deps]
+vcpkg-cmake-2021-02-28-3 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-0 = "vcpkg-cmake-config"
