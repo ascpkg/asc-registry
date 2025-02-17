@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/shaderc-2019-06-26-2",
+      "version": "2019-06-26",
+      "port-version": 2
+    }
+  ]
+}

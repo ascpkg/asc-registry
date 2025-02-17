@@ -39236,6 +39236,10 @@
       "baseline": "2019-06-26-1",
       "port-version": 0
     },
+    "shaderc-2019-06-26-2": {
+      "baseline": "2019-06-26",
+      "port-version": 2
+    },
     "shaderc-2df47b51d83ad83cbc2e7f8ff2b56776293e8958-0": {
       "baseline": "2df47b51d83ad83cbc2e7f8ff2b56776293e8958",
       "port-version": 0
