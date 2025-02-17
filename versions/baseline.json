@@ -400,6 +400,10 @@
       "baseline": "3.1.0",
       "port-version": 0
     },
+    "azure-storage-cpp-3-2-0-0": {
+      "baseline": "3.2.0",
+      "port-version": 0
+    },
     "beast-0-0": {
       "baseline": "0",
       "port-version": 0
