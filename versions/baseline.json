@@ -27792,6 +27792,10 @@
       "baseline": "2023-04-28",
       "port-version": 0
     },
+    "directxmesh-2023-06-13-0": {
+      "baseline": "2023-06-13",
+      "port-version": 0
+    },
     "directxmesh-apr2018-0": {
       "baseline": "apr2018",
       "port-version": 0
@@ -28008,6 +28012,10 @@
       "baseline": "2023-04-28",
       "port-version": 1
     },
+    "directxtex-2023-06-13-0": {
+      "baseline": "2023-06-13",
+      "port-version": 0
+    },
     "directxtex-apr2018-0": {
       "baseline": "apr2018",
       "port-version": 0
@@ -28198,6 +28206,10 @@
     },
     "directxtk-2023-04-28-0": {
       "baseline": "2023-04-28",
+      "port-version": 0
+    },
+    "directxtk-2023-06-13-0": {
+      "baseline": "2023-06-13",
       "port-version": 0
     },
     "directxtk-apr2018-0": {
@@ -28402,6 +28414,10 @@
     },
     "directxtk12-2023-04-28-0": {
       "baseline": "2023-04-28",
+      "port-version": 0
+    },
+    "directxtk12-2023-06-13-0": {
+      "baseline": "2023-06-13",
       "port-version": 0
     },
     "directxtk12-apr2021-0": {
@@ -29668,6 +29684,10 @@
       "baseline": "11.31",
       "port-version": 2
     },
+    "dxut-11-31-3": {
+      "baseline": "11.31",
+      "port-version": 3
+    },
     "eabase-2-09-10-0": {
       "baseline": "2.09.10",
       "port-version": 0
@@ -30255,6 +30275,10 @@
     "effects11-11-29-2": {
       "baseline": "11.29",
       "port-version": 2
+    },
+    "effects11-11-29-3": {
+      "baseline": "11.29",
+      "port-version": 3
     },
     "effolkronium-random-1-2-0-0": {
       "baseline": "1.2.0",
@@ -90634,6 +90658,10 @@
     },
     "uvatlas-2023-04-28-0": {
       "baseline": "2023-04-28",
+      "port-version": 0
+    },
+    "uvatlas-2023-06-13-0": {
+      "baseline": "2023-06-13",
       "port-version": 0
     },
     "uvatlas-apr2019-0": {
