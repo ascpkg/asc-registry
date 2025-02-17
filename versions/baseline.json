@@ -46620,6 +46620,10 @@
       "baseline": "3.10.1",
       "port-version": 0
     },
+    "gdal-3-10-1-1": {
+      "baseline": "3.10.1",
+      "port-version": 1
+    },
     "gdal-3-2-2-0": {
       "baseline": "3.2.2",
       "port-version": 0
@@ -55852,6 +55856,10 @@
       "baseline": "5.4.0",
       "port-version": 1
     },
+    "itk-5-4-0-2": {
+      "baseline": "5.4.0",
+      "port-version": 2
+    },
     "itpp-4-3-1-0": {
       "baseline": "4.3.1",
       "port-version": 0
@@ -56175,6 +56183,10 @@
     "jasper-4-2-4-0": {
       "baseline": "4.2.4",
       "port-version": 0
+    },
+    "jasper-4-2-4-1": {
+      "baseline": "4.2.4",
+      "port-version": 1
     },
     "jbig2dec-0-13-0": {
       "baseline": "0.13",
@@ -75312,6 +75324,10 @@
       "baseline": "24.0.7",
       "port-version": 2
     },
+    "mesa-24-0-7-3": {
+      "baseline": "24.0.7",
+      "port-version": 3
+    },
     "meschach--0": {
       "baseline": "",
       "port-version": 0
@@ -83068,6 +83084,10 @@
       "baseline": "4.10.0",
       "port-version": 0
     },
+    "opencv-4-10-0-1": {
+      "baseline": "4.10.0",
+      "port-version": 1
+    },
     "opencv-4-3-0-0": {
       "baseline": "4.3.0",
       "port-version": 0
@@ -83199,6 +83219,10 @@
     "opencv2-2-4-13-7-22": {
       "baseline": "2.4.13.7",
       "port-version": 22
+    },
+    "opencv2-2-4-13-7-23": {
+      "baseline": "2.4.13.7",
+      "port-version": 23
     },
     "opencv2-2-4-13-7-3": {
       "baseline": "2.4.13.7",
@@ -83368,6 +83392,10 @@
       "baseline": "3.4.18",
       "port-version": 17
     },
+    "opencv3-3-4-18-18": {
+      "baseline": "3.4.18",
+      "port-version": 18
+    },
     "opencv3-3-4-18-2": {
       "baseline": "3.4.18",
       "port-version": 2
@@ -83471,6 +83499,10 @@
     "opencv4-4-10-0-3": {
       "baseline": "4.10.0",
       "port-version": 3
+    },
+    "opencv4-4-10-0-4": {
+      "baseline": "4.10.0",
+      "port-version": 4
     },
     "opencv4-4-3-0-0": {
       "baseline": "4.3.0",
@@ -86632,6 +86664,10 @@
       "baseline": "3.6.5",
       "port-version": 25
     },
+    "osg-3-6-5-26": {
+      "baseline": "3.6.5",
+      "port-version": 26
+    },
     "osg-3-6-5-3": {
       "baseline": "3.6.5",
       "port-version": 3
@@ -86835,6 +86871,10 @@
     "osgearth-3-7-0": {
       "baseline": "3.7",
       "port-version": 0
+    },
+    "osgearth-3-7-1": {
+      "baseline": "3.7",
+      "port-version": 1
     },
     "osi-0-107-9-0-0": {
       "baseline": "0.107.9-0",
@@ -98612,6 +98652,10 @@
       "baseline": "6.8.1",
       "port-version": 0
     },
+    "qt5compat-6-8-1-1": {
+      "baseline": "6.8.1",
+      "port-version": 1
+    },
     "qt5datavis3d-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -99247,6 +99291,10 @@
     "qtbase-6-8-1-1": {
       "baseline": "6.8.1",
       "port-version": 1
+    },
+    "qtbase-6-8-1-2": {
+      "baseline": "6.8.1",
+      "port-version": 2
     },
     "qtcharts-6-1-0-0": {
       "baseline": "6.1.0",
@@ -100360,6 +100408,10 @@
       "baseline": "6.8.1",
       "port-version": 0
     },
+    "qtimageformats-6-8-1-1": {
+      "baseline": "6.8.1",
+      "port-version": 1
+    },
     "qtinterfaceframework-6-2-2-0": {
       "baseline": "6.2.2",
       "port-version": 0
@@ -101360,6 +101412,10 @@
       "baseline": "6.8.1",
       "port-version": 0
     },
+    "qtopcua-6-8-1-1": {
+      "baseline": "6.8.1",
+      "port-version": 1
+    },
     "qtpositioning-6-2-2-0": {
       "baseline": "6.2.2",
       "port-version": 0
@@ -102316,6 +102372,10 @@
       "baseline": "6.8.1",
       "port-version": 0
     },
+    "qtserialbus-6-8-1-1": {
+      "baseline": "6.8.1",
+      "port-version": 1
+    },
     "qtserialport-6-2-0-0": {
       "baseline": "6.2.0",
       "port-version": 0
@@ -103008,6 +103068,10 @@
       "baseline": "6.8.1",
       "port-version": 0
     },
+    "qttranslations-6-8-1-1": {
+      "baseline": "6.8.1",
+      "port-version": 1
+    },
     "qtvirtualkeyboard-6-1-0-0": {
       "baseline": "6.1.0",
       "port-version": 0
@@ -103127,6 +103191,10 @@
     "qtvirtualkeyboard-6-8-1-0": {
       "baseline": "6.8.1",
       "port-version": 0
+    },
+    "qtvirtualkeyboard-6-8-1-1": {
+      "baseline": "6.8.1",
+      "port-version": 1
     },
     "qtwayland-6-1-0-0": {
       "baseline": "6.1.0",
@@ -103515,6 +103583,10 @@
     "qtwebengine-6-8-1-0": {
       "baseline": "6.8.1",
       "port-version": 0
+    },
+    "qtwebengine-6-8-1-1": {
+      "baseline": "6.8.1",
+      "port-version": 1
     },
     "qtwebsockets-6-2-0-0": {
       "baseline": "6.2.0",
