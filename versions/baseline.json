@@ -14480,6 +14480,10 @@
       "baseline": "0.9.0",
       "port-version": 0
     },
+    "google-cloud-cpp-1-14-0-0": {
+      "baseline": "1.14.0",
+      "port-version": 0
+    },
     "google-cloud-cpp-common-0-15-0-0": {
       "baseline": "0.15.0",
       "port-version": 0
@@ -14512,6 +14516,10 @@
       "baseline": "0.25.0",
       "port-version": 0
     },
+    "google-cloud-cpp-common-alias-0": {
+      "baseline": "alias",
+      "port-version": 0
+    },
     "google-cloud-cpp-spanner-0-3-0-0": {
       "baseline": "0.3.0",
       "port-version": 0
@@ -14530,6 +14538,10 @@
     },
     "google-cloud-cpp-spanner-1-1-0-0": {
       "baseline": "1.1.0",
+      "port-version": 0
+    },
+    "google-cloud-cpp-spanner-alias-0": {
+      "baseline": "alias",
       "port-version": 0
     },
     "googleapis-0-1-1-0": {
@@ -14566,6 +14578,10 @@
     },
     "googleapis-0-9-0-0": {
       "baseline": "0.9.0",
+      "port-version": 0
+    },
+    "googleapis-alias-0": {
+      "baseline": "alias",
       "port-version": 0
     },
     "gperf-3-1-1-0": {
