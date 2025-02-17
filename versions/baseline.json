@@ -28600,6 +28600,10 @@
       "baseline": "19.08.2",
       "port-version": 1
     },
+    "marble-19-08-2-2": {
+      "baseline": "19.08.2",
+      "port-version": 2
+    },
     "marl-2019-09-11-0": {
       "baseline": "2019-09-11",
       "port-version": 0

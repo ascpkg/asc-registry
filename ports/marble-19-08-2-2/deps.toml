@@ -1,0 +1,8 @@
+old = "marble"
+new = "marble-19-08-2-2"
+
+[deps]
+qt5-base-5-15-2-6 = "qt5-base"
+qt5-quickcontrols-5-15-2-0 = "qt5-quickcontrols"
+qt5-svg-5-15-2-0 = "qt5-svg"
+qt5-webchannel-5-15-2-0 = "qt5-webchannel"
