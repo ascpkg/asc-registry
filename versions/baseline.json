@@ -65380,6 +65380,10 @@
       "baseline": "3.9.2",
       "port-version": 1
     },
+    "libressl-3-9-2-2": {
+      "baseline": "3.9.2",
+      "port-version": 2
+    },
     "librsvg-2-40-20-0": {
       "baseline": "2.40.20",
       "port-version": 0
