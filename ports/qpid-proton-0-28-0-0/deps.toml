@@ -2,6 +2,6 @@ old = "qpid-proton"
 new = "qpid-proton-0-28-0-0"
 
 [deps]
-jsoncpp-1-8-4-1-0 = "jsoncpp"
-libuv-1-29-1-0 = "libuv"
-openssl-0-0 = "openssl"
+jsoncpp-1-9-1-0 = "jsoncpp"
+libuv-1-30-1-0 = "libuv"
+openssl-1-0 = "openssl"
