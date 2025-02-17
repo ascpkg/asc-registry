@@ -1,0 +1,2 @@
+old = "physfs"
+new = "physfs--0"
