@@ -62684,6 +62684,10 @@
       "baseline": "0.14.0",
       "port-version": 0
     },
+    "nghttp3-0-15-0-0": {
+      "baseline": "0.15.0",
+      "port-version": 0
+    },
     "nghttp3-0-7-0-0": {
       "baseline": "0.7.0",
       "port-version": 0
