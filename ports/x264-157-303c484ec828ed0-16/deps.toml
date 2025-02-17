@@ -1,0 +1,5 @@
+old = "x264"
+new = "x264-157-303c484ec828ed0-16"
+
+[deps]
+pthread-3-0-0-1 = "pthread"
