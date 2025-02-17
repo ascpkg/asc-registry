@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/azure-identity-cpp-1-8-0-0",
+      "version-semver": "1.8.0",
+      "port-version": 0
+    }
+  ]
+}
