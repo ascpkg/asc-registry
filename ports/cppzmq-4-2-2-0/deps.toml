@@ -1,0 +1,5 @@
+old = "cppzmq"
+new = "cppzmq-4-2-2-0"
+
+[deps]
+zeromq-20170908-18498f620f0f6d4076981ea16eb5760fe4d28dc2-1-0 = "zeromq"
