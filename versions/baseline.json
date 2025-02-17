@@ -2372,6 +2372,10 @@
       "baseline": "",
       "port-version": 0
     },
+    "meschach-1-2b-0": {
+      "baseline": "1.2b",
+      "port-version": 0
+    },
     "metis-5-1-0-0": {
       "baseline": "5.1.0",
       "port-version": 0
