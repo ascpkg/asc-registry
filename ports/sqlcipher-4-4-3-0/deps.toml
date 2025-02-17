@@ -1,0 +1,6 @@
+old = "sqlcipher"
+new = "sqlcipher-4-4-3-0"
+
+[deps]
+openssl-1-1-1j-2 = "openssl"
+tcl-core-9-0-a1-1 = "tcl"
