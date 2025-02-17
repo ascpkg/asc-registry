@@ -21016,6 +21016,10 @@
       "baseline": "5.74.0",
       "port-version": 0
     },
+    "kf5archive-5-74-0-1": {
+      "baseline": "5.74.0",
+      "port-version": 1
+    },
     "kf5completion-5-64-0-0": {
       "baseline": "5.64.0",
       "port-version": 0
