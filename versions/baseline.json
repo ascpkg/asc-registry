@@ -84,6 +84,10 @@
       "baseline": "3.0.5",
       "port-version": 2
     },
+    "ableton-3-0-6-0": {
+      "baseline": "3.0.6",
+      "port-version": 0
+    },
     "abseil-2017-09-28-0": {
       "baseline": "2017-09-28",
       "port-version": 0
