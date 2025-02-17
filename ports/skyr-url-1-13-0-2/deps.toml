@@ -1,0 +1,9 @@
+old = "skyr-url"
+new = "skyr-url-1-13-0-2"
+
+[deps]
+nlohmann-json-3-10-4-0 = "nlohmann-json"
+range-v3-2021-11-02-0 = "range-v3"
+tl-expected-1-0-0-2 = "tl-expected"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"
