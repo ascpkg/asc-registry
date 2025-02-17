@@ -29648,6 +29648,10 @@
       "baseline": "0.1",
       "port-version": 4
     },
+    "getopt-win32-0-1-5": {
+      "baseline": "0.1",
+      "port-version": 5
+    },
     "gettext-0-19-0": {
       "baseline": "0.19",
       "port-version": 0
