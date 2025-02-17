@@ -73852,6 +73852,10 @@
       "baseline": "0.0.10",
       "port-version": 4
     },
+    "msh3-0-6-0-0": {
+      "baseline": "0.6.0",
+      "port-version": 0
+    },
     "msinttypes-2017-06-26-f9e7c5758ed9e3b9f4b2394de1881c704dd79de0-0": {
       "baseline": "2017-06-26-f9e7c5758ed9e3b9f4b2394de1881c704dd79de0",
       "port-version": 0
@@ -73963,6 +73967,10 @@
     "msquic-2-3-5-1": {
       "baseline": "2.3.5",
       "port-version": 1
+    },
+    "msquic-2-3-5-2": {
+      "baseline": "2.3.5",
+      "port-version": 2
     },
     "mstch-1-0-2-2-0": {
       "baseline": "1.0.2-2",
