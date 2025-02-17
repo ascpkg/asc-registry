@@ -59096,6 +59096,10 @@
       "baseline": "0.18",
       "port-version": 1
     },
+    "meshoptimizer-0-19-0": {
+      "baseline": "0.19",
+      "port-version": 0
+    },
     "metis-2022-07-27-0": {
       "baseline": "2022-07-27",
       "port-version": 0
