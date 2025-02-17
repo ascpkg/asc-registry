@@ -66884,6 +66884,10 @@
       "baseline": "4.3.4",
       "port-version": 4
     },
+    "zeromq-4-3-4-5": {
+      "baseline": "4.3.4",
+      "port-version": 5
+    },
     "zfp-0-5-5-1-0": {
       "baseline": "0.5.5-1",
       "port-version": 0
