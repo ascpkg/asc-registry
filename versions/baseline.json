@@ -9008,6 +9008,10 @@
       "baseline": "3.2.0",
       "port-version": 0
     },
+    "nlohmann-json-3-3-0-0": {
+      "baseline": "3.3.0",
+      "port-version": 0
+    },
     "nlopt-2-4-2-1226c127-0": {
       "baseline": "2.4.2-1226c127",
       "port-version": 0
