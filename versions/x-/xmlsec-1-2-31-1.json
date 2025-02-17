@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/xmlsec-1-2-31-1",
+      "version-string": "1.2.31",
+      "port-version": 1
+    }
+  ]
+}
