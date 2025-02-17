@@ -5892,6 +5892,10 @@
       "baseline": "2019-01-09",
       "port-version": 0
     },
+    "cnl-2019-06-23-0": {
+      "baseline": "2019-06-23",
+      "port-version": 0
+    },
     "coinutils-2-10-14-0-0": {
       "baseline": "2.10.14-0",
       "port-version": 0
