@@ -67740,6 +67740,10 @@
       "baseline": "2020.3.2",
       "port-version": 2
     },
+    "wren-0-4-0-0": {
+      "baseline": "0.4.0",
+      "port-version": 0
+    },
     "wren-2019-07-01-0": {
       "baseline": "2019-07-01",
       "port-version": 0
