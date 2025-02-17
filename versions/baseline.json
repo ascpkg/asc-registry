@@ -4572,6 +4572,10 @@
       "baseline": "",
       "port-version": 0
     },
+    "secp256k1-2017-19-10-0b7024185045a49a1a6a4c5615bf31c94f63d9c4-0": {
+      "baseline": "2017-19-10-0b7024185045a49a1a6a4c5615bf31c94f63d9c4",
+      "port-version": 0
+    },
     "sery-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
