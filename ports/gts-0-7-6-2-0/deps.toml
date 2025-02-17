@@ -2,4 +2,4 @@ old = "gts"
 new = "gts-0-7-6-2-0"
 
 [deps]
-glib-2-52-3-14-5-0 = "glib"
+glib-2-52-3-14-6-0 = "glib"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/murmurhash-2016-01-09-3-0",
+      "version": "2016-01-09-3",
+      "port-version": 0
+    }
+  ]
+}

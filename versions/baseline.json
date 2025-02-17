@@ -9532,6 +9532,10 @@
       "baseline": "0.4.1",
       "port-version": 0
     },
+    "cpuid-0-4-1-1-0": {
+      "baseline": "0.4.1-1",
+      "port-version": 0
+    },
     "cpuinfo-2019-07-28-0": {
       "baseline": "2019-07-28",
       "port-version": 0
@@ -10658,6 +10662,10 @@
     },
     "dmlc-2019-08-12-1-0": {
       "baseline": "2019-08-12-1",
+      "port-version": 0
+    },
+    "dmlc-2019-08-12-2-0": {
+      "baseline": "2019-08-12-2",
       "port-version": 0
     },
     "docopt-2018-04-16-2-0": {
@@ -18224,6 +18232,10 @@
       "baseline": "0.1.15-2",
       "port-version": 0
     },
+    "libnice-0-1-15-3-0": {
+      "baseline": "0.1.15-3",
+      "port-version": 0
+    },
     "libnoise-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
@@ -20660,6 +20672,10 @@
       "baseline": "2019.10-1",
       "port-version": 0
     },
+    "magnum-2019-10-2-0": {
+      "baseline": "2019.10-2",
+      "port-version": 0
+    },
     "magnum-extras-2018-02-1-0": {
       "baseline": "2018.02-1",
       "port-version": 0
@@ -21178,6 +21194,10 @@
     },
     "mlpack-3-2-2-1-0": {
       "baseline": "3.2.2-1",
+      "port-version": 0
+    },
+    "mlpack-3-2-2-2-0": {
+      "baseline": "3.2.2-2",
       "port-version": 0
     },
     "mman-git-f5ff813-0": {
@@ -21892,6 +21912,10 @@
       "baseline": "2016-01-09-2",
       "port-version": 0
     },
+    "murmurhash-2016-01-09-3-0": {
+      "baseline": "2016-01-09-3",
+      "port-version": 0
+    },
     "nameof-0-9-1-0": {
       "baseline": "0.9.1",
       "port-version": 0
@@ -22006,6 +22030,10 @@
     },
     "nanodbc-2-12-4-5-0": {
       "baseline": "2.12.4-5",
+      "port-version": 0
+    },
+    "nanodbc-2-12-4-7-0": {
+      "baseline": "2.12.4-7",
       "port-version": 0
     },
     "nanoflann-1-3-1-0": {
@@ -22942,6 +22970,10 @@
     },
     "opencc-2020-04-26-1-0": {
       "baseline": "2020-04-26-1",
+      "port-version": 0
+    },
+    "opencc-2020-04-26-2-0": {
+      "baseline": "2020-04-26-2",
       "port-version": 0
     },
     "opencensus-cpp-0-4-0-0": {
@@ -25234,6 +25266,10 @@
     },
     "podofo-0-9-6-7-0": {
       "baseline": "0.9.6-7",
+      "port-version": 0
+    },
+    "podofo-0-9-6-8-0": {
+      "baseline": "0.9.6-8",
       "port-version": 0
     },
     "polyclipping-6-4-2-0": {
@@ -28392,6 +28428,10 @@
       "baseline": "0.0.2",
       "port-version": 0
     },
+    "replxx-0-0-2-1-0": {
+      "baseline": "0.0.2-1",
+      "port-version": 0
+    },
     "reproc-10-0-3-0": {
       "baseline": "10.0.3",
       "port-version": 0
@@ -30890,6 +30930,10 @@
     },
     "stormlib-2019-05-10-0": {
       "baseline": "2019-05-10",
+      "port-version": 0
+    },
+    "stormlib-2019-05-10-1-0": {
+      "baseline": "2019-05-10-1",
       "port-version": 0
     },
     "stormlib-9-22-0": {
