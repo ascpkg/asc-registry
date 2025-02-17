@@ -26008,6 +26008,10 @@
       "baseline": "2.3",
       "port-version": 1
     },
+    "highfive-2-3-2": {
+      "baseline": "2.3",
+      "port-version": 2
+    },
     "highway-0-14-2-0": {
       "baseline": "0.14.2",
       "port-version": 0
