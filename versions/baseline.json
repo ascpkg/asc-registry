@@ -1204,6 +1204,10 @@
       "baseline": "2.36.6",
       "port-version": 0
     },
+    "gdk-pixbuf-2-36-9-0": {
+      "baseline": "2.36.9",
+      "port-version": 0
+    },
     "geogram-1-4-9-0": {
       "baseline": "1.4.9",
       "port-version": 0
