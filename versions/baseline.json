@@ -11504,6 +11504,10 @@
       "baseline": "v1.0.0-beta18",
       "port-version": 0
     },
+    "drogon-v1-0-0-beta20-0": {
+      "baseline": "v1.0.0-beta20",
+      "port-version": 0
+    },
     "dtl-1-19-0": {
       "baseline": "1.19",
       "port-version": 0
