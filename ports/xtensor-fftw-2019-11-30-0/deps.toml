@@ -1,0 +1,6 @@
+old = "xtensor-fftw"
+new = "xtensor-fftw-2019-11-30-0"
+
+[deps]
+fftw3-3-3-8-6-0 = "fftw3"
+xtensor-0-20-8-0 = "xtensor"
