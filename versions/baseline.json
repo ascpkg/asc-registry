@@ -50532,6 +50532,10 @@
       "baseline": "4.14.0",
       "port-version": 1
     },
+    "gtk-4-16-3-0": {
+      "baseline": "4.16.3",
+      "port-version": 0
+    },
     "gtk-4-3-0-0": {
       "baseline": "4.3.0",
       "port-version": 0
