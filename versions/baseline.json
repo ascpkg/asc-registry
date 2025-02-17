@@ -53688,6 +53688,10 @@
       "baseline": "2021-03-01",
       "port-version": 0
     },
+    "libnop-2021-11-03-0": {
+      "baseline": "2021-11-03",
+      "port-version": 0
+    },
     "libodb-2-4-0-0": {
       "baseline": "2.4.0",
       "port-version": 0
