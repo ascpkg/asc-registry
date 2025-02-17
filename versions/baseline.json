@@ -1260,6 +1260,10 @@
       "baseline": "4.3.23",
       "port-version": 0
     },
+    "anari-0-7-0-0": {
+      "baseline": "0.7.0",
+      "port-version": 0
+    },
     "anax-2-1-0-0": {
       "baseline": "2.1.0",
       "port-version": 0
