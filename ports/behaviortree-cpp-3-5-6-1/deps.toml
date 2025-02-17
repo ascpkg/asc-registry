@@ -1,0 +1,6 @@
+old = "behaviortree-cpp"
+new = "behaviortree-cpp-3-5-6-1"
+
+[deps]
+boost-coroutine2-1-76-0-0 = "boost-coroutine2"
+cppzmq-4-7-1-2 = "cppzmq"

@@ -1,0 +1,8 @@
+old = "bitserializer"
+new = "bitserializer-0-10-2"
+
+[deps]
+cpprestsdk-2-10-18-0 = "cpprestsdk"
+pugixml-1-11-4-1 = "pugixml"
+rapidjson-2020-09-14-1 = "rapidjson"
+ryml-2021-07-24-0 = "ryml"
