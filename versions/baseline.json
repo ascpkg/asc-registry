@@ -36236,6 +36236,10 @@
       "baseline": "2020.06",
       "port-version": 7
     },
+    "magnum-plugins-2020-06-8": {
+      "baseline": "2020.06",
+      "port-version": 8
+    },
     "magnum-plugins-jan2018-1-0": {
       "baseline": "jan2018-1",
       "port-version": 0
