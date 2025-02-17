@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cppwinrt-spring-2017-creators-update-for-vs-15-3-0",
+      "version": "spring_2017_creators_update_for_vs_15.3",
+      "port-version": 0
+    }
+  ]
+}
