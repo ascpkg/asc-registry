@@ -6164,6 +6164,10 @@
       "baseline": "2019-04-14-2",
       "port-version": 0
     },
+    "cppmicroservices-4-0-0-pre1-0": {
+      "baseline": "4.0.0-pre1",
+      "port-version": 0
+    },
     "cpprestsdk-2-10-0-0": {
       "baseline": "2.10.0",
       "port-version": 0
