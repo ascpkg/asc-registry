@@ -41724,6 +41724,10 @@
       "baseline": "0.10.4",
       "port-version": 1
     },
+    "igraph-0-10-5-0": {
+      "baseline": "0.10.5",
+      "port-version": 0
+    },
     "igraph-0-9-10-0": {
       "baseline": "0.9.10",
       "port-version": 0
