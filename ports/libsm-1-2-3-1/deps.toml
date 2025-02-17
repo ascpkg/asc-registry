@@ -1,0 +1,7 @@
+old = "libsm"
+new = "libsm-1-2-3-1"
+
+[deps]
+bzip2-1-0-8-3 = "bzip2"
+libice-1-0-10-1 = "libice"
+xorg-macros-1-19-3-0 = "xorg-macros"
