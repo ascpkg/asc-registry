@@ -22704,6 +22704,10 @@
       "baseline": "qt4",
       "port-version": 0
     },
+    "osg-qt-qt4-1-0": {
+      "baseline": "qt4-1",
+      "port-version": 0
+    },
     "osgearth-2-10-0": {
       "baseline": "2.10",
       "port-version": 0
@@ -25102,6 +25106,10 @@
     },
     "qt5-imageformats-5-12-5-2-0": {
       "baseline": "5.12.5-2",
+      "port-version": 0
+    },
+    "qt5-imageformats-5-12-5-3-0": {
+      "baseline": "5.12.5-3",
       "port-version": 0
     },
     "qt5-imageformats-5-9-2-0-0": {

@@ -1,0 +1,8 @@
+old = "qt5-imageformats"
+new = "qt5-imageformats-5-12-5-3-0"
+
+[deps]
+jasper-2-0-16-3-0 = "jasper"
+libwebp-1-1-0-0 = "libwebp"
+qt5-base-5-12-5-13-0 = "qt5-base"
+tiff-4-0-10-8-0 = "tiff"

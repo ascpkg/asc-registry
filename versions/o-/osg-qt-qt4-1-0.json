@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/osg-qt-qt4-1-0",
+      "version": "qt4-1",
+      "port-version": 0
+    }
+  ]
+}
