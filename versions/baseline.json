@@ -47636,6 +47636,10 @@
       "baseline": "22.04.0",
       "port-version": 1
     },
+    "marisa-trie-0-2-6-20200926-0": {
+      "baseline": "0.2.6+20200926",
+      "port-version": 0
+    },
     "marl-2019-09-11-0": {
       "baseline": "2019-09-11",
       "port-version": 0
