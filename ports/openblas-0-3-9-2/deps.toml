@@ -1,0 +1,5 @@
+old = "openblas"
+new = "openblas-0-3-9-2"
+
+[deps]
+pthread-3-0-0-0 = "pthread"
