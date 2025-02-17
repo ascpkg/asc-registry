@@ -41980,6 +41980,10 @@
       "baseline": "1.0.12",
       "port-version": 7
     },
+    "idevicerestore-1-0-12-8": {
+      "baseline": "1.0.12",
+      "port-version": 8
+    },
     "idyntree-8-1-0-0": {
       "baseline": "8.1.0",
       "port-version": 0
