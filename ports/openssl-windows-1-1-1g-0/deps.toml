@@ -1,0 +1,2 @@
+old = "openssl-windows"
+new = "openssl-windows-1-1-1g-0"
