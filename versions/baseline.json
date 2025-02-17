@@ -39796,6 +39796,10 @@
       "baseline": "3.13.2",
       "port-version": 0
     },
+    "entt-3-14-0-0": {
+      "baseline": "3.14.0",
+      "port-version": 0
+    },
     "entt-3-2-2-0": {
       "baseline": "3.2.2",
       "port-version": 0
