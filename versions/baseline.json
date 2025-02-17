@@ -122124,6 +122124,10 @@
       "baseline": "2.1.0",
       "port-version": 4
     },
+    "yalantinglibs-0-3-10-0": {
+      "baseline": "0.3.10",
+      "port-version": 0
+    },
     "yaml-cpp-0-5-4-candidate-0": {
       "baseline": "0.5.4 candidate",
       "port-version": 0
