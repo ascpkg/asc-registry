@@ -20264,6 +20264,10 @@
       "baseline": "1.80.0",
       "port-version": 0
     },
+    "leptonica-1-80-0-1": {
+      "baseline": "1.80.0",
+      "port-version": 1
+    },
     "lerc-2-2-0": {
       "baseline": "2.2",
       "port-version": 0
