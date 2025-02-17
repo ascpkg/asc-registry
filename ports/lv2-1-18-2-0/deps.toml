@@ -1,0 +1,6 @@
+old = "lv2"
+new = "lv2-1-18-2-0"
+
+[deps]
+vcpkg-cmake-2021-07-30-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"

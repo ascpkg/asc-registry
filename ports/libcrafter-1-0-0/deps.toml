@@ -1,0 +1,5 @@
+old = "libcrafter"
+new = "libcrafter-1-0-0"
+
+[deps]
+libpcap-1-10-1-0 = "libpcap"
