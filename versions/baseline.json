@@ -21772,6 +21772,10 @@
       "baseline": "0.15.0",
       "port-version": 0
     },
+    "libass-0-15-0-1": {
+      "baseline": "0.15.0",
+      "port-version": 1
+    },
     "libassuan-2-5-3-0": {
       "baseline": "2.5.3",
       "port-version": 0
