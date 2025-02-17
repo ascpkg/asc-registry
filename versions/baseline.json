@@ -38180,6 +38180,10 @@
       "baseline": "3.1.1-2",
       "port-version": 0
     },
+    "sundials-5-5-0-0": {
+      "baseline": "5.5.0",
+      "port-version": 0
+    },
     "superlu-2020-01-07-0": {
       "baseline": "2020-01-07",
       "port-version": 0
