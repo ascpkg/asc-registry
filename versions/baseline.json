@@ -29664,6 +29664,10 @@
       "baseline": "1.10.0",
       "port-version": 1
     },
+    "libvpx-1-10-0-2": {
+      "baseline": "1.10.0",
+      "port-version": 2
+    },
     "libvpx-1-6-1-1-0": {
       "baseline": "1.6.1-1",
       "port-version": 0
