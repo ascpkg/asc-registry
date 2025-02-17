@@ -1,0 +1,7 @@
+old = "freetype"
+new = "freetype-2-8-0"
+
+[deps]
+bzip2-1-0-6-1-0 = "bzip2"
+libpng-1-6-28-1-0 = "libpng"
+zlib-1-2-11-0 = "zlib"
