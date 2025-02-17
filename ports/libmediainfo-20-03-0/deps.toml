@@ -1,0 +1,7 @@
+old = "libmediainfo"
+new = "libmediainfo-20-03-0"
+
+[deps]
+curl-7-68-0-3-0 = "curl"
+libzen-0-4-38-0 = "libzen"
+zlib-1-2-11-6-0 = "zlib"
