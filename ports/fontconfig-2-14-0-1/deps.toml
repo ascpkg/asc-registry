@@ -1,0 +1,13 @@
+old = "fontconfig"
+new = "fontconfig-2-14-0-1"
+
+[deps]
+dirent-1-23-2-1 = "dirent"
+expat-2-4-8-1 = "expat"
+freetype-2-11-1-1 = "freetype"
+getopt-0-1 = "getopt"
+gettext-0-21-9 = "gettext"
+libiconv-1-16-13 = "libiconv"
+libuuid-1-0-3-11 = "libuuid"
+pthread-3-0-0-1 = "pthread"
+vcpkg-tool-meson-0-60-2-2 = "vcpkg-tool-meson"
