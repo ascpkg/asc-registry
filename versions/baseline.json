@@ -57100,6 +57100,10 @@
       "baseline": "4.4.8.16",
       "port-version": 0
     },
+    "sciter-js-4-4-8-31-0": {
+      "baseline": "4.4.8.31",
+      "port-version": 0
+    },
     "scnlib-0-1-2-0": {
       "baseline": "0.1.2",
       "port-version": 0
