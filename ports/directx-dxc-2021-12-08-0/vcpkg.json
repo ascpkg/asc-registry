@@ -1,0 +1,8 @@
+{
+  "name": "directx-dxc-2021-12-08-0",
+  "version-date": "2021-12-08",
+  "description": "DirectX Shader Compiler (LLVM/Clang)",
+  "homepage": "https://github.com/microsoft/DirectXShaderCompiler",
+  "documentation": "https://github.com/microsoft/DirectXShaderCompiler/wiki",
+  "supports": "windows & x64 & !uwp & !staticcrt"
+}
