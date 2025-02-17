@@ -58660,6 +58660,10 @@
       "baseline": "0.17.2",
       "port-version": 1
     },
+    "xtensor-blas-0-17-2-2": {
+      "baseline": "0.17.2",
+      "port-version": 2
+    },
     "xtensor-fftw-2019-11-30-0": {
       "baseline": "2019-11-30",
       "port-version": 0
