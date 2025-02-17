@@ -69800,6 +69800,10 @@
       "baseline": "0.6.0",
       "port-version": 3
     },
+    "libxmlmm-0-6-0-4": {
+      "baseline": "0.6.0",
+      "port-version": 4
+    },
     "libxmlpp-2-40-1-1-0": {
       "baseline": "2.40.1-1",
       "port-version": 0
