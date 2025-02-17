@@ -24484,6 +24484,10 @@
       "baseline": "0.1.9.0",
       "port-version": 3
     },
+    "libsamplerate-0-2-0-0": {
+      "baseline": "0.2.0",
+      "port-version": 0
+    },
     "libsass-3-6-4-0": {
       "baseline": "3.6.4",
       "port-version": 0
