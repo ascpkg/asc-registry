@@ -10900,6 +10900,10 @@
       "baseline": "1.85.0",
       "port-version": 0
     },
+    "boost-container-1-85-0-1": {
+      "baseline": "1.85.0",
+      "port-version": 1
+    },
     "boost-container-hash-1-67-0-0": {
       "baseline": "1.67.0",
       "port-version": 0
