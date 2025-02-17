@@ -4564,6 +4564,10 @@
       "baseline": "0.10.5",
       "port-version": 0
     },
+    "aws-c-mqtt-0-10-6-0": {
+      "baseline": "0.10.6",
+      "port-version": 0
+    },
     "aws-c-mqtt-0-7-6-0": {
       "baseline": "0.7.6",
       "port-version": 0
@@ -4674,6 +4678,10 @@
     },
     "aws-c-s3-0-6-5-0": {
       "baseline": "0.6.5",
+      "port-version": 0
+    },
+    "aws-c-s3-0-6-6-0": {
+      "baseline": "0.6.6",
       "port-version": 0
     },
     "aws-c-sdkutils-0-1-11-0": {
@@ -4986,6 +4994,10 @@
     },
     "aws-sdk-cpp-1-11-405-0": {
       "baseline": "1.11.405",
+      "port-version": 0
+    },
+    "aws-sdk-cpp-1-11-410-0": {
+      "baseline": "1.11.410",
       "port-version": 0
     },
     "aws-sdk-cpp-1-11-65-0": {
