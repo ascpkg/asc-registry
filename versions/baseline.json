@@ -14616,6 +14616,10 @@
       "baseline": "2020.06",
       "port-version": 2
     },
+    "corrade-2020-06-3": {
+      "baseline": "2020.06",
+      "port-version": 3
+    },
     "corrade-jan2018-1-0": {
       "baseline": "jan2018-1",
       "port-version": 0
