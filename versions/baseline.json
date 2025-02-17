@@ -27408,6 +27408,10 @@
       "baseline": "3.6.5",
       "port-version": 0
     },
+    "osg-3-6-5-1": {
+      "baseline": "3.6.5",
+      "port-version": 1
+    },
     "osg-qt-3-5-7-0": {
       "baseline": "3.5.7",
       "port-version": 0
@@ -27455,6 +27459,10 @@
     "osgearth-3-0-0": {
       "baseline": "3.0",
       "port-version": 0
+    },
+    "osgearth-3-0-1": {
+      "baseline": "3.0",
+      "port-version": 1
     },
     "osi-0-107-9-0-0": {
       "baseline": "0.107.9-0",
