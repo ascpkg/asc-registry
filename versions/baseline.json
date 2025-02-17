@@ -44360,6 +44360,10 @@
       "baseline": "2.3",
       "port-version": 1
     },
+    "geographiclib-2-4-0": {
+      "baseline": "2.4",
+      "port-version": 0
+    },
     "geos-3-10-0-0": {
       "baseline": "3.10.0",
       "port-version": 0
