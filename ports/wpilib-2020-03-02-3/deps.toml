@@ -1,0 +1,10 @@
+old = "wpilib"
+new = "wpilib-2020-03-02-3"
+
+[deps]
+eigen3-3-4-0-2 = "eigen3"
+libuv-1-44-1-0 = "libuv"
+opencv-4-5-5-1 = "opencv"
+vcpkg-cmake-2022-07-02-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+wpilib-2020-03-02-3 = "wpilib"
