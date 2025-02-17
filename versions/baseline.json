@@ -37848,6 +37848,10 @@
       "baseline": "2022-07-25",
       "port-version": 1
     },
+    "libcaer-2022-07-25-2": {
+      "baseline": "2022-07-25",
+      "port-version": 2
+    },
     "libcaer-3-3-14-0": {
       "baseline": "3.3.14",
       "port-version": 0
