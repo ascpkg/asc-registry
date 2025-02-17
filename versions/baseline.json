@@ -10568,6 +10568,10 @@
       "baseline": "2020-02-03",
       "port-version": 0
     },
+    "egl-registry-2020-02-20-0": {
+      "baseline": "2020-02-20",
+      "port-version": 0
+    },
     "eigen-3-2-9-0": {
       "baseline": "3.2.9",
       "port-version": 0
@@ -22142,6 +22146,10 @@
     },
     "opengl-registry-2020-02-03-0": {
       "baseline": "2020-02-03",
+      "port-version": 0
+    },
+    "opengl-registry-2020-03-25-0": {
+      "baseline": "2020-03-25",
       "port-version": 0
     },
     "openigtlink-3-0-0": {
