@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/opusfile-0-12-2",
+      "version": "0.12",
+      "port-version": 2
+    }
+  ]
+}
