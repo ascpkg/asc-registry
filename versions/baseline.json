@@ -93792,6 +93792,10 @@
       "baseline": "1.3.0",
       "port-version": 1
     },
+    "sdbus-cpp-1-5-0-0": {
+      "baseline": "1.5.0",
+      "port-version": 0
+    },
     "sdformat10-10-0-0-0": {
       "baseline": "10.0.0",
       "port-version": 0
