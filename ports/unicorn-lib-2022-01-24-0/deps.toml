@@ -1,0 +1,8 @@
+old = "unicorn-lib"
+new = "unicorn-lib-2022-01-24-0"
+
+[deps]
+pcre2-10-39-2 = "pcre2"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"
+zlib-1-2-11-13 = "zlib"
