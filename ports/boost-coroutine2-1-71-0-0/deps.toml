@@ -1,0 +1,9 @@
+old = "boost-coroutine2"
+new = "boost-coroutine2-1-71-0-0"
+
+[deps]
+boost-assert-1-71-0-0 = "boost-assert"
+boost-config-1-71-0-0 = "boost-config"
+boost-context-1-71-0-0 = "boost-context"
+boost-detail-1-71-0-0 = "boost-detail"
+boost-vcpkg-helpers-6-0 = "boost-vcpkg-helpers"

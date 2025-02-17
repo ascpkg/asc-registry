@@ -1,0 +1,6 @@
+old = "boost-dynamic-bitset"
+new = "boost-dynamic-bitset-1-71-0-0"
+
+[deps]
+boost-serialization-1-71-0-0 = "boost-serialization"
+boost-vcpkg-helpers-6-0 = "boost-vcpkg-helpers"
