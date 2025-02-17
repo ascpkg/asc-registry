@@ -19164,6 +19164,10 @@
       "baseline": "3.0.0",
       "port-version": 0
     },
+    "portable-snippets-2019-09-20-0": {
+      "baseline": "2019-09-20",
+      "port-version": 0
+    },
     "portaudio--0": {
       "baseline": "",
       "port-version": 0
