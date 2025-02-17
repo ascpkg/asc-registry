@@ -18136,6 +18136,10 @@
       "baseline": "1.2.1",
       "port-version": 5
     },
+    "cppcms-1-2-1-6": {
+      "baseline": "1.2.1",
+      "port-version": 6
+    },
     "cppcodec-0-2-0": {
       "baseline": "0.2",
       "port-version": 0
