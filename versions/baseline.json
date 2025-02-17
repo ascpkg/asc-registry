@@ -8036,6 +8036,10 @@
       "baseline": "1.8.0",
       "port-version": 0
     },
+    "cli11-1-9-0-0": {
+      "baseline": "1.9.0",
+      "port-version": 0
+    },
     "clickhouse-cpp-2019-05-22-0": {
       "baseline": "2019-05-22",
       "port-version": 0
