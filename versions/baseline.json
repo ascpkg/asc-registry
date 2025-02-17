@@ -23684,6 +23684,10 @@
       "baseline": "2.24.0",
       "port-version": 0
     },
+    "mbedtls-2-24-0-1": {
+      "baseline": "2.24.0",
+      "port-version": 1
+    },
     "mbedtls-2-6-1-0": {
       "baseline": "2.6.1",
       "port-version": 0
