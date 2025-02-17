@@ -54296,6 +54296,30 @@
       "baseline": "1.0.2",
       "port-version": 4
     },
+    "ltla-aarand-2023-03-19-0": {
+      "baseline": "2023-03-19",
+      "port-version": 0
+    },
+    "ltla-cppirlba-2023-04-07-0": {
+      "baseline": "2023-04-07",
+      "port-version": 0
+    },
+    "ltla-cppkmeans-2023-03-20-0": {
+      "baseline": "2023-03-20",
+      "port-version": 0
+    },
+    "ltla-knncolle-2023-05-09-0": {
+      "baseline": "2023-05-09",
+      "port-version": 0
+    },
+    "ltla-powerit-2023-03-19-0": {
+      "baseline": "2023-03-19",
+      "port-version": 0
+    },
+    "ltla-umappp-2023-05-11-0": {
+      "baseline": "2023-05-11",
+      "port-version": 0
+    },
     "lua--0": {
       "baseline": "",
       "port-version": 0

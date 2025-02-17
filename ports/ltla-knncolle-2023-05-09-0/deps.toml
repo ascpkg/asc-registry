@@ -1,0 +1,9 @@
+old = "ltla-knncolle"
+new = "ltla-knncolle-2023-05-09-0"
+
+[deps]
+annoy-1-17-2-0 = "annoy"
+hnswlib-0-7-0-1 = "hnswlib"
+ltla-cppkmeans-2023-03-20-0 = "ltla-cppkmeans"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
