@@ -1,0 +1,11 @@
+old = "boost-sort"
+new = "boost-sort-1-73-0-0"
+
+[deps]
+boost-integer-1-73-0-0 = "boost-integer"
+boost-range-1-73-0-0 = "boost-range"
+boost-serialization-1-73-0-0 = "boost-serialization"
+boost-static-assert-1-73-0-0 = "boost-static-assert"
+boost-type-traits-1-73-0-0 = "boost-type-traits"
+boost-utility-1-73-0-0 = "boost-utility"
+boost-vcpkg-helpers-7-0 = "boost-vcpkg-helpers"

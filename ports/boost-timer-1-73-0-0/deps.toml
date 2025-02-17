@@ -1,0 +1,16 @@
+old = "boost-timer"
+new = "boost-timer-1-73-0-0"
+
+[deps]
+boost-build-1-73-0-0 = "boost-build"
+boost-chrono-1-73-0-0 = "boost-chrono"
+boost-compatibility-1-73-0-0 = "boost-compatibility"
+boost-config-1-73-0-0 = "boost-config"
+boost-core-1-73-0-0 = "boost-core"
+boost-integer-1-73-0-0 = "boost-integer"
+boost-io-1-73-0-0 = "boost-io"
+boost-modular-build-helper-1-73-0-0 = "boost-modular-build-helper"
+boost-predef-1-73-0-0 = "boost-predef"
+boost-system-1-73-0-0 = "boost-system"
+boost-throw-exception-1-73-0-0 = "boost-throw-exception"
+boost-vcpkg-helpers-7-0 = "boost-vcpkg-helpers"
