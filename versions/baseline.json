@@ -1420,6 +1420,10 @@
       "baseline": "5.0.1",
       "port-version": 3
     },
+    "assimp-5-0-1-4": {
+      "baseline": "5.0.1",
+      "port-version": 4
+    },
     "asynch-2019-09-21-0": {
       "baseline": "2019-09-21",
       "port-version": 0
@@ -27707,6 +27711,10 @@
     "ogre-1-12-9-2": {
       "baseline": "1.12.9",
       "port-version": 2
+    },
+    "ogre-1-12-9-3": {
+      "baseline": "1.12.9",
+      "port-version": 3
     },
     "ogre-1-9-0-0": {
       "baseline": "1.9.0",
