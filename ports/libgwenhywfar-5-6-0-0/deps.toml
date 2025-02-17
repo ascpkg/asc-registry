@@ -1,0 +1,8 @@
+old = "libgwenhywfar"
+new = "libgwenhywfar-5-6-0-0"
+
+[deps]
+libgcrypt-1-8-7-0 = "libgcrypt"
+libgnutls-3-6-15-1 = "libgnutls"
+libxml2-2-9-10-3 = "libxml2"
+qt5-base-5-15-2-2 = "qt5-base"
