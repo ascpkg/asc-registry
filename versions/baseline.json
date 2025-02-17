@@ -76840,6 +76840,10 @@
       "baseline": "6.5.2",
       "port-version": 0
     },
+    "qtbase-6-5-2-1": {
+      "baseline": "6.5.2",
+      "port-version": 1
+    },
     "qtcharts-6-1-0-0": {
       "baseline": "6.1.0",
       "port-version": 0
