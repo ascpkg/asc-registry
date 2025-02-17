@@ -1,0 +1,8 @@
+old = "elements"
+new = "elements-2022-12-07-1"
+
+[deps]
+asio-1-31-0-0 = "asio"
+cairo-1-18-2-0 = "cairo"
+gtk3-3-24-38-1 = "gtk3"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
