@@ -12296,6 +12296,10 @@
       "baseline": "0.19-13",
       "port-version": 0
     },
+    "gettext-0-19-14-0": {
+      "baseline": "0.19-14",
+      "port-version": 0
+    },
     "gettext-0-19-2-0": {
       "baseline": "0.19-2",
       "port-version": 0
