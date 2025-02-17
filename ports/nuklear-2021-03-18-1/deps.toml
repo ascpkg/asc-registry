@@ -1,0 +1,6 @@
+old = "nuklear"
+new = "nuklear-2021-03-18-1"
+
+[deps]
+vcpkg-cmake-2021-06-25-4 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"
