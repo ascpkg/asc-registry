@@ -28388,6 +28388,10 @@
       "baseline": "2.9.10",
       "port-version": 7
     },
+    "libxml2-2-9-10-8": {
+      "baseline": "2.9.10",
+      "port-version": 8
+    },
     "libxml2-2-9-4-0": {
       "baseline": "2.9.4",
       "port-version": 0
