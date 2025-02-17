@@ -49468,6 +49468,10 @@
       "baseline": "3.6.1",
       "port-version": 1
     },
+    "sassc-3-6-2-0": {
+      "baseline": "3.6.2",
+      "port-version": 0
+    },
     "sbp-3-4-10-0": {
       "baseline": "3.4.10",
       "port-version": 0
