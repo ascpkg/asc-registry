@@ -20644,6 +20644,10 @@
       "baseline": "4.1.1",
       "port-version": 0
     },
+    "cserialport-4-2-1-0": {
+      "baseline": "4.2.1",
+      "port-version": 0
+    },
     "cspice-66-1-0": {
       "baseline": "66-1",
       "port-version": 0
