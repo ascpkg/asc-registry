@@ -7448,6 +7448,10 @@
       "baseline": "1.3",
       "port-version": 0
     },
+    "cgltf-1-5-0": {
+      "baseline": "1.5",
+      "port-version": 0
+    },
     "cgltf-2019-04-30-0": {
       "baseline": "2019-04-30",
       "port-version": 0
