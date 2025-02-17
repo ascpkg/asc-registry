@@ -47052,6 +47052,10 @@
       "baseline": "1.90",
       "port-version": 2
     },
+    "imgui-1-90-2-0": {
+      "baseline": "1.90.2",
+      "port-version": 0
+    },
     "imgui-1-90-3": {
       "baseline": "1.90",
       "port-version": 3
@@ -47067,6 +47071,10 @@
     "imgui-node-editor-0-9-3-0": {
       "baseline": "0.9.3",
       "port-version": 0
+    },
+    "imgui-node-editor-0-9-3-1": {
+      "baseline": "0.9.3",
+      "port-version": 1
     },
     "imgui-sfml-2-0-2-0": {
       "baseline": "2.0.2",
