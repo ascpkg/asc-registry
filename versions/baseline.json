@@ -22236,6 +22236,10 @@
       "baseline": "1.3.3",
       "port-version": 0
     },
+    "minhook-1-3-3-1": {
+      "baseline": "1.3.3",
+      "port-version": 1
+    },
     "minifb-2019-08-20-1-0": {
       "baseline": "2019-08-20-1",
       "port-version": 0
