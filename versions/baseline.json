@@ -32864,6 +32864,10 @@
       "baseline": "1.10.1",
       "port-version": 0
     },
+    "libpcap-1-10-1-1": {
+      "baseline": "1.10.1",
+      "port-version": 1
+    },
     "libpcap-1-9-0-0": {
       "baseline": "1.9.0",
       "port-version": 0
@@ -34399,6 +34403,10 @@
     "libtins-4-3-3": {
       "baseline": "4.3",
       "port-version": 3
+    },
+    "libtins-4-3-4": {
+      "baseline": "4.3",
+      "port-version": 4
     },
     "libtomcrypt-1-18-2-1-0": {
       "baseline": "1.18.2-1",
