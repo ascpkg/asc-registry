@@ -28764,6 +28764,10 @@
       "baseline": "0.8.0",
       "port-version": 0
     },
+    "fast-float-3-11-0-0": {
+      "baseline": "3.11.0",
+      "port-version": 0
+    },
     "fast-float-3-2-0-0": {
       "baseline": "3.2.0",
       "port-version": 0
