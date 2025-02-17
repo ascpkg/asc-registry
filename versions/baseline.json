@@ -72000,6 +72000,10 @@
       "baseline": "1.19.0",
       "port-version": 0
     },
+    "yoga-1-19-0-1": {
+      "baseline": "1.19.0",
+      "port-version": 1
+    },
     "yoga-1-7-0-0": {
       "baseline": "1.7.0",
       "port-version": 0
