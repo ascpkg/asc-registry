@@ -33056,6 +33056,10 @@
       "baseline": "1.1.2",
       "port-version": 0
     },
+    "flatbush-1-2-0-0": {
+      "baseline": "1.2.0",
+      "port-version": 0
+    },
     "flecs-2-4-8-0": {
       "baseline": "2.4.8",
       "port-version": 0
