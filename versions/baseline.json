@@ -47396,6 +47396,10 @@
       "baseline": "1.22.2",
       "port-version": 0
     },
+    "libbson-1-24-3-0": {
+      "baseline": "1.24.3",
+      "port-version": 0
+    },
     "libbson-1-4-2-0": {
       "baseline": "1.4.2",
       "port-version": 0
@@ -59712,6 +59716,10 @@
       "baseline": "1.22.2",
       "port-version": 0
     },
+    "mongo-c-driver-1-24-3-0": {
+      "baseline": "1.24.3",
+      "port-version": 0
+    },
     "mongo-c-driver-1-4-2-0": {
       "baseline": "1.4.2",
       "port-version": 0
@@ -59850,6 +59858,10 @@
     },
     "mongo-cxx-driver-3-7-2-0": {
       "baseline": "3.7.2",
+      "port-version": 0
+    },
+    "mongo-cxx-driver-3-8-0-0": {
+      "baseline": "3.8.0",
       "port-version": 0
     },
     "mongoose-6-15-1-0": {
