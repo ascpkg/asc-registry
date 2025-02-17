@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libosip2-5-1-0-3-0",
+      "version": "5.1.0-3",
+      "port-version": 0
+    }
+  ]
+}
