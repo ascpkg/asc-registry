@@ -30904,6 +30904,10 @@
       "baseline": "2.1.0",
       "port-version": 0
     },
+    "cli-2-2-0-0": {
+      "baseline": "2.2.0",
+      "port-version": 0
+    },
     "cli-2019-03-21-0": {
       "baseline": "2019-03-21",
       "port-version": 0
