@@ -67360,6 +67360,10 @@
       "baseline": "2.1.1",
       "port-version": 8
     },
+    "szip-2-1-1-9": {
+      "baseline": "2.1.1",
+      "port-version": 9
+    },
     "szip-2-1-2-0": {
       "baseline": "2.1-2",
       "port-version": 0
