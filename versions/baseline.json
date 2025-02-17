@@ -22128,6 +22128,10 @@
       "baseline": "2018-04-18-2",
       "port-version": 0
     },
+    "ms-angle-alias-0": {
+      "baseline": "alias",
+      "port-version": 0
+    },
     "ms-gsl-2-1-0-0": {
       "baseline": "2.1.0",
       "port-version": 0
