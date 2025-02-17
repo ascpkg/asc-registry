@@ -18856,6 +18856,10 @@
       "baseline": "1.1.2",
       "port-version": 0
     },
+    "crc32c-1-1-2-1": {
+      "baseline": "1.1.2",
+      "port-version": 1
+    },
     "crfsuite-2019-07-21-0": {
       "baseline": "2019-07-21",
       "port-version": 0
