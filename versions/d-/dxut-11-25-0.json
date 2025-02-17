@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/dxut-11-25-0",
+      "version-string": "11.25",
+      "port-version": 0
+    }
+  ]
+}
