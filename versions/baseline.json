@@ -106132,6 +106132,10 @@
       "baseline": "5.6.6",
       "port-version": 0
     },
+    "wolfssl-5-7-0-0": {
+      "baseline": "5.7.0",
+      "port-version": 0
+    },
     "wolftpm-2-4-0-0": {
       "baseline": "2.4.0",
       "port-version": 0
