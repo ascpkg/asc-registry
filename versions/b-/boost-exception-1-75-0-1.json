@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/boost-exception-1-75-0-1",
+      "version-string": "1.75.0",
+      "port-version": 1
+    }
+  ]
+}
