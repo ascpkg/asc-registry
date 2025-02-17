@@ -19400,6 +19400,10 @@
       "baseline": "0.5.1",
       "port-version": 3
     },
+    "cpuid-0-5-1-4": {
+      "baseline": "0.5.1",
+      "port-version": 4
+    },
     "cpuinfo-2019-07-28-0": {
       "baseline": "2019-07-28",
       "port-version": 0
