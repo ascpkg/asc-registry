@@ -1,0 +1,8 @@
+old = "directxmesh"
+new = "directxmesh-2022-02-28-0"
+
+[deps]
+directx-headers-1-4-9-1 = "directx-headers"
+directxmath-2022-01-18-0 = "directxmath"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"
