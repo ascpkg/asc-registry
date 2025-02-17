@@ -1,0 +1,6 @@
+old = "qtdeviceutilities"
+new = "qtdeviceutilities-6-4-1-0"
+
+[deps]
+qtdeclarative-6-4-1-0 = "qtdeclarative"
+qttools-6-4-1-0 = "qttools"

@@ -1,0 +1,7 @@
+old = "qtsensors"
+new = "qtsensors-6-4-1-0"
+
+[deps]
+qtbase-6-4-1-0 = "qtbase"
+qtconnectivity-6-4-1-0 = "qtconnectivity"
+qtdeclarative-6-4-1-0 = "qtdeclarative"
