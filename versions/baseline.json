@@ -38056,6 +38056,10 @@
       "baseline": "4.0.1",
       "port-version": 1
     },
+    "gtkmm-4-10-0-0": {
+      "baseline": "4.10.0",
+      "port-version": 0
+    },
     "gtkmm-4-4-0-0": {
       "baseline": "4.4.0",
       "port-version": 0
