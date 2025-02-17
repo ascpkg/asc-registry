@@ -97112,6 +97112,10 @@
       "baseline": "1.3.0",
       "port-version": 1
     },
+    "tmxlite-1-4-4-0": {
+      "baseline": "1.4.4",
+      "port-version": 0
+    },
     "tmxlite-2019-03-05-0": {
       "baseline": "2019-03-05",
       "port-version": 0
