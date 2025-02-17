@@ -2,5 +2,5 @@ old = "harfbuzz"
 new = "harfbuzz-1-4-6-0"
 
 [deps]
-freetype-2-6-3-5-0 = "freetype"
-glib-2-52-1-0 = "glib"
+freetype-2-8-0 = "freetype"
+glib-2-52-2-0 = "glib"
