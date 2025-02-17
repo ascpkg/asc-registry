@@ -1,0 +1,5 @@
+old = "libdc1394"
+new = "libdc1394-2-2-6-1"
+
+[deps]
+libusb-1-0-26-0 = "libusb"
