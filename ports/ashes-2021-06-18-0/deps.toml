@@ -1,0 +1,7 @@
+old = "ashes"
+new = "ashes-2021-06-18-0"
+
+[deps]
+opengl-0-0-8 = "opengl"
+spirv-cross-2021-01-15-1 = "spirv-cross"
+vulkan-headers-1-2-184-0 = "vulkan-headers"
