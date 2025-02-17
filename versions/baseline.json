@@ -53664,6 +53664,10 @@
       "baseline": "0.30",
       "port-version": 1
     },
+    "squirrel-2021-09-17-0": {
+      "baseline": "2021-09-17",
+      "port-version": 0
+    },
     "sratom-0-6-4-0": {
       "baseline": "0.6.4",
       "port-version": 0
