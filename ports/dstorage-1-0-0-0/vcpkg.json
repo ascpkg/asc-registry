@@ -1,0 +1,7 @@
+{
+  "name": "dstorage-1-0-0-0",
+  "version": "1.0.0",
+  "description": "DirectStorage for Windows",
+  "homepage": "https://aka.ms/directstorage/",
+  "supports": "windows & !uwp & !static"
+}
