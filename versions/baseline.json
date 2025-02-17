@@ -68636,6 +68636,10 @@
       "baseline": "0.1.0",
       "port-version": 0
     },
+    "libshout-2-4-6-0": {
+      "baseline": "2.4.6",
+      "port-version": 0
+    },
     "libsigcpp-2-10-0": {
       "baseline": "2.10",
       "port-version": 0
