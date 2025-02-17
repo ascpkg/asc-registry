@@ -18528,6 +18528,10 @@
       "baseline": "2.7.7097.0",
       "port-version": 2
     },
+    "easyhook-2-7-7097-0-3": {
+      "baseline": "2.7.7097.0",
+      "port-version": 3
+    },
     "easyloggingpp-9-96-5-1-0": {
       "baseline": "9.96.5-1",
       "port-version": 0
