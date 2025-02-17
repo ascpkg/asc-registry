@@ -36168,6 +36168,10 @@
       "baseline": "0.7.6",
       "port-version": 7
     },
+    "gtsam-4-2a9-0": {
+      "baseline": "4.2a9",
+      "port-version": 0
+    },
     "guetzli-2017-09-02-cb5e4a86f69628-0": {
       "baseline": "2017-09-02-cb5e4a86f69628",
       "port-version": 0
