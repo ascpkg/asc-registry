@@ -1,0 +1,8 @@
+old = "ppconsul"
+new = "ppconsul-0-4-0"
+
+[deps]
+boost-core-1-71-0-0 = "boost-core"
+boost-variant-1-71-0-0 = "boost-variant"
+curl-7-66-0-1-0 = "curl"
+json11-2017-06-20-2-0 = "json11"
