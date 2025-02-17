@@ -72228,6 +72228,10 @@
       "baseline": "3.100",
       "port-version": 14
     },
+    "mp3lame-3-100-15": {
+      "baseline": "3.100",
+      "port-version": 15
+    },
     "mp3lame-3-100-3-0": {
       "baseline": "3.100-3",
       "port-version": 0

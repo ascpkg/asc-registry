@@ -1,0 +1,6 @@
+old = "mp3lame"
+new = "mp3lame-3-100-15"
+
+[deps]
+ncurses-6-4-2 = "ncurses"
+vcpkg-msbuild-2023-08-08-0 = "vcpkg-msbuild"
