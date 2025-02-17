@@ -15888,6 +15888,10 @@
       "baseline": "1.12.0",
       "port-version": 1
     },
+    "flatbuffers-1-12-0-2": {
+      "baseline": "1.12.0",
+      "port-version": 2
+    },
     "flatbuffers-1-6-0-0": {
       "baseline": "1.6.0",
       "port-version": 0
