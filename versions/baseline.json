@@ -22260,6 +22260,10 @@
       "baseline": "2022-07-12",
       "port-version": 6
     },
+    "breakpad-2023-01-27-0": {
+      "baseline": "2023-01-27",
+      "port-version": 0
+    },
     "brigand-1-3-0-0": {
       "baseline": "1.3.0",
       "port-version": 0
