@@ -23344,6 +23344,10 @@
       "baseline": "2.11.0",
       "port-version": 2
     },
+    "freetype-2-11-1-0": {
+      "baseline": "2.11.1",
+      "port-version": 0
+    },
     "freetype-2-6-3-0": {
       "baseline": "2.6.3",
       "port-version": 0
@@ -27135,6 +27139,10 @@
     "harfbuzz-3-0-0-1": {
       "baseline": "3.0.0",
       "port-version": 1
+    },
+    "harfbuzz-3-2-0-0": {
+      "baseline": "3.2.0",
+      "port-version": 0
     },
     "hayai-2019-08-10-0": {
       "baseline": "2019-08-10",
@@ -55903,6 +55911,10 @@
     "sdl2-2-0-16-3": {
       "baseline": "2.0.16",
       "port-version": 3
+    },
+    "sdl2-2-0-20-0": {
+      "baseline": "2.0.20",
+      "port-version": 0
     },
     "sdl2-2-0-4-0": {
       "baseline": "2.0.4",
