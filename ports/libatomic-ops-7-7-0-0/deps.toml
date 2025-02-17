@@ -1,0 +1,6 @@
+old = "libatomic-ops"
+new = "libatomic-ops-7-7-0-0"
+
+[deps]
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-11-01-0 = "vcpkg-cmake-config"
