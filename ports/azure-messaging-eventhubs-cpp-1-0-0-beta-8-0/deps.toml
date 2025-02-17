@@ -1,0 +1,7 @@
+old = "azure-messaging-eventhubs-cpp"
+new = "azure-messaging-eventhubs-cpp-1-0-0-beta-8-0"
+
+[deps]
+azure-core-amqp-cpp-1-0-0-beta-9-0 = "azure-core-amqp-cpp"
+vcpkg-cmake-2024-04-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
