@@ -1,0 +1,6 @@
+old = "offscale-libetcd-cpp"
+new = "offscale-libetcd-cpp-2019-07-10-0"
+
+[deps]
+grpc-1-21-1-1-0 = "grpc"
+protobuf-3-8-0-1-0 = "protobuf"
