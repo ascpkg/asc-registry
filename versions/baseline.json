@@ -4640,6 +4640,10 @@
       "baseline": "20170724-9d9f75e",
       "port-version": 0
     },
+    "string-theory-1-6-0": {
+      "baseline": "1.6",
+      "port-version": 0
+    },
     "strtk-2017-01-02-1e2960f-0": {
       "baseline": "2017.01.02-1e2960f",
       "port-version": 0
