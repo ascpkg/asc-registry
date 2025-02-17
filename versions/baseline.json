@@ -29312,6 +29312,10 @@
       "baseline": "3.7.1",
       "port-version": 0
     },
+    "catch2-3-8-0-0": {
+      "baseline": "3.8.0",
+      "port-version": 0
+    },
     "cblas-2024-03-19-0": {
       "baseline": "2024-03-19",
       "port-version": 0
