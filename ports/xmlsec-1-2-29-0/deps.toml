@@ -1,0 +1,6 @@
+old = "xmlsec"
+new = "xmlsec-1-2-29-0"
+
+[deps]
+libxml2-2-9-9-4-0 = "libxml2"
+openssl-1-0 = "openssl"
