@@ -64692,6 +64692,10 @@
       "baseline": "2.0.0",
       "port-version": 0
     },
+    "termcolor-2-1-0-0": {
+      "baseline": "2.1.0",
+      "port-version": 0
+    },
     "tesseract-3-05-01-0": {
       "baseline": "3.05.01",
       "port-version": 0
