@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/influxdb-cxx-0-6-7-1",
+      "version": "0.6.7",
+      "port-version": 1
+    }
+  ]
+}
