@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/fdk-aac-2-0-2-4",
+      "version-semver": "2.0.2",
+      "port-version": 4
+    }
+  ]
+}
