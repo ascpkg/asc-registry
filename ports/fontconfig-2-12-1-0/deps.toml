@@ -3,5 +3,5 @@ new = "fontconfig-2-12-1-0"
 
 [deps]
 expat-2-1-1-0 = "expat"
-freetype-2-6-3-3-0 = "freetype"
+freetype-2-6-3-5-0 = "freetype"
 libiconv-1-14-0 = "libiconv"
