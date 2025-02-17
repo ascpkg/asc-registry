@@ -7348,6 +7348,10 @@
       "baseline": "2.6.0",
       "port-version": 0
     },
+    "celero-2-6-0-1-0": {
+      "baseline": "2.6.0-1",
+      "port-version": 0
+    },
     "cello-2019-07-23-0": {
       "baseline": "2019-07-23",
       "port-version": 0
