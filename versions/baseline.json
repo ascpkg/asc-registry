@@ -66404,6 +66404,10 @@
       "baseline": "3.32",
       "port-version": 1
     },
+    "libsvm-3-35-0": {
+      "baseline": "3.35",
+      "port-version": 0
+    },
     "libsvm-323-0": {
       "baseline": "323",
       "port-version": 0
