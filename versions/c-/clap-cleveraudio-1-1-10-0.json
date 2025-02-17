@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/clap-cleveraudio-1-1-10-0",
+      "version-semver": "1.1.10",
+      "port-version": 0
+    }
+  ]
+}
