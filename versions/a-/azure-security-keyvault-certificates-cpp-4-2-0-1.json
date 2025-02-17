@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/azure-security-keyvault-certificates-cpp-4-2-0-1",
+      "version-semver": "4.2.0",
+      "port-version": 1
+    }
+  ]
+}
