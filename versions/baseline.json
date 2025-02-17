@@ -2428,6 +2428,10 @@
       "baseline": "2.0",
       "port-version": 0
     },
+    "bitmagic-6-4-0-0": {
+      "baseline": "6.4.0",
+      "port-version": 0
+    },
     "bitserializer-0-10-0": {
       "baseline": "0.10",
       "port-version": 0
