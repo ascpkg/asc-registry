@@ -1,0 +1,15 @@
+old = "kf5service"
+new = "kf5service-5-84-0-0"
+
+[deps]
+ecm-5-84-0-0 = "ecm"
+gettext-0-21-5 = "gettext"
+kf5config-5-84-0-1 = "kf5config"
+kf5coreaddons-5-84-0-1 = "kf5coreaddons"
+kf5crash-5-84-0-1 = "kf5crash"
+kf5dbusaddons-5-84-0-1 = "kf5dbusaddons"
+kf5i18n-5-84-0-2 = "kf5i18n"
+qt5-base-5-15-2-10 = "qt5-base"
+qt5-tools-5-15-2-1 = "qt5-tools"
+vcpkg-cmake-2021-07-30-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"
