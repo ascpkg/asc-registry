@@ -1,0 +1,6 @@
+old = "gettext-libintl"
+new = "gettext-libintl-0-22-5-2"
+
+[deps]
+libiconv-1-17-3 = "libiconv"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
