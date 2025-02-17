@@ -20212,6 +20212,10 @@
       "baseline": "1.8.1-5",
       "port-version": 0
     },
+    "libvpx-1-8-1-6-0": {
+      "baseline": "1.8.1-6",
+      "port-version": 0
+    },
     "libwandio-4-2-1-0": {
       "baseline": "4.2.1",
       "port-version": 0
