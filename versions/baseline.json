@@ -25028,6 +25028,10 @@
       "baseline": "2.4.9",
       "port-version": 1
     },
+    "expat-2-5-0-0": {
+      "baseline": "2.5.0",
+      "port-version": 0
+    },
     "expat-2020-08-18-0": {
       "baseline": "2020-08-18",
       "port-version": 0
