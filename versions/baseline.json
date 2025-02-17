@@ -80900,6 +80900,10 @@
       "baseline": "8.0.2",
       "port-version": 4
     },
+    "qhull-8-0-2-5": {
+      "baseline": "8.0.2",
+      "port-version": 5
+    },
     "qnnpack-2021-02-26-0": {
       "baseline": "2021-02-26",
       "port-version": 0
