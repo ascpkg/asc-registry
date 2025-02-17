@@ -59432,6 +59432,10 @@
       "baseline": "6.3.1",
       "port-version": 2
     },
+    "openmama-6-3-2-0": {
+      "baseline": "6.3.2",
+      "port-version": 0
+    },
     "openmesh-6-3-0": {
       "baseline": "6.3",
       "port-version": 0
