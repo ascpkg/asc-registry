@@ -20320,6 +20320,10 @@
       "baseline": "0.6.0",
       "port-version": 0
     },
+    "functions-framework-cpp-1-0-0-0": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
     "fuzzylite-6-0-0": {
       "baseline": "6.0",
       "port-version": 0
