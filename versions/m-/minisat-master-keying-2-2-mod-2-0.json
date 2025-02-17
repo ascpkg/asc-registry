@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/minisat-master-keying-2-2-mod-2-0",
+      "version": "2.2-mod-2",
+      "port-version": 0
+    }
+  ]
+}

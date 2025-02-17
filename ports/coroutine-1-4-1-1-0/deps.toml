@@ -1,0 +1,5 @@
+old = "coroutine"
+new = "coroutine-1-4-1-1-0"
+
+[deps]
+ms-gsl-2019-04-19-0 = "ms-gsl"
