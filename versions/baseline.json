@@ -37568,6 +37568,10 @@
       "baseline": "1.5.0",
       "port-version": 4
     },
+    "libmicrodns-0-2-0-0": {
+      "baseline": "0.2.0",
+      "port-version": 0
+    },
     "libmicrohttpd-0-9-55-0": {
       "baseline": "0.9.55",
       "port-version": 0
