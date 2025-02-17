@@ -26680,6 +26680,10 @@
       "baseline": "5.84.0",
       "port-version": 3
     },
+    "kf5xmlgui-5-84-0-0": {
+      "baseline": "5.84.0",
+      "port-version": 0
+    },
     "kfr-2020-06-15-0": {
       "baseline": "2020-06-15",
       "port-version": 0
