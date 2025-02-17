@@ -39524,6 +39524,10 @@
       "baseline": "0.191",
       "port-version": 0
     },
+    "elfutils-0-192-0": {
+      "baseline": "0.192",
+      "port-version": 0
+    },
     "embree-2-16-4-1-0": {
       "baseline": "2.16.4-1",
       "port-version": 0
