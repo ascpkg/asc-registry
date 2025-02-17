@@ -22308,6 +22308,10 @@
       "baseline": "1.2.5",
       "port-version": 0
     },
+    "libebur128-1-2-6-0": {
+      "baseline": "1.2.6",
+      "port-version": 0
+    },
     "libepoxy-1-4-0-2432daf-0": {
       "baseline": "1.4.0-2432daf",
       "port-version": 0
