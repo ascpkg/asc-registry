@@ -1,0 +1,7 @@
+old = "opencascade"
+new = "opencascade-7-4-0-3"
+
+[deps]
+freeimage-3-18-0-17 = "freeimage"
+freetype-2-10-2-6 = "freetype"
+tbb-2020-u3-2 = "tbb"
