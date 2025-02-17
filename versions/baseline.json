@@ -9064,6 +9064,10 @@
       "baseline": "1.0.0",
       "port-version": 0
     },
+    "libbson-1-13-0-0": {
+      "baseline": "1.13.0",
+      "port-version": 0
+    },
     "libbson-1-4-2-0": {
       "baseline": "1.4.2",
       "port-version": 0
@@ -11262,6 +11266,10 @@
     },
     "modp-base64--0": {
       "baseline": "",
+      "port-version": 0
+    },
+    "mongo-c-driver-1-13-0-0": {
+      "baseline": "1.13.0",
       "port-version": 0
     },
     "mongo-c-driver-1-4-2-0": {
