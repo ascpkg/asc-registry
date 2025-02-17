@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/glm-0-9-9-8-2",
+      "version": "0.9.9.8",
+      "port-version": 2
+    }
+  ]
+}
