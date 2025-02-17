@@ -64844,6 +64844,10 @@
       "baseline": "0.21.2",
       "port-version": 0
     },
+    "libraw-0-21-3-0": {
+      "baseline": "0.21.3",
+      "port-version": 0
+    },
     "libraw-201903-0": {
       "baseline": "201903",
       "port-version": 0
