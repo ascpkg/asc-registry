@@ -1,0 +1,5 @@
+old = "libpmemobj-cpp"
+new = "libpmemobj-cpp-1-11-0"
+
+[deps]
+pmdk-1-9-0 = "pmdk"

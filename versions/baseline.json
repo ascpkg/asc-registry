@@ -20928,6 +20928,10 @@
       "baseline": "1.10",
       "port-version": 0
     },
+    "libpmemobj-cpp-1-11-0": {
+      "baseline": "1.11",
+      "port-version": 0
+    },
     "libpmemobj-cpp-1-6-0": {
       "baseline": "1.6",
       "port-version": 0
