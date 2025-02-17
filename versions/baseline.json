@@ -63564,6 +63564,10 @@
       "baseline": "6cf2746",
       "port-version": 0
     },
+    "murmur3-2015-05-02-0": {
+      "baseline": "2015-05-02",
+      "port-version": 0
+    },
     "murmurhash-2016-01-09-0": {
       "baseline": "2016-01-09",
       "port-version": 0

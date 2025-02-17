@@ -1,0 +1,6 @@
+old = "murmur3"
+new = "murmur3-2015-05-02-0"
+
+[deps]
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
