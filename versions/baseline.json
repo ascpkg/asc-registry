@@ -81908,6 +81908,10 @@
       "baseline": "4.10.0",
       "port-version": 0
     },
+    "opencv4-4-10-0-1": {
+      "baseline": "4.10.0",
+      "port-version": 1
+    },
     "opencv4-4-3-0-0": {
       "baseline": "4.3.0",
       "port-version": 0
