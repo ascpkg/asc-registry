@@ -1,0 +1,9 @@
+old = "azure-core-cpp"
+new = "azure-core-cpp-1-0-0-beta-9-0"
+
+[deps]
+azure-core-cpp-1-0-0-beta-9-0 = "azure-core-cpp"
+curl-7-74-0-5 = "curl"
+openssl-1-1-1k-1 = "openssl"
+vcpkg-cmake-2021-02-28-2 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-02-26-1 = "vcpkg-cmake-config"
