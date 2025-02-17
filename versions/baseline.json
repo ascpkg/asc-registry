@@ -7716,6 +7716,10 @@
       "baseline": "2019-01-04-1",
       "port-version": 0
     },
+    "gtest-2019-01-04-2-0": {
+      "baseline": "2019-01-04-2",
+      "port-version": 0
+    },
     "gtk-3-22-11-0": {
       "baseline": "3.22.11",
       "port-version": 0
