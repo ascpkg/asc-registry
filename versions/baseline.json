@@ -19924,6 +19924,10 @@
       "baseline": "1.5.4",
       "port-version": 1
     },
+    "libepoxy-1-5-4-2": {
+      "baseline": "1.5.4",
+      "port-version": 2
+    },
     "libevent-2-1-10-0": {
       "baseline": "2.1.10",
       "port-version": 0
@@ -38390,6 +38394,10 @@
     },
     "tool-meson-0-55-3-0": {
       "baseline": "0.55.3",
+      "port-version": 0
+    },
+    "tool-meson-0-56-0-0": {
+      "baseline": "0.56.0",
       "port-version": 0
     },
     "torch-th-2018-07-03-0": {
