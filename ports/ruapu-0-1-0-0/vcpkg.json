@@ -1,0 +1,7 @@
+{
+  "name": "ruapu-0-1-0-0",
+  "version": "0.1.0",
+  "description": "Detect CPU features with single-file",
+  "homepage": "https://github.com/nihui/ruapu",
+  "license": "MIT"
+}

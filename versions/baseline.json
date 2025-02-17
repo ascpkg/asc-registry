@@ -106488,6 +106488,10 @@
       "baseline": "0.9.6",
       "port-version": 5
     },
+    "ruapu-0-1-0-0": {
+      "baseline": "0.1.0",
+      "port-version": 0
+    },
     "rubberband-2-0-2-0": {
       "baseline": "2.0.2",
       "port-version": 0
