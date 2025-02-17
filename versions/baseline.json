@@ -59208,6 +59208,10 @@
       "baseline": "0.4.0",
       "port-version": 4
     },
+    "sfgui-0-4-0-5": {
+      "baseline": "0.4.0",
+      "port-version": 5
+    },
     "sfml-2-4-1-0": {
       "baseline": "2.4.1",
       "port-version": 0
