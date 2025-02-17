@@ -35796,6 +35796,10 @@
       "baseline": "0.2.5",
       "port-version": 2
     },
+    "libyaml-0-2-5-3": {
+      "baseline": "0.2.5",
+      "port-version": 3
+    },
     "libyuv-2021-04-15-0": {
       "baseline": "2021-04-15",
       "port-version": 0
@@ -49624,6 +49628,10 @@
       "baseline": "6.2.2",
       "port-version": 0
     },
+    "qtapplicationmanager-6-2-2-1": {
+      "baseline": "6.2.2",
+      "port-version": 1
+    },
     "qtbase-6-1-0-0": {
       "baseline": "6.1.0",
       "port-version": 0
@@ -49667,6 +49675,10 @@
     "qtbase-6-2-2-0": {
       "baseline": "6.2.2",
       "port-version": 0
+    },
+    "qtbase-6-2-2-1": {
+      "baseline": "6.2.2",
+      "port-version": 1
     },
     "qtcharts-6-1-0-0": {
       "baseline": "6.1.0",
