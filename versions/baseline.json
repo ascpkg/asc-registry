@@ -25948,6 +25948,10 @@
       "baseline": "1.16",
       "port-version": 8
     },
+    "libiconv-1-16-9": {
+      "baseline": "1.16",
+      "port-version": 9
+    },
     "libics-1-6-2-0": {
       "baseline": "1.6.2",
       "port-version": 0
