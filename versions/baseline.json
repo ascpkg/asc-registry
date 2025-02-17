@@ -9996,6 +9996,10 @@
       "baseline": "10.1-1",
       "port-version": 0
     },
+    "cuda-10-1-2": {
+      "baseline": "10.1",
+      "port-version": 2
+    },
     "cuda-8-0-0": {
       "baseline": "8.0",
       "port-version": 0
