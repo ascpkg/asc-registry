@@ -2,4 +2,4 @@ old = "sdl2-net"
 new = "sdl2-net-2-0-1-8-0"
 
 [deps]
-sdl2-2-0-12-5 = "sdl2"
+sdl2-2-0-14-0 = "sdl2"

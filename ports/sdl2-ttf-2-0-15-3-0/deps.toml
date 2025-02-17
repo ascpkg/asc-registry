@@ -2,5 +2,5 @@ old = "sdl2-ttf"
 new = "sdl2-ttf-2-0-15-3-0"
 
 [deps]
-freetype-2-10-2-4 = "freetype"
-sdl2-2-0-12-5 = "sdl2"
+freetype-2-10-4-0 = "freetype"
+sdl2-2-0-14-0 = "sdl2"
