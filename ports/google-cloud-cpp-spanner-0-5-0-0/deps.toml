@@ -1,0 +1,7 @@
+old = "google-cloud-cpp-spanner"
+new = "google-cloud-cpp-spanner-0-5-0-0"
+
+[deps]
+google-cloud-cpp-common-0-16-0-1-0 = "google-cloud-cpp-common"
+googleapis-0-1-5-0 = "googleapis"
+grpc-1-26-0-0 = "grpc"

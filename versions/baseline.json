@@ -12836,6 +12836,10 @@
       "baseline": "0.3.0",
       "port-version": 0
     },
+    "google-cloud-cpp-spanner-0-5-0-0": {
+      "baseline": "0.5.0",
+      "port-version": 0
+    },
     "googleapis-0-1-1-0": {
       "baseline": "0.1.1",
       "port-version": 0
