@@ -1,0 +1,2 @@
+old = "vcpkg-cmake"
+new = "vcpkg-cmake-2021-07-30-0"

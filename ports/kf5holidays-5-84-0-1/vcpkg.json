@@ -1,0 +1,11 @@
+{
+  "name": "kf5holidays-5-84-0-1",
+  "version": "5.84.0",
+  "port-version": 1,
+  "description": "Holiday calculation library",
+  "dependencies": [
+    "ecm",
+    "qt5-base",
+    "qt5-tools"
+  ]
+}

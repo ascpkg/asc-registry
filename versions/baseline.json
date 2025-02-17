@@ -24148,6 +24148,10 @@
       "baseline": "5.84.0",
       "port-version": 0
     },
+    "kf5auth-5-84-0-1": {
+      "baseline": "5.84.0",
+      "port-version": 1
+    },
     "kf5codecs-5-81-0-0": {
       "baseline": "5.81.0",
       "port-version": 0
@@ -24155,6 +24159,10 @@
     "kf5codecs-5-84-0-0": {
       "baseline": "5.84.0",
       "port-version": 0
+    },
+    "kf5codecs-5-84-0-1": {
+      "baseline": "5.84.0",
+      "port-version": 1
     },
     "kf5completion-5-64-0-0": {
       "baseline": "5.64.0",
@@ -24176,6 +24184,10 @@
       "baseline": "5.84.0",
       "port-version": 0
     },
+    "kf5completion-5-84-0-1": {
+      "baseline": "5.84.0",
+      "port-version": 1
+    },
     "kf5config-5-64-0-0": {
       "baseline": "5.64.0",
       "port-version": 0
@@ -24195,6 +24207,10 @@
     "kf5config-5-84-0-0": {
       "baseline": "5.84.0",
       "port-version": 0
+    },
+    "kf5config-5-84-0-1": {
+      "baseline": "5.84.0",
+      "port-version": 1
     },
     "kf5coreaddons-5-64-0-0": {
       "baseline": "5.64.0",
@@ -24244,6 +24260,10 @@
       "baseline": "5.84.0",
       "port-version": 0
     },
+    "kf5dbusaddons-5-84-0-1": {
+      "baseline": "5.84.0",
+      "port-version": 1
+    },
     "kf5guiaddons-5-64-0-0": {
       "baseline": "5.64.0",
       "port-version": 0
@@ -24259,6 +24279,10 @@
     "kf5guiaddons-5-84-0-0": {
       "baseline": "5.84.0",
       "port-version": 0
+    },
+    "kf5guiaddons-5-84-0-1": {
+      "baseline": "5.84.0",
+      "port-version": 1
     },
     "kf5holidays-5-50-0-0": {
       "baseline": "5.50.0",
@@ -24296,6 +24320,10 @@
       "baseline": "5.84.0",
       "port-version": 0
     },
+    "kf5holidays-5-84-0-1": {
+      "baseline": "5.84.0",
+      "port-version": 1
+    },
     "kf5i18n-5-64-0-0": {
       "baseline": "5.64.0",
       "port-version": 0
@@ -24324,6 +24352,10 @@
       "baseline": "5.84.0",
       "port-version": 0
     },
+    "kf5i18n-5-84-0-1": {
+      "baseline": "5.84.0",
+      "port-version": 1
+    },
     "kf5itemmodels-5-64-0-0": {
       "baseline": "5.64.0",
       "port-version": 0
@@ -24344,6 +24376,10 @@
       "baseline": "5.84.0",
       "port-version": 0
     },
+    "kf5itemmodels-5-84-0-1": {
+      "baseline": "5.84.0",
+      "port-version": 1
+    },
     "kf5itemviews-5-64-0-0": {
       "baseline": "5.64.0",
       "port-version": 0
@@ -24363,6 +24399,10 @@
     "kf5itemviews-5-84-0-0": {
       "baseline": "5.84.0",
       "port-version": 0
+    },
+    "kf5itemviews-5-84-0-1": {
+      "baseline": "5.84.0",
+      "port-version": 1
     },
     "kf5jobwidgets-5-84-0-0": {
       "baseline": "5.84.0",
@@ -24408,6 +24448,10 @@
       "baseline": "5.84.0",
       "port-version": 0
     },
+    "kf5plotting-5-84-0-1": {
+      "baseline": "5.84.0",
+      "port-version": 1
+    },
     "kf5solid-5-84-0-0": {
       "baseline": "5.84.0",
       "port-version": 0
@@ -24415,6 +24459,10 @@
     "kf5sonnet-5-84-0-0": {
       "baseline": "5.84.0",
       "port-version": 0
+    },
+    "kf5sonnet-5-84-0-1": {
+      "baseline": "5.84.0",
+      "port-version": 1
     },
     "kf5syntaxhighlighting-5-64-0-0": {
       "baseline": "5.64.0",
@@ -24436,6 +24484,10 @@
       "baseline": "5.84.0",
       "port-version": 0
     },
+    "kf5syntaxhighlighting-5-84-0-1": {
+      "baseline": "5.84.0",
+      "port-version": 1
+    },
     "kf5widgetsaddons-5-64-0-0": {
       "baseline": "5.64.0",
       "port-version": 0
@@ -24456,6 +24508,10 @@
       "baseline": "5.84.0",
       "port-version": 0
     },
+    "kf5widgetsaddons-5-84-0-1": {
+      "baseline": "5.84.0",
+      "port-version": 1
+    },
     "kf5windowsystem-5-64-0-0": {
       "baseline": "5.64.0",
       "port-version": 0
@@ -24471,6 +24527,10 @@
     "kf5windowsystem-5-84-0-0": {
       "baseline": "5.84.0",
       "port-version": 0
+    },
+    "kf5windowsystem-5-84-0-1": {
+      "baseline": "5.84.0",
+      "port-version": 1
     },
     "kfr-2020-06-15-0": {
       "baseline": "2020-06-15",
@@ -48814,6 +48874,10 @@
     },
     "vcpkg-cmake-2021-07-26-0": {
       "baseline": "2021-07-26",
+      "port-version": 0
+    },
+    "vcpkg-cmake-2021-07-30-0": {
+      "baseline": "2021-07-30",
       "port-version": 0
     },
     "vcpkg-cmake-config-2021-02-26-0": {
