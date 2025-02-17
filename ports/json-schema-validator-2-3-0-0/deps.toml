@@ -1,0 +1,7 @@
+old = "json-schema-validator"
+new = "json-schema-validator-2-3-0-0"
+
+[deps]
+nlohmann-json-3-11-3-0 = "nlohmann-json"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
