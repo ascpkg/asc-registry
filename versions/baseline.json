@@ -8012,6 +8012,10 @@
       "baseline": "4.0.2",
       "port-version": 0
     },
+    "capstone-4-0-2-1": {
+      "baseline": "4.0.2",
+      "port-version": 1
+    },
     "cartographer-0-3-0-3-0": {
       "baseline": "0.3.0-3",
       "port-version": 0
@@ -12175,6 +12179,10 @@
     "faad2-2-9-1-1-0": {
       "baseline": "2.9.1-1",
       "port-version": 0
+    },
+    "faad2-2-9-1-2": {
+      "baseline": "2.9.1",
+      "port-version": 2
     },
     "fadbad-2-1-0-0": {
       "baseline": "2.1.0",
@@ -20759,6 +20767,10 @@
     "libwebp-1-1-0-0": {
       "baseline": "1.1.0",
       "port-version": 0
+    },
+    "libwebp-1-1-0-1": {
+      "baseline": "1.1.0",
+      "port-version": 1
     },
     "libwebsockets-2-0-0-0": {
       "baseline": "2.0.0",
@@ -33132,6 +33144,10 @@
       "baseline": "4.1.1",
       "port-version": 0
     },
+    "tesseract-4-1-1-1": {
+      "baseline": "4.1.1",
+      "port-version": 1
+    },
     "tfhe-1-0-1-0": {
       "baseline": "1.0.1",
       "port-version": 0
@@ -34959,6 +34975,10 @@
     "vxl-2-0-2-0": {
       "baseline": "2.0.2",
       "port-version": 0
+    },
+    "vxl-2-0-2-1": {
+      "baseline": "2.0.2",
+      "port-version": 1
     },
     "vxl-20180414-7a130cf-0": {
       "baseline": "20180414-7a130cf",
