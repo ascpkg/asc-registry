@@ -12004,6 +12004,10 @@
       "baseline": "1.1.7",
       "port-version": 0
     },
+    "cnl-1-1-7-1": {
+      "baseline": "1.1.7",
+      "port-version": 1
+    },
     "cnl-2019-01-09-0": {
       "baseline": "2019-01-09",
       "port-version": 0
