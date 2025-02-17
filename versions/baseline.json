@@ -20076,6 +20076,10 @@
       "baseline": "1.40.11-4",
       "port-version": 0
     },
+    "pango-1-40-11-5-0": {
+      "baseline": "1.40.11-5",
+      "port-version": 0
+    },
     "pango-1-40-3-0": {
       "baseline": "1.40.3",
       "port-version": 0
