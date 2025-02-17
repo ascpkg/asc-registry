@@ -41208,6 +41208,10 @@
       "baseline": "1.13.0",
       "port-version": 0
     },
+    "libheif-1-14-2-0": {
+      "baseline": "1.14.2",
+      "port-version": 0
+    },
     "libheif-1-7-0-0": {
       "baseline": "1.7.0",
       "port-version": 0
