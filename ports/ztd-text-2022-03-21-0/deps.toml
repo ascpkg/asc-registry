@@ -1,0 +1,5 @@
+old = "ztd-text"
+new = "ztd-text-2022-03-21-0"
+
+[deps]
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
