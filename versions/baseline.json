@@ -35844,6 +35844,10 @@
       "baseline": "0.4.38",
       "port-version": 1
     },
+    "libzen-0-4-39-0": {
+      "baseline": "0.4.39",
+      "port-version": 0
+    },
     "libzip-1-2-0-0": {
       "baseline": "1.2.0",
       "port-version": 0
