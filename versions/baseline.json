@@ -36228,6 +36228,10 @@
       "baseline": "2.6.2",
       "port-version": 0
     },
+    "highfive-2-6-2-1": {
+      "baseline": "2.6.2",
+      "port-version": 1
+    },
     "highway-0-14-2-0": {
       "baseline": "0.14.2",
       "port-version": 0
