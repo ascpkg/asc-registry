@@ -13648,6 +13648,10 @@
       "baseline": "2019.10.21.00",
       "port-version": 3
     },
+    "folly-2019-10-21-00-4": {
+      "baseline": "2019.10.21.00",
+      "port-version": 4
+    },
     "folly-v2017-05-08-00-0": {
       "baseline": "v2017.05.08.00",
       "port-version": 0
