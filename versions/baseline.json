@@ -81528,6 +81528,10 @@
       "baseline": "9.2.0-pv5.11.0",
       "port-version": 2
     },
+    "vtk-9-2-0-pv5-11-0-3": {
+      "baseline": "9.2.0-pv5.11.0",
+      "port-version": 3
+    },
     "vtk-dicom-0-8-10-0": {
       "baseline": "0.8.10",
       "port-version": 0
