@@ -50480,6 +50480,10 @@
       "baseline": "20151130-vcpkg5",
       "port-version": 0
     },
+    "range-v3-2021-11-02-0": {
+      "baseline": "2021-11-02",
+      "port-version": 0
+    },
     "range-v3-vs2015-20151130-vcpkg5-0": {
       "baseline": "20151130-vcpkg5",
       "port-version": 0
