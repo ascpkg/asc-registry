@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cpp-httplib-0-7-18-0",
+      "version": "0.7.18",
+      "port-version": 0
+    }
+  ]
+}
