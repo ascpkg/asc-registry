@@ -1,0 +1,9 @@
+old = "qtmultimedia"
+new = "qtmultimedia-6-2-0-1"
+
+[deps]
+angle-chromium-4472-2 = "angle"
+gstreamer-1-19-2-0 = "gstreamer"
+qtbase-6-2-0-2 = "qtbase"
+qtdeclarative-6-2-0-0 = "qtdeclarative"
+qtshadertools-6-2-0-0 = "qtshadertools"
