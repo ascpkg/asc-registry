@@ -1,0 +1,5 @@
+old = "arcus"
+new = "arcus-4-8-0-0"
+
+[deps]
+protobuf-3-14-0-1 = "protobuf"
