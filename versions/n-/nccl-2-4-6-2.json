@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/nccl-2-4-6-2",
+      "version": "2.4.6",
+      "port-version": 2
+    }
+  ]
+}

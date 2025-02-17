@@ -40788,6 +40788,10 @@
       "baseline": "2.4.6",
       "port-version": 1
     },
+    "nccl-2-4-6-2": {
+      "baseline": "2.4.6",
+      "port-version": 2
+    },
     "ncurses-6-2-0": {
       "baseline": "6.2",
       "port-version": 0
