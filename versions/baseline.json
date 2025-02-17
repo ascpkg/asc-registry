@@ -24272,6 +24272,10 @@
       "baseline": "0.9.3.1-2",
       "port-version": 0
     },
+    "volk-2019-09-03-0": {
+      "baseline": "2019-09-03",
+      "port-version": 0
+    },
     "vtk-7-1-0-0": {
       "baseline": "7.1.0",
       "port-version": 0
