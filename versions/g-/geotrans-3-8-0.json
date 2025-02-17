@@ -2,7 +2,7 @@
   "versions": [
     {
       "path": "$/ports/geotrans-3-8-0",
-      "version": "3.8",
+      "version-string": "3.8",
       "port-version": 0
     }
   ]
