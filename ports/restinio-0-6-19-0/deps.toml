@@ -1,0 +1,9 @@
+old = "restinio"
+new = "restinio-0-6-19-0"
+
+[deps]
+asio-1-28-0-1 = "asio"
+fmt-10-1-0-0 = "fmt"
+http-parser-2-9-4-3 = "http-parser"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
