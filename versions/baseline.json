@@ -560,6 +560,10 @@
       "baseline": "2018-12-18",
       "port-version": 0
     },
+    "argparse-2019-06-10-0": {
+      "baseline": "2019-06-10",
+      "port-version": 0
+    },
     "args-2018-02-23-0": {
       "baseline": "2018-02-23",
       "port-version": 0
