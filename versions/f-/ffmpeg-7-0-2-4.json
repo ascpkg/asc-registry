@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ffmpeg-7-0-2-4",
+      "version": "7.0.2",
+      "port-version": 4
+    }
+  ]
+}
