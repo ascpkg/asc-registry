@@ -1,0 +1,12 @@
+old = "libgwenhywfar"
+new = "libgwenhywfar-5-12-0-0"
+
+[deps]
+gettext-0-22-5-1 = "gettext"
+libgcrypt-1-11-0-0 = "libgcrypt"
+libgnutls-3-8-7-1-0 = "libgnutls"
+libxml2-2-13-5-1 = "libxml2"
+openssl-3-4-0-1 = "openssl"
+qt5-base-5-15-16-0 = "qt5-base"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
+vcpkg-make-2024-12-27-0 = "vcpkg-make"
