@@ -1,0 +1,10 @@
+old = "rtabmap"
+new = "rtabmap-0-20-13-2"
+
+[deps]
+opencv-4-5-4-1 = "opencv"
+pcl-1-12-0-2 = "pcl"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"
+yaml-cpp-0-7-0-1 = "yaml-cpp"
+zlib-1-2-11-13 = "zlib"
