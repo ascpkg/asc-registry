@@ -1,0 +1,6 @@
+old = "mqtt-cpp"
+new = "mqtt-cpp-7-0-1-0"
+
+[deps]
+boost-asio-1-72-0-0 = "boost-asio"
+boost-timer-1-72-0-0 = "boost-timer"
