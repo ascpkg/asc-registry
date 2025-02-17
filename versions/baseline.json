@@ -13308,6 +13308,10 @@
       "baseline": "7.74.0",
       "port-version": 5
     },
+    "curl-7-74-0-6": {
+      "baseline": "7.74.0",
+      "port-version": 6
+    },
     "curlpp-2018-06-15-0": {
       "baseline": "2018-06-15",
       "port-version": 0
