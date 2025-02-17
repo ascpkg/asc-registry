@@ -5756,6 +5756,10 @@
       "baseline": "2.10-1",
       "port-version": 0
     },
+    "qt5-3d-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
     "qt5-5-7-0": {
       "baseline": "5.7",
       "port-version": 0
@@ -5818,6 +5822,78 @@
     },
     "qt5-5-9-2-1-0": {
       "baseline": "5.9.2-1",
+      "port-version": 0
+    },
+    "qt5-base-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5-charts-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5-datavis3d-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5-declarative-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5-gamepad-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5-imageformats-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5-modularscripts-0-0": {
+      "baseline": "0",
+      "port-version": 0
+    },
+    "qt5-multimedia-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5-networkauth-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5-scxml-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5-serialport-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5-speech-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5-svg-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5-tools-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5-virtualkeyboard-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5-websockets-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5-winextras-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5-xmlpatterns-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
       "port-version": 0
     },
     "qt53d-5-9-2-0-0": {
