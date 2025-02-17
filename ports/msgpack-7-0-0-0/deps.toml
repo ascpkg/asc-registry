@@ -1,0 +1,14 @@
+old = "msgpack"
+new = "msgpack-7-0-0-0"
+
+[deps]
+boost-assert-1-86-0-0 = "boost-assert"
+boost-fusion-1-86-0-0 = "boost-fusion"
+boost-numeric-conversion-1-86-0-0 = "boost-numeric-conversion"
+boost-optional-1-86-0-0 = "boost-optional"
+boost-predef-1-86-0-0 = "boost-predef"
+boost-preprocessor-1-86-0-0 = "boost-preprocessor"
+boost-utility-1-86-0-0 = "boost-utility"
+boost-variant-1-86-0-0 = "boost-variant"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
