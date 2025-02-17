@@ -71780,6 +71780,10 @@
       "baseline": "0.1.0-alpha4",
       "port-version": 11
     },
+    "microsoft-signalr-0-1-0-alpha4-12": {
+      "baseline": "0.1.0-alpha4",
+      "port-version": 12
+    },
     "microsoft-signalr-0-1-0-alpha4-2": {
       "baseline": "0.1.0-alpha4",
       "port-version": 2
