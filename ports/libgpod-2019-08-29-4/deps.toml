@@ -1,0 +1,7 @@
+old = "libgpod"
+new = "libgpod-2019-08-29-4"
+
+[deps]
+glib-2-70-1-1 = "glib"
+libplist-1-3-6-1 = "libplist"
+sqlite3-3-37-0-1 = "sqlite3"
