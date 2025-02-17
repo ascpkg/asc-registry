@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/safeint-3-0-28-0",
+      "version": "3.0.28",
+      "port-version": 0
+    }
+  ]
+}

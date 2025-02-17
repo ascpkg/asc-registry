@@ -93236,6 +93236,10 @@
       "baseline": "3.0.26",
       "port-version": 0
     },
+    "safeint-3-0-28-0": {
+      "baseline": "3.0.28",
+      "port-version": 0
+    },
     "safeint-3-19-2-0": {
       "baseline": "3.19.2",
       "port-version": 0
