@@ -102800,6 +102800,10 @@
       "baseline": "124",
       "port-version": 1
     },
+    "skia-124-2": {
+      "baseline": "124",
+      "port-version": 2
+    },
     "skia-2020-02-15-0": {
       "baseline": "2020-02-15",
       "port-version": 0
