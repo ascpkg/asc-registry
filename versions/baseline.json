@@ -768,6 +768,10 @@
       "baseline": "5.2.6.0",
       "port-version": 1
     },
+    "allegro5-5-2-6-0-2": {
+      "baseline": "5.2.6.0",
+      "port-version": 2
+    },
     "alsa-1-2-5-1-0": {
       "baseline": "1.2.5.1",
       "port-version": 0
