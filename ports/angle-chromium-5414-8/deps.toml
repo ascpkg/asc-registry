@@ -1,0 +1,12 @@
+old = "angle"
+new = "angle-chromium-5414-8"
+
+[deps]
+egl-registry-2024-01-25-0 = "egl-registry"
+libx11-1-8-1-2 = "libx11"
+libxext-1-3-4-0 = "libxext"
+libxi-1-8-0 = "libxi"
+opengl-registry-2024-02-10-1 = "opengl-registry"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
+zlib-1-3-1-0 = "zlib"
