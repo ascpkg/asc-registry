@@ -8928,6 +8928,10 @@
       "baseline": "2.4.0-3",
       "port-version": 0
     },
+    "libodb-boost-2-4-0-1-0": {
+      "baseline": "2.4.0-1",
+      "port-version": 0
+    },
     "libodb-mysql-2-4-0-1-0": {
       "baseline": "2.4.0-1",
       "port-version": 0
