@@ -1,0 +1,8 @@
+old = "aliyun-oss-cpp-sdk"
+new = "aliyun-oss-cpp-sdk-1-10-0-4"
+
+[deps]
+curl-8-11-0-0 = "curl"
+openssl-3-4-0-0 = "openssl"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
