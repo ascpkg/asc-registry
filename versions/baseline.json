@@ -34196,6 +34196,10 @@
       "baseline": "3.0.0",
       "port-version": 1
     },
+    "sqlitecpp-3-0-0-2": {
+      "baseline": "3.0.0",
+      "port-version": 2
+    },
     "sqlpp11-0-57-0": {
       "baseline": "0.57",
       "port-version": 0
