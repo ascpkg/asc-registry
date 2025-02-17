@@ -53024,6 +53024,10 @@
       "baseline": "4.33",
       "port-version": 2
     },
+    "nspr-4-35-2": {
+      "baseline": "4.35",
+      "port-version": 2
+    },
     "nss-3-75-0": {
       "baseline": "3.75",
       "port-version": 0
@@ -53042,6 +53046,10 @@
     },
     "nss-3-78-0": {
       "baseline": "3.78",
+      "port-version": 0
+    },
+    "nss-3-87-0": {
+      "baseline": "3.87",
       "port-version": 0
     },
     "nsync-1-24-0-0": {
@@ -79460,6 +79468,10 @@
       "baseline": "2022-04-16",
       "port-version": 1
     },
+    "vcpkg-tool-gyp-next-2022-10-15-0": {
+      "baseline": "2022-10-15",
+      "port-version": 0
+    },
     "vcpkg-tool-gyp-nss-2022-03-04-0": {
       "baseline": "2022-03-04",
       "port-version": 0
@@ -79490,6 +79502,10 @@
     },
     "vcpkg-tool-mozbuild-3-3-0": {
       "baseline": "3.3",
+      "port-version": 0
+    },
+    "vcpkg-tool-mozbuild-4-0-2-0": {
+      "baseline": "4.0.2",
       "port-version": 0
     },
     "vcpkg-tool-ninja-2022-03-31-0": {

@@ -1,0 +1,6 @@
+{
+  "name": "vcpkg-tool-gyp-next-2022-10-15-0",
+  "version-date": "2022-10-15",
+  "description": "https://github.com/nodejs/gyp-next",
+  "supports": "native"
+}
