@@ -1,0 +1,12 @@
+old = "mlpack"
+new = "mlpack-3-4-1-1"
+
+[deps]
+armadillo-10-4-0-0 = "armadillo"
+boost-heap-1-75-0-0 = "boost-heap"
+boost-math-1-75-0-1 = "boost-math"
+boost-program-options-1-75-0-1 = "boost-program-options"
+boost-random-1-75-0-1 = "boost-random"
+boost-serialization-1-75-0-1 = "boost-serialization"
+ensmallen-2-14-2-0 = "ensmallen"
+stb-2020-09-14-0 = "stb"
