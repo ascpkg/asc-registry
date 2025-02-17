@@ -23396,6 +23396,10 @@
       "baseline": "2.1.1",
       "port-version": 0
     },
+    "fakeit-2-3-0-0": {
+      "baseline": "2.3.0",
+      "port-version": 0
+    },
     "fann-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
