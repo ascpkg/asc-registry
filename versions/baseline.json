@@ -124,6 +124,10 @@
       "baseline": "3.0.6",
       "port-version": 1
     },
+    "ableton-link-3-0-6-2": {
+      "baseline": "3.0.6",
+      "port-version": 2
+    },
     "abletonlink-3-0-6-0": {
       "baseline": "3.0.6",
       "port-version": 0
