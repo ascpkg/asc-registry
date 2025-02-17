@@ -21472,6 +21472,10 @@
       "baseline": "0.5.5",
       "port-version": 1
     },
+    "infoware-0-6-0-0": {
+      "baseline": "0.6.0",
+      "port-version": 0
+    },
     "inih-42-0": {
       "baseline": "42",
       "port-version": 0
