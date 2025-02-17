@@ -19312,6 +19312,10 @@
       "baseline": "1.7.0",
       "port-version": 1
     },
+    "libhsplasma-2020-08-30-0": {
+      "baseline": "2020.08.30",
+      "port-version": 0
+    },
     "libhydrogen-2019-08-11-0": {
       "baseline": "2019-08-11",
       "port-version": 0
