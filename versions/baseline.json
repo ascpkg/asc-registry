@@ -26020,6 +26020,10 @@
       "baseline": "0.11.0",
       "port-version": 0
     },
+    "hidapi-0-11-2-0": {
+      "baseline": "0.11.2",
+      "port-version": 0
+    },
     "hidapi-2019-08-30-0": {
       "baseline": "2019-08-30",
       "port-version": 0
