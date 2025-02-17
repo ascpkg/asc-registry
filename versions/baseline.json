@@ -2096,6 +2096,10 @@
       "baseline": "3.8.0",
       "port-version": 2
     },
+    "arrayfire-3-8-0-3": {
+      "baseline": "3.8.0",
+      "port-version": 3
+    },
     "arrow-0-11-1-0": {
       "baseline": "0.11.1",
       "port-version": 0
@@ -38463,6 +38467,10 @@
     "intel-mkl-2020-0-0-2": {
       "baseline": "2020.0.0",
       "port-version": 2
+    },
+    "intel-mkl-2023-0-0-0": {
+      "baseline": "2023.0.0",
+      "port-version": 0
     },
     "intelrdfpmathlib-20u2-0": {
       "baseline": "20u2",
