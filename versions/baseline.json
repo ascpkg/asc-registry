@@ -26508,6 +26508,10 @@
       "baseline": "1.0.0",
       "port-version": 0
     },
+    "dbg-macro-0-5-0-0": {
+      "baseline": "0.5.0",
+      "port-version": 0
+    },
     "dbg-macro-2019-07-11-0": {
       "baseline": "2019-07-11",
       "port-version": 0
@@ -93210,6 +93214,10 @@
     },
     "zpp-bits-4-4-13-0": {
       "baseline": "4.4.13",
+      "port-version": 0
+    },
+    "zpp-bits-4-4-17-0": {
+      "baseline": "4.4.17",
       "port-version": 0
     },
     "zpp-bits-4-4-4-0": {
