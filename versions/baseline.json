@@ -80688,6 +80688,10 @@
       "baseline": "3.9.1",
       "port-version": 0
     },
+    "nlopt-2-10-0-0": {
+      "baseline": "2.10.0",
+      "port-version": 0
+    },
     "nlopt-2-4-2-1226c127-0": {
       "baseline": "2.4.2-1226c127",
       "port-version": 0
