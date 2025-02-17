@@ -12268,6 +12268,10 @@
       "baseline": "2019-06-19",
       "port-version": 0
     },
+    "cpp-base64-v2-rc-08-0": {
+      "baseline": "v2.rc.08",
+      "port-version": 0
+    },
     "cpp-httplib-0-2-0-0": {
       "baseline": "0.2.0",
       "port-version": 0
