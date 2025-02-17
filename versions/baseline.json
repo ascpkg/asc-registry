@@ -36288,6 +36288,10 @@
       "baseline": "2.3.2",
       "port-version": 1
     },
+    "libgd-2-3-3-0": {
+      "baseline": "2.3.3",
+      "port-version": 0
+    },
     "libgeotiff-1-4-2-0": {
       "baseline": "1.4.2",
       "port-version": 0

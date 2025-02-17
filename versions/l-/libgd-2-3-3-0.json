@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libgd-2-3-3-0",
+      "version-semver": "2.3.3",
+      "port-version": 0
+    }
+  ]
+}
