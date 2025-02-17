@@ -11504,6 +11504,10 @@
       "baseline": "1.13.0-b4",
       "port-version": 0
     },
+    "liblsl-1-13-0-b6-0": {
+      "baseline": "1.13.0-b6",
+      "port-version": 0
+    },
     "liblzma-5-2-2-0": {
       "baseline": "5.2.2",
       "port-version": 0
