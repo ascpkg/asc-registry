@@ -85776,6 +85776,10 @@
       "baseline": "1.0.0",
       "port-version": 7
     },
+    "sophus-1-22-10-0": {
+      "baseline": "1.22.10",
+      "port-version": 0
+    },
     "sophus-2021-09-14-0": {
       "baseline": "2021-09-14",
       "port-version": 0
