@@ -1,0 +1,18 @@
+old = "kf5iconthemes"
+new = "kf5iconthemes-5-84-0-1"
+
+[deps]
+ecm-5-84-0-0 = "ecm"
+gettext-0-21-6 = "gettext"
+kf5archive-5-84-0-2 = "kf5archive"
+kf5configwidgets-5-84-0-1 = "kf5configwidgets"
+kf5coreaddons-5-84-0-2 = "kf5coreaddons"
+kf5guiaddons-5-84-0-3 = "kf5guiaddons"
+kf5i18n-5-84-0-3 = "kf5i18n"
+kf5itemviews-5-84-0-2 = "kf5itemviews"
+kf5widgetsaddons-5-84-0-2 = "kf5widgetsaddons"
+qt5-base-5-15-2-11 = "qt5-base"
+qt5-svg-5-15-2-2 = "qt5-svg"
+qt5-tools-5-15-2-1 = "qt5-tools"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"

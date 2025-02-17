@@ -1,0 +1,10 @@
+old = "kf5crash"
+new = "kf5crash-5-84-0-2"
+
+[deps]
+ecm-5-84-0-0 = "ecm"
+kf5coreaddons-5-84-0-2 = "kf5coreaddons"
+kf5windowsystem-5-84-0-3 = "kf5windowsystem"
+qt5-x11extras-5-15-2-1 = "qt5-x11extras"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"
