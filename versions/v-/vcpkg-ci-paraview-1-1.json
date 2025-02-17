@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/vcpkg-ci-paraview-1-1",
+      "version": "1",
+      "port-version": 1
+    }
+  ]
+}
