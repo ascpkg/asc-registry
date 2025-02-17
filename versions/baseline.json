@@ -84092,6 +84092,10 @@
       "baseline": "2024.4.0",
       "port-version": 1
     },
+    "openvino-2024-4-0-2": {
+      "baseline": "2024.4.0",
+      "port-version": 2
+    },
     "openvpn3-2018-03-21-0": {
       "baseline": "2018-03-21",
       "port-version": 0
