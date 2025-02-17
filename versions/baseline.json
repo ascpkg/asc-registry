@@ -92132,6 +92132,10 @@
       "baseline": "1.2.1",
       "port-version": 0
     },
+    "robin-map-1-2-2-0": {
+      "baseline": "1.2.2",
+      "port-version": 0
+    },
     "robotraconteur-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
