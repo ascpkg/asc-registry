@@ -12172,6 +12172,10 @@
       "baseline": "1.2.0alpha1-20170719~vcpkg1-2",
       "port-version": 0
     },
+    "libtheora-1-2-0alpha1-20170719-vcpkg1-3-0": {
+      "baseline": "1.2.0alpha1-20170719~vcpkg1-3",
+      "port-version": 0
+    },
     "libtins-4-0-2-0": {
       "baseline": "4.0-2",
       "port-version": 0
