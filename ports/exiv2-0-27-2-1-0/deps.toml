@@ -3,6 +3,6 @@ new = "exiv2-0-27-2-1-0"
 
 [deps]
 expat-2-2-7-0 = "expat"
-gettext-0-19-10-0 = "gettext"
-libiconv-1-15-5-0 = "libiconv"
+gettext-0-19-11-0 = "gettext"
+libiconv-1-15-6-0 = "libiconv"
 zlib-1-2-11-5-0 = "zlib"
