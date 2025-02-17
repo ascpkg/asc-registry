@@ -37664,6 +37664,10 @@
       "baseline": "2.0.2",
       "port-version": 0
     },
+    "mimalloc-2-0-3-0": {
+      "baseline": "2.0.3",
+      "port-version": 0
+    },
     "mimalloc-2019-06-25-0": {
       "baseline": "2019-06-25",
       "port-version": 0
