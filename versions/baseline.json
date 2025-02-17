@@ -1812,6 +1812,10 @@
       "baseline": "0.4.56",
       "port-version": 0
     },
+    "aws-c-common-0-4-56-1": {
+      "baseline": "0.4.56",
+      "port-version": 1
+    },
     "aws-c-event-stream-0-1-1-0": {
       "baseline": "0.1.1",
       "port-version": 0
@@ -2067,6 +2071,10 @@
     "aws-sdk-cpp-1-8-126-8": {
       "baseline": "1.8.126",
       "port-version": 8
+    },
+    "aws-sdk-cpp-1-8-126-9": {
+      "baseline": "1.8.126",
+      "port-version": 9
     },
     "aws-sdk-cpp-1-8-4-0": {
       "baseline": "1.8.4",
@@ -33459,6 +33467,10 @@
     "openssl-1-1-1k-1": {
       "baseline": "1.1.1k",
       "port-version": 1
+    },
+    "openssl-1-1-1k-2": {
+      "baseline": "1.1.1k",
+      "port-version": 2
     },
     "openssl-microsoft-1-0-2-winrt-stable-0": {
       "baseline": "1.0.2-winrt-stable",
