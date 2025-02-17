@@ -90328,6 +90328,10 @@
       "baseline": "8.0.2",
       "port-version": 5
     },
+    "qmex-2024-10-31-0": {
+      "baseline": "2024-10-31",
+      "port-version": 0
+    },
     "qnnpack-2021-02-26-0": {
       "baseline": "2021-02-26",
       "port-version": 0
