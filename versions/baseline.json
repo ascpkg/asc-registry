@@ -48308,6 +48308,10 @@
       "baseline": "1.6.4",
       "port-version": 0
     },
+    "libgit2-1-6-4-1": {
+      "baseline": "1.6.4",
+      "port-version": 1
+    },
     "libgme-0-6-3-0": {
       "baseline": "0.6.3",
       "port-version": 0
@@ -53115,6 +53119,10 @@
     "libssh2-1-11-0-0": {
       "baseline": "1.11.0",
       "port-version": 0
+    },
+    "libssh2-1-11-0-1": {
+      "baseline": "1.11.0",
+      "port-version": 1
     },
     "libssh2-1-8-0-0": {
       "baseline": "1.8.0",
