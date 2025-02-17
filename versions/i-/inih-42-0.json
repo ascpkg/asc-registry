@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/inih-42-0",
+      "version": "42",
+      "port-version": 0
+    }
+  ]
+}
