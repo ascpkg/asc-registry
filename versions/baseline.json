@@ -15268,6 +15268,10 @@
       "baseline": "2019-04-20",
       "port-version": 0
     },
+    "nonius-2019-04-20-1-0": {
+      "baseline": "2019-04-20-1",
+      "port-version": 0
+    },
     "nrf-ble-driver-4-1-0-0": {
       "baseline": "4.1.0",
       "port-version": 0
