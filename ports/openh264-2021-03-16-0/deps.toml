@@ -1,0 +1,5 @@
+old = "openh264"
+new = "openh264-2021-03-16-0"
+
+[deps]
+tool-meson-0-56-02-0 = "tool-meson"
