@@ -28044,6 +28044,10 @@
       "baseline": "alias",
       "port-version": 0
     },
+    "ms-gltf-r1-9-5-0-0": {
+      "baseline": "r1.9.5.0",
+      "port-version": 0
+    },
     "ms-gsl-2-1-0-0": {
       "baseline": "2.1.0",
       "port-version": 0
