@@ -57892,6 +57892,10 @@
       "baseline": "0.4",
       "port-version": 0
     },
+    "pthread-stubs-0-4-1": {
+      "baseline": "0.4",
+      "port-version": 1
+    },
     "pthreadpool-2020-02-21-0": {
       "baseline": "2020-02-21",
       "port-version": 0
