@@ -34140,6 +34140,10 @@
       "baseline": "2.0.5",
       "port-version": 2
     },
+    "log4cplus-2-0-7-0": {
+      "baseline": "2.0.7",
+      "port-version": 0
+    },
     "log4cplus-rel-1-2-1-rc2-0": {
       "baseline": "rel_1_2_1-rc2",
       "port-version": 0

@@ -1,0 +1,7 @@
+old = "log4cplus"
+new = "log4cplus-2-0-7-0"
+
+[deps]
+catch-alias-1 = "catch"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"
