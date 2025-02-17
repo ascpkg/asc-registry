@@ -9680,6 +9680,10 @@
       "baseline": "1.14.0",
       "port-version": 9
     },
+    "ceres-2-0-0-0": {
+      "baseline": "2.0.0",
+      "port-version": 0
+    },
     "ceres-solver-1-12-0-0": {
       "baseline": "1.12.0",
       "port-version": 0
