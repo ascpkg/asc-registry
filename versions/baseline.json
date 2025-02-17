@@ -22200,6 +22200,10 @@
       "baseline": "3.1.1",
       "port-version": 1
     },
+    "botan-3-2-0-0": {
+      "baseline": "3.2.0",
+      "port-version": 0
+    },
     "box2d-2-3-1-374664b-0": {
       "baseline": "2.3.1-374664b",
       "port-version": 0
