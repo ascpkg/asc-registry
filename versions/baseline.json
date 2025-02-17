@@ -15848,6 +15848,10 @@
       "baseline": "0.996",
       "port-version": 0
     },
+    "mecab-1-0-0": {
+      "baseline": "1.0",
+      "port-version": 0
+    },
     "meschach--0": {
       "baseline": "",
       "port-version": 0
