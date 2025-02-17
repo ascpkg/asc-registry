@@ -880,6 +880,10 @@
       "baseline": "chromium_4472",
       "port-version": 0
     },
+    "angle-chromium-4472-1": {
+      "baseline": "chromium_4472",
+      "port-version": 1
+    },
     "antlr4-4-6-0": {
       "baseline": "4.6",
       "port-version": 0
