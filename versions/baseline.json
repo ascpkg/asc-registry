@@ -53864,6 +53864,10 @@
       "baseline": "6.2.3",
       "port-version": 0
     },
+    "qtapplicationmanager-6-2-3-1": {
+      "baseline": "6.2.3",
+      "port-version": 1
+    },
     "qtbase-6-1-0-0": {
       "baseline": "6.1.0",
       "port-version": 0
