@@ -1,0 +1,11 @@
+old = "sqlpp11"
+new = "sqlpp11-0-61-2"
+
+[deps]
+date-3-0-1-2 = "date"
+libmariadb-3-3-1-2 = "libmariadb"
+libmysql-8-0-20-9 = "libmysql"
+libpq-14-4-3 = "libpq"
+sqlite3-3-40-0-2 = "sqlite3"
+vcpkg-cmake-2022-11-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
