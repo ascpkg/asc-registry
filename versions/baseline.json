@@ -39096,6 +39096,10 @@
       "baseline": "3.4.15",
       "port-version": 2
     },
+    "opencv3-3-4-15-3": {
+      "baseline": "3.4.15",
+      "port-version": 3
+    },
     "opencv3-3-4-3-10-0": {
       "baseline": "3.4.3-10",
       "port-version": 0
@@ -39211,6 +39215,10 @@
     "opencv4-4-5-3-2": {
       "baseline": "4.5.3",
       "port-version": 2
+    },
+    "opencv4-4-5-3-3": {
+      "baseline": "4.5.3",
+      "port-version": 3
     },
     "opendnp3-2-3-2-0": {
       "baseline": "2.3.2",
