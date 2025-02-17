@@ -1,0 +1,12 @@
+old = "vxl"
+new = "vxl-v1-18-0-1-0"
+
+[deps]
+bzip2-1-0-6-3-0 = "bzip2"
+expat-2-2-6-0 = "expat"
+libgeotiff-1-4-2-6-0 = "libgeotiff"
+libjpeg-turbo-1-5-3-1-0 = "libjpeg-turbo"
+libpng-1-6-35-1-0 = "libpng"
+shapelib-1-4-1-1-0 = "shapelib"
+tiff-4-0-9-6-0 = "tiff"
+zlib-1-2-11-3-0 = "zlib"
