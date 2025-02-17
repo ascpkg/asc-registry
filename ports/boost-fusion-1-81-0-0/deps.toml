@@ -1,0 +1,17 @@
+old = "boost-fusion"
+new = "boost-fusion-1-81-0-0"
+
+[deps]
+boost-config-1-81-0-0 = "boost-config"
+boost-container-hash-1-81-0-0 = "boost-container-hash"
+boost-core-1-81-0-0 = "boost-core"
+boost-function-types-1-81-0-0 = "boost-function-types"
+boost-functional-1-81-0-0 = "boost-functional"
+boost-mpl-1-81-0-0 = "boost-mpl"
+boost-preprocessor-1-81-0-0 = "boost-preprocessor"
+boost-static-assert-1-81-0-0 = "boost-static-assert"
+boost-tuple-1-81-0-0 = "boost-tuple"
+boost-type-traits-1-81-0-0 = "boost-type-traits"
+boost-typeof-1-81-0-0 = "boost-typeof"
+boost-utility-1-81-0-0 = "boost-utility"
+boost-vcpkg-helpers-1-81-0-0 = "boost-vcpkg-helpers"

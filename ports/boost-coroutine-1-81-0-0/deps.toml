@@ -1,0 +1,18 @@
+old = "boost-coroutine"
+new = "boost-coroutine-1-81-0-0"
+
+[deps]
+boost-assert-1-81-0-0 = "boost-assert"
+boost-build-1-81-0-0 = "boost-build"
+boost-config-1-81-0-0 = "boost-config"
+boost-context-1-81-0-0 = "boost-context"
+boost-core-1-81-0-0 = "boost-core"
+boost-exception-1-81-0-0 = "boost-exception"
+boost-modular-build-helper-1-81-0-0 = "boost-modular-build-helper"
+boost-move-1-81-0-0 = "boost-move"
+boost-system-1-81-0-0 = "boost-system"
+boost-throw-exception-1-81-0-0 = "boost-throw-exception"
+boost-type-traits-1-81-0-0 = "boost-type-traits"
+boost-utility-1-81-0-0 = "boost-utility"
+boost-vcpkg-helpers-1-81-0-0 = "boost-vcpkg-helpers"
+vcpkg-cmake-2022-10-30-0 = "vcpkg-cmake"
