@@ -4444,6 +4444,10 @@
       "baseline": "1.70.0",
       "port-version": 0
     },
+    "boost-type-erasure-1-70-0-1-0": {
+      "baseline": "1.70.0-1",
+      "port-version": 0
+    },
     "boost-type-index-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
