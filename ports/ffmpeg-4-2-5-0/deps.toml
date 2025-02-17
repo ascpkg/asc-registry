@@ -1,0 +1,12 @@
+old = "ffmpeg"
+new = "ffmpeg-4-2-5-0"
+
+[deps]
+bzip2-1-0-6-5-0 = "bzip2"
+ffmpeg-4-2-5-0 = "ffmpeg"
+liblzma-5-2-4-4-0 = "liblzma"
+libvpx-1-8-1-1-0 = "libvpx"
+opencl-2-2-2-0 = "opencl"
+openssl-1-1-1d-0 = "openssl"
+x264-157-303c484ec828ed0-7-0 = "x264"
+zlib-1-2-11-6-0 = "zlib"

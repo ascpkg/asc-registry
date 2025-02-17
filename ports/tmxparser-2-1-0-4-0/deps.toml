@@ -1,0 +1,6 @@
+old = "tmxparser"
+new = "tmxparser-2-1-0-4-0"
+
+[deps]
+tinyxml2-7-1-0-0 = "tinyxml2"
+zlib-1-2-11-6-0 = "zlib"

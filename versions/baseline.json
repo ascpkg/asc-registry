@@ -604,6 +604,10 @@
       "baseline": "2019-12-31",
       "port-version": 0
     },
+    "angle-2019-12-31-1-0": {
+      "baseline": "2019-12-31-1",
+      "port-version": 0
+    },
     "antlr4-4-6-0": {
       "baseline": "4.6",
       "port-version": 0
@@ -6832,6 +6836,10 @@
       "baseline": "1.0.6-4",
       "port-version": 0
     },
+    "bzip2-1-0-6-5-0": {
+      "baseline": "1.0.6-5",
+      "port-version": 0
+    },
     "c-ares-1-12-1-dev-40eb41f-0": {
       "baseline": "1.12.1-dev-40eb41f",
       "port-version": 0
@@ -11036,6 +11044,10 @@
       "baseline": "4.2-4",
       "port-version": 0
     },
+    "ffmpeg-4-2-5-0": {
+      "baseline": "4.2-5",
+      "port-version": 0
+    },
     "ffnvcodec-9-1-23-0-0": {
       "baseline": "9.1.23.0",
       "port-version": 0
@@ -12770,6 +12782,10 @@
     },
     "glew-2-1-0-6-0": {
       "baseline": "2.1.0-6",
+      "port-version": 0
+    },
+    "glew-2-1-0-7-0": {
+      "baseline": "2.1.0-7",
       "port-version": 0
     },
     "glfw3-3-1-2-0": {
@@ -15116,6 +15132,10 @@
       "baseline": "1.8.0",
       "port-version": 0
     },
+    "kd-soap-1-8-0-1-0": {
+      "baseline": "1.8.0-1",
+      "port-version": 0
+    },
     "kealib-1-4-11-0": {
       "baseline": "1.4.11",
       "port-version": 0
@@ -17210,6 +17230,10 @@
     },
     "libraqm-0-7-0-0": {
       "baseline": "0.7.0",
+      "port-version": 0
+    },
+    "libraqm-0-7-0-1-0": {
+      "baseline": "0.7.0-1",
       "port-version": 0
     },
     "libraw-0-17-2-0": {
@@ -24100,6 +24124,10 @@
       "baseline": "5.12.5-8",
       "port-version": 0
     },
+    "qt5-base-5-12-5-9-0": {
+      "baseline": "5.12.5-9",
+      "port-version": 0
+    },
     "qt5-base-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -29320,6 +29348,10 @@
       "baseline": "2.1.0-3",
       "port-version": 0
     },
+    "tmxparser-2-1-0-4-0": {
+      "baseline": "2.1.0-4",
+      "port-version": 0
+    },
     "toml11-3-3-0-0": {
       "baseline": "3.3.0",
       "port-version": 0
@@ -31310,6 +31342,10 @@
     },
     "zlib-1-2-11-5-0": {
       "baseline": "1.2.11-5",
+      "port-version": 0
+    },
+    "zlib-1-2-11-6-0": {
+      "baseline": "1.2.11-6",
       "port-version": 0
     },
     "zlib-1-2-8-0": {
