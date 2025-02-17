@@ -45524,6 +45524,10 @@
       "baseline": "5.3-rc02",
       "port-version": 6
     },
+    "itk-5-3rc02-0": {
+      "baseline": "5.3rc02",
+      "port-version": 0
+    },
     "itpp-4-3-1-0": {
       "baseline": "4.3.1",
       "port-version": 0
