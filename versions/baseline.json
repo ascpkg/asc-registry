@@ -22828,6 +22828,10 @@
       "baseline": "2019-11-5",
       "port-version": 0
     },
+    "portaudio-2020-02-02-0": {
+      "baseline": "2020-02-02",
+      "port-version": 0
+    },
     "portmidi-0-217-1-0": {
       "baseline": "0.217.1",
       "port-version": 0
