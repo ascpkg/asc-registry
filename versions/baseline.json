@@ -67316,6 +67316,10 @@
       "baseline": "1.50.14",
       "port-version": 1
     },
+    "pango-1-50-14-2": {
+      "baseline": "1.50.14",
+      "port-version": 2
+    },
     "pango-1-50-3-0": {
       "baseline": "1.50.3",
       "port-version": 0
