@@ -20800,6 +20800,10 @@
       "baseline": "10.0.0-3",
       "port-version": 0
     },
+    "llvm-10-0-0-4-0": {
+      "baseline": "10.0.0-4",
+      "port-version": 0
+    },
     "llvm-4-0-0-0": {
       "baseline": "4.0.0",
       "port-version": 0
