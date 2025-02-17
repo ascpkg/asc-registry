@@ -16548,6 +16548,10 @@
       "baseline": "windows-sdk",
       "port-version": 0
     },
+    "cppxaml-0-0-16-0": {
+      "baseline": "0.0.16",
+      "port-version": 0
+    },
     "cppzmq-0-0-0-1-0": {
       "baseline": "0.0.0-1",
       "port-version": 0
