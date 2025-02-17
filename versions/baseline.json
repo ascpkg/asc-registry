@@ -34524,6 +34524,10 @@
       "baseline": "2019-10-22-2",
       "port-version": 0
     },
+    "sltbench-2-4-0-0": {
+      "baseline": "2.4.0",
+      "port-version": 0
+    },
     "smpeg2-2-0-0-0": {
       "baseline": "2.0.0",
       "port-version": 0
