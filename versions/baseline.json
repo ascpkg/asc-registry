@@ -15036,6 +15036,10 @@
       "baseline": "aug2020",
       "port-version": 0
     },
+    "directxtex-aug2021-0": {
+      "baseline": "aug2021",
+      "port-version": 0
+    },
     "directxtex-dec2016-0": {
       "baseline": "dec2016",
       "port-version": 0
@@ -15164,6 +15168,10 @@
       "baseline": "aug2020",
       "port-version": 0
     },
+    "directxtk-aug2021-0": {
+      "baseline": "aug2021",
+      "port-version": 0
+    },
     "directxtk-dec2016-0": {
       "baseline": "dec2016",
       "port-version": 0
@@ -15274,6 +15282,10 @@
     },
     "directxtk12-aug2020-0": {
       "baseline": "aug2020",
+      "port-version": 0
+    },
+    "directxtk12-aug2021-0": {
+      "baseline": "aug2021",
       "port-version": 0
     },
     "directxtk12-dec2016-0": {
