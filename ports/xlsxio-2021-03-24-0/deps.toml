@@ -1,0 +1,6 @@
+old = "xlsxio"
+new = "xlsxio-2021-03-24-0"
+
+[deps]
+expat-2-4-1-0 = "expat"
+minizip-1-2-11-9 = "minizip"
