@@ -13008,6 +13008,10 @@
       "baseline": "0.17.0",
       "port-version": 0
     },
+    "google-cloud-cpp-0-18-0-0": {
+      "baseline": "0.18.0",
+      "port-version": 0
+    },
     "google-cloud-cpp-0-3-0-1-0": {
       "baseline": "0.3.0-1",
       "port-version": 0
@@ -13056,12 +13060,20 @@
       "baseline": "0.16.0-1",
       "port-version": 0
     },
+    "google-cloud-cpp-common-0-18-0-0": {
+      "baseline": "0.18.0",
+      "port-version": 0
+    },
     "google-cloud-cpp-spanner-0-3-0-0": {
       "baseline": "0.3.0",
       "port-version": 0
     },
     "google-cloud-cpp-spanner-0-5-0-0": {
       "baseline": "0.5.0",
+      "port-version": 0
+    },
+    "google-cloud-cpp-spanner-0-7-0-0": {
+      "baseline": "0.7.0",
       "port-version": 0
     },
     "googleapis-0-1-1-0": {
