@@ -1,0 +1,6 @@
+old = "igraph"
+new = "igraph-0-9-2-0"
+
+[deps]
+libxml2-2-9-10-6 = "libxml2"
+suitesparse-5-8-0-1 = "suitesparse"
