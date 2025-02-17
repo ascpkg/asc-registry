@@ -8256,6 +8256,10 @@
       "baseline": "8.0.2",
       "port-version": 0
     },
+    "boinc-8-0-3-0": {
+      "baseline": "8.0.3",
+      "port-version": 0
+    },
     "bond-10-0-0-0": {
       "baseline": "10.0.0",
       "port-version": 0
