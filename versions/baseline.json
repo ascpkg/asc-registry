@@ -28584,6 +28584,10 @@
       "baseline": "1.0.0",
       "port-version": 6
     },
+    "casadi-3-6-7-0": {
+      "baseline": "3.6.7",
+      "port-version": 0
+    },
     "casclib-1-50-0": {
       "baseline": "1.50",
       "port-version": 0
