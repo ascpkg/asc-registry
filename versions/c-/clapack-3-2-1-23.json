@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/clapack-3-2-1-23",
+      "version": "3.2.1",
+      "port-version": 23
+    }
+  ]
+}

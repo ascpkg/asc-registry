@@ -2448,6 +2448,10 @@
       "baseline": "12.6.6",
       "port-version": 0
     },
+    "armadillo-12-6-6-1": {
+      "baseline": "12.6.6",
+      "port-version": 1
+    },
     "armadillo-2019-04-16-1-0": {
       "baseline": "2019-04-16-1",
       "port-version": 0
@@ -7574,6 +7578,10 @@
     },
     "blas-2023-03-25-0": {
       "baseline": "2023-03-25",
+      "port-version": 0
+    },
+    "blas-2023-04-14-0": {
+      "baseline": "2023-04-14",
       "port-version": 0
     },
     "blaze-3-1-0": {
@@ -25068,6 +25076,10 @@
       "baseline": "3.5.3",
       "port-version": 0
     },
+    "cblas-2024-03-19-0": {
+      "baseline": "2024-03-19",
+      "port-version": 0
+    },
     "cccapstone-9b4128ee1153e78288a1b5433e2c06a0d47a4c4e-0": {
       "baseline": "9b4128ee1153e78288a1b5433e2c06a0d47a4c4e",
       "port-version": 0
@@ -26623,6 +26635,10 @@
     "clapack-3-2-1-22": {
       "baseline": "3.2.1",
       "port-version": 22
+    },
+    "clapack-3-2-1-23": {
+      "baseline": "3.2.1",
+      "port-version": 23
     },
     "clapack-3-2-1-3-0": {
       "baseline": "3.2.1-3",
@@ -51908,6 +51924,10 @@
       "baseline": "2022-02-22",
       "port-version": 2
     },
+    "lapack-2023-06-10-0": {
+      "baseline": "2023-06-10",
+      "port-version": 0
+    },
     "lapack-3-0": {
       "baseline": "3",
       "port-version": 0
@@ -51939,6 +51959,10 @@
     "lapack-reference-3-11-0-2": {
       "baseline": "3.11.0",
       "port-version": 2
+    },
+    "lapack-reference-3-11-0-3": {
+      "baseline": "3.11.0",
+      "port-version": 3
     },
     "lapack-reference-3-8-0-0": {
       "baseline": "3.8.0",
@@ -95951,6 +95975,10 @@
     "shogun-6-1-4-1-0": {
       "baseline": "6.1.4-1",
       "port-version": 0
+    },
+    "shogun-6-1-4-10": {
+      "baseline": "6.1.4",
+      "port-version": 10
     },
     "shogun-6-1-4-2": {
       "baseline": "6.1.4",
