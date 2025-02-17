@@ -15884,6 +15884,10 @@
       "baseline": "1.12.0",
       "port-version": 0
     },
+    "flatbuffers-1-12-0-1": {
+      "baseline": "1.12.0",
+      "port-version": 1
+    },
     "flatbuffers-1-6-0-0": {
       "baseline": "1.6.0",
       "port-version": 0
@@ -28150,6 +28154,10 @@
     },
     "mmx-2019-09-29-0": {
       "baseline": "2019-09-29",
+      "port-version": 0
+    },
+    "mnn-1-1-0-0": {
+      "baseline": "1.1.0",
       "port-version": 0
     },
     "modp-base64--0": {
