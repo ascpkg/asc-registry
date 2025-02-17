@@ -3168,6 +3168,10 @@
       "baseline": "1.1.6-be6dc3d",
       "port-version": 0
     },
+    "snappy-1-1-7-0": {
+      "baseline": "1.1.7",
+      "port-version": 0
+    },
     "sobjectizer-5-5-19-0": {
       "baseline": "5.5.19",
       "port-version": 0
