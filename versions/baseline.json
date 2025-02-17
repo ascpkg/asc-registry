@@ -60012,6 +60012,10 @@
       "baseline": "1.12.0",
       "port-version": 1
     },
+    "taglib-1-12-0-2": {
+      "baseline": "1.12.0",
+      "port-version": 2
+    },
     "taglib-1-12-0-20210123-0": {
       "baseline": "1.12.0-20210123",
       "port-version": 0
