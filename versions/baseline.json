@@ -39292,6 +39292,10 @@
       "baseline": "6.1.1",
       "port-version": 4
     },
+    "ffmpeg-6-1-1-5": {
+      "baseline": "6.1.1",
+      "port-version": 5
+    },
     "ffmpeg-6-1-2": {
       "baseline": "6.1",
       "port-version": 2
