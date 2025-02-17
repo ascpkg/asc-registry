@@ -32164,6 +32164,10 @@
       "baseline": "3.0.2-2",
       "port-version": 0
     },
+    "physfs-3-0-2-3": {
+      "baseline": "3.0.2",
+      "port-version": 3
+    },
     "physx-4-1-1-1-0": {
       "baseline": "4.1.1-1",
       "port-version": 0
