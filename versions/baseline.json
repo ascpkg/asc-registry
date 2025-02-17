@@ -62628,6 +62628,10 @@
       "baseline": "39",
       "port-version": 1
     },
+    "ngspice-41-0": {
+      "baseline": "41",
+      "port-version": 0
+    },
     "ngtcp2-0-11-0-0": {
       "baseline": "0.11.0",
       "port-version": 0
