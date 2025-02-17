@@ -13144,6 +13144,10 @@
       "baseline": "1.7.12",
       "port-version": 0
     },
+    "cjson-1-7-15-0": {
+      "baseline": "1.7.15",
+      "port-version": 0
+    },
     "cjson-2019-11-30-0": {
       "baseline": "2019-11-30",
       "port-version": 0
