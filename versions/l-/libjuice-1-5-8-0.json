@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libjuice-1-5-8-0",
+      "version": "1.5.8",
+      "port-version": 0
+    }
+  ]
+}
