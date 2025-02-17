@@ -30208,6 +30208,10 @@
       "baseline": "1.42",
       "port-version": 1
     },
+    "libgpg-error-1-42-2": {
+      "baseline": "1.42",
+      "port-version": 2
+    },
     "libgpod-2019-08-29-0": {
       "baseline": "2019-08-29",
       "port-version": 0
