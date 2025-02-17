@@ -47836,6 +47836,10 @@
       "baseline": "3.8.8",
       "port-version": 1
     },
+    "tinyfiledialogs-3-8-8-2": {
+      "baseline": "3.8.8",
+      "port-version": 2
+    },
     "tinygltf-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
@@ -49263,6 +49267,10 @@
     "vcpkg-cmake-config-2021-05-22-1": {
       "baseline": "2021-05-22",
       "port-version": 1
+    },
+    "vcpkg-cmake-config-2021-08-11-0": {
+      "baseline": "2021-08-11",
+      "port-version": 0
     },
     "vcpkg-gfortran-1-0": {
       "baseline": "1",
