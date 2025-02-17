@@ -1772,6 +1772,10 @@
       "baseline": "chromium_5414",
       "port-version": 1
     },
+    "angle-chromium-5414-10": {
+      "baseline": "chromium_5414",
+      "port-version": 10
+    },
     "angle-chromium-5414-2": {
       "baseline": "chromium_5414",
       "port-version": 2
