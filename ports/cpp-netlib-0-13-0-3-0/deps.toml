@@ -1,0 +1,5 @@
+old = "cpp-netlib"
+new = "cpp-netlib-0-13-0-3-0"
+
+[deps]
+boost-1-71-0-0 = "boost"
