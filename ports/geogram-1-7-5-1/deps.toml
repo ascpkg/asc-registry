@@ -3,5 +3,5 @@ new = "geogram-1-7-5-1"
 
 [deps]
 glfw3-3-3-2-0 = "glfw3"
-lapack-2-0 = "lapack"
+lapack-3-0 = "lapack"
 openblas-0-3-9-3 = "openblas"
