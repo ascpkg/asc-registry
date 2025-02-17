@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/beast-v76-0",
+      "version": "v76",
+      "port-version": 0
+    }
+  ]
+}
