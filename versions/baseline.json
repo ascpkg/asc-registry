@@ -27696,6 +27696,10 @@
       "baseline": "6.9.4",
       "port-version": 0
     },
+    "onnxruntime-gpu-1-5-1-0": {
+      "baseline": "1.5.1",
+      "port-version": 0
+    },
     "open62541--0": {
       "baseline": "",
       "port-version": 0
