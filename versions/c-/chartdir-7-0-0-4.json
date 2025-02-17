@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/chartdir-7-0-0-4",
+      "version": "7.0.0",
+      "port-version": 4
+    }
+  ]
+}
