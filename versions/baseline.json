@@ -32696,6 +32696,10 @@
       "baseline": "2.1.2",
       "port-version": 0
     },
+    "geographiclib-2-2-0": {
+      "baseline": "2.2",
+      "port-version": 0
+    },
     "geos-3-10-0-0": {
       "baseline": "3.10.0",
       "port-version": 0
