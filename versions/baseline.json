@@ -38884,6 +38884,10 @@
       "baseline": "6.4.0",
       "port-version": 0
     },
+    "ecm-6-7-0-0": {
+      "baseline": "6.7.0",
+      "port-version": 0
+    },
     "ecos-2-0-10-0": {
       "baseline": "2.0.10",
       "port-version": 0
