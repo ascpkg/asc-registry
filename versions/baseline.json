@@ -1164,6 +1164,10 @@
       "baseline": "5.2.6.0",
       "port-version": 4
     },
+    "allegro5-5-2-9-0-0": {
+      "baseline": "5.2.9.0",
+      "port-version": 0
+    },
     "alpaca-0-2-0-0": {
       "baseline": "0.2.0",
       "port-version": 0
