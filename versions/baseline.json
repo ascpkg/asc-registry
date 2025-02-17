@@ -4120,6 +4120,10 @@
       "baseline": "0.4.0",
       "port-version": 0
     },
+    "aurora-au-0-4-1-0": {
+      "baseline": "0.4.1",
+      "port-version": 0
+    },
     "autobahn-18-4-1-0": {
       "baseline": "18.4.1",
       "port-version": 0
