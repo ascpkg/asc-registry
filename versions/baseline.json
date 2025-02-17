@@ -25256,6 +25256,10 @@
       "baseline": "1.16",
       "port-version": 1
     },
+    "civetweb-1-16-2": {
+      "baseline": "1.16",
+      "port-version": 2
+    },
     "civetweb-2019-07-05-0": {
       "baseline": "2019-07-05",
       "port-version": 0
