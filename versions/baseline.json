@@ -58252,6 +58252,10 @@
       "baseline": "0.6.0",
       "port-version": 3
     },
+    "libdwarf-0-10-1-0": {
+      "baseline": "0.10.1",
+      "port-version": 0
+    },
     "libdwarf-0-8-0-0": {
       "baseline": "0.8.0",
       "port-version": 0
