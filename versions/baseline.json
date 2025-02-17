@@ -2544,6 +2544,10 @@
       "baseline": "3.0.0",
       "port-version": 0
     },
+    "utf8proc-2-1-0-0": {
+      "baseline": "2.1.0",
+      "port-version": 0
+    },
     "utfcpp-2-3-4-0": {
       "baseline": "2.3.4",
       "port-version": 0
