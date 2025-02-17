@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/halide-release-2019-08-27-2-0",
+      "version": "release_2019_08_27-2",
+      "port-version": 0
+    }
+  ]
+}
