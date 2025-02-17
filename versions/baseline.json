@@ -90556,6 +90556,10 @@
       "baseline": "23.5",
       "port-version": 2
     },
+    "usd-23-5-3": {
+      "baseline": "23.5",
+      "port-version": 3
+    },
     "usockets-0-1-2-0": {
       "baseline": "0.1.2",
       "port-version": 0
