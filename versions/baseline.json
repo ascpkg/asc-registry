@@ -22232,6 +22232,10 @@
       "baseline": "1.8.4-10",
       "port-version": 0
     },
+    "irrlicht-1-8-4-11": {
+      "baseline": "1.8.4",
+      "port-version": 11
+    },
     "irrlicht-1-8-4-2-0": {
       "baseline": "1.8.4-2",
       "port-version": 0
@@ -37639,6 +37643,10 @@
     "qt5-3d-5-15-2-0": {
       "baseline": "5.15.2",
       "port-version": 0
+    },
+    "qt5-3d-5-15-2-1": {
+      "baseline": "5.15.2",
+      "port-version": 1
     },
     "qt5-3d-5-9-2-0-0": {
       "baseline": "5.9.2-0",
