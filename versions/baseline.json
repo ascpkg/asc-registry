@@ -67640,6 +67640,10 @@
       "baseline": "6.4.7",
       "port-version": 0
     },
+    "libpqxx-7-10-0-0": {
+      "baseline": "7.10.0",
+      "port-version": 0
+    },
     "libpqxx-7-2-0-0": {
       "baseline": "7.2.0",
       "port-version": 0
