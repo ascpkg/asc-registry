@@ -59592,6 +59592,10 @@
       "baseline": "1.3.2",
       "port-version": 0
     },
+    "redis-plus-plus-1-3-2-1": {
+      "baseline": "1.3.2",
+      "port-version": 1
+    },
     "redshell-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
