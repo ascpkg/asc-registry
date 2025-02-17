@@ -18744,6 +18744,10 @@
       "baseline": "3.22",
       "port-version": 2
     },
+    "bullet3-3-25-0": {
+      "baseline": "3.25",
+      "port-version": 0
+    },
     "bustache-1-1-0-0": {
       "baseline": "1.1.0",
       "port-version": 0
