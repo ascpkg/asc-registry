@@ -38312,6 +38312,10 @@
       "baseline": "commit-1ed2dadbda3977b13e5e83cc1f3eeca76b36ebe5",
       "port-version": 0
     },
+    "rsasynccpp-0-0-7-0": {
+      "baseline": "0.0.7",
+      "port-version": 0
+    },
     "rsocket-2020-05-04-00-1-0": {
       "baseline": "2020.05.04.00-1",
       "port-version": 0
