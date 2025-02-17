@@ -14328,6 +14328,10 @@
       "baseline": "1.3.2-6",
       "port-version": 0
     },
+    "libflac-1-3-3-0": {
+      "baseline": "1.3.3",
+      "port-version": 0
+    },
     "libfreenect2-0-2-0-0": {
       "baseline": "0.2.0",
       "port-version": 0
