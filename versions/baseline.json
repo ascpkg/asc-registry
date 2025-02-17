@@ -36456,6 +36456,10 @@
       "baseline": "1.6.37",
       "port-version": 16
     },
+    "libpng-1-6-37-17": {
+      "baseline": "1.6.37",
+      "port-version": 17
+    },
     "libpng-1-6-37-2-0": {
       "baseline": "1.6.37-2",
       "port-version": 0
