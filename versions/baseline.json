@@ -28324,6 +28324,10 @@
       "baseline": "1.0.2",
       "port-version": 0
     },
+    "knet-1-0-3-0": {
+      "baseline": "1.0.3",
+      "port-version": 0
+    },
     "krabsetw-4-1-13-0": {
       "baseline": "4.1.13",
       "port-version": 0
