@@ -1,0 +1,10 @@
+old = "seal"
+new = "seal-3-6-6-1"
+
+[deps]
+hexl-1-1-0-0 = "hexl"
+ms-gsl-3-1-0-0 = "ms-gsl"
+vcpkg-cmake-2021-02-28-3 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-0 = "vcpkg-cmake-config"
+zlib-1-2-11-10 = "zlib"
+zstd-1-4-9-0 = "zstd"
