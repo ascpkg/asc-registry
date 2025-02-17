@@ -1,0 +1,5 @@
+old = "boost-vcpkg-helpers"
+new = "boost-vcpkg-helpers-1-82-0-0"
+
+[deps]
+boost-uninstall-1-82-0-0 = "boost-uninstall"

@@ -1,0 +1,11 @@
+old = "boost-pool"
+new = "boost-pool-1-82-0-0"
+
+[deps]
+boost-assert-1-82-0-0 = "boost-assert"
+boost-config-1-82-0-0 = "boost-config"
+boost-integer-1-82-0-0 = "boost-integer"
+boost-throw-exception-1-82-0-0 = "boost-throw-exception"
+boost-type-traits-1-82-0-0 = "boost-type-traits"
+boost-vcpkg-helpers-1-82-0-0 = "boost-vcpkg-helpers"
+boost-winapi-1-82-0-0 = "boost-winapi"

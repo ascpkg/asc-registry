@@ -1,0 +1,16 @@
+old = "boost-atomic"
+new = "boost-atomic-1-82-0-0"
+
+[deps]
+boost-align-1-82-0-0 = "boost-align"
+boost-assert-1-82-0-0 = "boost-assert"
+boost-build-1-82-0-0 = "boost-build"
+boost-config-1-82-0-0 = "boost-config"
+boost-modular-build-helper-1-82-0-0 = "boost-modular-build-helper"
+boost-predef-1-82-0-0 = "boost-predef"
+boost-preprocessor-1-82-0-0 = "boost-preprocessor"
+boost-static-assert-1-82-0-0 = "boost-static-assert"
+boost-type-traits-1-82-0-0 = "boost-type-traits"
+boost-vcpkg-helpers-1-82-0-0 = "boost-vcpkg-helpers"
+boost-winapi-1-82-0-0 = "boost-winapi"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

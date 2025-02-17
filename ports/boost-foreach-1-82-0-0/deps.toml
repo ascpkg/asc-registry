@@ -1,0 +1,11 @@
+old = "boost-foreach"
+new = "boost-foreach-1-82-0-0"
+
+[deps]
+boost-config-1-82-0-0 = "boost-config"
+boost-core-1-82-0-0 = "boost-core"
+boost-iterator-1-82-0-0 = "boost-iterator"
+boost-mpl-1-82-0-0 = "boost-mpl"
+boost-range-1-82-0-0 = "boost-range"
+boost-type-traits-1-82-0-0 = "boost-type-traits"
+boost-vcpkg-helpers-1-82-0-0 = "boost-vcpkg-helpers"
