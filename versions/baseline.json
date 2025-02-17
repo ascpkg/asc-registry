@@ -20540,6 +20540,10 @@
       "baseline": "0.38.0-3",
       "port-version": 0
     },
+    "pixman-0-38-0-4-0": {
+      "baseline": "0.38.0-4",
+      "port-version": 0
+    },
     "platform-folders-4-0-0-4-0": {
       "baseline": "4.0.0-4",
       "port-version": 0
