@@ -64628,6 +64628,10 @@
       "baseline": "3.32",
       "port-version": 0
     },
+    "libsvm-3-32-1": {
+      "baseline": "3.32",
+      "port-version": 1
+    },
     "libsvm-323-0": {
       "baseline": "323",
       "port-version": 0
