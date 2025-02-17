@@ -84264,6 +84264,10 @@
       "baseline": "9.2.10",
       "port-version": 0
     },
+    "starlink-ast-9-2-10-1": {
+      "baseline": "9.2.10",
+      "port-version": 1
+    },
     "starlink-ast-9-2-4-0": {
       "baseline": "9.2.4",
       "port-version": 0
