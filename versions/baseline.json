@@ -8760,6 +8760,10 @@
       "baseline": "2.3.2",
       "port-version": 0
     },
+    "libcds-2-3-3-0": {
+      "baseline": "2.3.3",
+      "port-version": 0
+    },
     "libconfig-1-6-0-0": {
       "baseline": "1.6.0",
       "port-version": 0
