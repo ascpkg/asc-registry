@@ -48736,6 +48736,10 @@
       "baseline": "2.2.0",
       "port-version": 0
     },
+    "lexbor-2-3-0-0": {
+      "baseline": "2.3.0",
+      "port-version": 0
+    },
     "libaaplus-2-1-0-0": {
       "baseline": "2.1.0",
       "port-version": 0
