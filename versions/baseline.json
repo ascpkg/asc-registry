@@ -28260,6 +28260,10 @@
       "baseline": "1.34.4",
       "port-version": 0
     },
+    "c-ares-1-34-4-1": {
+      "baseline": "1.34.4",
+      "port-version": 1
+    },
     "c-ares-2019-5-2-0": {
       "baseline": "2019-5-2",
       "port-version": 0
@@ -35191,6 +35195,10 @@
     "curl-8-11-1-1": {
       "baseline": "8.11.1",
       "port-version": 1
+    },
+    "curl-8-11-1-2": {
+      "baseline": "8.11.1",
+      "port-version": 2
     },
     "curl-8-2-0-0": {
       "baseline": "8.2.0",
@@ -68360,6 +68368,10 @@
       "baseline": "2024-03-01",
       "port-version": 0
     },
+    "librtmp-2024-03-01-1": {
+      "baseline": "2024-03-01",
+      "port-version": 1
+    },
     "librtpi-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
@@ -69323,6 +69335,10 @@
     "libssh2-1-11-1-0": {
       "baseline": "1.11.1",
       "port-version": 0
+    },
+    "libssh2-1-11-1-1": {
+      "baseline": "1.11.1",
+      "port-version": 1
     },
     "libssh2-1-8-0-0": {
       "baseline": "1.8.0",
