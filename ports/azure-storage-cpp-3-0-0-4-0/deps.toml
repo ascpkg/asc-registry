@@ -3,4 +3,4 @@ new = "azure-storage-cpp-3-0-0-4-0"
 
 [deps]
 atlmfc-0-0 = "atlmfc"
-cpprestsdk-2-9-0-4-0 = "cpprestsdk"
+cpprestsdk-2-10-0-0 = "cpprestsdk"
