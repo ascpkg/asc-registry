@@ -15900,6 +15900,10 @@
       "baseline": "2.2.9",
       "port-version": 0
     },
+    "expat-2-4-1-0": {
+      "baseline": "2.4.1",
+      "port-version": 0
+    },
     "expat-2020-08-18-0": {
       "baseline": "2020-08-18",
       "port-version": 0
