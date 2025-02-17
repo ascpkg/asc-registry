@@ -10952,6 +10952,10 @@
       "baseline": "2.1.0",
       "port-version": 0
     },
+    "cppgraphqlgen-2020-12-07-0": {
+      "baseline": "2020-12-07",
+      "port-version": 0
+    },
     "cppgraphqlgen-3-0-0-0": {
       "baseline": "3.0.0",
       "port-version": 0
