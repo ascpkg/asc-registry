@@ -63944,6 +63944,10 @@
       "baseline": "1.4.0",
       "port-version": 1
     },
+    "protobuf-c-1-4-0-2": {
+      "baseline": "1.4.0",
+      "port-version": 2
+    },
     "protopuf-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
