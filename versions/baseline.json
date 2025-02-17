@@ -61228,6 +61228,10 @@
       "baseline": "0.2.2",
       "port-version": 0
     },
+    "sciplot-0-2-2-1": {
+      "baseline": "0.2.2",
+      "port-version": 1
+    },
     "sciter-0-1": {
       "baseline": "0",
       "port-version": 1
