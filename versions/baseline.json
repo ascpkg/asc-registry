@@ -55820,6 +55820,10 @@
       "baseline": "0.10.2",
       "port-version": 0
     },
+    "libjxl-0-10-2-1": {
+      "baseline": "0.10.2",
+      "port-version": 1
+    },
     "libjxl-0-6-1-0": {
       "baseline": "0.6.1",
       "port-version": 0
