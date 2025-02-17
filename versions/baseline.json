@@ -24628,6 +24628,10 @@
       "baseline": "5.84.0",
       "port-version": 0
     },
+    "kf5crash-5-84-0-1": {
+      "baseline": "5.84.0",
+      "port-version": 1
+    },
     "kf5dbusaddons-5-81-0-0": {
       "baseline": "5.81.0",
       "port-version": 0
