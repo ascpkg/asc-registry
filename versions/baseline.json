@@ -110292,6 +110292,10 @@
       "baseline": "2022-02-15",
       "port-version": 0
     },
+    "tinyexif-2024-09-03-0": {
+      "baseline": "2024-09-03",
+      "port-version": 0
+    },
     "tinyexpr-2020-09-25-0": {
       "baseline": "2020-09-25",
       "port-version": 0
