@@ -1,0 +1,6 @@
+old = "boost-modular-build-helper"
+new = "boost-modular-build-helper-1-75-0-10"
+
+[deps]
+boost-build-1-75-0-0 = "boost-build"
+boost-uninstall-1-75-0-1 = "boost-uninstall"
