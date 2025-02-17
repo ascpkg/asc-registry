@@ -65196,6 +65196,10 @@
       "baseline": "0.8.2",
       "port-version": 1
     },
+    "websocketpp-0-8-2-2": {
+      "baseline": "0.8.2",
+      "port-version": 2
+    },
     "wepoll-1-5-5-0": {
       "baseline": "1.5.5",
       "port-version": 0
