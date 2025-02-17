@@ -22332,6 +22332,10 @@
       "baseline": "2019-02-12-2",
       "port-version": 0
     },
+    "nanoprintf-2020-05-27-0": {
+      "baseline": "2020-05-27",
+      "port-version": 0
+    },
     "nanorange-0-0-0-0": {
       "baseline": "0.0.0",
       "port-version": 0
