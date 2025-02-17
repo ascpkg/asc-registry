@@ -17352,6 +17352,10 @@
       "baseline": "0.6.0",
       "port-version": 0
     },
+    "c9y-0-6-1-0": {
+      "baseline": "0.6.1",
+      "port-version": 0
+    },
     "caf-0-15-6-0": {
       "baseline": "0.15.6",
       "port-version": 0
