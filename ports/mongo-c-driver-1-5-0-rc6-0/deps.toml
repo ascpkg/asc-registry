@@ -1,0 +1,6 @@
+old = "mongo-c-driver"
+new = "mongo-c-driver-1-5-0-rc6-0"
+
+[deps]
+libbson-1-5-0-rc6-0 = "libbson"
+openssl-1-0-2j-0 = "openssl"
