@@ -37376,6 +37376,10 @@
       "baseline": "2.0.7",
       "port-version": 0
     },
+    "discordcoreapi-2-0-7-1": {
+      "baseline": "2.0.7",
+      "port-version": 1
+    },
     "discordcoreapi-2022-03-30-0": {
       "baseline": "2022-03-30",
       "port-version": 0
@@ -56175,6 +56179,10 @@
     "jsonifier-0-9-97-0": {
       "baseline": "0.9.97",
       "port-version": 0
+    },
+    "jsonifier-0-9-97-1": {
+      "baseline": "0.9.97",
+      "port-version": 1
     },
     "jsonnet-0-13-0-0": {
       "baseline": "0.13.0",
