@@ -90252,6 +90252,10 @@
       "baseline": "6.7.0",
       "port-version": 0
     },
+    "qtbase-6-7-0-1": {
+      "baseline": "6.7.0",
+      "port-version": 1
+    },
     "qtcharts-6-1-0-0": {
       "baseline": "6.1.0",
       "port-version": 0
@@ -90747,6 +90751,10 @@
     "qtdeclarative-6-7-0-0": {
       "baseline": "6.7.0",
       "port-version": 0
+    },
+    "qtdeclarative-6-7-0-1": {
+      "baseline": "6.7.0",
+      "port-version": 1
     },
     "qtdeviceutilities-6-2-2-0": {
       "baseline": "6.2.2",
@@ -93687,6 +93695,10 @@
     "qtwebengine-6-7-0-1": {
       "baseline": "6.7.0",
       "port-version": 1
+    },
+    "qtwebengine-6-7-0-2": {
+      "baseline": "6.7.0",
+      "port-version": 2
     },
     "qtwebsockets-6-2-0-0": {
       "baseline": "6.2.0",
