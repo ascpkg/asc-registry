@@ -24956,6 +24956,10 @@
       "baseline": "2019-05-07-3",
       "port-version": 0
     },
+    "thrift-2019-05-07-4-0": {
+      "baseline": "2019-05-07-4",
+      "port-version": 0
+    },
     "thrift-latest-0": {
       "baseline": "latest",
       "port-version": 0
