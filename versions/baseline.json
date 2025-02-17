@@ -45216,6 +45216,10 @@
       "baseline": "3.0.0",
       "port-version": 9
     },
+    "ptyqt-0-6-3-0": {
+      "baseline": "0.6.3",
+      "port-version": 0
+    },
     "pugixml-1-10-0": {
       "baseline": "1.10",
       "port-version": 0
@@ -58587,6 +58591,10 @@
     "winpcap-4-1-3-6": {
       "baseline": "4.1.3",
       "port-version": 6
+    },
+    "winpty-0-4-3-0": {
+      "baseline": "0.4.3",
+      "port-version": 0
     },
     "winreg-1-2-1-0": {
       "baseline": "1.2.1",

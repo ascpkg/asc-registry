@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ptyqt-0-6-3-0",
+      "version": "0.6.3",
+      "port-version": 0
+    }
+  ]
+}
