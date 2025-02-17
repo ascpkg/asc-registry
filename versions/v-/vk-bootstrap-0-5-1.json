@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/vk-bootstrap-0-5-1",
+      "version": "0.5",
+      "port-version": 1
+    }
+  ]
+}
