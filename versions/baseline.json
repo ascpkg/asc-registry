@@ -14976,6 +14976,10 @@
       "baseline": "2.1.0",
       "port-version": 0
     },
+    "ceres-2-1-0-1": {
+      "baseline": "2.1.0",
+      "port-version": 1
+    },
     "ceres-solver-1-12-0-0": {
       "baseline": "1.12.0",
       "port-version": 0
