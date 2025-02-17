@@ -1,0 +1,5 @@
+old = "polyhook2"
+new = "polyhook2-2019-10-24-0"
+
+[deps]
+capstone-4-0-1-120373dc-0 = "capstone"
