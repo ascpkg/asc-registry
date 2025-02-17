@@ -54676,6 +54676,10 @@
       "baseline": "2023-04-13",
       "port-version": 1
     },
+    "libxmp-4-6-0-0": {
+      "baseline": "4.6.0",
+      "port-version": 0
+    },
     "libxmp-lite-4-4-1-0": {
       "baseline": "4.4.1",
       "port-version": 0
