@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qpid-proton-0-38-0-2",
+      "version": "0.38.0",
+      "port-version": 2
+    }
+  ]
+}

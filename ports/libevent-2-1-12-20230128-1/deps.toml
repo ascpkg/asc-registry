@@ -1,0 +1,8 @@
+old = "libevent"
+new = "libevent-2-1-12-20230128-1"
+
+[deps]
+libevent-2-1-12-20230128-1 = "libevent"
+openssl-3-3-1-0 = "openssl"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gz-common5-5-4-1-2",
+      "version": "5.4.1",
+      "port-version": 2
+    }
+  ]
+}

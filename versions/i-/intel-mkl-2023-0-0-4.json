@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/intel-mkl-2023-0-0-4",
+      "version": "2023.0.0",
+      "port-version": 4
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libevent-2-1-12-20230128-1",
+      "version": "2.1.12+20230128",
+      "port-version": 1
+    }
+  ]
+}

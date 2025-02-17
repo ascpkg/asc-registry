@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cfitsio-3-49-6",
+      "version": "3.49",
+      "port-version": 6
+    }
+  ]
+}
