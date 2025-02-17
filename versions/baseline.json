@@ -35992,6 +35992,10 @@
       "baseline": "0.7.3",
       "port-version": 0
     },
+    "foonathan-memory-0-7-3-1": {
+      "baseline": "0.7.3",
+      "port-version": 1
+    },
     "foonathan-memory-2019-07-21-0": {
       "baseline": "2019-07-21",
       "port-version": 0
