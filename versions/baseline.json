@@ -49068,6 +49068,10 @@
       "baseline": "0.7.6",
       "port-version": 9
     },
+    "gtsam-4-2-0-0": {
+      "baseline": "4.2.0",
+      "port-version": 0
+    },
     "gtsam-4-2a9-0": {
       "baseline": "4.2a9",
       "port-version": 0
