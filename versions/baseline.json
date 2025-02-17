@@ -19172,6 +19172,10 @@
       "baseline": "1.4.0",
       "port-version": 0
     },
+    "lcm-1-4-0-1": {
+      "baseline": "1.4.0",
+      "port-version": 1
+    },
     "lcms-2-11-0": {
       "baseline": "2.11",
       "port-version": 0
