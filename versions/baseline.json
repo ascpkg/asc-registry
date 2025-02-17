@@ -53840,6 +53840,10 @@
       "baseline": "2020-11-24",
       "port-version": 0
     },
+    "lightningscanner-1-0-0-0": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
     "lilv-0-24-10-0": {
       "baseline": "0.24.10",
       "port-version": 0
