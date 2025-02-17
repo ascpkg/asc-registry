@@ -1276,6 +1276,10 @@
       "baseline": "chromium_4472",
       "port-version": 7
     },
+    "angle-chromium-4472-8": {
+      "baseline": "chromium_4472",
+      "port-version": 8
+    },
     "antlr4-4-10-1-0": {
       "baseline": "4.10.1",
       "port-version": 0
@@ -6211,6 +6215,10 @@
     "boost-1-81-0-1": {
       "baseline": "1.81.0",
       "port-version": 1
+    },
+    "boost-1-81-0-2": {
+      "baseline": "1.81.0",
+      "port-version": 2
     },
     "boost-accumulators-1-66-0-0": {
       "baseline": "1.66.0",
@@ -20804,6 +20812,10 @@
       "baseline": "2022-03-14",
       "port-version": 1
     },
+    "colmap-2022-03-14-2": {
+      "baseline": "2022-03-14",
+      "port-version": 2
+    },
     "colmap-3-6-0": {
       "baseline": "3.6",
       "port-version": 0
@@ -23739,6 +23751,10 @@
     "dcmtk-3-6-7-3": {
       "baseline": "3.6.7",
       "port-version": 3
+    },
+    "dcmtk-3-6-7-4": {
+      "baseline": "3.6.7",
+      "port-version": 4
     },
     "debug-assert-1-3-3-0": {
       "baseline": "1.3.3",
@@ -27415,6 +27431,10 @@
     "farmhash-1-1-4": {
       "baseline": "1.1",
       "port-version": 4
+    },
+    "farmhash-1-1-5": {
+      "baseline": "1.1",
+      "port-version": 5
     },
     "fast-cpp-csv-parser-2019-08-14-0": {
       "baseline": "2019-08-14",
@@ -33436,6 +33456,10 @@
       "baseline": "alias",
       "port-version": 1
     },
+    "googleapis-alias-2": {
+      "baseline": "alias",
+      "port-version": 2
+    },
     "gperf-3-1-1-0": {
       "baseline": "3.1-1",
       "port-version": 0
@@ -34331,6 +34355,10 @@
     "gtest-1-12-1-0": {
       "baseline": "1.12.1",
       "port-version": 0
+    },
+    "gtest-1-12-1-1": {
+      "baseline": "1.12.1",
+      "port-version": 1
     },
     "gtest-1-8-0": {
       "baseline": "1.8",
@@ -36843,6 +36871,10 @@
     "imgui-sfml-2-5-2": {
       "baseline": "2.5",
       "port-version": 2
+    },
+    "imgui-sfml-2-5-3": {
+      "baseline": "2.5",
+      "port-version": 3
     },
     "imguizmo-1-83-0": {
       "baseline": "1.83",
@@ -42179,6 +42211,10 @@
     "libgeotiff-1-7-1-1": {
       "baseline": "1.7.1",
       "port-version": 1
+    },
+    "libgeotiff-1-7-1-2": {
+      "baseline": "1.7.1",
+      "port-version": 2
     },
     "libgit2-0-26-0-0": {
       "baseline": "0.26.0",
@@ -53852,6 +53888,10 @@
       "baseline": "7.70",
       "port-version": 7
     },
+    "nmap-7-70-8": {
+      "baseline": "7.70",
+      "port-version": 8
+    },
     "nmslib-1-7-2-0": {
       "baseline": "1.7.2",
       "port-version": 0
@@ -56503,6 +56543,10 @@
     "opengl-2022-12-04-0": {
       "baseline": "2022-12-04",
       "port-version": 0
+    },
+    "opengl-2022-12-04-1": {
+      "baseline": "2022-12-04",
+      "port-version": 1
     },
     "opengl-registry-2018-06-30-0": {
       "baseline": "2018-06-30",
@@ -61051,6 +61095,10 @@
     "poppler-23-1-0-0": {
       "baseline": "23.1.0",
       "port-version": 0
+    },
+    "poppler-23-1-0-1": {
+      "baseline": "23.1.0",
+      "port-version": 1
     },
     "popsift-0-9-0": {
       "baseline": "0.9",
@@ -79356,6 +79404,10 @@
       "baseline": "2.3.11",
       "port-version": 1
     },
+    "unixodbc-2-3-11-2": {
+      "baseline": "2.3.11",
+      "port-version": 2
+    },
     "unixodbc-2-3-7-0": {
       "baseline": "2.3.7",
       "port-version": 0
@@ -81188,6 +81240,10 @@
       "baseline": "1.1.82.1",
       "port-version": 2
     },
+    "vulkan-1-1-82-1-3": {
+      "baseline": "1.1.82.1",
+      "port-version": 3
+    },
     "vulkan-headers-1-2-157-0": {
       "baseline": "1.2.157",
       "port-version": 0
@@ -82831,6 +82887,10 @@
     "xerces-c-3-2-4-1": {
       "baseline": "3.2.4",
       "port-version": 1
+    },
+    "xerces-c-3-2-4-2": {
+      "baseline": "3.2.4",
+      "port-version": 2
     },
     "xercesc-3-1-4-0": {
       "baseline": "3.1.4",
