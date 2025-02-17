@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/unrar-6-1-7-1",
+      "version": "6.1.7",
+      "port-version": 1
+    }
+  ]
+}
