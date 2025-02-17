@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/smpeg2-2-0-0-10",
+      "version": "2.0.0",
+      "port-version": 10
+    }
+  ]
+}
