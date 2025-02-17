@@ -13860,6 +13860,10 @@
       "baseline": "66",
       "port-version": 3
     },
+    "cspice-66-4": {
+      "baseline": "66",
+      "port-version": 4
+    },
     "ctbignum-2019-08-02-0": {
       "baseline": "2019-08-02",
       "port-version": 0
