@@ -12336,6 +12336,10 @@
       "baseline": "4.2-11",
       "port-version": 0
     },
+    "ffmpeg-4-2-12-0": {
+      "baseline": "4.2-12",
+      "port-version": 0
+    },
     "ffmpeg-4-2-2-0": {
       "baseline": "4.2-2",
       "port-version": 0
@@ -12374,6 +12378,10 @@
     },
     "ffnvcodec-9-1-23-1-0": {
       "baseline": "9.1.23.1",
+      "port-version": 0
+    },
+    "ffnvcodec-9-1-23-1-1-0": {
+      "baseline": "9.1.23.1-1",
       "port-version": 0
     },
     "fftw3-3-3-6-p11-0": {
@@ -15992,6 +16000,10 @@
       "baseline": "67.1-1",
       "port-version": 0
     },
+    "icu-67-1-2-0": {
+      "baseline": "67.1-2",
+      "port-version": 0
+    },
     "ideviceinstaller-1-1-2-23-1-0": {
       "baseline": "1.1.2.23-1",
       "port-version": 0
@@ -19252,6 +19264,10 @@
       "baseline": "12.2-2",
       "port-version": 0
     },
+    "libpq-12-2-3-0": {
+      "baseline": "12.2-3",
+      "port-version": 0
+    },
     "libpq-9-6-1-0": {
       "baseline": "9.6.1",
       "port-version": 0
@@ -20342,6 +20358,10 @@
     },
     "libvpx-1-8-1-6-0": {
       "baseline": "1.8.1-6",
+      "port-version": 0
+    },
+    "libvpx-1-8-1-7-0": {
+      "baseline": "1.8.1-7",
       "port-version": 0
     },
     "libwandio-4-2-1-0": {
@@ -32498,6 +32518,10 @@
     },
     "tensorflow-cc-1-14-2-0": {
       "baseline": "1.14-2",
+      "port-version": 0
+    },
+    "tensorflow-cc-1-14-3-0": {
+      "baseline": "1.14-3",
       "port-version": 0
     },
     "tesseract-3-05-01-0": {
