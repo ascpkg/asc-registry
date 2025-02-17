@@ -13604,6 +13604,10 @@
       "baseline": "2019-08-12-4",
       "port-version": 0
     },
+    "dmlc-2019-08-12-5": {
+      "baseline": "2019-08-12",
+      "port-version": 5
+    },
     "docopt-2018-04-16-2-0": {
       "baseline": "2018-04-16-2",
       "port-version": 0
@@ -17027,6 +17031,10 @@
     "gdcm-3-0-7-0": {
       "baseline": "3.0.7",
       "port-version": 0
+    },
+    "gdcm-3-0-7-1": {
+      "baseline": "3.0.7",
+      "port-version": 1
     },
     "gdcm2-2-6-7-0": {
       "baseline": "2.6.7",
@@ -21639,6 +21647,10 @@
     "libarchive-3-4-3-2": {
       "baseline": "3.4.3",
       "port-version": 2
+    },
+    "libarchive-3-4-3-3": {
+      "baseline": "3.4.3",
+      "port-version": 3
     },
     "libass-0-14-0-0": {
       "baseline": "0.14.0",
@@ -29932,6 +29944,10 @@
       "baseline": "4.3.0",
       "port-version": 0
     },
+    "opencv-4-3-0-1": {
+      "baseline": "4.3.0",
+      "port-version": 1
+    },
     "opencv2-2-4-13-7-0": {
       "baseline": "2.4.13.7",
       "port-version": 0
@@ -29956,6 +29972,10 @@
       "baseline": "2.4.13.7",
       "port-version": 4
     },
+    "opencv2-2-4-13-7-5": {
+      "baseline": "2.4.13.7",
+      "port-version": 5
+    },
     "opencv3-3-4-10-0": {
       "baseline": "3.4.10",
       "port-version": 0
@@ -29971,6 +29991,10 @@
     "opencv3-3-4-10-4": {
       "baseline": "3.4.10",
       "port-version": 4
+    },
+    "opencv3-3-4-10-5": {
+      "baseline": "3.4.10",
+      "port-version": 5
     },
     "opencv3-3-4-3-10-0": {
       "baseline": "3.4.3-10",
@@ -30047,6 +30071,10 @@
     "opencv4-4-3-0-4": {
       "baseline": "4.3.0",
       "port-version": 4
+    },
+    "opencv4-4-3-0-5": {
+      "baseline": "4.3.0",
+      "port-version": 5
     },
     "opendnp3-2-3-2-0": {
       "baseline": "2.3.2",
@@ -40539,6 +40567,10 @@
     "tesseract-4-1-1-5": {
       "baseline": "4.1.1",
       "port-version": 5
+    },
+    "tesseract-4-1-1-6": {
+      "baseline": "4.1.1",
+      "port-version": 6
     },
     "tfhe-1-0-1-0": {
       "baseline": "1.0.1",
