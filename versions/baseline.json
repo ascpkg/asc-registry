@@ -26628,6 +26628,10 @@
       "baseline": "1.12.9",
       "port-version": 1
     },
+    "ogre-1-12-9-2": {
+      "baseline": "1.12.9",
+      "port-version": 2
+    },
     "ogre-1-9-0-0": {
       "baseline": "1.9.0",
       "port-version": 0
