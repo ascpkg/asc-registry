@@ -101700,6 +101700,10 @@
       "baseline": "20.57.0",
       "port-version": 0
     },
+    "uwebsockets-20-59-0-0": {
+      "baseline": "20.59.0",
+      "port-version": 0
+    },
     "uwebsockets-20-6-0-0": {
       "baseline": "20.6.0",
       "port-version": 0
