@@ -104456,6 +104456,10 @@
       "baseline": "1.13",
       "port-version": 6
     },
+    "rapidxml-1-13-7": {
+      "baseline": "1.13",
+      "port-version": 7
+    },
     "rapidxml-ns-1-13-04674e3-0": {
       "baseline": "1.13-04674e3",
       "port-version": 0
