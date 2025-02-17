@@ -3012,6 +3012,10 @@
       "baseline": "2.38.0",
       "port-version": 6
     },
+    "atk-2-38-0-7": {
+      "baseline": "2.38.0",
+      "port-version": 7
+    },
     "atkmm-2-24-2-0": {
       "baseline": "2.24.2",
       "port-version": 0
