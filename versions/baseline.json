@@ -37136,6 +37136,10 @@
       "baseline": "5.12.0",
       "port-version": 1
     },
+    "ecal-5-13-2-0": {
+      "baseline": "5.13.2",
+      "port-version": 0
+    },
     "ecm-5-32-0-0": {
       "baseline": "5.32.0",
       "port-version": 0
