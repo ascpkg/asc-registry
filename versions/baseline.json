@@ -52788,6 +52788,10 @@
       "baseline": "5.7.0",
       "port-version": 1
     },
+    "sundials-5-8-0-0": {
+      "baseline": "5.8.0",
+      "port-version": 0
+    },
     "superlu-2020-01-07-0": {
       "baseline": "2020-01-07",
       "port-version": 0
