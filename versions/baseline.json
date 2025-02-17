@@ -4468,6 +4468,10 @@
       "baseline": "1.75.0",
       "port-version": 0
     },
+    "boost-context-1-75-0-1": {
+      "baseline": "1.75.0",
+      "port-version": 1
+    },
     "boost-contract-1-67-0-0": {
       "baseline": "1.67.0",
       "port-version": 0
