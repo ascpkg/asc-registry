@@ -26948,6 +26948,10 @@
       "baseline": "v3.4.0",
       "port-version": 0
     },
+    "cppp-reiconv-2-1-0-0": {
+      "baseline": "2.1.0",
+      "port-version": 0
+    },
     "cpprestsdk-2-10-0-0": {
       "baseline": "2.10.0",
       "port-version": 0
