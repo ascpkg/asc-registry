@@ -25840,6 +25840,10 @@
       "baseline": "4.7.3",
       "port-version": 4
     },
+    "netcdf-c-4-7-4-0": {
+      "baseline": "4.7.4",
+      "port-version": 0
+    },
     "netcdf-cxx4-4-3-0-0": {
       "baseline": "4.3.0",
       "port-version": 0
@@ -26322,6 +26326,10 @@
     },
     "nvtt-2-1-1-0": {
       "baseline": "2.1.1",
+      "port-version": 0
+    },
+    "nvtt-2-1-2-0": {
+      "baseline": "2.1.2",
       "port-version": 0
     },
     "oatpp-1-0-0-0": {
