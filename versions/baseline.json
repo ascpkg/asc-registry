@@ -58692,6 +58692,10 @@
       "baseline": "2021-03-25",
       "port-version": 0
     },
+    "spirv-reflect-2021-12-31-0": {
+      "baseline": "2021-12-31",
+      "port-version": 0
+    },
     "spirv-tools--0": {
       "baseline": "",
       "port-version": 0
