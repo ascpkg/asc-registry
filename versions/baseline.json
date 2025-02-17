@@ -50716,6 +50716,10 @@
       "baseline": "2.0.3",
       "port-version": 1
     },
+    "sparsehash-2-0-4-0": {
+      "baseline": "2.0.4",
+      "port-version": 0
+    },
     "sparsepp-1-22-0": {
       "baseline": "1.22",
       "port-version": 0
