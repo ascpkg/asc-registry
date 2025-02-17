@@ -55608,6 +55608,10 @@
       "baseline": "5.1.0",
       "port-version": 2
     },
+    "joltphysics-5-2-0-0": {
+      "baseline": "5.2.0",
+      "port-version": 0
+    },
     "josuttis-jthread-2020-07-21-0": {
       "baseline": "2020-07-21",
       "port-version": 0
