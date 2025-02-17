@@ -86040,6 +86040,10 @@
       "baseline": "0.10.3",
       "port-version": 0
     },
+    "podofo-0-10-4-0": {
+      "baseline": "0.10.4",
+      "port-version": 0
+    },
     "podofo-0-9-5-0": {
       "baseline": "0.9.5",
       "port-version": 0

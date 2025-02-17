@@ -1,0 +1,15 @@
+old = "podofo"
+new = "podofo-0-10-4-0"
+
+[deps]
+fontconfig-2-15-0-1 = "fontconfig"
+freetype-2-13-3-0 = "freetype"
+libjpeg-turbo-3-0-4-0 = "libjpeg-turbo"
+libpng-1-6-43-3 = "libpng"
+libxml2-2-11-9-0 = "libxml2"
+openssl-3-3-2-1 = "openssl"
+podofo-0-10-4-0 = "podofo"
+tiff-4-6-0-5 = "tiff"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
+zlib-1-3-1-0 = "zlib"
