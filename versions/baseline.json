@@ -7896,6 +7896,10 @@
       "baseline": "2.4.0-3",
       "port-version": 0
     },
+    "duktape-2-4-0-4-0": {
+      "baseline": "2.4.0-4",
+      "port-version": 0
+    },
     "dx-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
