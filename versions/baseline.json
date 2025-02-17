@@ -2400,6 +2400,10 @@
       "baseline": "0.7.6",
       "port-version": 1
     },
+    "aws-c-mqtt-0-7-6-2": {
+      "baseline": "0.7.6",
+      "port-version": 2
+    },
     "aws-c-s3-0-1-25-0": {
       "baseline": "0.1.25",
       "port-version": 0
