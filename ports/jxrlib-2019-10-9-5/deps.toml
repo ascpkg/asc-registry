@@ -1,0 +1,5 @@
+old = "jxrlib"
+new = "jxrlib-2019-10-9-5"
+
+[deps]
+vcpkg-cmake-2022-08-18-0 = "vcpkg-cmake"
