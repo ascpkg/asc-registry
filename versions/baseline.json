@@ -101432,6 +101432,10 @@
       "baseline": "2.7.0",
       "port-version": 1
     },
+    "utf8proc-2-9-0-0": {
+      "baseline": "2.9.0",
+      "port-version": 0
+    },
     "utfcpp-2-3-4-0": {
       "baseline": "2.3.4",
       "port-version": 0
