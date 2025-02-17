@@ -1,0 +1,5 @@
+old = "qt5-webview"
+new = "qt5-webview-5-15-10-0"
+
+[deps]
+qt5-declarative-5-15-10-0 = "qt5-declarative"
