@@ -844,6 +844,10 @@
       "baseline": "4.8",
       "port-version": 0
     },
+    "antlr4-4-8-1": {
+      "baseline": "4.8",
+      "port-version": 1
+    },
     "any-lite-0-2-0-0": {
       "baseline": "0.2.0",
       "port-version": 0
@@ -33223,6 +33227,10 @@
     "python3-3-9-0-1": {
       "baseline": "3.9.0",
       "port-version": 1
+    },
+    "python3-3-9-0-2": {
+      "baseline": "3.9.0",
+      "port-version": 2
     },
     "qca-2-2-0-0": {
       "baseline": "2.2.0",
