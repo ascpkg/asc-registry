@@ -1,0 +1,7 @@
+old = "glew"
+new = "glew-2-2-0-5"
+
+[deps]
+opengl-2022-12-04-3 = "opengl"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
