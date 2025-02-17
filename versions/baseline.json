@@ -16156,6 +16156,10 @@
       "baseline": "1.2.137",
       "port-version": 0
     },
+    "libimobiledevice-1-2-185-0": {
+      "baseline": "1.2.185",
+      "port-version": 0
+    },
     "libimobiledevice-1-2-76-0": {
       "baseline": "1.2.76",
       "port-version": 0
@@ -29762,6 +29766,10 @@
     },
     "usbmuxd-1-2-76-0": {
       "baseline": "1.2.76",
+      "port-version": 0
+    },
+    "usbmuxd-1-2-76-1-0": {
+      "baseline": "1.2.76-1",
       "port-version": 0
     },
     "usd-0-8-4-0": {
