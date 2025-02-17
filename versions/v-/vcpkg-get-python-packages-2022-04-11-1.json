@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/vcpkg-get-python-packages-2022-04-11-1",
+      "version-date": "2022-04-11",
+      "port-version": 1
+    }
+  ]
+}
