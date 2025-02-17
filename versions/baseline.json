@@ -80684,6 +80684,10 @@
       "baseline": "1.14.1",
       "port-version": 0
     },
+    "wolfmqtt-1-15-0-0": {
+      "baseline": "1.15.0",
+      "port-version": 0
+    },
     "wolfssl-5-3-0-0": {
       "baseline": "5.3.0",
       "port-version": 0
@@ -80696,6 +80700,10 @@
       "baseline": "5.5.0",
       "port-version": 0
     },
+    "wolfssl-5-5-4-0": {
+      "baseline": "5.5.4",
+      "port-version": 0
+    },
     "wolftpm-2-4-0-0": {
       "baseline": "2.4.0",
       "port-version": 0
@@ -80706,6 +80714,10 @@
     },
     "wolftpm-2-6-0-0": {
       "baseline": "2.6.0",
+      "port-version": 0
+    },
+    "wolftpm-2-7-0-0": {
+      "baseline": "2.7.0",
       "port-version": 0
     },
     "wordnet-3-0-0": {
