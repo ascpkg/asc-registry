@@ -1644,6 +1644,10 @@
       "baseline": "0.9.4",
       "port-version": 0
     },
+    "xxhash-0-6-2-0": {
+      "baseline": "0.6.2",
+      "port-version": 0
+    },
     "yaml-cpp-0-5-4-candidate-0": {
       "baseline": "0.5.4 candidate",
       "port-version": 0
