@@ -1,0 +1,10 @@
+{
+  "name": "boost-pfr-1-79-0-0",
+  "version": "1.79.0",
+  "description": "Boost pfr module",
+  "homepage": "https://github.com/boostorg/pfr",
+  "license": "BSL-1.0",
+  "dependencies": [
+    "boost-vcpkg-helpers"
+  ]
+}
