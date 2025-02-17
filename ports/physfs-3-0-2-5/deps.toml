@@ -1,0 +1,5 @@
+old = "physfs"
+new = "physfs-3-0-2-5"
+
+[deps]
+zlib-1-2-11-10 = "zlib"
