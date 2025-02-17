@@ -1,0 +1,5 @@
+old = "gsoap"
+new = "gsoap-2-8-112-2"
+
+[deps]
+vcpkg-msbuild-2023-08-08-0 = "vcpkg-msbuild"

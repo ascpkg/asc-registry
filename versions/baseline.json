@@ -39732,6 +39732,10 @@
       "baseline": "2.8.112",
       "port-version": 1
     },
+    "gsoap-2-8-112-2": {
+      "baseline": "2.8.112",
+      "port-version": 2
+    },
     "gsoap-2-8-78-1-0": {
       "baseline": "2.8.78-1",
       "port-version": 0
