@@ -36572,6 +36572,10 @@
       "baseline": "2019-12-31",
       "port-version": 1
     },
+    "memorymodule-2019-12-31-2": {
+      "baseline": "2019-12-31",
+      "port-version": 2
+    },
     "mesa-20-2-2-0": {
       "baseline": "20.2.2",
       "port-version": 0
