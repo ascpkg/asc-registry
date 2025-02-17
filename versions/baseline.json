@@ -26516,6 +26516,10 @@
       "baseline": "2024.05.27.00",
       "port-version": 0
     },
+    "cachelib-2024-06-03-00-0": {
+      "baseline": "2024.06.03.00",
+      "port-version": 0
+    },
     "caf-0-15-6-0": {
       "baseline": "0.15.6",
       "port-version": 0
@@ -38796,6 +38800,10 @@
       "baseline": "2024.05.27.00",
       "port-version": 0
     },
+    "fbthrift-2024-06-03-00-0": {
+      "baseline": "2024.06.03.00",
+      "port-version": 0
+    },
     "fcl-0-5-0-1-0": {
       "baseline": "0.5.0-1",
       "port-version": 0
@@ -39818,6 +39826,10 @@
     },
     "fizz-2024-05-27-00-0": {
       "baseline": "2024.05.27.00",
+      "port-version": 0
+    },
+    "fizz-2024-06-03-00-0": {
+      "baseline": "2024.06.03.00",
       "port-version": 0
     },
     "flagpp-2-1-0": {
@@ -41034,6 +41046,10 @@
     },
     "folly-2024-05-27-00-0": {
       "baseline": "2024.05.27.00",
+      "port-version": 0
+    },
+    "folly-2024-06-03-00-0": {
+      "baseline": "2024.06.03.00",
       "port-version": 0
     },
     "folly-v2017-05-08-00-0": {
@@ -71804,6 +71820,10 @@
       "baseline": "2024.05.27.00",
       "port-version": 0
     },
+    "mvfst-2024-06-03-00-0": {
+      "baseline": "2024.06.03.00",
+      "port-version": 0
+    },
     "mygui-2020-06-17-0": {
       "baseline": "2020-06-17",
       "port-version": 0
@@ -83682,6 +83702,10 @@
     },
     "proxygen-2024-05-27-00-0": {
       "baseline": "2024.05.27.00",
+      "port-version": 0
+    },
+    "proxygen-2024-06-03-00-0": {
+      "baseline": "2024.06.03.00",
       "port-version": 0
     },
     "proxywrapper-1-0-0-0": {
@@ -110758,6 +110782,10 @@
     },
     "wangle-2024-05-27-00-0": {
       "baseline": "2024.05.27.00",
+      "port-version": 0
+    },
+    "wangle-2024-06-03-00-0": {
+      "baseline": "2024.06.03.00",
       "port-version": 0
     },
     "wangle-v2018-07-30-00-1-0": {
