@@ -27852,6 +27852,10 @@
       "baseline": "1.8.0-1",
       "port-version": 0
     },
+    "cub-2-1-0-0": {
+      "baseline": "2.1.0",
+      "port-version": 0
+    },
     "cubeb-2022-07-22-0": {
       "baseline": "2022-07-22",
       "port-version": 0
