@@ -1,0 +1,9 @@
+old = "opencv"
+new = "opencv-3-3-1-2-0"
+
+[deps]
+libjpeg-turbo-1-5-2-2-0 = "libjpeg-turbo"
+libpng-1-6-32-1-0 = "libpng"
+protobuf-3-4-1-1-0 = "protobuf"
+tiff-4-0-8-1-0 = "tiff"
+zlib-1-2-11-3-0 = "zlib"
