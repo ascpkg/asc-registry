@@ -1,0 +1,10 @@
+old = "sdformat9"
+new = "sdformat9-9-4-0-2"
+
+[deps]
+ignition-math6-6-6-0-2 = "ignition-math6"
+tinyxml-2-6-2-8 = "tinyxml"
+urdfdom-1-0-4-4 = "urdfdom"
+urdfdom-headers-1-0-5-2 = "urdfdom-headers"
+vcpkg-cmake-2021-12-05-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-01-0 = "vcpkg-cmake-config"
