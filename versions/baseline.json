@@ -256,6 +256,10 @@
       "baseline": "0",
       "port-version": 0
     },
+    "aubio-0-4-6-0": {
+      "baseline": "0.4.6",
+      "port-version": 0
+    },
     "aubio-0-46-0": {
       "baseline": "0.46",
       "port-version": 0
