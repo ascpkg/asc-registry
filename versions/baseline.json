@@ -12928,6 +12928,10 @@
       "baseline": "2.5",
       "port-version": 7
     },
+    "ccfits-2-5-8": {
+      "baseline": "2.5",
+      "port-version": 8
+    },
     "cctag-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
@@ -13551,6 +13555,10 @@
     "chartdir-7-0-0-0": {
       "baseline": "7.0.0",
       "port-version": 0
+    },
+    "chartdir-7-0-0-1": {
+      "baseline": "7.0.0",
+      "port-version": 1
     },
     "check-0-12-0-1-0": {
       "baseline": "0.12.0-1",
