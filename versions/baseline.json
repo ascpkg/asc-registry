@@ -105608,6 +105608,10 @@
       "baseline": "23.5",
       "port-version": 3
     },
+    "usd-24-5-0": {
+      "baseline": "24.5",
+      "port-version": 0
+    },
     "usearch-2-3-2-0": {
       "baseline": "2.3.2",
       "port-version": 0
