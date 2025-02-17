@@ -3108,6 +3108,10 @@
       "baseline": "may2018",
       "port-version": 0
     },
+    "directxmesh-may2018-9f0b4e3-0": {
+      "baseline": "may2018-9f0b4e3",
+      "port-version": 0
+    },
     "directxmesh-oct2016-0": {
       "baseline": "oct2016",
       "port-version": 0
