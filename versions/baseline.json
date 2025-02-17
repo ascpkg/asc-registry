@@ -54740,6 +54740,10 @@
       "baseline": "19.5.0",
       "port-version": 0
     },
+    "uwebsockets-19-9-0-0": {
+      "baseline": "19.9.0",
+      "port-version": 0
+    },
     "v-hacd-3-2-0-0": {
       "baseline": "3.2.0",
       "port-version": 0
