@@ -1,0 +1,5 @@
+old = "openssl-unix"
+new = "openssl-unix-1-1-1h-1"
+
+[deps]
+openssl-1-1-1h-1 = "openssl"
