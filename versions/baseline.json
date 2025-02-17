@@ -47164,6 +47164,10 @@
       "baseline": "1.10",
       "port-version": 2
     },
+    "libleidenalg-0-10-0-0": {
+      "baseline": "0.10.0",
+      "port-version": 0
+    },
     "libleidenalg-0-9-0-0": {
       "baseline": "0.9.0",
       "port-version": 0
