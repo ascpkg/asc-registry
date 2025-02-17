@@ -21804,6 +21804,10 @@
       "baseline": "2.9.0-2",
       "port-version": 0
     },
+    "botan-3-1-1-0": {
+      "baseline": "3.1.1",
+      "port-version": 0
+    },
     "box2d-2-3-1-374664b-0": {
       "baseline": "2.3.1-374664b",
       "port-version": 0
@@ -75003,6 +75007,10 @@
     "qca-2-3-5-2": {
       "baseline": "2.3.5",
       "port-version": 2
+    },
+    "qca-2-3-7-0": {
+      "baseline": "2.3.7",
+      "port-version": 0
     },
     "qcustomplot-2-0-1-1-0": {
       "baseline": "2.0.1-1",
