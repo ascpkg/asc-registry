@@ -62724,6 +62724,10 @@
       "baseline": "1.8.0",
       "port-version": 1
     },
+    "libgit2-1-9-0-0": {
+      "baseline": "1.9.0",
+      "port-version": 0
+    },
     "libgme-0-6-3-0": {
       "baseline": "0.6.3",
       "port-version": 0
