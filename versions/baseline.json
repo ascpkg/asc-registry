@@ -26376,6 +26376,10 @@
       "baseline": "2.1-2",
       "port-version": 0
     },
+    "tabulate-2019-01-06-0": {
+      "baseline": "2019-01-06",
+      "port-version": 0
+    },
     "tacopie-2-4-1-0": {
       "baseline": "2.4.1",
       "port-version": 0
