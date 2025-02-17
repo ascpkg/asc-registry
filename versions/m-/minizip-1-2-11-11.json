@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/minizip-1-2-11-11",
+      "version-semver": "1.2.11",
+      "port-version": 11
+    }
+  ]
+}
