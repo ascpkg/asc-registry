@@ -6728,6 +6728,10 @@
       "baseline": "3.2.19-3",
       "port-version": 0
     },
+    "cgicc-3-2-19-4-0": {
+      "baseline": "3.2.19-4",
+      "port-version": 0
+    },
     "cgl-0-60-2-1-0": {
       "baseline": "0.60.2-1",
       "port-version": 0
@@ -12464,6 +12468,10 @@
       "baseline": "2.4-4",
       "port-version": 0
     },
+    "gsl-2-4-5-0": {
+      "baseline": "2.4-5",
+      "port-version": 0
+    },
     "gsl-20170425-8b320e3f5d016f953e55dfc7ec8694c1349d3fe4-0": {
       "baseline": "20170425-8b320e3f5d016f953e55dfc7ec8694c1349d3fe4",
       "port-version": 0
@@ -14928,6 +14936,10 @@
       "baseline": "2.2.0",
       "port-version": 0
     },
+    "libidn2-2-2-0-1-0": {
+      "baseline": "2.2.0-1",
+      "port-version": 0
+    },
     "libigl-2-1-0-1-0": {
       "baseline": "2.1.0-1",
       "port-version": 0
@@ -15222,6 +15234,10 @@
     },
     "libmicrohttpd-0-9-63-1-0": {
       "baseline": "0.9.63-1",
+      "port-version": 0
+    },
+    "libmicrohttpd-0-9-63-2-0": {
+      "baseline": "0.9.63-2",
       "port-version": 0
     },
     "libmikmod--0": {
@@ -15590,6 +15606,10 @@
     },
     "libosip2-5-1-0-1-0": {
       "baseline": "5.1.0-1",
+      "port-version": 0
+    },
+    "libosip2-5-1-0-2-0": {
+      "baseline": "5.1.0-2",
       "port-version": 0
     },
     "libp7-baical-4-1-0": {
