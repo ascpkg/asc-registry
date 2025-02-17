@@ -71976,6 +71976,10 @@
       "baseline": "4.8",
       "port-version": 1
     },
+    "restbed-4-8-2": {
+      "baseline": "4.8",
+      "port-version": 2
+    },
     "restc-cpp-0-10-0-0": {
       "baseline": "0.10.0",
       "port-version": 0
