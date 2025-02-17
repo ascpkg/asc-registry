@@ -52552,6 +52552,10 @@
       "baseline": "0.10.2",
       "port-version": 0
     },
+    "libcbor-0-11-0-0": {
+      "baseline": "0.11.0",
+      "port-version": 0
+    },
     "libcbor-0-8-0-0": {
       "baseline": "0.8.0",
       "port-version": 0
