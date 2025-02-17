@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/openldap-2-5-17-0",
+      "version": "2.5.17",
+      "port-version": 0
+    }
+  ]
+}
