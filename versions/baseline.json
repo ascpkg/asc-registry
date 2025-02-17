@@ -38228,6 +38228,22 @@
       "baseline": "0.10.1",
       "port-version": 6
     },
+    "gz-cmake3-3-0-1-0": {
+      "baseline": "3.0.1",
+      "port-version": 0
+    },
+    "gz-math7-7-0-2-0": {
+      "baseline": "7.0.2",
+      "port-version": 0
+    },
+    "gz-tools2-2-0-0-0": {
+      "baseline": "2.0.0",
+      "port-version": 0
+    },
+    "gz-utils2-2-0-0-0": {
+      "baseline": "2.0.0",
+      "port-version": 0
+    },
     "gzip-hpp-0-1-0-0": {
       "baseline": "0.1.0",
       "port-version": 0
