@@ -47360,6 +47360,10 @@
       "baseline": "3.0.0",
       "port-version": 1
     },
+    "rbdl-orb-3-1-2-0": {
+      "baseline": "3.1.2",
+      "port-version": 0
+    },
     "rdkafka-v1-0-0-0": {
       "baseline": "v1.0.0",
       "port-version": 0
