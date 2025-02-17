@@ -26052,6 +26052,10 @@
       "baseline": "0.6.4",
       "port-version": 0
     },
+    "restinio-0-6-5-0": {
+      "baseline": "0.6.5",
+      "port-version": 0
+    },
     "rhash-1-3-5-0": {
       "baseline": "1.3.5",
       "port-version": 0
