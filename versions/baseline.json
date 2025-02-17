@@ -14516,6 +14516,10 @@
       "baseline": "1.1-2",
       "port-version": 0
     },
+    "mimalloc-2019-06-25-0": {
+      "baseline": "2019-06-25",
+      "port-version": 0
+    },
     "minhook-1-3-3-0": {
       "baseline": "1.3.3",
       "port-version": 0
