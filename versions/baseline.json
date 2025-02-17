@@ -6040,6 +6040,10 @@
       "baseline": "jun2017-3",
       "port-version": 0
     },
+    "cpp-httplib-0-2-0-0": {
+      "baseline": "0.2.0",
+      "port-version": 0
+    },
     "cpp-netlib-0-13-0-2-0": {
       "baseline": "0.13.0-2",
       "port-version": 0
