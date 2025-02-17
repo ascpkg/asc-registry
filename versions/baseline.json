@@ -97188,6 +97188,10 @@
       "baseline": "0.9.5.0",
       "port-version": 1
     },
+    "usrsctp-0-9-5-0-2": {
+      "baseline": "0.9.5.0",
+      "port-version": 2
+    },
     "usrsctp-0db9691-0": {
       "baseline": "0db9691",
       "port-version": 0
