@@ -69684,6 +69684,10 @@
       "baseline": "0.20.13",
       "port-version": 4
     },
+    "rtabmap-0-20-16-0": {
+      "baseline": "0.20.16",
+      "port-version": 0
+    },
     "rtabmap-0-20-3-0": {
       "baseline": "0.20.3",
       "port-version": 0
