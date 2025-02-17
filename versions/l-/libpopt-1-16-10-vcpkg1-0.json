@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libpopt-1-16-10-vcpkg1-0",
+      "version": "1.16-10~vcpkg1",
+      "port-version": 0
+    }
+  ]
+}
