@@ -17844,6 +17844,10 @@
       "baseline": "0.9.3",
       "port-version": 0
     },
+    "libssh-0-9-3-1-0": {
+      "baseline": "0.9.3-1",
+      "port-version": 0
+    },
     "libssh2-1-8-0-0": {
       "baseline": "1.8.0",
       "port-version": 0
@@ -19486,6 +19490,10 @@
     },
     "mbedtls-2-16-3-0": {
       "baseline": "2.16.3",
+      "port-version": 0
+    },
+    "mbedtls-2-16-3-1-0": {
+      "baseline": "2.16.3-1",
       "port-version": 0
     },
     "mbedtls-2-6-1-0": {
