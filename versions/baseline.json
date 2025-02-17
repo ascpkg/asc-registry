@@ -92992,6 +92992,10 @@
       "baseline": "6.7.0",
       "port-version": 0
     },
+    "qtwebengine-6-7-0-1": {
+      "baseline": "6.7.0",
+      "port-version": 1
+    },
     "qtwebsockets-6-2-0-0": {
       "baseline": "6.2.0",
       "port-version": 0
