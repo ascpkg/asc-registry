@@ -1,0 +1,7 @@
+old = "json-dto"
+new = "json-dto-0-2-15-0"
+
+[deps]
+rapidjson-2020-09-14-1 = "rapidjson"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"
