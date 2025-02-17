@@ -99188,6 +99188,10 @@
       "baseline": "1.7.0",
       "port-version": 1
     },
+    "stringzilla-3-7-0-0": {
+      "baseline": "3.7.0",
+      "port-version": 0
+    },
     "strong-type-12-0": {
       "baseline": "12",
       "port-version": 0
