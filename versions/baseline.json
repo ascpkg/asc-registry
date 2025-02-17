@@ -39220,6 +39220,10 @@
       "baseline": "0.7.0",
       "port-version": 0
     },
+    "hnswlib-0-7-0-1": {
+      "baseline": "0.7.0",
+      "port-version": 1
+    },
     "hps-2022-01-18-0": {
       "baseline": "2022-01-18",
       "port-version": 0
