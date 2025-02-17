@@ -692,6 +692,10 @@
       "baseline": "2.13-2",
       "port-version": 0
     },
+    "argtable3-2019-08-21-0": {
+      "baseline": "2019-08-21",
+      "port-version": 0
+    },
     "armadillo-2019-04-16-1-0": {
       "baseline": "2019-04-16-1",
       "port-version": 0
