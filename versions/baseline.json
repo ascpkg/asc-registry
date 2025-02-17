@@ -21260,6 +21260,10 @@
       "baseline": "22.03",
       "port-version": 0
     },
+    "dpdk-22-03-1": {
+      "baseline": "22.03",
+      "port-version": 1
+    },
     "draco-0-10-0-0": {
       "baseline": "0.10.0",
       "port-version": 0

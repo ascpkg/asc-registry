@@ -1,0 +1,9 @@
+old = "dpdk"
+new = "dpdk-22-03-1"
+
+[deps]
+libarchive-3-6-1-1 = "libarchive"
+numactl-2-0-14-1 = "numactl"
+python3-3-10-5-1 = "python3"
+vcpkg-get-python-packages-2022-04-11-1 = "vcpkg-get-python-packages"
+vcpkg-tool-meson-0-62-1-0 = "vcpkg-tool-meson"
