@@ -66224,6 +66224,10 @@
       "baseline": "2023-06-11",
       "port-version": 1
     },
+    "openvino-2023-06-11-2": {
+      "baseline": "2023-06-11",
+      "port-version": 2
+    },
     "openvpn3-2018-03-21-0": {
       "baseline": "2018-03-21",
       "port-version": 0
