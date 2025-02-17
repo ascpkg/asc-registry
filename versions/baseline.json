@@ -18536,6 +18536,10 @@
       "baseline": "0.9.2",
       "port-version": 0
     },
+    "nameof-0-9-3-0": {
+      "baseline": "0.9.3",
+      "port-version": 0
+    },
     "nameof-2019-07-13-0": {
       "baseline": "2019-07-13",
       "port-version": 0
