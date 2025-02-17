@@ -36316,6 +36316,10 @@
       "baseline": "3.7.1",
       "port-version": 0
     },
+    "gdal-3-7-1-1": {
+      "baseline": "3.7.1",
+      "port-version": 1
+    },
     "gdcm-3-0-0-0": {
       "baseline": "3.0.0",
       "port-version": 0
