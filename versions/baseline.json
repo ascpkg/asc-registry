@@ -31348,6 +31348,10 @@
       "baseline": "1.15.8",
       "port-version": 3
     },
+    "dbus-1-15-8-4": {
+      "baseline": "1.15.8",
+      "port-version": 4
+    },
     "dcmtk-3-6-3-0": {
       "baseline": "3.6.3",
       "port-version": 0
