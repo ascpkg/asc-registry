@@ -103824,6 +103824,10 @@
       "baseline": "9.25",
       "port-version": 0
     },
+    "stormlib-9-26-0": {
+      "baseline": "9.26",
+      "port-version": 0
+    },
     "strict-variant-0-5-0": {
       "baseline": "0.5",
       "port-version": 0
