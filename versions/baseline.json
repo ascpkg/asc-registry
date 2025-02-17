@@ -1128,6 +1128,10 @@
       "baseline": "11.14-2",
       "port-version": 0
     },
+    "eastl-3-05-08-0": {
+      "baseline": "3.05.08",
+      "port-version": 0
+    },
     "ecm-5-32-0-0": {
       "baseline": "5.32.0",
       "port-version": 0
