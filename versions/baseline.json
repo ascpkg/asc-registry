@@ -93692,6 +93692,10 @@
       "baseline": "1.6",
       "port-version": 0
     },
+    "tgbot-cpp-1-7-2-0": {
+      "baseline": "1.7.2",
+      "port-version": 0
+    },
     "tgc-2019-08-11-0": {
       "baseline": "2019-08-11",
       "port-version": 0
