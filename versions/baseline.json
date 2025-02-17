@@ -43712,6 +43712,10 @@
       "baseline": "1.9.3",
       "port-version": 1
     },
+    "libspatialindex-1-9-3-3": {
+      "baseline": "1.9.3",
+      "port-version": 3
+    },
     "libspatialite-4-3-0a-0": {
       "baseline": "4.3.0a",
       "port-version": 0
