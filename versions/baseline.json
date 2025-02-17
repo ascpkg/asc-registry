@@ -42216,6 +42216,10 @@
       "baseline": "0.8.0",
       "port-version": 0
     },
+    "libjxl-0-8-0-1": {
+      "baseline": "0.8.0",
+      "port-version": 1
+    },
     "libkeyfinder-2-2-4-0": {
       "baseline": "2.2.4",
       "port-version": 0
