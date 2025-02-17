@@ -82840,6 +82840,10 @@
       "baseline": "8.3.2",
       "port-version": 0
     },
+    "rocksdb-8-5-3-0": {
+      "baseline": "8.5.3",
+      "port-version": 0
+    },
     "rpclib-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
