@@ -288,6 +288,10 @@
       "baseline": "5.2.4.0",
       "port-version": 0
     },
+    "ampl-mp-2019-02-08-0": {
+      "baseline": "2019-02-08",
+      "port-version": 0
+    },
     "amqpcpp-4-1-2-0": {
       "baseline": "4.1.2",
       "port-version": 0
