@@ -1,0 +1,8 @@
+old = "dyno"
+new = "dyno-2019-11-13-0"
+
+[deps]
+boost-callable-traits-1-83-0-0 = "boost-callable-traits"
+boost-hana-1-83-0-0 = "boost-hana"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
