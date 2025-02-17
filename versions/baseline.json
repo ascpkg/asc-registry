@@ -64352,6 +64352,10 @@
       "baseline": "24.11",
       "port-version": 0
     },
+    "libmediainfo-24-12-0": {
+      "baseline": "24.12",
+      "port-version": 0
+    },
     "libmediainfo-24-3-0": {
       "baseline": "24.3",
       "port-version": 0
