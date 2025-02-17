@@ -1,0 +1,5 @@
+old = "winpcap"
+new = "winpcap-4-1-3-12"
+
+[deps]
+vcpkg-msbuild-2023-08-08-0 = "vcpkg-msbuild"
