@@ -111012,6 +111012,10 @@
       "baseline": "2.7.0",
       "port-version": 2
     },
+    "wolftpm-3-2-0-0": {
+      "baseline": "3.2.0",
+      "port-version": 0
+    },
     "wordnet-3-0-0": {
       "baseline": "3.0",
       "port-version": 0
