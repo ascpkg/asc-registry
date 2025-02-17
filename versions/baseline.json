@@ -6584,6 +6584,10 @@
       "baseline": "1.11.13",
       "port-version": 0
     },
+    "chakracore-1-11-14-0": {
+      "baseline": "1.11.14",
+      "port-version": 0
+    },
     "chakracore-1-11-2-0": {
       "baseline": "1.11.2",
       "port-version": 0
