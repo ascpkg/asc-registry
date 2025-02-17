@@ -3132,6 +3132,10 @@
       "baseline": "3.8",
       "port-version": 1
     },
+    "blend2d-2021-03-17-0": {
+      "baseline": "2021-03-17",
+      "port-version": 0
+    },
     "blend2d-beta-2019-04-30-0": {
       "baseline": "beta_2019-04-30",
       "port-version": 0
