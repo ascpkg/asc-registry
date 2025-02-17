@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ls-qpack-2-5-5-0",
+      "version": "2.5.5",
+      "port-version": 0
+    }
+  ]
+}
