@@ -2,6 +2,11 @@
   "versions": [
     {
       "path": "$/ports/so5extra-1-3-1-1-0",
+      "version": "1.3.1.1",
+      "port-version": 0
+    },
+    {
+      "path": "$/ports/so5extra-1-3-1-1-0",
       "version": "1.3.1-1",
       "port-version": 0
     }
