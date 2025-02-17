@@ -83868,6 +83868,10 @@
       "baseline": "17.0",
       "port-version": 0
     },
+    "pulseaudio-17-0-1": {
+      "baseline": "17.0",
+      "port-version": 1
+    },
     "pulzed-mini-0-9-14-0": {
       "baseline": "0.9.14",
       "port-version": 0
