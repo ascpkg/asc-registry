@@ -14500,6 +14500,10 @@
       "baseline": "2.1.11-2",
       "port-version": 0
     },
+    "libevent-2-1-11-3-0": {
+      "baseline": "2.1.11-3",
+      "port-version": 0
+    },
     "libevent-2-1-8-0": {
       "baseline": "2.1.8",
       "port-version": 0
