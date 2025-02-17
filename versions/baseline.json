@@ -34536,6 +34536,10 @@
       "baseline": "0.9.6",
       "port-version": 0
     },
+    "libjuice-0-9-8-0": {
+      "baseline": "0.9.8",
+      "port-version": 0
+    },
     "libjxl-0-6-1-0": {
       "baseline": "0.6.1",
       "port-version": 0
