@@ -20992,6 +20992,10 @@
       "baseline": "2.0.220929.3",
       "port-version": 0
     },
+    "cppwinrt-2-0-221121-5-0": {
+      "baseline": "2.0.221121.5",
+      "port-version": 0
+    },
     "cppwinrt-fall-2017-creators-update-for-vs-15-3-0": {
       "baseline": "fall_2017_creators_update_for_vs_15.3",
       "port-version": 0
