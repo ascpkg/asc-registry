@@ -79796,6 +79796,10 @@
       "baseline": "3.2.1",
       "port-version": 3
     },
+    "wxwidgets-3-2-1-4": {
+      "baseline": "3.2.1",
+      "port-version": 4
+    },
     "wyhash-2022-10-12-0": {
       "baseline": "2022-10-12",
       "port-version": 0
