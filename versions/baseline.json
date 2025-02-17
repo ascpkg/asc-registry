@@ -12228,6 +12228,10 @@
       "baseline": "20190125-2",
       "port-version": 0
     },
+    "freerdp-2-0-0-0": {
+      "baseline": "2.0.0",
+      "port-version": 0
+    },
     "freerdp-2-0-0-beta1-android11-0": {
       "baseline": "2.0.0-beta1+android11",
       "port-version": 0
