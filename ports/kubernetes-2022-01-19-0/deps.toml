@@ -1,0 +1,10 @@
+old = "kubernetes"
+new = "kubernetes-2022-01-19-0"
+
+[deps]
+curl-7-81-0-0 = "curl"
+libwebsockets-4-3-0-1 = "libwebsockets"
+libyaml-0-2-5-3 = "libyaml"
+openssl-1-1-1m-0 = "openssl"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"
