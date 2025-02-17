@@ -14404,6 +14404,10 @@
       "baseline": "3.4.0-2",
       "port-version": 0
     },
+    "mongo-cxx-driver-3-4-0-3-0": {
+      "baseline": "3.4.0-3",
+      "port-version": 0
+    },
     "monkeys-audio-4-3-3-0": {
       "baseline": "4.3.3",
       "port-version": 0
