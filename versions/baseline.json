@@ -24724,6 +24724,10 @@
       "baseline": "2019-09-02",
       "port-version": 0
     },
+    "quaternions-1-0-0-0": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
     "quickfast-1-5-0": {
       "baseline": "1.5",
       "port-version": 0
