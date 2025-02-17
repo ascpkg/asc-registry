@@ -692,6 +692,10 @@
       "baseline": "3.2.4-2",
       "port-version": 0
     },
+    "ffmpeg-3-2-4-3-0": {
+      "baseline": "3.2.4-3",
+      "port-version": 0
+    },
     "fftw3-3-3-6-p11-0": {
       "baseline": "3.3.6-p11",
       "port-version": 0
