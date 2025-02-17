@@ -32972,6 +32972,10 @@
       "baseline": "0.2.13",
       "port-version": 0
     },
+    "libdatrie-0-2-13-1": {
+      "baseline": "0.2.13",
+      "port-version": 1
+    },
     "libdc1394-2-2-6-0": {
       "baseline": "2.2.6",
       "port-version": 0
@@ -33411,6 +33415,10 @@
     "libfido2-1-10-0-0": {
       "baseline": "1.10.0",
       "port-version": 0
+    },
+    "libfido2-1-10-0-1": {
+      "baseline": "1.10.0",
+      "port-version": 1
     },
     "libfido2-1-7-0-0": {
       "baseline": "1.7.0",
@@ -37755,6 +37763,10 @@
     "liburing-2-0-2": {
       "baseline": "2.0",
       "port-version": 2
+    },
+    "liburing-2-0-3": {
+      "baseline": "2.0",
+      "port-version": 3
     },
     "libusb-1-0-21-fc99620-0": {
       "baseline": "1.0.21-fc99620",
@@ -49379,6 +49391,10 @@
     "poppler-22-3-0-0": {
       "baseline": "22.3.0",
       "port-version": 0
+    },
+    "poppler-22-3-0-1": {
+      "baseline": "22.3.0",
+      "port-version": 1
     },
     "popsift-0-9-0": {
       "baseline": "0.9",
