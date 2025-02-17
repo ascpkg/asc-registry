@@ -38124,6 +38124,10 @@
       "baseline": "0.17.10",
       "port-version": 0
     },
+    "libdatachannel-0-17-11-0": {
+      "baseline": "0.17.11",
+      "port-version": 0
+    },
     "libdatachannel-0-17-8-0": {
       "baseline": "0.17.8",
       "port-version": 0
