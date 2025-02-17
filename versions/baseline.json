@@ -109016,6 +109016,10 @@
       "baseline": "3.1.8-preview",
       "port-version": 0
     },
+    "sdl3-image-3-1-0-0": {
+      "baseline": "3.1.0",
+      "port-version": 0
+    },
     "seacas-2022-11-22-0": {
       "baseline": "2022-11-22",
       "port-version": 0
