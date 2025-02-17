@@ -20,18 +20,22 @@ vcpkg_configure_cmake(
 	# PREFER_NINJA # Disable this option if project cannot be built with Ninja
 	OPTIONS
 		-DGDCM_BUILD_DOCBOOK_MANPAGES=OFF
-		-DGDCM_BUILD_SHARED_LIBS=ON
+		-DGDCM_BUILD_SHARED_LIBS=${GDCM_BUILD_SHARED_LIBS}
 		-DGDCM_USE_SYSTEM_EXPAT=ON
-		-DGDCM_USE_SYSTEM_ZLIB=${GDCM_BUILD_SHARED_LIBS}
+		-DGDCM_USE_SYSTEM_ZLIB=ON
 		${ADDITIONAL_OPTIONS}
 )
 
 vcpkg_install_cmake()
 
-file(REMOVE_RECURSE 
+file(REMOVE_RECURSE
 	${CURRENT_PACKAGES_DIR}/debug/include
     ${CURRENT_PACKAGES_DIR}/debug/share
 )
+
+if(VCPKG_LIBRARY_LINKAGE STREQUAL static)
+    file(REMOVE_RECURSE ${CURRENT_PACKAGES_DIR}/bin ${CURRENT_PACKAGES_DIR}/debug/bin)
+endif()
 
 # Handle copyright
 file(INSTALL ${SOURCE_PATH}/Copyright.txt DESTINATION ${CURRENT_PACKAGES_DIR}/share/gdcm2 RENAME copyright)
