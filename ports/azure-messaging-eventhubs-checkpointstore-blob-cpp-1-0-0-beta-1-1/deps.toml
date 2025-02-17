@@ -1,0 +1,9 @@
+old = "azure-messaging-eventhubs-checkpointstore-blob-cpp"
+new = "azure-messaging-eventhubs-checkpointstore-blob-cpp-1-0-0-beta-1-1"
+
+[deps]
+azure-core-amqp-cpp-1-0-0-beta-6-0 = "azure-core-amqp-cpp"
+azure-messaging-eventhubs-cpp-1-0-0-beta-5-0 = "azure-messaging-eventhubs-cpp"
+azure-storage-blobs-cpp-12-10-0-0 = "azure-storage-blobs-cpp"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
