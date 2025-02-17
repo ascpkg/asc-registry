@@ -1,0 +1,5 @@
+old = "woff2"
+new = "woff2-1-0-2-0"
+
+[deps]
+brotli-1-0-2-3-0 = "brotli"
