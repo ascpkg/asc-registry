@@ -1,0 +1,10 @@
+old = "libgd"
+new = "libgd-2-2-4-2-0"
+
+[deps]
+fontconfig-2-12-1-0 = "fontconfig"
+freetype-2-6-3-5-0 = "freetype"
+libjpeg-turbo-1-5-1-1-0 = "libjpeg-turbo"
+libpng-1-6-28-1-0 = "libpng"
+libwebp-0-6-0-1-0 = "libwebp"
+tiff-4-0-7-1-0 = "tiff"
