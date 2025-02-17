@@ -1,0 +1,14 @@
+old = "lief"
+new = "lief-0-16-0-0"
+
+[deps]
+fmt-11-0-2-1 = "fmt"
+frozen-1-2-0-0 = "frozen"
+mbedtls-3-6-1-0 = "mbedtls"
+nlohmann-json-3-11-3-1 = "nlohmann-json"
+spdlog-1-15-0-1 = "spdlog"
+tcb-span-2022-06-15-0 = "tcb-span"
+tl-expected-1-1-0-0 = "tl-expected"
+utfcpp-4-0-6-0 = "utfcpp"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
