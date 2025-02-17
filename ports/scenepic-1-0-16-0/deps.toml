@@ -1,0 +1,7 @@
+old = "scenepic"
+new = "scenepic-1-0-16-0"
+
+[deps]
+eigen3-3-4-0-2 = "eigen3"
+vcpkg-cmake-2022-11-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
