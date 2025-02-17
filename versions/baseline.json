@@ -39024,6 +39024,10 @@
       "baseline": "1.1.82.1-1",
       "port-version": 0
     },
+    "vulkan-headers-1-2-157-0": {
+      "baseline": "1.2.157",
+      "port-version": 0
+    },
     "vulkan-hpp-2019-05-11-0": {
       "baseline": "2019-05-11",
       "port-version": 0
