@@ -64040,6 +64040,10 @@
       "baseline": "2.1.0",
       "port-version": 0
     },
+    "ntf-core-2-1-0-1": {
+      "baseline": "2.1.0",
+      "port-version": 1
+    },
     "nu-book-zxing-cpp-1-2-0-0": {
       "baseline": "1.2.0",
       "port-version": 0
