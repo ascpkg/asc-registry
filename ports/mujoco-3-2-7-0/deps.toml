@@ -1,0 +1,14 @@
+old = "mujoco"
+new = "mujoco-3-2-7-0"
+
+[deps]
+ccd-2-1-4 = "ccd"
+glfw3-3-4-1 = "glfw3"
+lodepng-2021-12-04-1 = "lodepng"
+marchingcubecpp-2023-09-11-0 = "marchingcubecpp"
+qhull-8-0-2-5 = "qhull"
+sdflib-2025-01-25-0 = "sdflib"
+tinyobjloader-2-0-0rc13-0 = "tinyobjloader"
+tinyxml2-10-0-0-0 = "tinyxml2"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
