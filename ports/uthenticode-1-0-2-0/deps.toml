@@ -1,0 +1,6 @@
+old = "uthenticode"
+new = "uthenticode-1-0-2-0"
+
+[deps]
+openssl-1-1-1d-0 = "openssl"
+pe-parse-1-2-0-0 = "pe-parse"
