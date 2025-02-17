@@ -1,0 +1,9 @@
+old = "qt5-imageformats"
+new = "qt5-imageformats-5-15-16-0"
+
+[deps]
+jasper-4-2-4-0 = "jasper"
+libwebp-1-4-0-1 = "libwebp"
+qt5-base-5-15-16-0 = "qt5-base"
+tiff-4-7-0-0 = "tiff"
+vcpkg-pkgconfig-get-modules-2024-04-03-0 = "vcpkg-pkgconfig-get-modules"
