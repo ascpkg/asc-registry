@@ -1,0 +1,5 @@
+old = "qt6betablock"
+new = "qt6betablock-6-2-0-beta-0"
+
+[deps]
+qtbase-6-1-0-0 = "qtbase"
