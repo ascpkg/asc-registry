@@ -100884,6 +100884,10 @@
       "baseline": "1.0.0",
       "port-version": 0
     },
+    "uni-algo-1-2-0-0": {
+      "baseline": "1.2.0",
+      "port-version": 0
+    },
     "unicorn-1-0-3-0": {
       "baseline": "1.0.3",
       "port-version": 0
