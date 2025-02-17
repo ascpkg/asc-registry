@@ -1,0 +1,8 @@
+old = "gz-plugin2"
+new = "gz-plugin2-2-0-1-0"
+
+[deps]
+dlfcn-win32-1-3-1-1 = "dlfcn-win32"
+gz-cmake3-3-0-1-0 = "gz-cmake3"
+gz-utils2-2-0-0-0 = "gz-utils2"
+ignition-modularscripts-2023-05-05-0 = "ignition-modularscripts"

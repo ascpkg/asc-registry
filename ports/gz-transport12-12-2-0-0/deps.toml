@@ -1,0 +1,12 @@
+old = "gz-transport12"
+new = "gz-transport12-12-2-0-0"
+
+[deps]
+cppzmq-4-9-0-1 = "cppzmq"
+gz-cmake3-3-0-1-0 = "gz-cmake3"
+gz-msgs9-9-5-0-0 = "gz-msgs9"
+ignition-modularscripts-2023-05-05-0 = "ignition-modularscripts"
+libuuid-1-0-3-14 = "libuuid"
+protobuf-3-21-12-0 = "protobuf"
+sqlite3-3-43-0-0 = "sqlite3"
+zeromq-2023-06-20-1 = "zeromq"

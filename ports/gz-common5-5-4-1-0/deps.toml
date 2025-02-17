@@ -1,0 +1,15 @@
+old = "gz-common5"
+new = "gz-common5-5-4-1-0"
+
+[deps]
+assimp-5-2-5-0 = "assimp"
+dlfcn-win32-1-3-1-1 = "dlfcn-win32"
+ffmpeg-5-1-2-9 = "ffmpeg"
+freeimage-3-18-0-25 = "freeimage"
+gdal-3-7-1-4 = "gdal"
+gts-0-7-6-7 = "gts"
+gz-cmake3-3-0-1-0 = "gz-cmake3"
+gz-math7-7-0-2-1 = "gz-math7"
+ignition-modularscripts-2023-05-05-0 = "ignition-modularscripts"
+libuuid-1-0-3-14 = "libuuid"
+tinyxml2-9-0-0-2 = "tinyxml2"
