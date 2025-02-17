@@ -47100,6 +47100,10 @@
       "baseline": "0.0.7",
       "port-version": 0
     },
+    "rsm-bsa-2-0-3-0": {
+      "baseline": "2.0.3",
+      "port-version": 0
+    },
     "rsocket-2020-05-04-00-1-0": {
       "baseline": "2020.05.04.00-1",
       "port-version": 0
