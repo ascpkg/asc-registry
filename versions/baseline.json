@@ -21608,6 +21608,10 @@
       "baseline": "4.0.0-beta5",
       "port-version": 1
     },
+    "ktx-4-0-0-beta5-2": {
+      "baseline": "4.0.0-beta5",
+      "port-version": 2
+    },
     "kubazip-0-1-19-0": {
       "baseline": "0.1.19",
       "port-version": 0
@@ -32003,6 +32007,10 @@
     "otl-4-0-455-0": {
       "baseline": "4.0.455",
       "port-version": 0
+    },
+    "otl-4-0-455-1": {
+      "baseline": "4.0.455",
+      "port-version": 1
     },
     "outcome-2-1-0": {
       "baseline": "2.1",
