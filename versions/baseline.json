@@ -91380,6 +91380,10 @@
       "baseline": "2021-11-16",
       "port-version": 3
     },
+    "vcpkg-msbuild-2023-06-22-0": {
+      "baseline": "2023-06-22",
+      "port-version": 0
+    },
     "vcpkg-pkgconfig-get-modules-2021-04-02-0": {
       "baseline": "2021-04-02",
       "port-version": 0
@@ -91399,6 +91403,10 @@
     "vcpkg-pkgconfig-get-modules-2022-02-10-1": {
       "baseline": "2022-02-10",
       "port-version": 1
+    },
+    "vcpkg-pkgconfig-get-modules-2023-02-25-0": {
+      "baseline": "2023-02-25",
+      "port-version": 0
     },
     "vcpkg-qmake-2021-10-23-0": {
       "baseline": "2021-10-23",
