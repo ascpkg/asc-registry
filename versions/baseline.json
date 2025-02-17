@@ -14596,6 +14596,10 @@
       "baseline": "jan2019",
       "port-version": 0
     },
+    "flashlight-cuda-20201120-1": {
+      "baseline": "20201120",
+      "port-version": 1
+    },
     "flatbuffers-1-10-0-0": {
       "baseline": "1.10.0",
       "port-version": 0
