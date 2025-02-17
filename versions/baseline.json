@@ -25088,6 +25088,10 @@
       "baseline": "4.2.0",
       "port-version": 0
     },
+    "hazelcast-cpp-client-5-0-0-0": {
+      "baseline": "5.0.0",
+      "port-version": 0
+    },
     "hdf5-1-10-0-patch1-0": {
       "baseline": "1.10.0-patch1",
       "port-version": 0
