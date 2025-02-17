@@ -1,0 +1,10 @@
+old = "lightgbm"
+new = "lightgbm-4-5-0-0"
+
+[deps]
+boost-compute-1-85-0-1 = "boost-compute"
+eigen3-3-4-0-4 = "eigen3"
+fast-double-parser-0-8-0-0 = "fast-double-parser"
+fmt-11-0-2-1 = "fmt"
+opencl-v2024-05-08-0 = "opencl"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
