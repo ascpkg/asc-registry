@@ -30448,6 +30448,10 @@
       "baseline": "3.2.6",
       "port-version": 2
     },
+    "gmime-3-2-6-3": {
+      "baseline": "3.2.6",
+      "port-version": 3
+    },
     "gmmlib-18-3-pre2-1-0": {
       "baseline": "18.3.pre2-1",
       "port-version": 0
@@ -39890,6 +39894,10 @@
     },
     "libidn2-2-3-1-0": {
       "baseline": "2.3.1",
+      "port-version": 0
+    },
+    "libidn2-2-3-4-0": {
+      "baseline": "2.3.4",
       "port-version": 0
     },
     "libigl-2-1-0-1-0": {
