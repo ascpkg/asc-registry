@@ -1,0 +1,14 @@
+old = "hazelcast-cpp-client"
+new = "hazelcast-cpp-client-4-2-0-0"
+
+[deps]
+boost-any-1-76-0-0 = "boost-any"
+boost-asio-1-76-0-0 = "boost-asio"
+boost-chrono-1-76-0-0 = "boost-chrono"
+boost-format-1-76-0-0 = "boost-format"
+boost-optional-1-76-0-0 = "boost-optional"
+boost-property-tree-1-76-0-0 = "boost-property-tree"
+boost-system-1-76-0-0 = "boost-system"
+boost-thread-1-76-0-0 = "boost-thread"
+boost-uuid-1-76-0-0 = "boost-uuid"
+openssl-1-1-1l-1 = "openssl"
