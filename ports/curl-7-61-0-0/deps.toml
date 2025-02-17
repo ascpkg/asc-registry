@@ -3,7 +3,7 @@ new = "curl-7-61-0-0"
 
 [deps]
 curl-7-61-0-0 = "curl"
-libssh2-1-8-0-3-0 = "libssh2"
+libssh2-1-8-0-4-0 = "libssh2"
 nghttp2-1-32-0-0 = "nghttp2"
 openssl-0-0 = "openssl"
 zlib-1-2-11-3-0 = "zlib"
