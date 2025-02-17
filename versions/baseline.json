@@ -19276,6 +19276,10 @@
       "baseline": "2018-08-07-1",
       "port-version": 0
     },
+    "spirv-cross-2019-05-09-0": {
+      "baseline": "2019-05-09",
+      "port-version": 0
+    },
     "spirv-headers-2019-03-05-0": {
       "baseline": "2019-03-05",
       "port-version": 0
