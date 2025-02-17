@@ -21588,6 +21588,10 @@
       "baseline": "3.1.10",
       "port-version": 1
     },
+    "libmariadb-3-1-10-2": {
+      "baseline": "3.1.10",
+      "port-version": 2
+    },
     "libmariadb-3-1-7-0": {
       "baseline": "3.1.7",
       "port-version": 0
@@ -21867,6 +21871,10 @@
     "libmysql-8-0-20-0": {
       "baseline": "8.0.20",
       "port-version": 0
+    },
+    "libmysql-8-0-20-1": {
+      "baseline": "8.0.20",
+      "port-version": 1
     },
     "libmysql-8-0-4-0": {
       "baseline": "8.0.4",
