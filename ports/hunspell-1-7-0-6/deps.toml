@@ -1,0 +1,6 @@
+old = "hunspell"
+new = "hunspell-1-7-0-6"
+
+[deps]
+gettext-0-21-7 = "gettext"
+libiconv-1-16-11 = "libiconv"
