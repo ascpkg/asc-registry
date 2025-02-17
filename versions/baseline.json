@@ -52988,6 +52988,10 @@
       "baseline": "2.4.0",
       "port-version": 1
     },
+    "pdal-2-4-3-0": {
+      "baseline": "2.4.3",
+      "port-version": 0
+    },
     "pdal-c-1-8-0": {
       "baseline": "1.8",
       "port-version": 0
