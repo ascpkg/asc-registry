@@ -30248,6 +30248,10 @@
       "baseline": "1.9.19",
       "port-version": 1
     },
+    "jack2-1-9-21-0": {
+      "baseline": "1.9.21",
+      "port-version": 0
+    },
     "jaeger-client-cpp-0-5-1-0": {
       "baseline": "0.5.1",
       "port-version": 0
@@ -39311,6 +39315,10 @@
     "libxmlmm-0-6-0-1": {
       "baseline": "0.6.0",
       "port-version": 1
+    },
+    "libxmlmm-0-6-0-2": {
+      "baseline": "0.6.0",
+      "port-version": 2
     },
     "libxmlpp-2-40-1-1-0": {
       "baseline": "2.40.1-1",
@@ -49360,6 +49368,10 @@
       "baseline": "4.1.2",
       "port-version": 1
     },
+    "physx-4-1-2-2": {
+      "baseline": "4.1.2",
+      "port-version": 2
+    },
     "physx-commit-624f2cb6c0392013d54b235d9072a49d01c3cb6c-0": {
       "baseline": "commit-624f2cb6c0392013d54b235d9072a49d01c3cb6c",
       "port-version": 0
@@ -51115,6 +51127,10 @@
     "pugixml-1-11-4-1": {
       "baseline": "1.11.4",
       "port-version": 1
+    },
+    "pugixml-1-12-1-0": {
+      "baseline": "1.12.1",
+      "port-version": 0
     },
     "pugixml-1-8-1-0": {
       "baseline": "1.8.1",
@@ -57976,6 +57992,10 @@
       "baseline": "4.0.0",
       "port-version": 4
     },
+    "rtmidi-4-0-0-5": {
+      "baseline": "4.0.0",
+      "port-version": 5
+    },
     "rttr-0-9-5-0": {
       "baseline": "0.9.5",
       "port-version": 0
@@ -61852,6 +61872,10 @@
       "baseline": "2020-09-14",
       "port-version": 1
     },
+    "stb-2020-09-14-2": {
+      "baseline": "2020-09-14",
+      "port-version": 2
+    },
     "stduuid-2021-08-30-0": {
       "baseline": "2021-08-30",
       "port-version": 0
@@ -63944,6 +63968,10 @@
       "baseline": "9.0.0",
       "port-version": 0
     },
+    "tinyxml2-9-0-0-1": {
+      "baseline": "9.0.0",
+      "port-version": 1
+    },
     "tl-expected-0-3-1-0": {
       "baseline": "0.3-1",
       "port-version": 0
@@ -64027,6 +64055,10 @@
     "tmxlite-1-3-0-0": {
       "baseline": "1.3.0",
       "port-version": 0
+    },
+    "tmxlite-1-3-0-1": {
+      "baseline": "1.3.0",
+      "port-version": 1
     },
     "tmxlite-2019-03-05-0": {
       "baseline": "2019-03-05",
@@ -65939,6 +65971,10 @@
     "volk-1-3-204-0": {
       "baseline": "1.3.204",
       "port-version": 0
+    },
+    "volk-1-3-204-1": {
+      "baseline": "1.3.204",
+      "port-version": 1
     },
     "volk-2019-09-03-0": {
       "baseline": "2019-09-03",
