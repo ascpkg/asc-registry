@@ -16656,6 +16656,10 @@
       "baseline": "2.2.0",
       "port-version": 0
     },
+    "freerdp-2-2-0-1": {
+      "baseline": "2.2.0",
+      "port-version": 1
+    },
     "freetds-1-1-17-0": {
       "baseline": "1.1.17",
       "port-version": 0
