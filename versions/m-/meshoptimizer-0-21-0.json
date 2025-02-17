@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/meshoptimizer-0-21-0",
+      "version": "0.21",
+      "port-version": 0
+    }
+  ]
+}
