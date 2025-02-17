@@ -64,6 +64,10 @@
       "baseline": "22.0",
       "port-version": 0
     },
+    "7zip-22-0-1": {
+      "baseline": "22.0",
+      "port-version": 1
+    },
     "ableton-3-0-5-0": {
       "baseline": "3.0.5",
       "port-version": 0
