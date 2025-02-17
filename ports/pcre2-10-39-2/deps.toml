@@ -1,0 +1,6 @@
+old = "pcre2"
+new = "pcre2-10-39-2"
+
+[deps]
+vcpkg-cmake-2021-12-05-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-01-0 = "vcpkg-cmake-config"
