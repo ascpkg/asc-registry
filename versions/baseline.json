@@ -52704,6 +52704,10 @@
       "baseline": "2.40.20",
       "port-version": 8
     },
+    "librsvg-2-40-20-9": {
+      "baseline": "2.40.20",
+      "port-version": 9
+    },
     "librsync-2-0-2-0": {
       "baseline": "2.0.2",
       "port-version": 0
