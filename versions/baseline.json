@@ -40568,6 +40568,10 @@
       "baseline": "0.15.4",
       "port-version": 1
     },
+    "etcd-cpp-apiv3-0-15-4-2": {
+      "baseline": "0.15.4",
+      "port-version": 2
+    },
     "etcd-cpp-apiv3-0-2-12-0": {
       "baseline": "0.2.12",
       "port-version": 0
