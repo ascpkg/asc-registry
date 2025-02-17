@@ -29428,6 +29428,10 @@
       "baseline": "0.1.2",
       "port-version": 0
     },
+    "scnlib-0-3-0": {
+      "baseline": "0.3",
+      "port-version": 0
+    },
     "scylla-wrapper-2018-08-26-16e6f435-0": {
       "baseline": "2018-08-26-16e6f435",
       "port-version": 0
