@@ -1,0 +1,9 @@
+old = "czmq"
+new = "czmq-2019-06-10-4-0"
+
+[deps]
+curl-7-68-0-3-0 = "curl"
+libmicrohttpd-0-9-63-2-0 = "libmicrohttpd"
+libuuid-1-0-3-3-0 = "libuuid"
+lz4-1-9-2-1-0 = "lz4"
+zeromq-2019-09-20-0 = "zeromq"

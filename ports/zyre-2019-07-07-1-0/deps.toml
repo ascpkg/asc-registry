@@ -1,0 +1,5 @@
+old = "zyre"
+new = "zyre-2019-07-07-1-0"
+
+[deps]
+czmq-2019-06-10-4-0 = "czmq"
