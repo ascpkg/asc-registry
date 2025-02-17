@@ -71920,6 +71920,10 @@
       "baseline": "22.11",
       "port-version": 1
     },
+    "pcapplusplus-23-9-1": {
+      "baseline": "23.9",
+      "port-version": 1
+    },
     "pcg-0-98-1-0": {
       "baseline": "0.98.1",
       "port-version": 0
