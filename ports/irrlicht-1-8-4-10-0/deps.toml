@@ -2,7 +2,7 @@ old = "irrlicht"
 new = "irrlicht-1-8-4-10-0"
 
 [deps]
-bzip2-1-0-6-5-0 = "bzip2"
-libjpeg-turbo-2-0-4-0 = "libjpeg-turbo"
-libpng-1-6-37-9-0 = "libpng"
-zlib-1-2-11-6-0 = "zlib"
+bzip2-1-0-6-7 = "bzip2"
+libjpeg-turbo-2-0-5-0 = "libjpeg-turbo"
+libpng-1-6-37-11 = "libpng"
+zlib-1-2-11-9 = "zlib"
