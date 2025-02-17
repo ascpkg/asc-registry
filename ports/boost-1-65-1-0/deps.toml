@@ -3,4 +3,5 @@ new = "boost-1-65-1-0"
 
 [deps]
 bzip2-1-0-6-1-0 = "bzip2"
+icu-59-1-1-0 = "icu"
 zlib-1-2-11-0 = "zlib"
