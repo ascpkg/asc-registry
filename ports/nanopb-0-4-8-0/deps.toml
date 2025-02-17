@@ -1,0 +1,7 @@
+old = "nanopb"
+new = "nanopb-0-4-8-0"
+
+[deps]
+protobuf-3-21-12-1 = "protobuf"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
