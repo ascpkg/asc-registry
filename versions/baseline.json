@@ -2208,6 +2208,10 @@
       "baseline": "1.7.0",
       "port-version": 0
     },
+    "grpc-1-7-2-0": {
+      "baseline": "1.7.2",
+      "port-version": 0
+    },
     "gsl-0-fd5ad87bf-0": {
       "baseline": "0-fd5ad87bf",
       "port-version": 0
@@ -4598,6 +4602,10 @@
     },
     "protobuf-3-5-0-0": {
       "baseline": "3.5.0",
+      "port-version": 0
+    },
+    "protobuf-3-5-0-1-0": {
+      "baseline": "3.5.0-1",
       "port-version": 0
     },
     "ptex-2-1-28-0": {
