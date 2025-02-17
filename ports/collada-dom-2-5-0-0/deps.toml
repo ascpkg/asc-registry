@@ -1,0 +1,11 @@
+old = "collada-dom"
+new = "collada-dom-2-5-0-0"
+
+[deps]
+boost-filesystem-1-69-0-0 = "boost-filesystem"
+boost-system-1-69-0-0 = "boost-system"
+libxml2-2-9-4-5-0 = "libxml2"
+minizip-1-2-11-3-0 = "minizip"
+pcre-8-41-1-0 = "pcre"
+uriparser-0-9-1-0 = "uriparser"
+zlib-1-2-11-3-0 = "zlib"
