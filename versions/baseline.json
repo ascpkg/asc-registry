@@ -29272,6 +29272,10 @@
       "baseline": "0.7.6",
       "port-version": 5
     },
+    "gts-0-7-6-6": {
+      "baseline": "0.7.6",
+      "port-version": 6
+    },
     "guetzli-2017-09-02-cb5e4a86f69628-0": {
       "baseline": "2017-09-02-cb5e4a86f69628",
       "port-version": 0
