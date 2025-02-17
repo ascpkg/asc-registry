@@ -49388,6 +49388,10 @@
       "baseline": "2.0.16",
       "port-version": 0
     },
+    "sdl2-2-0-16-1": {
+      "baseline": "2.0.16",
+      "port-version": 1
+    },
     "sdl2-2-0-4-0": {
       "baseline": "2.0.4",
       "port-version": 0
