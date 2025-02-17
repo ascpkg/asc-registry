@@ -18568,6 +18568,10 @@
       "baseline": "2019-08-29",
       "port-version": 0
     },
+    "libgpod-2019-08-29-1": {
+      "baseline": "2019-08-29",
+      "port-version": 1
+    },
     "libgsl-2-3-0": {
       "baseline": "2.3",
       "port-version": 0
@@ -19503,6 +19507,10 @@
     "libodb-sqlite-2-4-0-6-0": {
       "baseline": "2.4.0-6",
       "port-version": 0
+    },
+    "libodb-sqlite-2-4-0-7": {
+      "baseline": "2.4.0",
+      "port-version": 7
     },
     "libogg-1-3-2-0": {
       "baseline": "1.3.2",
@@ -33252,6 +33260,10 @@
       "baseline": "3.32.3",
       "port-version": 0
     },
+    "sqlite3-3-32-3-1": {
+      "baseline": "3.32.3",
+      "port-version": 1
+    },
     "sqlite3-3120200-0": {
       "baseline": "3120200",
       "port-version": 0
@@ -33279,6 +33291,10 @@
     "sqlitecpp-3-0-0-0": {
       "baseline": "3.0.0",
       "port-version": 0
+    },
+    "sqlitecpp-3-0-0-1": {
+      "baseline": "3.0.0",
+      "port-version": 1
     },
     "sqlpp11-0-57-0": {
       "baseline": "0.57",
