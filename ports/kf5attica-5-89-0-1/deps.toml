@@ -1,0 +1,9 @@
+old = "kf5attica"
+new = "kf5attica-5-89-0-1"
+
+[deps]
+ecm-5-89-0-0 = "ecm"
+qt5-base-5-15-2-19 = "qt5-base"
+qt5-tools-5-15-2-1 = "qt5-tools"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"
