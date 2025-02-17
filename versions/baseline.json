@@ -118596,6 +118596,10 @@
       "baseline": "2021-04-23",
       "port-version": 1
     },
+    "zug-2024-04-26-0": {
+      "baseline": "2024-04-26",
+      "port-version": 0
+    },
     "zxing-cpp-2020-12-2-0": {
       "baseline": "2020-12-2",
       "port-version": 0
