@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/poolstl-0-3-5-0",
+      "version": "0.3.5",
+      "port-version": 0
+    }
+  ]
+}
