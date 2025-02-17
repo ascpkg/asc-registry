@@ -1,0 +1,2 @@
+old = "libsodium"
+new = "libsodium-1-0-18-3"
