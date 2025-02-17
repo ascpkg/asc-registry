@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cpputest-2019-9-16-3",
+      "version": "2019-9-16",
+      "port-version": 3
+    }
+  ]
+}
