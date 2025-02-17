@@ -1,0 +1,7 @@
+old = "cppzmq"
+new = "cppzmq-4-8-1-0"
+
+[deps]
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"
+zeromq-4-3-4-1 = "zeromq"
