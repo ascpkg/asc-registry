@@ -27940,6 +27940,10 @@
       "baseline": "3.3.7",
       "port-version": 0
     },
+    "glfw3-3-3-8-0": {
+      "baseline": "3.3.8",
+      "port-version": 0
+    },
     "gli-0-8-2-0": {
       "baseline": "0.8.2",
       "port-version": 0
