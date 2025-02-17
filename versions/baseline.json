@@ -67244,6 +67244,10 @@
       "baseline": "2.40.20",
       "port-version": 9
     },
+    "librsvg-2-40-21-0": {
+      "baseline": "2.40.21",
+      "port-version": 0
+    },
     "librsync-2-0-2-0": {
       "baseline": "2.0.2",
       "port-version": 0
@@ -70531,6 +70535,10 @@
     "libxml2-2-11-9-1": {
       "baseline": "2.11.9",
       "port-version": 1
+    },
+    "libxml2-2-13-5-0": {
+      "baseline": "2.13.5",
+      "port-version": 0
     },
     "libxml2-2-9-10-0": {
       "baseline": "2.9.10",
