@@ -8452,6 +8452,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-accumulators-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -8547,6 +8551,10 @@
     "boost-accumulators-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-accumulators-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-algorithm-1-66-0-0": {
       "baseline": "1.66.0",
@@ -8644,6 +8652,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-algorithm-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-align-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -8739,6 +8751,10 @@
     "boost-align-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-align-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-any-1-66-0-0": {
       "baseline": "1.66.0",
@@ -8836,6 +8852,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-any-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-array-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -8931,6 +8951,10 @@
     "boost-array-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-array-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-asio-1-66-0-0": {
       "baseline": "1.66.0",
@@ -9056,6 +9080,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-asio-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-assert-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -9152,6 +9180,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-assert-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-assign-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -9247,6 +9279,10 @@
     "boost-assign-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-assign-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-atomic-1-66-0-0": {
       "baseline": "1.66.0",
@@ -9352,6 +9388,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-atomic-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-beast-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -9452,6 +9492,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-beast-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-bimap-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -9548,6 +9592,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-bimap-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-bind-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -9643,6 +9691,10 @@
     "boost-bind-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-bind-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-build-1-66-0-0": {
       "baseline": "1.66.0",
@@ -9800,6 +9852,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-build-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-callable-traits-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -9895,6 +9951,10 @@
     "boost-callable-traits-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-callable-traits-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-callable-traits-2-3-2-0": {
       "baseline": "2.3.2",
@@ -10000,6 +10060,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-chrono-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-circular-buffer-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -10096,9 +10160,21 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-circular-buffer-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
+    "boost-cmake-1-84-0-0": {
+      "baseline": "1.84.0",
+      "port-version": 0
+    },
     "boost-cobalt-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-cobalt-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-compat-1-83-0-0": {
       "baseline": "1.83.0",
@@ -10107,6 +10183,10 @@
     "boost-compat-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-compat-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-compatibility-1-66-0-0": {
       "baseline": "1.66.0",
@@ -10204,6 +10284,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-compatibility-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-compute-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -10299,6 +10383,10 @@
     "boost-compute-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-compute-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-concept-check-1-66-0-0": {
       "baseline": "1.66.0",
@@ -10404,6 +10492,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-concept-check-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-config-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -10508,6 +10600,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-config-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-container-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -10608,6 +10704,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-container-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-container-hash-1-67-0-0": {
       "baseline": "1.67.0",
       "port-version": 0
@@ -10699,6 +10799,10 @@
     "boost-container-hash-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-container-hash-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-context-1-66-0-0": {
       "baseline": "1.66.0",
@@ -10832,6 +10936,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-context-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-contract-1-67-0-0": {
       "baseline": "1.67.0",
       "port-version": 0
@@ -10927,6 +11035,10 @@
     "boost-contract-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-contract-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-conversion-1-66-0-0": {
       "baseline": "1.66.0",
@@ -11024,6 +11136,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-conversion-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-convert-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -11120,6 +11236,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-convert-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-core-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -11215,6 +11335,10 @@
     "boost-core-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-core-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-coroutine-1-66-0-0": {
       "baseline": "1.66.0",
@@ -11332,6 +11456,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-coroutine-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-coroutine2-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -11432,6 +11560,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-coroutine2-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-crc-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -11527,6 +11659,10 @@
     "boost-crc-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-crc-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-date-time-1-66-0-0": {
       "baseline": "1.66.0",
@@ -11628,6 +11764,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-date-time-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-describe-1-77-0-0": {
       "baseline": "1.77.0",
       "port-version": 0
@@ -11679,6 +11819,10 @@
     "boost-describe-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-describe-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-detail-1-66-0-0": {
       "baseline": "1.66.0",
@@ -11775,6 +11919,10 @@
     "boost-detail-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-detail-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-di-1-0-1-0": {
       "baseline": "1.0.1",
@@ -11920,6 +12068,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-dll-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-dynamic-bitset-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -12016,6 +12168,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-dynamic-bitset-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-endian-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -12111,6 +12267,10 @@
     "boost-endian-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-endian-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-exception-1-66-0-0": {
       "baseline": "1.66.0",
@@ -12211,6 +12371,10 @@
     "boost-exception-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-exception-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-fiber-1-66-0-0": {
       "baseline": "1.66.0",
@@ -12328,6 +12492,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-fiber-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-filesystem-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -12432,6 +12600,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-filesystem-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-flyweight-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -12527,6 +12699,10 @@
     "boost-flyweight-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-flyweight-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-foreach-1-66-0-0": {
       "baseline": "1.66.0",
@@ -12624,6 +12800,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-foreach-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-format-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -12719,6 +12899,10 @@
     "boost-format-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-format-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-function-1-66-0-0": {
       "baseline": "1.66.0",
@@ -12816,6 +13000,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-function-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-function-types-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -12911,6 +13099,10 @@
     "boost-function-types-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-function-types-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-functional-1-66-0-0": {
       "baseline": "1.66.0",
@@ -13008,6 +13200,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-functional-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-fusion-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -13104,6 +13300,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-fusion-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-geometry-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -13199,6 +13399,10 @@
     "boost-geometry-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-geometry-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-gil-1-66-0-0": {
       "baseline": "1.66.0",
@@ -13300,6 +13504,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-gil-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-graph-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -13400,6 +13608,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-graph-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-graph-parallel-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -13499,6 +13711,10 @@
     "boost-graph-parallel-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-graph-parallel-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-hana-1-66-0-0": {
       "baseline": "1.66.0",
@@ -13604,12 +13820,20 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-hana-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-hana-msvc-1-67-0-0": {
       "baseline": "1.67.0",
       "port-version": 0
     },
     "boost-hana-msvc-1-67-0-1-0": {
       "baseline": "1.67.0-1",
+      "port-version": 0
+    },
+    "boost-headers-1-84-0-0": {
+      "baseline": "1.84.0",
       "port-version": 0
     },
     "boost-heap-1-66-0-0": {
@@ -13708,6 +13932,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-heap-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-histogram-1-70-0-0": {
       "baseline": "1.70.0",
       "port-version": 0
@@ -13787,6 +14015,10 @@
     "boost-histogram-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-histogram-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-hof-1-67-0-0": {
       "baseline": "1.67.0",
@@ -13879,6 +14111,10 @@
     "boost-hof-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-hof-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-icl-1-66-0-0": {
       "baseline": "1.66.0",
@@ -13976,6 +14212,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-icl-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-integer-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -14071,6 +14311,10 @@
     "boost-integer-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-integer-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-interprocess-1-66-0-0": {
       "baseline": "1.66.0",
@@ -14168,6 +14412,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-interprocess-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-interval-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -14263,6 +14511,10 @@
     "boost-interval-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-interval-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-intrusive-1-66-0-0": {
       "baseline": "1.66.0",
@@ -14360,6 +14612,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-intrusive-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-io-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -14455,6 +14711,10 @@
     "boost-io-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-io-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-iostreams-1-66-0-0": {
       "baseline": "1.66.0",
@@ -14592,6 +14852,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-iostreams-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-iterator-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -14688,6 +14952,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-iterator-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-json-1-75-0-0": {
       "baseline": "1.75.0",
       "port-version": 0
@@ -14751,6 +15019,10 @@
     "boost-json-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-json-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-lambda-1-66-0-0": {
       "baseline": "1.66.0",
@@ -14848,6 +15120,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-lambda-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-lambda2-1-77-0-0": {
       "baseline": "1.77.0",
       "port-version": 0
@@ -14899,6 +15175,10 @@
     "boost-lambda2-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-lambda2-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-leaf-1-75-0-0": {
       "baseline": "1.75.0",
@@ -14959,6 +15239,10 @@
     "boost-leaf-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-leaf-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-lexical-cast-1-66-0-0": {
       "baseline": "1.66.0",
@@ -15056,6 +15340,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-lexical-cast-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-local-function-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -15151,6 +15439,10 @@
     "boost-local-function-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-local-function-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-locale-1-66-0-0": {
       "baseline": "1.66.0",
@@ -15280,6 +15572,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-locale-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-lockfree-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -15379,6 +15675,10 @@
     "boost-lockfree-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-lockfree-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-log-1-66-0-0": {
       "baseline": "1.66.0",
@@ -15488,6 +15788,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-log-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-logic-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -15583,6 +15887,10 @@
     "boost-logic-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-logic-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-math-1-66-0-0": {
       "baseline": "1.66.0",
@@ -15684,6 +15992,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-math-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-metaparse-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -15779,6 +16091,10 @@
     "boost-metaparse-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-metaparse-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-modular-build-helper-1-0": {
       "baseline": "1",
@@ -16204,6 +16520,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-move-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-mp11-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -16299,6 +16619,10 @@
     "boost-mp11-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-mp11-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-mpi-1-66-0-0": {
       "baseline": "1.66.0",
@@ -16412,6 +16736,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-mpi-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-mpl-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -16508,6 +16836,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-mpl-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-msm-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -16603,6 +16935,10 @@
     "boost-msm-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-msm-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-multi-array-1-66-0-0": {
       "baseline": "1.66.0",
@@ -16704,6 +17040,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-multi-array-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-multi-index-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -16799,6 +17139,10 @@
     "boost-multi-index-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-multi-index-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-multiprecision-1-66-0-0": {
       "baseline": "1.66.0",
@@ -16896,6 +17240,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-multiprecision-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-mysql-1-82-0-0": {
       "baseline": "1.82.0",
       "port-version": 0
@@ -16915,6 +17263,10 @@
     "boost-mysql-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-mysql-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-nowide-1-73-0-0": {
       "baseline": "1.73.0",
@@ -16987,6 +17339,10 @@
     "boost-nowide-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-nowide-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-numeric-conversion-1-66-0-0": {
       "baseline": "1.66.0",
@@ -17083,6 +17439,10 @@
     "boost-numeric-conversion-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-numeric-conversion-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-odeint-1-66-0-0": {
       "baseline": "1.66.0",
@@ -17184,6 +17544,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-odeint-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-optional-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -17280,6 +17644,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-optional-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-outcome-1-70-0-0": {
       "baseline": "1.70.0",
       "port-version": 0
@@ -17359,6 +17727,10 @@
     "boost-outcome-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-outcome-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-parameter-1-66-0-0": {
       "baseline": "1.66.0",
@@ -17456,6 +17828,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-parameter-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-parameter-python-1-69-0-0": {
       "baseline": "1.69.0",
       "port-version": 0
@@ -17548,6 +17924,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-parameter-python-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-pfr-1-75-0-0": {
       "baseline": "1.75.0",
       "port-version": 0
@@ -17607,6 +17987,10 @@
     "boost-pfr-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-pfr-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-phoenix-1-66-0-0": {
       "baseline": "1.66.0",
@@ -17703,6 +18087,10 @@
     "boost-phoenix-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-phoenix-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-poly-collection-1-66-0-0": {
       "baseline": "1.66.0",
@@ -17804,6 +18192,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-poly-collection-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-polygon-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -17899,6 +18291,10 @@
     "boost-polygon-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-polygon-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-pool-1-66-0-0": {
       "baseline": "1.66.0",
@@ -17996,6 +18392,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-pool-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-predef-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -18092,6 +18492,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-predef-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-preprocessor-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -18187,6 +18591,10 @@
     "boost-preprocessor-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-preprocessor-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-process-1-66-0-0": {
       "baseline": "1.66.0",
@@ -18300,6 +18708,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-process-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-program-options-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -18400,6 +18812,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-program-options-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-property-map-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -18496,6 +18912,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-property-map-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-property-map-parallel-1-77-0-0": {
       "baseline": "1.77.0",
       "port-version": 0
@@ -18547,6 +18967,10 @@
     "boost-property-map-parallel-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-property-map-parallel-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-property-tree-1-66-0-0": {
       "baseline": "1.66.0",
@@ -18644,6 +19068,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-property-tree-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-proto-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -18740,6 +19168,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-proto-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-ptr-container-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -18835,6 +19267,10 @@
     "boost-ptr-container-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-ptr-container-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-python-1-66-0-0": {
       "baseline": "1.66.0",
@@ -18972,6 +19408,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-python-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-qvm-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -19067,6 +19507,10 @@
     "boost-qvm-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-qvm-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-random-1-66-0-0": {
       "baseline": "1.66.0",
@@ -19168,6 +19612,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-random-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-range-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -19263,6 +19711,10 @@
     "boost-range-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-range-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-ratio-1-66-0-0": {
       "baseline": "1.66.0",
@@ -19360,6 +19812,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-ratio-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-rational-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -19456,9 +19912,17 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-rational-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-redis-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-redis-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-regex-1-66-0-0": {
       "baseline": "1.66.0",
@@ -19568,6 +20032,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-regex-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-safe-numerics-1-69-0-0": {
       "baseline": "1.69.0",
       "port-version": 0
@@ -19655,6 +20123,10 @@
     "boost-safe-numerics-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-safe-numerics-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-scope-exit-1-66-0-0": {
       "baseline": "1.66.0",
@@ -19751,6 +20223,10 @@
     "boost-scope-exit-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-scope-exit-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-serialization-1-66-0-0": {
       "baseline": "1.66.0",
@@ -19851,6 +20327,10 @@
     "boost-serialization-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-serialization-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-signals-1-66-0-0": {
       "baseline": "1.66.0",
@@ -19964,6 +20444,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-signals2-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-smart-ptr-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -20059,6 +20543,10 @@
     "boost-smart-ptr-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-smart-ptr-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-sort-1-66-0-0": {
       "baseline": "1.66.0",
@@ -20156,6 +20644,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-sort-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-spirit-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -20251,6 +20743,10 @@
     "boost-spirit-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-spirit-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-stacktrace-1-66-0-0": {
       "baseline": "1.66.0",
@@ -20356,6 +20852,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-stacktrace-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-statechart-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -20451,6 +20951,10 @@
     "boost-statechart-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-statechart-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-static-assert-1-66-0-0": {
       "baseline": "1.66.0",
@@ -20548,6 +21052,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-static-assert-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-static-string-1-73-0-0": {
       "baseline": "1.73.0",
       "port-version": 0
@@ -20616,6 +21124,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-static-string-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-stl-interfaces-1-74-0-0": {
       "baseline": "1.74.0",
       "port-version": 0
@@ -20679,6 +21191,10 @@
     "boost-stl-interfaces-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-stl-interfaces-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-system-1-66-0-0": {
       "baseline": "1.66.0",
@@ -20783,6 +21299,10 @@
     "boost-system-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-system-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-test-1-66-0-0": {
       "baseline": "1.66.0",
@@ -20896,6 +21416,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-test-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-thread-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -21000,6 +21524,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-thread-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-throw-exception-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -21095,6 +21623,10 @@
     "boost-throw-exception-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-throw-exception-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-timer-1-66-0-0": {
       "baseline": "1.66.0",
@@ -21196,6 +21728,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-timer-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-tokenizer-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -21291,6 +21827,10 @@
     "boost-tokenizer-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-tokenizer-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-tti-1-66-0-0": {
       "baseline": "1.66.0",
@@ -21388,6 +21928,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-tti-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-tuple-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -21483,6 +22027,10 @@
     "boost-tuple-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-tuple-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-type-erasure-1-66-0-0": {
       "baseline": "1.66.0",
@@ -21588,6 +22136,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-type-erasure-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-type-index-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -21683,6 +22235,10 @@
     "boost-type-index-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-type-index-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-type-traits-1-66-0-0": {
       "baseline": "1.66.0",
@@ -21780,6 +22336,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-type-traits-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-typeof-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -21875,6 +22435,10 @@
     "boost-typeof-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-typeof-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-ublas-1-66-0-0": {
       "baseline": "1.66.0",
@@ -21976,6 +22540,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-ublas-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-uninstall-1-73-0-0": {
       "baseline": "1.73.0",
       "port-version": 0
@@ -22043,6 +22611,10 @@
     "boost-uninstall-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-uninstall-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-units-1-66-0-0": {
       "baseline": "1.66.0",
@@ -22140,6 +22712,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-units-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-unordered-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -22236,6 +22812,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-unordered-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-url-1-81-0-0": {
       "baseline": "1.81.0",
       "port-version": 0
@@ -22267,6 +22847,10 @@
     "boost-url-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-url-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-utility-1-66-0-0": {
       "baseline": "1.66.0",
@@ -22364,6 +22948,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-utility-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-uuid-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -22459,6 +23047,10 @@
     "boost-uuid-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-uuid-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-variant-1-66-0-0": {
       "baseline": "1.66.0",
@@ -22556,6 +23148,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-variant-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-variant2-1-71-0-0": {
       "baseline": "1.71.0",
       "port-version": 0
@@ -22631,6 +23227,10 @@
     "boost-variant2-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-variant2-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-vcpkg-helpers-1-0": {
       "baseline": "1",
@@ -22824,6 +23424,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-vmd-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-wave-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -22928,6 +23532,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-wave-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-winapi-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -23023,6 +23631,10 @@
     "boost-winapi-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-winapi-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boost-xpressive-1-66-0-0": {
       "baseline": "1.66.0",
@@ -23120,6 +23732,10 @@
       "baseline": "1.84.0",
       "port-version": 0
     },
+    "boost-xpressive-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
+    },
     "boost-yap-1-68-0-0": {
       "baseline": "1.68.0",
       "port-version": 0
@@ -23207,6 +23823,10 @@
     "boost-yap-1-84-0-0": {
       "baseline": "1.84.0",
       "port-version": 0
+    },
+    "boost-yap-1-84-0-1": {
+      "baseline": "1.84.0",
+      "port-version": 1
     },
     "boringssl-2020-04-07-0": {
       "baseline": "2020-04-07",
@@ -105406,6 +106026,10 @@
     },
     "vcglib-2022-02-0": {
       "baseline": "2022.02",
+      "port-version": 0
+    },
+    "vcpkg-boost-2024-04-25-0": {
+      "baseline": "2024-04-25",
       "port-version": 0
     },
     "vcpkg-ci-paraview-1-1": {

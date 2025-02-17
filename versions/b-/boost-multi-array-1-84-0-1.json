@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/boost-multi-array-1-84-0-1",
+      "version": "1.84.0",
+      "port-version": 1
+    }
+  ]
+}

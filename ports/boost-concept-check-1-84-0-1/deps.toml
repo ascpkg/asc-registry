@@ -1,0 +1,10 @@
+old = "boost-concept-check"
+new = "boost-concept-check-1-84-0-1"
+
+[deps]
+boost-cmake-1-84-0-0 = "boost-cmake"
+boost-config-1-84-0-1 = "boost-config"
+boost-headers-1-84-0-0 = "boost-headers"
+boost-preprocessor-1-84-0-1 = "boost-preprocessor"
+boost-static-assert-1-84-0-1 = "boost-static-assert"
+boost-type-traits-1-84-0-1 = "boost-type-traits"

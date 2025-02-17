@@ -1,0 +1,10 @@
+old = "boost-any"
+new = "boost-any-1-84-0-1"
+
+[deps]
+boost-assert-1-84-0-1 = "boost-assert"
+boost-cmake-1-84-0-0 = "boost-cmake"
+boost-config-1-84-0-1 = "boost-config"
+boost-headers-1-84-0-0 = "boost-headers"
+boost-throw-exception-1-84-0-1 = "boost-throw-exception"
+boost-type-index-1-84-0-1 = "boost-type-index"
