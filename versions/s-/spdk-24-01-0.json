@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/spdk-24-01-0",
+      "version-string": "24.01",
+      "port-version": 0
+    }
+  ]
+}

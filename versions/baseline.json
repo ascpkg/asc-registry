@@ -97548,6 +97548,10 @@
       "baseline": "19.01.1",
       "port-version": 3
     },
+    "spdk-24-01-0": {
+      "baseline": "24.01",
+      "port-version": 0
+    },
     "spdk-dpdk-2018-11-24-2": {
       "baseline": "2018-11-24",
       "port-version": 2
