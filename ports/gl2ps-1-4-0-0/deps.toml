@@ -1,0 +1,7 @@
+old = "gl2ps"
+new = "gl2ps-1-4-0-0"
+
+[deps]
+freeglut-3-0-0-1-0 = "freeglut"
+libpng-1-6-31-0 = "libpng"
+zlib-1-2-11-0 = "zlib"
