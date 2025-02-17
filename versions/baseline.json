@@ -76792,6 +76792,10 @@
       "baseline": "9.2.0",
       "port-version": 0
     },
+    "octave-9-2-0-1": {
+      "baseline": "9.2.0",
+      "port-version": 1
+    },
     "octomap-1-10-0-0": {
       "baseline": "1.10.0",
       "port-version": 0
