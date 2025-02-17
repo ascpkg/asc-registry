@@ -11296,6 +11296,10 @@
       "baseline": "6.3.1",
       "port-version": 2
     },
+    "chartdir-7-0-0-0": {
+      "baseline": "7.0.0",
+      "port-version": 0
+    },
     "check-0-12-0-1-0": {
       "baseline": "0.12.0-1",
       "port-version": 0
