@@ -61656,6 +61656,10 @@
       "baseline": "0.24.2",
       "port-version": 0
     },
+    "libdjinterop-0-24-3-0": {
+      "baseline": "0.24.3",
+      "port-version": 0
+    },
     "libdmx-1-1-4-0": {
       "baseline": "1.1.4",
       "port-version": 0
