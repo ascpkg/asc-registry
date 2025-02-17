@@ -27112,6 +27112,10 @@
       "baseline": "5.0.0",
       "port-version": 1
     },
+    "libspatialite-5-0-0-2": {
+      "baseline": "5.0.0",
+      "port-version": 2
+    },
     "libspnav-0-2-3-0": {
       "baseline": "0.2.3",
       "port-version": 0
