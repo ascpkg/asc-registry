@@ -1204,6 +1204,10 @@
       "baseline": "1.0.1",
       "port-version": 1
     },
+    "arrow-1-0-1-2": {
+      "baseline": "1.0.1",
+      "port-version": 2
+    },
     "arrow-apache-arrow-0-4-0-0": {
       "baseline": "apache-arrow-0.4.0",
       "port-version": 0
@@ -29344,6 +29348,10 @@
       "baseline": "1.6.4",
       "port-version": 0
     },
+    "orc-1-6-4-1": {
+      "baseline": "1.6.4",
+      "port-version": 1
+    },
     "orocos-kdl-1-4-0": {
       "baseline": "1.4",
       "port-version": 0
@@ -41963,6 +41971,10 @@
     "zstd-1-4-4-3": {
       "baseline": "1.4.4",
       "port-version": 3
+    },
+    "zstd-1-4-5-1": {
+      "baseline": "1.4.5",
+      "port-version": 1
     },
     "zstr-1-0-1-0": {
       "baseline": "1.0.1",
