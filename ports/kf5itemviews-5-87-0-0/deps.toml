@@ -1,0 +1,9 @@
+old = "kf5itemviews"
+new = "kf5itemviews-5-87-0-0"
+
+[deps]
+ecm-5-87-0-0 = "ecm"
+qt5-base-5-15-2-16 = "qt5-base"
+qt5-tools-5-15-2-1 = "qt5-tools"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-11-01-0 = "vcpkg-cmake-config"
