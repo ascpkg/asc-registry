@@ -10744,6 +10744,10 @@
       "baseline": "2019-06-10-4",
       "port-version": 0
     },
+    "d3dx12-may2020-0": {
+      "baseline": "may2020",
+      "port-version": 0
+    },
     "darknet-0-2-5-0": {
       "baseline": "0.2.5",
       "port-version": 0
