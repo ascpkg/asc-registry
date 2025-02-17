@@ -1480,6 +1480,10 @@
       "baseline": "1.18.2",
       "port-version": 0
     },
+    "asio-1-19-2-0": {
+      "baseline": "1.19.2",
+      "port-version": 0
+    },
     "asiosdk-2-3-3-0": {
       "baseline": "2.3.3",
       "port-version": 0
