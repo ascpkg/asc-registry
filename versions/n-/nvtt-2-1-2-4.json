@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/nvtt-2-1-2-4",
+      "version": "2.1.2",
+      "port-version": 4
+    }
+  ]
+}
