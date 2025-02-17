@@ -28248,6 +28248,10 @@
       "baseline": "5.15.0",
       "port-version": 0
     },
+    "qt5-base-5-15-0-1": {
+      "baseline": "5.15.0",
+      "port-version": 1
+    },
     "qt5-base-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -28379,6 +28383,10 @@
     "qt5-connectivity-5-15-0-0": {
       "baseline": "5.15.0",
       "port-version": 0
+    },
+    "qt5-connectivity-5-15-0-1": {
+      "baseline": "5.15.0",
+      "port-version": 1
     },
     "qt5-datavis3d-5-11-1-0": {
       "baseline": "5.11.1",
@@ -28672,6 +28680,10 @@
       "baseline": "5.15.0",
       "port-version": 0
     },
+    "qt5-imageformats-5-15-0-1": {
+      "baseline": "5.15.0",
+      "port-version": 1
+    },
     "qt5-imageformats-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -28715,6 +28727,10 @@
     "qt5-location-5-15-0-0": {
       "baseline": "5.15.0",
       "port-version": 0
+    },
+    "qt5-location-5-15-0-1": {
+      "baseline": "5.15.0",
+      "port-version": 1
     },
     "qt5-macextras-5-12-1-0": {
       "baseline": "5.12.1",
@@ -30047,6 +30063,10 @@
     "qwt-6-1-4-0": {
       "baseline": "6.1.4",
       "port-version": 0
+    },
+    "qwt-6-1-4-1": {
+      "baseline": "6.1.4",
+      "port-version": 1
     },
     "rabit-0-1-0": {
       "baseline": "0.1",
