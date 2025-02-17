@@ -33404,6 +33404,10 @@
       "baseline": "qt4",
       "port-version": 3
     },
+    "osg-qt-qt5-0": {
+      "baseline": "qt5",
+      "port-version": 0
+    },
     "osgearth-2-10-0": {
       "baseline": "2.10",
       "port-version": 0
