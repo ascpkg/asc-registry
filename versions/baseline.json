@@ -9220,6 +9220,10 @@
       "baseline": "4.13.0-906736bd-1",
       "port-version": 0
     },
+    "itk-4-13-0-906736bd-2-0": {
+      "baseline": "4.13.0-906736bd-2",
+      "port-version": 0
+    },
     "jack2-1-9-12-0": {
       "baseline": "1.9.12",
       "port-version": 0
@@ -13306,6 +13310,10 @@
     },
     "openjpeg-2-3-0-1-0": {
       "baseline": "2.3.0-1",
+      "port-version": 0
+    },
+    "openjpeg-2-3-1-0": {
+      "baseline": "2.3.1",
       "port-version": 0
     },
     "openmama-6-2-1-a5a93a24d2f89a0def0145552c8cd4a53c69e2de-0": {
