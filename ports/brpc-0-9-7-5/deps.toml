@@ -1,0 +1,11 @@
+old = "brpc"
+new = "brpc-0-9-7-5"
+
+[deps]
+gflags-2-2-2-5 = "gflags"
+glog-0-4-0-4 = "glog"
+leveldb-1-22-2 = "leveldb"
+openssl-1-1-1m-1 = "openssl"
+protobuf-3-18-0-1 = "protobuf"
+thrift-0-13-0-2 = "thrift"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
