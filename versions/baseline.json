@@ -24492,6 +24492,10 @@
       "baseline": "0.7.0",
       "port-version": 3
     },
+    "graphqlparser-0-7-0-4": {
+      "baseline": "0.7.0",
+      "port-version": 4
+    },
     "graphqlparser-v0-7-0-0": {
       "baseline": "v0.7.0",
       "port-version": 0
