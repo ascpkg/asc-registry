@@ -1,0 +1,2 @@
+old = "libusb"
+new = "libusb-1-0-21-fc99620-0"
