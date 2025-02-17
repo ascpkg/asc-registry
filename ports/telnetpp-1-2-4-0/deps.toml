@@ -1,0 +1,7 @@
+old = "telnetpp"
+new = "telnetpp-1-2-4-0"
+
+[deps]
+boost-1-65-1-0 = "boost"
+gtest-1-8-1-0 = "gtest"
+zlib-1-2-11-3-0 = "zlib"
