@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/lilv-0-24-24-1",
+      "version": "0.24.24",
+      "port-version": 1
+    }
+  ]
+}
