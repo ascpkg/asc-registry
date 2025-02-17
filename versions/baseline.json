@@ -12808,6 +12808,10 @@
       "baseline": "7.6.5",
       "port-version": 0
     },
+    "cudnn-7-6-5-1": {
+      "baseline": "7.6.5",
+      "port-version": 1
+    },
     "cunit-2-1-3-0": {
       "baseline": "2.1.3",
       "port-version": 0
