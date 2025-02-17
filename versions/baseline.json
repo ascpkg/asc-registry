@@ -78192,6 +78192,10 @@
       "baseline": "24.2.0",
       "port-version": 1
     },
+    "poppler-24-3-0-0": {
+      "baseline": "24.3.0",
+      "port-version": 0
+    },
     "popsift-0-9-0": {
       "baseline": "0.9",
       "port-version": 0
