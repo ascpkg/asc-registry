@@ -36328,6 +36328,10 @@
       "baseline": "15.0.0",
       "port-version": 0
     },
+    "halide-15-0-0-1": {
+      "baseline": "15.0.0",
+      "port-version": 1
+    },
     "halide-master-2020-03-07-0": {
       "baseline": "master_2020_03_07",
       "port-version": 0
