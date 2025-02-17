@@ -42156,6 +42156,10 @@
       "baseline": "0.6.0",
       "port-version": 1
     },
+    "usockets-2021-1-19-0": {
+      "baseline": "2021-1-19",
+      "port-version": 0
+    },
     "usrsctp-0db9691-0": {
       "baseline": "0db9691",
       "port-version": 0
