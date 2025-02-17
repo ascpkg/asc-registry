@@ -1,0 +1,8 @@
+{
+  "name": "ctemplate-2020-09-14-4",
+  "version-date": "2020-09-14",
+  "port-version": 4,
+  "description": "C++ CTemplate system",
+  "homepage": "https://github.com/OlafvdSpek/ctemplate",
+  "supports": "windows & !arm"
+}
