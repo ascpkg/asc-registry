@@ -71144,6 +71144,10 @@
       "baseline": "4.0.0",
       "port-version": 0
     },
+    "seal-4-1-1-0": {
+      "baseline": "4.1.1",
+      "port-version": 0
+    },
     "secp256k1--0": {
       "baseline": "",
       "port-version": 0
