@@ -17104,6 +17104,10 @@
       "baseline": "3.2.0",
       "port-version": 0
     },
+    "cnats-3-3-0-0": {
+      "baseline": "3.3.0",
+      "port-version": 0
+    },
     "cnl-1-1-7-0": {
       "baseline": "1.1.7",
       "port-version": 0
