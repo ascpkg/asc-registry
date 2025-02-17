@@ -5928,6 +5928,10 @@
       "baseline": "5.0.1-1",
       "port-version": 0
     },
+    "tinyxml2-6-0-0-0": {
+      "baseline": "6.0.0",
+      "port-version": 0
+    },
     "unicorn-2017-12-06-bc34c36eaeca0f4fc672015d24ce3efbcc81d6e4-0": {
       "baseline": "2017-12-06-bc34c36eaeca0f4fc672015d24ce3efbcc81d6e4",
       "port-version": 0
