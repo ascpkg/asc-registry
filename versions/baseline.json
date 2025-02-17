@@ -82664,6 +82664,10 @@
       "baseline": "4.4.8.31",
       "port-version": 0
     },
+    "sciter-js-5-0-2-17-0": {
+      "baseline": "5.0.2.17",
+      "port-version": 0
+    },
     "scnlib-0-1-2-0": {
       "baseline": "0.1.2",
       "port-version": 0
