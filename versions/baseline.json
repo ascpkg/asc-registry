@@ -88784,6 +88784,10 @@
       "baseline": "3.10.7",
       "port-version": 7
     },
+    "python3-3-11-10-0": {
+      "baseline": "3.11.10",
+      "port-version": 0
+    },
     "python3-3-11-4-0": {
       "baseline": "3.11.4",
       "port-version": 0
@@ -115550,6 +115554,10 @@
     },
     "vcpkg-get-python-packages-2024-01-24-0": {
       "baseline": "2024-01-24",
+      "port-version": 0
+    },
+    "vcpkg-get-python-packages-2024-09-29-0": {
+      "baseline": "2024-09-29",
       "port-version": 0
     },
     "vcpkg-gfortran-1-0": {
