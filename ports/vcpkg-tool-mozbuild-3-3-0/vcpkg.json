@@ -1,0 +1,7 @@
+{
+  "name": "vcpkg-tool-mozbuild-3-3-0",
+  "version": "3.3",
+  "description": "mozbuild is a Python package providing functionality used by Mozilla’s build system",
+  "homepage": "https://firefox-source-docs.mozilla.org/build/buildsystem/mozbuild/index.html",
+  "supports": "native & x64 & windows"
+}
