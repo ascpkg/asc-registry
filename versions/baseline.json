@@ -44032,6 +44032,10 @@
       "baseline": "1.2.0alpha1-20170719",
       "port-version": 5
     },
+    "libtheora-1-2-0alpha1-20170719-6": {
+      "baseline": "1.2.0alpha1-20170719",
+      "port-version": 6
+    },
     "libtheora-1-2-0alpha1-20170719-vcpkg1-0": {
       "baseline": "1.2.0alpha1-20170719~vcpkg1",
       "port-version": 0
