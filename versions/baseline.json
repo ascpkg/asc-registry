@@ -109892,6 +109892,10 @@
       "baseline": "1.22",
       "port-version": 4
     },
+    "spatial-hash-1-0-0-0": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
     "spatialite-tools-4-3-0-0": {
       "baseline": "4.3.0",
       "port-version": 0
