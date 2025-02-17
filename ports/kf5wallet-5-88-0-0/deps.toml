@@ -1,0 +1,14 @@
+old = "kf5wallet"
+new = "kf5wallet-5-88-0-0"
+
+[deps]
+ecm-5-88-0-0 = "ecm"
+gettext-0-21-7 = "gettext"
+kf5config-5-88-0-0 = "kf5config"
+kf5coreaddons-5-88-0-0 = "kf5coreaddons"
+kf5i18n-5-88-0-0 = "kf5i18n"
+kf5windowsystem-5-88-0-0 = "kf5windowsystem"
+qt5-base-5-15-2-16 = "qt5-base"
+qt5-tools-5-15-2-1 = "qt5-tools"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-11-01-0 = "vcpkg-cmake-config"
