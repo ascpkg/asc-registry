@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/krb5-1-21-3-2",
+      "version": "1.21.3",
+      "port-version": 2
+    }
+  ]
+}
