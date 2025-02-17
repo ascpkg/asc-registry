@@ -59728,6 +59728,10 @@
       "baseline": "3.4.1",
       "port-version": 0
     },
+    "openslide-3-4-1-1": {
+      "baseline": "3.4.1",
+      "port-version": 1
+    },
     "openssl-0-0": {
       "baseline": "0",
       "port-version": 0
