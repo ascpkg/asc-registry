@@ -17340,6 +17340,10 @@
       "baseline": "67",
       "port-version": 1
     },
+    "cspice-67-2": {
+      "baseline": "67",
+      "port-version": 2
+    },
     "ctbignum-2019-08-02-0": {
       "baseline": "2019-08-02",
       "port-version": 0
