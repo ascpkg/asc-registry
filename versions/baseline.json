@@ -21712,6 +21712,10 @@
       "baseline": "4.1.14",
       "port-version": 0
     },
+    "krabsetw-4-1-18-0": {
+      "baseline": "4.1.18",
+      "port-version": 0
+    },
     "ktx-4-0-0-beta5-1": {
       "baseline": "4.0.0-beta5",
       "port-version": 1
