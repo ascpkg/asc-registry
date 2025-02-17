@@ -99836,6 +99836,10 @@
       "baseline": "6.8.0",
       "port-version": 0
     },
+    "qtquick3d-6-8-0-1": {
+      "baseline": "6.8.0",
+      "port-version": 1
+    },
     "qtquick3dphysics-6-4-0-0": {
       "baseline": "6.4.0",
       "port-version": 0
