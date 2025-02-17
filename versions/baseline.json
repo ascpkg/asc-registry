@@ -15348,6 +15348,10 @@
       "baseline": "0.4.1",
       "port-version": 0
     },
+    "xtl-0-5-3-0": {
+      "baseline": "0.5.3",
+      "port-version": 0
+    },
     "xxhash-0-6-2-0": {
       "baseline": "0.6.2",
       "port-version": 0
