@@ -56844,6 +56844,10 @@
       "baseline": "2.5.1",
       "port-version": 11
     },
+    "sfml-2-5-1-12": {
+      "baseline": "2.5.1",
+      "port-version": 12
+    },
     "sfml-2-5-1-2-0": {
       "baseline": "2.5.1-2",
       "port-version": 0
