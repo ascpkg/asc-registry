@@ -12972,6 +12972,10 @@
       "baseline": "2017-08-15-d84867ebf9f-6",
       "port-version": 0
     },
+    "libhydrogen-2019-08-11-0": {
+      "baseline": "2019-08-11",
+      "port-version": 0
+    },
     "libiconv-1-14-0": {
       "baseline": "1.14",
       "port-version": 0
