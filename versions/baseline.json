@@ -22928,6 +22928,10 @@
       "baseline": "8.41-4",
       "port-version": 0
     },
+    "pcre-8-44-0": {
+      "baseline": "8.44",
+      "port-version": 0
+    },
     "pcre2-10-23-0": {
       "baseline": "10.23",
       "port-version": 0
