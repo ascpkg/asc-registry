@@ -6576,6 +6576,10 @@
       "baseline": "1.8.0-3",
       "port-version": 0
     },
+    "libssh2-1-8-0-4-0": {
+      "baseline": "1.8.0-4",
+      "port-version": 0
+    },
     "libstemmer--0": {
       "baseline": "",
       "port-version": 0
