@@ -32464,6 +32464,10 @@
       "baseline": "2.7.0",
       "port-version": 2
     },
+    "fastrtps-2-7-0-3": {
+      "baseline": "2.7.0",
+      "port-version": 3
+    },
     "fawdlstty-libfv-0-0-6-0": {
       "baseline": "0.0.6",
       "port-version": 0
@@ -67047,6 +67051,10 @@
     "openssl-3-1-2-2": {
       "baseline": "3.1.2",
       "port-version": 2
+    },
+    "openssl-3-1-2-3": {
+      "baseline": "3.1.2",
+      "port-version": 3
     },
     "openssl-microsoft-1-0-2-winrt-stable-0": {
       "baseline": "1.0.2-winrt-stable",
