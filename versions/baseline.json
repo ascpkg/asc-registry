@@ -2424,6 +2424,10 @@
       "baseline": "12.0.0-beta.7",
       "port-version": 0
     },
+    "azure-storage-files-shares-cpp-12-0-0-beta-7-0": {
+      "baseline": "12.0.0-beta.7",
+      "port-version": 0
+    },
     "azure-uamqp-c-1-0-0-pre-release-1-0-9-0": {
       "baseline": "1.0.0-pre-release-1.0.9",
       "port-version": 0
