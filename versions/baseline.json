@@ -64532,6 +64532,10 @@
       "baseline": "0.9.6",
       "port-version": 4
     },
+    "rubberband-2-0-2-0": {
+      "baseline": "2.0.2",
+      "port-version": 0
+    },
     "rxcpp-2-3-0-0": {
       "baseline": "2.3.0",
       "port-version": 0

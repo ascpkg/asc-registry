@@ -1,0 +1,8 @@
+old = "rubberband"
+new = "rubberband-2-0-2-0"
+
+[deps]
+fftw3-3-3-10-4 = "fftw3"
+libsamplerate-0-2-2-0 = "libsamplerate"
+libsndfile-1-1-0-1 = "libsndfile"
+vcpkg-tool-meson-0-63-0 = "vcpkg-tool-meson"
