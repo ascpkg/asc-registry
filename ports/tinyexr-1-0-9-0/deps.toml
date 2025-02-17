@@ -1,0 +1,7 @@
+old = "tinyexr"
+new = "tinyexr-1-0-9-0"
+
+[deps]
+miniz-3-0-2-1 = "miniz"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
