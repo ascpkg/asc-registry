@@ -33532,6 +33532,10 @@
       "baseline": "2.1.28",
       "port-version": 0
     },
+    "cyrus-sasl-2-1-28-1": {
+      "baseline": "2.1.28",
+      "port-version": 1
+    },
     "czmq-2019-06-10-0": {
       "baseline": "2019-06-10",
       "port-version": 0
@@ -55743,6 +55747,10 @@
     "krb5-1-21-3-0": {
       "baseline": "1.21.3",
       "port-version": 0
+    },
+    "krb5-1-21-3-1": {
+      "baseline": "1.21.3",
+      "port-version": 1
     },
     "ktx-4-0-0-0": {
       "baseline": "4.0.0",
