@@ -2,9 +2,9 @@ old = "pdal"
 new = "pdal-1-7-1-10"
 
 [deps]
-boost-filesystem-1-73-0-1 = "boost-filesystem"
-boost-system-1-73-0-0 = "boost-system"
-gdal-2-4-1-13 = "gdal"
+boost-filesystem-1-74-0-0 = "boost-filesystem"
+boost-system-1-74-0-0 = "boost-system"
+gdal-3-1-3-0 = "gdal"
 geos-3-8-1-1 = "geos"
 jsoncpp-1-9-4-0 = "jsoncpp"
 laszip-3-4-3-0 = "laszip"
