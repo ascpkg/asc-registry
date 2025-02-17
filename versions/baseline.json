@@ -36428,6 +36428,10 @@
       "baseline": "2.11.1",
       "port-version": 0
     },
+    "freerdp-2-11-2-0": {
+      "baseline": "2.11.2",
+      "port-version": 0
+    },
     "freerdp-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
