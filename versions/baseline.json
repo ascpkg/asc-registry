@@ -24800,6 +24800,10 @@
       "baseline": "4.4.1",
       "port-version": 16
     },
+    "ffmpeg-4-4-1-17": {
+      "baseline": "4.4.1",
+      "port-version": 17
+    },
     "ffmpeg-4-4-1-2": {
       "baseline": "4.4.1",
       "port-version": 2
@@ -44692,6 +44696,10 @@
       "baseline": "2020.06",
       "port-version": 10
     },
+    "magnum-2020-06-11": {
+      "baseline": "2020.06",
+      "port-version": 11
+    },
     "magnum-2020-06-2": {
       "baseline": "2020.06",
       "port-version": 2
@@ -49343,6 +49351,10 @@
     "ogre-1-12-9-1": {
       "baseline": "1.12.9",
       "port-version": 1
+    },
+    "ogre-1-12-9-10": {
+      "baseline": "1.12.9",
+      "port-version": 10
     },
     "ogre-1-12-9-2": {
       "baseline": "1.12.9",
@@ -64630,6 +64642,10 @@
     },
     "sdl2-2-0-9-4-0": {
       "baseline": "2.0.9-4",
+      "port-version": 0
+    },
+    "sdl2-2-24-0-0": {
+      "baseline": "2.24.0",
       "port-version": 0
     },
     "sdl2-gfx-1-0-3-0": {
