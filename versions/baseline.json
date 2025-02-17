@@ -49932,6 +49932,10 @@
       "baseline": "7.0.11",
       "port-version": 0
     },
+    "juce-7-0-12-0": {
+      "baseline": "7.0.12",
+      "port-version": 0
+    },
     "juce-7-0-9-0": {
       "baseline": "7.0.9",
       "port-version": 0
