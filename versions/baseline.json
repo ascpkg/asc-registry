@@ -51980,6 +51980,10 @@
       "baseline": "1.3.2",
       "port-version": 1
     },
+    "libadwaita-1-3-2-2": {
+      "baseline": "1.3.2",
+      "port-version": 2
+    },
     "libaes-siv-2020-10-15-0": {
       "baseline": "2020-10-15",
       "port-version": 0
