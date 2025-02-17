@@ -700,6 +700,10 @@
       "baseline": "3.3.3-2",
       "port-version": 0
     },
+    "eigen3-3-3-3-3-0": {
+      "baseline": "3.3.3-3",
+      "port-version": 0
+    },
     "entityx--0": {
       "baseline": "",
       "port-version": 0
