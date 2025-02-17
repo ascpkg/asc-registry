@@ -2,6 +2,6 @@ old = "opusfile"
 new = "opusfile-0-11-3-0"
 
 [deps]
-libogg-1-3-3-4-0 = "libogg"
-openssl-1-0 = "openssl"
+libogg-1-3-4-0 = "libogg"
+openssl-1-1-1d-0 = "openssl"
 opus-1-3-1-0 = "opus"

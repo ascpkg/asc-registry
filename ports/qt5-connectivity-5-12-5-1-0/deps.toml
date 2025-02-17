@@ -2,4 +2,4 @@ old = "qt5-connectivity"
 new = "qt5-connectivity-5-12-5-1-0"
 
 [deps]
-qt5-base-5-12-5-1-0 = "qt5-base"
+qt5-base-5-12-5-8-0 = "qt5-base"

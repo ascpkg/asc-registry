@@ -2,4 +2,4 @@ old = "rabit"
 new = "rabit-0-1-2-0"
 
 [deps]
-dmlc-2019-08-12-0 = "dmlc"
+dmlc-2019-08-12-1-0 = "dmlc"

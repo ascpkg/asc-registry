@@ -2,5 +2,5 @@ old = "googleapis"
 new = "googleapis-0-1-5-0"
 
 [deps]
-grpc-1-23-0-0 = "grpc"
-protobuf-3-9-1-0 = "protobuf"
+grpc-1-26-0-1-0 = "grpc"
+protobuf-3-11-2-0 = "protobuf"
