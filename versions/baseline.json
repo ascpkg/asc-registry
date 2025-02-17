@@ -77016,6 +77016,10 @@
       "baseline": "3.3.3",
       "port-version": 8
     },
+    "zycore-1-3-0-0": {
+      "baseline": "1.3.0",
+      "port-version": 0
+    },
     "zydis-2-0-3-0": {
       "baseline": "2.0.3",
       "port-version": 0
