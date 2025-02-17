@@ -62420,6 +62420,10 @@
       "baseline": "7.70-1",
       "port-version": 0
     },
+    "nmap-7-70-10": {
+      "baseline": "7.70",
+      "port-version": 10
+    },
     "nmap-7-70-3-0": {
       "baseline": "7.70-3",
       "port-version": 0
