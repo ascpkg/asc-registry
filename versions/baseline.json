@@ -48308,6 +48308,10 @@
       "baseline": "323",
       "port-version": 2
     },
+    "libtar-1-2-20-0": {
+      "baseline": "1.2.20",
+      "port-version": 0
+    },
     "libtasn1-4-16-0-0": {
       "baseline": "4.16.0",
       "port-version": 0
