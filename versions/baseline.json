@@ -34924,6 +34924,10 @@
       "baseline": "1.5.0",
       "port-version": 0
     },
+    "ezc3d-1-5-7-0": {
+      "baseline": "1.5.7",
+      "port-version": 0
+    },
     "ezfoundation-21-10-0": {
       "baseline": "21.10",
       "port-version": 0
