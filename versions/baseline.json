@@ -72144,6 +72144,10 @@
       "baseline": "1.0.16",
       "port-version": 0
     },
+    "scenepic-1-0-16-1": {
+      "baseline": "1.0.16",
+      "port-version": 1
+    },
     "scintilla-3-7-6-0": {
       "baseline": "3.7.6",
       "port-version": 0
