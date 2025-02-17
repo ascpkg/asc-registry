@@ -27752,6 +27752,10 @@
       "baseline": "6.2.0",
       "port-version": 5
     },
+    "gmp-6-2-1-10": {
+      "baseline": "6.2.1",
+      "port-version": 10
+    },
     "gmp-6-2-1-2-0": {
       "baseline": "6.2.1-2",
       "port-version": 0
@@ -44535,6 +44539,10 @@
     "mpir-2022-03-02-0": {
       "baseline": "2022-03-02",
       "port-version": 0
+    },
+    "mpir-2022-03-02-1": {
+      "baseline": "2022-03-02",
+      "port-version": 1
     },
     "mpir-3-0-0-1-0": {
       "baseline": "3.0.0-1",
