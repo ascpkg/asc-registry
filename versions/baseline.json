@@ -11592,6 +11592,10 @@
       "baseline": "1.72b",
       "port-version": 0
     },
+    "imgui-sfml-2-0-2-0": {
+      "baseline": "2.0.2",
+      "port-version": 0
+    },
     "immer-2019-06-07-0": {
       "baseline": "2019-06-07",
       "port-version": 0
