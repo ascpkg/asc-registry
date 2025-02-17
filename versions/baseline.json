@@ -7260,6 +7260,10 @@
       "baseline": "2019.01-1",
       "port-version": 0
     },
+    "corrade-2019-10-0": {
+      "baseline": "2019.10",
+      "port-version": 0
+    },
     "corrade-jan2018-1-0": {
       "baseline": "jan2018-1",
       "port-version": 0
@@ -16940,6 +16944,10 @@
       "baseline": "2019.01-2",
       "port-version": 0
     },
+    "magnum-2019-10-0": {
+      "baseline": "2019.10",
+      "port-version": 0
+    },
     "magnum-extras-2018-02-1-0": {
       "baseline": "2018.02-1",
       "port-version": 0
@@ -16964,6 +16972,10 @@
       "baseline": "2019.01-2",
       "port-version": 0
     },
+    "magnum-extras-2019-10-0": {
+      "baseline": "2019.10",
+      "port-version": 0
+    },
     "magnum-integration-2018-02-1-0": {
       "baseline": "2018.02-1",
       "port-version": 0
@@ -16982,6 +16994,10 @@
     },
     "magnum-integration-2019-01-2-0": {
       "baseline": "2019.01-2",
+      "port-version": 0
+    },
+    "magnum-integration-2019-10-0": {
+      "baseline": "2019.10",
       "port-version": 0
     },
     "magnum-jan2018-1-0": {
@@ -17038,6 +17054,10 @@
     },
     "magnum-plugins-2019-01-2-0": {
       "baseline": "2019.01-2",
+      "port-version": 0
+    },
+    "magnum-plugins-2019-10-0": {
+      "baseline": "2019.10",
       "port-version": 0
     },
     "magnum-plugins-jan2018-1-0": {

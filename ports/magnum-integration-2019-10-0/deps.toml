@@ -1,0 +1,9 @@
+old = "magnum-integration"
+new = "magnum-integration-2019-10-0"
+
+[deps]
+bullet3-2-88-1-0 = "bullet3"
+eigen3-3-3-7-3-0 = "eigen3"
+glm-0-9-9-5-3-0 = "glm"
+imgui-1-73-1-0 = "imgui"
+magnum-2019-10-0 = "magnum"

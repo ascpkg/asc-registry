@@ -1,0 +1,9 @@
+old = "magnum"
+new = "magnum-2019-10-0"
+
+[deps]
+corrade-2019-10-0 = "corrade"
+glfw3-3-3-3-0 = "glfw3"
+magnum-2019-10-0 = "magnum"
+openal-soft-1-19-1-2-0 = "openal-soft"
+sdl2-2-0-10-1-0 = "sdl2"
