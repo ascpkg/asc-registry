@@ -70892,6 +70892,10 @@
       "baseline": "4.0.5",
       "port-version": 0
     },
+    "minizip-ng-4-0-7-0": {
+      "baseline": "4.0.7",
+      "port-version": 0
+    },
     "mio-2018-10-18-1-0": {
       "baseline": "2018-10-18-1",
       "port-version": 0
@@ -76975,6 +76979,10 @@
     "opencolorio-2-2-1-2": {
       "baseline": "2.2.1",
       "port-version": 2
+    },
+    "opencolorio-2-2-1-3": {
+      "baseline": "2.2.1",
+      "port-version": 3
     },
     "opencolorio-tools-1-1-1-0": {
       "baseline": "1.1.1",
