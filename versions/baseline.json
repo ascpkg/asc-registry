@@ -67908,6 +67908,10 @@
       "baseline": "20231027",
       "port-version": 0
     },
+    "ncnn-20240102-0": {
+      "baseline": "20240102",
+      "port-version": 0
+    },
     "ncurses-6-2-0": {
       "baseline": "6.2",
       "port-version": 0
