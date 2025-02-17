@@ -1,0 +1,13 @@
+old = "discordcoreapi"
+new = "discordcoreapi-2022-04-17-0"
+
+[deps]
+curl-7-82-0-0 = "curl"
+ffmpeg-4-4-1-12 = "ffmpeg"
+glib-2-70-5-0 = "glib"
+libsodium-1-0-18-6 = "libsodium"
+nlohmann-json-3-10-5-2 = "nlohmann-json"
+openssl-3-0-2-2 = "openssl"
+opus-1-3-1-6 = "opus"
+vcpkg-cmake-2022-04-07-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"
