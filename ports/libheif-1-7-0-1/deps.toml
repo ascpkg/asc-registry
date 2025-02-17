@@ -1,0 +1,6 @@
+old = "libheif"
+new = "libheif-1-7-0-1"
+
+[deps]
+libde265-1-0-5-0 = "libde265"
+x265-3-2-4-0 = "x265"

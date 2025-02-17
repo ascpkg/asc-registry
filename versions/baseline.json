@@ -18936,6 +18936,10 @@
       "baseline": "1.7.0",
       "port-version": 0
     },
+    "libheif-1-7-0-1": {
+      "baseline": "1.7.0",
+      "port-version": 1
+    },
     "libhydrogen-2019-08-11-0": {
       "baseline": "2019-08-11",
       "port-version": 0
@@ -25492,6 +25496,10 @@
       "baseline": "2.1.16.0",
       "port-version": 2
     },
+    "openimageio-2-1-16-0-3": {
+      "baseline": "2.1.16.0",
+      "port-version": 3
+    },
     "openimageio-2-1-9-0-0": {
       "baseline": "2.1.9.0",
       "port-version": 0
@@ -26587,6 +26595,10 @@
     "pangolin-0-5-8": {
       "baseline": "0.5",
       "port-version": 8
+    },
+    "pangolin-0-5-9": {
+      "baseline": "0.5",
+      "port-version": 9
     },
     "pangolin-v0-5-0": {
       "baseline": "v0.5",
