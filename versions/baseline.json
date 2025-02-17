@@ -2132,6 +2132,10 @@
       "baseline": "5.6.5-1",
       "port-version": 0
     },
+    "cryptopp-6-1-0-1-0": {
+      "baseline": "6.1.0-1",
+      "port-version": 0
+    },
     "ctemplate-2017-06-23-44b7c5-2-0": {
       "baseline": "2017-06-23-44b7c5-2",
       "port-version": 0
