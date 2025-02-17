@@ -36500,6 +36500,10 @@
       "baseline": "13.0.0",
       "port-version": 0
     },
+    "llvm-13-0-0-1": {
+      "baseline": "13.0.0",
+      "port-version": 1
+    },
     "llvm-4-0-0-0": {
       "baseline": "4.0.0",
       "port-version": 0
