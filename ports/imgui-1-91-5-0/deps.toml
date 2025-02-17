@@ -1,0 +1,15 @@
+old = "imgui"
+new = "imgui-1-91-5-0"
+
+[deps]
+allegro5-5-2-9-1-1 = "allegro5"
+freeglut-3-4-0-3 = "freeglut"
+freetype-2-13-3-0 = "freetype"
+glfw3-3-4-1 = "glfw3"
+imgui-1-91-5-0 = "imgui"
+lunasvg-2-4-1-0 = "lunasvg"
+sdl2-2-30-9-0 = "sdl2"
+stb-2024-07-29-1 = "stb"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
+vulkan-2023-12-17-0 = "vulkan"
