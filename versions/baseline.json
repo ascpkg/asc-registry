@@ -22508,6 +22508,10 @@
       "baseline": "0.2.2-3",
       "port-version": 0
     },
+    "libyaml-0-2-5-0": {
+      "baseline": "0.2.5",
+      "port-version": 0
+    },
     "libyuv-fec9121-0": {
       "baseline": "fec9121",
       "port-version": 0
@@ -35072,6 +35076,10 @@
       "baseline": "0.59",
       "port-version": 0
     },
+    "sqlpp11-0-60-0": {
+      "baseline": "0.60",
+      "port-version": 0
+    },
     "sqlpp11-connector-mysql-0-25-0": {
       "baseline": "0.25",
       "port-version": 0
@@ -37268,6 +37276,10 @@
       "baseline": "apr2019",
       "port-version": 0
     },
+    "uvatlas-aug2020-0": {
+      "baseline": "aug2020",
+      "port-version": 0
+    },
     "uvatlas-dec2019-0": {
       "baseline": "dec2019",
       "port-version": 0
@@ -38428,6 +38440,10 @@
       "baseline": "0.20.0-1",
       "port-version": 0
     },
+    "xeus-0-24-1-0": {
+      "baseline": "0.24.1",
+      "port-version": 0
+    },
     "xeus-2019-02-13-1-0": {
       "baseline": "2019-02-13-1",
       "port-version": 0
@@ -38674,6 +38690,10 @@
     },
     "xxhash-0-7-0-0": {
       "baseline": "0.7.0",
+      "port-version": 0
+    },
+    "xxhash-0-8-0-0": {
+      "baseline": "0.8.0",
       "port-version": 0
     },
     "yajl-2-1-0-1-0": {
