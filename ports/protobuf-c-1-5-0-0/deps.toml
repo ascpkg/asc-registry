@@ -1,0 +1,8 @@
+old = "protobuf-c"
+new = "protobuf-c-1-5-0-0"
+
+[deps]
+protobuf-4-25-1-0 = "protobuf"
+protobuf-c-1-5-0-0 = "protobuf-c"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
