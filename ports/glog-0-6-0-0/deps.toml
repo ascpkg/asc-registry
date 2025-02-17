@@ -1,0 +1,7 @@
+old = "glog"
+new = "glog-0-6-0-0"
+
+[deps]
+gflags-2-2-2-5 = "gflags"
+vcpkg-cmake-2022-06-07-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

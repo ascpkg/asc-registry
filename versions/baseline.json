@@ -14940,6 +14940,10 @@
       "baseline": "0.8.1",
       "port-version": 6
     },
+    "caffe2-0-8-1-7": {
+      "baseline": "0.8.1",
+      "port-version": 7
+    },
     "cairo-1-14-6-0": {
       "baseline": "1.14.6",
       "port-version": 0
@@ -22572,6 +22576,10 @@
       "baseline": "0.7.0",
       "port-version": 5
     },
+    "evpp-0-7-0-6": {
+      "baseline": "0.7.0",
+      "port-version": 6
+    },
     "exiv2-0-27-0": {
       "baseline": "0.27",
       "port-version": 0
@@ -23175,6 +23183,10 @@
     "fbthrift-2022-03-21-00-1": {
       "baseline": "2022.03.21.00",
       "port-version": 1
+    },
+    "fbthrift-2022-03-21-00-2": {
+      "baseline": "2022.03.21.00",
+      "port-version": 2
     },
     "fcl-0-5-0-1-0": {
       "baseline": "0.5.0-1",
@@ -24723,6 +24735,10 @@
     "folly-2022-03-21-00-0": {
       "baseline": "2022.03.21.00",
       "port-version": 0
+    },
+    "folly-2022-03-21-00-1": {
+      "baseline": "2022.03.21.00",
+      "port-version": 1
     },
     "folly-v2017-05-08-00-0": {
       "baseline": "v2017.05.08.00",
@@ -27687,6 +27703,10 @@
     "glog-0-5-0-5": {
       "baseline": "0.5.0",
       "port-version": 5
+    },
+    "glog-0-6-0-0": {
+      "baseline": "0.6.0",
+      "port-version": 0
     },
     "glog-0472b91-0": {
       "baseline": "0472b91",
