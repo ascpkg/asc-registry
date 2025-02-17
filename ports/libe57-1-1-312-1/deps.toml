@@ -1,0 +1,17 @@
+old = "libe57"
+new = "libe57-1-1-312-1"
+
+[deps]
+boost-crc-1-77-0-0 = "boost-crc"
+boost-filesystem-1-77-0-0 = "boost-filesystem"
+boost-format-1-77-0-0 = "boost-format"
+boost-math-1-77-0-0 = "boost-math"
+boost-program-options-1-77-0-0 = "boost-program-options"
+boost-system-1-77-0-0 = "boost-system"
+boost-thread-1-77-0-0 = "boost-thread"
+boost-uuid-1-77-0-0 = "boost-uuid"
+boost-variant-1-77-0-0 = "boost-variant"
+icu-69-1-15 = "icu"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"
+xerces-c-3-2-3-2 = "xerces-c"

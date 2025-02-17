@@ -1,0 +1,10 @@
+{
+  "name": "boost-assert-1-77-0-0",
+  "version": "1.77.0",
+  "description": "Boost assert module",
+  "homepage": "https://github.com/boostorg/assert",
+  "dependencies": [
+    "boost-config",
+    "boost-vcpkg-helpers"
+  ]
+}
