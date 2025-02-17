@@ -64872,6 +64872,10 @@
       "baseline": "0.10.1",
       "port-version": 0
     },
+    "libraqm-0-10-2-0": {
+      "baseline": "0.10.2",
+      "port-version": 0
+    },
     "libraqm-0-6-0-0": {
       "baseline": "0.6.0",
       "port-version": 0
