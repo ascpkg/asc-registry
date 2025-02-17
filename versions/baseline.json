@@ -35308,6 +35308,10 @@
       "baseline": "3.2.3",
       "port-version": 0
     },
+    "xerces-c-3-2-3-1-0": {
+      "baseline": "3.2.3-1",
+      "port-version": 0
+    },
     "xercesc-3-1-4-0": {
       "baseline": "3.1.4",
       "port-version": 0

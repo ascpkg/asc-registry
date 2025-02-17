@@ -1,0 +1,5 @@
+old = "xerces-c"
+new = "xerces-c-3-2-3-1-0"
+
+[deps]
+icu-67-1-2-0 = "icu"
