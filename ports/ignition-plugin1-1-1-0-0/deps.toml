@@ -1,0 +1,7 @@
+old = "ignition-plugin1"
+new = "ignition-plugin1-1-1-0-0"
+
+[deps]
+dlfcn-win32-1-1-1-4-0 = "dlfcn-win32"
+ignition-cmake2-2-2-0-1-0 = "ignition-cmake2"
+ignition-modularscripts-2020-05-16-0 = "ignition-modularscripts"

@@ -16116,6 +16116,10 @@
       "baseline": "2020-05-09",
       "port-version": 0
     },
+    "ignition-modularscripts-2020-05-16-0": {
+      "baseline": "2020-05-16",
+      "port-version": 0
+    },
     "ignition-msgs1-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
@@ -16126,6 +16130,10 @@
     },
     "ignition-msgs5-5-1-0-0": {
       "baseline": "5.1.0",
+      "port-version": 0
+    },
+    "ignition-plugin1-1-1-0-0": {
+      "baseline": "1.1.0",
       "port-version": 0
     },
     "ignition-transport4-4-0-0-0": {
