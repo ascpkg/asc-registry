@@ -1,14 +1,18 @@
+if(EXISTS "${CURRENT_INSTALLED_DIR}/include/gmp.h" OR "${CURRENT_INSTALLED_DIR}/include/gmpxx.h")
+    message(FATAL_ERROR "Can't build ${PORT} if mpir is installed. Please remove mpir, and try install ${PORT} again if you need it.")
+endif()
+
 if(VCPKG_TARGET_IS_WINDOWS)
     vcpkg_from_github(
         OUT_SOURCE_PATH SOURCE_PATH
-        REPO ShiftMediaProject/nettle
-        REF 1d0a6e64e01458fdf37eaf5d90975deb52c3da41 #v3.5.1
-        SHA512 6124fbd223e6519d88290c3f4e3b8cc399e038c9c77cfec38e6ab17b075846e662fd0360d62c132c882536489c8a865795f64059e2d2b21467f65d90320e5c39
+        REPO ShiftMediaProject/gmp
+        REF e140dfc8668e96d7e56cbd46467945adcc6b3cc4 #v6.2.0
+        SHA512 3b646c142447946bb4556db01214ff130da917bc149946b8cf086f3b01e1cc3d664b941a30a42608799c14461b2f29e4b894b72915d723bd736513c8914729b7
         HEAD_REF master
-        PATCHES gmp.patch
-                name.dir.patch
-                runtime.nettle.patch
-                runtime.hogweed.patch
+        PATCHES
+            vs.build.patch
+            runtime.patch
+            prefix.patch
     )
 
     include(${CURRENT_INSTALLED_DIR}/share/yasm-tool-helper/yasm-tool-helper.cmake)
@@ -29,24 +33,7 @@ if(VCPKG_TARGET_IS_WINDOWS)
     endif()
 
     #Setup YASM integration
-    set(_file "${SOURCE_PATH}/SMP/libnettle.vcxproj")
-    file(READ "${_file}" _contents)
-    string(REPLACE  [[<Import Project="$(VCTargetsPath)\BuildCustomizations\yasm.props" />]]
-                     "<Import Project=\"${CURRENT_INSTALLED_DIR}/share/vs-yasm/yasm.props\" />"
-                    _contents "${_contents}")
-    string(REPLACE  [[<Import Project="$(VCTargetsPath)\BuildCustomizations\yasm.targets" />]]
-                     "<Import Project=\"${CURRENT_INSTALLED_DIR}/share/vs-yasm/yasm.targets\" />"
-                    _contents "${_contents}")
-    string(REGEX REPLACE "${VCPKG_ROOT_DIR}/installed/[^/]+/share" "${CURRENT_INSTALLED_DIR}/share" _contents "${_contents}") # Above already replaced by another triplet
-    if(VCPKG_LIBRARY_LINKAGE STREQUAL static)
-        STRING(REPLACE ">MultiThreadedDebugDLL<" ">MultiThreadedDebug<" _contents "${_contents}")
-        STRING(REPLACE ">MultiThreadedDLL<" ">MultiThreaded<" _contents "${_contents}")
-    else()
-        STRING(REPLACE ">MultiThreadedDebug<" ">MultiThreadedDebugDLL<" _contents "${_contents}")
-        STRING(REPLACE ">MultiThreaded<" ">MultiThreadedDLL<" _contents "${_contents}")
-    endif()
-    file(WRITE "${_file}" "${_contents}")
-    set(_file "${SOURCE_PATH}/SMP/libhogweed.vcxproj")
+    set(_file "${SOURCE_PATH}/SMP/libgmp.vcxproj")
     file(READ "${_file}" _contents)
     string(REPLACE  [[<Import Project="$(VCTargetsPath)\BuildCustomizations\yasm.props" />]]
                      "<Import Project=\"${CURRENT_INSTALLED_DIR}/share/vs-yasm/yasm.props\" />"
@@ -67,7 +54,7 @@ if(VCPKG_TARGET_IS_WINDOWS)
     vcpkg_install_msbuild(
         USE_VCPKG_INTEGRATION
         SOURCE_PATH ${SOURCE_PATH}
-        PROJECT_SUBPATH SMP/libnettle.sln
+        PROJECT_SUBPATH SMP/libgmp.sln
         PLATFORM ${TRIPLET_SYSTEM_ARCH}
         LICENSE_SUBPATH COPYING.LESSERv3
         TARGET Rebuild
@@ -76,53 +63,42 @@ if(VCPKG_TARGET_IS_WINDOWS)
         SKIP_CLEAN
         OPTIONS "/p:YasmPath=${YASM}"
     )
-
     get_filename_component(SOURCE_PATH_SUFFIX "${SOURCE_PATH}" NAME)
     file(RENAME "${CURRENT_BUILDTREES_DIR}/${TARGET_TRIPLET}-rel/${SOURCE_PATH_SUFFIX}/msvc/include" "${CURRENT_PACKAGES_DIR}/include")
-    set(PACKAGE_VERSION 3.5.1)
+    set(PACKAGE_VERSION 6.2.0)
+    set(PACKAGE_NAME gmp)
     set(prefix "${CURRENT_INSTALLED_DIR}")
     set(exec_prefix "\${prefix}")
     set(libdir "\${prefix}/lib")
     set(includedir "\${prefix}/include")
-    set(LIBS -lnettle -lgmp)
-    configure_file("${SOURCE_PATH}/nettle.pc.in" "${CURRENT_PACKAGES_DIR}/lib/pkgconfig/nettle.pc" @ONLY)
-    set(HOGWEED -lhogweed)
-    set(LIBS -lnettle)
-    configure_file("${SOURCE_PATH}/hogweed.pc.in" "${CURRENT_PACKAGES_DIR}/lib/pkgconfig/libhogweed.pc" @ONLY)
+    set(LIBS -lgmp)
+    configure_file("${SOURCE_PATH}/gmp.pc.in" "${CURRENT_PACKAGES_DIR}/lib/pkgconfig/gmp.pc" @ONLY)
+    configure_file("${SOURCE_PATH}/gmpxx.pc.in" "${CURRENT_PACKAGES_DIR}/lib/pkgconfig/gmpxx.pc" @ONLY)
     set(prefix "${CURRENT_INSTALLED_DIR}/debug")
     set(exec_prefix "\${prefix}")
     set(libdir "\${prefix}/lib")
     set(includedir "\${prefix}/../include")
-    set(LIBS -lnettled -lgmpd)
-    configure_file("${SOURCE_PATH}/nettle.pc.in" "${CURRENT_PACKAGES_DIR}/debug/lib/pkgconfig/nettle.pc" @ONLY)
-    set(LIBS -lnettled)
-    set(HOGWEED -lhogweedd)
-    configure_file("${SOURCE_PATH}/hogweed.pc.in" "${CURRENT_PACKAGES_DIR}/debug/lib/pkgconfig/libhogweed.pc" @ONLY)
+    set(LIBS -lgmpd)
+    configure_file("${SOURCE_PATH}/gmp.pc.in" "${CURRENT_PACKAGES_DIR}/debug/lib/pkgconfig/gmp.pc" @ONLY)
+    configure_file("${SOURCE_PATH}/gmpxx.pc.in" "${CURRENT_PACKAGES_DIR}/debug/lib/pkgconfig/gmpxx.pc" @ONLY)
     vcpkg_fixup_pkgconfig()
 else()
-    vcpkg_from_gitlab(
-        GITLAB_URL https://git.lysator.liu.se/
-        OUT_SOURCE_PATH SOURCE_PATH
-        REPO nettle/nettle
-        REF  ee5d62898cf070f08beedc410a8d7c418588bd95 #v3.5.1
-        SHA512 881912548f4abb21460f44334de11439749c8a055830849a8beb4332071d11d9196d9eecaeba5bf822819d242356083fba91eb8719a64f90e41766826e6d75e1
-        HEAD_REF master # branch name
-        PATCHES fix-InstallLibPath.patch
-    )
+    vcpkg_download_distfile(
+        ARCHIVE
+        URLS https://gmplib.org/download/gmp/gmp-6.2.0.tar.xz
+        FILENAME gmp-6.2.0.tar.xz
+        SHA512 a066f0456f0314a1359f553c49fc2587e484ff8ac390ff88537266a146ea373f97a1c0ba24608bf6756f4eab11c9056f103c8deb99e5b57741b4f7f0ec44b90c)
 
-    if (VCPKG_LIBRARY_LINKAGE STREQUAL dynamic)
-        set(OPTIONS --disable-static)
-    else()
-        set(OPTIONS --disable-shared)
-    endif()
+    vcpkg_extract_source_archive_ex(
+        OUT_SOURCE_PATH SOURCE_PATH
+        ARCHIVE ${ARCHIVE}
+        REF gmp-6.2.0
+    )
 
     vcpkg_configure_make(
         SOURCE_PATH ${SOURCE_PATH}
         AUTOCONFIG
-        OPTIONS
-            --disable-documentation
-            --disable-openssl
-            ${OPTIONS}
+        OPTIONS ${OPTIONS}
     )
 
     vcpkg_install_make()
@@ -132,8 +108,4 @@ else()
 
     # # Handle copyright
     file(INSTALL "${SOURCE_PATH}/COPYINGv3" DESTINATION "${CURRENT_PACKAGES_DIR}/share/${PORT}" RENAME copyright)
-
-    if(VCPKG_LIBRARY_LINKAGE STREQUAL "static" OR VCPKG_TARGET_IS_LINUX)
-        file(REMOVE_RECURSE "${CURRENT_PACKAGES_DIR}/bin" "${CURRENT_PACKAGES_DIR}/debug/bin")
-    endif()
 endif()

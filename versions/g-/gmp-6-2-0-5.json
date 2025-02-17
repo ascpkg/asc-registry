@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gmp-6-2-0-5",
+      "version-string": "6.2.0",
+      "port-version": 5
+    }
+  ]
+}
