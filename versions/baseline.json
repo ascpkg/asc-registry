@@ -35880,6 +35880,10 @@
       "baseline": "1.4.0",
       "port-version": 3
     },
+    "lcm-1-4-0-4": {
+      "baseline": "1.4.0",
+      "port-version": 4
+    },
     "lcms-2-11-0": {
       "baseline": "2.11",
       "port-version": 0
