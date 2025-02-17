@@ -11052,6 +11052,10 @@
       "baseline": "3.05.01-3",
       "port-version": 0
     },
+    "tesseract-3-05-02-0": {
+      "baseline": "3.05.02",
+      "port-version": 0
+    },
     "theia-0-7-d15154a-0": {
       "baseline": "0.7-d15154a",
       "port-version": 0
