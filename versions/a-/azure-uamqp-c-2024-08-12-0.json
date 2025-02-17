@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/azure-uamqp-c-2024-08-12-0",
+      "version-date": "2024-08-12",
+      "port-version": 0
+    }
+  ]
+}
