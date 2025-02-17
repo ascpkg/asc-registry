@@ -1,0 +1,15 @@
+old = "juce"
+new = "juce-7-0-11-0"
+
+[deps]
+alsa-1-2-11-1 = "alsa"
+curl-8-7-1-0 = "curl"
+freetype-2-13-2-1 = "freetype"
+jack2-1-9-22-0 = "jack2"
+juce-7-0-11-0 = "juce"
+libxinerama-1-1-4-0 = "libxinerama"
+libxrandr-1-5-2-0 = "libxrandr"
+libxrender-0-9-10-0 = "libxrender"
+opengl-2022-12-04-3 = "opengl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
