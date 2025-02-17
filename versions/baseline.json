@@ -32320,6 +32320,10 @@
       "baseline": "2024-04-11",
       "port-version": 1
     },
+    "crashpad-2024-04-11-2": {
+      "baseline": "2024-04-11",
+      "port-version": 2
+    },
     "crashrpt-1-4-3-0": {
       "baseline": "1.4.3",
       "port-version": 0
