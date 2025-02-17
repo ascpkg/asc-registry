@@ -56896,6 +56896,10 @@
       "baseline": "2.2.0",
       "port-version": 0
     },
+    "kdsoap-2-2-0-1": {
+      "baseline": "2.2.0",
+      "port-version": 1
+    },
     "kealib-1-4-11-0": {
       "baseline": "1.4.11",
       "port-version": 0
