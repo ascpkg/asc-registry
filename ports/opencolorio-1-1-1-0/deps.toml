@@ -1,0 +1,11 @@
+old = "opencolorio"
+new = "opencolorio-1-1-1-0"
+
+[deps]
+freeglut-3-0-0-7-0 = "freeglut"
+glew-2-1-0-6-0 = "glew"
+lcms-2-9-0 = "lcms"
+openexr-2-3-0-4-0 = "openexr"
+openimageio-2019-08-08-2-0 = "openimageio"
+tinyxml-2-6-2-4-0 = "tinyxml"
+yaml-cpp-0-6-2-3-0 = "yaml-cpp"
