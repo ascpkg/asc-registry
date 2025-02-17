@@ -104256,6 +104256,10 @@
       "baseline": "0.7.2",
       "port-version": 0
     },
+    "restinio-0-7-3-0": {
+      "baseline": "0.7.3",
+      "port-version": 0
+    },
     "rexo-0-2-2-0": {
       "baseline": "0.2.2",
       "port-version": 0
