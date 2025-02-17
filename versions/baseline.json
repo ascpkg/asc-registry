@@ -101976,6 +101976,10 @@
       "baseline": "20.6.0",
       "port-version": 0
     },
+    "uwebsockets-20-60-0-0": {
+      "baseline": "20.60.0",
+      "port-version": 0
+    },
     "uwebsockets-20-8-0-0": {
       "baseline": "20.8.0",
       "port-version": 0
