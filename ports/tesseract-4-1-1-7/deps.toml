@@ -1,0 +1,10 @@
+old = "tesseract"
+new = "tesseract-4-1-1-7"
+
+[deps]
+cairo-1-16-0-9 = "cairo"
+fontconfig-2-13-1-5 = "fontconfig"
+icu-67-1-8 = "icu"
+leptonica-1-80-0-2 = "leptonica"
+libarchive-3-4-3-4 = "libarchive"
+pango-1-40-11-9 = "pango"
