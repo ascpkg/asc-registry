@@ -22592,6 +22592,10 @@
       "baseline": "0.2.12",
       "port-version": 0
     },
+    "json-dto-0-2-13-0": {
+      "baseline": "0.2.13",
+      "port-version": 0
+    },
     "json-dto-0-2-5-0": {
       "baseline": "0.2.5",
       "port-version": 0
