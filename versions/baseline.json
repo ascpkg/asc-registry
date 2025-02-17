@@ -24744,6 +24744,10 @@
       "baseline": "1.0.4-2",
       "port-version": 0
     },
+    "sdl2-gfx-1-0-4-4-0": {
+      "baseline": "1.0.4-4",
+      "port-version": 0
+    },
     "sdl2-image--0": {
       "baseline": "",
       "port-version": 0
