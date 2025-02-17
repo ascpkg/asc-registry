@@ -8388,6 +8388,10 @@
       "baseline": "10.0.0",
       "port-version": 3
     },
+    "bond-11-0-1-4": {
+      "baseline": "11.0.1",
+      "port-version": 4
+    },
     "bond-5-0-0-4-g53ea136-0": {
       "baseline": "5.0.0-4-g53ea136",
       "port-version": 0
