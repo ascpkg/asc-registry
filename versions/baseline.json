@@ -15168,6 +15168,10 @@
       "baseline": "2.5.3-1",
       "port-version": 0
     },
+    "harfbuzz-2-6-6-0": {
+      "baseline": "2.6.6",
+      "port-version": 0
+    },
     "hayai-2019-08-10-0": {
       "baseline": "2019-08-10",
       "port-version": 0
@@ -29994,6 +29998,10 @@
     },
     "skia-2020-02-15-1-0": {
       "baseline": "2020-02-15-1",
+      "port-version": 0
+    },
+    "skia-2020-05-18-1-0": {
+      "baseline": "2020-05-18-1",
       "port-version": 0
     },
     "skyr-url-1-4-3-0": {
