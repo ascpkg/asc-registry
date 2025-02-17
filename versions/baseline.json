@@ -17052,6 +17052,10 @@
       "baseline": "1.0.5",
       "port-version": 0
     },
+    "forge-1-0-5-1": {
+      "baseline": "1.0.5",
+      "port-version": 1
+    },
     "fp16-2021-02-21-0": {
       "baseline": "2021-02-21",
       "port-version": 0
