@@ -43288,6 +43288,10 @@
       "baseline": "4.7.3",
       "port-version": 1
     },
+    "ocilib-4-7-3-2": {
+      "baseline": "4.7.3",
+      "port-version": 2
+    },
     "octomap-1-9-5-0": {
       "baseline": "1.9.5",
       "port-version": 0
