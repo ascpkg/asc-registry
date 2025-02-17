@@ -49468,6 +49468,10 @@
       "baseline": "2.10",
       "port-version": 2
     },
+    "gperftools-2-16-0": {
+      "baseline": "2.16",
+      "port-version": 0
+    },
     "gperftools-2019-09-02-0": {
       "baseline": "2019-09-02",
       "port-version": 0
