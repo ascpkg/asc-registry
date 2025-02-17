@@ -26476,6 +26476,10 @@
       "baseline": "4.0.10-7",
       "port-version": 0
     },
+    "tiff-4-0-10-8-0": {
+      "baseline": "4.0.10-8",
+      "port-version": 0
+    },
     "tiff-4-0-6-0": {
       "baseline": "4.0.6",
       "port-version": 0
