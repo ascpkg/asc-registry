@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/nanopb-0-4-8-1",
+      "version-semver": "0.4.8",
+      "port-version": 1
+    }
+  ]
+}
