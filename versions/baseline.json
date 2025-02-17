@@ -21600,6 +21600,10 @@
       "baseline": "2.0",
       "port-version": 0
     },
+    "kuku-2-1-0": {
+      "baseline": "2.1",
+      "port-version": 0
+    },
     "kvasir-mpl-2019-08-06-0": {
       "baseline": "2019-08-06",
       "port-version": 0
