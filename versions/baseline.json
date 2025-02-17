@@ -124968,6 +124968,10 @@
       "baseline": "2.2.2",
       "port-version": 0
     },
+    "zlib-ng-2-2-3-0": {
+      "baseline": "2.2.3",
+      "port-version": 0
+    },
     "zlmediakit-2023-08-08-0": {
       "baseline": "2023-08-08",
       "port-version": 0
