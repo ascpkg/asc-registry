@@ -120016,6 +120016,10 @@
       "baseline": "24.8",
       "port-version": 1
     },
+    "usearch-2-17-2-0": {
+      "baseline": "2.17.2",
+      "port-version": 0
+    },
     "usearch-2-3-2-0": {
       "baseline": "2.3.2",
       "port-version": 0
