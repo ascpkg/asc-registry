@@ -70660,6 +70660,10 @@
       "baseline": "2.13.5",
       "port-version": 0
     },
+    "libxml2-2-13-5-1": {
+      "baseline": "2.13.5",
+      "port-version": 1
+    },
     "libxml2-2-9-10-0": {
       "baseline": "2.9.10",
       "port-version": 0
