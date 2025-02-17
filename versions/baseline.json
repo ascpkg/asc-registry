@@ -352,6 +352,10 @@
       "baseline": "3.2-1",
       "port-version": 0
     },
+    "blaze-3-2-2-0": {
+      "baseline": "3.2-2",
+      "port-version": 0
+    },
     "bond-5-0-0-4-g53ea136-0": {
       "baseline": "5.0.0-4-g53ea136",
       "port-version": 0
