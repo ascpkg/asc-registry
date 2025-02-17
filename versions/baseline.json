@@ -9440,6 +9440,10 @@
       "baseline": "3.0.0-6",
       "port-version": 0
     },
+    "mpir-3-0-0-7-0": {
+      "baseline": "3.0.0-7",
+      "port-version": 0
+    },
     "ms-gsl-20170425-8b320e3f5d016f953e55dfc7ec8694c1349d3fe4-0": {
       "baseline": "20170425-8b320e3f5d016f953e55dfc7ec8694c1349d3fe4",
       "port-version": 0
