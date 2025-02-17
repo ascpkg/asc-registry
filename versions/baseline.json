@@ -82940,6 +82940,10 @@
       "baseline": "2.5.1",
       "port-version": 15
     },
+    "sfml-2-5-1-16": {
+      "baseline": "2.5.1",
+      "port-version": 16
+    },
     "sfml-2-5-1-2-0": {
       "baseline": "2.5.1-2",
       "port-version": 0
