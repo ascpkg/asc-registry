@@ -36316,6 +36316,10 @@
       "baseline": "3.3.4",
       "port-version": 1
     },
+    "libressl-3-4-2-0": {
+      "baseline": "3.4.2",
+      "port-version": 0
+    },
     "librsvg-2-40-20-0": {
       "baseline": "2.40.20",
       "port-version": 0
