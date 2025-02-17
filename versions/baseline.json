@@ -55716,6 +55716,10 @@
       "baseline": "2.3.2",
       "port-version": 1
     },
+    "librsync-2-3-4-0": {
+      "baseline": "2.3.4",
+      "port-version": 0
+    },
     "librsync-2020-09-16-0": {
       "baseline": "2020-09-16",
       "port-version": 0
