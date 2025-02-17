@@ -1,0 +1,10 @@
+old = "strtk"
+new = "strtk-2020-09-14-4"
+
+[deps]
+boost-algorithm-1-84-0-0 = "boost-algorithm"
+boost-lexical-cast-1-84-0-0 = "boost-lexical-cast"
+boost-random-1-84-0-0 = "boost-random"
+boost-regex-1-84-0-0 = "boost-regex"
+boost-spirit-1-84-0-0 = "boost-spirit"
+boost-tokenizer-1-84-0-0 = "boost-tokenizer"
