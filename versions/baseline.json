@@ -15028,6 +15028,10 @@
       "baseline": "2008.07.07-1",
       "port-version": 0
     },
+    "soil2-release-1-11-0": {
+      "baseline": "release-1.11",
+      "port-version": 0
+    },
     "sol-2-18-7-0": {
       "baseline": "2.18.7",
       "port-version": 0
