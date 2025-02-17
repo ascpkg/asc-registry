@@ -63472,6 +63472,10 @@
       "baseline": "13.1.0",
       "port-version": 0
     },
+    "mqtt-cpp-13-2-1-0": {
+      "baseline": "13.2.1",
+      "port-version": 0
+    },
     "mqtt-cpp-7-0-1-0": {
       "baseline": "7.0.1",
       "port-version": 0
