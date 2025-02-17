@@ -1,0 +1,11 @@
+old = "sfml"
+new = "sfml-2-4-2-0"
+
+[deps]
+freetype-2-6-3-4-0 = "freetype"
+libflac-1-3-1-1-0 = "libflac"
+libjpeg-turbo-1-4-90-1-0 = "libjpeg-turbo"
+libogg-1-3-2-0 = "libogg"
+libvorbis-1-3-5-1-143caf4023a90c09a5eb685fdd46fb9b9c36b1ee-0 = "libvorbis"
+openal-soft-1-17-2-0 = "openal-soft"
+stb-1-0-0 = "stb"

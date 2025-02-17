@@ -1128,6 +1128,10 @@
       "baseline": "2.4.1",
       "port-version": 0
     },
+    "sfml-2-4-2-0": {
+      "baseline": "2.4.2",
+      "port-version": 0
+    },
     "shaderc-2df47b51d83ad83cbc2e7f8ff2b56776293e8958-0": {
       "baseline": "2df47b51d83ad83cbc2e7f8ff2b56776293e8958",
       "port-version": 0
