@@ -93040,6 +93040,10 @@
       "baseline": "9.0.0",
       "port-version": 0
     },
+    "rocksdb-9-1-0-0": {
+      "baseline": "9.1.0",
+      "port-version": 0
+    },
     "rpclib-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
