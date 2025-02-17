@@ -4600,6 +4600,10 @@
       "baseline": "3.0.2",
       "port-version": 0
     },
+    "boolinq-3-0-3-0": {
+      "baseline": "3.0.3",
+      "port-version": 0
+    },
     "boost-1-60-0": {
       "baseline": "1.60",
       "port-version": 0
