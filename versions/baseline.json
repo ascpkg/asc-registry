@@ -12816,6 +12816,10 @@
       "baseline": "8.2.0-2",
       "port-version": 0
     },
+    "cryptopp-8-5-0-0": {
+      "baseline": "8.5.0",
+      "port-version": 0
+    },
     "cspice-66-1-0": {
       "baseline": "66-1",
       "port-version": 0
