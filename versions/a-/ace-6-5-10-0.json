@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ace-6-5-10-0",
+      "version": "6.5.10",
+      "port-version": 0
+    }
+  ]
+}
