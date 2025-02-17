@@ -47940,6 +47940,10 @@
       "baseline": "0.3.0",
       "port-version": 1
     },
+    "ring-span-lite-0-6-0-0": {
+      "baseline": "0.6.0",
+      "port-version": 0
+    },
     "rmlui-4-1-0": {
       "baseline": "4.1",
       "port-version": 0
