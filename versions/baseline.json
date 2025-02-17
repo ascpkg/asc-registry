@@ -14220,6 +14220,10 @@
       "baseline": "2.52.3-14-6",
       "port-version": 0
     },
+    "glib-2-52-3-14-7-0": {
+      "baseline": "2.52.3-14-7",
+      "port-version": 0
+    },
     "glib-2-52-3-2-0": {
       "baseline": "2.52.3-2",
       "port-version": 0
@@ -15218,6 +15222,10 @@
     },
     "gts-0-7-6-2-0": {
       "baseline": "0.7.6-2",
+      "port-version": 0
+    },
+    "gts-0-7-6-3-0": {
+      "baseline": "0.7.6-3",
       "port-version": 0
     },
     "guetzli-2017-09-02-cb5e4a86f69628-0": {
