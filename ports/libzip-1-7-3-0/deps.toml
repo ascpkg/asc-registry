@@ -1,0 +1,9 @@
+old = "libzip"
+new = "libzip-1-7-3-0"
+
+[deps]
+bzip2-1-0-8-1 = "bzip2"
+liblzma-5-2-5-1 = "liblzma"
+mbedtls-2-16-3-1-0 = "mbedtls"
+openssl-1-1-1g-1 = "openssl"
+zlib-1-2-11-9 = "zlib"
