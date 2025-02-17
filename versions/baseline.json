@@ -2240,6 +2240,10 @@
       "baseline": "10.0.1",
       "port-version": 4
     },
+    "arrow-11-0-0-0": {
+      "baseline": "11.0.0",
+      "port-version": 0
+    },
     "arrow-3-0-0-0": {
       "baseline": "3.0.0",
       "port-version": 0
