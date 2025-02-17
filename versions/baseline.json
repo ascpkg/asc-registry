@@ -20728,6 +20728,10 @@
       "baseline": "20190522-1",
       "port-version": 0
     },
+    "parallelstl-20191218-0": {
+      "baseline": "20191218",
+      "port-version": 0
+    },
     "parmetis-4-0-3-0": {
       "baseline": "4.0.3",
       "port-version": 0
