@@ -1,0 +1,6 @@
+old = "libpq"
+new = "libpq-9-6-1-4-0"
+
+[deps]
+openssl-1-0-2n-3-0 = "openssl"
+zlib-1-2-11-3-0 = "zlib"
