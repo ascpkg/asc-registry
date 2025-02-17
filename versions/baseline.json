@@ -63916,6 +63916,10 @@
       "baseline": "0.238",
       "port-version": 1
     },
+    "portsmf-239-0": {
+      "baseline": "239",
+      "port-version": 0
+    },
     "ppconsul-0-3-0": {
       "baseline": "0.3",
       "port-version": 0
