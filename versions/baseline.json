@@ -30896,6 +30896,10 @@
       "baseline": "0.27.6",
       "port-version": 0
     },
+    "exiv2-0-27-6-1": {
+      "baseline": "0.27.6",
+      "port-version": 1
+    },
     "exiv2-2018-02-25-0": {
       "baseline": "2018-02-25",
       "port-version": 0
