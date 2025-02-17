@@ -1,5 +1,9 @@
 {
   "default": {
+    "ace-6-4-0-0": {
+      "baseline": "6.4.0",
+      "port-version": 0
+    },
     "bond-5-0-0-4-g53ea136-0": {
       "baseline": "5.0.0-4-g53ea136",
       "port-version": 0
