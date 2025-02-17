@@ -34292,6 +34292,10 @@
       "baseline": "3.6.8",
       "port-version": 7
     },
+    "dcmtk-3-6-8-8": {
+      "baseline": "3.6.8",
+      "port-version": 8
+    },
     "debug-assert-1-3-3-0": {
       "baseline": "1.3.3",
       "port-version": 0
