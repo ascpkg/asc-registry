@@ -1,0 +1,12 @@
+old = "collada-dom"
+new = "collada-dom-2-5-0-8"
+
+[deps]
+boost-filesystem-1-81-0-1 = "boost-filesystem"
+boost-system-1-81-0-1 = "boost-system"
+libxml2-2-10-3-0 = "libxml2"
+minizip-1-2-13-0 = "minizip"
+uriparser-0-9-7-0 = "uriparser"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-2-13-0 = "zlib"

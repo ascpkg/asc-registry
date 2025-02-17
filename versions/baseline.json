@@ -20852,6 +20852,10 @@
       "baseline": "2.5.0",
       "port-version": 7
     },
+    "collada-dom-2-5-0-8": {
+      "baseline": "2.5.0",
+      "port-version": 8
+    },
     "colmap-2022-03-14-0": {
       "baseline": "2022-03-14",
       "port-version": 0
