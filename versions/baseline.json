@@ -29132,6 +29132,10 @@
       "baseline": "4.6.2",
       "port-version": 0
     },
+    "gtk-4-6-2-1": {
+      "baseline": "4.6.2",
+      "port-version": 1
+    },
     "gtkmm-3-22-2-0": {
       "baseline": "3.22.2",
       "port-version": 0
