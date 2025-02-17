@@ -56956,6 +56956,10 @@
       "baseline": "2.3.0",
       "port-version": 0
     },
+    "lfreist-hwinfo-2024-09-01-0": {
+      "baseline": "2024-09-01",
+      "port-version": 0
+    },
     "lib3mf-2-3-2-0": {
       "baseline": "2.3.2",
       "port-version": 0
