@@ -40144,6 +40144,10 @@
       "baseline": "0.15.4",
       "port-version": 0
     },
+    "etcd-cpp-apiv3-0-15-4-1": {
+      "baseline": "0.15.4",
+      "port-version": 1
+    },
     "etcd-cpp-apiv3-0-2-12-0": {
       "baseline": "0.2.12",
       "port-version": 0
@@ -50234,6 +50238,10 @@
     },
     "grpc-1-65-5-0": {
       "baseline": "1.65.5",
+      "port-version": 0
+    },
+    "grpc-1-68-0-0": {
+      "baseline": "1.68.0",
       "port-version": 0
     },
     "grpc-1-7-0-0": {
@@ -116826,6 +116834,10 @@
     },
     "utf8-range-5-26-1-0": {
       "baseline": "5.26.1",
+      "port-version": 0
+    },
+    "utf8-range-5-28-3-0": {
+      "baseline": "5.28.3",
       "port-version": 0
     },
     "utf8h-2020-06-14-0": {
