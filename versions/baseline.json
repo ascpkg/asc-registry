@@ -61620,6 +61620,10 @@
       "baseline": "5.1",
       "port-version": 0
     },
+    "libdivide-5-2-0-0": {
+      "baseline": "5.2.0",
+      "port-version": 0
+    },
     "libdjinterop-0-14-6-0": {
       "baseline": "0.14.6",
       "port-version": 0
