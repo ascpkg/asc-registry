@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/aricpp-1-1-2-0",
+      "version-semver": "1.1.2",
+      "port-version": 0
+    }
+  ]
+}

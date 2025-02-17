@@ -1,0 +1,9 @@
+old = "aricpp"
+new = "aricpp-1-1-2-0"
+
+[deps]
+boost-asio-1-79-0-0 = "boost-asio"
+boost-beast-1-79-0-0 = "boost-beast"
+boost-system-1-79-0-0 = "boost-system"
+vcpkg-cmake-2022-04-21-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"
