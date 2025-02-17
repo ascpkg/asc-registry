@@ -54892,6 +54892,10 @@
       "baseline": "2.10.0",
       "port-version": 0
     },
+    "pybind11-2-10-0-1": {
+      "baseline": "2.10.0",
+      "port-version": 1
+    },
     "pybind11-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
