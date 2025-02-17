@@ -26364,6 +26364,10 @@
       "baseline": "12.2",
       "port-version": 16
     },
+    "libpq-12-2-17": {
+      "baseline": "12.2",
+      "port-version": 17
+    },
     "libpq-12-2-2-0": {
       "baseline": "12.2-2",
       "port-version": 0
