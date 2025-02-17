@@ -10424,6 +10424,10 @@
       "baseline": "12.0.3",
       "port-version": 0
     },
+    "forest-12-0-4-0": {
+      "baseline": "12.0.4",
+      "port-version": 0
+    },
     "forest-4-5-0-0": {
       "baseline": "4.5.0",
       "port-version": 0
