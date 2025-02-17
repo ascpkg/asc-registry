@@ -1,0 +1,11 @@
+old = "hareflow"
+new = "hareflow-0-1-1-0"
+
+[deps]
+boost-asio-1-84-0-0 = "boost-asio"
+boost-endian-1-84-0-0 = "boost-endian"
+fmt-10-2-1-2 = "fmt"
+openssl-3-3-0-0 = "openssl"
+qpid-proton-0-38-0-1 = "qpid-proton"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
