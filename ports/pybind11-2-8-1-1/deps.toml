@@ -1,0 +1,7 @@
+old = "pybind11"
+new = "pybind11-2-8-1-1"
+
+[deps]
+python3-3-10-1-2 = "python3"
+vcpkg-cmake-2021-12-05-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-01-0 = "vcpkg-cmake-config"
