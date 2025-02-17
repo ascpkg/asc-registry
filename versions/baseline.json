@@ -5660,6 +5660,10 @@
       "baseline": "1.13.0",
       "port-version": 0
     },
+    "azure-core-cpp-1-14-0-0": {
+      "baseline": "1.14.0",
+      "port-version": 0
+    },
     "azure-core-cpp-1-2-0-0": {
       "baseline": "1.2.0",
       "port-version": 0
@@ -5747,6 +5751,10 @@
     "azure-core-tracing-opentelemetry-cpp-1-0-0-beta-4-3": {
       "baseline": "1.0.0-beta.4",
       "port-version": 3
+    },
+    "azure-core-tracing-opentelemetry-cpp-1-0-0-beta-4-4": {
+      "baseline": "1.0.0-beta.4",
+      "port-version": 4
     },
     "azure-data-tables-cpp-1-0-0-beta-1-0": {
       "baseline": "1.0.0-beta.1",
@@ -6148,6 +6156,10 @@
       "baseline": "1.0.0-beta.1",
       "port-version": 2
     },
+    "azure-messaging-eventhubs-checkpointstore-blob-cpp-1-0-0-beta-1-3": {
+      "baseline": "1.0.0-beta.1",
+      "port-version": 3
+    },
     "azure-messaging-eventhubs-cpp-1-0-0-beta-1-0": {
       "baseline": "1.0.0-beta.1",
       "port-version": 0
@@ -6188,6 +6200,10 @@
       "baseline": "1.0.0-beta.9",
       "port-version": 0
     },
+    "azure-messaging-eventhubs-cpp-1-0-0-beta-9-1": {
+      "baseline": "1.0.0-beta.9",
+      "port-version": 1
+    },
     "azure-security-attestation-cpp-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
@@ -6223,6 +6239,10 @@
     "azure-security-attestation-cpp-1-1-0-4": {
       "baseline": "1.1.0",
       "port-version": 4
+    },
+    "azure-security-attestation-cpp-1-1-0-5": {
+      "baseline": "1.1.0",
+      "port-version": 5
     },
     "azure-security-keyvault-administration-cpp-4-0-0-beta-2-0": {
       "baseline": "4.0.0-beta.2",
@@ -6279,6 +6299,10 @@
     "azure-security-keyvault-certificates-cpp-4-2-1-1": {
       "baseline": "4.2.1",
       "port-version": 1
+    },
+    "azure-security-keyvault-certificates-cpp-4-2-1-2": {
+      "baseline": "4.2.1",
+      "port-version": 2
     },
     "azure-security-keyvault-common-cpp-4-0-0-beta-1-0": {
       "baseline": "4.0.0-beta.1",
@@ -6352,6 +6376,10 @@
       "baseline": "4.4.1",
       "port-version": 1
     },
+    "azure-security-keyvault-keys-cpp-4-4-1-2": {
+      "baseline": "4.4.1",
+      "port-version": 2
+    },
     "azure-security-keyvault-secrets-cpp-4-0-0-0": {
       "baseline": "4.0.0",
       "port-version": 0
@@ -6383,6 +6411,10 @@
     "azure-security-keyvault-secrets-cpp-4-2-1-1": {
       "baseline": "4.2.1",
       "port-version": 1
+    },
+    "azure-security-keyvault-secrets-cpp-4-2-1-2": {
+      "baseline": "4.2.1",
+      "port-version": 2
     },
     "azure-storage-blobs-cpp-12-0-0-0": {
       "baseline": "12.0.0",
