@@ -1,0 +1,7 @@
+old = "libadwaita"
+new = "libadwaita-1-2-0-0"
+
+[deps]
+glib-2-75-1-0 = "glib"
+gtk-4-6-8-0 = "gtk"
+sassc-3-6-2-0 = "sassc"
