@@ -1,0 +1,11 @@
+old = "forge"
+new = "forge-1-0-4-2-0"
+
+[deps]
+boost-functional-1-71-0-0 = "boost-functional"
+fontconfig-2-12-4-10-0 = "fontconfig"
+freeimage-3-18-0-8-0 = "freeimage"
+freetype-2-10-1-2-0 = "freetype"
+glbinding-3-1-0-2-0 = "glbinding"
+glfw3-3-3-3-0 = "glfw3"
+glm-0-9-9-5-3-0 = "glm"
