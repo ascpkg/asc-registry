@@ -1,0 +1,5 @@
+old = "freexl"
+new = "freexl-1-0-6-0"
+
+[deps]
+libiconv-1-16-11 = "libiconv"
