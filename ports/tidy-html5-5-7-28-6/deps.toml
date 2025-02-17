@@ -1,0 +1,6 @@
+old = "tidy-html5"
+new = "tidy-html5-5-7-28-6"
+
+[deps]
+libxslt-1-1-35-1 = "libxslt"
+vcpkg-cmake-2022-06-07-0 = "vcpkg-cmake"
