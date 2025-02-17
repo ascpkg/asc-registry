@@ -64104,6 +64104,10 @@
       "baseline": "8.0.4-7",
       "port-version": 0
     },
+    "libmysql-8-0-40-0": {
+      "baseline": "8.0.40",
+      "port-version": 0
+    },
     "libnice-0-1-13-0": {
       "baseline": "0.1.13",
       "port-version": 0
