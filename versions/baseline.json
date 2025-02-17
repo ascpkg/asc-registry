@@ -4232,6 +4232,10 @@
       "baseline": "1.11.215",
       "port-version": 0
     },
+    "aws-sdk-cpp-1-11-215-1": {
+      "baseline": "1.11.215",
+      "port-version": 1
+    },
     "aws-sdk-cpp-1-11-4-0": {
       "baseline": "1.11.4",
       "port-version": 0
