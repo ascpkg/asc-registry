@@ -992,6 +992,10 @@
       "baseline": "5.0.0-1",
       "port-version": 0
     },
+    "assimp-5-0-0-2-0": {
+      "baseline": "5.0.0-2",
+      "port-version": 0
+    },
     "asynch-2019-09-21-0": {
       "baseline": "2019-09-21",
       "port-version": 0
@@ -17642,6 +17646,10 @@
     },
     "minizip-1-2-11-5-0": {
       "baseline": "1.2.11-5",
+      "port-version": 0
+    },
+    "minizip-1-2-11-6-0": {
+      "baseline": "1.2.11-6",
       "port-version": 0
     },
     "mio-2018-10-18-1-0": {
