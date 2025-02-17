@@ -22180,6 +22180,10 @@
       "baseline": "1.2.15-7",
       "port-version": 0
     },
+    "sdl1-1-2-15-8-0": {
+      "baseline": "1.2.15-8",
+      "port-version": 0
+    },
     "sdl1-net-1-2-8-2-0": {
       "baseline": "1.2.8-2",
       "port-version": 0
