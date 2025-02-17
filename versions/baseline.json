@@ -108,6 +108,10 @@
       "baseline": "6.4.7",
       "port-version": 0
     },
+    "ace-6-4-8-0": {
+      "baseline": "6.4.8",
+      "port-version": 0
+    },
     "alac-2017-11-03-c38887c5-0": {
       "baseline": "2017-11-03-c38887c5",
       "port-version": 0
