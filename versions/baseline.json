@@ -43340,6 +43340,10 @@
       "baseline": "0.6",
       "port-version": 1
     },
+    "pangolin-0-6-2": {
+      "baseline": "0.6",
+      "port-version": 2
+    },
     "pangolin-v0-5-0": {
       "baseline": "v0.5",
       "port-version": 0
