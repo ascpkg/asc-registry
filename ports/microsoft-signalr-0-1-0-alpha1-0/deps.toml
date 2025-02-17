@@ -1,0 +1,5 @@
+old = "microsoft-signalr"
+new = "microsoft-signalr-0-1-0-alpha1-0"
+
+[deps]
+microsoft-signalr-0-1-0-alpha1-0 = "microsoft-signalr"
