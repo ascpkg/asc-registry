@@ -1,0 +1,14 @@
+old = "telnetpp"
+new = "telnetpp-3-1-0-0"
+
+[deps]
+boost-algorithm-1-85-0-1 = "boost-algorithm"
+boost-container-1-85-0-1 = "boost-container"
+boost-exception-1-85-0-1 = "boost-exception"
+boost-range-1-85-0-1 = "boost-range"
+boost-signals2-1-85-0-1 = "boost-signals2"
+boost-variant-1-85-0-1 = "boost-variant"
+gsl-lite-0-41-0-0 = "gsl-lite"
+vcpkg-cmake-2024-04-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-3-1-0 = "zlib"
