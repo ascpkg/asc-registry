@@ -49756,6 +49756,10 @@
       "baseline": "3.18.0",
       "port-version": 1
     },
+    "protobuf-3-19-4-0": {
+      "baseline": "3.19.4",
+      "port-version": 0
+    },
     "protobuf-3-2-0-0": {
       "baseline": "3.2.0",
       "port-version": 0
@@ -49923,6 +49927,10 @@
     "protozero-1-7-0-0": {
       "baseline": "1.7.0",
       "port-version": 0
+    },
+    "protozero-1-7-0-1": {
+      "baseline": "1.7.0",
+      "port-version": 1
     },
     "proxygen-2019-10-21-00-0": {
       "baseline": "2019.10.21.00",
