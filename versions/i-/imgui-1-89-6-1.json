@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/imgui-1-89-6-1",
+      "version": "1.89.6",
+      "port-version": 1
+    }
+  ]
+}
