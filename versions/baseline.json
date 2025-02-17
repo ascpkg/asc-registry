@@ -48212,6 +48212,10 @@
       "baseline": "1.12.9",
       "port-version": 8
     },
+    "ogre-1-12-9-9": {
+      "baseline": "1.12.9",
+      "port-version": 9
+    },
     "ogre-1-9-0-0": {
       "baseline": "1.9.0",
       "port-version": 0
