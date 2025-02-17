@@ -33392,6 +33392,10 @@
       "baseline": "5.0.1",
       "port-version": 0
     },
+    "libspatialite-5-0-1-1": {
+      "baseline": "5.0.1",
+      "port-version": 1
+    },
     "libspnav-0-2-3-0": {
       "baseline": "0.2.3",
       "port-version": 0
@@ -53551,6 +53555,10 @@
     "spatialite-tools-5-0-0-3": {
       "baseline": "5.0.0",
       "port-version": 3
+    },
+    "spatialite-tools-5-0-0-4": {
+      "baseline": "5.0.0",
+      "port-version": 4
     },
     "spdk-19-01-1-0": {
       "baseline": "19.01.1",
