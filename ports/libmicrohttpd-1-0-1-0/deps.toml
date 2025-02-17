@@ -1,0 +1,7 @@
+old = "libmicrohttpd"
+new = "libmicrohttpd-1-0-1-0"
+
+[deps]
+gettext-0-22-4-2 = "gettext"
+libgnutls-3-8-3-0 = "libgnutls"
+vcpkg-msbuild-2023-08-08-0 = "vcpkg-msbuild"
