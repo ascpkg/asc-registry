@@ -74700,6 +74700,10 @@
       "baseline": "1.6.0",
       "port-version": 0
     },
+    "ngtcp2-1-6-0-1": {
+      "baseline": "1.6.0",
+      "port-version": 1
+    },
     "nifly-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
@@ -114151,6 +114155,10 @@
     "wolfssl-5-7-2-0": {
       "baseline": "5.7.2",
       "port-version": 0
+    },
+    "wolfssl-5-7-2-1": {
+      "baseline": "5.7.2",
+      "port-version": 1
     },
     "wolftpm-2-4-0-0": {
       "baseline": "2.4.0",
