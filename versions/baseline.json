@@ -360,6 +360,10 @@
       "baseline": "1.7.11-4",
       "port-version": 0
     },
+    "alembic-1-7-11-5-0": {
+      "baseline": "1.7.11-5",
+      "port-version": 0
+    },
     "alembic-1-7-4-0": {
       "baseline": "1.7.4",
       "port-version": 0
@@ -1028,6 +1032,10 @@
       "baseline": "1.8.2-2",
       "port-version": 0
     },
+    "avro-c-1-8-2-3-0": {
+      "baseline": "1.8.2-3",
+      "port-version": 0
+    },
     "aws-c-common-0-3-0-0": {
       "baseline": "0.3.0",
       "port-version": 0
@@ -1218,6 +1226,10 @@
     },
     "aws-sdk-cpp-1-7-142-0": {
       "baseline": "1.7.142",
+      "port-version": 0
+    },
+    "aws-sdk-cpp-1-7-142-1-0": {
+      "baseline": "1.7.142-1",
       "port-version": 0
     },
     "aws-sdk-cpp-1-7-38-0": {
@@ -4468,6 +4480,10 @@
       "baseline": "1.70.0",
       "port-version": 0
     },
+    "boost-system-1-70-0-1-0": {
+      "baseline": "1.70.0-1",
+      "port-version": 0
+    },
     "boost-test-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -5782,6 +5798,10 @@
     },
     "cgal-4-14-2-0": {
       "baseline": "4.14-2",
+      "port-version": 0
+    },
+    "cgal-4-14-3-0": {
+      "baseline": "4.14-3",
       "port-version": 0
     },
     "cgicc--0": {
@@ -8326,6 +8346,10 @@
     },
     "eigen3-3-3-7-2-0": {
       "baseline": "3.3.7-2",
+      "port-version": 0
+    },
+    "eigen3-3-3-7-3-0": {
+      "baseline": "3.3.7-3",
       "port-version": 0
     },
     "embree-2-16-4-1-0": {
@@ -12044,6 +12068,10 @@
       "baseline": "5.0.1",
       "port-version": 0
     },
+    "itk-5-0-1-1-0": {
+      "baseline": "5.0.1-1",
+      "port-version": 0
+    },
     "itpp-4-3-1-0": {
       "baseline": "4.3.1",
       "port-version": 0
@@ -12514,6 +12542,10 @@
     },
     "kinectsdk2-2-0-1-0": {
       "baseline": "2.0-1",
+      "port-version": 0
+    },
+    "kinectsdk2-2-0-2-0": {
+      "baseline": "2.0-2",
       "port-version": 0
     },
     "kvasir-mpl-2019-08-06-0": {
@@ -17216,6 +17248,10 @@
       "baseline": "1.4.2-1",
       "port-version": 0
     },
+    "ompl-1-4-2-2-0": {
+      "baseline": "1.4.2-2",
+      "port-version": 0
+    },
     "oniguruma-2019-02-26-0": {
       "baseline": "2019-02-26",
       "port-version": 0
@@ -17806,6 +17842,10 @@
     },
     "openmvg-1-4-5-0": {
       "baseline": "1.4-5",
+      "port-version": 0
+    },
+    "openmvg-1-4-6-0": {
+      "baseline": "1.4-6",
       "port-version": 0
     },
     "openmvs-0-9-0": {
