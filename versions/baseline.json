@@ -40340,6 +40340,10 @@
       "baseline": "7.0",
       "port-version": 0
     },
+    "ffmpeg-7-0-2-0": {
+      "baseline": "7.0.2",
+      "port-version": 0
+    },
     "ffnvcodec-10-0-26-0-0": {
       "baseline": "10.0.26.0",
       "port-version": 0
