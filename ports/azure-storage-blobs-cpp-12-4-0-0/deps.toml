@@ -1,0 +1,7 @@
+old = "azure-storage-blobs-cpp"
+new = "azure-storage-blobs-cpp-12-4-0-0"
+
+[deps]
+azure-storage-common-cpp-12-2-3-0 = "azure-storage-common-cpp"
+vcpkg-cmake-2022-02-14-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"
