@@ -1,0 +1,8 @@
+old = "openal-soft"
+new = "openal-soft-1-23-1-0"
+
+[deps]
+alsa-1-2-8-1 = "alsa"
+pipewire-0-3-62-0 = "pipewire"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
