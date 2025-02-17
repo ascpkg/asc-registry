@@ -1,0 +1,15 @@
+old = "llvm"
+new = "llvm-17-0-2-1"
+
+[deps]
+atl-0-0 = "atl"
+libffi-3-4-4-6 = "libffi"
+libxml2-2-11-5-1 = "libxml2"
+llvm-17-0-2-1 = "llvm"
+pybind11-2-11-1-0 = "pybind11"
+python3-3-11-5-0 = "python3"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+vcpkg-cmake-get-vars-2023-03-02-0 = "vcpkg-cmake-get-vars"
+zlib-1-3-0 = "zlib"
+zstd-1-5-5-2 = "zstd"
