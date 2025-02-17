@@ -41924,6 +41924,10 @@
       "baseline": "1.72.0",
       "port-version": 6
     },
+    "gobject-introspection-1-72-0-7": {
+      "baseline": "1.72.0",
+      "port-version": 7
+    },
     "google-cloud-cpp-0-1-0-0": {
       "baseline": "0.1.0",
       "port-version": 0
