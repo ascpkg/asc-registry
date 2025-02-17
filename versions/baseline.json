@@ -124832,6 +124832,10 @@
       "baseline": "7.23",
       "port-version": 0
     },
+    "xbyak-7-23-1-0": {
+      "baseline": "7.23.1",
+      "port-version": 0
+    },
     "xbyak-7-6-0": {
       "baseline": "7.6",
       "port-version": 0
