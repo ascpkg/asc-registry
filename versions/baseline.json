@@ -10168,6 +10168,10 @@
       "baseline": "2.6.2",
       "port-version": 0
     },
+    "cimg-2-9-4-0": {
+      "baseline": "2.9.4",
+      "port-version": 0
+    },
     "cimg-220-0": {
       "baseline": "220",
       "port-version": 0
