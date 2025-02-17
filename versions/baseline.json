@@ -69992,6 +69992,10 @@
       "baseline": "2022-04-22",
       "port-version": 0
     },
+    "wxcharts-2022-06-16-0": {
+      "baseline": "2022-06-16",
+      "port-version": 0
+    },
     "wxwidgets-3-1-0-0": {
       "baseline": "3.1.0",
       "port-version": 0
@@ -70119,6 +70123,10 @@
     "wxwidgets-3-1-6-1": {
       "baseline": "3.1.6",
       "port-version": 1
+    },
+    "wxwidgets-3-1-6-2": {
+      "baseline": "3.1.6",
+      "port-version": 2
     },
     "x-plane-3-0-1-0": {
       "baseline": "3.0.1",
