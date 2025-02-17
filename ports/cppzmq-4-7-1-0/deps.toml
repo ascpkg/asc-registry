@@ -1,0 +1,5 @@
+old = "cppzmq"
+new = "cppzmq-4-7-1-0"
+
+[deps]
+zeromq-2019-09-20-1 = "zeromq"
