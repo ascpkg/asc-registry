@@ -55784,6 +55784,10 @@
       "baseline": "3.5.1",
       "port-version": 0
     },
+    "itay-grudev-singleapplication-3-5-2-0": {
+      "baseline": "3.5.2",
+      "port-version": 0
+    },
     "itk-4-11-0-0": {
       "baseline": "4.11.0",
       "port-version": 0
