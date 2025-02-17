@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/jaeger-client-cpp-0-7-0-2",
+      "version-semver": "0.7.0",
+      "port-version": 2
+    }
+  ]
+}
