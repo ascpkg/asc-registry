@@ -16856,6 +16856,10 @@
       "baseline": "latest",
       "port-version": 0
     },
+    "live555-latest-1-0": {
+      "baseline": "latest-1",
+      "port-version": 0
+    },
     "llgl-2019-08-15-0": {
       "baseline": "2019-08-15",
       "port-version": 0

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/live555-latest-1-0",
+      "version": "latest-1",
+      "port-version": 0
+    }
+  ]
+}
