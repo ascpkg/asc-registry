@@ -740,6 +740,10 @@
       "baseline": "0.1.1f",
       "port-version": 3
     },
+    "ade-0-1-2-0": {
+      "baseline": "0.1.2",
+      "port-version": 0
+    },
     "adios2-2-8-3-0": {
       "baseline": "2.8.3",
       "port-version": 0
