@@ -1,0 +1,8 @@
+old = "wayland"
+new = "wayland-1-21-0-0"
+
+[deps]
+expat-2-4-9-1 = "expat"
+libffi-3-4-2-6 = "libffi"
+libxml2-2-9-14-1 = "libxml2"
+vcpkg-tool-meson-0-63-0 = "vcpkg-tool-meson"

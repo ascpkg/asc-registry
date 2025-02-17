@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/wayland-protocols-1-27-0",
+      "version": "1.27",
+      "port-version": 0
+    }
+  ]
+}
