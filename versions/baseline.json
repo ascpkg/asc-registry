@@ -102520,6 +102520,10 @@
       "baseline": "2024.1.25",
       "port-version": 0
     },
+    "shader-slang-2024-1-33-0": {
+      "baseline": "2024.1.33",
+      "port-version": 0
+    },
     "shader-slang-2024-1-7-0": {
       "baseline": "2024.1.7",
       "port-version": 0
