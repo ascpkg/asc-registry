@@ -1,0 +1,5 @@
+old = "libdatrie"
+new = "libdatrie-0-2-10-3-0"
+
+[deps]
+libiconv-1-15-6-0 = "libiconv"

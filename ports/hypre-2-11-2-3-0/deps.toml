@@ -1,0 +1,5 @@
+old = "hypre"
+new = "hypre-2-11-2-3-0"
+
+[deps]
+mpi-1-0 = "mpi"

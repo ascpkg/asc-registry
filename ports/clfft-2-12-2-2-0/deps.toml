@@ -1,0 +1,5 @@
+old = "clfft"
+new = "clfft-2-12-2-2-0"
+
+[deps]
+opencl-2-2-2-0 = "opencl"

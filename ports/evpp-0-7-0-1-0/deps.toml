@@ -2,8 +2,8 @@ old = "evpp"
 new = "evpp-0-7-0-1-0"
 
 [deps]
-boost-lockfree-1-70-0-0 = "boost-lockfree"
+boost-lockfree-1-71-0-0 = "boost-lockfree"
 concurrentqueue-1-0-0-beta-dea078c-0 = "concurrentqueue"
 glog-0-4-0-2-0 = "glog"
 libevent-2-1-11-0 = "libevent"
-rapidjson-d87b698-1-0 = "rapidjson"
+rapidjson-2019-06-28-0 = "rapidjson"

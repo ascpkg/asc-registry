@@ -1,0 +1,12 @@
+old = "cartographer"
+new = "cartographer-1-0-0-2-0"
+
+[deps]
+boost-iostreams-1-71-0-0 = "boost-iostreams"
+cairo-1-16-0-2-0 = "cairo"
+ceres-1-14-0-6-0 = "ceres"
+gflags-2-2-2-1-0 = "gflags"
+glog-0-4-0-2-0 = "glog"
+gtest-2019-08-14-2-0 = "gtest"
+lua-5-3-5-2-0 = "lua"
+protobuf-3-10-0-0 = "protobuf"

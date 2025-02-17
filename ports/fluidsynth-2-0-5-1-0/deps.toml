@@ -2,4 +2,4 @@ old = "fluidsynth"
 new = "fluidsynth-2-0-5-1-0"
 
 [deps]
-glib-2-52-3-14-2-0 = "glib"
+glib-2-52-3-14-3-0 = "glib"

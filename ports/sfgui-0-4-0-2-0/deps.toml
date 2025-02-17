@@ -1,0 +1,5 @@
+old = "sfgui"
+new = "sfgui-0-4-0-2-0"
+
+[deps]
+sfml-2-5-1-3-0 = "sfml"

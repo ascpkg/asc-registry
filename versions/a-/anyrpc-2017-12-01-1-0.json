@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/anyrpc-2017-12-01-1-0",
+      "version": "2017-12-01-1",
+      "port-version": 0
+    }
+  ]
+}

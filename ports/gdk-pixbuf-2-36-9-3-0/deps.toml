@@ -2,7 +2,7 @@ old = "gdk-pixbuf"
 new = "gdk-pixbuf-2-36-9-3-0"
 
 [deps]
-gettext-0-19-10-0 = "gettext"
-glib-2-52-3-14-2-0 = "glib"
-libpng-1-6-37-1-0 = "libpng"
+gettext-0-19-11-0 = "gettext"
+glib-2-52-3-14-3-0 = "glib"
+libpng-1-6-37-4-0 = "libpng"
 zlib-1-2-11-5-0 = "zlib"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/lmdb-0-9-23-3-0",
+      "version": "0.9.23-3",
+      "port-version": 0
+    }
+  ]
+}

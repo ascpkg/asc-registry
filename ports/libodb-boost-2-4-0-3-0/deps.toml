@@ -2,4 +2,4 @@ old = "libodb-boost"
 new = "libodb-boost-2-4-0-3-0"
 
 [deps]
-libodb-2-4-0-5-0 = "libodb"
+libodb-2-4-0-6-0 = "libodb"

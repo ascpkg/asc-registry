@@ -1,0 +1,5 @@
+old = "llvm"
+new = "llvm-8-0-0-3-0"
+
+[deps]
+atlmfc-0-0 = "atlmfc"

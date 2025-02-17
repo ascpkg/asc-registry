@@ -1,0 +1,6 @@
+old = "restbed"
+new = "restbed-4-16-07-28-2018-2-0"
+
+[deps]
+asio-1-12-2-2-0 = "asio"
+openssl-1-0 = "openssl"

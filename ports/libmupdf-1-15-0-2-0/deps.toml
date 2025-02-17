@@ -1,0 +1,12 @@
+old = "libmupdf"
+new = "libmupdf-1-15-0-2-0"
+
+[deps]
+curl-7-66-0-0 = "curl"
+freetype-2-10-1-1-0 = "freetype"
+glfw3-3-3-3-0 = "glfw3"
+harfbuzz-2-5-3-0 = "harfbuzz"
+jbig2dec-0-16-1-0 = "jbig2dec"
+libjpeg-turbo-2-0-2-0 = "libjpeg-turbo"
+openjpeg-2-3-1-1-0 = "openjpeg"
+zlib-1-2-11-5-0 = "zlib"
