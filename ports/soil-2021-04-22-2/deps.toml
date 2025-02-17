@@ -1,0 +1,5 @@
+old = "soil"
+new = "soil-2021-04-22-2"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

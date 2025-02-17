@@ -1,0 +1,5 @@
+old = "unqlite"
+new = "unqlite-1-1-9-1"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

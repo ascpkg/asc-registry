@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/wepoll-1-5-8-2",
+      "version-string": "1.5.8",
+      "port-version": 2
+    }
+  ]
+}

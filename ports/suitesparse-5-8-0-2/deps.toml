@@ -1,0 +1,8 @@
+old = "suitesparse"
+new = "suitesparse-5-8-0-2"
+
+[deps]
+lapack-2022-02-22-0 = "lapack"
+metis-2022-07-27-0 = "metis"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

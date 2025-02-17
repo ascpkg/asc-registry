@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/sfgui-0-4-0-6",
+      "version": "0.4.0",
+      "port-version": 6
+    }
+  ]
+}

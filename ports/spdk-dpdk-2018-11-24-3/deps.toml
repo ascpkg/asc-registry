@@ -1,0 +1,5 @@
+old = "spdk-dpdk"
+new = "spdk-dpdk-2018-11-24-3"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

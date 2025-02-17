@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/unqlite-1-1-9-1",
+      "version-string": "1.1.9",
+      "port-version": 1
+    }
+  ]
+}

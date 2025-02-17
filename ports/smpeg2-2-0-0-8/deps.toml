@@ -1,0 +1,6 @@
+old = "smpeg2"
+new = "smpeg2-2-0-0-8"
+
+[deps]
+sdl2-2-26-3-1 = "sdl2"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/systemc-2-3-3-7",
+      "version-string": "2.3.3",
+      "port-version": 7
+    }
+  ]
+}

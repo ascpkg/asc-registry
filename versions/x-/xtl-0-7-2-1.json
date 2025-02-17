@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/xtl-0-7-2-1",
+      "version": "0.7.2",
+      "port-version": 1
+    }
+  ]
+}
