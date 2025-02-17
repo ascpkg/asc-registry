@@ -3604,6 +3604,10 @@
       "baseline": "8.0.4",
       "port-version": 2
     },
+    "bdwgc-8-2-0-0": {
+      "baseline": "8.2.0",
+      "port-version": 0
+    },
     "beast-0-0": {
       "baseline": "0",
       "port-version": 0
