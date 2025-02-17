@@ -28648,6 +28648,10 @@
       "baseline": "5.4.0-4",
       "port-version": 0
     },
+    "suitesparse-5-4-0-5-0": {
+      "baseline": "5.4.0-5",
+      "port-version": 0
+    },
     "sundials-2-7-0-0": {
       "baseline": "2.7.0",
       "port-version": 0
