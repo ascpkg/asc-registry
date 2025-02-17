@@ -60568,6 +60568,10 @@
       "baseline": "1.2.184",
       "port-version": 0
     },
+    "vulkan-headers-1-2-203-0": {
+      "baseline": "1.2.203",
+      "port-version": 0
+    },
     "vulkan-hpp-1-2-184-0": {
       "baseline": "1.2.184",
       "port-version": 0
@@ -60575,6 +60579,10 @@
     "vulkan-hpp-1-2-184-1": {
       "baseline": "1.2.184",
       "port-version": 1
+    },
+    "vulkan-hpp-1-2-203-0": {
+      "baseline": "1.2.203",
+      "port-version": 0
     },
     "vulkan-hpp-2019-05-11-0": {
       "baseline": "2019-05-11",
