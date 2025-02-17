@@ -1,0 +1,9 @@
+old = "gdcm"
+new = "gdcm-3-0-7-3"
+
+[deps]
+expat-2-4-1-0 = "expat"
+openjpeg-2-4-0-0 = "openjpeg"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"
+zlib-1-2-11-13 = "zlib"
