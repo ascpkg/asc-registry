@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/rs-core-lib-2019-01-30-0",
+      "version": "2019-01-30",
+      "port-version": 0
+    }
+  ]
+}
