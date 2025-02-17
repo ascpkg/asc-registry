@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/bzip2-1-0-6-6-0",
+      "version": "1.0.6-6",
+      "port-version": 0
+    }
+  ]
+}

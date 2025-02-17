@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ignition-modularscripts-2020-05-16-1",
+      "version": "2020-05-16",
+      "port-version": 1
+    }
+  ]
+}

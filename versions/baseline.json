@@ -808,6 +808,10 @@
       "baseline": "1.7.0-1",
       "port-version": 0
     },
+    "apr-1-7-0-2": {
+      "baseline": "1.7.0",
+      "port-version": 2
+    },
     "apr-util-1-6-0-0": {
       "baseline": "1.6.0",
       "port-version": 0
@@ -7818,6 +7822,10 @@
     },
     "bzip2-1-0-6-5-0": {
       "baseline": "1.0.6-5",
+      "port-version": 0
+    },
+    "bzip2-1-0-6-6-0": {
+      "baseline": "1.0.6-6",
       "port-version": 0
     },
     "c-ares-1-12-1-dev-40eb41f-0": {
@@ -14844,6 +14852,10 @@
       "baseline": "6.2.0-1",
       "port-version": 0
     },
+    "gmp-6-2-0-2-0": {
+      "baseline": "6.2.0-2",
+      "port-version": 0
+    },
     "gnusl-2-3-0": {
       "baseline": "2.3",
       "port-version": 0
@@ -16364,6 +16376,10 @@
       "baseline": "2020-05-16",
       "port-version": 0
     },
+    "ignition-modularscripts-2020-05-16-1": {
+      "baseline": "2020-05-16",
+      "port-version": 1
+    },
     "ignition-msgs1-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
@@ -16375,6 +16391,10 @@
     "ignition-msgs5-5-1-0-0": {
       "baseline": "5.1.0",
       "port-version": 0
+    },
+    "ignition-msgs5-5-1-0-1": {
+      "baseline": "5.1.0",
+      "port-version": 1
     },
     "ignition-plugin1-1-1-0-0": {
       "baseline": "1.1.0",
@@ -19566,6 +19586,10 @@
     },
     "libpng-1-6-37-1-0": {
       "baseline": "1.6.37-1",
+      "port-version": 0
+    },
+    "libpng-1-6-37-10-0": {
+      "baseline": "1.6.37-10",
       "port-version": 0
     },
     "libpng-1-6-37-2-0": {
@@ -23532,6 +23556,10 @@
       "baseline": "3.5.1-1",
       "port-version": 0
     },
+    "nettle-3-5-1-2-0": {
+      "baseline": "3.5.1-2",
+      "port-version": 0
+    },
     "networkdirect-sdk-2-0-1-0": {
       "baseline": "2.0.1",
       "port-version": 0
@@ -24159,6 +24187,10 @@
     "ompl-1-4-2-4-0": {
       "baseline": "1.4.2-4",
       "port-version": 0
+    },
+    "ompl-1-4-2-5": {
+      "baseline": "1.4.2",
+      "port-version": 5
     },
     "oniguruma-2019-02-26-0": {
       "baseline": "2019-02-26",
@@ -26192,6 +26224,10 @@
       "baseline": "8.44",
       "port-version": 5
     },
+    "pcre-8-44-6": {
+      "baseline": "8.44",
+      "port-version": 6
+    },
     "pcre2-10-23-0": {
       "baseline": "10.23",
       "port-version": 0
@@ -27135,6 +27171,10 @@
     "protobuf-3-12-3-0": {
       "baseline": "3.12.3",
       "port-version": 0
+    },
+    "protobuf-3-12-3-1": {
+      "baseline": "3.12.3",
+      "port-version": 1
     },
     "protobuf-3-2-0-0": {
       "baseline": "3.2.0",
@@ -31163,6 +31203,10 @@
     "sdl1-1-2-15-11-0": {
       "baseline": "1.2.15-11",
       "port-version": 0
+    },
+    "sdl1-1-2-15-12": {
+      "baseline": "1.2.15",
+      "port-version": 12
     },
     "sdl1-1-2-15-3-0": {
       "baseline": "1.2.15-3",
