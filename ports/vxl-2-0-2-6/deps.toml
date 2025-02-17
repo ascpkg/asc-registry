@@ -1,0 +1,14 @@
+old = "vxl"
+new = "vxl-2-0-2-6"
+
+[deps]
+bzip2-1-0-8-5 = "bzip2"
+expat-2-6-2-0 = "expat"
+libgeotiff-1-7-1-3 = "libgeotiff"
+libjpeg-turbo-3-0-2-0 = "libjpeg-turbo"
+libpng-1-6-43-1 = "libpng"
+shapelib-1-6-0-0 = "shapelib"
+tiff-4-6-0-4 = "tiff"
+vcpkg-cmake-2024-04-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-3-1-0 = "zlib"
