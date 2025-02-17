@@ -284,6 +284,10 @@
       "baseline": "2021-03-24",
       "port-version": 1
     },
+    "abseil-20210324-2-0": {
+      "baseline": "20210324.2",
+      "port-version": 0
+    },
     "absent-0-3-0-0": {
       "baseline": "0.3.0",
       "port-version": 0
