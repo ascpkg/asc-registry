@@ -38852,6 +38852,10 @@
       "baseline": "5.4.3",
       "port-version": 3
     },
+    "lua-5-4-4-0": {
+      "baseline": "5.4.4",
+      "port-version": 0
+    },
     "luabridge-2-1-1-0": {
       "baseline": "2.1-1",
       "port-version": 0
