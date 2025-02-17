@@ -1,0 +1,6 @@
+old = "qcustomplot"
+new = "qcustomplot-2-1-1-0"
+
+[deps]
+qtbase-6-4-3-1 = "qtbase"
+vcpkg-qmake-2023-03-22-0 = "vcpkg-qmake"
