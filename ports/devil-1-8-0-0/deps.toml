@@ -1,0 +1,15 @@
+old = "devil"
+new = "devil-1-8-0-0"
+
+[deps]
+jasper-2-0-13-1-0 = "jasper"
+jxrlib-1-1-4-0 = "jxrlib"
+libjpeg-turbo-1-5-2-2-0 = "libjpeg-turbo"
+liblzma-5-2-3-2-0 = "liblzma"
+libpng-1-6-32-1-0 = "libpng"
+libraw-0-18-2-4-0 = "libraw"
+libwebp-0-6-0-2-0 = "libwebp"
+openexr-2-2-0-1-0 = "openexr"
+openjpeg-2-2-0-1-0 = "openjpeg"
+tiff-4-0-8-1-0 = "tiff"
+zlib-1-2-11-3-0 = "zlib"
