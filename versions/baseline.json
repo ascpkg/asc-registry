@@ -27024,6 +27024,10 @@
       "baseline": "4.4.3",
       "port-version": 1
     },
+    "ffmpeg-4-4-3-2": {
+      "baseline": "4.4.3",
+      "port-version": 2
+    },
     "ffmpeg-4-4-4": {
       "baseline": "4.4",
       "port-version": 4
@@ -79659,6 +79663,10 @@
     "x265-3-4-7": {
       "baseline": "3.4",
       "port-version": 7
+    },
+    "x265-3-4-8": {
+      "baseline": "3.4",
+      "port-version": 8
     },
     "xalan-c-1-11-0": {
       "baseline": "1.11",
