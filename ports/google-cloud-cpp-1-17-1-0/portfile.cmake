@@ -1,0 +1,29 @@
+vcpkg_check_linkage(ONLY_STATIC_LIBRARY)
+
+vcpkg_from_github(
+    OUT_SOURCE_PATH SOURCE_PATH
+    REPO googleapis/google-cloud-cpp
+    REF v1.17.1
+    SHA512 1cad4c679f3dc5438e39b91d432756d33c1f4c470c7a2a6d08086c805813e0ed31411d9167e7f6f1a39255f8a64b67e17159d072461938e5dc256867f03c54be
+    HEAD_REF master
+)
+
+vcpkg_configure_cmake(
+    SOURCE_PATH ${SOURCE_PATH}
+    PREFER_NINJA
+    DISABLE_PARALLEL_CONFIGURE
+    OPTIONS
+        -DGOOGLE_CLOUD_CPP_ENABLE_MACOS_OPENSSL_CHECK=OFF
+        -DGOOGLE_CLOUD_CPP_ENABLE_WERROR=OFF
+        -DBUILD_TESTING=OFF
+)
+
+vcpkg_install_cmake(ADD_BIN_TO_PATH)
+
+file(REMOVE_RECURSE ${CURRENT_PACKAGES_DIR}/debug/include)
+vcpkg_fixup_cmake_targets(CONFIG_PATH lib/cmake TARGET_PATH share)
+
+file(REMOVE_RECURSE ${CURRENT_PACKAGES_DIR}/debug/share)
+file(INSTALL ${SOURCE_PATH}/LICENSE DESTINATION ${CURRENT_PACKAGES_DIR}/share/${PORT} RENAME copyright)
+
+vcpkg_copy_pdbs()
