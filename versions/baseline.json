@@ -26464,6 +26464,10 @@
       "baseline": "6.1.2-1",
       "port-version": 0
     },
+    "rocksdb-6-6-4-1-0": {
+      "baseline": "6.6.4-1",
+      "port-version": 0
+    },
     "rpclib-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
