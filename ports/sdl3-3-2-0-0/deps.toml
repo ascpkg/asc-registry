@@ -1,0 +1,8 @@
+old = "sdl3"
+new = "sdl3-3-2-0-0"
+
+[deps]
+alsa-1-2-13-1 = "alsa"
+dbus-1-15-8-5 = "dbus"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
