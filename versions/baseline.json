@@ -112952,6 +112952,10 @@
       "baseline": "1.1.2",
       "port-version": 0
     },
+    "vsg-1-1-7-0": {
+      "baseline": "1.1.7",
+      "port-version": 0
+    },
     "vsgimgui-0-1-0-0": {
       "baseline": "0.1.0",
       "port-version": 0
