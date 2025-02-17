@@ -25376,6 +25376,10 @@
       "baseline": "0.12.2",
       "port-version": 1
     },
+    "libdatachannel-0-14-1-0": {
+      "baseline": "0.14.1",
+      "port-version": 0
+    },
     "libdatachannel-v0-10-1-0": {
       "baseline": "v0.10.1",
       "port-version": 0
@@ -26458,6 +26462,10 @@
     },
     "libjuice-0-7-1-0": {
       "baseline": "0.7.1",
+      "port-version": 0
+    },
+    "libjuice-0-8-4-0": {
+      "baseline": "0.8.4",
       "port-version": 0
     },
     "libkeyfinder-2-2-4-0": {
