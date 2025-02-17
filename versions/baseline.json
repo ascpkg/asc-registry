@@ -19992,6 +19992,10 @@
       "baseline": "4.4",
       "port-version": 16
     },
+    "ffmpeg-4-4-17": {
+      "baseline": "4.4",
+      "port-version": 17
+    },
     "ffmpeg-4-4-2": {
       "baseline": "4.4",
       "port-version": 2
@@ -58051,6 +58055,10 @@
     "x264-157-303c484ec828ed0-9": {
       "baseline": "157-303c484ec828ed0",
       "port-version": 9
+    },
+    "x264-164-5db6aa6cab1b146-0": {
+      "baseline": "164-5db6aa6cab1b146",
+      "port-version": 0
     },
     "x265-2-7-0": {
       "baseline": "2.7",
