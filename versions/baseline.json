@@ -20268,6 +20268,10 @@
       "baseline": "0.7.0",
       "port-version": 3
     },
+    "fmi4cpp-0-8-0-0": {
+      "baseline": "0.8.0",
+      "port-version": 0
+    },
     "fmilib-2-0-3-0": {
       "baseline": "2.0.3",
       "port-version": 0
