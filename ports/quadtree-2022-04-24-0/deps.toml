@@ -1,0 +1,5 @@
+old = "quadtree"
+new = "quadtree-2022-04-24-0"
+
+[deps]
+vcpkg-cmake-2022-10-30-0 = "vcpkg-cmake"
