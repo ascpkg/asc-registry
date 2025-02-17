@@ -82148,6 +82148,10 @@
       "baseline": "2.0.5",
       "port-version": 0
     },
+    "rsm-binary-io-2-0-6-0": {
+      "baseline": "2.0.6",
+      "port-version": 0
+    },
     "rsm-bsa-2-0-3-0": {
       "baseline": "2.0.3",
       "port-version": 0
