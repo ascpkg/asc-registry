@@ -32204,6 +32204,10 @@
       "baseline": "51",
       "port-version": 1
     },
+    "inih-56-0": {
+      "baseline": "56",
+      "port-version": 0
+    },
     "iniparser-2020-04-06-0": {
       "baseline": "2020-04-06",
       "port-version": 0
@@ -44971,6 +44975,10 @@
     "minio-cpp-0-1-1-0": {
       "baseline": "0.1.1",
       "port-version": 0
+    },
+    "minio-cpp-0-1-1-1": {
+      "baseline": "0.1.1",
+      "port-version": 1
     },
     "minio-cpp-2022-01-03-0": {
       "baseline": "2022-01-03",
