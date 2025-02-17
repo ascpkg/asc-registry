@@ -1,0 +1,17 @@
+old = "cpprestsdk"
+new = "cpprestsdk-2-10-13-1-0"
+
+[deps]
+boost-asio-1-69-0-1-0 = "boost-asio"
+boost-chrono-1-69-0-0 = "boost-chrono"
+boost-date-time-1-69-0-0 = "boost-date-time"
+boost-filesystem-1-69-0-0 = "boost-filesystem"
+boost-random-1-69-0-0 = "boost-random"
+boost-regex-1-69-0-0 = "boost-regex"
+boost-system-1-69-0-0 = "boost-system"
+boost-thread-1-69-0-0 = "boost-thread"
+brotli-1-0-2-4-0 = "brotli"
+cpprestsdk-2-10-13-1-0 = "cpprestsdk"
+openssl-0-0 = "openssl"
+websocketpp-0-8-1-0 = "websocketpp"
+zlib-1-2-11-5-0 = "zlib"
