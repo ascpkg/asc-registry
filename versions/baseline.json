@@ -73752,6 +73752,10 @@
       "baseline": "1.14.0",
       "port-version": 2
     },
+    "opentelemetry-cpp-1-14-2-0": {
+      "baseline": "1.14.2",
+      "port-version": 0
+    },
     "opentelemetry-cpp-1-2-0-0": {
       "baseline": "1.2.0",
       "port-version": 0
