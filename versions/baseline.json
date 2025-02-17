@@ -5900,6 +5900,10 @@
       "baseline": "0.14.4-1",
       "port-version": 0
     },
+    "vlpp-0-9-3-1-0": {
+      "baseline": "0.9.3.1",
+      "port-version": 0
+    },
     "vtk-7-1-0-0": {
       "baseline": "7.1.0",
       "port-version": 0
