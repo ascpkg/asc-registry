@@ -35944,6 +35944,10 @@
       "baseline": "2020-06-02",
       "port-version": 3
     },
+    "mozjpeg-2021-09-27-0": {
+      "baseline": "2021-09-27",
+      "port-version": 0
+    },
     "mozjpeg-3-2-0": {
       "baseline": "3.2",
       "port-version": 0
