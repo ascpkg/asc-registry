@@ -1,0 +1,7 @@
+old = "osg-qt"
+new = "osg-qt-qt5-3"
+
+[deps]
+osg-3-6-5-10 = "osg"
+qt5-base-5-15-2-11 = "qt5-base"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
