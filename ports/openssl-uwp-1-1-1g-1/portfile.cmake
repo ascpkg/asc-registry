@@ -1,15 +1,19 @@
-vcpkg_fail_port_install(MESSAGE "${PORT} is only for Windows Desktop" ON_TARGET "UWP" "Linux" "OSX")
+vcpkg_fail_port_install(MESSAGE "${PORT} is only for Windows Universal Platform" ON_TARGET "Linux" "OSX")
 
 if(EXISTS "${CURRENT_INSTALLED_DIR}/include/openssl/ssl.h")
   message(FATAL_ERROR "Can't build openssl if libressl/boringssl is installed. Please remove libressl/boringssl, and try install openssl again if you need it.")
 endif()
 
+vcpkg_check_linkage(ONLY_DYNAMIC_LIBRARY)
+
 vcpkg_find_acquire_program(PERL)
-
-set(OPENSSL_VERSION 1.1.1g)
-
+vcpkg_find_acquire_program(JOM)
+get_filename_component(JOM_EXE_PATH ${JOM} DIRECTORY)
 get_filename_component(PERL_EXE_PATH ${PERL} DIRECTORY)
 vcpkg_add_to_path("${PERL_EXE_PATH}")
+vcpkg_add_to_path("${JOM_EXE_PATH}")
+
+set(OPENSSL_VERSION 1.1.1g)
 
 vcpkg_download_distfile(ARCHIVE
     URLS "https://www.openssl.org/source/openssl-${OPENSSL_VERSION}.tar.gz" "https://www.openssl.org/source/old/1.1.1/openssl-${OPENSSL_VERSION}.tar.gz"
@@ -18,8 +22,10 @@ vcpkg_download_distfile(ARCHIVE
 )
 
 vcpkg_extract_source_archive_ex(
-    OUT_SOURCE_PATH SOURCE_PATH
-    ARCHIVE ${ARCHIVE}
+  OUT_SOURCE_PATH SOURCE_PATH
+  ARCHIVE ${ARCHIVE}
+  PATCHES
+    EnableUWPSupport.patch
 )
 
 vcpkg_find_acquire_program(NASM)
@@ -28,34 +34,26 @@ vcpkg_add_to_path(PREPEND "${NASM_EXE_PATH}")
 
 vcpkg_find_acquire_program(JOM)
 
-set(OPENSSL_SHARED no-shared)
-if(VCPKG_LIBRARY_LINKAGE STREQUAL dynamic)
-    set(OPENSSL_SHARED shared)
-endif()
-
-set(CONFIGURE_OPTIONS 
+set(CONFIGURE_COMMAND ${PERL} Configure
     enable-static-engine
     enable-capieng
+    no-unit-test
     no-ssl2
+    no-asm
+    no-uplink
     no-tests
     -utf-8
-    ${OPENSSL_SHARED}
+    shared
 )
 
-if(DEFINED OPENSSL_USE_NOPINSHARED)
-    set(CONFIGURE_OPTIONS ${CONFIGURE_OPTIONS} no-pinshared)
-endif()
-
-set(CONFIGURE_COMMAND ${PERL} Configure ${CONFIGURE_OPTIONS})
-
 if(VCPKG_TARGET_ARCHITECTURE STREQUAL "x86")
-    set(OPENSSL_ARCH VC-WIN32)
+    set(OPENSSL_ARCH VC-WIN32-UWP)
 elseif(VCPKG_TARGET_ARCHITECTURE STREQUAL "x64")
-    set(OPENSSL_ARCH VC-WIN64A)
+    set(OPENSSL_ARCH VC-WIN64A-UWP)
 elseif(VCPKG_TARGET_ARCHITECTURE STREQUAL "arm")
-    set(OPENSSL_ARCH VC-WIN32-ARM)
+    set(OPENSSL_ARCH VC-WIN32-ARM-UWP)
 elseif(VCPKG_TARGET_ARCHITECTURE STREQUAL "arm64")
-    set(OPENSSL_ARCH VC-WIN64-ARM)
+    set(OPENSSL_ARCH VC-WIN64-ARM-UWP)
 else()
     message(FATAL_ERROR "Unsupported target architecture: ${VCPKG_TARGET_ARCHITECTURE}")
 endif()
@@ -91,13 +89,13 @@ if(NOT DEFINED VCPKG_BUILD_TYPE OR VCPKG_BUILD_TYPE STREQUAL "release")
     # This is ok; we just do as much work as we can in parallel first, then follow up with a single-threaded build.
     make_directory(${SOURCE_PATH_RELEASE}/inc32/openssl)
     execute_process(
-        COMMAND ${JOM} -k -j $ENV{NUMBER_OF_PROCESSORS} -f ${OPENSSL_MAKEFILE}
+        COMMAND ${JOM} -k -j $ENV{NUMBER_OF_PROCESSORS} -f ${OPENSSL_MAKEFILE} build_libs
         WORKING_DIRECTORY ${SOURCE_PATH_RELEASE}
         OUTPUT_FILE ${CURRENT_BUILDTREES_DIR}/build-${TARGET_TRIPLET}-rel-0-out.log
         ERROR_FILE ${CURRENT_BUILDTREES_DIR}/build-${TARGET_TRIPLET}-rel-0-err.log
     )
     vcpkg_execute_required_process(
-        COMMAND nmake -f ${OPENSSL_MAKEFILE} install_sw install_ssldirs
+        COMMAND nmake -f ${OPENSSL_MAKEFILE} install_dev
         WORKING_DIRECTORY ${SOURCE_PATH_RELEASE}
         LOGNAME build-${TARGET_TRIPLET}-rel-1)
 
@@ -128,13 +126,13 @@ if(NOT DEFINED VCPKG_BUILD_TYPE OR VCPKG_BUILD_TYPE STREQUAL "debug")
     message(STATUS "Build ${TARGET_TRIPLET}-dbg")
     make_directory(${SOURCE_PATH_DEBUG}/inc32/openssl)
     execute_process(
-        COMMAND ${JOM} -k -j $ENV{NUMBER_OF_PROCESSORS} -f ${OPENSSL_MAKEFILE}
+        COMMAND ${JOM} -k -j $ENV{NUMBER_OF_PROCESSORS} -f ${OPENSSL_MAKEFILE} build_libs
         WORKING_DIRECTORY ${SOURCE_PATH_DEBUG}
         OUTPUT_FILE ${CURRENT_BUILDTREES_DIR}/build-${TARGET_TRIPLET}-dbg-0-out.log
         ERROR_FILE ${CURRENT_BUILDTREES_DIR}/build-${TARGET_TRIPLET}-dbg-0-err.log
     )
     vcpkg_execute_required_process(
-        COMMAND nmake -f ${OPENSSL_MAKEFILE} install_sw install_ssldirs
+        COMMAND nmake -f ${OPENSSL_MAKEFILE} install_dev
         WORKING_DIRECTORY ${SOURCE_PATH_DEBUG}
         LOGNAME build-${TARGET_TRIPLET}-dbg-1)
 
@@ -152,37 +150,26 @@ file(REMOVE_RECURSE ${CURRENT_PACKAGES_DIR}/debug/include)
 
 
 file(REMOVE
+    ${CURRENT_PACKAGES_DIR}/bin/openssl.exe
+    ${CURRENT_PACKAGES_DIR}/debug/bin/openssl.exe
+    ${CURRENT_PACKAGES_DIR}/debug/openssl.cnf
+    ${CURRENT_PACKAGES_DIR}/openssl.cnf
     ${CURRENT_PACKAGES_DIR}/ct_log_list.cnf
     ${CURRENT_PACKAGES_DIR}/ct_log_list.cnf.dist
     ${CURRENT_PACKAGES_DIR}/openssl.cnf.dist
-    ${CURRENT_PACKAGES_DIR}/debug/bin/openssl.exe
     ${CURRENT_PACKAGES_DIR}/debug/ct_log_list.cnf
     ${CURRENT_PACKAGES_DIR}/debug/ct_log_list.cnf.dist
-    ${CURRENT_PACKAGES_DIR}/debug/openssl.cnf
     ${CURRENT_PACKAGES_DIR}/debug/openssl.cnf.dist
 )
 
-file(MAKE_DIRECTORY ${CURRENT_PACKAGES_DIR}/tools/openssl/)
-file(RENAME ${CURRENT_PACKAGES_DIR}/bin/openssl.exe ${CURRENT_PACKAGES_DIR}/tools/openssl/openssl.exe)
-file(RENAME ${CURRENT_PACKAGES_DIR}/openssl.cnf ${CURRENT_PACKAGES_DIR}/tools/openssl/openssl.cnf)
 
-vcpkg_copy_tool_dependencies(${CURRENT_PACKAGES_DIR}/tools/openssl)
+file(READ "${CURRENT_PACKAGES_DIR}/include/openssl/dtls1.h" _contents)
+string(REPLACE "<winsock.h>" "<winsock2.h>" _contents "${_contents}")
+file(WRITE "${CURRENT_PACKAGES_DIR}/include/openssl/dtls1.h" "${_contents}")
 
-if(VCPKG_LIBRARY_LINKAGE STREQUAL static)
-    # They should be empty, only the exes deleted above were in these directories
-    file(REMOVE_RECURSE ${CURRENT_PACKAGES_DIR}/debug/bin/)
-    file(REMOVE_RECURSE ${CURRENT_PACKAGES_DIR}/bin/)
-endif()
-
-vcpkg_replace_string("${CURRENT_PACKAGES_DIR}/include/openssl/dtls1.h"
-    "<winsock.h>"
-    "<winsock2.h>"
-)
-
-vcpkg_replace_string("${CURRENT_PACKAGES_DIR}/include/openssl/rand.h"
-    "#  include <windows.h>"
-    "#ifndef _WINSOCKAPI_\n#define _WINSOCKAPI_\n#endif\n#  include <windows.h>"
-)
+file(READ "${CURRENT_PACKAGES_DIR}/include/openssl/rand.h" _contents)
+string(REPLACE "#  include <windows.h>" "#ifndef _WINSOCKAPI_\n#define _WINSOCKAPI_\n#endif\n#  include <windows.h>" _contents "${_contents}")
+file(WRITE "${CURRENT_PACKAGES_DIR}/include/openssl/rand.h" "${_contents}")
 
 vcpkg_copy_pdbs()
 
