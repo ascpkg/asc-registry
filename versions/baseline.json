@@ -1480,6 +1480,10 @@
       "baseline": "4f4add2cdcbe73af7098122a509dff0739d15908",
       "port-version": 0
     },
+    "exiv2-8f5b795eaa4bc414d2d6041c1dbd1a7f7bf1fc99-0": {
+      "baseline": "8f5b795eaa4bc414d2d6041c1dbd1a7f7bf1fc99",
+      "port-version": 0
+    },
     "expat-2-1-1-0": {
       "baseline": "2.1.1",
       "port-version": 0
