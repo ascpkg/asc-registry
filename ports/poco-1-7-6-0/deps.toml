@@ -1,6 +1,2 @@
 old = "poco"
 new = "poco-1-7-6-0"
-
-[deps]
-libmariadb-2-3-1-0 = "libmariadb"
-openssl-1-0-2j-0 = "openssl"
