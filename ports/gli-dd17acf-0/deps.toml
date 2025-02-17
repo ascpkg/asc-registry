@@ -2,4 +2,4 @@ old = "gli"
 new = "gli-dd17acf-0"
 
 [deps]
-glm-0-9-9-3-0 = "glm"
+glm-0-9-9-5-3-0 = "glm"

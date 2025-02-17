@@ -2,7 +2,7 @@ old = "bond"
 new = "bond-7-0-2-2-0"
 
 [deps]
-boost-assign-1-69-0-0 = "boost-assign"
-boost-config-1-69-0-0 = "boost-config"
-boost-utility-1-69-0-0 = "boost-utility"
+boost-assign-1-70-0-0 = "boost-assign"
+boost-config-1-70-0-0 = "boost-config"
+boost-utility-1-70-0-0 = "boost-utility"
 rapidjson-1-1-0-3-0 = "rapidjson"
