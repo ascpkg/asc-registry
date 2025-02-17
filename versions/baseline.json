@@ -10652,6 +10652,10 @@
       "baseline": "5.9.2-1",
       "port-version": 0
     },
+    "qt5-script-5-9-2-0": {
+      "baseline": "5.9.2",
+      "port-version": 0
+    },
     "qt5-scxml-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
