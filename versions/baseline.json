@@ -51356,6 +51356,10 @@
       "baseline": "10.0.1",
       "port-version": 0
     },
+    "harfbuzz-10-1-0-0": {
+      "baseline": "10.1.0",
+      "port-version": 0
+    },
     "harfbuzz-2-3-1-0": {
       "baseline": "2.3.1",
       "port-version": 0
