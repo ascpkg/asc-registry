@@ -1,0 +1,10 @@
+old = "s2geometry"
+new = "s2geometry-0-10-0-0"
+
+[deps]
+abseil-20220623-1-0 = "abseil"
+gflags-2-2-2-5 = "gflags"
+glog-0-6-0-0 = "glog"
+openssl-3-0-5-4 = "openssl"
+vcpkg-cmake-2022-08-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
