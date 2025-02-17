@@ -456,6 +456,10 @@
       "baseline": "20240116.2",
       "port-version": 2
     },
+    "abseil-20240116-2-3": {
+      "baseline": "20240116.2",
+      "port-version": 3
+    },
     "absent-0-3-0-0": {
       "baseline": "0.3.0",
       "port-version": 0
