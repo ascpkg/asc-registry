@@ -36120,6 +36120,10 @@
       "baseline": "2.14.2",
       "port-version": 0
     },
+    "fontconfig-2-14-2-1": {
+      "baseline": "2.14.2",
+      "port-version": 1
+    },
     "foonathan-lexy-2022-12-0-0": {
       "baseline": "2022.12.0",
       "port-version": 0
