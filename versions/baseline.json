@@ -33696,6 +33696,10 @@
       "baseline": "v2018.07.30.00-1",
       "port-version": 0
     },
+    "wavelib-2020-05-29-0": {
+      "baseline": "2020-05-29",
+      "port-version": 0
+    },
     "wavpack-5-1-0-00d9a4a-0": {
       "baseline": "5.1.0-00d9a4a",
       "port-version": 0
