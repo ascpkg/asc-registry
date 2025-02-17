@@ -19440,6 +19440,10 @@
       "baseline": "3.2.0-1",
       "port-version": 0
     },
+    "msgpack11-0-0-10-0": {
+      "baseline": "0.0.10",
+      "port-version": 0
+    },
     "msinttypes-2017-06-26-f9e7c5758ed9e3b9f4b2394de1881c704dd79de0-0": {
       "baseline": "2017-06-26-f9e7c5758ed9e3b9f4b2394de1881c704dd79de0",
       "port-version": 0
