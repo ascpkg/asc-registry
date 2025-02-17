@@ -29776,6 +29776,10 @@
       "baseline": "12.0.0",
       "port-version": 0
     },
+    "llvm-12-0-0-1": {
+      "baseline": "12.0.0",
+      "port-version": 1
+    },
     "llvm-4-0-0-0": {
       "baseline": "4.0.0",
       "port-version": 0
