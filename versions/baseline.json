@@ -11304,6 +11304,10 @@
       "baseline": "3.6",
       "port-version": 0
     },
+    "colmap-3-6-1": {
+      "baseline": "3.6",
+      "port-version": 1
+    },
     "comms-3-1-1-0": {
       "baseline": "3.1.1",
       "port-version": 0
