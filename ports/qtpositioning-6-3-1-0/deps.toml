@@ -1,0 +1,7 @@
+old = "qtpositioning"
+new = "qtpositioning-6-3-1-0"
+
+[deps]
+qtbase-6-3-1-0 = "qtbase"
+qtdeclarative-6-3-1-0 = "qtdeclarative"
+qtserialport-6-3-1-0 = "qtserialport"
