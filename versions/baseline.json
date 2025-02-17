@@ -56200,6 +56200,10 @@
       "baseline": "1.3.0",
       "port-version": 0
     },
+    "pe-parse-2-1-0-0": {
+      "baseline": "2.1.0",
+      "port-version": 0
+    },
     "pegtl-2-2-8-0-0": {
       "baseline": "2.8.0",
       "port-version": 0
