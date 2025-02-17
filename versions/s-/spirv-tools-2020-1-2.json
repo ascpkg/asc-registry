@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/spirv-tools-2020-1-2",
+      "version-string": "2020.1",
+      "port-version": 2
+    }
+  ]
+}
