@@ -1,0 +1,5 @@
+old = "bitserializer-pugixml"
+new = "bitserializer-pugixml-alias-0"
+
+[deps]
+bitserializer-0-10-0 = "bitserializer"

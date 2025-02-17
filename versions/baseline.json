@@ -2392,6 +2392,10 @@
       "baseline": "2.0",
       "port-version": 0
     },
+    "bitserializer-0-10-0": {
+      "baseline": "0.10",
+      "port-version": 0
+    },
     "bitserializer-0-7-0": {
       "baseline": "0.7",
       "port-version": 0
@@ -2412,8 +2416,16 @@
       "baseline": "0.9",
       "port-version": 0
     },
+    "bitserializer-cpprestjson-alias-0": {
+      "baseline": "alias",
+      "port-version": 0
+    },
     "bitserializer-pugixml-0-9-0": {
       "baseline": "0.9",
+      "port-version": 0
+    },
+    "bitserializer-pugixml-alias-0": {
+      "baseline": "alias",
       "port-version": 0
     },
     "bitserializer-rapidjson-0-8-0": {
@@ -2424,8 +2436,16 @@
       "baseline": "0.9",
       "port-version": 0
     },
+    "bitserializer-rapidjson-alias-0": {
+      "baseline": "alias",
+      "port-version": 0
+    },
     "bitserializer-rapidyaml-0-9-0": {
       "baseline": "0.9",
+      "port-version": 0
+    },
+    "bitserializer-rapidyaml-alias-0": {
+      "baseline": "alias",
       "port-version": 0
     },
     "bitsery-4-6-0-0": {

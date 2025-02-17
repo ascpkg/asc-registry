@@ -1,0 +1,5 @@
+old = "bitserializer-rapidyaml"
+new = "bitserializer-rapidyaml-alias-0"
+
+[deps]
+bitserializer-0-10-0 = "bitserializer"

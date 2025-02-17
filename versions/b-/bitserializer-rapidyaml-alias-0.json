@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/bitserializer-rapidyaml-alias-0",
+      "version": "alias",
+      "port-version": 0
+    }
+  ]
+}
