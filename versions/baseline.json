@@ -10072,6 +10072,10 @@
       "baseline": "1.17.1",
       "port-version": 0
     },
+    "c-ares-1-17-1-1": {
+      "baseline": "1.17.1",
+      "port-version": 1
+    },
     "c-ares-2019-5-2-0": {
       "baseline": "2019-5-2",
       "port-version": 0
