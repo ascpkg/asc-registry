@@ -4,11 +4,6 @@
       "path": "$/ports/qt5-5-7-1-0",
       "version": "5.7.1",
       "port-version": 0
-    },
-    {
-      "path": "$/ports/qt5-5-7-1-0",
-      "version": "5.7-1",
-      "port-version": 0
     }
   ]
 }
