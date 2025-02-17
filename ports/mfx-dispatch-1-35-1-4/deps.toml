@@ -1,0 +1,5 @@
+old = "mfx-dispatch"
+new = "mfx-dispatch-1-35-1-4"
+
+[deps]
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
