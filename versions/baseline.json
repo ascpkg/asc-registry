@@ -93752,6 +93752,10 @@
       "baseline": "2019-05-11-1",
       "port-version": 0
     },
+    "vulkan-hpp-deprecated-0": {
+      "baseline": "deprecated",
+      "port-version": 0
+    },
     "vulkan-memory-allocator-2-1-0-1-0": {
       "baseline": "2.1.0-1",
       "port-version": 0
