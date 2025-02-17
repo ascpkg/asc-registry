@@ -1,0 +1,7 @@
+old = "blend2d"
+new = "blend2d-2023-06-16-1"
+
+[deps]
+blend2d-2023-06-16-1 = "blend2d"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
