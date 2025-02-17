@@ -1,0 +1,14 @@
+old = "etcd-cpp-apiv3"
+new = "etcd-cpp-apiv3-0-2-12-0"
+
+[deps]
+boost-asio-1-81-0-1 = "boost-asio"
+boost-random-1-81-0-1 = "boost-random"
+boost-system-1-81-0-1 = "boost-system"
+boost-thread-1-81-0-1 = "boost-thread"
+cpprestsdk-2-10-18-2 = "cpprestsdk"
+grpc-1-51-1-0 = "grpc"
+openssl-3-0-7-2 = "openssl"
+protobuf-3-21-12-0 = "protobuf"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

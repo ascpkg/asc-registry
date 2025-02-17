@@ -26860,6 +26860,10 @@
       "baseline": "ca7cb332011ec37",
       "port-version": 1
     },
+    "etcd-cpp-apiv3-0-2-12-0": {
+      "baseline": "0.2.12",
+      "port-version": 0
+    },
     "etl-20-35-4-0": {
       "baseline": "20.35.4",
       "port-version": 0
