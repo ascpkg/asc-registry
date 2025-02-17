@@ -33496,6 +33496,10 @@
       "baseline": "0.10.4",
       "port-version": 0
     },
+    "cyrus-sasl-2-1-28-0": {
+      "baseline": "2.1.28",
+      "port-version": 0
+    },
     "czmq-2019-06-10-0": {
       "baseline": "2019-06-10",
       "port-version": 0
