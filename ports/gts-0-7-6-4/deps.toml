@@ -1,0 +1,5 @@
+old = "gts"
+new = "gts-0-7-6-4"
+
+[deps]
+glib-2-66-4-0 = "glib"

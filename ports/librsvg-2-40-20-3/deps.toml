@@ -1,0 +1,8 @@
+old = "librsvg"
+new = "librsvg-2-40-20-3"
+
+[deps]
+cairo-1-16-0-11 = "cairo"
+gdk-pixbuf-2-42-2-0 = "gdk-pixbuf"
+libcroco-0-6-13-3 = "libcroco"
+pango-1-48-0-0 = "pango"
