@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/chmlib-0-40-6",
+      "version": "0.40",
+      "port-version": 6
+    }
+  ]
+}

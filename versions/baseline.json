@@ -17476,6 +17476,10 @@
       "baseline": "0.40",
       "port-version": 5
     },
+    "chmlib-0-40-6": {
+      "baseline": "0.40",
+      "port-version": 6
+    },
     "chromaprint-1-5-0-0": {
       "baseline": "1.5.0",
       "port-version": 0
