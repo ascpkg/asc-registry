@@ -1,0 +1,6 @@
+old = "attr"
+new = "attr-2-5-2-0"
+
+[deps]
+gettext-0-22-4-1 = "gettext"
+gettext-libintl-0-22-4-1 = "gettext-libintl"
