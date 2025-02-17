@@ -80176,6 +80176,10 @@
       "baseline": "0.3",
       "port-version": 0
     },
+    "nyan-lang-0-3-1-0": {
+      "baseline": "0.3.1",
+      "port-version": 0
+    },
     "oatpp-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
