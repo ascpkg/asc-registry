@@ -9940,6 +9940,10 @@
       "baseline": "6.0.0-1",
       "port-version": 0
     },
+    "libpqxx-6-4-3-0": {
+      "baseline": "6.4.3",
+      "port-version": 0
+    },
     "libqglviewer-2-7-1-0": {
       "baseline": "2.7.1",
       "port-version": 0
