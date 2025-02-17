@@ -38916,6 +38916,10 @@
       "baseline": "20.38.10",
       "port-version": 1
     },
+    "etl-20-39-4-0": {
+      "baseline": "20.39.4",
+      "port-version": 0
+    },
     "eve-2021-10-16-0": {
       "baseline": "2021-10-16",
       "port-version": 0
