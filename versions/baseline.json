@@ -1512,6 +1512,10 @@
       "baseline": "3.3.7",
       "port-version": 0
     },
+    "fftw3-3-3-7-1-0": {
+      "baseline": "3.3.7-1",
+      "port-version": 0
+    },
     "flann-1-9-1-0": {
       "baseline": "1.9.1",
       "port-version": 0
