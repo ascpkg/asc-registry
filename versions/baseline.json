@@ -55644,6 +55644,10 @@
       "baseline": "0.8",
       "port-version": 4
     },
+    "theia-0-8-5": {
+      "baseline": "0.8",
+      "port-version": 5
+    },
     "think-cell-range-1d785d9-0": {
       "baseline": "1d785d9",
       "port-version": 0
