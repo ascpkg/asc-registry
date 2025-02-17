@@ -65632,6 +65632,10 @@
       "baseline": "3.2.6",
       "port-version": 0
     },
+    "pegtl-3-2-7-0": {
+      "baseline": "3.2.7",
+      "port-version": 0
+    },
     "pffft-2021-10-09-0": {
       "baseline": "2021-10-09",
       "port-version": 0
