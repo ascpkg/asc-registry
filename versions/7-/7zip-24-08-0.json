@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/7zip-24-08-0",
+      "version-string": "24.08",
+      "port-version": 0
+    }
+  ]
+}
