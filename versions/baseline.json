@@ -23744,6 +23744,10 @@
       "baseline": "4.1.1-2",
       "port-version": 0
     },
+    "nrf-ble-driver-4-1-2-0": {
+      "baseline": "4.1.2",
+      "port-version": 0
+    },
     "nt-wrapper-2019-08-10-0": {
       "baseline": "2019-08-10",
       "port-version": 0
