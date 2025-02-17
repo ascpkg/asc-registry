@@ -1,0 +1,6 @@
+old = "pdal-c"
+new = "pdal-c-2-1-0"
+
+[deps]
+pdal-2-3-0-0 = "pdal"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
