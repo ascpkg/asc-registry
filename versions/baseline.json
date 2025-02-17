@@ -85404,6 +85404,10 @@
       "baseline": "3.2.7",
       "port-version": 0
     },
+    "pegtl-3-2-8-0": {
+      "baseline": "3.2.8",
+      "port-version": 0
+    },
     "perfetto-43-1-0": {
       "baseline": "43.1",
       "port-version": 0
