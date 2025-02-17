@@ -13080,6 +13080,10 @@
       "baseline": "4.2",
       "port-version": 23
     },
+    "ffmpeg-4-2-24": {
+      "baseline": "4.2",
+      "port-version": 24
+    },
     "ffmpeg-4-2-3-0": {
       "baseline": "4.2-3",
       "port-version": 0
