@@ -7924,6 +7924,10 @@
       "baseline": "1.4.2-6",
       "port-version": 0
     },
+    "libgeotiff-1-4-2-7-0": {
+      "baseline": "1.4.2-7",
+      "port-version": 0
+    },
     "libgit2-0-26-0-0": {
       "baseline": "0.26.0",
       "port-version": 0
