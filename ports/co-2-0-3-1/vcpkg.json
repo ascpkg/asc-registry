@@ -1,0 +1,11 @@
+{
+  "name": "co-2-0-3-1",
+  "version-semver": "2.0.3",
+  "port-version": 1,
+  "description": "A go-style coroutine library in C++11 and more",
+  "homepage": "https://github.com/idealvin/cocoyaxi",
+  "supports": "!uwp & !(arm & windows)",
+  "dependencies": [
+    "cocoyaxi"
+  ]
+}
