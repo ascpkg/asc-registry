@@ -1,0 +1,8 @@
+old = "libhdfs3"
+new = "libhdfs3-2019-11-05-0"
+
+[deps]
+boost-1-72-0-0 = "boost"
+libuuid-1-0-3-3-0 = "libuuid"
+libxml2-2-9-9-5-0 = "libxml2"
+protobuf-3-11-3-0 = "protobuf"
