@@ -948,6 +948,10 @@
       "baseline": "2020-01-13",
       "port-version": 2
     },
+    "anyrpc-2021-08-24-0": {
+      "baseline": "2021-08-24",
+      "port-version": 0
+    },
     "aom-3-1-0-0": {
       "baseline": "3.1.0",
       "port-version": 0
@@ -46154,6 +46158,10 @@
     },
     "spirv-tools-v2017-1-dev-7e2d26c77b606b21af839b37fd21381c4a669f23-1-0": {
       "baseline": "v2017.1-dev-7e2d26c77b606b21af839b37fd21381c4a669f23-1",
+      "port-version": 0
+    },
+    "spix-0-3-0": {
+      "baseline": "0.3",
       "port-version": 0
     },
     "sprout-2019-06-20-0": {
