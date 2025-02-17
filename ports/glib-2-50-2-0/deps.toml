@@ -1,0 +1,9 @@
+old = "glib"
+new = "glib-2-50-2-0"
+
+[deps]
+gettext-0-19-0 = "gettext"
+libffi-3-1-0 = "libffi"
+libiconv-1-14-0 = "libiconv"
+pcre-8-38-1-0 = "pcre"
+zlib-1-2-10-0 = "zlib"
