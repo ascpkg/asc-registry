@@ -13596,6 +13596,10 @@
       "baseline": "3.3.7",
       "port-version": 8
     },
+    "eigen3-3-3-9-0": {
+      "baseline": "3.3.9",
+      "port-version": 0
+    },
     "elfio-3-8-0": {
       "baseline": "3.8",
       "port-version": 0
