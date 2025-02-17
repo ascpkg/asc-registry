@@ -54856,6 +54856,10 @@
       "baseline": "2023-05-08",
       "port-version": 0
     },
+    "libhsplasma-2024-03-07-0": {
+      "baseline": "2024-03-07",
+      "port-version": 0
+    },
     "libhv-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
