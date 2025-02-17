@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/omniorb-4-3-0-2",
+      "version": "4.3.0",
+      "port-version": 2
+    }
+  ]
+}
