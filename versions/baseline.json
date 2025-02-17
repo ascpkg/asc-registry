@@ -40340,6 +40340,10 @@
       "baseline": "2.4.13.7",
       "port-version": 6
     },
+    "opencv2-2-4-13-7-7": {
+      "baseline": "2.4.13.7",
+      "port-version": 7
+    },
     "opencv3-3-4-10-0": {
       "baseline": "3.4.10",
       "port-version": 0
