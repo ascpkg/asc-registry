@@ -11340,6 +11340,10 @@
       "baseline": "2.0",
       "port-version": 0
     },
+    "kinectsdk2-2-0-1-0": {
+      "baseline": "2.0-1",
+      "port-version": 0
+    },
     "laszip-3-2-2-1-0": {
       "baseline": "3.2.2-1",
       "port-version": 0
