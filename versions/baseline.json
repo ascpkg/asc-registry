@@ -42700,6 +42700,10 @@
       "baseline": "35",
       "port-version": 1
     },
+    "ngspice-35-2": {
+      "baseline": "35",
+      "port-version": 2
+    },
     "nifly-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
