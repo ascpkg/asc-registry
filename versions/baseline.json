@@ -72408,6 +72408,10 @@
       "baseline": "9.3.0",
       "port-version": 0
     },
+    "proj-9-3-0-1": {
+      "baseline": "9.3.0",
+      "port-version": 1
+    },
     "proj4-4-9-3-0": {
       "baseline": "4.9.3",
       "port-version": 0
