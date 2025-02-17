@@ -83696,6 +83696,10 @@
       "baseline": "9.2.0-pv5.11.0",
       "port-version": 4
     },
+    "vtk-9-2-0-pv5-11-0-5": {
+      "baseline": "9.2.0-pv5.11.0",
+      "port-version": 5
+    },
     "vtk-dicom-0-8-10-0": {
       "baseline": "0.8.10",
       "port-version": 0
