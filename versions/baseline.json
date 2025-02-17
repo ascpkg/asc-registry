@@ -60488,6 +60488,10 @@
       "baseline": "1.4.2",
       "port-version": 0
     },
+    "libjuice-1-5-2-0": {
+      "baseline": "1.5.2",
+      "port-version": 0
+    },
     "libjxl-0-10-2-0": {
       "baseline": "0.10.2",
       "port-version": 0
