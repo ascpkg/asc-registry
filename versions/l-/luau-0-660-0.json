@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/luau-0-660-0",
+      "version": "0.660",
+      "port-version": 0
+    }
+  ]
+}
