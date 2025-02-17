@@ -24668,6 +24668,10 @@
       "baseline": "10.0-2",
       "port-version": 0
     },
+    "wtl-10-0-3-0": {
+      "baseline": "10.0-3",
+      "port-version": 0
+    },
     "wtl-9-1-0": {
       "baseline": "9.1",
       "port-version": 0
