@@ -1,0 +1,8 @@
+old = "libfido2"
+new = "libfido2-1-13-0-0"
+
+[deps]
+libcbor-0-10-2-0 = "libcbor"
+openssl-3-0-8-2 = "openssl"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+zlib-1-2-13-0 = "zlib"
