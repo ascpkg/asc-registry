@@ -1,0 +1,5 @@
+old = "pfring"
+new = "pfring-2019-10-17-2-0"
+
+[deps]
+libpcap-1-9-1-0 = "libpcap"
