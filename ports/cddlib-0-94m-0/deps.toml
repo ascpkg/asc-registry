@@ -1,0 +1,5 @@
+old = "cddlib"
+new = "cddlib-0-94m-0"
+
+[deps]
+gmp-6-3-0-0 = "gmp"
