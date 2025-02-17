@@ -72368,6 +72368,10 @@
       "baseline": "1.2.0",
       "port-version": 1
     },
+    "paho-mqttpp3-1-3-2-0": {
+      "baseline": "1.3.2",
+      "port-version": 0
+    },
     "palsigslot-1-2-0-0": {
       "baseline": "1.2.0",
       "port-version": 0
