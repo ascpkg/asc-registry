@@ -1,0 +1,6 @@
+old = "libtasn1"
+new = "libtasn1-4-19-0-0"
+
+[deps]
+getopt-0-2 = "getopt"
+gettimeofday-2017-10-14-4 = "gettimeofday"
