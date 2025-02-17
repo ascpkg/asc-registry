@@ -38288,6 +38288,10 @@
       "baseline": "1.1.2",
       "port-version": 2
     },
+    "open62541-1-2-2-0": {
+      "baseline": "1.2.2",
+      "port-version": 0
+    },
     "openal-soft-1-17-2-0": {
       "baseline": "1.17.2",
       "port-version": 0

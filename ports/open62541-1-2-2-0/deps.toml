@@ -1,0 +1,8 @@
+old = "open62541"
+new = "open62541-1-2-2-0"
+
+[deps]
+mbedtls-2-24-0-3 = "mbedtls"
+openssl-1-1-1l-1 = "openssl"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"
