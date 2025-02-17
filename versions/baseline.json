@@ -26388,6 +26388,10 @@
       "baseline": "7.6.5",
       "port-version": 1
     },
+    "cudnn-7-6-5-10": {
+      "baseline": "7.6.5",
+      "port-version": 10
+    },
     "cudnn-7-6-5-2": {
       "baseline": "7.6.5",
       "port-version": 2
