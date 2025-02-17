@@ -59452,6 +59452,10 @@
       "baseline": "2023-06-12",
       "port-version": 1
     },
+    "mapnik-2023-06-12-2": {
+      "baseline": "2023-06-12",
+      "port-version": 2
+    },
     "marble-19-08-2-0": {
       "baseline": "19.08.2",
       "port-version": 0
