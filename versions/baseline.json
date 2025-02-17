@@ -13560,6 +13560,10 @@
       "baseline": "2.36.9-4",
       "port-version": 0
     },
+    "gdk-pixbuf-2-36-9-5-0": {
+      "baseline": "2.36.9-5",
+      "port-version": 0
+    },
     "genann-2019-07-10-0": {
       "baseline": "2019-07-10",
       "port-version": 0
