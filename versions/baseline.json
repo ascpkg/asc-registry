@@ -84424,6 +84424,10 @@
       "baseline": "2023-03-05",
       "port-version": 1
     },
+    "stdexec-2023-03-05-2": {
+      "baseline": "2023-03-05",
+      "port-version": 2
+    },
     "stduuid-1-2-2-0": {
       "baseline": "1.2.2",
       "port-version": 0
