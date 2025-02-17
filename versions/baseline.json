@@ -12120,6 +12120,10 @@
       "baseline": "nov2018",
       "port-version": 0
     },
+    "directxmesh-nov2020-0": {
+      "baseline": "nov2020",
+      "port-version": 0
+    },
     "directxmesh-oct2016-0": {
       "baseline": "oct2016",
       "port-version": 0
@@ -12206,6 +12210,10 @@
     },
     "directxtex-nov2018-0": {
       "baseline": "nov2018",
+      "port-version": 0
+    },
+    "directxtex-nov2020-0": {
+      "baseline": "nov2020",
       "port-version": 0
     },
     "directxtex-oct2018-0": {
@@ -12312,6 +12320,10 @@
       "baseline": "nov2018",
       "port-version": 0
     },
+    "directxtk-nov2020-0": {
+      "baseline": "nov2020",
+      "port-version": 0
+    },
     "directxtk-oct2016-0": {
       "baseline": "oct2016",
       "port-version": 0
@@ -12370,6 +12382,10 @@
     },
     "directxtk12-jun2020b-0": {
       "baseline": "jun2020b",
+      "port-version": 0
+    },
+    "directxtk12-nov2020-0": {
+      "baseline": "nov2020",
       "port-version": 0
     },
     "directxtk12-oct2016-0": {
