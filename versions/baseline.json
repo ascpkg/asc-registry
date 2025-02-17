@@ -74396,6 +74396,10 @@
       "baseline": "1.2.5",
       "port-version": 0
     },
+    "tcp-pubsub-1-0-3-0": {
+      "baseline": "1.0.3",
+      "port-version": 0
+    },
     "teemo-1-2-0": {
       "baseline": "1.2",
       "port-version": 0
