@@ -22076,6 +22076,10 @@
       "baseline": "3.6.3",
       "port-version": 0
     },
+    "h3-3-7-2-0": {
+      "baseline": "3.7.2",
+      "port-version": 0
+    },
     "h5py-lzf-2019-12-04-0": {
       "baseline": "2019-12-04",
       "port-version": 0
@@ -23842,6 +23846,10 @@
     },
     "jaeger-client-cpp-0-5-1-1-0": {
       "baseline": "0.5.1-1",
+      "port-version": 0
+    },
+    "jaeger-client-cpp-0-7-0-0": {
+      "baseline": "0.7.0",
       "port-version": 0
     },
     "jansson-2-10-1-0": {
