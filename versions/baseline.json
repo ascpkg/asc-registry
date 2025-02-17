@@ -35552,6 +35552,10 @@
       "baseline": "2.2.0",
       "port-version": 1
     },
+    "glew-2-2-0-2": {
+      "baseline": "2.2.0",
+      "port-version": 2
+    },
     "glfw3-3-1-2-0": {
       "baseline": "3.1.2",
       "port-version": 0
@@ -62324,6 +62328,10 @@
       "baseline": "2.0",
       "port-version": 6
     },
+    "openmvg-2-0-7": {
+      "baseline": "2.0",
+      "port-version": 7
+    },
     "openmvs-0-9-0": {
       "baseline": "0.9",
       "port-version": 0
@@ -64835,6 +64843,10 @@
     "pcl-1-13-0-2": {
       "baseline": "1.13.0",
       "port-version": 2
+    },
+    "pcl-1-13-0-3": {
+      "baseline": "1.13.0",
+      "port-version": 3
     },
     "pcl-1-8-0-0": {
       "baseline": "1.8.0",
