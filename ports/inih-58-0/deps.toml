@@ -1,0 +1,5 @@
+old = "inih"
+new = "inih-58-0"
+
+[deps]
+vcpkg-tool-meson-0-63-2 = "vcpkg-tool-meson"
