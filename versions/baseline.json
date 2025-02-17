@@ -33076,6 +33076,10 @@
       "baseline": "3.7.6",
       "port-version": 1
     },
+    "cppmicroservices-3-8-4-0": {
+      "baseline": "3.8.4",
+      "port-version": 0
+    },
     "cppmicroservices-4-0-0-pre1-0": {
       "baseline": "4.0.0-pre1",
       "port-version": 0
