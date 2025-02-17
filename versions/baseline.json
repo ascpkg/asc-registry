@@ -49528,6 +49528,10 @@
       "baseline": "2.69",
       "port-version": 1
     },
+    "libcap-2-69-2": {
+      "baseline": "2.69",
+      "port-version": 2
+    },
     "libcbor-0-10-2-0": {
       "baseline": "0.10.2",
       "port-version": 0
@@ -51203,6 +51207,10 @@
     "libgpiod-2-0-2-0": {
       "baseline": "2.0.2",
       "port-version": 0
+    },
+    "libgpiod-2-0-2-1": {
+      "baseline": "2.0.2",
+      "port-version": 1
     },
     "libgpod-2019-08-29-0": {
       "baseline": "2019-08-29",
