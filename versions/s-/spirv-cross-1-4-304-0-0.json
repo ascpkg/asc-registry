@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/spirv-cross-1-4-304-0-0",
+      "version": "1.4.304.0",
+      "port-version": 0
+    }
+  ]
+}

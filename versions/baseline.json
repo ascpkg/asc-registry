@@ -73600,6 +73600,10 @@
       "baseline": "1.3.296.0",
       "port-version": 0
     },
+    "lunarg-vulkantools-1-4-304-0-0": {
+      "baseline": "1.4.304.0",
+      "port-version": 0
+    },
     "lunasvg-2-3-1-0": {
       "baseline": "2.3.1",
       "port-version": 0
@@ -112808,6 +112812,10 @@
       "baseline": "1.3.296.0",
       "port-version": 0
     },
+    "spirv-cross-1-4-304-0-0": {
+      "baseline": "1.4.304.0",
+      "port-version": 0
+    },
     "spirv-cross-2018-08-07-1-0": {
       "baseline": "2018-08-07-1",
       "port-version": 0
@@ -112884,6 +112892,10 @@
       "baseline": "1.3.296.0",
       "port-version": 1
     },
+    "spirv-headers-1-4-304-0-0": {
+      "baseline": "1.4.304.0",
+      "port-version": 0
+    },
     "spirv-headers-1-5-1-0": {
       "baseline": "1.5.1",
       "port-version": 0
@@ -112936,6 +112948,10 @@
       "baseline": "1.3.296.0",
       "port-version": 0
     },
+    "spirv-reflect-1-4-304-0-0": {
+      "baseline": "1.4.304.0",
+      "port-version": 0
+    },
     "spirv-reflect-2021-12-31-0": {
       "baseline": "2021-12-31",
       "port-version": 0
@@ -112966,6 +112982,10 @@
     },
     "spirv-tools-1-3-296-0-0": {
       "baseline": "1.3.296.0",
+      "port-version": 0
+    },
+    "spirv-tools-1-4-304-0-0": {
+      "baseline": "1.4.304.0",
       "port-version": 0
     },
     "spirv-tools-2017-1-dev-7e2d26c77b606b21af839b37fd21381c4a669f23-1-0": {
@@ -120844,6 +120864,10 @@
       "baseline": "1.3.296",
       "port-version": 0
     },
+    "volk-1-4-304-0": {
+      "baseline": "1.4.304",
+      "port-version": 0
+    },
     "volk-2019-09-03-0": {
       "baseline": "2019-09-03",
       "port-version": 0
@@ -121432,6 +121456,10 @@
       "baseline": "1.3.296.0",
       "port-version": 0
     },
+    "vulkan-extensionlayer-1-4-304-0-0": {
+      "baseline": "1.4.304.0",
+      "port-version": 0
+    },
     "vulkan-headers-1-2-157-0": {
       "baseline": "1.2.157",
       "port-version": 0
@@ -121504,6 +121532,10 @@
       "baseline": "1.3.296.0",
       "port-version": 0
     },
+    "vulkan-headers-1-4-304-0-0": {
+      "baseline": "1.4.304.0",
+      "port-version": 0
+    },
     "vulkan-hpp-1-2-184-0": {
       "baseline": "1.2.184",
       "port-version": 0
@@ -121566,6 +121598,10 @@
     },
     "vulkan-loader-1-3-296-0-0": {
       "baseline": "1.3.296.0",
+      "port-version": 0
+    },
+    "vulkan-loader-1-4-304-0-0": {
+      "baseline": "1.4.304.0",
       "port-version": 0
     },
     "vulkan-memory-allocator-2-1-0-1-0": {
@@ -121660,6 +121696,10 @@
       "baseline": "1.3.296.0",
       "port-version": 0
     },
+    "vulkan-sdk-components-1-4-304-0-0": {
+      "baseline": "1.4.304.0",
+      "port-version": 0
+    },
     "vulkan-tools-1-3-268-0-0": {
       "baseline": "1.3.268.0",
       "port-version": 0
@@ -121678,6 +121718,10 @@
     },
     "vulkan-tools-1-3-296-0-0": {
       "baseline": "1.3.296.0",
+      "port-version": 0
+    },
+    "vulkan-tools-1-4-304-0-0": {
+      "baseline": "1.4.304.0",
       "port-version": 0
     },
     "vulkan-utility-libraries-1-3-268-0-0": {
@@ -121704,6 +121748,10 @@
       "baseline": "1.3.296.0",
       "port-version": 0
     },
+    "vulkan-utility-libraries-1-4-304-0-0": {
+      "baseline": "1.4.304.0",
+      "port-version": 0
+    },
     "vulkan-validationlayers-1-3-268-0-0": {
       "baseline": "1.3.268.0",
       "port-version": 0
@@ -121722,6 +121770,10 @@
     },
     "vulkan-validationlayers-1-3-296-0-0": {
       "baseline": "1.3.296.0",
+      "port-version": 0
+    },
+    "vulkan-validationlayers-1-4-304-0-0": {
+      "baseline": "1.4.304.0",
       "port-version": 0
     },
     "vvenc-1-7-0-0": {
