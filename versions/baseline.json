@@ -78416,6 +78416,10 @@
       "baseline": "0.4",
       "port-version": 0
     },
+    "spix-0-5-0": {
+      "baseline": "0.5",
+      "port-version": 0
+    },
     "spout2-2-007-009-0": {
       "baseline": "2.007.009",
       "port-version": 0
