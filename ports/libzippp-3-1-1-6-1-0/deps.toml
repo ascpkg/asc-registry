@@ -1,0 +1,6 @@
+old = "libzippp"
+new = "libzippp-3-1-1-6-1-0"
+
+[deps]
+libzip-rel-1-5-2-1-0 = "libzip"
+zlib-1-2-11-6-0 = "zlib"
