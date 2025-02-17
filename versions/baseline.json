@@ -10508,6 +10508,10 @@
       "baseline": "jun2017-5",
       "port-version": 0
     },
+    "mapbox-variant-1-1-6-0f734f0-0": {
+      "baseline": "1.1.6-0f734f0",
+      "port-version": 0
+    },
     "matio-1-5-10-0": {
       "baseline": "1.5.10",
       "port-version": 0
