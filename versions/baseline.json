@@ -31304,6 +31304,10 @@
       "baseline": "3.6.5",
       "port-version": 5
     },
+    "osg-3-6-5-6": {
+      "baseline": "3.6.5",
+      "port-version": 6
+    },
     "osg-qt-3-5-7-0": {
       "baseline": "3.5.7",
       "port-version": 0
