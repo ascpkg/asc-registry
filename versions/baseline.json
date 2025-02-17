@@ -36324,6 +36324,10 @@
       "baseline": "1.3.4",
       "port-version": 0
     },
+    "libflac-1-3-4-1": {
+      "baseline": "1.3.4",
+      "port-version": 1
+    },
     "libfort-0-4-1-0": {
       "baseline": "0.4.1",
       "port-version": 0
