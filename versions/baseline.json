@@ -24520,6 +24520,10 @@
       "baseline": "3.4.1",
       "port-version": 3
     },
+    "gdal-3-4-1-4": {
+      "baseline": "3.4.1",
+      "port-version": 4
+    },
     "gdcm-3-0-0-0": {
       "baseline": "3.0.0",
       "port-version": 0
@@ -33520,6 +33524,10 @@
       "baseline": "1.7.0",
       "port-version": 0
     },
+    "libgeotiff-1-7-0-1": {
+      "baseline": "1.7.0",
+      "port-version": 1
+    },
     "libgit2-0-26-0-0": {
       "baseline": "0.26.0",
       "port-version": 0
@@ -35536,6 +35544,10 @@
       "baseline": "2.17.1",
       "port-version": 0
     },
+    "libosmium-2-17-1-1": {
+      "baseline": "2.17.1",
+      "port-version": 1
+    },
     "libosmscout-1-1-1-0": {
       "baseline": "1.1.1",
       "port-version": 0
@@ -36891,6 +36903,10 @@
     "libspatialite-5-0-1-3": {
       "baseline": "5.0.1",
       "port-version": 3
+    },
+    "libspatialite-5-0-1-4": {
+      "baseline": "5.0.1",
+      "port-version": 4
     },
     "libspnav-0-2-3-0": {
       "baseline": "0.2.3",
@@ -40151,6 +40167,10 @@
     "mapnik-2022-01-28-0": {
       "baseline": "2022-01-28",
       "port-version": 0
+    },
+    "mapnik-2022-01-28-1": {
+      "baseline": "2022-01-28",
+      "port-version": 1
     },
     "marble-19-08-2-0": {
       "baseline": "19.08.2",
@@ -49328,6 +49348,10 @@
       "baseline": "4.9.3-1",
       "port-version": 0
     },
+    "proj-9-0-0-0": {
+      "baseline": "9.0.0",
+      "port-version": 0
+    },
     "proj4-4-9-3-0": {
       "baseline": "4.9.3",
       "port-version": 0
@@ -49435,6 +49459,10 @@
     "proj4-8-2-1-1": {
       "baseline": "8.2.1",
       "port-version": 1
+    },
+    "proj4-8-9-9-0": {
+      "baseline": "8.9.9",
+      "port-version": 0
     },
     "prometheus-cpp-0-10-0-0": {
       "baseline": "0.10.0",
@@ -64483,6 +64511,10 @@
     "vtk-9-0-3-pv5-9-1-8": {
       "baseline": "9.0.3-pv5.9.1",
       "port-version": 8
+    },
+    "vtk-9-0-3-pv5-9-1-9": {
+      "baseline": "9.0.3-pv5.9.1",
+      "port-version": 9
     },
     "vtk-9-0-4-0": {
       "baseline": "9.0-4",

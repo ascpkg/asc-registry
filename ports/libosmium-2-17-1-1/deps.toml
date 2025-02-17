@@ -1,0 +1,12 @@
+old = "libosmium"
+new = "libosmium-2-17-1-1"
+
+[deps]
+boost-1-78-0-0 = "boost"
+bzip2-1-0-8-2 = "bzip2"
+expat-2-4-1-0 = "expat"
+proj-9-0-0-0 = "proj"
+protozero-1-7-0-0 = "protozero"
+utfcpp-3-2-1-0 = "utfcpp"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+zlib-1-2-11-13 = "zlib"
