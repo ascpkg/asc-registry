@@ -1,0 +1,9 @@
+old = "llgi"
+new = "llgi-2023-12-19-0"
+
+[deps]
+glslang-13-1-1-0 = "glslang"
+spirv-cross-1-3-268-0-0 = "spirv-cross"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+vulkan-1-3-268-0-0 = "vulkan"
