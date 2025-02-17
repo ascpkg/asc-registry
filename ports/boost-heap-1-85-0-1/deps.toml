@@ -1,0 +1,18 @@
+old = "boost-heap"
+new = "boost-heap-1-85-0-1"
+
+[deps]
+boost-array-1-85-0-1 = "boost-array"
+boost-assert-1-85-0-1 = "boost-assert"
+boost-bind-1-85-0-1 = "boost-bind"
+boost-cmake-1-85-0-1 = "boost-cmake"
+boost-concept-check-1-85-0-1 = "boost-concept-check"
+boost-config-1-85-0-1 = "boost-config"
+boost-core-1-85-0-1 = "boost-core"
+boost-headers-1-85-0-1 = "boost-headers"
+boost-intrusive-1-85-0-1 = "boost-intrusive"
+boost-iterator-1-85-0-1 = "boost-iterator"
+boost-parameter-1-85-0-1 = "boost-parameter"
+boost-static-assert-1-85-0-1 = "boost-static-assert"
+boost-throw-exception-1-85-0-1 = "boost-throw-exception"
+boost-type-traits-1-85-0-1 = "boost-type-traits"
