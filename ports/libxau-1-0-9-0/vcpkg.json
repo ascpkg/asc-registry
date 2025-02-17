@@ -1,0 +1,12 @@
+{
+  "name": "libxau-1-0-9-0",
+  "version": "1.0.9",
+  "description": "Functions for handling Xauthority files and entries.",
+  "homepage": "https://gitlab.freedesktop.org/xorg/lib/libxau",
+  "license": "MIT-open-group",
+  "dependencies": [
+    "bzip2",
+    "xorg-macros",
+    "xproto"
+  ]
+}
