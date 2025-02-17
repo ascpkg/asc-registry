@@ -10796,6 +10796,10 @@
       "baseline": "3.0.0-5",
       "port-version": 0
     },
+    "gdcm-3-0-3-0": {
+      "baseline": "3.0.3",
+      "port-version": 0
+    },
     "gdcm2-2-6-7-0": {
       "baseline": "2.6.7",
       "port-version": 0
@@ -15618,6 +15622,10 @@
     },
     "libtorrent-1-2-1-bcb26fd6-0": {
       "baseline": "1.2.1-bcb26fd6",
+      "port-version": 0
+    },
+    "libtorrent-1-2-2-0": {
+      "baseline": "1.2.2",
       "port-version": 0
     },
     "libtorrent-2019-04-19-0": {
