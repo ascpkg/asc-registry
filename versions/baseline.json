@@ -776,6 +776,10 @@
       "baseline": "2019-08-21",
       "port-version": 0
     },
+    "argumentum-0-2-2-0": {
+      "baseline": "0.2.2",
+      "port-version": 0
+    },
     "armadillo-2019-04-16-1-0": {
       "baseline": "2019-04-16-1",
       "port-version": 0
