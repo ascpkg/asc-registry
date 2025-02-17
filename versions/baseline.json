@@ -24168,6 +24168,10 @@
       "baseline": "2020-09-16",
       "port-version": 0
     },
+    "librsync-2020-09-16-1": {
+      "baseline": "2020-09-16",
+      "port-version": 1
+    },
     "librtmp-2-3-0": {
       "baseline": "2.3",
       "port-version": 0

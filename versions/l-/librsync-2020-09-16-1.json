@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/librsync-2020-09-16-1",
+      "version": "2020-09-16",
+      "port-version": 1
+    }
+  ]
+}
