@@ -52256,6 +52256,10 @@
       "baseline": "1.1.9",
       "port-version": 0
     },
+    "snappy-1-1-9-1": {
+      "baseline": "1.1.9",
+      "port-version": 1
+    },
     "sndfile-0-0": {
       "baseline": "0",
       "port-version": 0
