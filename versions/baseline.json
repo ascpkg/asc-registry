@@ -40128,6 +40128,10 @@
       "baseline": "2.0",
       "port-version": 4
     },
+    "ryu-2-0-5": {
+      "baseline": "2.0",
+      "port-version": 5
+    },
     "safeint-3-19-2-0": {
       "baseline": "3.19.2",
       "port-version": 0

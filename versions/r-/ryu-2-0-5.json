@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ryu-2-0-5",
+      "version-string": "2.0",
+      "port-version": 5
+    }
+  ]
+}
