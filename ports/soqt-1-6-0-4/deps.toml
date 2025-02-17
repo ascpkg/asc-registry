@@ -1,0 +1,8 @@
+old = "soqt"
+new = "soqt-1-6-0-4"
+
+[deps]
+coin-4-0-0-4 = "coin"
+qt5-base-5-15-2-19 = "qt5-base"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"

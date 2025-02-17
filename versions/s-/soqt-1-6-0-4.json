@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/soqt-1-6-0-4",
+      "version": "1.6.0",
+      "port-version": 4
+    }
+  ]
+}
