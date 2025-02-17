@@ -3344,6 +3344,14 @@
       "baseline": "1.6.0",
       "port-version": 0
     },
+    "azure-core-cpp-1-7-0-0": {
+      "baseline": "1.7.0",
+      "port-version": 0
+    },
+    "azure-core-tracing-opentelemetry-cpp-1-0-0-beta-2-0": {
+      "baseline": "1.0.0-beta.2",
+      "port-version": 0
+    },
     "azure-identity-cpp-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
