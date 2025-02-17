@@ -1,0 +1,11 @@
+old = "simage"
+new = "simage-1-8-0-1"
+
+[deps]
+giflib-5-1-4-6-0 = "giflib"
+libjpeg-turbo-2-0-5-3 = "libjpeg-turbo"
+libpng-1-6-37-14 = "libpng"
+libsndfile-1-0-30-1 = "libsndfile"
+libvorbis-1-3-7-1 = "libvorbis"
+tiff-4-1-0-0 = "tiff"
+zlib-1-2-11-9 = "zlib"
