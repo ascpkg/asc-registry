@@ -21740,6 +21740,10 @@
       "baseline": "2.75.0",
       "port-version": 0
     },
+    "daw-header-libraries-2-76-2-0": {
+      "baseline": "2.76.2",
+      "port-version": 0
+    },
     "daw-json-link-2-10-2-0": {
       "baseline": "2.10.2",
       "port-version": 0
@@ -21762,6 +21766,10 @@
     },
     "daw-json-link-3-1-1-0": {
       "baseline": "3.1.1",
+      "port-version": 0
+    },
+    "daw-json-link-3-10-0-0": {
+      "baseline": "3.10.0",
       "port-version": 0
     },
     "daw-json-link-3-7-1-0": {
