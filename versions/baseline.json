@@ -48584,6 +48584,10 @@
       "baseline": "9.0.257.17",
       "port-version": 1
     },
+    "v8-9-1-269-39-0": {
+      "baseline": "9.1.269.39",
+      "port-version": 0
+    },
     "valijson-2018-11-17-0": {
       "baseline": "2018-11-17",
       "port-version": 0
