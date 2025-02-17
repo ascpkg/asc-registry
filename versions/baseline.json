@@ -13936,6 +13936,10 @@
       "baseline": "jan2021",
       "port-version": 0
     },
+    "directxmath-jan2021-1": {
+      "baseline": "jan2021",
+      "port-version": 1
+    },
     "directxmesh-apr2018-0": {
       "baseline": "apr2018",
       "port-version": 0
@@ -14984,6 +14988,10 @@
       "baseline": "11.25",
       "port-version": 0
     },
+    "dxut-11-26-0": {
+      "baseline": "11.26",
+      "port-version": 0
+    },
     "eabase-2-09-10-0": {
       "baseline": "2.09.10",
       "port-version": 0
@@ -15331,6 +15339,10 @@
     "effects11-11-26-0": {
       "baseline": "11.26",
       "port-version": 0
+    },
+    "effects11-11-26-1": {
+      "baseline": "11.26",
+      "port-version": 1
     },
     "effolkronium-random-1-2-0-0": {
       "baseline": "1.2.0",
