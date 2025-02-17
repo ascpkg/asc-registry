@@ -89204,6 +89204,10 @@
       "baseline": "2.6.0",
       "port-version": 0
     },
+    "shaderwriter-2-7-0-0": {
+      "baseline": "2.7.0",
+      "port-version": 0
+    },
     "shaderwriter-2020-10-15-0": {
       "baseline": "2020-10-15",
       "port-version": 0
