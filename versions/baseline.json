@@ -23056,6 +23056,10 @@
       "baseline": "3.0.3",
       "port-version": 0
     },
+    "sol2-3-0-3-1-0": {
+      "baseline": "3.0.3-1",
+      "port-version": 0
+    },
     "solid3-3-5-8-0": {
       "baseline": "3.5.8",
       "port-version": 0
