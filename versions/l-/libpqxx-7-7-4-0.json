@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libpqxx-7-7-4-0",
+      "version": "7.7.4",
+      "port-version": 0
+    }
+  ]
+}
