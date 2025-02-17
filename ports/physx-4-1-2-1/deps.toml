@@ -1,0 +1,5 @@
+old = "physx"
+new = "physx-4-1-2-1"
+
+[deps]
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
