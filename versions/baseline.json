@@ -4420,6 +4420,10 @@
       "baseline": "0.9.3",
       "port-version": 0
     },
+    "aws-c-common-0-9-30-0": {
+      "baseline": "0.9.30",
+      "port-version": 0
+    },
     "aws-c-common-0-9-4-0": {
       "baseline": "0.9.4",
       "port-version": 0
@@ -5086,6 +5090,10 @@
     },
     "aws-sdk-cpp-1-11-420-0": {
       "baseline": "1.11.420",
+      "port-version": 0
+    },
+    "aws-sdk-cpp-1-11-428-0": {
+      "baseline": "1.11.428",
       "port-version": 0
     },
     "aws-sdk-cpp-1-11-65-0": {
