@@ -1,0 +1,6 @@
+old = "libslirp"
+new = "libslirp-4-6-1-1"
+
+[deps]
+glib-2-70-5-0 = "glib"
+vcpkg-tool-meson-0-60-2-2 = "vcpkg-tool-meson"
