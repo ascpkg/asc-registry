@@ -69136,6 +69136,10 @@
       "baseline": "9.2.0",
       "port-version": 0
     },
+    "llhttp-9-2-1-0": {
+      "baseline": "9.2.1",
+      "port-version": 0
+    },
     "llnl-units-0-9-1-0": {
       "baseline": "0.9.1",
       "port-version": 0
