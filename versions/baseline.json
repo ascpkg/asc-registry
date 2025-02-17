@@ -103900,6 +103900,10 @@
       "baseline": "6.1.139",
       "port-version": 0
     },
+    "simd-6-1-140-0": {
+      "baseline": "6.1.140",
+      "port-version": 0
+    },
     "simde-0-7-0-0": {
       "baseline": "0.7.0",
       "port-version": 0
