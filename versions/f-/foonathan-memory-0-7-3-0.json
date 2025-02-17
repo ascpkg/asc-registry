@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/foonathan-memory-0-7-3-0",
+      "version": "0.7.3",
+      "port-version": 0
+    }
+  ]
+}
