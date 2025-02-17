@@ -25820,6 +25820,10 @@
       "baseline": "6.0",
       "port-version": 5
     },
+    "fuzzylite-6-0-6": {
+      "baseline": "6.0",
+      "port-version": 6
+    },
     "fxdiv-2021-02-21-0": {
       "baseline": "2021-02-21",
       "port-version": 0
