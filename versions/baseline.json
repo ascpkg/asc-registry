@@ -43144,6 +43144,10 @@
       "baseline": "1.22.3",
       "port-version": 0
     },
+    "libtcod-1-23-0-0": {
+      "baseline": "1.23.0",
+      "port-version": 0
+    },
     "libtess2-2021-12-27-0": {
       "baseline": "2021-12-27",
       "port-version": 0
