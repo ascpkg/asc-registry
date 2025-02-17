@@ -1228,6 +1228,10 @@
       "baseline": "1.10.0",
       "port-version": 0
     },
+    "aliyun-oss-cpp-sdk-1-10-0-1": {
+      "baseline": "1.10.0",
+      "port-version": 1
+    },
     "allegro5-5-2-1-0-0": {
       "baseline": "5.2.1.0",
       "port-version": 0
