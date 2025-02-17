@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/vili-1-0-0-20221123-1",
+      "version": "1.0.0+20221123",
+      "port-version": 1
+    }
+  ]
+}
