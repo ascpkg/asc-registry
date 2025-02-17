@@ -2156,6 +2156,10 @@
       "baseline": "2020-06-17-1",
       "port-version": 0
     },
+    "azure-macro-utils-c-2020-06-17-2": {
+      "baseline": "2020-06-17",
+      "port-version": 2
+    },
     "azure-storage-cpp-2-5-0-0": {
       "baseline": "2.5.0",
       "port-version": 0
