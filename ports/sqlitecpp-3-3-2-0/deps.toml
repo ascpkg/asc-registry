@@ -1,0 +1,8 @@
+old = "sqlitecpp"
+new = "sqlitecpp-3-3-2-0"
+
+[deps]
+sqlcipher-4-6-0-0 = "sqlcipher"
+sqlite3-3-46-1-0 = "sqlite3"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
