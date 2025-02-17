@@ -1,0 +1,5 @@
+old = "freetds"
+new = "freetds-1-2-11-1"
+
+[deps]
+openssl-1-1-1h-3 = "openssl"
