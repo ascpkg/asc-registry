@@ -1,0 +1,16 @@
+old = "opencv2"
+new = "opencv2-2-4-13-7-2"
+
+[deps]
+cuda-10-1-2 = "cuda"
+eigen3-3-3-7-6 = "eigen3"
+ffmpeg-4-2-14 = "ffmpeg"
+jasper-2-0-16-3-0 = "jasper"
+libjpeg-turbo-2-0-4-0 = "libjpeg-turbo"
+libpng-1-6-37-10-0 = "libpng"
+openexr-2-5-0-0 = "openexr"
+opengl-0-0-7-0 = "opengl"
+qt5-base-5-15-0-0 = "qt5-base"
+tiff-4-0-10-9-0 = "tiff"
+vtk-9-0-1-1 = "vtk"
+zlib-1-2-11-7 = "zlib"

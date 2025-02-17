@@ -1,0 +1,13 @@
+old = "freeimage"
+new = "freeimage-3-18-0-13"
+
+[deps]
+jxrlib-2019-10-9-0 = "jxrlib"
+libjpeg-turbo-2-0-4-0 = "libjpeg-turbo"
+libpng-1-6-37-10-0 = "libpng"
+libraw-201903-3-0 = "libraw"
+libwebp-1-1-0-1 = "libwebp"
+openexr-2-5-0-0 = "openexr"
+openjpeg-2-3-1-1-0 = "openjpeg"
+tiff-4-0-10-9-0 = "tiff"
+zlib-1-2-11-7 = "zlib"
