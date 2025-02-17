@@ -33276,6 +33276,10 @@
       "baseline": "2.3.0",
       "port-version": 0
     },
+    "fakeit-2-4-0-0": {
+      "baseline": "2.4.0",
+      "port-version": 0
+    },
     "fameta-counter-2021-02-13-0": {
       "baseline": "2021-02-13",
       "port-version": 0
