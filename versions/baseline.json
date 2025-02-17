@@ -54152,6 +54152,10 @@
       "baseline": "4.0.0",
       "port-version": 0
     },
+    "rsm-bsa-4-0-0-1": {
+      "baseline": "4.0.0",
+      "port-version": 1
+    },
     "rsm-mmio-1-1-0-0": {
       "baseline": "1.1.0",
       "port-version": 0
