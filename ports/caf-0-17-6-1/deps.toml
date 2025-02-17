@@ -2,4 +2,4 @@ old = "caf"
 new = "caf-0-17-6-1"
 
 [deps]
-openssl-1-1-1h-1 = "openssl"
+openssl-1-1-1i-0 = "openssl"

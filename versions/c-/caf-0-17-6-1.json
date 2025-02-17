@@ -2,7 +2,7 @@
   "versions": [
     {
       "path": "$/ports/caf-0-17-6-1",
-      "version": "0.17.6",
+      "version-string": "0.17.6",
       "port-version": 1
     }
   ]

@@ -2,7 +2,7 @@ old = "boost-beast"
 new = "boost-beast-1-75-0-0"
 
 [deps]
-boost-asio-1-75-0-0 = "boost-asio"
+boost-asio-1-75-0-1 = "boost-asio"
 boost-assert-1-75-0-0 = "boost-assert"
 boost-bind-1-75-0-0 = "boost-bind"
 boost-config-1-75-0-0 = "boost-config"

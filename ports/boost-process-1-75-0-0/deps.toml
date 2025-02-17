@@ -3,7 +3,7 @@ new = "boost-process-1-75-0-0"
 
 [deps]
 boost-algorithm-1-75-0-0 = "boost-algorithm"
-boost-asio-1-75-0-0 = "boost-asio"
+boost-asio-1-75-0-1 = "boost-asio"
 boost-config-1-75-0-0 = "boost-config"
 boost-core-1-75-0-0 = "boost-core"
 boost-filesystem-1-75-0-0 = "boost-filesystem"

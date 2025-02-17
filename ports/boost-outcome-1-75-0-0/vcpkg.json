@@ -1,0 +1,11 @@
+{
+  "name": "boost-outcome-1-75-0-0",
+  "version-string": "1.75.0",
+  "description": "Boost outcome module",
+  "homepage": "https://github.com/boostorg/outcome",
+  "dependencies": [
+    "boost-config",
+    "boost-throw-exception",
+    "boost-vcpkg-helpers"
+  ]
+}

@@ -2,7 +2,7 @@
   "versions": [
     {
       "path": "$/ports/boost-type-index-1-75-0-0",
-      "version": "1.75.0",
+      "version-string": "1.75.0",
       "port-version": 0
     }
   ]

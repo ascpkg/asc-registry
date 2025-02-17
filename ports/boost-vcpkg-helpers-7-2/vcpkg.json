@@ -1,0 +1,9 @@
+{
+  "name": "boost-vcpkg-helpers-7-2",
+  "version-string": "7",
+  "port-version": 2,
+  "description": "a set of vcpkg-internal scripts used to modularize boost",
+  "dependencies": [
+    "boost-uninstall"
+  ]
+}
