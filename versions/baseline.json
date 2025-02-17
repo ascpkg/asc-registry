@@ -57340,6 +57340,10 @@
       "baseline": "20.6.0",
       "port-version": 0
     },
+    "uwebsockets-20-8-0-0": {
+      "baseline": "20.8.0",
+      "port-version": 0
+    },
     "v-hacd-3-2-0-0": {
       "baseline": "3.2.0",
       "port-version": 0
