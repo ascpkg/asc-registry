@@ -8448,6 +8448,10 @@
       "baseline": "2.10.1-1",
       "port-version": 0
     },
+    "realsense2-2-10-4-0": {
+      "baseline": "2.10.4",
+      "port-version": 0
+    },
     "realsense2-2-8-1-0": {
       "baseline": "2.8.1",
       "port-version": 0
