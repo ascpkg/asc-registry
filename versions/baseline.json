@@ -18556,6 +18556,10 @@
       "baseline": "2019-08-09",
       "port-version": 0
     },
+    "qt-advanced-docking-system-2019-08-14-0": {
+      "baseline": "2019-08-14",
+      "port-version": 0
+    },
     "qt5-3d-5-11-1-0": {
       "baseline": "5.11.1",
       "port-version": 0
