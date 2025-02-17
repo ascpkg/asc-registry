@@ -11404,6 +11404,10 @@
       "baseline": "sept2020",
       "port-version": 0
     },
+    "directxtex-sept2020-1": {
+      "baseline": "sept2020",
+      "port-version": 1
+    },
     "directxtk-2019-12-31-0": {
       "baseline": "2019-12-31",
       "port-version": 0
