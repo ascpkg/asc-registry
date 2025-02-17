@@ -30956,6 +30956,10 @@
       "baseline": "0.16.0",
       "port-version": 0
     },
+    "cpp-httplib-0-16-2-0": {
+      "baseline": "0.16.2",
+      "port-version": 0
+    },
     "cpp-httplib-0-2-0-0": {
       "baseline": "0.2.0",
       "port-version": 0
