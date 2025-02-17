@@ -1,0 +1,6 @@
+old = "libmount"
+new = "libmount-2-39-0"
+
+[deps]
+gettext-0-22-4-0 = "gettext"
+gettext-libintl-0-22-4-0 = "gettext-libintl"
