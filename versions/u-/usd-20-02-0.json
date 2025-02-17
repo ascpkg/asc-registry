@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/usd-20-02-0",
+      "version": "20.02",
+      "port-version": 0
+    }
+  ]
+}

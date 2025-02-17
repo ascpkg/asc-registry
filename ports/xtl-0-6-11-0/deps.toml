@@ -1,0 +1,5 @@
+old = "xtl"
+new = "xtl-0-6-11-0"
+
+[deps]
+nlohmann-json-3-7-3-0 = "nlohmann-json"

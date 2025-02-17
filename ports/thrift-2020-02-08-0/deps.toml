@@ -1,0 +1,12 @@
+old = "thrift"
+new = "thrift-2020-02-08-0"
+
+[deps]
+boost-date-time-1-72-0-0 = "boost-date-time"
+boost-locale-1-72-0-0 = "boost-locale"
+boost-range-1-72-0-0 = "boost-range"
+boost-scope-exit-1-72-0-0 = "boost-scope-exit"
+boost-smart-ptr-1-72-0-0 = "boost-smart-ptr"
+libevent-2-1-11-5-0 = "libevent"
+openssl-1-1-1d-0 = "openssl"
+zlib-1-2-11-5-0 = "zlib"

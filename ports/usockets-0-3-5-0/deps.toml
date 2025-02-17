@@ -1,0 +1,5 @@
+old = "usockets"
+new = "usockets-0-3-5-0"
+
+[deps]
+libuv-1-34-2-0 = "libuv"

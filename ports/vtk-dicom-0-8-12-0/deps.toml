@@ -1,0 +1,7 @@
+old = "vtk-dicom"
+new = "vtk-dicom-0-8-12-0"
+
+[deps]
+gdcm-3-0-4-0 = "gdcm"
+vtk-8-2-0-11-0 = "vtk"
+zlib-1-2-11-5-0 = "zlib"
