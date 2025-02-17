@@ -20432,6 +20432,10 @@
       "baseline": "2.0.5",
       "port-version": 0
     },
+    "libjuice-0-5-2-0": {
+      "baseline": "0.5.2",
+      "port-version": 0
+    },
     "libkml-1-3-0-0": {
       "baseline": "1.3.0",
       "port-version": 0
