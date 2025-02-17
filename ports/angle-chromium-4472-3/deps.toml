@@ -1,0 +1,7 @@
+old = "angle"
+new = "angle-chromium-4472-3"
+
+[deps]
+egl-registry-2021-11-23-0 = "egl-registry"
+opengl-registry-2021-11-17-0 = "opengl-registry"
+zlib-1-2-12-1 = "zlib"
