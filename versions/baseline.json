@@ -46424,6 +46424,10 @@
       "baseline": "3.13.0",
       "port-version": 0
     },
+    "geos-3-13-0-1": {
+      "baseline": "3.13.0",
+      "port-version": 1
+    },
     "geos-3-5-0-0": {
       "baseline": "3.5.0",
       "port-version": 0
