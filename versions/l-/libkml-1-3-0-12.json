@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libkml-1-3-0-12",
+      "version": "1.3.0",
+      "port-version": 12
+    }
+  ]
+}
