@@ -25060,6 +25060,10 @@
       "baseline": "5.12.7",
       "port-version": 0
     },
+    "qt5-androidextras-5-12-8-0": {
+      "baseline": "5.12.8",
+      "port-version": 0
+    },
     "qt5-base-5-11-1-2-0": {
       "baseline": "5.11.1-2",
       "port-version": 0
@@ -25214,6 +25218,10 @@
     },
     "qt5-canvas3d-5-12-7-0": {
       "baseline": "5.12.7",
+      "port-version": 0
+    },
+    "qt5-canvas3d-5-12-8-0": {
+      "baseline": "5.12.8",
       "port-version": 0
     },
     "qt5-charts-5-11-1-0": {
@@ -25398,6 +25406,10 @@
     },
     "qt5-doc-5-12-7-0": {
       "baseline": "5.12.7",
+      "port-version": 0
+    },
+    "qt5-doc-5-12-8-0": {
+      "baseline": "5.12.8",
       "port-version": 0
     },
     "qt5-gamepad-5-11-1-0": {
@@ -26108,6 +26120,10 @@
       "baseline": "5.12.7",
       "port-version": 0
     },
+    "qt5-serialbus-5-12-8-0": {
+      "baseline": "5.12.8",
+      "port-version": 0
+    },
     "qt5-serialport-5-11-1-0": {
       "baseline": "5.11.1",
       "port-version": 0
@@ -26316,6 +26332,10 @@
       "baseline": "5.12.7",
       "port-version": 0
     },
+    "qt5-translations-5-12-8-0": {
+      "baseline": "5.12.8",
+      "port-version": 0
+    },
     "qt5-virtualkeyboard-5-11-1-0": {
       "baseline": "5.11.1",
       "port-version": 0
@@ -26368,6 +26388,10 @@
       "baseline": "5.12.7",
       "port-version": 0
     },
+    "qt5-wayland-5-12-8-0": {
+      "baseline": "5.12.8",
+      "port-version": 0
+    },
     "qt5-webchannel-5-12-1-0": {
       "baseline": "5.12.1",
       "port-version": 0
@@ -26408,8 +26432,16 @@
       "baseline": "5.12.7-1",
       "port-version": 0
     },
+    "qt5-webengine-5-12-8-0": {
+      "baseline": "5.12.8",
+      "port-version": 0
+    },
     "qt5-webglplugin-5-12-7-0": {
       "baseline": "5.12.7",
+      "port-version": 0
+    },
+    "qt5-webglplugin-5-12-8-0": {
+      "baseline": "5.12.8",
       "port-version": 0
     },
     "qt5-websockets-5-11-1-0": {
@@ -26538,6 +26570,10 @@
     },
     "qt5-x11extras-5-12-7-0": {
       "baseline": "5.12.7",
+      "port-version": 0
+    },
+    "qt5-x11extras-5-12-8-0": {
+      "baseline": "5.12.8",
       "port-version": 0
     },
     "qt5-xmlpatterns-5-11-1-0": {
