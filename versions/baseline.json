@@ -10992,6 +10992,10 @@
       "baseline": "0.5.0-7",
       "port-version": 0
     },
+    "fcl-0-6-0-0": {
+      "baseline": "0.6.0",
+      "port-version": 0
+    },
     "fdk-aac-2017-11-02-1e351-0": {
       "baseline": "2017-11-02-1e351",
       "port-version": 0
