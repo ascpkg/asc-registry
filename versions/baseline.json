@@ -27168,6 +27168,10 @@
       "baseline": "5.84.0",
       "port-version": 1
     },
+    "kf5notifications-5-84-0-0": {
+      "baseline": "5.84.0",
+      "port-version": 0
+    },
     "kf5package-5-84-0-0": {
       "baseline": "5.84.0",
       "port-version": 0
