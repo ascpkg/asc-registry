@@ -1,0 +1,7 @@
+old = "graphene"
+new = "graphene-1-10-2-2"
+
+[deps]
+gettext-0-21-7 = "gettext"
+glib-2-70-1-1 = "glib"
+vcpkg-tool-meson-0-60-2-0 = "vcpkg-tool-meson"

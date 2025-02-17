@@ -1,0 +1,2 @@
+old = "vcpkg-tool-meson"
+new = "vcpkg-tool-meson-0-60-2-0"

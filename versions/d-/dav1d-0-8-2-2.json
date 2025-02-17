@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/dav1d-0-8-2-2",
+      "version-semver": "0.8.2",
+      "port-version": 2
+    }
+  ]
+}

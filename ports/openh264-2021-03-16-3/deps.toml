@@ -1,0 +1,5 @@
+old = "openh264"
+new = "openh264-2021-03-16-3"
+
+[deps]
+vcpkg-tool-meson-0-60-2-0 = "vcpkg-tool-meson"
