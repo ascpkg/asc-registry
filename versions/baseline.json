@@ -47364,6 +47364,10 @@
       "baseline": "2020-10-01",
       "port-version": 1
     },
+    "re2-2021-09-01-0": {
+      "baseline": "2021-09-01",
+      "port-version": 0
+    },
     "readerwriterqueue-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
