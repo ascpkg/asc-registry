@@ -40404,6 +40404,10 @@
       "baseline": "3.4.1",
       "port-version": 1
     },
+    "mygui-3-4-1-2": {
+      "baseline": "3.4.1",
+      "port-version": 2
+    },
     "nameof-0-10-0-0": {
       "baseline": "0.10.0",
       "port-version": 0
@@ -54571,6 +54575,10 @@
     "sdl2-image-2-0-5-3": {
       "baseline": "2.0.5",
       "port-version": 3
+    },
+    "sdl2-image-2-0-5-4": {
+      "baseline": "2.0.5",
+      "port-version": 4
     },
     "sdl2-mixer-2-0-1-0": {
       "baseline": "2.0.1",

@@ -1,0 +1,9 @@
+old = "mygui"
+new = "mygui-3-4-1-2"
+
+[deps]
+freetype-2-11-0-2 = "freetype"
+opengl-0-0-9 = "opengl"
+sdl2-image-2-0-5-4 = "sdl2-image"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"
