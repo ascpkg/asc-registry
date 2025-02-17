@@ -62296,6 +62296,10 @@
       "baseline": "0.11",
       "port-version": 0
     },
+    "libmidi2-0-12-0": {
+      "baseline": "0.12",
+      "port-version": 0
+    },
     "libmidi2-0-7-0": {
       "baseline": "0.7",
       "port-version": 0
