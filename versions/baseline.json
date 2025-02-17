@@ -26296,6 +26296,10 @@
       "baseline": "0.5.0",
       "port-version": 0
     },
+    "glog-0-5-0-1": {
+      "baseline": "0.5.0",
+      "port-version": 1
+    },
     "glog-0472b91-0": {
       "baseline": "0472b91",
       "port-version": 0
