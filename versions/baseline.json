@@ -37804,6 +37804,10 @@
       "baseline": "2.0.1",
       "port-version": 1
     },
+    "fastrtps-2-14-0-0": {
+      "baseline": "2.14.0",
+      "port-version": 0
+    },
     "fastrtps-2-4-0-0": {
       "baseline": "2.4.0",
       "port-version": 0
