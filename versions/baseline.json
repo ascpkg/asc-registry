@@ -2804,6 +2804,10 @@
       "baseline": "2.6.0",
       "port-version": 0
     },
+    "asio-grpc-2-7-0-0": {
+      "baseline": "2.7.0",
+      "port-version": 0
+    },
     "asiosdk-2-3-3-0": {
       "baseline": "2.3.3",
       "port-version": 0

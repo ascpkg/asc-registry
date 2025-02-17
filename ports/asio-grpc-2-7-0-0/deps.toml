@@ -1,0 +1,8 @@
+old = "asio-grpc"
+new = "asio-grpc-2-7-0-0"
+
+[deps]
+boost-container-1-83-0-0 = "boost-container"
+grpc-1-51-1-1 = "grpc"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
