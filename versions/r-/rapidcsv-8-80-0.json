@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/rapidcsv-8-80-0",
+      "version": "8.80",
+      "port-version": 0
+    }
+  ]
+}
