@@ -15824,6 +15824,10 @@
       "baseline": "2.20.4",
       "port-version": 0
     },
+    "solid3-3-5-8-0": {
+      "baseline": "3.5.8",
+      "port-version": 0
+    },
     "sophus-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
