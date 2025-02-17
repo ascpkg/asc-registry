@@ -1,0 +1,6 @@
+old = "minizip"
+new = "minizip-1-2-11-7"
+
+[deps]
+bzip2-1-0-8-1 = "bzip2"
+zlib-1-2-11-9 = "zlib"

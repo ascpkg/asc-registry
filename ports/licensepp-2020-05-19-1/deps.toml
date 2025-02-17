@@ -1,0 +1,5 @@
+old = "licensepp"
+new = "licensepp-2020-05-19-1"
+
+[deps]
+cryptopp-8-2-0-2-0 = "cryptopp"

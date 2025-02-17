@@ -460,6 +460,10 @@
       "baseline": "0.2-3",
       "port-version": 0
     },
+    "alac-decoder-0-2-4": {
+      "baseline": "0.2",
+      "port-version": 4
+    },
     "alembic-1-7-1-0": {
       "baseline": "1.7.1",
       "port-version": 0
@@ -840,6 +844,10 @@
       "baseline": "1.7.0",
       "port-version": 2
     },
+    "apr-1-7-0-3": {
+      "baseline": "1.7.0",
+      "port-version": 3
+    },
     "apr-util-1-6-0-0": {
       "baseline": "1.6.0",
       "port-version": 0
@@ -992,6 +1000,10 @@
       "baseline": "2.13-7",
       "port-version": 0
     },
+    "argtable2-2-13-8": {
+      "baseline": "2.13",
+      "port-version": 8
+    },
     "argtable3-2019-08-21-0": {
       "baseline": "2019-08-21",
       "port-version": 0
@@ -1127,6 +1139,10 @@
     "arrow-1-0-1-0": {
       "baseline": "1.0.1",
       "port-version": 0
+    },
+    "arrow-1-0-1-1": {
+      "baseline": "1.0.1",
+      "port-version": 1
     },
     "arrow-apache-arrow-0-4-0-0": {
       "baseline": "apache-arrow-0.4.0",
@@ -2428,6 +2444,10 @@
       "baseline": "3.2.0.0-1",
       "port-version": 0
     },
+    "bde-3-2-0-0-2": {
+      "baseline": "3.2.0.0",
+      "port-version": 2
+    },
     "bdwgc-8-0-4-1-0": {
       "baseline": "8.0.4-1",
       "port-version": 0
@@ -2615,6 +2635,10 @@
     "binn-2-0-0": {
       "baseline": "2.0",
       "port-version": 0
+    },
+    "binn-2-0-1": {
+      "baseline": "2.0",
+      "port-version": 1
     },
     "bitmagic-6-4-0-0": {
       "baseline": "6.4.0",
@@ -8812,6 +8836,10 @@
       "baseline": "3.410-3",
       "port-version": 0
     },
+    "cfitsio-3-410-4": {
+      "baseline": "3.410",
+      "port-version": 4
+    },
     "cgal-4-11-0": {
       "baseline": "4.11",
       "port-version": 0
@@ -9151,6 +9179,10 @@
     "chromium-base-86-0-4199-1-0": {
       "baseline": "86.0.4199.1",
       "port-version": 0
+    },
+    "chromium-base-86-0-4199-1-1": {
+      "baseline": "86.0.4199.1",
+      "port-version": 1
     },
     "cimg-2-1-8-0": {
       "baseline": "2.1.8",
@@ -10376,6 +10408,10 @@
       "baseline": "66",
       "port-version": 2
     },
+    "cspice-66-3": {
+      "baseline": "66",
+      "port-version": 3
+    },
     "ctbignum-2019-08-02-0": {
       "baseline": "2019-08-02",
       "port-version": 0
@@ -10807,6 +10843,10 @@
     "darknet-2020-08-30-0": {
       "baseline": "2020-08-30",
       "port-version": 0
+    },
+    "darknet-2020-08-30-1": {
+      "baseline": "2020-08-30",
+      "port-version": 1
     },
     "darts-clone-1767ab87cffe-0": {
       "baseline": "1767ab87cffe",
@@ -13500,6 +13540,10 @@
       "baseline": "2.0.3-2",
       "port-version": 0
     },
+    "fmilib-2-0-3-3": {
+      "baseline": "2.0.3",
+      "port-version": 3
+    },
     "fmt-3-0-0-0": {
       "baseline": "3.0.0",
       "port-version": 0
@@ -14575,6 +14619,10 @@
     "gdal-2-4-1-11": {
       "baseline": "2.4.1",
       "port-version": 11
+    },
+    "gdal-2-4-1-12": {
+      "baseline": "2.4.1",
+      "port-version": 12
     },
     "gdal-2-4-1-3-0": {
       "baseline": "2.4.1-3",
@@ -18239,6 +18287,10 @@
     "jxrlib-2019-10-9-1-0": {
       "baseline": "2019.10.9-1",
       "port-version": 0
+    },
+    "jxrlib-2019-10-9-2": {
+      "baseline": "2019.10.9",
+      "port-version": 2
     },
     "kangaru-4-1-2-0": {
       "baseline": "4.1.2",
@@ -22544,6 +22596,10 @@
       "baseline": "2020-05-19",
       "port-version": 0
     },
+    "licensepp-2020-05-19-1": {
+      "baseline": "2020-05-19",
+      "port-version": 1
+    },
     "linalg-2-1-0": {
       "baseline": "2.1",
       "port-version": 0
@@ -23532,6 +23588,10 @@
       "baseline": "2.7.2.14-1",
       "port-version": 0
     },
+    "mcpp-2-7-2-14-2": {
+      "baseline": "2.7.2.14",
+      "port-version": 2
+    },
     "mdnsresponder-765-30-11-0": {
       "baseline": "765.30.11",
       "port-version": 0
@@ -23551,6 +23611,10 @@
     "mecab-1-0-0": {
       "baseline": "1.0",
       "port-version": 0
+    },
+    "mecab-2019-09-25-1": {
+      "baseline": "2019-09-25",
+      "port-version": 1
     },
     "memorymodule-2019-12-31-0": {
       "baseline": "2019-12-31",
@@ -23747,6 +23811,10 @@
     "minizip-1-2-11-6-0": {
       "baseline": "1.2.11-6",
       "port-version": 0
+    },
+    "minizip-1-2-11-7": {
+      "baseline": "1.2.11",
+      "port-version": 7
     },
     "mio-2018-10-18-1-0": {
       "baseline": "2018-10-18-1",
@@ -24131,6 +24199,10 @@
     "mosquitto-1-6-8-2": {
       "baseline": "1.6.8",
       "port-version": 2
+    },
+    "mosquitto-1-6-8-3": {
+      "baseline": "1.6.8",
+      "port-version": 3
     },
     "mozjpeg-2020-06-02-0": {
       "baseline": "2020-06-02",
@@ -35084,6 +35156,10 @@
       "baseline": "2019-05-10-1",
       "port-version": 0
     },
+    "stormlib-2019-05-10-2": {
+      "baseline": "2019-05-10",
+      "port-version": 2
+    },
     "stormlib-9-22-0": {
       "baseline": "9.22",
       "port-version": 0
@@ -36883,6 +36959,10 @@
     "unixodbc-2-3-7-1-0": {
       "baseline": "2.3.7-1",
       "port-version": 0
+    },
+    "unixodbc-2-3-7-2": {
+      "baseline": "2.3.7",
+      "port-version": 2
     },
     "unqlite-1-1-9-0": {
       "baseline": "1.1.9",
