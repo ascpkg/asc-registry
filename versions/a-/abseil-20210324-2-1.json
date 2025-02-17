@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/abseil-20210324-2-1",
+      "version-string": "20210324.2",
+      "port-version": 1
+    }
+  ]
+}
