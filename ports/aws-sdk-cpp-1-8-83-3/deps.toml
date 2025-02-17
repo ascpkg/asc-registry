@@ -1,0 +1,7 @@
+old = "aws-sdk-cpp"
+new = "aws-sdk-cpp-1-8-83-3"
+
+[deps]
+aws-c-event-stream-0-1-6-0 = "aws-c-event-stream"
+curl-7-73-0-4 = "curl"
+openssl-1-1-1h-3 = "openssl"
