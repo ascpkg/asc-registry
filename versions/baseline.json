@@ -44912,6 +44912,10 @@
       "baseline": "alias",
       "port-version": 1
     },
+    "ms-gltf-2022-06-28-0": {
+      "baseline": "2022-06-28",
+      "port-version": 0
+    },
     "ms-gltf-r1-9-5-0-0": {
       "baseline": "r1.9.5.0",
       "port-version": 0
@@ -59495,6 +59499,10 @@
     "rapidjson-2020-09-14-2": {
       "baseline": "2020-09-14",
       "port-version": 2
+    },
+    "rapidjson-2022-06-28-0": {
+      "baseline": "2022-06-28",
+      "port-version": 0
     },
     "rapidjson-d87b698-0": {
       "baseline": "d87b698",
