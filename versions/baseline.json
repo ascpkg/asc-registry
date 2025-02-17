@@ -50868,6 +50868,10 @@
       "baseline": "2.5.8",
       "port-version": 0
     },
+    "openexr-2-5-8-1": {
+      "baseline": "2.5.8",
+      "port-version": 1
+    },
     "opengl-0-0-1-0": {
       "baseline": "0.0-1",
       "port-version": 0
