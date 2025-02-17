@@ -59800,6 +59800,10 @@
       "baseline": "0.9.6",
       "port-version": 3
     },
+    "rttr-0-9-6-4": {
+      "baseline": "0.9.6",
+      "port-version": 4
+    },
     "rxcpp-2-3-0-0": {
       "baseline": "2.3.0",
       "port-version": 0
