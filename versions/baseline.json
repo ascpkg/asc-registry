@@ -99100,6 +99100,10 @@
       "baseline": "0.12.0",
       "port-version": 3
     },
+    "range-v3-0-12-0-4": {
+      "baseline": "0.12.0",
+      "port-version": 4
+    },
     "range-v3-0-3-5-0": {
       "baseline": "0.3.5",
       "port-version": 0
@@ -105171,6 +105175,10 @@
     "simsimd-5-2-1-0": {
       "baseline": "5.2.1",
       "port-version": 0
+    },
+    "simsimd-5-2-1-1": {
+      "baseline": "5.2.1",
+      "port-version": 1
     },
     "sjpeg-2021-10-31-0": {
       "baseline": "2021-10-31",
