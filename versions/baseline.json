@@ -18720,6 +18720,10 @@
       "baseline": "0.16.0",
       "port-version": 0
     },
+    "jsonnet-0-16-0-1": {
+      "baseline": "0.16.0",
+      "port-version": 1
+    },
     "jsonnet-2017-09-02-11cf9fa9f2fe8acbb14b096316006082564ca580-0": {
       "baseline": "2017-09-02-11cf9fa9f2fe8acbb14b096316006082564ca580",
       "port-version": 0
@@ -27999,6 +28003,10 @@
     "openssl-uwp-1-1-1h-0": {
       "baseline": "1.1.1h",
       "port-version": 0
+    },
+    "openssl-uwp-1-1-1h-1": {
+      "baseline": "1.1.1h",
+      "port-version": 1
     },
     "openssl-windows-1-0-2o-0": {
       "baseline": "1.0.2o",

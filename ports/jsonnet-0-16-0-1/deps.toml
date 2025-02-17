@@ -1,0 +1,5 @@
+old = "jsonnet"
+new = "jsonnet-0-16-0-1"
+
+[deps]
+nlohmann-json-3-9-1-0 = "nlohmann-json"
