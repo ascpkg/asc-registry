@@ -3,6 +3,6 @@ new = "grpc-1-10-1-2-0"
 
 [deps]
 c-ares-cares-1-14-0-0 = "c-ares"
-openssl-1-0-2o-2-0 = "openssl"
-protobuf-3-5-1-4-0 = "protobuf"
+openssl-1-0-2o-3-0 = "openssl"
+protobuf-3-5-1-5-0 = "protobuf"
 zlib-1-2-11-3-0 = "zlib"
