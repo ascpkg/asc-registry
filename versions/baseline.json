@@ -69920,6 +69920,10 @@
       "baseline": "2.0.17",
       "port-version": 0
     },
+    "numactl-2-0-18-0": {
+      "baseline": "2.0.18",
+      "port-version": 0
+    },
     "numcpp-2-1-0-0": {
       "baseline": "2.1.0",
       "port-version": 0
