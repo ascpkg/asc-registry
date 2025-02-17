@@ -14112,6 +14112,10 @@
       "baseline": "3.4.0-1",
       "port-version": 0
     },
+    "libarchive-3-4-0-2-0": {
+      "baseline": "3.4.0-2",
+      "port-version": 0
+    },
     "libass-0-14-0-0": {
       "baseline": "0.14.0",
       "port-version": 0
@@ -20082,6 +20086,10 @@
     },
     "openvpn3-3-4-1-0": {
       "baseline": "3.4.1",
+      "port-version": 0
+    },
+    "openvpn3-3-4-1-1-0": {
+      "baseline": "3.4.1-1",
       "port-version": 0
     },
     "openvr-1-0-12-0": {
@@ -28390,6 +28398,10 @@
     },
     "xalan-c-1-11-10-0": {
       "baseline": "1.11-10",
+      "port-version": 0
+    },
+    "xalan-c-1-11-11-0": {
+      "baseline": "1.11-11",
       "port-version": 0
     },
     "xalan-c-1-11-3-0": {
