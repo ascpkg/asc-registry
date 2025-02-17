@@ -15160,6 +15160,10 @@
       "baseline": "3.4.3-8",
       "port-version": 0
     },
+    "opencv-3-4-3-9-0": {
+      "baseline": "3.4.3-9",
+      "port-version": 0
+    },
     "openexr-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
