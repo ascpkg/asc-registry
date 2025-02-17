@@ -60344,6 +60344,10 @@
       "baseline": "3.3.2",
       "port-version": 0
     },
+    "liblsquic-3-3-2-1": {
+      "baseline": "3.3.2",
+      "port-version": 1
+    },
     "liblzf-3-6-0": {
       "baseline": "3.6",
       "port-version": 0
