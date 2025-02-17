@@ -21312,6 +21312,10 @@
       "baseline": "2021.06.14.00",
       "port-version": 1
     },
+    "fbthrift-2022-01-31-00-0": {
+      "baseline": "2022.01.31.00",
+      "port-version": 0
+    },
     "fcl-0-5-0-1-0": {
       "baseline": "0.5.0-1",
       "port-version": 0
@@ -22023,6 +22027,10 @@
     "fizz-2021-06-14-00-1": {
       "baseline": "2021.06.14.00",
       "port-version": 1
+    },
+    "fizz-2022-01-31-00-0": {
+      "baseline": "2022.01.31.00",
+      "port-version": 0
     },
     "flann-1-9-1-0": {
       "baseline": "1.9.1",
@@ -22767,6 +22775,10 @@
     "folly-2021-06-14-00-4": {
       "baseline": "2021.06.14.00",
       "port-version": 4
+    },
+    "folly-2022-01-31-00-0": {
+      "baseline": "2022.01.31.00",
+      "port-version": 0
     },
     "folly-v2017-05-08-00-0": {
       "baseline": "v2017.05.08.00",
@@ -41732,6 +41744,10 @@
       "baseline": "0.1",
       "port-version": 1
     },
+    "mvfst-0-2-0": {
+      "baseline": "0.2",
+      "port-version": 0
+    },
     "mygui-2020-06-17-0": {
       "baseline": "2020-06-17",
       "port-version": 0
@@ -49116,6 +49132,10 @@
       "baseline": "2021.06.14.00",
       "port-version": 1
     },
+    "proxygen-2022-01-31-00-0": {
+      "baseline": "2022.01.31.00",
+      "port-version": 0
+    },
     "proxywrapper-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
@@ -55379,6 +55399,10 @@
     "rsocket-2021-08-30-00-0": {
       "baseline": "2021.08.30.00",
       "port-version": 0
+    },
+    "rsocket-2021-08-30-00-1": {
+      "baseline": "2021.08.30.00",
+      "port-version": 1
     },
     "rtabmap-0-20-13-1": {
       "baseline": "0.20.13",
@@ -63554,6 +63578,10 @@
     },
     "wangle-2021-06-14-00-0": {
       "baseline": "2021.06.14.00",
+      "port-version": 0
+    },
+    "wangle-2022-01-31-00-0": {
+      "baseline": "2022.01.31.00",
       "port-version": 0
     },
     "wangle-v2018-07-30-00-1-0": {
