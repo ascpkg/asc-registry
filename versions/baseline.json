@@ -17232,6 +17232,10 @@
       "baseline": "2.2.0.33-1",
       "port-version": 0
     },
+    "openni2-2-2-0-33-10-0": {
+      "baseline": "2.2.0.33-10",
+      "port-version": 0
+    },
     "openni2-2-2-0-33-2-0": {
       "baseline": "2.2.0.33-2",
       "port-version": 0
