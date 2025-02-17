@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/alembic-1-7-11-6-0",
+      "version": "1.7.11-6",
+      "port-version": 0
+    }
+  ]
+}

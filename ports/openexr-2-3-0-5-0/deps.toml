@@ -1,0 +1,5 @@
+old = "openexr"
+new = "openexr-2-3-0-5-0"
+
+[deps]
+zlib-1-2-11-5-0 = "zlib"
