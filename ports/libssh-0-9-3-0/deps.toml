@@ -4,5 +4,5 @@ new = "libssh-0-9-3-0"
 [deps]
 libssh-0-9-3-0 = "libssh"
 mbedtls-2-16-3-0 = "mbedtls"
-openssl-1-0 = "openssl"
+openssl-1-1-1d-0 = "openssl"
 zlib-1-2-11-5-0 = "zlib"
