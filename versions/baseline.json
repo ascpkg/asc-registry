@@ -5396,6 +5396,10 @@
       "baseline": "0.26.0",
       "port-version": 0
     },
+    "libgo-2-7-0": {
+      "baseline": "2.7",
+      "port-version": 0
+    },
     "libgsl-2-3-0": {
       "baseline": "2.3",
       "port-version": 0
