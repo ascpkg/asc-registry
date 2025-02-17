@@ -6096,6 +6096,10 @@
       "baseline": "4.0.8",
       "port-version": 0
     },
+    "sciter-4-1-0-0": {
+      "baseline": "4.1.0",
+      "port-version": 0
+    },
     "sdl2-2-0-4-0": {
       "baseline": "2.0.4",
       "port-version": 0
