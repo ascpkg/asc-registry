@@ -12820,6 +12820,10 @@
       "baseline": "3.6.3-3",
       "port-version": 0
     },
+    "geos-3-6-4-0": {
+      "baseline": "3.6.4",
+      "port-version": 0
+    },
     "geotrans-3-7-0": {
       "baseline": "3.7",
       "port-version": 0
