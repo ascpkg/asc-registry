@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/atkmm-2-36-3-0",
+      "version": "2.36.3",
+      "port-version": 0
+    }
+  ]
+}
