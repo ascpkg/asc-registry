@@ -1,0 +1,9 @@
+old = "popsift"
+new = "popsift-0-9-0"
+
+[deps]
+boost-algorithm-1-75-0-0 = "boost-algorithm"
+boost-filesystem-1-75-0-0 = "boost-filesystem"
+boost-program-options-1-75-0-0 = "boost-program-options"
+boost-system-1-75-0-0 = "boost-system"
+cuda-10-1-5 = "cuda"
