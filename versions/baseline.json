@@ -27772,6 +27772,10 @@
       "baseline": "2.70.5",
       "port-version": 2
     },
+    "glib-2-72-3-0": {
+      "baseline": "2.72.3",
+      "port-version": 0
+    },
     "glibmm-2-52-1-0": {
       "baseline": "2.52.1",
       "port-version": 0
