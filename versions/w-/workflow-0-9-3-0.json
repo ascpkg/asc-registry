@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/workflow-0-9-3-0",
+      "version-string": "0.9.3",
+      "port-version": 0
+    }
+  ]
+}
