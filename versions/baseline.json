@@ -11284,6 +11284,10 @@
       "baseline": "1.5.0",
       "port-version": 0
     },
+    "chromaprint-1-5-0-1": {
+      "baseline": "1.5.0",
+      "port-version": 1
+    },
     "chromium-base-86-0-4199-1-0": {
       "baseline": "86.0.4199.1",
       "port-version": 0
@@ -12872,6 +12876,10 @@
       "baseline": "7.6.5",
       "port-version": 1
     },
+    "cudnn-7-6-5-2": {
+      "baseline": "7.6.5",
+      "port-version": 2
+    },
     "cunit-2-1-3-0": {
       "baseline": "2.1.3",
       "port-version": 0
@@ -13299,6 +13307,10 @@
     "dartsim-6-9-4-0": {
       "baseline": "6.9.4",
       "port-version": 0
+    },
+    "dartsim-6-9-4-1": {
+      "baseline": "6.9.4",
+      "port-version": 1
     },
     "dartsim-9-4-0-0": {
       "baseline": "9.4.0",
@@ -23132,6 +23144,10 @@
       "baseline": "0.12.0",
       "port-version": 0
     },
+    "libdatachannel-0-12-2-0": {
+      "baseline": "0.12.2",
+      "port-version": 0
+    },
     "libdatachannel-v0-10-1-0": {
       "baseline": "v0.10.1",
       "port-version": 0
@@ -23835,6 +23851,10 @@
     "libhv-1-0-0-1": {
       "baseline": "1.0.0",
       "port-version": 1
+    },
+    "libhv-1-0-0-2": {
+      "baseline": "1.0.0",
+      "port-version": 2
     },
     "libhydrogen-2019-08-11-0": {
       "baseline": "2019-08-11",
@@ -26400,6 +26420,10 @@
       "baseline": "2018-01-28-56ff6c87",
       "port-version": 0
     },
+    "libudis86-2018-01-28-56ff6c87-1": {
+      "baseline": "2018-01-28-56ff6c87",
+      "port-version": 1
+    },
     "libudns-0-4-0": {
       "baseline": "0.4",
       "port-version": 0
@@ -26879,6 +26903,10 @@
     "libvpx-1-9-0-8": {
       "baseline": "1.9.0",
       "port-version": 8
+    },
+    "libvpx-1-9-0-9": {
+      "baseline": "1.9.0",
+      "port-version": 9
     },
     "libwandio-4-2-1-0": {
       "baseline": "4.2.1",
@@ -43096,6 +43124,10 @@
       "baseline": "2.4.1",
       "port-version": 0
     },
+    "tensorflow-common-2-4-1-1": {
+      "baseline": "2.4.1",
+      "port-version": 1
+    },
     "termcolor-1-0-1-0": {
       "baseline": "1.0.1",
       "port-version": 0
@@ -44571,6 +44603,10 @@
     "upb-2020-12-19-0": {
       "baseline": "2020-12-19",
       "port-version": 0
+    },
+    "upb-2020-12-19-1": {
+      "baseline": "2020-12-19",
+      "port-version": 1
     },
     "urdfdom-1-0-0-1-0": {
       "baseline": "1.0.0-1",
