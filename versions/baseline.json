@@ -11576,6 +11576,10 @@
       "baseline": "2.52.3-14-3",
       "port-version": 0
     },
+    "glib-2-52-3-14-4-0": {
+      "baseline": "2.52.3-14-4",
+      "port-version": 0
+    },
     "glib-2-52-3-2-0": {
       "baseline": "2.52.3-2",
       "port-version": 0
