@@ -26676,6 +26676,10 @@
       "baseline": "0.16.0",
       "port-version": 3
     },
+    "jsonnet-0-17-0-0": {
+      "baseline": "0.17.0",
+      "port-version": 0
+    },
     "jsonnet-2017-09-02-11cf9fa9f2fe8acbb14b096316006082564ca580-0": {
       "baseline": "2017-09-02-11cf9fa9f2fe8acbb14b096316006082564ca580",
       "port-version": 0
