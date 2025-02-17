@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cpp-base64-2019-06-19-0",
+      "version": "2019-06-19",
+      "port-version": 0
+    }
+  ]
+}

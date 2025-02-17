@@ -7040,6 +7040,10 @@
       "baseline": "jun2017-3",
       "port-version": 0
     },
+    "cpp-base64-2019-06-19-0": {
+      "baseline": "2019-06-19",
+      "port-version": 0
+    },
     "cpp-httplib-0-2-0-0": {
       "baseline": "0.2.0",
       "port-version": 0
