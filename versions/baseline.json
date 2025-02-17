@@ -41612,6 +41612,10 @@
       "baseline": "3.2.0",
       "port-version": 1
     },
+    "pegtl-3-2-1-0": {
+      "baseline": "3.2.1",
+      "port-version": 0
+    },
     "pfring-2019-10-17-0": {
       "baseline": "2019-10-17",
       "port-version": 0
