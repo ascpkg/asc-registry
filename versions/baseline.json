@@ -35656,6 +35656,10 @@
       "baseline": "0.7.0",
       "port-version": 1
     },
+    "fastgltf-0-7-1-0": {
+      "baseline": "0.7.1",
+      "port-version": 0
+    },
     "fastio-2022-11-14-0": {
       "baseline": "2022-11-14",
       "port-version": 0
