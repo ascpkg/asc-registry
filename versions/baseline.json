@@ -9576,6 +9576,10 @@
       "baseline": "1.86.0",
       "port-version": 0
     },
+    "boost-1-86-0-1": {
+      "baseline": "1.86.0",
+      "port-version": 1
+    },
     "boost-accumulators-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -11551,6 +11555,10 @@
     "boost-cobalt-1-86-0-0": {
       "baseline": "1.86.0",
       "port-version": 0
+    },
+    "boost-cobalt-1-86-0-1": {
+      "baseline": "1.86.0",
+      "port-version": 1
     },
     "boost-compat-1-83-0-0": {
       "baseline": "1.83.0",
