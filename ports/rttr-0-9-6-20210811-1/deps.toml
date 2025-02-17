@@ -1,0 +1,7 @@
+old = "rttr"
+new = "rttr-0-9-6-20210811-1"
+
+[deps]
+rapidjson-2023-07-17-1 = "rapidjson"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
