@@ -14512,6 +14512,10 @@
       "baseline": "2.12",
       "port-version": 5
     },
+    "clblas-2-12-6": {
+      "baseline": "2.12",
+      "port-version": 6
+    },
     "clblast-1-5-0-0": {
       "baseline": "1.5.0",
       "port-version": 0
