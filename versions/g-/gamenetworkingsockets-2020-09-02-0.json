@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gamenetworkingsockets-2020-09-02-0",
+      "version-string": "2020-09-02",
+      "port-version": 0
+    }
+  ]
+}
