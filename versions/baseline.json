@@ -26760,6 +26760,10 @@
       "baseline": "2.1.16.0",
       "port-version": 3
     },
+    "openimageio-2-1-16-0-4": {
+      "baseline": "2.1.16.0",
+      "port-version": 4
+    },
     "openimageio-2-1-9-0-0": {
       "baseline": "2.1.9.0",
       "port-version": 0
