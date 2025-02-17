@@ -3,6 +3,7 @@ new = "rocksdb-5-4-6-0"
 
 [deps]
 gflags-2-2-0-3-0 = "gflags"
+gtest-1-8-0 = "gtest"
 lz4-1-7-5-0 = "lz4"
 snappy-1-1-4-1-0 = "snappy"
 zlib-1-2-11-0 = "zlib"
