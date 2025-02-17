@@ -10312,6 +10312,10 @@
       "baseline": "2.1.0-5",
       "port-version": 0
     },
+    "glew-2-1-0-6-0": {
+      "baseline": "2.1.0-6",
+      "port-version": 0
+    },
     "glfw3-3-1-2-0": {
       "baseline": "3.1.2",
       "port-version": 0
