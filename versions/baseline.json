@@ -104860,6 +104860,10 @@
       "baseline": "2023-07-17",
       "port-version": 1
     },
+    "rapidjson-2023-07-17-2": {
+      "baseline": "2023-07-17",
+      "port-version": 2
+    },
     "rapidjson-d87b698-0": {
       "baseline": "d87b698",
       "port-version": 0
