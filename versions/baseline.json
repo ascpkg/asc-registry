@@ -11868,6 +11868,10 @@
       "baseline": "2017-06-20-2",
       "port-version": 0
     },
+    "json5-parser-1-0-0-0": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
     "jsoncons-0-125-0-0": {
       "baseline": "0.125.0",
       "port-version": 0
