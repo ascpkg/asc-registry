@@ -1,0 +1,10 @@
+old = "ceres"
+new = "ceres-1-14-0-9"
+
+[deps]
+ceres-1-14-0-9 = "ceres"
+eigen3-3-3-7-7 = "eigen3"
+gflags-2-2-2-1-0 = "gflags"
+glog-0-4-0-3-0 = "glog"
+lapack-2-0 = "lapack"
+suitesparse-5-8-0-0 = "suitesparse"
