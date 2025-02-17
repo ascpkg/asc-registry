@@ -1,0 +1,2 @@
+old = "tensorflow-cc"
+new = "tensorflow-cc-2-3-1-0"
