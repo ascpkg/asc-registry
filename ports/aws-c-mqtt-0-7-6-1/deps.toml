@@ -1,0 +1,7 @@
+old = "aws-c-mqtt"
+new = "aws-c-mqtt-0-7-6-1"
+
+[deps]
+s2n-1-1-1-0 = "s2n"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-11-01-0 = "vcpkg-cmake-config"

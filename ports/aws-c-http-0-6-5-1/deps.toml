@@ -1,0 +1,10 @@
+old = "aws-c-http"
+new = "aws-c-http-0-6-5-1"
+
+[deps]
+aws-c-cal-0-5-12-1 = "aws-c-cal"
+aws-c-common-0-6-9-1 = "aws-c-common"
+aws-c-compression-0-2-14-1 = "aws-c-compression"
+aws-c-io-0-10-7-1 = "aws-c-io"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-11-01-0 = "vcpkg-cmake-config"
