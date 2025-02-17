@@ -29400,6 +29400,10 @@
       "baseline": "4.6.2",
       "port-version": 1
     },
+    "gtk-4-6-2-2": {
+      "baseline": "4.6.2",
+      "port-version": 2
+    },
     "gtkmm-3-22-2-0": {
       "baseline": "3.22.2",
       "port-version": 0
