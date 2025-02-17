@@ -74292,6 +74292,10 @@
       "baseline": "0.20.3",
       "port-version": 1
     },
+    "rtabmap-0-21-0-0": {
+      "baseline": "0.21.0",
+      "port-version": 0
+    },
     "rtaudio-2021-01-25-0": {
       "baseline": "2021-01-25",
       "port-version": 0
