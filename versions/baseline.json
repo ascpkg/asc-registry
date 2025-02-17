@@ -1800,6 +1800,10 @@
       "baseline": "1.3.2",
       "port-version": 0
     },
+    "libogg-1-3-2-cab46b1-2-0": {
+      "baseline": "1.3.2-cab46b1-2",
+      "port-version": 0
+    },
     "libogg-2017-07-27-cab46b19847-0": {
       "baseline": "2017-07-27-cab46b19847",
       "port-version": 0
