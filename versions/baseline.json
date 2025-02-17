@@ -41040,6 +41040,10 @@
       "baseline": "9.0.0",
       "port-version": 1
     },
+    "graphviz-9-0-0-2": {
+      "baseline": "9.0.0",
+      "port-version": 2
+    },
     "greatest-1-4-2-0": {
       "baseline": "1.4.2",
       "port-version": 0
