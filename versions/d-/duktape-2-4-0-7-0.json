@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/duktape-2-4-0-7-0",
+      "version": "2.4.0-7",
+      "port-version": 0
+    }
+  ]
+}
