@@ -36364,6 +36364,10 @@
       "baseline": "2021-12-04",
       "port-version": 0
     },
+    "lodepng-2021-12-04-1": {
+      "baseline": "2021-12-04",
+      "port-version": 1
+    },
     "lodepng-c-2021-03-01-0": {
       "baseline": "2021-03-01",
       "port-version": 0
