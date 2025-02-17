@@ -44828,6 +44828,10 @@
       "baseline": "0.10.7",
       "port-version": 0
     },
+    "igraph-0-10-8-0": {
+      "baseline": "0.10.8",
+      "port-version": 0
+    },
     "igraph-0-9-10-0": {
       "baseline": "0.9.10",
       "port-version": 0
