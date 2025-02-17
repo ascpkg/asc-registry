@@ -1,0 +1,11 @@
+old = "azure-iot-sdk-c"
+new = "azure-iot-sdk-c-2022-01-21-0"
+
+[deps]
+azure-c-shared-utility-2022-01-21-0 = "azure-c-shared-utility"
+azure-macro-utils-c-2022-01-21-0 = "azure-macro-utils-c"
+azure-uamqp-c-2022-01-21-0 = "azure-uamqp-c"
+azure-uhttp-c-2022-01-21-0 = "azure-uhttp-c"
+azure-umqtt-c-2022-01-21-0 = "azure-umqtt-c"
+parson-2020-09-14-1 = "parson"
+umock-c-2022-01-21-0 = "umock-c"
