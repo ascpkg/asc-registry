@@ -2080,6 +2080,10 @@
       "baseline": "1.2.2",
       "port-version": 0
     },
+    "autodock-vina-1-2-3-0": {
+      "baseline": "1.2.3",
+      "port-version": 0
+    },
     "avcpp-2021-05-06-0": {
       "baseline": "2021-05-06",
       "port-version": 0
