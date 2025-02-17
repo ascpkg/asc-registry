@@ -36364,6 +36364,10 @@
       "baseline": "0",
       "port-version": 1
     },
+    "lemon-parser-generator-3-39-3-0": {
+      "baseline": "3.39.3",
+      "port-version": 0
+    },
     "leptonica-1-74-4-0": {
       "baseline": "1.74.4",
       "port-version": 0
