@@ -412,6 +412,14 @@
       "baseline": "1.0.2",
       "port-version": 0
     },
+    "azure-c-shared-utility-1-1-1-0": {
+      "baseline": "1.1.1",
+      "port-version": 0
+    },
+    "azure-iot-sdk-c-1-2-1-0": {
+      "baseline": "1.2.1",
+      "port-version": 0
+    },
     "azure-storage-cpp-2-5-0-0": {
       "baseline": "2.5.0",
       "port-version": 0
@@ -450,6 +458,18 @@
     },
     "azure-storage-cpp-3-2-1-0": {
       "baseline": "3.2.1",
+      "port-version": 0
+    },
+    "azure-uamqp-c-1-0-0-pre-release-1-0-9-0": {
+      "baseline": "1.0.0-pre-release-1.0.9",
+      "port-version": 0
+    },
+    "azure-uhttp-c-2018-02-09-0": {
+      "baseline": "2018-02-09",
+      "port-version": 0
+    },
+    "azure-umqtt-c-1-0-0-pre-release-1-0-9-0": {
+      "baseline": "1.0.0-pre-release-1.0.9",
       "port-version": 0
     },
     "beast-0-0": {
@@ -6498,6 +6518,10 @@
     },
     "parquet-cpp-apache-parquet-cpp-1-1-0-0": {
       "baseline": "apache-parquet-cpp-1.1.0",
+      "port-version": 0
+    },
+    "parson-2018-03-23-0": {
+      "baseline": "2018-03-23",
       "port-version": 0
     },
     "pcl-1-8-0-0": {
