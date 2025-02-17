@@ -20552,6 +20552,10 @@
       "baseline": "1.7",
       "port-version": 0
     },
+    "indicators-2-0-0": {
+      "baseline": "2.0",
+      "port-version": 0
+    },
     "indicators-2020-10-30-0": {
       "baseline": "2020-10-30",
       "port-version": 0
