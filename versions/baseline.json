@@ -10812,6 +10812,10 @@
       "baseline": "1767ab87cffe-1",
       "port-version": 0
     },
+    "dartsim-9-4-0-0": {
+      "baseline": "9.4.0",
+      "port-version": 0
+    },
     "date-081e9af-0": {
       "baseline": "081e9af",
       "port-version": 0
