@@ -4176,6 +4176,10 @@
       "baseline": "c-libs-2ccee3d2fb",
       "port-version": 0
     },
+    "fmilib-2-0-3-0": {
+      "baseline": "2.0.3",
+      "port-version": 0
+    },
     "fmt-3-0-0-0": {
       "baseline": "3.0.0",
       "port-version": 0
