@@ -1,0 +1,17 @@
+old = "gdal"
+new = "gdal-2-3-2-0"
+
+[deps]
+curl-7-61-1-1-0 = "curl"
+expat-2-2-6-0 = "expat"
+geos-3-6-2-3-0 = "geos"
+liblzma-5-2-4-0 = "liblzma"
+libmariadb-3-0-2-0 = "libmariadb"
+libmysql-8-0-4-3-0 = "libmysql"
+libpng-1-6-35-0 = "libpng"
+libpq-9-6-1-4-0 = "libpq"
+libwebp-0-6-1-2-0 = "libwebp"
+libxml2-2-9-4-5-0 = "libxml2"
+openjpeg-2-3-0-0 = "openjpeg"
+proj-0-0 = "proj"
+sqlite3-3-24-0-1-0 = "sqlite3"
