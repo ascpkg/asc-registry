@@ -52224,6 +52224,10 @@
       "baseline": "4.6.0",
       "port-version": 5
     },
+    "opencv4-4-6-0-6": {
+      "baseline": "4.6.0",
+      "port-version": 6
+    },
     "opendnp3-2-3-2-0": {
       "baseline": "2.3.2",
       "port-version": 0
