@@ -74344,6 +74344,10 @@
       "baseline": "1.0.0",
       "port-version": 0
     },
+    "scope-guard-1-1-0-0": {
+      "baseline": "1.1.0",
+      "port-version": 0
+    },
     "scottt-debugbreak-1-0-0": {
       "baseline": "1.0",
       "port-version": 0
