@@ -1,0 +1,10 @@
+old = "influxdb-cxx"
+new = "influxdb-cxx-0-7-2-0"
+
+[deps]
+boost-asio-1-84-0-0 = "boost-asio"
+boost-conversion-1-84-0-0 = "boost-conversion"
+boost-property-tree-1-84-0-0 = "boost-property-tree"
+cpr-1-10-5-1 = "cpr"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
