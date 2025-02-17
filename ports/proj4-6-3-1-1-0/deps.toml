@@ -2,4 +2,4 @@ old = "proj4"
 new = "proj4-6-3-1-1-0"
 
 [deps]
-sqlite3-3-32-0-0-0 = "sqlite3"
+sqlite3-3-32-1-0 = "sqlite3"
