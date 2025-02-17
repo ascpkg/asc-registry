@@ -1,0 +1,5 @@
+old = "libunwind"
+new = "libunwind-1-7-2-0"
+
+[deps]
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
