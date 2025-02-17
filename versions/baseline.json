@@ -29680,6 +29680,10 @@
       "baseline": "1.2.3",
       "port-version": 1
     },
+    "hexl-1-2-4-0": {
+      "baseline": "1.2.4",
+      "port-version": 0
+    },
     "hffix-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
