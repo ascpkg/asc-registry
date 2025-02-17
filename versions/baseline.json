@@ -47640,6 +47640,10 @@
       "baseline": "4.0.2",
       "port-version": 0
     },
+    "yara-4-1-0-0": {
+      "baseline": "4.1.0",
+      "port-version": 0
+    },
     "yara-e3439e4ead4ed5d3b75a0b46eaf15ddda2110bb9-0": {
       "baseline": "e3439e4ead4ed5d3b75a0b46eaf15ddda2110bb9",
       "port-version": 0
