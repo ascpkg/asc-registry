@@ -15676,6 +15676,10 @@
       "baseline": "2.4-2",
       "port-version": 0
     },
+    "librtmp-2019-11-11-0": {
+      "baseline": "2019-11-11",
+      "port-version": 0
+    },
     "libsamplerate-0-1-9-0-0": {
       "baseline": "0.1.9.0",
       "port-version": 0
