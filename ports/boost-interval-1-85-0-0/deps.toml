@@ -1,0 +1,9 @@
+old = "boost-interval"
+new = "boost-interval-1-85-0-0"
+
+[deps]
+boost-cmake-1-85-0-0 = "boost-cmake"
+boost-config-1-85-0-0 = "boost-config"
+boost-detail-1-85-0-0 = "boost-detail"
+boost-headers-1-85-0-0 = "boost-headers"
+boost-logic-1-85-0-0 = "boost-logic"

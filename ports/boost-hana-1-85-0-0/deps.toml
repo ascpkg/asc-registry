@@ -1,0 +1,11 @@
+old = "boost-hana"
+new = "boost-hana-1-85-0-0"
+
+[deps]
+boost-cmake-1-85-0-0 = "boost-cmake"
+boost-config-1-85-0-0 = "boost-config"
+boost-core-1-85-0-0 = "boost-core"
+boost-fusion-1-85-0-0 = "boost-fusion"
+boost-headers-1-85-0-0 = "boost-headers"
+boost-mpl-1-85-0-0 = "boost-mpl"
+boost-tuple-1-85-0-0 = "boost-tuple"

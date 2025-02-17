@@ -1,0 +1,8 @@
+old = "boost-winapi"
+new = "boost-winapi-1-85-0-0"
+
+[deps]
+boost-cmake-1-85-0-0 = "boost-cmake"
+boost-config-1-85-0-0 = "boost-config"
+boost-headers-1-85-0-0 = "boost-headers"
+boost-predef-1-85-0-0 = "boost-predef"
