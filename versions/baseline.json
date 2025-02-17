@@ -29776,6 +29776,10 @@
       "baseline": "2.4.2",
       "port-version": 0
     },
+    "cli11-2-4-2-1": {
+      "baseline": "2.4.2",
+      "port-version": 1
+    },
     "clickhouse-cpp-1-5-0-0": {
       "baseline": "1.5.0",
       "port-version": 0
