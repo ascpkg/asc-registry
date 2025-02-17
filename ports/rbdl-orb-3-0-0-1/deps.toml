@@ -1,0 +1,8 @@
+old = "rbdl-orb"
+new = "rbdl-orb-3-0-0-1"
+
+[deps]
+boost-1-76-0-0 = "boost"
+eigen3-3-3-9-0 = "eigen3"
+lua-5-4-3-1 = "lua"
+vcpkg-cmake-2021-07-30-0 = "vcpkg-cmake"

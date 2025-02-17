@@ -1,0 +1,6 @@
+old = "rbdl"
+new = "rbdl-2-6-0-1"
+
+[deps]
+eigen3-3-3-9-0 = "eigen3"
+vcpkg-cmake-2021-07-30-0 = "vcpkg-cmake"
