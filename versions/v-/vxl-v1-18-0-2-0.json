@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/vxl-v1-18-0-2-0",
+      "version": "v1.18.0-2",
+      "port-version": 0
+    }
+  ]
+}
