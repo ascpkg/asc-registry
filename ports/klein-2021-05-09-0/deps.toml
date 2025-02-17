@@ -1,0 +1,7 @@
+old = "klein"
+new = "klein-2021-05-09-0"
+
+[deps]
+simde-0-7-0-0 = "simde"
+vcpkg-cmake-2021-06-25-4 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-0 = "vcpkg-cmake-config"
