@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gtk3-3-24-43-0",
+      "version": "3.24.43",
+      "port-version": 0
+    }
+  ]
+}

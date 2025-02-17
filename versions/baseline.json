@@ -51760,6 +51760,10 @@
       "baseline": "3.24.38",
       "port-version": 2
     },
+    "gtk3-3-24-43-0": {
+      "baseline": "3.24.43",
+      "port-version": 0
+    },
     "gtkmm-3-22-2-0": {
       "baseline": "3.22.2",
       "port-version": 0

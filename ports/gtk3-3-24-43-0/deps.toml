@@ -1,0 +1,14 @@
+old = "gtk3"
+new = "gtk3-3-24-43-0"
+
+[deps]
+at-spi2-atk-2-38-0-1 = "at-spi2-atk"
+atk-2-38-0-9 = "atk"
+cairo-1-18-2-0 = "cairo"
+gdk-pixbuf-2-42-12-2 = "gdk-pixbuf"
+gettext-0-22-5-1 = "gettext"
+glib-2-80-0-1 = "glib"
+gobject-introspection-1-72-0-9 = "gobject-introspection"
+libepoxy-1-5-10-2 = "libepoxy"
+pango-1-56-1-1 = "pango"
+vcpkg-tool-meson-1-6-1-0 = "vcpkg-tool-meson"
