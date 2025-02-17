@@ -1,0 +1,6 @@
+old = "libsrtp"
+new = "libsrtp-2-4-2-3"
+
+[deps]
+vcpkg-cmake-2022-09-26-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
