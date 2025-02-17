@@ -504,6 +504,10 @@
       "baseline": "5.2.5.0",
       "port-version": 0
     },
+    "allegro5-5-2-6-0-0": {
+      "baseline": "5.2.6.0",
+      "port-version": 0
+    },
     "ampl-mp-2019-02-08-0": {
       "baseline": "2019-02-08",
       "port-version": 0
