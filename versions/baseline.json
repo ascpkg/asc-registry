@@ -11020,6 +11020,10 @@
       "baseline": "5.2",
       "port-version": 2
     },
+    "cgal-5-2-3": {
+      "baseline": "5.2",
+      "port-version": 3
+    },
     "cgicc--0": {
       "baseline": "",
       "port-version": 0
