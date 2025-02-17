@@ -1,0 +1,11 @@
+old = "aws-sdk-cpp"
+new = "aws-sdk-cpp-1-11-285-2"
+
+[deps]
+aws-crt-cpp-0-26-4-0 = "aws-crt-cpp"
+aws-sdk-cpp-1-11-285-2 = "aws-sdk-cpp"
+curl-8-8-0-0 = "curl"
+openssl-3-3-0-1 = "openssl"
+vcpkg-cmake-2024-04-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-3-1-0 = "zlib"
