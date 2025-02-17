@@ -41056,6 +41056,10 @@
       "baseline": "0.10.1",
       "port-version": 0
     },
+    "libavif-0-11-1-0": {
+      "baseline": "0.11.1",
+      "port-version": 0
+    },
     "libavif-0-9-1-0": {
       "baseline": "0.9.1",
       "port-version": 0
