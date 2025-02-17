@@ -121000,6 +121000,10 @@
       "baseline": "2024-02-22",
       "port-version": 0
     },
+    "vcpkg-tool-gn-2025-01-27-0": {
+      "baseline": "2025-01-27",
+      "port-version": 0
+    },
     "vcpkg-tool-gyp-next-2022-10-15-0": {
       "baseline": "2022-10-15",
       "port-version": 0
