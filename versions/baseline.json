@@ -1032,6 +1032,10 @@
       "baseline": "3.1.2",
       "port-version": 0
     },
+    "aom-3-2-0-0": {
+      "baseline": "3.2.0",
+      "port-version": 0
+    },
     "approval-tests-cpp-10-10-0-0": {
       "baseline": "10.10.0",
       "port-version": 0
@@ -19771,6 +19775,10 @@
     "ffmpeg-4-4-15": {
       "baseline": "4.4",
       "port-version": 15
+    },
+    "ffmpeg-4-4-16": {
+      "baseline": "4.4",
+      "port-version": 16
     },
     "ffmpeg-4-4-2": {
       "baseline": "4.4",
