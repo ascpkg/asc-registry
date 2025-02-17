@@ -60980,6 +60980,10 @@
       "baseline": "2022-06-28",
       "port-version": 2
     },
+    "rapidjson-2022-06-28-3": {
+      "baseline": "2022-06-28",
+      "port-version": 3
+    },
     "rapidjson-d87b698-0": {
       "baseline": "d87b698",
       "port-version": 0
