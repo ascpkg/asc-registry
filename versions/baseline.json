@@ -55220,6 +55220,10 @@
       "baseline": "1.4.1.1",
       "port-version": 0
     },
+    "so5extra-1-5-0-0": {
+      "baseline": "1.5.0",
+      "port-version": 0
+    },
     "sobjectizer-5-5-19-0": {
       "baseline": "5.5.19",
       "port-version": 0
@@ -55330,6 +55334,10 @@
     },
     "sobjectizer-5-7-2-6-0": {
       "baseline": "5.7.2.6",
+      "port-version": 0
+    },
+    "sobjectizer-5-7-3-0": {
+      "baseline": "5.7.3",
       "port-version": 0
     },
     "soci-0": {
