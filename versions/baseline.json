@@ -7332,6 +7332,10 @@
       "baseline": "oct2018b",
       "port-version": 0
     },
+    "directxtk12-aug2019-0": {
+      "baseline": "aug2019",
+      "port-version": 0
+    },
     "directxtk12-dec2016-0": {
       "baseline": "dec2016",
       "port-version": 0
