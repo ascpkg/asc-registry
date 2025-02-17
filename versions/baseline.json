@@ -23088,6 +23088,10 @@
       "baseline": "5.0.2",
       "port-version": 3
     },
+    "dimcli-7-1-0-0": {
+      "baseline": "7.1.0",
+      "port-version": 0
+    },
     "directx-dxc-2021-12-08-0": {
       "baseline": "2021-12-08",
       "port-version": 0
