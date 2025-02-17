@@ -78328,6 +78328,10 @@
       "baseline": "2022-09-09",
       "port-version": 0
     },
+    "stdexec-2023-03-05-0": {
+      "baseline": "2023-03-05",
+      "port-version": 0
+    },
     "stduuid-1-2-2-0": {
       "baseline": "1.2.2",
       "port-version": 0
