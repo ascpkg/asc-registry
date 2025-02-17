@@ -22656,6 +22656,10 @@
       "baseline": "3.0.7",
       "port-version": 3
     },
+    "gdcm-3-0-7-4": {
+      "baseline": "3.0.7",
+      "port-version": 4
+    },
     "gdcm2-2-6-7-0": {
       "baseline": "2.6.7",
       "port-version": 0
