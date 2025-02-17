@@ -1440,6 +1440,10 @@
       "baseline": "0.15.6",
       "port-version": 0
     },
+    "caf-0-15-7-0": {
+      "baseline": "0.15.7",
+      "port-version": 0
+    },
     "caffe2-0-8-1-0": {
       "baseline": "0.8.1",
       "port-version": 0
@@ -3118,6 +3122,10 @@
     },
     "gdcm2-2-8-4-0": {
       "baseline": "2.8.4",
+      "port-version": 0
+    },
+    "gdcm2-2-8-5-0": {
+      "baseline": "2.8.5",
       "port-version": 0
     },
     "gdk-pixbuf-2-36-3-0": {
