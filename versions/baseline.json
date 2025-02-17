@@ -9456,6 +9456,10 @@
       "baseline": "2.2.2-1",
       "port-version": 0
     },
+    "gherkin-c-2019-10-07-0": {
+      "baseline": "2019-10-07",
+      "port-version": 0
+    },
     "gherkin-c-4-1-2-0": {
       "baseline": "4.1.2",
       "port-version": 0
