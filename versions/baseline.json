@@ -20384,6 +20384,10 @@
       "baseline": "5.5.1",
       "port-version": 0
     },
+    "cgal-5-5-2-0": {
+      "baseline": "5.5.2",
+      "port-version": 0
+    },
     "cgicc--0": {
       "baseline": "",
       "port-version": 0
@@ -21803,6 +21807,10 @@
     "colmap-2023-03-12-0": {
       "baseline": "2023-03-12",
       "port-version": 0
+    },
+    "colmap-2023-03-12-1": {
+      "baseline": "2023-03-12",
+      "port-version": 1
     },
     "colmap-3-6-0": {
       "baseline": "3.6",
