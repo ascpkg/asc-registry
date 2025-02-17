@@ -26036,6 +26036,10 @@
       "baseline": "2.3.0",
       "port-version": 3
     },
+    "libidn2-2-3-0-4": {
+      "baseline": "2.3.0",
+      "port-version": 4
+    },
     "libigl-2-1-0-1-0": {
       "baseline": "2.1.0-1",
       "port-version": 0

@@ -1,0 +1,7 @@
+old = "libidn2"
+new = "libidn2-2-3-0-4"
+
+[deps]
+libiconv-1-16-8 = "libiconv"
+libunistring-0-9-10-0 = "libunistring"
+vcpkg-cmake-2021-06-25-5 = "vcpkg-cmake"
