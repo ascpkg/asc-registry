@@ -64868,6 +64868,10 @@
       "baseline": "6.2.0",
       "port-version": 2
     },
+    "qwt-6-2-0-20220616-0": {
+      "baseline": "6.2.0+20220616",
+      "port-version": 0
+    },
     "qwt-qt6-6-2-0-0": {
       "baseline": "6.2.0",
       "port-version": 0
@@ -75643,6 +75647,10 @@
     "vcpkg-qmake-2022-05-10-1": {
       "baseline": "2022-05-10",
       "port-version": 1
+    },
+    "vcpkg-qmake-2022-11-16-0": {
+      "baseline": "2022-11-16",
+      "port-version": 0
     },
     "vcpkg-tool-bazel-5-2-0-0": {
       "baseline": "5.2.0",

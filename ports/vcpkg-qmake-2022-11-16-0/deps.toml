@@ -1,0 +1,7 @@
+old = "vcpkg-qmake"
+new = "vcpkg-qmake-2022-11-16-0"
+
+[deps]
+pkgconf-1-8-0-3 = "pkgconf"
+qtbase-6-3-2-3 = "qtbase"
+vcpkg-cmake-get-vars-2022-09-04-0 = "vcpkg-cmake-get-vars"
