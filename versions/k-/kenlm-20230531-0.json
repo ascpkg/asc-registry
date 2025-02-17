@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/kenlm-20230531-0",
+      "version": "20230531",
+      "port-version": 0
+    }
+  ]
+}

@@ -43472,6 +43472,10 @@
       "baseline": "20200924",
       "port-version": 4
     },
+    "kenlm-20230531-0": {
+      "baseline": "20230531",
+      "port-version": 0
+    },
     "keystone-0-9-1-0": {
       "baseline": "0.9.1",
       "port-version": 0
