@@ -51164,6 +51164,10 @@
       "baseline": "0.19.4",
       "port-version": 0
     },
+    "libdatachannel-0-19-4-1": {
+      "baseline": "0.19.4",
+      "port-version": 1
+    },
     "libdatachannel-v0-10-1-0": {
       "baseline": "v0.10.1",
       "port-version": 0
@@ -99183,6 +99187,10 @@
     "usrsctp-0-9-5-0-2": {
       "baseline": "0.9.5.0",
       "port-version": 2
+    },
+    "usrsctp-0-9-5-0-3": {
+      "baseline": "0.9.5.0",
+      "port-version": 3
     },
     "usrsctp-0db9691-0": {
       "baseline": "0db9691",
