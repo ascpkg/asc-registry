@@ -436,6 +436,10 @@
       "baseline": "20240116.1",
       "port-version": 0
     },
+    "abseil-20240116-1-1": {
+      "baseline": "20240116.1",
+      "port-version": 1
+    },
     "absent-0-3-0-0": {
       "baseline": "0.3.0",
       "port-version": 0
@@ -7099,6 +7103,10 @@
     "benchmark-1-8-3-2": {
       "baseline": "1.8.3",
       "port-version": 2
+    },
+    "benchmark-1-8-3-3": {
+      "baseline": "1.8.3",
+      "port-version": 3
     },
     "bento4-1-5-1-628-0": {
       "baseline": "1.5.1-628",
@@ -24212,6 +24220,10 @@
       "baseline": "2023.05.08.00",
       "port-version": 1
     },
+    "cachelib-2023-05-08-00-2": {
+      "baseline": "2023.05.08.00",
+      "port-version": 2
+    },
     "caf-0-15-6-0": {
       "baseline": "0.15.6",
       "port-version": 0
@@ -37948,6 +37960,10 @@
       "baseline": "10.2.1",
       "port-version": 1
     },
+    "fmt-10-2-1-2": {
+      "baseline": "10.2.1",
+      "port-version": 2
+    },
     "fmt-3-0-0-0": {
       "baseline": "3.0.0",
       "port-version": 0
@@ -44188,6 +44204,10 @@
       "baseline": "1.51.1",
       "port-version": 2
     },
+    "grpc-1-51-1-3": {
+      "baseline": "1.51.1",
+      "port-version": 3
+    },
     "grpc-1-6-0-0": {
       "baseline": "1.6.0",
       "port-version": 0
@@ -44643,6 +44663,10 @@
     "gtest-1-14-0-0": {
       "baseline": "1.14.0",
       "port-version": 0
+    },
+    "gtest-1-14-0-1": {
+      "baseline": "1.14.0",
+      "port-version": 1
     },
     "gtest-1-8-0": {
       "baseline": "1.8",
@@ -49316,6 +49340,10 @@
       "baseline": "4.1.0",
       "port-version": 4
     },
+    "json-spirit-4-1-0-5": {
+      "baseline": "4.1.0",
+      "port-version": 5
+    },
     "json11-2017-06-20-0": {
       "baseline": "2017-06-20",
       "port-version": 0
@@ -49595,6 +49623,10 @@
     "jsoncpp-1-9-5-3": {
       "baseline": "1.9.5",
       "port-version": 3
+    },
+    "jsoncpp-1-9-5-4": {
+      "baseline": "1.9.5",
+      "port-version": 4
     },
     "jsonifier-0-9-0-0": {
       "baseline": "0.9.0",
@@ -79880,6 +79912,10 @@
       "baseline": "3.21.12",
       "port-version": 1
     },
+    "protobuf-3-21-12-2": {
+      "baseline": "3.21.12",
+      "port-version": 2
+    },
     "protobuf-3-21-2-0": {
       "baseline": "3.21.2",
       "port-version": 0
@@ -86192,6 +86228,10 @@
       "baseline": "5.15.13",
       "port-version": 1
     },
+    "qt5-winextras-5-15-13-2": {
+      "baseline": "5.15.13",
+      "port-version": 2
+    },
     "qt5-winextras-5-15-2-0": {
       "baseline": "5.15.2",
       "port-version": 0
@@ -89684,6 +89724,10 @@
       "baseline": "6.6.1",
       "port-version": 1
     },
+    "qttools-6-6-1-2": {
+      "baseline": "6.6.1",
+      "port-version": 2
+    },
     "qttranslations-6-1-0-0": {
       "baseline": "6.1.0",
       "port-version": 0
@@ -90919,6 +90963,10 @@
     "range-v3-0-12-0-1": {
       "baseline": "0.12.0",
       "port-version": 1
+    },
+    "range-v3-0-12-0-2": {
+      "baseline": "0.12.0",
+      "port-version": 2
     },
     "range-v3-0-3-5-0": {
       "baseline": "0.3.5",
@@ -97903,6 +97951,10 @@
     "spdlog-1-13-0-0": {
       "baseline": "1.13.0",
       "port-version": 0
+    },
+    "spdlog-1-13-0-1": {
+      "baseline": "1.13.0",
+      "port-version": 1
     },
     "spdlog-1-2-0-0": {
       "baseline": "1.2.0",

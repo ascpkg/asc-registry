@@ -1,0 +1,6 @@
+old = "range-v3"
+new = "range-v3-0-12-0-2"
+
+[deps]
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
