@@ -1,0 +1,7 @@
+old = "nettle"
+new = "nettle-3-10-1"
+
+[deps]
+gmp-6-3-0-0 = "gmp"
+nettle-3-10-1 = "nettle"
+vcpkg-cmake-get-vars-2024-09-22-0 = "vcpkg-cmake-get-vars"

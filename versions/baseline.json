@@ -77356,6 +77356,10 @@
       "baseline": "3.10",
       "port-version": 0
     },
+    "nettle-3-10-1": {
+      "baseline": "3.10",
+      "port-version": 1
+    },
     "nettle-3-5-1-0": {
       "baseline": "3.5.1",
       "port-version": 0
@@ -106655,6 +106659,10 @@
     "shiftmedia-libgnutls-3-8-4-3": {
       "baseline": "3.8.4",
       "port-version": 3
+    },
+    "shiftmedia-libgnutls-3-8-7-0": {
+      "baseline": "3.8.7",
+      "port-version": 0
     },
     "shiftmedia-libgpg-error-1-45-0": {
       "baseline": "1.45",
