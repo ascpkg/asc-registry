@@ -47380,6 +47380,10 @@
       "baseline": "0.9.0",
       "port-version": 0
     },
+    "libraqm-0-9-0-1": {
+      "baseline": "0.9.0",
+      "port-version": 1
+    },
     "libraw-0-17-2-0": {
       "baseline": "0.17.2",
       "port-version": 0
