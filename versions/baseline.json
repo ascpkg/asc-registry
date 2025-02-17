@@ -11460,6 +11460,10 @@
       "baseline": "sept2020",
       "port-version": 1
     },
+    "directxtex-sept2020-2": {
+      "baseline": "sept2020",
+      "port-version": 2
+    },
     "directxtk-2019-12-31-0": {
       "baseline": "2019-12-31",
       "port-version": 0
