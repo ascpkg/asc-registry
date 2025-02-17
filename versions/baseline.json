@@ -14916,6 +14916,10 @@
       "baseline": "3.6",
       "port-version": 1
     },
+    "colmap-3-6-2": {
+      "baseline": "3.6",
+      "port-version": 2
+    },
     "comms-3-1-1-0": {
       "baseline": "3.1.1",
       "port-version": 0
@@ -34115,6 +34119,10 @@
     "libraw-201903-6": {
       "baseline": "201903",
       "port-version": 6
+    },
+    "libraw-201903-7": {
+      "baseline": "201903",
+      "port-version": 7
     },
     "librdkafka-1-1-0-0": {
       "baseline": "1.1.0",
