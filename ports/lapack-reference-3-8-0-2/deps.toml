@@ -3,4 +3,4 @@ new = "lapack-reference-3-8-0-2"
 
 [deps]
 openblas-0-3-9-3 = "openblas"
-vcpkg-gfortran-1-0 = "vcpkg-gfortran"
+vcpkg-gfortran-3-0 = "vcpkg-gfortran"
