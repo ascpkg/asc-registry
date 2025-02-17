@@ -1,0 +1,7 @@
+{
+  "name": "luabridge-2-8-0",
+  "version": "2.8",
+  "description": "A lightweight, dependency-free library for binding Lua to C++",
+  "homepage": "https://github.com/vinniefalco/LuaBridge",
+  "license": "MIT"
+}
