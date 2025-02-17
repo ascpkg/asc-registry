@@ -88756,6 +88756,10 @@
       "baseline": "0.5.0",
       "port-version": 2
     },
+    "vsg-1-0-5-0": {
+      "baseline": "1.0.5",
+      "port-version": 0
+    },
     "vtk-7-1-0-0": {
       "baseline": "7.1.0",
       "port-version": 0
