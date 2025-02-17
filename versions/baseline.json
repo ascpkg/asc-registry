@@ -652,6 +652,10 @@
       "baseline": "2019-12-31-2",
       "port-version": 0
     },
+    "angle-2020-05-15-0": {
+      "baseline": "2020-05-15",
+      "port-version": 0
+    },
     "antlr4-4-6-0": {
       "baseline": "4.6",
       "port-version": 0
