@@ -66420,6 +66420,10 @@
       "baseline": "1.8.0",
       "port-version": 5
     },
+    "luafilesystem-1-8-0-6": {
+      "baseline": "1.8.0",
+      "port-version": 6
+    },
     "luajit-2-0-5-0": {
       "baseline": "2.0.5",
       "port-version": 0
