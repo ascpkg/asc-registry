@@ -4740,6 +4740,10 @@
       "baseline": "6.4.0",
       "port-version": 0
     },
+    "bitmagic-7-11-2-0": {
+      "baseline": "7.11.2",
+      "port-version": 0
+    },
     "bitmagic-7-2-0-0": {
       "baseline": "7.2.0",
       "port-version": 0
