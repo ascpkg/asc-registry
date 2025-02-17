@@ -1,0 +1,7 @@
+old = "libyuv"
+new = "libyuv-2021-04-15-1"
+
+[deps]
+libjpeg-turbo-2-0-6-2 = "libjpeg-turbo"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-11-01-0 = "vcpkg-cmake-config"
