@@ -1,0 +1,5 @@
+old = "libepoxy"
+new = "libepoxy-1-5-10-0"
+
+[deps]
+vcpkg-tool-meson-0-63-0 = "vcpkg-tool-meson"
