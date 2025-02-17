@@ -1,5 +1,5 @@
-old = "angle"
-new = "angle-2019-12-31-2-0"
+old = "glad"
+new = "glad-0-1-33-1-0"
 
 [deps]
 egl-registry-2020-02-03-0 = "egl-registry"
