@@ -65344,6 +65344,10 @@
       "baseline": "1.24.11",
       "port-version": 0
     },
+    "libmupdf-1-25-2-0": {
+      "baseline": "1.25.2",
+      "port-version": 0
+    },
     "libmysofa-1-3-2-0": {
       "baseline": "1.3.2",
       "port-version": 0
