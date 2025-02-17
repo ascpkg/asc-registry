@@ -24604,6 +24604,10 @@
       "baseline": "2018-08-31-2",
       "port-version": 0
     },
+    "slikenet-2019-10-22-0": {
+      "baseline": "2019-10-22",
+      "port-version": 0
+    },
     "smpeg2-2-0-0-0": {
       "baseline": "2.0.0",
       "port-version": 0

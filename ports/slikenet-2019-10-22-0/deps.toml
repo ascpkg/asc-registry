@@ -1,0 +1,5 @@
+old = "slikenet"
+new = "slikenet-2019-10-22-0"
+
+[deps]
+openssl-1-0 = "openssl"
