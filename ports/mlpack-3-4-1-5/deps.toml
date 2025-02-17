@@ -1,0 +1,15 @@
+old = "mlpack"
+new = "mlpack-3-4-1-5"
+
+[deps]
+armadillo-10-6-2-3 = "armadillo"
+boost-format-1-77-0-0 = "boost-format"
+boost-heap-1-77-0-0 = "boost-heap"
+boost-math-1-77-0-0 = "boost-math"
+boost-program-options-1-77-0-0 = "boost-program-options"
+boost-random-1-77-0-0 = "boost-random"
+boost-serialization-1-77-0-0 = "boost-serialization"
+ensmallen-2-18-1-0 = "ensmallen"
+stb-2020-09-14-1 = "stb"
+vcpkg-cmake-2021-12-05-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-01-0 = "vcpkg-cmake-config"
