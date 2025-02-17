@@ -25920,6 +25920,10 @@
       "baseline": "1.0.6",
       "port-version": 0
     },
+    "freexl-1-0-6-1": {
+      "baseline": "1.0.6",
+      "port-version": 1
+    },
     "fribidi-1-0-10-0": {
       "baseline": "1.0.10",
       "port-version": 0
