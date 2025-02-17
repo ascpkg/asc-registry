@@ -37048,6 +37048,10 @@
       "baseline": "1.6.3",
       "port-version": 1
     },
+    "libgpiod-1-6-3-2": {
+      "baseline": "1.6.3",
+      "port-version": 2
+    },
     "libgpod-2019-08-29-0": {
       "baseline": "2019-08-29",
       "port-version": 0
