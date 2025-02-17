@@ -106076,6 +106076,10 @@
       "baseline": "9.1.0",
       "port-version": 0
     },
+    "rocksdb-9-10-0-0": {
+      "baseline": "9.10.0",
+      "port-version": 0
+    },
     "rocksdb-9-2-1-0": {
       "baseline": "9.2.1",
       "port-version": 0
