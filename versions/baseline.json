@@ -60044,6 +60044,10 @@
       "baseline": "1.7.2",
       "port-version": 0
     },
+    "libunwind-1-8-0-0": {
+      "baseline": "1.8.0",
+      "port-version": 0
+    },
     "liburing-2-0-0": {
       "baseline": "2.0",
       "port-version": 0
