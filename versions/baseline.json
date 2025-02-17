@@ -64780,6 +64780,10 @@
       "baseline": "0.0",
       "port-version": 4
     },
+    "winsparkle-0-7-0-0": {
+      "baseline": "0.7.0",
+      "port-version": 0
+    },
     "wintoast-1-2-0-0": {
       "baseline": "1.2.0",
       "port-version": 0
