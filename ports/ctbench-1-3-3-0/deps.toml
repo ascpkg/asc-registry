@@ -1,0 +1,12 @@
+old = "ctbench"
+new = "ctbench-1-3-3-0"
+
+[deps]
+boost-container-1-82-0-2 = "boost-container"
+boost-process-1-82-0-2 = "boost-process"
+fmt-10-0-0-0 = "fmt"
+llvm-15-0-7-3 = "llvm"
+nlohmann-json-3-11-2-0 = "nlohmann-json"
+sciplot-0-3-1-1 = "sciplot"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
