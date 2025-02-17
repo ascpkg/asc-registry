@@ -20864,6 +20864,10 @@
       "baseline": "2016-01-09",
       "port-version": 0
     },
+    "murmurhash-2016-01-09-2-0": {
+      "baseline": "2016-01-09-2",
+      "port-version": 0
+    },
     "nameof-0-9-1-0": {
       "baseline": "0.9.1",
       "port-version": 0
