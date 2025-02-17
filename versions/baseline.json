@@ -18756,6 +18756,10 @@
       "baseline": "1.0",
       "port-version": 0
     },
+    "memorymodule-2019-12-31-0": {
+      "baseline": "2019-12-31",
+      "port-version": 0
+    },
     "meschach--0": {
       "baseline": "",
       "port-version": 0
