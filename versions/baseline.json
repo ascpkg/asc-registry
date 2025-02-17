@@ -33032,6 +33032,10 @@
       "baseline": "3.3.10",
       "port-version": 7
     },
+    "fftw3-3-3-10-8": {
+      "baseline": "3.3.10",
+      "port-version": 8
+    },
     "fftw3-3-3-6-p11-0": {
       "baseline": "3.3.6-p11",
       "port-version": 0
