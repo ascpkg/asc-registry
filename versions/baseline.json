@@ -46712,6 +46712,10 @@
       "baseline": "2022-02-09",
       "port-version": 0
     },
+    "lazy-importer-2023-08-03-0": {
+      "baseline": "2023-08-03",
+      "port-version": 0
+    },
     "lcm-1-3-95-0": {
       "baseline": "1.3.95",
       "port-version": 0
