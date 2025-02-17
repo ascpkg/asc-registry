@@ -48076,6 +48076,10 @@
       "baseline": "4.1.0",
       "port-version": 1
     },
+    "jasper-4-2-0-0": {
+      "baseline": "4.2.0",
+      "port-version": 0
+    },
     "jbig2dec-0-13-0": {
       "baseline": "0.13",
       "port-version": 0
