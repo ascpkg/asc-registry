@@ -3648,6 +3648,10 @@
       "baseline": "1.1.1",
       "port-version": 1
     },
+    "bcg729-1-1-1-2": {
+      "baseline": "1.1.1",
+      "port-version": 2
+    },
     "bddisasm-1-32-1-0": {
       "baseline": "1.32.1",
       "port-version": 0
