@@ -26876,6 +26876,10 @@
       "baseline": "8.1.2",
       "port-version": 1
     },
+    "curl-8-1-2-2": {
+      "baseline": "8.1.2",
+      "port-version": 2
+    },
     "curlpp-2018-06-15-0": {
       "baseline": "2018-06-15",
       "port-version": 0
