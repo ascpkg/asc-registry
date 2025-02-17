@@ -43944,6 +43944,10 @@
       "baseline": "1.2.2",
       "port-version": 1
     },
+    "open62541-1-2-3-0": {
+      "baseline": "1.2.3",
+      "port-version": 0
+    },
     "openal-soft-1-17-2-0": {
       "baseline": "1.17.2",
       "port-version": 0
