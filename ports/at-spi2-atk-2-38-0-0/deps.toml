@@ -1,0 +1,8 @@
+old = "at-spi2-atk"
+new = "at-spi2-atk-2-38-0-0"
+
+[deps]
+at-spi2-core-2-44-1-0 = "at-spi2-core"
+atk-2-38-0-2 = "atk"
+libxml2-2-9-14-1 = "libxml2"
+vcpkg-tool-meson-0-63-0 = "vcpkg-tool-meson"

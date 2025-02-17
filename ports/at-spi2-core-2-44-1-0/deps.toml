@@ -1,0 +1,6 @@
+old = "at-spi2-core"
+new = "at-spi2-core-2-44-1-0"
+
+[deps]
+glib-2-72-3-3 = "glib"
+vcpkg-tool-meson-0-63-0 = "vcpkg-tool-meson"
