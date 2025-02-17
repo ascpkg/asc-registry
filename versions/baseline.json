@@ -42272,9 +42272,17 @@
       "baseline": "3.4.1",
       "port-version": 1
     },
+    "gz-cmake3-3-4-1-2": {
+      "baseline": "3.4.1",
+      "port-version": 2
+    },
     "gz-common5-5-4-1-0": {
       "baseline": "5.4.1",
       "port-version": 0
+    },
+    "gz-common5-5-4-1-1": {
+      "baseline": "5.4.1",
+      "port-version": 1
     },
     "gz-fuel-tools8-8-1-0-0": {
       "baseline": "8.1.0",
