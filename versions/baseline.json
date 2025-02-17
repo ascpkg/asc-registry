@@ -68240,6 +68240,10 @@
       "baseline": "2019-10-17",
       "port-version": 4
     },
+    "pfring-8-4-0-0": {
+      "baseline": "8.4.0",
+      "port-version": 0
+    },
     "pfultz2-linq-2018-02-08-0": {
       "baseline": "2018-02-08",
       "port-version": 0
