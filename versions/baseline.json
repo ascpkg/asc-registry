@@ -46848,6 +46848,10 @@
       "baseline": "1.9.5",
       "port-version": 1
     },
+    "jsoncpp-1-9-5-2": {
+      "baseline": "1.9.5",
+      "port-version": 2
+    },
     "jsonifier-0-9-0-0": {
       "baseline": "0.9.0",
       "port-version": 0
