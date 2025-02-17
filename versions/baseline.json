@@ -31192,6 +31192,10 @@
       "baseline": "10.0.26",
       "port-version": 0
     },
+    "dpp-10-0-27-0": {
+      "baseline": "10.0.27",
+      "port-version": 0
+    },
     "draco-0-10-0-0": {
       "baseline": "0.10.0",
       "port-version": 0
