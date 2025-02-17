@@ -68392,6 +68392,10 @@
       "baseline": "1.1.5",
       "port-version": 2
     },
+    "libxlsxwriter-1-1-8-0": {
+      "baseline": "1.1.8",
+      "port-version": 0
+    },
     "libxml2-2-10-3-0": {
       "baseline": "2.10.3",
       "port-version": 0
