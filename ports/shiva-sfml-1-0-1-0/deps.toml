@@ -1,0 +1,6 @@
+old = "shiva-sfml"
+new = "shiva-sfml-1-0-1-0"
+
+[deps]
+sfml-2-5-1-7-0 = "sfml"
+shiva-1-0-3-0 = "shiva"
