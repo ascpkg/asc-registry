@@ -1,0 +1,5 @@
+old = "spdlog"
+new = "spdlog-0-14-0-0"
+
+[deps]
+fmt-4-0-0-0 = "fmt"
