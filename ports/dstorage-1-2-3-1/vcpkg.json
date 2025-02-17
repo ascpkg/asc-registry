@@ -1,0 +1,9 @@
+{
+  "name": "dstorage-1-2-3-1",
+  "version": "1.2.3",
+  "port-version": 1,
+  "description": "DirectStorage for Windows",
+  "homepage": "https://aka.ms/directstorage/",
+  "documentation": "https://github.com/microsoft/DirectStorage",
+  "supports": "windows & !arm32 & !uwp & !xbox"
+}
