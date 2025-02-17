@@ -2,6 +2,6 @@ old = "hdf5"
 new = "hdf5-1-10-0-patch1-1-0"
 
 [deps]
-msmpi-8-0-0 = "msmpi"
+msmpi-8-0-1-0 = "msmpi"
 szip-2-1-1-0 = "szip"
 zlib-1-2-11-0 = "zlib"
