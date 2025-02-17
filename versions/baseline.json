@@ -22668,6 +22668,10 @@
       "baseline": "1.16",
       "port-version": 6
     },
+    "libiconv-1-16-7": {
+      "baseline": "1.16",
+      "port-version": 7
+    },
     "libics-1-6-2-0": {
       "baseline": "1.6.2",
       "port-version": 0
