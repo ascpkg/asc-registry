@@ -6932,6 +6932,10 @@
       "baseline": "3.18.0-4",
       "port-version": 0
     },
+    "freeimage-3-18-0-5-0": {
+      "baseline": "3.18.0-5",
+      "port-version": 0
+    },
     "freeopcua-20190125-0": {
       "baseline": "20190125",
       "port-version": 0
