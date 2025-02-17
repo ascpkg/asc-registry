@@ -1,0 +1,8 @@
+old = "leveldb"
+new = "leveldb-1-22-6"
+
+[deps]
+crc32c-1-1-2-1 = "crc32c"
+snappy-1-1-9-3 = "snappy"
+vcpkg-cmake-2022-09-26-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
