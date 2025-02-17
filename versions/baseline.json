@@ -44228,6 +44228,10 @@
       "baseline": "0.4.11",
       "port-version": 1
     },
+    "sentry-native-0-4-12-0": {
+      "baseline": "0.4.12",
+      "port-version": 0
+    },
     "sentry-native-0-4-2-2": {
       "baseline": "0.4.2",
       "port-version": 2
