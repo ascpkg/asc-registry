@@ -3168,6 +3168,10 @@
       "baseline": "4.11.0",
       "port-version": 0
     },
+    "itk-4-13-0-0": {
+      "baseline": "4.13.0",
+      "port-version": 0
+    },
     "jansson-2-10-1-0": {
       "baseline": "2.10-1",
       "port-version": 0
