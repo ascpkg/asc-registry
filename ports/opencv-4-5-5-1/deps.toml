@@ -1,0 +1,5 @@
+old = "opencv"
+new = "opencv-4-5-5-1"
+
+[deps]
+opencv4-4-5-5-5 = "opencv4"
