@@ -1,0 +1,9 @@
+{
+  "name": "farmhash-1-1-6",
+  "version": "1.1",
+  "port-version": 6,
+  "description": "FarmHash, a family of hash functions.",
+  "homepage": "https://github.com/google/farmhash",
+  "license": "MIT",
+  "supports": "!arm"
+}
