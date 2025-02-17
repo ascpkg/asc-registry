@@ -18448,6 +18448,10 @@
       "baseline": "6.2.1",
       "port-version": 3
     },
+    "gmp-6-2-1-4": {
+      "baseline": "6.2.1",
+      "port-version": 4
+    },
     "gnusl-2-3-0": {
       "baseline": "2.3",
       "port-version": 0
