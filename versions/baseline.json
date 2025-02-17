@@ -35596,6 +35596,10 @@
       "baseline": "2.2.0",
       "port-version": 2
     },
+    "glew-2-2-0-3": {
+      "baseline": "2.2.0",
+      "port-version": 3
+    },
     "glfw3-3-1-2-0": {
       "baseline": "3.1.2",
       "port-version": 0
@@ -64079,6 +64083,10 @@
     "osgearth-3-3-6": {
       "baseline": "3.3",
       "port-version": 6
+    },
+    "osgearth-3-3-7": {
+      "baseline": "3.3",
+      "port-version": 7
     },
     "osi-0-107-9-0-0": {
       "baseline": "0.107.9-0",
