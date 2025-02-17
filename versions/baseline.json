@@ -54540,6 +54540,10 @@
       "baseline": "4.1.3",
       "port-version": 0
     },
+    "msgpack-c-6-0-0-0": {
+      "baseline": "6.0.0",
+      "port-version": 0
+    },
     "msgpack11-0-0-10-0": {
       "baseline": "0.0.10",
       "port-version": 0
