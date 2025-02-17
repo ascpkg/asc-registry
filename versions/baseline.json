@@ -70284,6 +70284,10 @@
       "baseline": "0.62.1",
       "port-version": 0
     },
+    "vcpkg-tool-meson-0-63-0": {
+      "baseline": "0.63",
+      "port-version": 0
+    },
     "vcpkg-tool-mozbuild-3-3-0": {
       "baseline": "3.3",
       "port-version": 0
