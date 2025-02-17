@@ -30240,6 +30240,10 @@
       "baseline": "2019-07-25",
       "port-version": 0
     },
+    "nnpack-2021-02-21-0": {
+      "baseline": "2021-02-21",
+      "port-version": 0
+    },
     "nonius-2019-04-20-0": {
       "baseline": "2019-04-20",
       "port-version": 0
