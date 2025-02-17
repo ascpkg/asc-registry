@@ -24024,6 +24024,10 @@
       "baseline": "1.19.2",
       "port-version": 0
     },
+    "gstreamer-1-19-2-1": {
+      "baseline": "1.19.2",
+      "port-version": 1
+    },
     "gtest-1-10-0-0": {
       "baseline": "1.10.0",
       "port-version": 0
