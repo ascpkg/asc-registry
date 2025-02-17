@@ -56940,6 +56940,10 @@
       "baseline": "2.2.0",
       "port-version": 1
     },
+    "kdstatemachineeditor-2-0-0-0": {
+      "baseline": "2.0.0",
+      "port-version": 0
+    },
     "kealib-1-4-11-0": {
       "baseline": "1.4.11",
       "port-version": 0
