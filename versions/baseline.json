@@ -30620,6 +30620,10 @@
       "baseline": "2.4.6",
       "port-version": 0
     },
+    "nccl-2-4-6-1": {
+      "baseline": "2.4.6",
+      "port-version": 1
+    },
     "ncurses-6-2-0": {
       "baseline": "6.2",
       "port-version": 0
