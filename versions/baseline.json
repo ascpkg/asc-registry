@@ -2944,6 +2944,10 @@
       "baseline": "2.9.2",
       "port-version": 0
     },
+    "asio-grpc-2-9-3-0": {
+      "baseline": "2.9.3",
+      "port-version": 0
+    },
     "asiochan-2022-11-25-0": {
       "baseline": "2022-11-25",
       "port-version": 0
