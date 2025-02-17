@@ -1,0 +1,6 @@
+old = "libsrt"
+new = "libsrt-1-3-4-0"
+
+[deps]
+openssl-1-0 = "openssl"
+pthreads-3-0-0-3-0 = "pthreads"

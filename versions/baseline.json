@@ -15700,6 +15700,10 @@
       "baseline": "1.15-2",
       "port-version": 0
     },
+    "libsrt-1-3-4-0": {
+      "baseline": "1.3.4",
+      "port-version": 0
+    },
     "libsrtp-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
