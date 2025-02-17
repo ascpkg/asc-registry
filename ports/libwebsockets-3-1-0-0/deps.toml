@@ -1,0 +1,6 @@
+old = "libwebsockets"
+new = "libwebsockets-3-1-0-0"
+
+[deps]
+openssl-0-0 = "openssl"
+zlib-1-2-11-3-0 = "zlib"
