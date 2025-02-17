@@ -36448,6 +36448,10 @@
       "baseline": "6.2.1",
       "port-version": 17
     },
+    "gmp-6-2-1-18": {
+      "baseline": "6.2.1",
+      "port-version": 18
+    },
     "gmp-6-2-1-2-0": {
       "baseline": "6.2.1-2",
       "port-version": 0
