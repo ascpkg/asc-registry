@@ -7692,6 +7692,10 @@
       "baseline": "2020-04-07",
       "port-version": 1
     },
+    "boringssl-2020-04-07-2": {
+      "baseline": "2020-04-07",
+      "port-version": 2
+    },
     "botan-2-0-1-0": {
       "baseline": "2.0.1",
       "port-version": 0
