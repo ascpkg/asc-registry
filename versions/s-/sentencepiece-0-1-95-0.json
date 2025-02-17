@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/sentencepiece-0-1-95-0",
+      "version": "0.1.95",
+      "port-version": 0
+    }
+  ]
+}
