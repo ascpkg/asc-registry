@@ -10512,6 +10512,10 @@
       "baseline": "1.17.6",
       "port-version": 0
     },
+    "clrng-2020-12-01-0": {
+      "baseline": "2020-12-01",
+      "port-version": 0
+    },
     "clue-1-0-0-alpha-7-0": {
       "baseline": "1.0.0-alpha.7",
       "port-version": 0
