@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/fluidsynth-2-3-2-1",
+      "version": "2.3.2",
+      "port-version": 1
+    }
+  ]
+}
