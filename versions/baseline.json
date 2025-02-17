@@ -1088,6 +1088,10 @@
       "baseline": "4.3.15",
       "port-version": 1
     },
+    "amqpcpp-4-3-19-0": {
+      "baseline": "4.3.19",
+      "port-version": 0
+    },
     "anax-2-1-0-0": {
       "baseline": "2.1.0",
       "port-version": 0
