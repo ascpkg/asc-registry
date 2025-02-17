@@ -1,0 +1,6 @@
+old = "nana"
+new = "nana-1-5-3-0"
+
+[deps]
+libjpeg-turbo-1-5-1-1-0 = "libjpeg-turbo"
+libpng-1-6-29-2-0 = "libpng"

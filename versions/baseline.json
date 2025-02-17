@@ -1992,6 +1992,10 @@
       "baseline": "1.5.1-hotfix-42f8985",
       "port-version": 0
     },
+    "nana-1-5-3-0": {
+      "baseline": "1.5.3",
+      "port-version": 0
+    },
     "nanodbc-2-12-4-0": {
       "baseline": "2.12.4",
       "port-version": 0
