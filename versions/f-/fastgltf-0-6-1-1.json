@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/fastgltf-0-6-1-1",
+      "version": "0.6.1",
+      "port-version": 1
+    }
+  ]
+}
