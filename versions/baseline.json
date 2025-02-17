@@ -84532,6 +84532,10 @@
       "baseline": "2.6.0",
       "port-version": 17
     },
+    "sfml-2-6-0-18": {
+      "baseline": "2.6.0",
+      "port-version": 18
+    },
     "sfsexp-1-3-0": {
       "baseline": "1.3",
       "port-version": 0
