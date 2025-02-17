@@ -1,0 +1,6 @@
+old = "luafilesystem"
+new = "luafilesystem-1-8-0-5"
+
+[deps]
+lua-5-4-6-0 = "lua"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
