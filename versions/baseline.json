@@ -42156,6 +42156,10 @@
       "baseline": "1.89.6",
       "port-version": 1
     },
+    "imgui-1-89-7-0": {
+      "baseline": "1.89.7",
+      "port-version": 0
+    },
     "imgui-sfml-2-0-2-0": {
       "baseline": "2.0.2",
       "port-version": 0
@@ -42251,6 +42255,10 @@
     "implot-0-14-1": {
       "baseline": "0.14",
       "port-version": 1
+    },
+    "implot-0-14-2": {
+      "baseline": "0.14",
+      "port-version": 2
     },
     "implot-0-3-1-0": {
       "baseline": "0.3-1",
