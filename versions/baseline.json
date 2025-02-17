@@ -92772,6 +92772,10 @@
       "baseline": "10.0.0",
       "port-version": 3
     },
+    "sdformat10-10-0-0-4": {
+      "baseline": "10.0.0",
+      "port-version": 4
+    },
     "sdformat13-13-5-0-0": {
       "baseline": "13.5.0",
       "port-version": 0
@@ -92807,6 +92811,10 @@
     "sdformat6-6-2-0-6": {
       "baseline": "6.2.0",
       "port-version": 6
+    },
+    "sdformat6-6-2-0-7": {
+      "baseline": "6.2.0",
+      "port-version": 7
     },
     "sdformat9-9-2-0-0": {
       "baseline": "9.2.0",
@@ -92851,6 +92859,10 @@
     "sdformat9-9-8-0-1": {
       "baseline": "9.8.0",
       "port-version": 1
+    },
+    "sdformat9-9-8-0-2": {
+      "baseline": "9.8.0",
+      "port-version": 2
     },
     "sdl1-1-2-15-10-0": {
       "baseline": "1.2.15-10",
