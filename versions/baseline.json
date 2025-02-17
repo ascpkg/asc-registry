@@ -27832,6 +27832,10 @@
       "baseline": "apr2019",
       "port-version": 0
     },
+    "uvatlas-dec2019-0": {
+      "baseline": "dec2019",
+      "port-version": 0
+    },
     "uvatlas-sept2016-0": {
       "baseline": "sept2016",
       "port-version": 0
