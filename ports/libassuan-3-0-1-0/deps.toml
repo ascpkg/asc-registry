@@ -1,0 +1,7 @@
+old = "libassuan"
+new = "libassuan-3-0-1-0"
+
+[deps]
+libassuan-3-0-1-0 = "libassuan"
+libgpg-error-1-51-0 = "libgpg-error"
+vcpkg-make-2024-12-27-0 = "vcpkg-make"
