@@ -11664,6 +11664,10 @@
       "baseline": "4.1.3-2",
       "port-version": 0
     },
+    "kangaru-4-2-0-0": {
+      "baseline": "4.2.0",
+      "port-version": 0
+    },
     "kd-soap-1-7-0-0": {
       "baseline": "1.7.0",
       "port-version": 0
