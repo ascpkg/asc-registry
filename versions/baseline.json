@@ -424,6 +424,10 @@
       "baseline": "1.1-2",
       "port-version": 0
     },
+    "lcms-2-8-0": {
+      "baseline": "2.8",
+      "port-version": 0
+    },
     "libbson-1-4-2-0": {
       "baseline": "1.4.2",
       "port-version": 0
