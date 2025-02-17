@@ -73464,6 +73464,10 @@
       "baseline": "1.18.2",
       "port-version": 1
     },
+    "lwlog-1-3-0-0": {
+      "baseline": "1.3.0",
+      "port-version": 0
+    },
     "lz4-1-10-0-0": {
       "baseline": "1.10.0",
       "port-version": 0
