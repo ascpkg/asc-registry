@@ -23380,6 +23380,10 @@
       "baseline": "0.98.1",
       "port-version": 4
     },
+    "libb2-0-98-1-5": {
+      "baseline": "0.98.1",
+      "port-version": 5
+    },
     "libbacktrace-2021-03-14-0": {
       "baseline": "2021-03-14",
       "port-version": 0
