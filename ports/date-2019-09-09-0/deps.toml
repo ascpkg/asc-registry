@@ -1,0 +1,5 @@
+old = "date"
+new = "date-2019-09-09-0"
+
+[deps]
+curl-7-65-2-1-0 = "curl"
