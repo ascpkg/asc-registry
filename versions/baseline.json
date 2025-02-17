@@ -36008,6 +36008,10 @@
       "baseline": "2.1.0",
       "port-version": 2
     },
+    "miniz-2-2-0-0": {
+      "baseline": "2.2.0",
+      "port-version": 0
+    },
     "minizip-1-2-11-0": {
       "baseline": "1.2.11",
       "port-version": 0
