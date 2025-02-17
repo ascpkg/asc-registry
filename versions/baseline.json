@@ -17788,6 +17788,10 @@
       "baseline": "1.16-2",
       "port-version": 0
     },
+    "libiconv-1-16-3-0": {
+      "baseline": "1.16-3",
+      "port-version": 0
+    },
     "libics-1-6-2-0": {
       "baseline": "1.6.2",
       "port-version": 0
@@ -34882,6 +34886,10 @@
     },
     "zxing-cpp-3-3-3-6-0": {
       "baseline": "3.3.3-6",
+      "port-version": 0
+    },
+    "zxing-cpp-3-3-3-7-0": {
+      "baseline": "3.3.3-7",
       "port-version": 0
     },
     "zydis-2-0-3-0": {
