@@ -117516,6 +117516,10 @@
       "baseline": "2023-12-17",
       "port-version": 0
     },
+    "vulkan-extensionlayer-1-3-296-0-0": {
+      "baseline": "1.3.296.0",
+      "port-version": 0
+    },
     "vulkan-headers-1-2-157-0": {
       "baseline": "1.2.157",
       "port-version": 0
