@@ -1,0 +1,11 @@
+old = "aws-c-s3"
+new = "aws-c-s3-0-7-7-0"
+
+[deps]
+aws-c-auth-0-8-0-0 = "aws-c-auth"
+aws-c-http-0-9-2-0 = "aws-c-http"
+aws-c-sdkutils-0-2-1-0 = "aws-c-sdkutils"
+aws-checksums-0-2-2-0 = "aws-checksums"
+s2n-1-5-9-0 = "s2n"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
