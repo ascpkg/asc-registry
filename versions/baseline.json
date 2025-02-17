@@ -3528,6 +3528,10 @@
       "baseline": "2.2.4-3",
       "port-version": 0
     },
+    "libgit2-0-26-0-0": {
+      "baseline": "0.26.0",
+      "port-version": 0
+    },
     "libgsl-2-3-0": {
       "baseline": "2.3",
       "port-version": 0
