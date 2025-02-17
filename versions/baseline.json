@@ -9488,6 +9488,10 @@
       "baseline": "0.7.0-1",
       "port-version": 0
     },
+    "evpp-0-7-0-2-0": {
+      "baseline": "0.7.0-2",
+      "port-version": 0
+    },
     "exiv2-0-27-0": {
       "baseline": "0.27",
       "port-version": 0
@@ -14166,6 +14170,10 @@
     },
     "libevent-2-1-11-0": {
       "baseline": "2.1.11",
+      "port-version": 0
+    },
+    "libevent-2-1-11-1-0": {
+      "baseline": "2.1.11-1",
       "port-version": 0
     },
     "libevent-2-1-8-0": {
