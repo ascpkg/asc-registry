@@ -51736,8 +51736,16 @@
       "baseline": "0",
       "port-version": 1
     },
+    "readline-0-2": {
+      "baseline": "0",
+      "port-version": 2
+    },
     "readline-5-0-1-0": {
       "baseline": "5.0-1",
+      "port-version": 0
+    },
+    "readline-osx-8-1-0": {
+      "baseline": "8.1",
       "port-version": 0
     },
     "readline-win32-5-0-2-0": {
