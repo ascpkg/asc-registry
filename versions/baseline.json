@@ -52868,6 +52868,10 @@
       "baseline": "4.3.0",
       "port-version": 1
     },
+    "nanobench-4-3-10-0": {
+      "baseline": "4.3.10",
+      "port-version": 0
+    },
     "nanobench-4-3-6-0": {
       "baseline": "4.3.6",
       "port-version": 0
