@@ -47692,6 +47692,10 @@
       "baseline": "1.8.18",
       "port-version": 0
     },
+    "hdr-histogram-0-11-8-0": {
+      "baseline": "0.11.8",
+      "port-version": 0
+    },
     "healpix-1-12-10-0": {
       "baseline": "1.12.10",
       "port-version": 0
