@@ -20520,6 +20520,10 @@
       "baseline": "0.14.0",
       "port-version": 3
     },
+    "libass-0-14-0-4": {
+      "baseline": "0.14.0",
+      "port-version": 4
+    },
     "libb2-0-98-1-0": {
       "baseline": "0.98.1",
       "port-version": 0
