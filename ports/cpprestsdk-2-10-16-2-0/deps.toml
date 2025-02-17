@@ -1,0 +1,12 @@
+old = "cpprestsdk"
+new = "cpprestsdk-2-10-16-2-0"
+
+[deps]
+boost-date-time-1-73-0-0 = "boost-date-time"
+boost-regex-1-73-0-0 = "boost-regex"
+boost-system-1-73-0-0 = "boost-system"
+brotli-1-0-7-1-0 = "brotli"
+cpprestsdk-2-10-16-2-0 = "cpprestsdk"
+openssl-1-1-1d-0 = "openssl"
+websocketpp-0-8-2-0 = "websocketpp"
+zlib-1-2-11-6-0 = "zlib"
