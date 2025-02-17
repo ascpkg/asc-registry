@@ -25756,6 +25756,10 @@
       "baseline": "3.12.2",
       "port-version": 3
     },
+    "embree3-3-13-5-0": {
+      "baseline": "3.13.5",
+      "port-version": 0
+    },
     "embree3-3-2-0-1-0": {
       "baseline": "3.2.0-1",
       "port-version": 0
