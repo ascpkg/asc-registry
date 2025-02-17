@@ -5100,6 +5100,10 @@
       "baseline": "1.0.0-beta.7",
       "port-version": 0
     },
+    "azure-core-amqp-cpp-1-0-0-beta-8-0": {
+      "baseline": "1.0.0-beta.8",
+      "port-version": 0
+    },
     "azure-core-cpp-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
@@ -5188,6 +5192,10 @@
       "baseline": "1.11.2",
       "port-version": 0
     },
+    "azure-core-cpp-1-11-3-0": {
+      "baseline": "1.11.3",
+      "port-version": 0
+    },
     "azure-core-cpp-1-2-0-0": {
       "baseline": "1.2.0",
       "port-version": 0
@@ -5274,6 +5282,10 @@
     },
     "azure-data-tables-cpp-1-0-0-beta-1-0": {
       "baseline": "1.0.0-beta.1",
+      "port-version": 0
+    },
+    "azure-data-tables-cpp-1-0-0-beta-2-0": {
+      "baseline": "1.0.0-beta.2",
       "port-version": 0
     },
     "azure-identity-cpp-1-0-0-0": {
@@ -5654,6 +5666,10 @@
     },
     "azure-messaging-eventhubs-cpp-1-0-0-beta-6-0": {
       "baseline": "1.0.0-beta.6",
+      "port-version": 0
+    },
+    "azure-messaging-eventhubs-cpp-1-0-0-beta-7-0": {
+      "baseline": "1.0.0-beta.7",
       "port-version": 0
     },
     "azure-security-attestation-cpp-1-0-0-0": {
