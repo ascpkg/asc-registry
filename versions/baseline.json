@@ -15480,6 +15480,10 @@
       "baseline": "2019-02-27",
       "port-version": 0
     },
+    "nngpp-2019-07-25-0": {
+      "baseline": "2019-07-25",
+      "port-version": 0
+    },
     "nonius-2019-04-20-0": {
       "baseline": "2019-04-20",
       "port-version": 0
