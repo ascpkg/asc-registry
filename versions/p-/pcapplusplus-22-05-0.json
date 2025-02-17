@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/pcapplusplus-22-05-0",
+      "version-string": "22.05",
+      "port-version": 0
+    }
+  ]
+}
