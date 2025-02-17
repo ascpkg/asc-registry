@@ -15736,6 +15736,10 @@
       "baseline": "3.22.2-2",
       "port-version": 0
     },
+    "gtkmm-3-22-2-4": {
+      "baseline": "3.22.2",
+      "port-version": 4
+    },
     "gts-0-7-6-0": {
       "baseline": "0.7.6",
       "port-version": 0
