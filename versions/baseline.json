@@ -96568,6 +96568,10 @@
       "baseline": "3.0.2",
       "port-version": 0
     },
+    "rapidfuzz-3-0-4-0": {
+      "baseline": "3.0.4",
+      "port-version": 0
+    },
     "rapidhash-2024-06-08-0": {
       "baseline": "2024-06-08",
       "port-version": 0
