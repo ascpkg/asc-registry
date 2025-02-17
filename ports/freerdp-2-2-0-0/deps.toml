@@ -1,0 +1,7 @@
+old = "freerdp"
+new = "freerdp-2-2-0-0"
+
+[deps]
+glib-2-52-3-14-7-0 = "glib"
+libusb-1-0-23-3 = "libusb"
+openssl-1-1-1g-1 = "openssl"
