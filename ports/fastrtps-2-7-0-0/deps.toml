@@ -1,0 +1,11 @@
+old = "fastrtps"
+new = "fastrtps-2-7-0-0"
+
+[deps]
+asio-1-22-1-0 = "asio"
+fastcdr-1-0-15-1 = "fastcdr"
+foonathan-memory-2019-07-21-2 = "foonathan-memory"
+openssl-3-0-5-0 = "openssl"
+tinyxml2-9-0-0-1 = "tinyxml2"
+vcpkg-cmake-2022-07-02-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
