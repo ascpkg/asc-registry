@@ -1,0 +1,6 @@
+old = "egl"
+new = "egl-2022-09-20-0"
+
+[deps]
+angle-chromium-4472-6 = "angle"
+opengl-2022-10-08-0 = "opengl"
