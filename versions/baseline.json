@@ -4072,6 +4072,10 @@
       "baseline": "1.8.2",
       "port-version": 0
     },
+    "azure-core-cpp-1-9-0-0": {
+      "baseline": "1.9.0",
+      "port-version": 0
+    },
     "azure-core-tracing-opentelemetry-cpp-1-0-0-beta-2-0": {
       "baseline": "1.0.0-beta.2",
       "port-version": 0
@@ -4130,6 +4134,10 @@
     },
     "azure-identity-cpp-1-4-0-0": {
       "baseline": "1.4.0",
+      "port-version": 0
+    },
+    "azure-identity-cpp-1-5-0-0": {
+      "baseline": "1.5.0",
       "port-version": 0
     },
     "azure-iot-sdk-c-1-0-0-pre-release-1-0-9-0": {
@@ -4422,6 +4430,10 @@
     },
     "azure-security-keyvault-administration-cpp-4-0-0-beta-2-0": {
       "baseline": "4.0.0-beta.2",
+      "port-version": 0
+    },
+    "azure-security-keyvault-administration-cpp-4-0-0-beta-3-0": {
+      "baseline": "4.0.0-beta.3",
       "port-version": 0
     },
     "azure-security-keyvault-certificates-cpp-4-0-0-0": {
