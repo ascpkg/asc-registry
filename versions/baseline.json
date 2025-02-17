@@ -40480,6 +40480,10 @@
       "baseline": "1.0.8",
       "port-version": 5
     },
+    "libde265-1-0-8-6": {
+      "baseline": "1.0.8",
+      "port-version": 6
+    },
     "libdisasm-0-23-0": {
       "baseline": "0.23",
       "port-version": 0
