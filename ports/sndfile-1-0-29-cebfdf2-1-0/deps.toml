@@ -1,0 +1,7 @@
+old = "sndfile"
+new = "sndfile-1-0-29-cebfdf2-1-0"
+
+[deps]
+libflac-1-3-2-6-0 = "libflac"
+libogg-1-3-3-1-0 = "libogg"
+libvorbis-1-3-6-9eadecc-1-0 = "libvorbis"
