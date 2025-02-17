@@ -61596,6 +61596,10 @@
       "baseline": "11.2.0",
       "port-version": 1
     },
+    "nowide-11-3-0-0": {
+      "baseline": "11.3.0",
+      "port-version": 0
+    },
     "nowide-alias-0": {
       "baseline": "alias",
       "port-version": 0
