@@ -48800,6 +48800,10 @@
       "baseline": "2.69",
       "port-version": 0
     },
+    "libcap-2-69-1": {
+      "baseline": "2.69",
+      "port-version": 1
+    },
     "libcbor-0-10-2-0": {
       "baseline": "0.10.2",
       "port-version": 0
