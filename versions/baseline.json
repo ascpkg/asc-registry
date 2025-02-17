@@ -1376,6 +1376,10 @@
       "baseline": "3.0.5-rc3",
       "port-version": 0
     },
+    "cartographer-0-3-0-3-0": {
+      "baseline": "0.3.0-3",
+      "port-version": 0
+    },
     "catch-1-10-0-0": {
       "baseline": "1.10.0",
       "port-version": 0
