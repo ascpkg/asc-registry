@@ -9944,6 +9944,10 @@
       "baseline": "3.4.3-2",
       "port-version": 0
     },
+    "opencv-3-4-3-3-0": {
+      "baseline": "3.4.3-3",
+      "port-version": 0
+    },
     "openexr-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
