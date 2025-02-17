@@ -21868,6 +21868,10 @@
       "baseline": "25821e6d74fab5fcc200fe5e818362e03e114428",
       "port-version": 0
     },
+    "munit-2019-04-06-0": {
+      "baseline": "2019-04-06",
+      "port-version": 0
+    },
     "muparser-2-2-6-1-0": {
       "baseline": "2.2.6.1",
       "port-version": 0
