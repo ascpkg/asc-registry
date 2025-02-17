@@ -31164,6 +31164,10 @@
       "baseline": "2023-12-31",
       "port-version": 0
     },
+    "directxmath-2024-02-14-0": {
+      "baseline": "2024-02-14",
+      "port-version": 0
+    },
     "directxmath-3-1-6-0": {
       "baseline": "3.1.6",
       "port-version": 0
