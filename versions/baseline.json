@@ -1160,6 +1160,10 @@
       "baseline": "1.7.0",
       "port-version": 5
     },
+    "apr-1-7-0-6": {
+      "baseline": "1.7.0",
+      "port-version": 6
+    },
     "apr-util-1-6-0-0": {
       "baseline": "1.6.0",
       "port-version": 0
