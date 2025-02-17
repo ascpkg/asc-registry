@@ -32268,6 +32268,10 @@
       "baseline": "3.11",
       "port-version": 0
     },
+    "elfio-3-12-0": {
+      "baseline": "3.12",
+      "port-version": 0
+    },
     "elfio-3-8-0": {
       "baseline": "3.8",
       "port-version": 0
