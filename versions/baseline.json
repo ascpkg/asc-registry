@@ -14276,6 +14276,10 @@
       "baseline": "1.2.0-1",
       "port-version": 0
     },
+    "librdkafka-1-2-0-2-0": {
+      "baseline": "1.2.0-2",
+      "port-version": 0
+    },
     "librdkafka-2019-04-16-0": {
       "baseline": "2019-04-16",
       "port-version": 0
