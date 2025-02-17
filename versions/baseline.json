@@ -10376,6 +10376,10 @@
       "baseline": "2020-04-12",
       "port-version": 0
     },
+    "c4core-2021-01-14-0": {
+      "baseline": "2021-01-14",
+      "port-version": 0
+    },
     "caf-0-15-6-0": {
       "baseline": "0.15.6",
       "port-version": 0
@@ -41334,6 +41338,10 @@
     },
     "ryml-2020-04-12-0": {
       "baseline": "2020-04-12",
+      "port-version": 0
+    },
+    "ryml-2021-05-27-0": {
+      "baseline": "2021-05-27",
       "port-version": 0
     },
     "ryu-2-0-0": {
