@@ -58980,6 +58980,10 @@
       "baseline": "2021.1.2",
       "port-version": 2
     },
+    "mdl-sdk-2021-1-2-3": {
+      "baseline": "2021.1.2",
+      "port-version": 3
+    },
     "mdns-1-1-0": {
       "baseline": "1.1",
       "port-version": 0
