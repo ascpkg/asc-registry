@@ -59448,6 +59448,10 @@
       "baseline": "1.2.6",
       "port-version": 2
     },
+    "libedit-2024-08-08-0": {
+      "baseline": "2024-08-08",
+      "port-version": 0
+    },
     "libenvpp-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
