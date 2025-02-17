@@ -55772,6 +55772,10 @@
       "baseline": "2022-08-11",
       "port-version": 0
     },
+    "nghttp2-asio-2022-08-11-1": {
+      "baseline": "2022-08-11",
+      "port-version": 1
+    },
     "nghttp3-0-7-0-0": {
       "baseline": "0.7.0",
       "port-version": 0
