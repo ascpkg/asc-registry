@@ -280,6 +280,10 @@
       "baseline": "0.1.1d",
       "port-version": 0
     },
+    "ade-0-1-1e-0": {
+      "baseline": "0.1.1e",
+      "port-version": 0
+    },
     "aixlog-1-2-1-0": {
       "baseline": "1.2.1",
       "port-version": 0
@@ -10728,6 +10732,10 @@
       "baseline": "2.5.1-1",
       "port-version": 0
     },
+    "harfbuzz-2-5-3-0": {
+      "baseline": "2.5.3",
+      "port-version": 0
+    },
     "hdf5-1-10-0-patch1-0": {
       "baseline": "1.10.0-patch1",
       "port-version": 0
@@ -12974,6 +12982,10 @@
     },
     "libpmemobj-cpp-1-6-1-0": {
       "baseline": "1.6-1",
+      "port-version": 0
+    },
+    "libpmemobj-cpp-1-7-0": {
+      "baseline": "1.7",
       "port-version": 0
     },
     "libpng-1-6-24-1-0": {
@@ -15298,6 +15310,10 @@
     },
     "msgpack-3-1-1-0": {
       "baseline": "3.1.1",
+      "port-version": 0
+    },
+    "msgpack-3-2-0-0": {
+      "baseline": "3.2.0",
       "port-version": 0
     },
     "msinttypes-2017-06-26-f9e7c5758ed9e3b9f4b2394de1881c704dd79de0-0": {
@@ -17930,6 +17946,10 @@
     },
     "protobuf-3-8-0-1-0": {
       "baseline": "3.8.0-1",
+      "port-version": 0
+    },
+    "protobuf-3-9-0-0": {
+      "baseline": "3.9.0",
       "port-version": 0
     },
     "ptex-2-1-28-0": {
@@ -21550,6 +21570,10 @@
     },
     "string-theory-2-1-1-0": {
       "baseline": "2.1-1",
+      "port-version": 0
+    },
+    "string-theory-2-2-0": {
+      "baseline": "2.2",
       "port-version": 0
     },
     "string-view-lite-1-3-0-0": {
