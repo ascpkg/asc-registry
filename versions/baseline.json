@@ -50888,6 +50888,10 @@
       "baseline": "2023-05-01",
       "port-version": 0
     },
+    "libideviceactivation-2023-05-01-1": {
+      "baseline": "2023-05-01",
+      "port-version": 1
+    },
     "libidn2-2-0-4-0": {
       "baseline": "2.0.4",
       "port-version": 0
