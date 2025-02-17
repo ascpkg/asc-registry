@@ -6284,6 +6284,10 @@
       "baseline": "3.3.8",
       "port-version": 0
     },
+    "fftw3-3-3-8-2-0": {
+      "baseline": "3.3.8-2",
+      "port-version": 0
+    },
     "fizz-2018-10-15-00-0": {
       "baseline": "2018.10.15.00",
       "port-version": 0
