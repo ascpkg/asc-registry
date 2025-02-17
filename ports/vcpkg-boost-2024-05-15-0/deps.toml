@@ -1,0 +1,2 @@
+old = "vcpkg-boost"
+new = "vcpkg-boost-2024-05-15-0"
