@@ -9376,6 +9376,10 @@
       "baseline": "1.75.0",
       "port-version": 0
     },
+    "boost-uninstall-1-75-0-1": {
+      "baseline": "1.75.0",
+      "port-version": 1
+    },
     "boost-units-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -13327,6 +13331,10 @@
     "curl-7-74-0-6": {
       "baseline": "7.74.0",
       "port-version": 6
+    },
+    "curl-7-74-0-7": {
+      "baseline": "7.74.0",
+      "port-version": 7
     },
     "curlpp-2018-06-15-0": {
       "baseline": "2018-06-15",
@@ -20040,6 +20048,10 @@
       "baseline": "1.37.0",
       "port-version": 1
     },
+    "grpc-1-37-0-2": {
+      "baseline": "1.37.0",
+      "port-version": 2
+    },
     "grpc-1-4-0-0": {
       "baseline": "1.4.0",
       "port-version": 0
@@ -20123,6 +20135,10 @@
     "gsl-2-6-0": {
       "baseline": "2.6",
       "port-version": 0
+    },
+    "gsl-2-6-1": {
+      "baseline": "2.6",
+      "port-version": 1
     },
     "gsl-20170425-8b320e3f5d016f953e55dfc7ec8694c1349d3fe4-0": {
       "baseline": "20170425-8b320e3f5d016f953e55dfc7ec8694c1349d3fe4",
@@ -21227,6 +21243,10 @@
     "icu-67-1-8": {
       "baseline": "67.1",
       "port-version": 8
+    },
+    "icu-69-1-10": {
+      "baseline": "69.1",
+      "port-version": 10
     },
     "icu-69-1-8": {
       "baseline": "69.1",
