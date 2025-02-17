@@ -1,0 +1,13 @@
+old = "rocksdb"
+new = "rocksdb-9-0-0-0"
+
+[deps]
+bzip2-1-0-8-5 = "bzip2"
+liburing-2-5-0 = "liburing"
+lz4-1-9-4-1 = "lz4"
+snappy-1-1-10-0 = "snappy"
+tbb-2021-11-0-0 = "tbb"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-3-1-0 = "zlib"
+zstd-1-5-5-2 = "zstd"
