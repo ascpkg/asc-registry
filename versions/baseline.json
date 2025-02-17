@@ -47024,6 +47024,10 @@
       "baseline": "4.12.2",
       "port-version": 0
     },
+    "gmsh-4-12-2-1": {
+      "baseline": "4.12.2",
+      "port-version": 1
+    },
     "gmsh-4-9-0-0": {
       "baseline": "4.9.0",
       "port-version": 0
