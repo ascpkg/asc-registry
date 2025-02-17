@@ -31976,6 +31976,10 @@
       "baseline": "8.7.1",
       "port-version": 3
     },
+    "curl-8-7-1-4": {
+      "baseline": "8.7.1",
+      "port-version": 4
+    },
     "curlpp-2018-06-15-0": {
       "baseline": "2018-06-15",
       "port-version": 0
