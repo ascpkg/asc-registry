@@ -98168,6 +98168,10 @@
       "baseline": "5.8.0",
       "port-version": 0
     },
+    "tidy-html5-5-8-0-1": {
+      "baseline": "5.8.0",
+      "port-version": 1
+    },
     "tiff-4-0-10-0": {
       "baseline": "4.0.10",
       "port-version": 0
