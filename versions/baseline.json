@@ -1800,6 +1800,10 @@
       "baseline": "0.4.9",
       "port-version": 6
     },
+    "aubio-0-4-9-7": {
+      "baseline": "0.4.9",
+      "port-version": 7
+    },
     "aubio-0-46-0": {
       "baseline": "0.46",
       "port-version": 0
