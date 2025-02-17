@@ -54384,6 +54384,10 @@
       "baseline": "2020.06",
       "port-version": 2
     },
+    "magnum-integration-2020-06-3": {
+      "baseline": "2020.06",
+      "port-version": 3
+    },
     "magnum-jan2018-1-0": {
       "baseline": "jan2018-1",
       "port-version": 0
