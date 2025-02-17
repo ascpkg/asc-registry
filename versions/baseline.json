@@ -42372,6 +42372,10 @@
       "baseline": "2.3.0",
       "port-version": 0
     },
+    "libe57format-3-0-0-0": {
+      "baseline": "3.0.0",
+      "port-version": 0
+    },
     "libebur128-1-2-5-0": {
       "baseline": "1.2.5",
       "port-version": 0
