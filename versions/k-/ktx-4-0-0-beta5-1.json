@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ktx-4-0-0-beta5-1",
+      "version-string": "4.0.0-beta5",
+      "port-version": 1
+    }
+  ]
+}
