@@ -6664,6 +6664,10 @@
       "baseline": "1.14.0",
       "port-version": 0
     },
+    "cpputest-2019-9-16-0": {
+      "baseline": "2019-9-16",
+      "port-version": 0
+    },
     "cppwinrt-1-010-0-14393-0-0": {
       "baseline": "1.010.0.14393.0",
       "port-version": 0
