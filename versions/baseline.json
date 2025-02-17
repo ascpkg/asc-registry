@@ -17472,6 +17472,10 @@
       "baseline": "2.8-2",
       "port-version": 0
     },
+    "libgo-3-1-0": {
+      "baseline": "3.1",
+      "port-version": 0
+    },
     "libgpod-2019-08-29-0": {
       "baseline": "2019-08-29",
       "port-version": 0
