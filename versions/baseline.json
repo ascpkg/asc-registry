@@ -19888,6 +19888,10 @@
       "baseline": "6.12.2",
       "port-version": 0
     },
+    "dartsim-6-12-2-1": {
+      "baseline": "6.12.2",
+      "port-version": 1
+    },
     "dartsim-6-9-4-0": {
       "baseline": "6.9.4",
       "port-version": 0
