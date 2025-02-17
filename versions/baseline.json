@@ -1520,6 +1520,10 @@
       "baseline": "0.8.2",
       "port-version": 0
     },
+    "apsi-0-8-2-1": {
+      "baseline": "0.8.2",
+      "port-version": 1
+    },
     "arb-2-11-1-0": {
       "baseline": "2.11.1",
       "port-version": 0
@@ -68695,6 +68699,10 @@
     "seal-3-7-2-3": {
       "baseline": "3.7.2",
       "port-version": 3
+    },
+    "seal-4-0-0-0": {
+      "baseline": "4.0.0",
+      "port-version": 0
     },
     "secp256k1--0": {
       "baseline": "",
