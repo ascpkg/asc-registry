@@ -22304,6 +22304,10 @@
       "baseline": "7.86.0",
       "port-version": 2
     },
+    "curl-7-87-0-0": {
+      "baseline": "7.87.0",
+      "port-version": 0
+    },
     "curlpp-2018-06-15-0": {
       "baseline": "2018-06-15",
       "port-version": 0
