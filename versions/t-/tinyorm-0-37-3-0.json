@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/tinyorm-0-37-3-0",
+      "version-semver": "0.37.3",
+      "port-version": 0
+    }
+  ]
+}
