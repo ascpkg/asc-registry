@@ -1,0 +1,13 @@
+old = "sail"
+new = "sail-0-9-0-rc1-0"
+
+[deps]
+giflib-5-2-1-2 = "giflib"
+jasper-2-0-33-6 = "jasper"
+libavif-0-10-1-0 = "libavif"
+libjpeg-turbo-2-1-4-0 = "libjpeg-turbo"
+libpng-1-6-37-19 = "libpng"
+libwebp-1-2-4-0 = "libwebp"
+tiff-4-4-0-1 = "tiff"
+vcpkg-cmake-2022-07-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
