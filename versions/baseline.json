@@ -38120,6 +38120,10 @@
       "baseline": "0.4.17",
       "port-version": 2
     },
+    "libproxy-0-4-17-3": {
+      "baseline": "0.4.17",
+      "port-version": 3
+    },
     "libqcow-20191221-0": {
       "baseline": "20191221",
       "port-version": 0
@@ -45775,6 +45779,10 @@
     "nspr-4-33-1": {
       "baseline": "4.33",
       "port-version": 1
+    },
+    "nspr-4-33-2": {
+      "baseline": "4.33",
+      "port-version": 2
     },
     "nss-3-75-0": {
       "baseline": "3.75",
