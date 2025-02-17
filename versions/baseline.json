@@ -106924,6 +106924,10 @@
       "baseline": "2.30.1",
       "port-version": 0
     },
+    "sdl2-2-30-10-0": {
+      "baseline": "2.30.10",
+      "port-version": 0
+    },
     "sdl2-2-30-3-0": {
       "baseline": "2.30.3",
       "port-version": 0
