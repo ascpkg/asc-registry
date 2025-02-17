@@ -58040,6 +58040,10 @@
       "baseline": "2023-11-30",
       "port-version": 0
     },
+    "libbacktrace-2023-11-30-1": {
+      "baseline": "2023-11-30",
+      "port-version": 1
+    },
     "libbf-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
