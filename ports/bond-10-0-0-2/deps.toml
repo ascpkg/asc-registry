@@ -1,0 +1,12 @@
+old = "bond"
+new = "bond-10-0-0-2"
+
+[deps]
+boost-assign-1-83-0-0 = "boost-assign"
+boost-config-1-83-0-0 = "boost-config"
+boost-locale-1-83-0-0 = "boost-locale"
+boost-utility-1-83-0-0 = "boost-utility"
+grpc-1-51-1-1 = "grpc"
+rapidjson-2023-07-17-0 = "rapidjson"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
