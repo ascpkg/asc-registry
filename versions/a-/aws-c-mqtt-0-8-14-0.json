@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/aws-c-mqtt-0-8-14-0",
+      "version": "0.8.14",
+      "port-version": 0
+    }
+  ]
+}
