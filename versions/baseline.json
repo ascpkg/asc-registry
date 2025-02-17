@@ -54104,6 +54104,10 @@
       "baseline": "2.0.0",
       "port-version": 0
     },
+    "kddockwidgets-2-1-0-0": {
+      "baseline": "2.1.0",
+      "port-version": 0
+    },
     "kdsoap-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
