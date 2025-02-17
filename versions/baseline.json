@@ -10468,8 +10468,16 @@
       "baseline": "3.1.1",
       "port-version": 0
     },
+    "comms-3-1-2-0": {
+      "baseline": "3.1.2",
+      "port-version": 0
+    },
     "commsdsl-3-5-2-0": {
       "baseline": "3.5.2",
+      "port-version": 0
+    },
+    "commsdsl-3-5-3-0": {
+      "baseline": "3.5.3",
       "port-version": 0
     },
     "concurrentqueue-1-0-0-beta-0": {
