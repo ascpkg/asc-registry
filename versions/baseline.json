@@ -21704,6 +21704,10 @@
       "baseline": "2018-08-26-16e6f435",
       "port-version": 0
     },
+    "sdformat6-6-2-0-0": {
+      "baseline": "6.2.0",
+      "port-version": 0
+    },
     "sdl1-1-2-15-3-0": {
       "baseline": "1.2.15-3",
       "port-version": 0
