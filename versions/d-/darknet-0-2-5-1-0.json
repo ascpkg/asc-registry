@@ -2,6 +2,11 @@
   "versions": [
     {
       "path": "$/ports/darknet-0-2-5-1-0",
+      "version": "0.2.5.1",
+      "port-version": 0
+    },
+    {
+      "path": "$/ports/darknet-0-2-5-1-0",
       "version": "0.2.5-1",
       "port-version": 0
     }

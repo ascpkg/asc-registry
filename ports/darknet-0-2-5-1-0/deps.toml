@@ -2,7 +2,9 @@ old = "darknet"
 new = "darknet-0-2-5-1-0"
 
 [deps]
-cuda-9-0-0 = "cuda"
-opencv-3-4-3-7-0 = "opencv"
-pthreads-2-9-1-5-0 = "pthreads"
-stb-2018-03-02-0 = "stb"
+cuda-10-1-0 = "cuda"
+darknet-0-2-5-1-0 = "darknet"
+opencv-4-1-1-1-0 = "opencv"
+opencv3-3-4-7-1-0 = "opencv3"
+pthreads-3-0-0-3-0 = "pthreads"
+stb-2019-07-11-0 = "stb"
