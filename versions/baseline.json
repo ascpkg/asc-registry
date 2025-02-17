@@ -6564,6 +6564,10 @@
       "baseline": "7.22.2",
       "port-version": 1
     },
+    "boinc-7-22-2-2": {
+      "baseline": "7.22.2",
+      "port-version": 2
+    },
     "bond-10-0-0-0": {
       "baseline": "10.0.0",
       "port-version": 0
