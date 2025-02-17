@@ -1,0 +1,5 @@
+old = "gli"
+new = "gli-dd17acf-1-0"
+
+[deps]
+glm-0-9-9-8-0 = "glm"
