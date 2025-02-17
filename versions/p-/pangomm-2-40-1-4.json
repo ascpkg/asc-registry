@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/pangomm-2-40-1-4",
+      "version": "2.40.1",
+      "port-version": 4
+    }
+  ]
+}
