@@ -21592,6 +21592,10 @@
       "baseline": "jan2019",
       "port-version": 0
     },
+    "flash-runtime-extensions-2-4-0": {
+      "baseline": "2.4",
+      "port-version": 0
+    },
     "flashlight-cpu-0-3-0": {
       "baseline": "0.3",
       "port-version": 0
