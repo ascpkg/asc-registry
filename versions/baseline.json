@@ -53592,6 +53592,10 @@
       "baseline": "3.0.5",
       "port-version": 5
     },
+    "openssl-3-0-7-0": {
+      "baseline": "3.0.7",
+      "port-version": 0
+    },
     "openssl-microsoft-1-0-2-winrt-stable-0": {
       "baseline": "1.0.2-winrt-stable",
       "port-version": 0
