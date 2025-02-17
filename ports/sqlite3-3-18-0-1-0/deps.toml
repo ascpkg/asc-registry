@@ -1,0 +1,2 @@
+old = "sqlite3"
+new = "sqlite3-3-18-0-1-0"
