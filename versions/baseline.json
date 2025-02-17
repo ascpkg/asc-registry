@@ -9984,6 +9984,10 @@
       "baseline": "2.9-1",
       "port-version": 0
     },
+    "osgearth-2-9-2-0": {
+      "baseline": "2.9-2",
+      "port-version": 0
+    },
     "paho-mqtt-1-2-0-0": {
       "baseline": "1.2.0",
       "port-version": 0
@@ -13378,6 +13382,10 @@
     },
     "vtk-8-1-0-1-0": {
       "baseline": "8.1.0-1",
+      "port-version": 0
+    },
+    "vtk-8-1-0-2-0": {
+      "baseline": "8.1.0-2",
       "port-version": 0
     },
     "vtk-dicom-0-8-8-alpha-1-0": {
