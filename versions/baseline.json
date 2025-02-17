@@ -2772,6 +2772,10 @@
       "baseline": "0.28.3-1",
       "port-version": 0
     },
+    "cmark-0-28-3-2-0": {
+      "baseline": "0.28.3-2",
+      "port-version": 0
+    },
     "console-bridge-0-3-2-1-0": {
       "baseline": "0.3.2-1",
       "port-version": 0
@@ -3522,6 +3526,10 @@
     },
     "ecm-5-40-0-0": {
       "baseline": "5.40.0",
+      "port-version": 0
+    },
+    "egl-registry-2018-06-30-0": {
+      "baseline": "2018-06-30",
       "port-version": 0
     },
     "eigen-3-2-9-0": {
@@ -6212,6 +6220,10 @@
       "baseline": "0.18.2-5",
       "port-version": 0
     },
+    "libraw-0-19-0-0": {
+      "baseline": "0.19.0",
+      "port-version": 0
+    },
     "librealsense2-2-8-1-0": {
       "baseline": "2.8.1",
       "port-version": 0
@@ -6694,6 +6706,10 @@
     },
     "live555-2018-02-28-0": {
       "baseline": "2018.02.28",
+      "port-version": 0
+    },
+    "live555-2018-07-01-0": {
+      "baseline": "2018.07.01",
       "port-version": 0
     },
     "llvm-4-0-0-0": {
@@ -7814,6 +7830,10 @@
     },
     "opengl-10-0-10240-0-0": {
       "baseline": "10.0.10240.0",
+      "port-version": 0
+    },
+    "opengl-registry-2018-06-30-0": {
+      "baseline": "2018-06-30",
       "port-version": 0
     },
     "openimageio-1-7-15-0": {

@@ -1,0 +1,5 @@
+old = "opengl-registry"
+new = "opengl-registry-2018-06-30-0"
+
+[deps]
+egl-registry-2018-06-30-0 = "egl-registry"
