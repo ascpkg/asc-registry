@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/jack2-1-9-21-1",
+      "version-semver": "1.9.21",
+      "port-version": 1
+    }
+  ]
+}
