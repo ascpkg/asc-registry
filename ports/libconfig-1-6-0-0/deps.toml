@@ -3,4 +3,3 @@ new = "libconfig-1-6-0-0"
 
 [deps]
 dirent-2017-06-23-5c7194c2fe2c68c1a8212712c0b4b6195382d27d-0 = "dirent"
-msinttypes-2017-06-26-f9e7c5758ed9e3b9f4b2394de1881c704dd79de0-0 = "msinttypes"
