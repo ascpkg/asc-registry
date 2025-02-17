@@ -26308,6 +26308,10 @@
       "baseline": "3.6.4-3",
       "port-version": 0
     },
+    "osg-3-6-5-0": {
+      "baseline": "3.6.5",
+      "port-version": 0
+    },
     "osg-qt-3-5-7-0": {
       "baseline": "3.5.7",
       "port-version": 0
