@@ -40312,6 +40312,10 @@
       "baseline": "0.20.0",
       "port-version": 2
     },
+    "mailio-0-21-0-0": {
+      "baseline": "0.21.0",
+      "port-version": 0
+    },
     "mapbox-geojson-cpp-0-5-1-0": {
       "baseline": "0.5.1",
       "port-version": 0
