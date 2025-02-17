@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/opencolorio-2-2-1-1",
+      "version-semver": "2.2.1",
+      "port-version": 1
+    }
+  ]
+}
