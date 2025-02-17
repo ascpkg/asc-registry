@@ -33212,6 +33212,10 @@
       "baseline": "2.36.9-5",
       "port-version": 7
     },
+    "gdk-pixbuf-2-42-10-0": {
+      "baseline": "2.42.10",
+      "port-version": 0
+    },
     "gdk-pixbuf-2-42-2-0": {
       "baseline": "2.42.2",
       "port-version": 0
