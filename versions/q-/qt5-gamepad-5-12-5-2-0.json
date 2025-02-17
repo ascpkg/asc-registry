@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qt5-gamepad-5-12-5-2-0",
+      "version": "5.12.5-2",
+      "port-version": 0
+    }
+  ]
+}
