@@ -21728,6 +21728,10 @@
       "baseline": "1.40.11-5",
       "port-version": 0
     },
+    "pango-1-40-11-6-0": {
+      "baseline": "1.40.11-6",
+      "port-version": 0
+    },
     "pango-1-40-3-0": {
       "baseline": "1.40.3",
       "port-version": 0
