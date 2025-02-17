@@ -1,0 +1,16 @@
+old = "freeimage"
+new = "freeimage-3-18-0-26"
+
+[deps]
+imath-3-1-11-0 = "imath"
+jxrlib-2019-10-9-6 = "jxrlib"
+libjpeg-turbo-3-0-2-0 = "libjpeg-turbo"
+libpng-1-6-43-0 = "libpng"
+libraw-0-21-2-0 = "libraw"
+libwebp-1-3-2-0 = "libwebp"
+openexr-3-2-3-1 = "openexr"
+openjpeg-2-5-2-0 = "openjpeg"
+tiff-4-6-0-4 = "tiff"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-3-1-0 = "zlib"
