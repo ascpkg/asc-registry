@@ -1,0 +1,5 @@
+old = "vcpkg-tool-meson"
+new = "vcpkg-tool-meson-1-5-1-0"
+
+[deps]
+vcpkg-cmake-get-vars-2023-12-31-0 = "vcpkg-cmake-get-vars"
