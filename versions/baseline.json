@@ -25032,6 +25032,10 @@
       "baseline": "8.2.0-5",
       "port-version": 0
     },
+    "vtk-8-2-0-6-0": {
+      "baseline": "8.2.0-6",
+      "port-version": 0
+    },
     "vtk-dicom-0-8-10-0": {
       "baseline": "0.8.10",
       "port-version": 0
