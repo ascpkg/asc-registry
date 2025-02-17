@@ -12004,6 +12004,10 @@
       "baseline": "2019-05-31",
       "port-version": 0
     },
+    "json-c-2019-09-10-0": {
+      "baseline": "2019-09-10",
+      "port-version": 0
+    },
     "json-dto-0-2-5-0": {
       "baseline": "0.2.5",
       "port-version": 0
