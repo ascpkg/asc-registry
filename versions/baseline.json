@@ -33492,6 +33492,10 @@
       "baseline": "0.4.6",
       "port-version": 0
     },
+    "simdjson-0-5-0-0": {
+      "baseline": "0.5.0",
+      "port-version": 0
+    },
     "simdjson-2019-03-03-0": {
       "baseline": "2019-03-03",
       "port-version": 0
