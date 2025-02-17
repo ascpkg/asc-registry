@@ -1,0 +1,9 @@
+old = "deniskovalchuk-libftp"
+new = "deniskovalchuk-libftp-1-3-0-0"
+
+[deps]
+boost-asio-1-86-0-0 = "boost-asio"
+boost-format-1-86-0-0 = "boost-format"
+openssl-3-4-0-0 = "openssl"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
