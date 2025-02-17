@@ -5792,6 +5792,10 @@
       "baseline": "2.10-2",
       "port-version": 0
     },
+    "qscintilla-2-10-3-0": {
+      "baseline": "2.10-3",
+      "port-version": 0
+    },
     "qt5-3d-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
