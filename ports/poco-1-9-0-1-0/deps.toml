@@ -2,8 +2,8 @@ old = "poco"
 new = "poco-1-9-0-1-0"
 
 [deps]
-expat-2-2-5-0 = "expat"
-libmysql-8-0-4-2-0 = "libmysql"
+expat-2-2-6-0 = "expat"
+libmysql-8-0-4-3-0 = "libmysql"
 pcre-8-41-1-0 = "pcre"
-sqlite3-3-24-0-1-0 = "sqlite3"
+sqlite3-3-24-0-2-0 = "sqlite3"
 zlib-1-2-11-3-0 = "zlib"
