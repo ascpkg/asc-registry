@@ -29476,6 +29476,10 @@
       "baseline": "1.2.0",
       "port-version": 0
     },
+    "libgit2-1-3-0-0": {
+      "baseline": "1.3.0",
+      "port-version": 0
+    },
     "libgnutls-3-6-15-0": {
       "baseline": "3.6.15",
       "port-version": 0
