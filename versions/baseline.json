@@ -41428,6 +41428,10 @@
       "baseline": "0.234",
       "port-version": 1
     },
+    "portmidi-0-234-2": {
+      "baseline": "0.234",
+      "port-version": 2
+    },
     "portsmf-0-236-0": {
       "baseline": "0.236",
       "port-version": 0
