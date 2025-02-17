@@ -1,0 +1,5 @@
+old = "ffmpeg"
+new = "ffmpeg-3-3-3-2-0"
+
+[deps]
+openssl-1-0-2n-2-0 = "openssl"
