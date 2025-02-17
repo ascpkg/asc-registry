@@ -35044,6 +35044,10 @@
       "baseline": "2018-06-15",
       "port-version": 10
     },
+    "curlpp-2018-06-15-11": {
+      "baseline": "2018-06-15",
+      "port-version": 11
+    },
     "curlpp-2018-06-15-2-0": {
       "baseline": "2018-06-15-2",
       "port-version": 0
