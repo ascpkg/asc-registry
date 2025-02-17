@@ -17704,6 +17704,10 @@
       "baseline": "1.3.17",
       "port-version": 0
     },
+    "enet-1-3-17-1": {
+      "baseline": "1.3.17",
+      "port-version": 1
+    },
     "ensmallen-1-14-0-0": {
       "baseline": "1.14.0",
       "port-version": 0
