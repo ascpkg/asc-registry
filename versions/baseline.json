@@ -57540,6 +57540,10 @@
       "baseline": "2.9.1",
       "port-version": 1
     },
+    "libqglviewer-2-9-1-2": {
+      "baseline": "2.9.1",
+      "port-version": 2
+    },
     "libqrencode-4-0-0-1-0": {
       "baseline": "4.0.0-1",
       "port-version": 0
