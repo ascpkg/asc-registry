@@ -10020,6 +10020,10 @@
       "baseline": "2.09.10",
       "port-version": 0
     },
+    "eabase-2-09-12-0": {
+      "baseline": "2.09.12",
+      "port-version": 0
+    },
     "eastl-3-05-08-0": {
       "baseline": "3.05.08",
       "port-version": 0
