@@ -68940,6 +68940,10 @@
       "baseline": "10.0.0",
       "port-version": 4
     },
+    "openvdb-10-0-0-5": {
+      "baseline": "10.0.0",
+      "port-version": 5
+    },
     "openvdb-5-0-0-0": {
       "baseline": "5.0.0",
       "port-version": 0
