@@ -91284,6 +91284,10 @@
       "baseline": "6.8.0",
       "port-version": 0
     },
+    "qt-6-8-0-1": {
+      "baseline": "6.8.0",
+      "port-version": 1
+    },
     "qt-advanced-docking-system-2019-08-09-0": {
       "baseline": "2019-08-09",
       "port-version": 0
@@ -97584,6 +97588,10 @@
       "baseline": "6.8.0",
       "port-version": 1
     },
+    "qtbase-6-8-0-2": {
+      "baseline": "6.8.0",
+      "port-version": 2
+    },
     "qtcharts-6-1-0-0": {
       "baseline": "6.1.0",
       "port-version": 0
@@ -99359,6 +99367,10 @@
     "qtmultimedia-6-8-0-0": {
       "baseline": "6.8.0",
       "port-version": 0
+    },
+    "qtmultimedia-6-8-0-1": {
+      "baseline": "6.8.0",
+      "port-version": 1
     },
     "qtnetworkauth-6-1-0-0": {
       "baseline": "6.1.0",
