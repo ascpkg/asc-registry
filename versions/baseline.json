@@ -96672,6 +96672,10 @@
       "baseline": "2024-04-01",
       "port-version": 2
     },
+    "re2-2024-06-01-0": {
+      "baseline": "2024-06-01",
+      "port-version": 0
+    },
     "reactiveplusplus-0-2-2-0": {
       "baseline": "0.2.2",
       "port-version": 0
