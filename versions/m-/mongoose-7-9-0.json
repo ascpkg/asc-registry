@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/mongoose-7-9-0",
+      "version": "7.9",
+      "port-version": 0
+    }
+  ]
+}
