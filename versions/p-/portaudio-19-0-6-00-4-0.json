@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/portaudio-19-0-6-00-4-0",
+      "version": "19.0.6.00-4",
+      "port-version": 0
+    }
+  ]
+}
