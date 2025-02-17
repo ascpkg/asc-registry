@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/mecab-0-996-0",
+      "version": "0.996",
+      "port-version": 0
+    }
+  ]
+}

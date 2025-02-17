@@ -15380,6 +15380,10 @@
       "baseline": "765.30.11",
       "port-version": 0
     },
+    "mecab-0-996-0": {
+      "baseline": "0.996",
+      "port-version": 0
+    },
     "meschach--0": {
       "baseline": "",
       "port-version": 0
