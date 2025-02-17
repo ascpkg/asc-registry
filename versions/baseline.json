@@ -58008,6 +58008,10 @@
       "baseline": "20181006",
       "port-version": 1
     },
+    "spdk-isal-20181006-2": {
+      "baseline": "20181006",
+      "port-version": 2
+    },
     "spdlog-0-11-0-0": {
       "baseline": "0.11.0",
       "port-version": 0
