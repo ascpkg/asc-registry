@@ -26932,6 +26932,10 @@
       "baseline": "2.12",
       "port-version": 1
     },
+    "lcms-2-12-2": {
+      "baseline": "2.12",
+      "port-version": 2
+    },
     "lcms-2-8-0": {
       "baseline": "2.8",
       "port-version": 0

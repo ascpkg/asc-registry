@@ -1,0 +1,17 @@
+{
+  "name": "lcms-2-12-2",
+  "version": "2.12",
+  "port-version": 2,
+  "description": "Little CMS.",
+  "homepage": "https://github.com/mm2/Little-CMS",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
