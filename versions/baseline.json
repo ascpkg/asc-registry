@@ -68368,6 +68368,10 @@
       "baseline": "2.3.3",
       "port-version": 1
     },
+    "ogre-next-2-3-3-2": {
+      "baseline": "2.3.3",
+      "port-version": 2
+    },
     "ogre-next-2019-10-20-0": {
       "baseline": "2019-10-20",
       "port-version": 0
