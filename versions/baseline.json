@@ -40096,6 +40096,10 @@
       "baseline": "2020-09-14",
       "port-version": 0
     },
+    "rapidjson-2020-09-14-1": {
+      "baseline": "2020-09-14",
+      "port-version": 1
+    },
     "rapidjson-d87b698-0": {
       "baseline": "d87b698",
       "port-version": 0
