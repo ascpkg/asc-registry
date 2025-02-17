@@ -26132,6 +26132,10 @@
       "baseline": "2022-11-09",
       "port-version": 6
     },
+    "chakracore-2024-04-20-0": {
+      "baseline": "2024-04-20",
+      "port-version": 0
+    },
     "charls-2-0-0-0": {
       "baseline": "2.0.0",
       "port-version": 0
