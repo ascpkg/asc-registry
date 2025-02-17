@@ -15020,6 +15020,10 @@
       "baseline": "6cf2746",
       "port-version": 0
     },
+    "nameof-2019-07-13-0": {
+      "baseline": "2019-07-13",
+      "port-version": 0
+    },
     "nana-1-4-1-0": {
       "baseline": "1.4.1",
       "port-version": 0
