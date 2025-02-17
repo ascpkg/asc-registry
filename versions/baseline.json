@@ -18348,6 +18348,10 @@
       "baseline": "1.15-2",
       "port-version": 0
     },
+    "libsquish-1-15-3-0": {
+      "baseline": "1.15-3",
+      "port-version": 0
+    },
     "libsrt-1-3-4-0": {
       "baseline": "1.3.4",
       "port-version": 0
