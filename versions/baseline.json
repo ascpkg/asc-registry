@@ -6404,6 +6404,10 @@
       "baseline": "2.11.0",
       "port-version": 0
     },
+    "catch2-2-11-1-0": {
+      "baseline": "2.11.1",
+      "port-version": 0
+    },
     "catch2-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
