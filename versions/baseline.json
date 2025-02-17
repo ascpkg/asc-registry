@@ -87308,6 +87308,10 @@
       "baseline": "4.3.0",
       "port-version": 0
     },
+    "yara-4-3-0-1": {
+      "baseline": "4.3.0",
+      "port-version": 1
+    },
     "yara-e3439e4ead4ed5d3b75a0b46eaf15ddda2110bb9-0": {
       "baseline": "e3439e4ead4ed5d3b75a0b46eaf15ddda2110bb9",
       "port-version": 0
