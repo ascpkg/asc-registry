@@ -9524,6 +9524,10 @@
       "baseline": "2018-11-01-3",
       "port-version": 0
     },
+    "jsonnet-2019-05-08-0": {
+      "baseline": "2019-05-08",
+      "port-version": 0
+    },
     "jxrlib-1-1-0": {
       "baseline": "1.1",
       "port-version": 0
