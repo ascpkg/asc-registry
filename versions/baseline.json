@@ -88824,6 +88824,10 @@
       "baseline": "1.13.3",
       "port-version": 1
     },
+    "poco-1-14-0-0": {
+      "baseline": "1.14.0",
+      "port-version": 0
+    },
     "poco-1-7-6-0": {
       "baseline": "1.7.6",
       "port-version": 0
