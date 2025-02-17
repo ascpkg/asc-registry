@@ -18944,6 +18944,10 @@
       "baseline": "7.0.0",
       "port-version": 5
     },
+    "chartdir-7-0-0-6": {
+      "baseline": "7.0.0",
+      "port-version": 6
+    },
     "check-0-12-0-1-0": {
       "baseline": "0.12.0-1",
       "port-version": 0
@@ -80019,6 +80023,10 @@
     "wxchartdir-2-0-0-0": {
       "baseline": "2.0.0",
       "port-version": 0
+    },
+    "wxchartdir-2-0-0-1": {
+      "baseline": "2.0.0",
+      "port-version": 1
     },
     "wxcharts-2022-04-22-0": {
       "baseline": "2022-04-22",
