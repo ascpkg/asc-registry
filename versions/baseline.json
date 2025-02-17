@@ -24768,6 +24768,10 @@
       "baseline": "4.9.0",
       "port-version": 0
     },
+    "cppzmq-4-9-0-1": {
+      "baseline": "4.9.0",
+      "port-version": 1
+    },
     "cpr-1-10-2-3-0": {
       "baseline": "1.10.2+3",
       "port-version": 0
