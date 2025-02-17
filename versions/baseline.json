@@ -2220,6 +2220,10 @@
       "baseline": "2.38.0",
       "port-version": 0
     },
+    "atk-2-38-0-1": {
+      "baseline": "2.38.0",
+      "port-version": 1
+    },
     "atkmm-2-24-2-0": {
       "baseline": "2.24.2",
       "port-version": 0
@@ -25956,6 +25960,10 @@
       "baseline": "2.42.8",
       "port-version": 1
     },
+    "gdk-pixbuf-2-42-8-2": {
+      "baseline": "2.42.8",
+      "port-version": 2
+    },
     "gemmlowp-2021-09-28-0": {
       "baseline": "2021-09-28",
       "port-version": 0
@@ -26931,6 +26939,10 @@
     "glib-2-70-5-1": {
       "baseline": "2.70.5",
       "port-version": 1
+    },
+    "glib-2-70-5-2": {
+      "baseline": "2.70.5",
+      "port-version": 2
     },
     "glibmm-2-52-1-0": {
       "baseline": "2.52.1",
