@@ -51168,6 +51168,10 @@
       "baseline": "14.0.6",
       "port-version": 1
     },
+    "llvm-15-0-7-0": {
+      "baseline": "15.0.7",
+      "port-version": 0
+    },
     "llvm-4-0-0-0": {
       "baseline": "4.0.0",
       "port-version": 0
