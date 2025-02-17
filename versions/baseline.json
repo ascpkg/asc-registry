@@ -35228,6 +35228,10 @@
       "baseline": "2021-10-13",
       "port-version": 0
     },
+    "mapnik-2021-10-18-0": {
+      "baseline": "2021-10-18",
+      "port-version": 0
+    },
     "marble-19-08-2-0": {
       "baseline": "19.08.2",
       "port-version": 0
