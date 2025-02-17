@@ -8656,6 +8656,10 @@
       "baseline": "5.1.0-1",
       "port-version": 0
     },
+    "metis-5-1-0-2-0": {
+      "baseline": "5.1.0-2",
+      "port-version": 0
+    },
     "mhook-2-5-1-1-0": {
       "baseline": "2.5.1-1",
       "port-version": 0
@@ -12366,6 +12370,10 @@
     },
     "suitesparse-4-5-5-4-0": {
       "baseline": "4.5.5-4",
+      "port-version": 0
+    },
+    "suitesparse-5-1-2-0": {
+      "baseline": "5.1.2",
       "port-version": 0
     },
     "sundials-2-7-0-0": {
