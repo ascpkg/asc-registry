@@ -87620,6 +87620,10 @@
       "baseline": "23.2",
       "port-version": 1
     },
+    "usd-23-5-0": {
+      "baseline": "23.5",
+      "port-version": 0
+    },
     "usockets-0-1-2-0": {
       "baseline": "0.1.2",
       "port-version": 0
