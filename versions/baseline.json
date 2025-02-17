@@ -2296,6 +2296,14 @@
       "baseline": "2020-06-17",
       "port-version": 2
     },
+    "azure-storage-blobs-cpp-12-0-0-beta-7-0": {
+      "baseline": "12.0.0-beta.7",
+      "port-version": 0
+    },
+    "azure-storage-common-cpp-12-0-0-beta-7-0": {
+      "baseline": "12.0.0-beta.7",
+      "port-version": 0
+    },
     "azure-storage-cpp-2-5-0-0": {
       "baseline": "2.5.0",
       "port-version": 0
@@ -2402,6 +2410,10 @@
     },
     "azure-storage-cpp-7-5-0-0": {
       "baseline": "7.5.0",
+      "port-version": 0
+    },
+    "azure-storage-files-datalake-cpp-12-0-0-beta-7-0": {
+      "baseline": "12.0.0-beta.7",
       "port-version": 0
     },
     "azure-uamqp-c-1-0-0-pre-release-1-0-9-0": {
