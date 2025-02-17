@@ -1,0 +1,9 @@
+old = "fluidsynth"
+new = "fluidsynth-2-2-8-0"
+
+[deps]
+alsa-1-2-6-1-0 = "alsa"
+fluidsynth-2-2-8-0 = "fluidsynth"
+glib-2-72-3-0 = "glib"
+libsndfile-1-1-0-0 = "libsndfile"
+vcpkg-cmake-2022-07-02-0 = "vcpkg-cmake"
