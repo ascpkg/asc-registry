@@ -47696,6 +47696,10 @@
       "baseline": "1.0.17",
       "port-version": 1
     },
+    "s2n-1-1-0-0": {
+      "baseline": "1.1.0",
+      "port-version": 0
+    },
     "safeint-3-0-26-0": {
       "baseline": "3.0.26",
       "port-version": 0
