@@ -45188,6 +45188,10 @@
       "baseline": "2.6.9",
       "port-version": 0
     },
+    "glaze-2-9-2-0": {
+      "baseline": "2.9.2",
+      "port-version": 0
+    },
     "glbinding-2-1-1-0": {
       "baseline": "2.1.1",
       "port-version": 0
@@ -99994,6 +99998,10 @@
     },
     "saucer-2-1-0-0": {
       "baseline": "2.1.0",
+      "port-version": 0
+    },
+    "saucer-2-3-0-0": {
+      "baseline": "2.3.0",
       "port-version": 0
     },
     "sbp-3-4-10-0": {
