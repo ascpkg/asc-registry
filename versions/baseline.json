@@ -30860,6 +30860,10 @@
       "baseline": "3.0.0",
       "port-version": 2
     },
+    "raylib-3-0-0-3": {
+      "baseline": "3.0.0",
+      "port-version": 3
+    },
     "rdkafka-v1-0-0-0": {
       "baseline": "v1.0.0",
       "port-version": 0
