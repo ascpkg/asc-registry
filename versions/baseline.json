@@ -35760,6 +35760,10 @@
       "baseline": "5.15.2",
       "port-version": 3
     },
+    "qt5-base-5-15-2-4": {
+      "baseline": "5.15.2",
+      "port-version": 4
+    },
     "qt5-base-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -44438,6 +44442,10 @@
     },
     "vcpkg-gfortran-3-0": {
       "baseline": "3",
+      "port-version": 0
+    },
+    "vcpkg-pkgconfig-get-modules-2021-04-02-0": {
+      "baseline": "2021-04-02",
       "port-version": 0
     },
     "vectorclass-2-00-01-0": {
