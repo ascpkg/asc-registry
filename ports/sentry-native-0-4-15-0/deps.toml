@@ -1,0 +1,8 @@
+old = "sentry-native"
+new = "sentry-native-0-4-15-0"
+
+[deps]
+curl-7-81-0-0 = "curl"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-01-30-0 = "vcpkg-cmake-config"
+zlib-1-2-11-13 = "zlib"
