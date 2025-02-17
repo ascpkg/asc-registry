@@ -1,0 +1,9 @@
+old = "libgeotiff"
+new = "libgeotiff-1-7-0-0"
+
+[deps]
+libjpeg-turbo-2-0-6-2 = "libjpeg-turbo"
+proj4-7-2-1-7 = "proj4"
+tiff-4-3-0-2 = "tiff"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-11-01-0 = "vcpkg-cmake-config"
