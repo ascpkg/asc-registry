@@ -16520,6 +16520,10 @@
       "baseline": "4.0.1",
       "port-version": 3
     },
+    "detours-4-0-1-4": {
+      "baseline": "4.0.1",
+      "port-version": 4
+    },
     "devicenameresolver-2016-06-26-0850d88fa6-0": {
       "baseline": "2016-06-26-0850d88fa6",
       "port-version": 0
