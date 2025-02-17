@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libgpg-error-1-47-0",
+      "version": "1.47",
+      "port-version": 0
+    }
+  ]
+}
