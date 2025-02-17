@@ -15896,6 +15896,10 @@
       "baseline": "2.12",
       "port-version": 0
     },
+    "libaaplus-2-12-1-0": {
+      "baseline": "2.12-1",
+      "port-version": 0
+    },
     "libaiff-5-0-0": {
       "baseline": "5.0",
       "port-version": 0
