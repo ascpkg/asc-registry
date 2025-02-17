@@ -1,0 +1,6 @@
+old = "parmetis"
+new = "parmetis-4-0-3-4"
+
+[deps]
+metis-5-1-0-7 = "metis"
+mpi-1-0 = "mpi"
