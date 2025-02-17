@@ -1,0 +1,5 @@
+old = "libprotobuf-mutator"
+new = "libprotobuf-mutator-1-0-0"
+
+[deps]
+protobuf-3-13-0-2 = "protobuf"
