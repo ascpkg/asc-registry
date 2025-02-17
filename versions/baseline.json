@@ -42604,6 +42604,10 @@
       "baseline": "2018-11-03",
       "port-version": 2
     },
+    "libui-2018-11-03-3": {
+      "baseline": "2018-11-03",
+      "port-version": 3
+    },
     "libunibreak-4-0-0": {
       "baseline": "4.0",
       "port-version": 0
