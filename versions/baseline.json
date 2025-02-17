@@ -17084,6 +17084,10 @@
       "baseline": "jan2021",
       "port-version": 1
     },
+    "directxmesh-2021-11-08-0": {
+      "baseline": "2021-11-08",
+      "port-version": 0
+    },
     "directxmesh-apr2018-0": {
       "baseline": "apr2018",
       "port-version": 0
@@ -17228,6 +17232,10 @@
       "baseline": "jun10",
       "port-version": 4
     },
+    "directxtex-2021-11-08-0": {
+      "baseline": "2021-11-08",
+      "port-version": 0
+    },
     "directxtex-apr2018-0": {
       "baseline": "apr2018",
       "port-version": 0
@@ -17366,6 +17374,10 @@
     },
     "directxtk-2019-12-31-0": {
       "baseline": "2019-12-31",
+      "port-version": 0
+    },
+    "directxtk-2021-11-08-0": {
+      "baseline": "2021-11-08",
       "port-version": 0
     },
     "directxtk-apr2018-0": {
@@ -17514,6 +17526,10 @@
     },
     "directxtk-sept2021-0": {
       "baseline": "sept2021",
+      "port-version": 0
+    },
+    "directxtk12-2021-11-08-0": {
+      "baseline": "2021-11-08",
       "port-version": 0
     },
     "directxtk12-apr2021-0": {
@@ -57646,6 +57662,10 @@
     },
     "uthenticode-1-0-6-0": {
       "baseline": "1.0.6",
+      "port-version": 0
+    },
+    "uvatlas-2021-11-08-0": {
+      "baseline": "2021-11-08",
       "port-version": 0
     },
     "uvatlas-apr2019-0": {
