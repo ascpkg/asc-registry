@@ -1,0 +1,7 @@
+old = "libsmb2"
+new = "libsmb2-6-2-0"
+
+[deps]
+krb5-1-21-3-2 = "krb5"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
