@@ -17512,6 +17512,10 @@
       "baseline": "2019-08-08-2",
       "port-version": 0
     },
+    "openimageio-2019-08-08-3-0": {
+      "baseline": "2019-08-08-3",
+      "port-version": 0
+    },
     "openimageio-release-1-8-12-0": {
       "baseline": "release-1.8.12",
       "port-version": 0
