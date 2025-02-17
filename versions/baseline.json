@@ -42512,6 +42512,10 @@
       "baseline": "3.6.5",
       "port-version": 10
     },
+    "osg-3-6-5-11": {
+      "baseline": "3.6.5",
+      "port-version": 11
+    },
     "osg-3-6-5-2": {
       "baseline": "3.6.5",
       "port-version": 2
