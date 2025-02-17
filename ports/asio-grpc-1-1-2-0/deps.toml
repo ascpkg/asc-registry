@@ -1,0 +1,12 @@
+old = "asio-grpc"
+new = "asio-grpc-1-1-2-0"
+
+[deps]
+boost-asio-1-77-0-0 = "boost-asio"
+boost-container-1-77-0-0 = "boost-container"
+boost-core-1-77-0-0 = "boost-core"
+boost-intrusive-1-77-0-0 = "boost-intrusive"
+boost-lockfree-1-77-0-0 = "boost-lockfree"
+grpc-1-37-0-4 = "grpc"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"
