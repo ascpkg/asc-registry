@@ -1,0 +1,10 @@
+old = "opencascade"
+new = "opencascade-7-5-0-3"
+
+[deps]
+freeimage-3-18-0-21 = "freeimage"
+freetype-2-11-0-1 = "freetype"
+rapidjson-2020-09-14-1 = "rapidjson"
+tbb-2020-u3-6 = "tbb"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"
