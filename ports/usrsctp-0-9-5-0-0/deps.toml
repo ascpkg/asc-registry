@@ -1,0 +1,5 @@
+old = "usrsctp"
+new = "usrsctp-0-9-5-0-0"
+
+[deps]
+vcpkg-cmake-2021-07-30-0 = "vcpkg-cmake"

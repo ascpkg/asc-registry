@@ -52892,6 +52892,10 @@
       "baseline": "2021-1-19",
       "port-version": 0
     },
+    "usrsctp-0-9-5-0-0": {
+      "baseline": "0.9.5.0",
+      "port-version": 0
+    },
     "usrsctp-0db9691-0": {
       "baseline": "0db9691",
       "port-version": 0
