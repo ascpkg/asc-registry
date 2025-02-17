@@ -34356,6 +34356,10 @@
       "baseline": "3.4.0",
       "port-version": 3
     },
+    "eigen3-3-4-0-4": {
+      "baseline": "3.4.0",
+      "port-version": 4
+    },
     "elements-2022-12-07-0": {
       "baseline": "2022-12-07",
       "port-version": 0
