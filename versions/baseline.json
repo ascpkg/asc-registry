@@ -104932,6 +104932,10 @@
       "baseline": "0.24.7",
       "port-version": 0
     },
+    "xtensor-0-25-0-0": {
+      "baseline": "0.25.0",
+      "port-version": 0
+    },
     "xtensor-2019-01-20-0": {
       "baseline": "2019-01-20",
       "port-version": 0
