@@ -30144,6 +30144,10 @@
       "baseline": "2.42.9",
       "port-version": 3
     },
+    "gdk-pixbuf-2-42-9-4": {
+      "baseline": "2.42.9",
+      "port-version": 4
+    },
     "gemmlowp-2021-09-28-0": {
       "baseline": "2021-09-28",
       "port-version": 0
@@ -62380,6 +62384,10 @@
       "baseline": "5.15.7",
       "port-version": 0
     },
+    "qt5-imageformats-5-15-7-1": {
+      "baseline": "5.15.7",
+      "port-version": 1
+    },
     "qt5-imageformats-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -65307,6 +65315,10 @@
     "qtimageformats-6-4-1-0": {
       "baseline": "6.4.1",
       "port-version": 0
+    },
+    "qtimageformats-6-4-1-1": {
+      "baseline": "6.4.1",
+      "port-version": 1
     },
     "qtinterfaceframework-6-2-2-0": {
       "baseline": "6.2.2",
@@ -75239,6 +75251,10 @@
     "tiff-4-5-0-0": {
       "baseline": "4.5.0",
       "port-version": 0
+    },
+    "tiff-4-5-0-1": {
+      "baseline": "4.5.0",
+      "port-version": 1
     },
     "tinkerforge-2-1-25-0": {
       "baseline": "2.1.25",
