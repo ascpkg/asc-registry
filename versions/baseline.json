@@ -9628,6 +9628,10 @@
       "baseline": "4.0.0",
       "port-version": 0
     },
+    "coin-4-0-0-1": {
+      "baseline": "4.0.0",
+      "port-version": 1
+    },
     "coinutils-2-10-14-0-0": {
       "baseline": "2.10.14-0",
       "port-version": 0
@@ -27628,6 +27632,10 @@
       "baseline": "3.6.5",
       "port-version": 1
     },
+    "osg-3-6-5-2": {
+      "baseline": "3.6.5",
+      "port-version": 2
+    },
     "osg-qt-3-5-7-0": {
       "baseline": "3.5.7",
       "port-version": 0
@@ -27679,6 +27687,10 @@
     "osgearth-3-0-1": {
       "baseline": "3.0",
       "port-version": 1
+    },
+    "osgearth-3-0-2": {
+      "baseline": "3.0",
+      "port-version": 2
     },
     "osi-0-107-9-0-0": {
       "baseline": "0.107.9-0",
