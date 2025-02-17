@@ -39320,6 +39320,10 @@
       "baseline": "3.21.12",
       "port-version": 0
     },
+    "eastl-3-21-23-0": {
+      "baseline": "3.21.23",
+      "port-version": 0
+    },
     "easycl-0-3-0": {
       "baseline": "0.3",
       "port-version": 0
