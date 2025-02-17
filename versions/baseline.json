@@ -7780,6 +7780,10 @@
       "baseline": "2.4.1-4",
       "port-version": 0
     },
+    "gdcm-3-0-0-0": {
+      "baseline": "3.0.0",
+      "port-version": 0
+    },
     "gdcm2-2-6-7-0": {
       "baseline": "2.6.7",
       "port-version": 0
@@ -7822,6 +7826,10 @@
     },
     "gdcm2-2-8-9-0": {
       "baseline": "2.8.9",
+      "port-version": 0
+    },
+    "gdcm2-deprecated-0": {
+      "baseline": "deprecated",
       "port-version": 0
     },
     "gdk-pixbuf-2-36-3-0": {
