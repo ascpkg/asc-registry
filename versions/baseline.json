@@ -49348,6 +49348,10 @@
       "baseline": "0.1.2",
       "port-version": 0
     },
+    "gpgmm-0-1-2-1": {
+      "baseline": "0.1.2",
+      "port-version": 1
+    },
     "gppanel-2018-04-06-0": {
       "baseline": "2018-04-06",
       "port-version": 0
