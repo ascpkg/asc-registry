@@ -44876,6 +44876,10 @@
       "baseline": "2019-12-04",
       "port-version": 3
     },
+    "h5py-lzf-2022-05-24-0": {
+      "baseline": "2022-05-24",
+      "port-version": 0
+    },
     "halide-10-0-0-0": {
       "baseline": "10.0.0",
       "port-version": 0
@@ -55987,6 +55991,10 @@
     "liblzf-3-6-0": {
       "baseline": "3.6",
       "port-version": 0
+    },
+    "liblzf-3-6-1": {
+      "baseline": "3.6",
+      "port-version": 1
     },
     "liblzma-5-2-2-0": {
       "baseline": "5.2.2",
