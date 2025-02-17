@@ -24344,6 +24344,10 @@
       "baseline": "3.2.0",
       "port-version": 2
     },
+    "msgpack-3-3-0-0": {
+      "baseline": "3.3.0",
+      "port-version": 0
+    },
     "msgpack11-0-0-10-0": {
       "baseline": "0.0.10",
       "port-version": 0
