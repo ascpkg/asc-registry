@@ -2,5 +2,5 @@ old = "armadillo"
 new = "armadillo-10-1-0-0"
 
 [deps]
-lapack-3-0 = "lapack"
-openblas-0-3-10-0 = "openblas"
+blas-1-0 = "blas"
+lapack-3-1 = "lapack"

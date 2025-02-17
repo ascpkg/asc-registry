@@ -2,6 +2,6 @@ old = "geogram"
 new = "geogram-1-7-5-2"
 
 [deps]
+blas-1-0 = "blas"
 glfw3-3-3-2-0 = "glfw3"
-lapack-3-0 = "lapack"
-openblas-0-3-9-3 = "openblas"
+lapack-3-1 = "lapack"

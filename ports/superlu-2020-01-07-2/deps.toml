@@ -2,4 +2,4 @@ old = "superlu"
 new = "superlu-2020-01-07-2"
 
 [deps]
-openblas-0-3-9-3 = "openblas"
+blas-1-0 = "blas"
