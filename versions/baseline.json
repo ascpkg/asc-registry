@@ -5608,6 +5608,10 @@
       "baseline": "1.78.0",
       "port-version": 0
     },
+    "boost-build-1-78-0-1": {
+      "baseline": "1.78.0",
+      "port-version": 1
+    },
     "boost-callable-traits-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
