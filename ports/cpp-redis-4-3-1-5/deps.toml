@@ -1,0 +1,7 @@
+old = "cpp-redis"
+new = "cpp-redis-4-3-1-5"
+
+[deps]
+tacopie-3-2-0-3 = "tacopie"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"
