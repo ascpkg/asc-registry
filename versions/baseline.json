@@ -24088,6 +24088,10 @@
       "baseline": "2022-12-15",
       "port-version": 0
     },
+    "directxtex-2023-01-31-0": {
+      "baseline": "2023-01-31",
+      "port-version": 0
+    },
     "directxtex-apr2018-0": {
       "baseline": "apr2018",
       "port-version": 0
