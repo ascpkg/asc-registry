@@ -1364,6 +1364,10 @@
       "baseline": "chromium_5414",
       "port-version": 1
     },
+    "annoy-1-17-2-0": {
+      "baseline": "1.17.2",
+      "port-version": 0
+    },
     "annoy-2023-02-25-0": {
       "baseline": "2023-02-25",
       "port-version": 0
