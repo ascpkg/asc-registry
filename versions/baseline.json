@@ -5308,6 +5308,10 @@
       "baseline": "1.8.0-3",
       "port-version": 0
     },
+    "devil-1-8-0-4-0": {
+      "baseline": "1.8.0-4",
+      "port-version": 0
+    },
     "dimcli-1-0-3-0": {
       "baseline": "1.0.3",
       "port-version": 0
@@ -9114,6 +9118,10 @@
     },
     "libcopp-1-1-0-1-0": {
       "baseline": "1.1.0-1",
+      "port-version": 0
+    },
+    "libcopp-1-1-0-2-0": {
+      "baseline": "1.1.0-2",
       "port-version": 0
     },
     "libcuckoo-2018-12-24-1-0": {
@@ -15954,6 +15962,10 @@
     },
     "spaceland-7-8-2-0-0": {
       "baseline": "7.8.2-0",
+      "port-version": 0
+    },
+    "spaceland-7-8-2-1-0": {
+      "baseline": "7.8.2-1",
       "port-version": 0
     },
     "sparsepp-1-22-0": {
