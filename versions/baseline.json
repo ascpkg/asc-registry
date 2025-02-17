@@ -884,6 +884,10 @@
       "baseline": "1.010.0.14393.0",
       "port-version": 0
     },
+    "cppwinrt-fall-2017-creators-update-for-vs-15-3-0": {
+      "baseline": "fall_2017_creators_update_for_vs_15.3",
+      "port-version": 0
+    },
     "cppwinrt-feb2017-refresh-14393-0": {
       "baseline": "feb2017_refresh-14393",
       "port-version": 0
