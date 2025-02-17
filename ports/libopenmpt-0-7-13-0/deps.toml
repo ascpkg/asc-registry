@@ -1,0 +1,10 @@
+old = "libopenmpt"
+new = "libopenmpt-0-7-13-0"
+
+[deps]
+libogg-1-3-5-1 = "libogg"
+libvorbis-1-3-7-3 = "libvorbis"
+mpg123-1-32-9-1 = "mpg123"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
+zlib-1-3-1-0 = "zlib"
