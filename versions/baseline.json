@@ -84280,6 +84280,10 @@
       "baseline": "0.7",
       "port-version": 2
     },
+    "sockpp-0-8-1-0": {
+      "baseline": "0.8.1",
+      "port-version": 0
+    },
     "sockpp-2022-01-24-0": {
       "baseline": "2022-01-24",
       "port-version": 0
