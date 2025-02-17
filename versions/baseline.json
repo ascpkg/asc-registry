@@ -39480,6 +39480,10 @@
       "baseline": "2022-06-26",
       "port-version": 2
     },
+    "json-c-2022-06-26-3": {
+      "baseline": "2022-06-26",
+      "port-version": 3
+    },
     "json-dto-0-2-10-0": {
       "baseline": "0.2.10",
       "port-version": 0
