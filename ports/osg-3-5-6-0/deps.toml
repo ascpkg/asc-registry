@@ -1,0 +1,13 @@
+old = "osg"
+new = "osg-3-5-6-0"
+
+[deps]
+freetype-2-8-0 = "freetype"
+gdal-1-11-3-3-0 = "gdal"
+giflib-5-1-4-0 = "giflib"
+jasper-2-0-13-0 = "jasper"
+libjpeg-turbo-1-5-2-0 = "libjpeg-turbo"
+libpng-1-6-30-0 = "libpng"
+openexr-2-2-0-0 = "openexr"
+tiff-4-0-8-0 = "tiff"
+zlib-1-2-11-0 = "zlib"
