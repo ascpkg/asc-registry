@@ -6632,6 +6632,10 @@
       "baseline": "2.1.2-1",
       "port-version": 0
     },
+    "czmq-2019-06-10-0": {
+      "baseline": "2019-06-10",
+      "port-version": 0
+    },
     "darknet-0-2-5-0": {
       "baseline": "0.2.5",
       "port-version": 0
