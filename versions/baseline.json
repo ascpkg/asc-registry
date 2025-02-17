@@ -69536,6 +69536,10 @@
       "baseline": "6.4.2",
       "port-version": 1
     },
+    "qtdeclarative-6-4-2-2": {
+      "baseline": "6.4.2",
+      "port-version": 2
+    },
     "qtdeviceutilities-6-2-2-0": {
       "baseline": "6.2.2",
       "port-version": 0
