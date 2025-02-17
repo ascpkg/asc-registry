@@ -57844,6 +57844,10 @@
       "baseline": "0.0.7",
       "port-version": 1
     },
+    "rsig-0-1-0-0": {
+      "baseline": "0.1.0",
+      "port-version": 0
+    },
     "rsm-binary-io-2-0-2-0": {
       "baseline": "2.0.2",
       "port-version": 0
