@@ -61832,6 +61832,10 @@
       "baseline": "1.2.6",
       "port-version": 2
     },
+    "libebur128-1-2-6-3": {
+      "baseline": "1.2.6",
+      "port-version": 3
+    },
     "libedit-2024-08-08-0": {
       "baseline": "2024-08-08",
       "port-version": 0
