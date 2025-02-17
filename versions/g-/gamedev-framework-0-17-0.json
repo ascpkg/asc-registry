@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gamedev-framework-0-17-0",
+      "version": "0.17",
+      "port-version": 0
+    }
+  ]
+}
