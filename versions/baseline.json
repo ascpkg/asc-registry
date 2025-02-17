@@ -20476,6 +20476,10 @@
       "baseline": "1.10.0",
       "port-version": 4
     },
+    "gtest-1-11-0-0": {
+      "baseline": "1.11.0",
+      "port-version": 0
+    },
     "gtest-1-8-0": {
       "baseline": "1.8",
       "port-version": 0
