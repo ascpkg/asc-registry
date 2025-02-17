@@ -17936,6 +17936,10 @@
       "baseline": "0.2",
       "port-version": 2
     },
+    "cppcodec-0-2-3": {
+      "baseline": "0.2",
+      "port-version": 3
+    },
     "cppcoro-2020-02-28-3": {
       "baseline": "2020-02-28",
       "port-version": 3
