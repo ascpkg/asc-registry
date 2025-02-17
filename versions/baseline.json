@@ -27052,6 +27052,10 @@
       "baseline": "2019-08-28",
       "port-version": 0
     },
+    "nccl-2-4-6-0": {
+      "baseline": "2.4.6",
+      "port-version": 0
+    },
     "neargye-semver-0-2-2-0": {
       "baseline": "0.2.2",
       "port-version": 0
