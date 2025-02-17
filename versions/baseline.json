@@ -40060,6 +40060,10 @@
       "baseline": "8.3.110.13",
       "port-version": 0
     },
+    "v8-8-6-395-17-0": {
+      "baseline": "8.6.395.17",
+      "port-version": 0
+    },
     "valijson-2018-11-17-0": {
       "baseline": "2018-11-17",
       "port-version": 0
