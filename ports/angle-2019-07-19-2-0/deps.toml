@@ -1,0 +1,5 @@
+old = "angle"
+new = "angle-2019-07-19-2-0"
+
+[deps]
+egl-registry-2019-08-08-0 = "egl-registry"
