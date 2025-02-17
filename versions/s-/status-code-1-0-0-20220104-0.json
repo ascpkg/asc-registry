@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/status-code-1-0-0-20220104-0",
+      "version-string": "1.0.0-20220104",
+      "port-version": 0
+    }
+  ]
+}
