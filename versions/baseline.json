@@ -31336,6 +31336,10 @@
       "baseline": "3.1.12",
       "port-version": 2
     },
+    "libmariadb-3-1-15-0": {
+      "baseline": "3.1.15",
+      "port-version": 0
+    },
     "libmariadb-3-1-7-0": {
       "baseline": "3.1.7",
       "port-version": 0
@@ -44099,6 +44103,10 @@
     "poco-1-11-0-0": {
       "baseline": "1.11.0",
       "port-version": 0
+    },
+    "poco-1-11-0-1": {
+      "baseline": "1.11.0",
+      "port-version": 1
     },
     "poco-1-7-6-0": {
       "baseline": "1.7.6",
