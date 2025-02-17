@@ -22108,6 +22108,10 @@
       "baseline": "0.9.4",
       "port-version": 0
     },
+    "libxml2-2-9-10-0": {
+      "baseline": "2.9.10",
+      "port-version": 0
+    },
     "libxml2-2-9-4-0": {
       "baseline": "2.9.4",
       "port-version": 0
