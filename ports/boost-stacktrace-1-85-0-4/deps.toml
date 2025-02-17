@@ -1,0 +1,13 @@
+old = "boost-stacktrace"
+new = "boost-stacktrace-1-85-0-4"
+
+[deps]
+boost-assert-1-85-0-1 = "boost-assert"
+boost-cmake-1-85-0-2 = "boost-cmake"
+boost-config-1-85-0-1 = "boost-config"
+boost-container-hash-1-85-0-1 = "boost-container-hash"
+boost-core-1-85-0-2 = "boost-core"
+boost-headers-1-85-0-1 = "boost-headers"
+boost-predef-1-85-0-1 = "boost-predef"
+boost-winapi-1-85-0-1 = "boost-winapi"
+libbacktrace-2023-11-30-1 = "libbacktrace"
