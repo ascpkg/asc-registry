@@ -1948,6 +1948,10 @@
       "baseline": "3.1.2",
       "port-version": 0
     },
+    "aom-3-11-0-0": {
+      "baseline": "3.11.0",
+      "port-version": 0
+    },
     "aom-3-2-0-0": {
       "baseline": "3.2.0",
       "port-version": 0
