@@ -2720,6 +2720,10 @@
       "baseline": "libsndfile-1.0.29-6830c42-1",
       "port-version": 0
     },
+    "libspatialite-4-3-0a-0": {
+      "baseline": "4.3.0a",
+      "port-version": 0
+    },
     "libssh-0-7-5-0": {
       "baseline": "0.7.5",
       "port-version": 0
