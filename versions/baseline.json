@@ -116196,6 +116196,10 @@
       "baseline": "6.2.0",
       "port-version": 0
     },
+    "winreg-6-3-0-0": {
+      "baseline": "6.3.0",
+      "port-version": 0
+    },
     "winsock2-0-0-0": {
       "baseline": "0.0",
       "port-version": 0
