@@ -59260,6 +59260,10 @@
       "baseline": "6.3.1",
       "port-version": 0
     },
+    "qtmultimedia-6-3-1-1": {
+      "baseline": "6.3.1",
+      "port-version": 1
+    },
     "qtnetworkauth-6-1-0-0": {
       "baseline": "6.1.0",
       "port-version": 0
