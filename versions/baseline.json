@@ -3844,6 +3844,10 @@
       "baseline": "0.7.14",
       "port-version": 0
     },
+    "aws-c-auth-0-7-16-0": {
+      "baseline": "0.7.16",
+      "port-version": 0
+    },
     "aws-c-auth-0-7-3-0": {
       "baseline": "0.7.3",
       "port-version": 0
