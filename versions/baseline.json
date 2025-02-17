@@ -44656,6 +44656,10 @@
       "baseline": "3.0.8",
       "port-version": 1
     },
+    "guile-3-0-9-0": {
+      "baseline": "3.0.9",
+      "port-version": 0
+    },
     "guilite-2021-07-31-0": {
       "baseline": "2021-07-31",
       "port-version": 0
