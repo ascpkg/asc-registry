@@ -1,0 +1,7 @@
+{
+  "name": "libtasn1-4-16-0-0",
+  "version": "4.16.0",
+  "description": "A secure communications library implementing the SSL, TLS and DTLS protocols",
+  "homepage": "https://www.gnutls.org/",
+  "supports": "!windows"
+}

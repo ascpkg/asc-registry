@@ -22948,6 +22948,10 @@
       "baseline": "1.1.0",
       "port-version": 0
     },
+    "libgnutls-3-6-15-0": {
+      "baseline": "3.6.15",
+      "port-version": 0
+    },
     "libgo-2-7-0": {
       "baseline": "2.7",
       "port-version": 0
@@ -25399,6 +25403,10 @@
     "libsvm-323-2": {
       "baseline": "323",
       "port-version": 2
+    },
+    "libtasn1-4-16-0-0": {
+      "baseline": "4.16.0",
+      "port-version": 0
     },
     "libtheora-1-1-1-0": {
       "baseline": "1.1.1",
