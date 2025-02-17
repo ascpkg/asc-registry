@@ -40636,6 +40636,10 @@
       "baseline": "3.0.22",
       "port-version": 0
     },
+    "gdcm-3-0-23-0": {
+      "baseline": "3.0.23",
+      "port-version": 0
+    },
     "gdcm-3-0-3-0": {
       "baseline": "3.0.3",
       "port-version": 0
