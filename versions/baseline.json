@@ -1452,6 +1452,10 @@
       "baseline": "chromium_5414",
       "port-version": 4
     },
+    "angle-chromium-5414-5": {
+      "baseline": "chromium_5414",
+      "port-version": 5
+    },
     "annoy-1-17-2-0": {
       "baseline": "1.17.2",
       "port-version": 0
