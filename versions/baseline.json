@@ -52284,6 +52284,10 @@
       "baseline": "2024-05-29",
       "port-version": 0
     },
+    "imguizmo-2024-05-29-1": {
+      "baseline": "2024-05-29",
+      "port-version": 1
+    },
     "immer-0-8-0-0": {
       "baseline": "0.8.0",
       "port-version": 0
@@ -60467,6 +60471,10 @@
     "libigl-2-5-0-1": {
       "baseline": "2.5.0",
       "port-version": 1
+    },
+    "libigl-2-5-0-2": {
+      "baseline": "2.5.0",
+      "port-version": 2
     },
     "libilbc-3-0-3-0": {
       "baseline": "3.0.3",
