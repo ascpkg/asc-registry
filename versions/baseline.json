@@ -43376,6 +43376,10 @@
       "baseline": "0.2.24",
       "port-version": 0
     },
+    "functionalplus-0-2-25-0": {
+      "baseline": "0.2.25",
+      "port-version": 0
+    },
     "functions-framework-cpp-0-3-0-0": {
       "baseline": "0.3.0",
       "port-version": 0
