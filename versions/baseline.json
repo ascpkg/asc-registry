@@ -57316,6 +57316,10 @@
       "baseline": "0.13.2",
       "port-version": 2
     },
+    "qtkeychain-0-13-2-3": {
+      "baseline": "0.13.2",
+      "port-version": 3
+    },
     "qtkeychain-qt6-0-13-1-0": {
       "baseline": "0.13.1",
       "port-version": 0
@@ -57323,6 +57327,10 @@
     "qtkeychain-qt6-0-13-2-0": {
       "baseline": "0.13.2",
       "port-version": 0
+    },
+    "qtkeychain-qt6-0-13-2-1": {
+      "baseline": "0.13.2",
+      "port-version": 1
     },
     "qtkeychain-v0-9-1-0": {
       "baseline": "v0.9.1",
