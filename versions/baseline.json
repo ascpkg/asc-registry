@@ -17992,6 +17992,10 @@
       "baseline": "2.1.1-2",
       "port-version": 0
     },
+    "rtmidi-4-0-0-0": {
+      "baseline": "4.0.0",
+      "port-version": 0
+    },
     "rttr-0-9-5-0": {
       "baseline": "0.9.5",
       "port-version": 0
