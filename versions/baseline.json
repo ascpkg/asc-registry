@@ -50368,6 +50368,10 @@
       "baseline": "7.6",
       "port-version": 0
     },
+    "mongoose-7-8-0": {
+      "baseline": "7.8",
+      "port-version": 0
+    },
     "monkeys-audio-4-3-3-0": {
       "baseline": "4.3.3",
       "port-version": 0
