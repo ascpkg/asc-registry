@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/boringssl-2021-06-23-2",
+      "version-date": "2021-06-23",
+      "port-version": 2
+    }
+  ]
+}
