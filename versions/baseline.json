@@ -13336,6 +13336,10 @@
       "baseline": "2.0.0",
       "port-version": 0
     },
+    "clickhouse-cpp-1-5-0-0": {
+      "baseline": "1.5.0",
+      "port-version": 0
+    },
     "clickhouse-cpp-2019-05-22-0": {
       "baseline": "2019-05-22",
       "port-version": 0

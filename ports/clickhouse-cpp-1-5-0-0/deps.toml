@@ -1,0 +1,8 @@
+old = "clickhouse-cpp"
+new = "clickhouse-cpp-1-5-0-0"
+
+[deps]
+cityhash-2013-01-08-1 = "cityhash"
+lz4-1-9-3-2 = "lz4"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"
