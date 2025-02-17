@@ -12320,6 +12320,10 @@
       "baseline": "0.1-1",
       "port-version": 0
     },
+    "crow-0-2-0": {
+      "baseline": "0.2",
+      "port-version": 0
+    },
     "cryptopp-5-6-5-0": {
       "baseline": "5.6.5",
       "port-version": 0
