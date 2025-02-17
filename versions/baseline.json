@@ -948,6 +948,10 @@
       "baseline": "2.1.0",
       "port-version": 7
     },
+    "anax-2-1-0-8": {
+      "baseline": "2.1.0",
+      "port-version": 8
+    },
     "angelscript-2-33-0-0": {
       "baseline": "2.33.0",
       "port-version": 0
