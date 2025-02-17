@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/lcm-1-4-0-3",
+      "version": "1.4.0",
+      "port-version": 3
+    }
+  ]
+}
