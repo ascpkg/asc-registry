@@ -2,5 +2,5 @@ old = "qt5-mqtt"
 new = "qt5-mqtt-5-12-3-0"
 
 [deps]
-qt5-base-5-12-3-0 = "qt5-base"
+qt5-base-5-12-3-2-0 = "qt5-base"
 qt5-modularscripts-2019-04-30-0 = "qt5-modularscripts"
