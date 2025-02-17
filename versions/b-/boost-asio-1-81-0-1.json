@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/boost-asio-1-81-0-1",
+      "version": "1.81.0",
+      "port-version": 1
+    }
+  ]
+}

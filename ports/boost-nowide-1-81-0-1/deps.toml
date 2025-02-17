@@ -1,0 +1,10 @@
+old = "boost-nowide"
+new = "boost-nowide-1-81-0-1"
+
+[deps]
+boost-build-1-81-0-1 = "boost-build"
+boost-config-1-81-0-1 = "boost-config"
+boost-filesystem-1-81-0-1 = "boost-filesystem"
+boost-modular-build-helper-1-81-0-1 = "boost-modular-build-helper"
+boost-vcpkg-helpers-1-81-0-2 = "boost-vcpkg-helpers"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

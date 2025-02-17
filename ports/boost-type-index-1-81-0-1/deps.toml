@@ -1,0 +1,12 @@
+old = "boost-type-index"
+new = "boost-type-index-1-81-0-1"
+
+[deps]
+boost-config-1-81-0-1 = "boost-config"
+boost-container-hash-1-81-0-1 = "boost-container-hash"
+boost-core-1-81-0-1 = "boost-core"
+boost-preprocessor-1-81-0-1 = "boost-preprocessor"
+boost-static-assert-1-81-0-1 = "boost-static-assert"
+boost-throw-exception-1-81-0-1 = "boost-throw-exception"
+boost-type-traits-1-81-0-1 = "boost-type-traits"
+boost-vcpkg-helpers-1-81-0-2 = "boost-vcpkg-helpers"
