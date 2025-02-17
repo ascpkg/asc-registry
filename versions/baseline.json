@@ -3512,6 +3512,10 @@
       "baseline": "2024-06-28",
       "port-version": 0
     },
+    "asmjit-2025-01-22-0": {
+      "baseline": "2025-01-22",
+      "port-version": 0
+    },
     "asmjit-673dcefaa048c5f5a2bf8b85daf8f7b9978d018a-0": {
       "baseline": "673dcefaa048c5f5a2bf8b85daf8f7b9978d018a",
       "port-version": 0
@@ -8982,6 +8986,10 @@
     },
     "blend2d-2024-07-08-0": {
       "baseline": "2024-07-08",
+      "port-version": 0
+    },
+    "blend2d-2024-11-23-0": {
+      "baseline": "2024-11-23",
       "port-version": 0
     },
     "blend2d-beta-2019-04-30-0": {
