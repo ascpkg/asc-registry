@@ -33504,6 +33504,10 @@
       "baseline": "34",
       "port-version": 1
     },
+    "ngspice-35-0": {
+      "baseline": "35",
+      "port-version": 0
+    },
     "nifticlib-2020-04-30-0": {
       "baseline": "2020-04-30",
       "port-version": 0
