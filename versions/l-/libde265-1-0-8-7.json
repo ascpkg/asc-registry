@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libde265-1-0-8-7",
+      "version": "1.0.8",
+      "port-version": 7
+    }
+  ]
+}
