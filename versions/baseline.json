@@ -59736,6 +59736,10 @@
       "baseline": "1.2.0",
       "port-version": 10
     },
+    "speex-1-2-0-11": {
+      "baseline": "1.2.0",
+      "port-version": 11
+    },
     "speex-1-2-0-2-0": {
       "baseline": "1.2.0-2",
       "port-version": 0
