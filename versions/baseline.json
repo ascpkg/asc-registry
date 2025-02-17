@@ -15384,6 +15384,10 @@
       "baseline": "6.9.2",
       "port-version": 0
     },
+    "oniguruma-6-9-2-1-0": {
+      "baseline": "6.9.2-1",
+      "port-version": 0
+    },
     "open62541--0": {
       "baseline": "",
       "port-version": 0
@@ -22650,6 +22654,10 @@
     },
     "xtensor-0-20-7-0": {
       "baseline": "0.20.7",
+      "port-version": 0
+    },
+    "xtensor-0-20-7-1-0": {
+      "baseline": "0.20.7-1",
       "port-version": 0
     },
     "xtensor-2019-01-20-0": {
