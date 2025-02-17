@@ -64608,6 +64608,10 @@
       "baseline": "7.6.2",
       "port-version": 6
     },
+    "opencascade-7-6-2-7": {
+      "baseline": "7.6.2",
+      "port-version": 7
+    },
     "opencc-1-1-4-0": {
       "baseline": "1.1.4",
       "port-version": 0
