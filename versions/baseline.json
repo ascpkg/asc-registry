@@ -68108,6 +68108,10 @@
       "baseline": "1895",
       "port-version": 0
     },
+    "libyuv-1895-1": {
+      "baseline": "1895",
+      "port-version": 1
+    },
     "libyuv-2021-04-15-0": {
       "baseline": "2021-04-15",
       "port-version": 0
