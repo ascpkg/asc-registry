@@ -1,0 +1,17 @@
+old = "arrayfire"
+new = "arrayfire-3-8-0-5"
+
+[deps]
+boost-compute-1-82-0-2 = "boost-compute"
+boost-stacktrace-1-82-0-2 = "boost-stacktrace"
+clblast-1-5-2-3 = "clblast"
+clfft-2-12-2-6 = "clfft"
+cub-1-16-0-0 = "cub"
+cuda-10-1-13 = "cuda"
+cudnn-7-6-5-9 = "cudnn"
+glad-0-1-36-0 = "glad"
+intel-mkl-2023-0-0-2 = "intel-mkl"
+opencl-v2023-02-06-2 = "opencl"
+spdlog-1-11-0-1 = "spdlog"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

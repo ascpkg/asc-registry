@@ -2256,6 +2256,10 @@
       "baseline": "3.8.0",
       "port-version": 4
     },
+    "arrayfire-3-8-0-5": {
+      "baseline": "3.8.0",
+      "port-version": 5
+    },
     "arrow-0-11-1-0": {
       "baseline": "0.11.1",
       "port-version": 0
@@ -23647,6 +23651,10 @@
     "clblast-1-5-2-2": {
       "baseline": "1.5.2",
       "port-version": 2
+    },
+    "clblast-1-5-2-3": {
+      "baseline": "1.5.2",
+      "port-version": 3
     },
     "clfft-2-12-2-0": {
       "baseline": "2.12.2",
