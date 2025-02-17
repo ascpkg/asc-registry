@@ -1220,6 +1220,10 @@
       "baseline": "2.1",
       "port-version": 0
     },
+    "argparse-2-2-0": {
+      "baseline": "2.2",
+      "port-version": 0
+    },
     "argparse-2019-06-10-0": {
       "baseline": "2019-06-10",
       "port-version": 0
