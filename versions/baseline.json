@@ -21604,6 +21604,10 @@
       "baseline": "3.1.10",
       "port-version": 2
     },
+    "libmariadb-3-1-10-3": {
+      "baseline": "3.1.10",
+      "port-version": 3
+    },
     "libmariadb-3-1-7-0": {
       "baseline": "3.1.7",
       "port-version": 0
