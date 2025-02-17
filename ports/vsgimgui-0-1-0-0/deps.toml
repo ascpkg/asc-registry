@@ -1,0 +1,9 @@
+old = "vsgimgui"
+new = "vsgimgui-0-1-0-0"
+
+[deps]
+imgui-1-90-3 = "imgui"
+implot-0-16-0 = "implot"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+vsg-1-0-9-0 = "vsg"
