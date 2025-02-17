@@ -12724,6 +12724,10 @@
       "baseline": "3.3.7",
       "port-version": 7
     },
+    "elfio-3-8-0": {
+      "baseline": "3.8",
+      "port-version": 0
+    },
     "embree-2-16-4-1-0": {
       "baseline": "2.16.4-1",
       "port-version": 0
