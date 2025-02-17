@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/hpx-1-7-1-5",
+      "version-semver": "1.7.1",
+      "port-version": 5
+    }
+  ]
+}
