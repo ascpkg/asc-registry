@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/tool-meson-0-56-01-0",
+      "version": "0.56.01",
+      "port-version": 0
+    }
+  ]
+}
