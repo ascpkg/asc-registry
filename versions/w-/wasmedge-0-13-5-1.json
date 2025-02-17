@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/wasmedge-0-13-5-1",
+      "version": "0.13.5",
+      "port-version": 1
+    }
+  ]
+}

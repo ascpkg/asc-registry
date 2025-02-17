@@ -102880,6 +102880,10 @@
       "baseline": "0.13.5",
       "port-version": 0
     },
+    "wasmedge-0-13-5-1": {
+      "baseline": "0.13.5",
+      "port-version": 1
+    },
     "wavelib-2020-05-29-0": {
       "baseline": "2020-05-29",
       "port-version": 0
