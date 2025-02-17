@@ -3,9 +3,10 @@ new = "dlib-19-21-4"
 
 [deps]
 blas-1-0 = "blas"
-cuda-10-1-4 = "cuda"
+cuda-10-1-5 = "cuda"
+cudnn-7-6-4 = "cudnn"
 fftw3-3-3-8-7-0 = "fftw3"
 lapack-3-1 = "lapack"
-libjpeg-turbo-2-0-5-0 = "libjpeg-turbo"
-libpng-1-6-37-13 = "libpng"
+libjpeg-turbo-2-0-5-1 = "libjpeg-turbo"
+libpng-1-6-37-14 = "libpng"
 sqlite3-3-33-0-0 = "sqlite3"
