@@ -48992,6 +48992,10 @@
       "baseline": "0.3.4",
       "port-version": 0
     },
+    "lensfun-0-3-4-1": {
+      "baseline": "0.3.4",
+      "port-version": 1
+    },
     "leptonica-1-74-4-0": {
       "baseline": "1.74.4",
       "port-version": 0
