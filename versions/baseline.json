@@ -14092,6 +14092,10 @@
       "baseline": "2.10.2",
       "port-version": 3
     },
+    "freetype-2-10-2-4": {
+      "baseline": "2.10.2",
+      "port-version": 4
+    },
     "freetype-2-6-3-0": {
       "baseline": "2.6.3",
       "port-version": 0
