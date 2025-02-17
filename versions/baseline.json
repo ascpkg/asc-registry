@@ -19440,6 +19440,10 @@
       "baseline": "0.37.0",
       "port-version": 0
     },
+    "gsl-lite-0-38-0-0": {
+      "baseline": "0.38.0",
+      "port-version": 0
+    },
     "gsoap-2-8-102-0": {
       "baseline": "2.8.102",
       "port-version": 0
