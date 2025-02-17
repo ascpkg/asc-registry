@@ -24008,6 +24008,10 @@
       "baseline": "2.9.10",
       "port-version": 0
     },
+    "libxml2-2-9-10-1": {
+      "baseline": "2.9.10",
+      "port-version": 1
+    },
     "libxml2-2-9-4-0": {
       "baseline": "2.9.4",
       "port-version": 0
@@ -24127,6 +24131,10 @@
     "libxslt-1-1-33-7-1": {
       "baseline": "1.1.33-7",
       "port-version": 1
+    },
+    "libxslt-1-1-33-7-2": {
+      "baseline": "1.1.33-7",
+      "port-version": 2
     },
     "libyaml-0-2-1-1-0": {
       "baseline": "0.2.1-1",
