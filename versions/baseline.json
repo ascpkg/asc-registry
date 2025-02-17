@@ -21128,6 +21128,10 @@
       "baseline": "1.2.8",
       "port-version": 0
     },
+    "libtorrent-1-2-9-0": {
+      "baseline": "1.2.9",
+      "port-version": 0
+    },
     "libtorrent-2019-04-19-0": {
       "baseline": "2019-04-19",
       "port-version": 0
