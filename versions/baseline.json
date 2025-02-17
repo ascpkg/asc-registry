@@ -4784,6 +4784,10 @@
       "baseline": "12.7.0",
       "port-version": 0
     },
+    "azure-storage-blobs-cpp-12-8-0-0": {
+      "baseline": "12.8.0",
+      "port-version": 0
+    },
     "azure-storage-common-cpp-12-0-0-0": {
       "baseline": "12.0.0",
       "port-version": 0
@@ -4854,6 +4858,10 @@
     },
     "azure-storage-common-cpp-12-3-2-0": {
       "baseline": "12.3.2",
+      "port-version": 0
+    },
+    "azure-storage-common-cpp-12-3-3-0": {
+      "baseline": "12.3.3",
       "port-version": 0
     },
     "azure-storage-cpp-2-5-0-0": {
@@ -5048,6 +5056,10 @@
       "baseline": "12.6.0",
       "port-version": 0
     },
+    "azure-storage-files-datalake-cpp-12-7-0-0": {
+      "baseline": "12.7.0",
+      "port-version": 0
+    },
     "azure-storage-files-shares-cpp-12-0-0-0": {
       "baseline": "12.0.0",
       "port-version": 0
@@ -5106,6 +5118,10 @@
     },
     "azure-storage-files-shares-cpp-12-5-0-0": {
       "baseline": "12.5.0",
+      "port-version": 0
+    },
+    "azure-storage-files-shares-cpp-12-6-0-0": {
+      "baseline": "12.6.0",
       "port-version": 0
     },
     "azure-storage-queues-cpp-12-0-0-0": {
