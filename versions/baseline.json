@@ -1180,6 +1180,10 @@
       "baseline": "chromium_4472",
       "port-version": 5
     },
+    "angle-chromium-4472-6": {
+      "baseline": "chromium_4472",
+      "port-version": 6
+    },
     "antlr4-4-10-1-0": {
       "baseline": "4.10.1",
       "port-version": 0
@@ -59635,6 +59639,10 @@
     "qt5-base-5-15-7-0": {
       "baseline": "5.15.7",
       "port-version": 0
+    },
+    "qt5-base-5-15-7-1": {
+      "baseline": "5.15.7",
+      "port-version": 1
     },
     "qt5-base-5-9-2-0-0": {
       "baseline": "5.9.2-0",
