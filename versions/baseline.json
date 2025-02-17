@@ -63024,6 +63024,10 @@
       "baseline": "0.1.21",
       "port-version": 2
     },
+    "libnice-0-1-22-0": {
+      "baseline": "0.1.22",
+      "port-version": 0
+    },
     "libnice-gst-0-1-21-0": {
       "baseline": "0.1.21",
       "port-version": 0
@@ -63043,6 +63047,10 @@
     "libnice-gst-0-1-21-4": {
       "baseline": "0.1.21",
       "port-version": 4
+    },
+    "libnice-gst-0-1-22-0": {
+      "baseline": "0.1.22",
+      "port-version": 0
     },
     "libnick-2024-1-3-0": {
       "baseline": "2024.1.3",

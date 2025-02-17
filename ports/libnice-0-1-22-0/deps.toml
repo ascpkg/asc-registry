@@ -1,0 +1,7 @@
+old = "libnice"
+new = "libnice-0-1-22-0"
+
+[deps]
+glib-2-78-4-4 = "glib"
+openssl-3-3-2-1 = "openssl"
+vcpkg-tool-meson-1-5-2-0 = "vcpkg-tool-meson"
