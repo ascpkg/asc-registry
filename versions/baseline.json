@@ -9204,6 +9204,10 @@
       "baseline": "5.60.0-2",
       "port-version": 0
     },
+    "ecm-5-64-0-1-0": {
+      "baseline": "5.64.0-1",
+      "port-version": 0
+    },
     "ecos-2-0-7-0": {
       "baseline": "2.0.7",
       "port-version": 0
@@ -13856,12 +13860,20 @@
       "baseline": "5.58.0",
       "port-version": 0
     },
+    "kf5archive-5-64-0-0": {
+      "baseline": "5.64.0",
+      "port-version": 0
+    },
     "kf5holidays-5-50-0-0": {
       "baseline": "5.50.0",
       "port-version": 0
     },
     "kf5holidays-5-58-0-0": {
       "baseline": "5.58.0",
+      "port-version": 0
+    },
+    "kf5holidays-5-64-0-0": {
+      "baseline": "5.64.0",
       "port-version": 0
     },
     "kf5plotting-5-37-0-0": {
@@ -13874,6 +13886,10 @@
     },
     "kf5plotting-5-58-0-0": {
       "baseline": "5.58.0",
+      "port-version": 0
+    },
+    "kf5plotting-5-64-0-0": {
+      "baseline": "5.64.0",
       "port-version": 0
     },
     "kinectsdk1-1-8-0": {

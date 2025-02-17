@@ -1,0 +1,8 @@
+old = "kf5archive"
+new = "kf5archive-5-64-0-0"
+
+[deps]
+bzip2-1-0-6-4-0 = "bzip2"
+ecm-5-64-0-1-0 = "ecm"
+qt5-base-5-12-5-3-0 = "qt5-base"
+zlib-1-2-11-5-0 = "zlib"
