@@ -51008,6 +51008,10 @@
       "baseline": "5.15.3",
       "port-version": 0
     },
+    "qt5-5-15-3-1": {
+      "baseline": "5.15.3",
+      "port-version": 1
+    },
     "qt5-5-7-0": {
       "baseline": "5.7",
       "port-version": 0
@@ -53563,6 +53567,10 @@
     "qt5-winextras-5-15-3-0": {
       "baseline": "5.15.3",
       "port-version": 0
+    },
+    "qt5-winextras-5-15-3-1": {
+      "baseline": "5.15.3",
+      "port-version": 1
     },
     "qt5-winextras-5-9-2-0-0": {
       "baseline": "5.9.2-0",
