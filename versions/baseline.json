@@ -2260,6 +2260,10 @@
       "baseline": "2018-07-30",
       "port-version": 0
     },
+    "breakpad-2018-07-30-2-0": {
+      "baseline": "2018-07-30-2",
+      "port-version": 0
+    },
     "breakpad-2018-2-19-0": {
       "baseline": "2018-2-19",
       "port-version": 0
