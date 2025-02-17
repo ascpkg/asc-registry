@@ -19244,6 +19244,10 @@
       "baseline": "2.1.0",
       "port-version": 10
     },
+    "glew-2-1-0-11": {
+      "baseline": "2.1.0",
+      "port-version": 11
+    },
     "glew-2-1-0-2-0": {
       "baseline": "2.1.0-2",
       "port-version": 0
