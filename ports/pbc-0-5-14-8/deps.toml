@@ -1,0 +1,7 @@
+old = "pbc"
+new = "pbc-0-5-14-8"
+
+[deps]
+gmp-6-2-1-21 = "gmp"
+mpir-2022-03-02-1 = "mpir"
+vcpkg-msbuild-2023-08-08-0 = "vcpkg-msbuild"
