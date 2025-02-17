@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/openvino-2024-4-0-3",
+      "version": "2024.4.0",
+      "port-version": 3
+    }
+  ]
+}
