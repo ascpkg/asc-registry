@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qtkeychain-qt6-0-13-2-0",
+      "version": "0.13.2",
+      "port-version": 0
+    }
+  ]
+}
