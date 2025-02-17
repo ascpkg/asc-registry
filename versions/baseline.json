@@ -8108,6 +8108,10 @@
       "baseline": "4.3.7",
       "port-version": 0
     },
+    "behaviortree-cpp-4-6-2-0": {
+      "baseline": "4.6.2",
+      "port-version": 0
+    },
     "benchmark-1-1-0-0": {
       "baseline": "1.1.0",
       "port-version": 0
