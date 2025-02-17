@@ -12816,6 +12816,10 @@
       "baseline": "ed0368f",
       "port-version": 0
     },
+    "dav1d-0-8-1-0": {
+      "baseline": "0.8.1",
+      "port-version": 0
+    },
     "dbg-macro-2019-07-11-0": {
       "baseline": "2019-07-11",
       "port-version": 0
