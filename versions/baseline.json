@@ -4152,6 +4152,10 @@
       "baseline": "7.61.1-1",
       "port-version": 0
     },
+    "curl-7-61-1-2-0": {
+      "baseline": "7.61.1-2",
+      "port-version": 0
+    },
     "cutelyst2-2-5-2-1-0": {
       "baseline": "2.5.2-1",
       "port-version": 0
