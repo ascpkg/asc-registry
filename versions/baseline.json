@@ -44,6 +44,10 @@
       "baseline": "2018-03-23",
       "port-version": 0
     },
+    "abseil-2018-03-27-0": {
+      "baseline": "2018-03-27",
+      "port-version": 0
+    },
     "abseil-2018-2-23-0": {
       "baseline": "2018-2-23",
       "port-version": 0
@@ -422,6 +426,10 @@
     },
     "aws-sdk-cpp-1-4-21-0": {
       "baseline": "1.4.21",
+      "port-version": 0
+    },
+    "aws-sdk-cpp-1-4-23-0": {
+      "baseline": "1.4.23",
       "port-version": 0
     },
     "azmq-1-0-2-0": {
@@ -1394,6 +1402,10 @@
     },
     "breakpad-2018-03-13-0": {
       "baseline": "2018-03-13",
+      "port-version": 0
+    },
+    "breakpad-2018-03-27-0": {
+      "baseline": "2018-03-27",
       "port-version": 0
     },
     "breakpad-2018-2-19-0": {
@@ -2674,6 +2686,10 @@
     },
     "exiv2-2018-03-23-0": {
       "baseline": "2018-03-23",
+      "port-version": 0
+    },
+    "exiv2-2018-03-27-0": {
+      "baseline": "2018-03-27",
       "port-version": 0
     },
     "exiv2-327b3f6c4de4ffda82818367fc870640d2ae8820-0": {
@@ -6056,6 +6072,10 @@
       "baseline": "2018-03-23",
       "port-version": 0
     },
+    "nuklear-2018-03-27-0": {
+      "baseline": "2018-03-27",
+      "port-version": 0
+    },
     "nvml-1-3-0-0": {
       "baseline": "1.3-0",
       "port-version": 0
@@ -9078,6 +9098,10 @@
     },
     "zeromq-2018-03-23-0": {
       "baseline": "2018-03-23",
+      "port-version": 0
+    },
+    "zeromq-2018-03-27-0": {
+      "baseline": "2018-03-27",
       "port-version": 0
     },
     "zeromq-4-2-0-0": {
