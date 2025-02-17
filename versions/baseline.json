@@ -14244,6 +14244,10 @@
       "baseline": "2019-06-10-4",
       "port-version": 0
     },
+    "czmq-4-2-1-0": {
+      "baseline": "4.2.1",
+      "port-version": 0
+    },
     "d3dx12-may2020-0": {
       "baseline": "may2020",
       "port-version": 0
