@@ -1,0 +1,9 @@
+old = "fastrtps"
+new = "fastrtps-2-0-1-0"
+
+[deps]
+asio-1-12-2-2-0 = "asio"
+fastcdr-1-0-11-0 = "fastcdr"
+foonathan-memory-2019-07-21-1-0 = "foonathan-memory"
+openssl-1-1-1g-1 = "openssl"
+tinyxml2-8-0-0-1-0 = "tinyxml2"

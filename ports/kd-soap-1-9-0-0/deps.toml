@@ -1,0 +1,5 @@
+old = "kd-soap"
+new = "kd-soap-1-9-0-0"
+
+[deps]
+qt5-base-5-15-0-2 = "qt5-base"
