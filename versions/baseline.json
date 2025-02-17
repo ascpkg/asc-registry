@@ -12568,6 +12568,10 @@
       "baseline": "gamma-2018-01-27-1",
       "port-version": 0
     },
+    "gasol-2018-01-04-0": {
+      "baseline": "2018-01-04",
+      "port-version": 0
+    },
     "gaussianlib-2019-08-04-0": {
       "baseline": "2019-08-04",
       "port-version": 0
