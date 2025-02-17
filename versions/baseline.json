@@ -46168,6 +46168,10 @@
       "baseline": "10.0.0",
       "port-version": 0
     },
+    "idyntree-10-3-0-0": {
+      "baseline": "10.3.0",
+      "port-version": 0
+    },
     "idyntree-8-1-0-0": {
       "baseline": "8.1.0",
       "port-version": 0
