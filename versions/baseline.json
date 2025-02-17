@@ -2680,6 +2680,10 @@
       "baseline": "3.7",
       "port-version": 1
     },
+    "blaze-3-8-0": {
+      "baseline": "3.8",
+      "port-version": 0
+    },
     "blend2d-beta-2019-04-30-0": {
       "baseline": "beta_2019-04-30",
       "port-version": 0
