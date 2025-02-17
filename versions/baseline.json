@@ -1148,6 +1148,10 @@
       "baseline": "3.7.3",
       "port-version": 2
     },
+    "arrayfire-3-7-3-3": {
+      "baseline": "3.7.3",
+      "port-version": 3
+    },
     "arrow-0-11-1-0": {
       "baseline": "0.11.1",
       "port-version": 0
