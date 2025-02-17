@@ -2188,6 +2188,10 @@
       "baseline": "3.0.2",
       "port-version": 0
     },
+    "gmime-3-0-5-0": {
+      "baseline": "3.0.5",
+      "port-version": 0
+    },
     "gnusl-2-3-0": {
       "baseline": "2.3",
       "port-version": 0
