@@ -1308,6 +1308,10 @@
       "baseline": "1.7.0",
       "port-version": 8
     },
+    "apr-1-7-0-9": {
+      "baseline": "1.7.0",
+      "port-version": 9
+    },
     "apr-util-1-6-0-0": {
       "baseline": "1.6.0",
       "port-version": 0
