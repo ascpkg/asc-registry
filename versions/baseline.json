@@ -18836,6 +18836,10 @@
       "baseline": "2022-11-09",
       "port-version": 0
     },
+    "chakracore-2022-11-09-1": {
+      "baseline": "2022-11-09",
+      "port-version": 1
+    },
     "charls-2-0-0-0": {
       "baseline": "2.0.0",
       "port-version": 0
