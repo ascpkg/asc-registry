@@ -1,0 +1,7 @@
+old = "xsimd"
+new = "xsimd-13-0-0-1"
+
+[deps]
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
+xtl-0-7-7-0 = "xtl"

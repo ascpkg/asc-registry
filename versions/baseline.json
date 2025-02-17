@@ -117964,6 +117964,10 @@
       "baseline": "13.0.0",
       "port-version": 0
     },
+    "xsimd-13-0-0-1": {
+      "baseline": "13.0.0",
+      "port-version": 1
+    },
     "xsimd-7-1-2-0": {
       "baseline": "7.1.2",
       "port-version": 0
