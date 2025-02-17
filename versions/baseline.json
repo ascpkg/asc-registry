@@ -220,6 +220,10 @@
       "baseline": "4.0.1-3",
       "port-version": 0
     },
+    "assimp-4-1-0-0": {
+      "baseline": "4.1.0",
+      "port-version": 0
+    },
     "atk-2-22-0-0": {
       "baseline": "2.22.0",
       "port-version": 0
