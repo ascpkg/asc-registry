@@ -17220,6 +17220,10 @@
       "baseline": "5.84.0",
       "port-version": 0
     },
+    "ecm-5-84-0-1": {
+      "baseline": "5.84.0",
+      "port-version": 1
+    },
     "ecos-2-0-7-0": {
       "baseline": "2.0.7",
       "port-version": 0
