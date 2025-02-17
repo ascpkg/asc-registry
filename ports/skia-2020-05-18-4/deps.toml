@@ -1,0 +1,12 @@
+old = "skia"
+new = "skia-2020-05-18-4"
+
+[deps]
+expat-2020-08-18-0 = "expat"
+freetype-2-10-2-3 = "freetype"
+harfbuzz-2-6-6-1 = "harfbuzz"
+icu-67-1-2-0 = "icu"
+libjpeg-turbo-2-0-5-0 = "libjpeg-turbo"
+libpng-1-6-37-11 = "libpng"
+libwebp-1-1-0-1 = "libwebp"
+zlib-1-2-11-9 = "zlib"
