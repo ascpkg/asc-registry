@@ -33472,6 +33472,10 @@
       "baseline": "8.9.1",
       "port-version": 1
     },
+    "curlcpp-3-1-0": {
+      "baseline": "3.1",
+      "port-version": 0
+    },
     "curlpp-2018-06-15-0": {
       "baseline": "2018-06-15",
       "port-version": 0
