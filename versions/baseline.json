@@ -17996,6 +17996,10 @@
       "baseline": "2019-03-05-1",
       "port-version": 0
     },
+    "glslang-2019-03-05-2": {
+      "baseline": "2019-03-05",
+      "port-version": 2
+    },
     "glslang-3a21c880500eac21cdf79bef5b80f970a55ac6af-0": {
       "baseline": "3a21c880500eac21cdf79bef5b80f970a55ac6af",
       "port-version": 0
