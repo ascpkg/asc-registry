@@ -37624,6 +37624,10 @@
       "baseline": "2.1.0",
       "port-version": 0
     },
+    "numcpp-2-6-0-0": {
+      "baseline": "2.6.0",
+      "port-version": 0
+    },
     "nuspell-3-0-0-0": {
       "baseline": "3.0.0",
       "port-version": 0
