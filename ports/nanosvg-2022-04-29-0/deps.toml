@@ -1,0 +1,5 @@
+old = "nanosvg"
+new = "nanosvg-2022-04-29-0"
+
+[deps]
+vcpkg-cmake-2022-04-21-0 = "vcpkg-cmake"
