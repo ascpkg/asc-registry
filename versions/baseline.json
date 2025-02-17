@@ -20312,6 +20312,10 @@
       "baseline": "2022-04-17",
       "port-version": 0
     },
+    "discordcoreapi-2022-05-05-0": {
+      "baseline": "2022-05-05",
+      "port-version": 0
+    },
     "discount-2-2-6-0": {
       "baseline": "2.2.6",
       "port-version": 0
