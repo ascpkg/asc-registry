@@ -36248,6 +36248,10 @@
       "baseline": "6.6.4",
       "port-version": 0
     },
+    "mapbox-geojson-vt-cpp-6-6-5-0": {
+      "baseline": "6.6.5",
+      "port-version": 0
+    },
     "mapbox-geometry-2-0-3-0": {
       "baseline": "2.0.3",
       "port-version": 0
