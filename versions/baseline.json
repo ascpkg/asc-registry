@@ -9848,6 +9848,10 @@
       "baseline": "2.5.0",
       "port-version": 0
     },
+    "cpp-taskflow-2-6-0-0": {
+      "baseline": "2.6.0",
+      "port-version": 0
+    },
     "cpp-taskflow-2018-11-30-0": {
       "baseline": "2018-11-30",
       "port-version": 0
@@ -35190,6 +35194,10 @@
     },
     "tap-windows6-9-21-2-0e30f5c-0": {
       "baseline": "9.21.2-0e30f5c",
+      "port-version": 0
+    },
+    "taskflow-2-6-0-0": {
+      "baseline": "2.6.0",
       "port-version": 0
     },
     "tbb-20160916-0": {
