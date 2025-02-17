@@ -3804,6 +3804,10 @@
       "baseline": "2.3.2",
       "port-version": 0
     },
+    "avcpp-2-4-0-0": {
+      "baseline": "2.4.0",
+      "port-version": 0
+    },
     "avcpp-2021-05-06-0": {
       "baseline": "2021-05-06",
       "port-version": 0
