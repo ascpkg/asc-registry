@@ -28440,6 +28440,10 @@
       "baseline": "0.5",
       "port-version": 10
     },
+    "pangolin-0-5-11": {
+      "baseline": "0.5",
+      "port-version": 11
+    },
     "pangolin-0-5-2-0": {
       "baseline": "0.5-2",
       "port-version": 0

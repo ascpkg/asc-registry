@@ -1,0 +1,9 @@
+old = "pangolin"
+new = "pangolin-0-5-11"
+
+[deps]
+eigen3-3-3-7-7 = "eigen3"
+ffmpeg-4-3-1-1 = "ffmpeg"
+glew-2-1-0-9 = "glew"
+libjpeg-turbo-2-0-5-0 = "libjpeg-turbo"
+libpng-1-6-37-12 = "libpng"
