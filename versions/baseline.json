@@ -48880,6 +48880,10 @@
       "baseline": "2.0.0",
       "port-version": 0
     },
+    "litehtml-0-6-0-0": {
+      "baseline": "0.6.0",
+      "port-version": 0
+    },
     "live555-2017-06-04-0": {
       "baseline": "2017.06.04",
       "port-version": 0
@@ -68947,6 +68951,10 @@
     "qttools-6-4-2-1": {
       "baseline": "6.4.2",
       "port-version": 1
+    },
+    "qttools-6-4-2-2": {
+      "baseline": "6.4.2",
+      "port-version": 2
     },
     "qttranslations-6-1-0-0": {
       "baseline": "6.1.0",
