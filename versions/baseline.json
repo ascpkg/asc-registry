@@ -37464,6 +37464,10 @@
       "baseline": "11.31",
       "port-version": 3
     },
+    "dxut-11-32-0": {
+      "baseline": "11.32",
+      "port-version": 0
+    },
     "dylib-2-2-1-0": {
       "baseline": "2.2.1",
       "port-version": 0
