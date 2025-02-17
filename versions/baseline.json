@@ -27272,6 +27272,10 @@
       "baseline": "1.10.5",
       "port-version": 0
     },
+    "cpr-1-10-5-1": {
+      "baseline": "1.10.5",
+      "port-version": 1
+    },
     "cpr-1-3-0-0": {
       "baseline": "1.3.0",
       "port-version": 0
