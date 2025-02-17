@@ -184,6 +184,10 @@
       "baseline": "2019-04-19-1",
       "port-version": 0
     },
+    "abseil-2019-05-07-0": {
+      "baseline": "2019-05-07",
+      "port-version": 0
+    },
     "ace-6-4-0-0": {
       "baseline": "6.4.0",
       "port-version": 0
@@ -978,6 +982,10 @@
     },
     "aws-sdk-cpp-1-7-89-0": {
       "baseline": "1.7.89",
+      "port-version": 0
+    },
+    "aws-sdk-cpp-1-7-98-0": {
+      "baseline": "1.7.98",
       "port-version": 0
     },
     "azmq-1-0-2-0": {
@@ -4408,6 +4416,10 @@
       "baseline": "2.7.1",
       "port-version": 0
     },
+    "catch2-2-7-2-0": {
+      "baseline": "2.7.2",
+      "port-version": 0
+    },
     "cccapstone-9b4128ee1153e78288a1b5433e2c06a0d47a4c4e-0": {
       "baseline": "9b4128ee1153e78288a1b5433e2c06a0d47a4c4e",
       "port-version": 0
@@ -4790,6 +4802,10 @@
     },
     "cimg-2-5-7-0": {
       "baseline": "2.5.7",
+      "port-version": 0
+    },
+    "cimg-2-6-1-0": {
+      "baseline": "2.6.1",
       "port-version": 0
     },
     "cimg-220-0": {
@@ -5672,6 +5688,10 @@
       "baseline": "apr2018",
       "port-version": 0
     },
+    "directxmesh-apr2019-0": {
+      "baseline": "apr2019",
+      "port-version": 0
+    },
     "directxmesh-aug2018-0": {
       "baseline": "aug2018",
       "port-version": 0
@@ -5728,6 +5748,10 @@
       "baseline": "apr2018",
       "port-version": 0
     },
+    "directxtex-apr2019-0": {
+      "baseline": "apr2019",
+      "port-version": 0
+    },
     "directxtex-aug2018b-0": {
       "baseline": "aug2018b",
       "port-version": 0
@@ -5774,6 +5798,10 @@
     },
     "directxtk-apr2018-0": {
       "baseline": "apr2018",
+      "port-version": 0
+    },
+    "directxtk-apr2019-0": {
+      "baseline": "apr2019",
       "port-version": 0
     },
     "directxtk-aug2018-0": {
@@ -6226,6 +6254,10 @@
     },
     "eastl-3-13-04-1-0": {
       "baseline": "3.13.04-1",
+      "port-version": 0
+    },
+    "eastl-3-13-05-0": {
+      "baseline": "3.13.05",
       "port-version": 0
     },
     "easyloggingpp-9-96-5-1-0": {
@@ -7326,6 +7358,10 @@
     },
     "forest-11-0-0-0": {
       "baseline": "11.0.0",
+      "port-version": 0
+    },
+    "forest-11-0-1-0": {
+      "baseline": "11.0.1",
       "port-version": 0
     },
     "forest-4-5-0-0": {
@@ -9146,6 +9182,10 @@
     },
     "imgui-1-69-1-0": {
       "baseline": "1.69-1",
+      "port-version": 0
+    },
+    "imgui-1-70-0": {
+      "baseline": "1.70",
       "port-version": 0
     },
     "inih-42-0": {
@@ -11688,6 +11728,10 @@
       "baseline": "2019-03-29",
       "port-version": 0
     },
+    "luasocket-2019-05-07-0": {
+      "baseline": "2019-05-07",
+      "port-version": 0
+    },
     "lz4-1-7-4-2-0": {
       "baseline": "1.7.4.2",
       "port-version": 0
@@ -11722,6 +11766,10 @@
     },
     "lz4-1-9-0-0": {
       "baseline": "1.9.0",
+      "port-version": 0
+    },
+    "lz4-1-9-1-0": {
+      "baseline": "1.9.1",
       "port-version": 0
     },
     "lzfse-1-0-0": {
@@ -12566,6 +12614,10 @@
     },
     "nana-1-6-2-1-0": {
       "baseline": "1.6.2-1",
+      "port-version": 0
+    },
+    "nana-1-7-1-0": {
+      "baseline": "1.7.1",
       "port-version": 0
     },
     "nano-signal-slot-commit-25aa2aa90d450d3c7550c535c7993a9e2ed0764a-0": {
@@ -15992,6 +16044,10 @@
       "baseline": "2019-04-19",
       "port-version": 0
     },
+    "re2-2019-05-07-0": {
+      "baseline": "2019-05-07",
+      "port-version": 0
+    },
     "readerwriterqueue-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
@@ -16260,6 +16316,10 @@
       "baseline": "6.0.1",
       "port-version": 0
     },
+    "rocksdb-6-0-2-0": {
+      "baseline": "6.0.2",
+      "port-version": 0
+    },
     "rpclib-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
@@ -16374,6 +16434,10 @@
     },
     "rs-core-lib-2019-04-19-0": {
       "baseline": "2019-04-19",
+      "port-version": 0
+    },
+    "rs-core-lib-2019-05-07-0": {
+      "baseline": "2019-05-07",
       "port-version": 0
     },
     "rs-core-lib-commit-1ed2dadbda3977b13e5e83cc1f3eeca76b36ebe5-0": {
@@ -17612,6 +17676,10 @@
       "baseline": "2019-04-19",
       "port-version": 0
     },
+    "stb-2019-05-07-0": {
+      "baseline": "2019-05-07",
+      "port-version": 0
+    },
     "stlab-1-3-3-0": {
       "baseline": "1.3.3",
       "port-version": 0
@@ -17846,6 +17914,10 @@
     },
     "tbb-2019-u5-1-0": {
       "baseline": "2019_u5-1",
+      "port-version": 0
+    },
+    "tbb-2019-u6-0": {
+      "baseline": "2019_u6",
       "port-version": 0
     },
     "tclap-1-2-1-0": {
@@ -18122,6 +18194,10 @@
     },
     "thrift-2019-04-19-1-0": {
       "baseline": "2019-04-19-1",
+      "port-version": 0
+    },
+    "thrift-2019-05-07-0": {
+      "baseline": "2019-05-07",
       "port-version": 0
     },
     "thrift-latest-0": {
@@ -18626,6 +18702,10 @@
     },
     "unicorn-lib-2019-04-19-0": {
       "baseline": "2019-04-19",
+      "port-version": 0
+    },
+    "unicorn-lib-2019-05-07-0": {
+      "baseline": "2019-05-07",
       "port-version": 0
     },
     "unicorn-lib-commit-3ffa7fe69a1d0c37fb52a4af61380c5fd84fa5aa-0": {
@@ -19590,6 +19670,10 @@
     },
     "zeromq-2019-04-19-0": {
       "baseline": "2019-04-19",
+      "port-version": 0
+    },
+    "zeromq-2019-05-07-0": {
+      "baseline": "2019-05-07",
       "port-version": 0
     },
     "zeromq-4-2-0-0": {
