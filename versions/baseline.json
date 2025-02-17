@@ -83244,6 +83244,10 @@
       "baseline": "46.0",
       "port-version": 0
     },
+    "perfetto-47-0-0": {
+      "baseline": "47.0",
+      "port-version": 0
+    },
     "pffft-2021-10-09-0": {
       "baseline": "2021-10-09",
       "port-version": 0
