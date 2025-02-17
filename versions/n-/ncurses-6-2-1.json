@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ncurses-6-2-1",
+      "version-string": "6.2",
+      "port-version": 1
+    }
+  ]
+}
