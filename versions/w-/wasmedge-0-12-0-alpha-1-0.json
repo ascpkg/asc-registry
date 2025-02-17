@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/wasmedge-0-12-0-alpha-1-0",
+      "version-semver": "0.12.0-alpha.1",
+      "port-version": 0
+    }
+  ]
+}
