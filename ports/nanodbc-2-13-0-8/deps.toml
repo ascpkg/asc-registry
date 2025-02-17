@@ -1,0 +1,7 @@
+old = "nanodbc"
+new = "nanodbc-2-13-0-8"
+
+[deps]
+unixodbc-2-3-11-2 = "unixodbc"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
