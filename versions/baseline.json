@@ -93344,6 +93344,10 @@
       "baseline": "2018-11-15",
       "port-version": 6
     },
+    "stxxl-2018-11-15-7": {
+      "baseline": "2018-11-15",
+      "port-version": 7
+    },
     "suitesparse-4-5-4-0": {
       "baseline": "4.5.4",
       "port-version": 0
