@@ -1,0 +1,9 @@
+old = "kf5holidays"
+new = "kf5holidays-5-89-0-1"
+
+[deps]
+ecm-5-89-0-0 = "ecm"
+qt5-base-5-15-5-1 = "qt5-base"
+qt5-tools-5-15-5-0 = "qt5-tools"
+vcpkg-cmake-2022-07-02-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/kf5windowsystem-5-89-0-2",
+      "version": "5.89.0",
+      "port-version": 2
+    }
+  ]
+}

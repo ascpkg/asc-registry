@@ -1,0 +1,15 @@
+old = "kf5globalaccel"
+new = "kf5globalaccel-5-89-0-1"
+
+[deps]
+ecm-5-89-0-0 = "ecm"
+kf5config-5-89-0-1 = "kf5config"
+kf5coreaddons-5-89-0-1 = "kf5coreaddons"
+kf5crash-5-89-0-1 = "kf5crash"
+kf5dbusaddons-5-89-0-1 = "kf5dbusaddons"
+kf5windowsystem-5-89-0-2 = "kf5windowsystem"
+qt5-base-5-15-5-1 = "qt5-base"
+qt5-tools-5-15-5-0 = "qt5-tools"
+qt5-x11extras-5-15-5-0 = "qt5-x11extras"
+vcpkg-cmake-2022-07-02-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

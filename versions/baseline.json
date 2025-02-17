@@ -33044,6 +33044,10 @@
       "baseline": "5.89.0",
       "port-version": 1
     },
+    "kf5archive-5-89-0-2": {
+      "baseline": "5.89.0",
+      "port-version": 2
+    },
     "kf5attica-5-84-0-0": {
       "baseline": "5.84.0",
       "port-version": 0
@@ -33067,6 +33071,10 @@
     "kf5attica-5-89-0-1": {
       "baseline": "5.89.0",
       "port-version": 1
+    },
+    "kf5attica-5-89-0-2": {
+      "baseline": "5.89.0",
+      "port-version": 2
     },
     "kf5auth-5-81-0-0": {
       "baseline": "5.81.0",
@@ -33096,6 +33104,10 @@
       "baseline": "5.89.0",
       "port-version": 0
     },
+    "kf5auth-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
+    },
     "kf5bookmarks-5-84-0-0": {
       "baseline": "5.84.0",
       "port-version": 0
@@ -33111,6 +33123,10 @@
     "kf5bookmarks-5-89-0-0": {
       "baseline": "5.89.0",
       "port-version": 0
+    },
+    "kf5bookmarks-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
     },
     "kf5codecs-5-81-0-0": {
       "baseline": "5.81.0",
@@ -33147,6 +33163,10 @@
     "kf5codecs-5-89-0-1": {
       "baseline": "5.89.0",
       "port-version": 1
+    },
+    "kf5codecs-5-89-0-2": {
+      "baseline": "5.89.0",
+      "port-version": 2
     },
     "kf5completion-5-64-0-0": {
       "baseline": "5.64.0",
@@ -33188,6 +33208,10 @@
       "baseline": "5.89.0",
       "port-version": 0
     },
+    "kf5completion-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
+    },
     "kf5config-5-64-0-0": {
       "baseline": "5.64.0",
       "port-version": 0
@@ -33228,6 +33252,10 @@
       "baseline": "5.89.0",
       "port-version": 0
     },
+    "kf5config-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
+    },
     "kf5configwidgets-5-84-0-0": {
       "baseline": "5.84.0",
       "port-version": 0
@@ -33247,6 +33275,10 @@
     "kf5configwidgets-5-89-0-0": {
       "baseline": "5.89.0",
       "port-version": 0
+    },
+    "kf5configwidgets-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
     },
     "kf5coreaddons-5-64-0-0": {
       "baseline": "5.64.0",
@@ -33288,6 +33320,10 @@
       "baseline": "5.89.0",
       "port-version": 0
     },
+    "kf5coreaddons-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
+    },
     "kf5crash-5-64-0-0": {
       "baseline": "5.64.0",
       "port-version": 0
@@ -33328,6 +33364,10 @@
       "baseline": "5.89.0",
       "port-version": 0
     },
+    "kf5crash-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
+    },
     "kf5dbusaddons-5-81-0-0": {
       "baseline": "5.81.0",
       "port-version": 0
@@ -33356,6 +33396,10 @@
       "baseline": "5.89.0",
       "port-version": 0
     },
+    "kf5dbusaddons-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
+    },
     "kf5declarative-5-84-0-0": {
       "baseline": "5.84.0",
       "port-version": 0
@@ -33376,9 +33420,17 @@
       "baseline": "5.89.0",
       "port-version": 0
     },
+    "kf5declarative-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
+    },
     "kf5diagram-2-8-0-0": {
       "baseline": "2.8.0",
       "port-version": 0
+    },
+    "kf5diagram-2-8-0-1": {
+      "baseline": "2.8.0",
+      "port-version": 1
     },
     "kf5globalaccel-5-84-0-0": {
       "baseline": "5.84.0",
@@ -33399,6 +33451,10 @@
     "kf5globalaccel-5-89-0-0": {
       "baseline": "5.89.0",
       "port-version": 0
+    },
+    "kf5globalaccel-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
     },
     "kf5guiaddons-5-64-0-0": {
       "baseline": "5.64.0",
@@ -33439,6 +33495,10 @@
     "kf5guiaddons-5-89-0-0": {
       "baseline": "5.89.0",
       "port-version": 0
+    },
+    "kf5guiaddons-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
     },
     "kf5holidays-5-50-0-0": {
       "baseline": "5.50.0",
@@ -33496,6 +33556,10 @@
       "baseline": "5.89.0",
       "port-version": 0
     },
+    "kf5holidays-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
+    },
     "kf5i18n-5-64-0-0": {
       "baseline": "5.64.0",
       "port-version": 0
@@ -33548,6 +33612,10 @@
       "baseline": "5.89.0",
       "port-version": 0
     },
+    "kf5i18n-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
+    },
     "kf5iconthemes-5-84-0-0": {
       "baseline": "5.84.0",
       "port-version": 0
@@ -33567,6 +33635,10 @@
     "kf5iconthemes-5-89-0-0": {
       "baseline": "5.89.0",
       "port-version": 0
+    },
+    "kf5iconthemes-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
     },
     "kf5itemmodels-5-64-0-0": {
       "baseline": "5.64.0",
@@ -33608,6 +33680,10 @@
       "baseline": "5.89.0",
       "port-version": 0
     },
+    "kf5itemmodels-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
+    },
     "kf5itemviews-5-64-0-0": {
       "baseline": "5.64.0",
       "port-version": 0
@@ -33648,6 +33724,10 @@
       "baseline": "5.89.0",
       "port-version": 0
     },
+    "kf5itemviews-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
+    },
     "kf5jobwidgets-5-84-0-0": {
       "baseline": "5.84.0",
       "port-version": 0
@@ -33668,6 +33748,10 @@
       "baseline": "5.89.0",
       "port-version": 0
     },
+    "kf5jobwidgets-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
+    },
     "kf5kcmutils-5-84-0-0": {
       "baseline": "5.84.0",
       "port-version": 0
@@ -33683,6 +33767,10 @@
     "kf5kcmutils-5-89-0-0": {
       "baseline": "5.89.0",
       "port-version": 0
+    },
+    "kf5kcmutils-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
     },
     "kf5kio-5-84-0-0": {
       "baseline": "5.84.0",
@@ -33704,6 +33792,10 @@
       "baseline": "5.89.0",
       "port-version": 0
     },
+    "kf5kio-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
+    },
     "kf5newstuff-5-84-0-0": {
       "baseline": "5.84.0",
       "port-version": 0
@@ -33720,6 +33812,10 @@
       "baseline": "5.89.0",
       "port-version": 0
     },
+    "kf5newstuff-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
+    },
     "kf5notifications-5-84-0-0": {
       "baseline": "5.84.0",
       "port-version": 0
@@ -33735,6 +33831,10 @@
     "kf5notifications-5-89-0-0": {
       "baseline": "5.89.0",
       "port-version": 0
+    },
+    "kf5notifications-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
     },
     "kf5package-5-84-0-0": {
       "baseline": "5.84.0",
@@ -33755,6 +33855,10 @@
     "kf5package-5-89-0-0": {
       "baseline": "5.89.0",
       "port-version": 0
+    },
+    "kf5package-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
     },
     "kf5plotting-5-37-0-0": {
       "baseline": "5.37.0",
@@ -33816,6 +33920,10 @@
       "baseline": "5.89.0",
       "port-version": 0
     },
+    "kf5plotting-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
+    },
     "kf5service-5-84-0-0": {
       "baseline": "5.84.0",
       "port-version": 0
@@ -33835,6 +33943,10 @@
     "kf5service-5-89-0-0": {
       "baseline": "5.89.0",
       "port-version": 0
+    },
+    "kf5service-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
     },
     "kf5solid-5-84-0-0": {
       "baseline": "5.84.0",
@@ -33868,6 +33980,10 @@
       "baseline": "5.89.0",
       "port-version": 0
     },
+    "kf5solid-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
+    },
     "kf5sonnet-5-84-0-0": {
       "baseline": "5.84.0",
       "port-version": 0
@@ -33891,6 +34007,10 @@
     "kf5sonnet-5-89-0-0": {
       "baseline": "5.89.0",
       "port-version": 0
+    },
+    "kf5sonnet-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
     },
     "kf5syntaxhighlighting-5-64-0-0": {
       "baseline": "5.64.0",
@@ -33932,6 +34052,10 @@
       "baseline": "5.89.0",
       "port-version": 0
     },
+    "kf5syntaxhighlighting-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
+    },
     "kf5textwidgets-5-84-0-0": {
       "baseline": "5.84.0",
       "port-version": 0
@@ -33952,6 +34076,10 @@
       "baseline": "5.89.0",
       "port-version": 0
     },
+    "kf5textwidgets-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
+    },
     "kf5wallet-5-84-0-0": {
       "baseline": "5.84.0",
       "port-version": 0
@@ -33971,6 +34099,10 @@
     "kf5wallet-5-89-0-0": {
       "baseline": "5.89.0",
       "port-version": 0
+    },
+    "kf5wallet-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
     },
     "kf5widgetsaddons-5-64-0-0": {
       "baseline": "5.64.0",
@@ -34011,6 +34143,10 @@
     "kf5widgetsaddons-5-89-0-0": {
       "baseline": "5.89.0",
       "port-version": 0
+    },
+    "kf5widgetsaddons-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
     },
     "kf5windowsystem-5-64-0-0": {
       "baseline": "5.64.0",
@@ -34056,6 +34192,10 @@
       "baseline": "5.89.0",
       "port-version": 1
     },
+    "kf5windowsystem-5-89-0-2": {
+      "baseline": "5.89.0",
+      "port-version": 2
+    },
     "kf5xmlgui-5-84-0-0": {
       "baseline": "5.84.0",
       "port-version": 0
@@ -34075,6 +34215,10 @@
     "kf5xmlgui-5-89-0-0": {
       "baseline": "5.89.0",
       "port-version": 0
+    },
+    "kf5xmlgui-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
     },
     "kfr-2020-06-15-0": {
       "baseline": "2020-06-15",
