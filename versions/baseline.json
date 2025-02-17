@@ -37424,6 +37424,10 @@
       "baseline": "2.0-20211208",
       "port-version": 0
     },
+    "llfio-2-0-20220112-0": {
+      "baseline": "2.0-20220112",
+      "port-version": 0
+    },
     "llfio-2-0-a74411ed-0": {
       "baseline": "2.0-a74411ed",
       "port-version": 0
@@ -41030,6 +41034,10 @@
     },
     "ned14-internal-quickcpplib-0-0-0-8089a948-0": {
       "baseline": "0.0.0-8089a948",
+      "port-version": 0
+    },
+    "ned14-internal-quickcpplib-0-0-0-cad832c8-0": {
+      "baseline": "0.0.0-cad832c8",
       "port-version": 0
     },
     "ned14-internal-quickcpplib-0-0-0-e691a6dc-0": {
