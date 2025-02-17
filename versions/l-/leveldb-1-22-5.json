@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/leveldb-1-22-5",
+      "version": "1.22",
+      "port-version": 5
+    }
+  ]
+}
