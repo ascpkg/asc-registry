@@ -16584,6 +16584,10 @@
       "baseline": "5.1.0-5",
       "port-version": 0
     },
+    "mgnlibs-2019-09-29-0": {
+      "baseline": "2019-09-29",
+      "port-version": 0
+    },
     "mhook-2-5-1-1-0": {
       "baseline": "2.5.1-1",
       "port-version": 0
