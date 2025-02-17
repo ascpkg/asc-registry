@@ -1,0 +1,8 @@
+old = "hdf5"
+new = "hdf5-1-12-0-1"
+
+[deps]
+mpi-1-0 = "mpi"
+pthreads-3-0-0-8 = "pthreads"
+szip-2-1-1-6-0 = "szip"
+zlib-1-2-11-10 = "zlib"
