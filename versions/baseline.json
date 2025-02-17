@@ -1384,6 +1384,10 @@
       "baseline": "2019-05-16.1",
       "port-version": 0
     },
+    "azure-c-shared-utility-2019-07-01-lts-1-0": {
+      "baseline": "2019-07-01-lts-1",
+      "port-version": 0
+    },
     "azure-c-shared-utility-2019-08-20-1-0": {
       "baseline": "2019-08-20.1",
       "port-version": 0
@@ -1456,6 +1460,10 @@
       "baseline": "2019-07-01.1",
       "port-version": 0
     },
+    "azure-iot-sdk-c-2019-07-01-lts-1-0": {
+      "baseline": "2019-07-01-lts-1",
+      "port-version": 0
+    },
     "azure-iot-sdk-c-2019-08-20-1-0": {
       "baseline": "2019-08-20.1",
       "port-version": 0
@@ -1478,6 +1486,10 @@
     },
     "azure-macro-utils-c-2019-05-16-1-0": {
       "baseline": "2019-05-16.1",
+      "port-version": 0
+    },
+    "azure-macro-utils-c-2019-07-01-lts-1-0": {
+      "baseline": "2019-07-01-lts-1",
       "port-version": 0
     },
     "azure-macro-utils-c-2019-08-20-1-0": {
@@ -1620,6 +1632,10 @@
       "baseline": "2019-05-16.1",
       "port-version": 0
     },
+    "azure-uamqp-c-2019-07-01-lts-1-0": {
+      "baseline": "2019-07-01-lts-1",
+      "port-version": 0
+    },
     "azure-uamqp-c-2019-08-20-1-0": {
       "baseline": "2019-08-20.1",
       "port-version": 0
@@ -1662,6 +1678,10 @@
     },
     "azure-uhttp-c-2019-05-16-1-0": {
       "baseline": "2019-05-16.1",
+      "port-version": 0
+    },
+    "azure-uhttp-c-2019-07-01-lts-1-0": {
+      "baseline": "2019-07-01-lts-1",
       "port-version": 0
     },
     "azure-uhttp-c-2019-08-20-1-0": {
@@ -1726,6 +1746,10 @@
     },
     "azure-umqtt-c-2019-05-16-1-0": {
       "baseline": "2019-05-16.1",
+      "port-version": 0
+    },
+    "azure-umqtt-c-2019-07-01-lts-1-0": {
+      "baseline": "2019-07-01-lts-1",
       "port-version": 0
     },
     "azure-umqtt-c-2019-08-20-1-0": {
@@ -26438,6 +26462,10 @@
     },
     "umock-c-2019-05-16-1-0": {
       "baseline": "2019-05-16.1",
+      "port-version": 0
+    },
+    "umock-c-2019-07-01-lts-1-0": {
+      "baseline": "2019-07-01-lts-1",
       "port-version": 0
     },
     "umock-c-2019-08-20-1-0": {
