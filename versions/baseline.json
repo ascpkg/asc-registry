@@ -58852,6 +58852,10 @@
       "baseline": "2019-09-25",
       "port-version": 4
     },
+    "mecab-2019-09-25-5": {
+      "baseline": "2019-09-25",
+      "port-version": 5
+    },
     "memorymodule-2019-12-31-0": {
       "baseline": "2019-12-31",
       "port-version": 0
