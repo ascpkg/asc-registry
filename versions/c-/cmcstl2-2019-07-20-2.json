@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cmcstl2-2019-07-20-2",
+      "version-string": "2019-07-20",
+      "port-version": 2
+    }
+  ]
+}

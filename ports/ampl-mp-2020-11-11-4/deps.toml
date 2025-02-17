@@ -1,0 +1,8 @@
+old = "ampl-mp"
+new = "ampl-mp-2020-11-11-4"
+
+[deps]
+ampl-asl-2020-11-11-3 = "ampl-asl"
+ampl-mp-2020-11-11-4 = "ampl-mp"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/clamav-0-103-0-4",
+      "version-semver": "0.103.0",
+      "port-version": 4
+    }
+  ]
+}

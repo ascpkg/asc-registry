@@ -1,0 +1,7 @@
+old = "chromaprint"
+new = "chromaprint-1-5-0-2"
+
+[deps]
+ffmpeg-5-1-2-4 = "ffmpeg"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

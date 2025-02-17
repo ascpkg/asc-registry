@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/eabase-2-09-12-3",
+      "version-string": "2.09.12",
+      "port-version": 3
+    }
+  ]
+}
