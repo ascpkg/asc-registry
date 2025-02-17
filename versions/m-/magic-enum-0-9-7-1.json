@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/magic-enum-0-9-7-1",
+      "version": "0.9.7",
+      "port-version": 1
+    }
+  ]
+}
