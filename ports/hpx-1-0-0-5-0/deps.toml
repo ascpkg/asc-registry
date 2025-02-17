@@ -1,0 +1,6 @@
+old = "hpx"
+new = "hpx-1-0-0-5-0"
+
+[deps]
+boost-1-65-1-0 = "boost"
+hwloc-1-11-7-2-0 = "hwloc"

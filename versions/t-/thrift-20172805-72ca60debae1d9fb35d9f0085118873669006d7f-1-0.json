@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/thrift-20172805-72ca60debae1d9fb35d9f0085118873669006d7f-1-0",
+      "version": "20172805-72ca60debae1d9fb35d9f0085118873669006d7f-1",
+      "port-version": 0
+    }
+  ]
+}

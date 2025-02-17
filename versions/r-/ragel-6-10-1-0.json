@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ragel-6-10-1-0",
+      "version": "6.10-1",
+      "port-version": 0
+    }
+  ]
+}

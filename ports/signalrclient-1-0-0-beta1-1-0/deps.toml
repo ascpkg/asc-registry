@@ -1,0 +1,5 @@
+old = "signalrclient"
+new = "signalrclient-1-0-0-beta1-1-0"
+
+[deps]
+cpprestsdk-2-9-0-3-0 = "cpprestsdk"

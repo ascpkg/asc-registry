@@ -1,0 +1,5 @@
+old = "pangolin"
+new = "pangolin-0-5-1-0"
+
+[deps]
+eigen3-3-3-4-1-0 = "eigen3"

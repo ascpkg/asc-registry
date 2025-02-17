@@ -1,0 +1,7 @@
+old = "curl"
+new = "curl-7-55-1-1-0"
+
+[deps]
+libssh2-1-8-0-2-0 = "libssh2"
+openssl-1-0-2l-2-0 = "openssl"
+zlib-1-2-11-1-0 = "zlib"

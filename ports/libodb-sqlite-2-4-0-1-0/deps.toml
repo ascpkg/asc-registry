@@ -1,0 +1,6 @@
+old = "libodb-sqlite"
+new = "libodb-sqlite-2-4-0-1-0"
+
+[deps]
+libodb-2-4-0-1-0 = "libodb"
+sqlite3-3-19-1-2-0 = "sqlite3"
