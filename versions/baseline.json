@@ -22572,6 +22572,10 @@
       "baseline": "3.5.0",
       "port-version": 0
     },
+    "bshoshany-thread-pool-4-0-0-0": {
+      "baseline": "4.0.0",
+      "port-version": 0
+    },
     "bsio-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
