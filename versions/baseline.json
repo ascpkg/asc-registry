@@ -62864,6 +62864,10 @@
       "baseline": "3.10",
       "port-version": 0
     },
+    "lzav-3-13-0": {
+      "baseline": "3.13",
+      "port-version": 0
+    },
     "lzfse-1-0-0": {
       "baseline": "1.0",
       "port-version": 0
