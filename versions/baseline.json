@@ -7724,6 +7724,10 @@
       "baseline": "1.0.0-beta1-2",
       "port-version": 0
     },
+    "signalrclient-1-0-0-beta1-3-0": {
+      "baseline": "1.0.0-beta1-3",
+      "port-version": 0
+    },
     "smpeg2-2-0-0-0": {
       "baseline": "2.0.0",
       "port-version": 0
