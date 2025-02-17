@@ -24624,6 +24624,10 @@
       "baseline": "3.4.1",
       "port-version": 4
     },
+    "gdal-3-4-2-0": {
+      "baseline": "3.4.2",
+      "port-version": 0
+    },
     "gdcm-3-0-0-0": {
       "baseline": "3.0.0",
       "port-version": 0
