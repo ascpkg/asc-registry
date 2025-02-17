@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/amqpcpp-4-3-14-0",
+      "version": "4.3.14",
+      "port-version": 0
+    }
+  ]
+}
