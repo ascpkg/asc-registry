@@ -74892,6 +74892,10 @@
       "baseline": "1.6.0",
       "port-version": 0
     },
+    "string-view-lite-1-7-0-0": {
+      "baseline": "1.7.0",
+      "port-version": 0
+    },
     "strong-type-8-0": {
       "baseline": "8",
       "port-version": 0
