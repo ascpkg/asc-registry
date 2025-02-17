@@ -74036,6 +74036,10 @@
       "baseline": "6.4.3",
       "port-version": 1
     },
+    "qtopcua-6-4-3-2": {
+      "baseline": "6.4.3",
+      "port-version": 2
+    },
     "qtpositioning-6-2-2-0": {
       "baseline": "6.2.2",
       "port-version": 0
