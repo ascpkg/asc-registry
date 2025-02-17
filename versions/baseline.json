@@ -60180,6 +60180,10 @@
       "baseline": "5.0.0",
       "port-version": 0
     },
+    "rtmidi-5-0-0-1": {
+      "baseline": "5.0.0",
+      "port-version": 1
+    },
     "rttr-0-9-5-0": {
       "baseline": "0.9.5",
       "port-version": 0
