@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qt-advanced-docking-system-3-8-2-0",
+      "version": "3.8.2",
+      "port-version": 0
+    }
+  ]
+}
