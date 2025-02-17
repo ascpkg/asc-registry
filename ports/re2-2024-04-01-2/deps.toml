@@ -1,0 +1,7 @@
+old = "re2"
+new = "re2-2024-04-01-2"
+
+[deps]
+abseil-20240116-1-1 = "abseil"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
