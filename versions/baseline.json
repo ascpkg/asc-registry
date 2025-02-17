@@ -54704,6 +54704,10 @@
       "baseline": "3.3",
       "port-version": 3
     },
+    "osgearth-3-3-4": {
+      "baseline": "3.3",
+      "port-version": 4
+    },
     "osi-0-107-9-0-0": {
       "baseline": "0.107.9-0",
       "port-version": 0
