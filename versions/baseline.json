@@ -54652,6 +54652,10 @@
       "baseline": "10.0.0",
       "port-version": 1
     },
+    "sdformat10-10-0-0-2": {
+      "baseline": "10.0.0",
+      "port-version": 2
+    },
     "sdformat6-6-2-0-0": {
       "baseline": "6.2.0",
       "port-version": 0
