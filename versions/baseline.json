@@ -30568,6 +30568,10 @@
       "baseline": "11.11.0",
       "port-version": 1
     },
+    "glslang-11-12-0-1": {
+      "baseline": "11.12.0",
+      "port-version": 1
+    },
     "glslang-11-5-0-0": {
       "baseline": "11.5.0",
       "port-version": 0
