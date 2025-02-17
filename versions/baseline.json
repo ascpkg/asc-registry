@@ -51280,6 +51280,10 @@
       "baseline": "2021-10-10",
       "port-version": 0
     },
+    "rapidcheck-2021-12-20-0": {
+      "baseline": "2021-12-20",
+      "port-version": 0
+    },
     "rapidcsv-8-50-0": {
       "baseline": "8.50",
       "port-version": 0
