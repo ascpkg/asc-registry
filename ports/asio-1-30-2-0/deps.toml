@@ -1,0 +1,9 @@
+old = "asio"
+new = "asio-1-30-2-0"
+
+[deps]
+boost-coroutine-1-84-0-0 = "boost-coroutine"
+boost-regex-1-84-0-0 = "boost-regex"
+openssl-3-3-0-0 = "openssl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
