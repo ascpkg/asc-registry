@@ -11312,6 +11312,10 @@
       "baseline": "0.6.21-1",
       "port-version": 0
     },
+    "libfabric-1-7-1-0": {
+      "baseline": "1.7.1",
+      "port-version": 0
+    },
     "libffi-3-1-0": {
       "baseline": "3.1",
       "port-version": 0
@@ -14434,6 +14438,10 @@
     },
     "netcdf-cxx4-4-3-0-4-0": {
       "baseline": "4.3.0-4",
+      "port-version": 0
+    },
+    "networkdirect-sdk-2-0-1-0": {
+      "baseline": "2.0.1",
       "port-version": 0
     },
     "nghttp2-1-28-0-0": {
