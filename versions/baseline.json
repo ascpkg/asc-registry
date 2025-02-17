@@ -44092,6 +44092,10 @@
       "baseline": "0.2",
       "port-version": 1
     },
+    "libmorton-0-2-11-0": {
+      "baseline": "0.2.11",
+      "port-version": 0
+    },
     "libmorton-0-2-8-0": {
       "baseline": "0.2.8",
       "port-version": 0
