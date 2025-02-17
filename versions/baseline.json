@@ -109600,6 +109600,10 @@
       "baseline": "6.2.0",
       "port-version": 0
     },
+    "sundials-7-1-1-0": {
+      "baseline": "7.1.1",
+      "port-version": 0
+    },
     "superlu-2020-01-07-0": {
       "baseline": "2020-01-07",
       "port-version": 0
