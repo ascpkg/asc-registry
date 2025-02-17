@@ -1,0 +1,7 @@
+old = "libjuice"
+new = "libjuice-1-4-2-0"
+
+[deps]
+nettle-3-9-1-0 = "nettle"
+vcpkg-cmake-2024-04-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
