@@ -113104,6 +113104,10 @@
       "baseline": "0.14.6",
       "port-version": 0
     },
+    "thorvg-0-15-3-0": {
+      "baseline": "0.15.3",
+      "port-version": 0
+    },
     "thorvg-0-8-2-0": {
       "baseline": "0.8.2",
       "port-version": 0
