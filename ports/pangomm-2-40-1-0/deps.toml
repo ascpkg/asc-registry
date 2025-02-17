@@ -1,0 +1,13 @@
+old = "pangomm"
+new = "pangomm-2-40-1-0"
+
+[deps]
+cairo-1-15-8-1-0 = "cairo"
+cairomm-1-15-3-2-0 = "cairomm"
+fontconfig-2-12-4-1-0 = "fontconfig"
+freetype-2-8-1-0 = "freetype"
+gettext-0-19-2-0 = "gettext"
+glib-2-52-3-1-0 = "glib"
+glibmm-2-52-1-0 = "glibmm"
+harfbuzz-1-6-3-1-0 = "harfbuzz"
+pango-1-40-11-1-0 = "pango"
