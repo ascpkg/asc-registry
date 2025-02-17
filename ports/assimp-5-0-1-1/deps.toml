@@ -1,0 +1,13 @@
+old = "assimp"
+new = "assimp-5-0-1-1"
+
+[deps]
+irrxml-1-2-0 = "irrxml"
+kubazip-0-1-19-0 = "kubazip"
+minizip-1-2-11-6-0 = "minizip"
+poly2tri-2020-07-21-0 = "poly2tri"
+polyclipping-6-4-2-5 = "polyclipping"
+rapidjson-2020-02-08-0 = "rapidjson"
+stb-2020-02-08-1-0 = "stb"
+utfcpp-3-1-1-0 = "utfcpp"
+zlib-1-2-11-9 = "zlib"
