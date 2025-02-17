@@ -21968,6 +21968,10 @@
       "baseline": "5.12.5-1",
       "port-version": 0
     },
+    "qt5-location-5-12-5-2-0": {
+      "baseline": "5.12.5-2",
+      "port-version": 0
+    },
     "qt5-macextras-5-12-1-0": {
       "baseline": "5.12.1",
       "port-version": 0
