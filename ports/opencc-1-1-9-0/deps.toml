@@ -1,0 +1,11 @@
+old = "opencc"
+new = "opencc-1-1-9-0"
+
+[deps]
+darts-clone-1767ab87cffe-3 = "darts-clone"
+marisa-trie-0-2-6-20200926-2 = "marisa-trie"
+pkgconf-2-3-0-0 = "pkgconf"
+rapidjson-2023-07-17-1 = "rapidjson"
+tclap-1-2-5-0 = "tclap"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
