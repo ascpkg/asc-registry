@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libosmium-2-21-0-0",
+      "version-semver": "2.21.0",
+      "port-version": 0
+    }
+  ]
+}
