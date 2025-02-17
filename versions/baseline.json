@@ -14564,6 +14564,10 @@
       "baseline": "1.1.6-1",
       "port-version": 0
     },
+    "freetds-1-2-5-0": {
+      "baseline": "1.2.5",
+      "port-version": 0
+    },
     "freetype-2-10-0-0": {
       "baseline": "2.10.0",
       "port-version": 0

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/freetds-1-2-5-0",
+      "version-string": "1.2.5",
+      "port-version": 0
+    }
+  ]
+}
