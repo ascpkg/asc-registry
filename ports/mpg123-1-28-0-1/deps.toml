@@ -1,0 +1,5 @@
+old = "mpg123"
+new = "mpg123-1-28-0-1"
+
+[deps]
+yasm-tool-helper-2020-03-11-0 = "yasm-tool-helper"

@@ -31128,6 +31128,10 @@
       "baseline": "2017-07-27-cab46b19847",
       "port-version": 0
     },
+    "libopenmpt-0-5-12-0": {
+      "baseline": "0.5.12",
+      "port-version": 0
+    },
     "libopenmpt-2017-01-28-cf2390140-0": {
       "baseline": "2017-01-28-cf2390140",
       "port-version": 0
@@ -36719,6 +36723,10 @@
     "mpg123-1-28-0-0": {
       "baseline": "1.28.0",
       "port-version": 0
+    },
+    "mpg123-1-28-0-1": {
+      "baseline": "1.28.0",
+      "port-version": 1
     },
     "mpi-1-0": {
       "baseline": "1",
