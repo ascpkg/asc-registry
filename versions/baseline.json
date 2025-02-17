@@ -53940,6 +53940,10 @@
       "baseline": "4.3.0",
       "port-version": 0
     },
+    "libgig-4-4-1-0": {
+      "baseline": "4.4.1",
+      "port-version": 0
+    },
     "libgit2-0-26-0-0": {
       "baseline": "0.26.0",
       "port-version": 0
