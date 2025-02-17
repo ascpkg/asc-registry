@@ -7800,6 +7800,10 @@
       "baseline": "3.18.0",
       "port-version": 0
     },
+    "baresip-libre-3-19-0-0": {
+      "baseline": "3.19.0",
+      "port-version": 0
+    },
     "baresip-libre-3-2-0-0": {
       "baseline": "3.2.0",
       "port-version": 0
