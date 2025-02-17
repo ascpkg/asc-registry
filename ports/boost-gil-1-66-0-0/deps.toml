@@ -1,0 +1,16 @@
+old = "boost-gil"
+new = "boost-gil-1-66-0-0"
+
+[deps]
+boost-bind-1-66-0-0 = "boost-bind"
+boost-concept-check-1-66-0-0 = "boost-concept-check"
+boost-config-1-66-0-0 = "boost-config"
+boost-integer-1-66-0-0 = "boost-integer"
+boost-iterator-1-66-0-0 = "boost-iterator"
+boost-mpl-1-66-0-0 = "boost-mpl"
+boost-preprocessor-1-66-0-0 = "boost-preprocessor"
+boost-smart-ptr-1-66-0-0 = "boost-smart-ptr"
+boost-static-assert-1-66-0-0 = "boost-static-assert"
+boost-type-traits-1-66-0-0 = "boost-type-traits"
+boost-utility-1-66-0-0 = "boost-utility"
+boost-vcpkg-helpers-1-0 = "boost-vcpkg-helpers"

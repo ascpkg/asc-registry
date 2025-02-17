@@ -1,0 +1,7 @@
+old = "boost-concept-check"
+new = "boost-concept-check-1-66-0-0"
+
+[deps]
+boost-config-1-66-0-0 = "boost-config"
+boost-mpl-1-66-0-0 = "boost-mpl"
+boost-vcpkg-helpers-1-0 = "boost-vcpkg-helpers"

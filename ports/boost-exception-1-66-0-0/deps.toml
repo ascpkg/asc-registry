@@ -1,0 +1,13 @@
+old = "boost-exception"
+new = "boost-exception-1-66-0-0"
+
+[deps]
+boost-assert-1-66-0-0 = "boost-assert"
+boost-build-1-66-0-0 = "boost-build"
+boost-config-1-66-0-0 = "boost-config"
+boost-core-1-66-0-0 = "boost-core"
+boost-smart-ptr-1-66-0-0 = "boost-smart-ptr"
+boost-tuple-1-66-0-0 = "boost-tuple"
+boost-type-traits-1-66-0-0 = "boost-type-traits"
+boost-utility-1-66-0-0 = "boost-utility"
+boost-vcpkg-helpers-1-0 = "boost-vcpkg-helpers"
