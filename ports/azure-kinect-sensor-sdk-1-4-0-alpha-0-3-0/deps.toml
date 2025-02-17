@@ -1,0 +1,17 @@
+old = "azure-kinect-sensor-sdk"
+new = "azure-kinect-sensor-sdk-1-4-0-alpha-0-3-0"
+
+[deps]
+azure-c-shared-utility-2020-02-04-1-0 = "azure-c-shared-utility"
+cjson-2019-11-30-0 = "cjson"
+ebml-1-3-10-0 = "ebml"
+gl3w-2018-05-31-2-0 = "gl3w"
+glfw3-3-3-2-0 = "glfw3"
+gtest-2019-10-09-1-0 = "gtest"
+imgui-1-74-0 = "imgui"
+libjpeg-turbo-2-0-4-0 = "libjpeg-turbo"
+libsoundio-2-0-0-3-0 = "libsoundio"
+libusb-1-0-23-0 = "libusb"
+libyuv-fec9121-1-0 = "libyuv"
+matroska-1-5-2-0 = "matroska"
+spdlog-1-4-2-1-0 = "spdlog"
