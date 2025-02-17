@@ -22240,6 +22240,10 @@
       "baseline": "3.0.0-7",
       "port-version": 0
     },
+    "mpir-3-0-0-8-0": {
+      "baseline": "3.0.0-8",
+      "port-version": 0
+    },
     "mpmcqueue-2019-07-26-0": {
       "baseline": "2019-07-26",
       "port-version": 0
