@@ -1,0 +1,8 @@
+old = "libgit2"
+new = "libgit2-1-0-0-0"
+
+[deps]
+openssl-1-1-1d-0 = "openssl"
+pcre-8-44-0 = "pcre"
+pcre2-10-30-7-0 = "pcre2"
+zlib-1-2-11-6-0 = "zlib"
