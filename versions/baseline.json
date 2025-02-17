@@ -15904,6 +15904,10 @@
       "baseline": "1.22",
       "port-version": 0
     },
+    "parallel-hashmap-1-23-0": {
+      "baseline": "1.23",
+      "port-version": 0
+    },
     "parmetis-4-0-3-0": {
       "baseline": "4.0.3",
       "port-version": 0
