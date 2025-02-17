@@ -26368,6 +26368,10 @@
       "baseline": "bb2138c",
       "port-version": 0
     },
+    "rxspencer-2020-01-12-0": {
+      "baseline": "2020-01-12",
+      "port-version": 0
+    },
     "safeint-3-19-2-0": {
       "baseline": "3.19.2",
       "port-version": 0
