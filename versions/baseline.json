@@ -15768,6 +15768,10 @@
       "baseline": "2.8-2",
       "port-version": 0
     },
+    "libgpod-2019-08-29-0": {
+      "baseline": "2019-08-29",
+      "port-version": 0
+    },
     "libgsl-2-3-0": {
       "baseline": "2.3",
       "port-version": 0
