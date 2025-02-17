@@ -2612,6 +2612,10 @@
       "baseline": "2021-05-03",
       "port-version": 0
     },
+    "attr-2-5-1-0": {
+      "baseline": "2.5.1",
+      "port-version": 0
+    },
     "aubio-0-4-6-0": {
       "baseline": "0.4.6",
       "port-version": 0
