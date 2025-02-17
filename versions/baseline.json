@@ -68504,6 +68504,10 @@
       "baseline": "0.9.31",
       "port-version": 0
     },
+    "lmdb-0-9-33-0": {
+      "baseline": "0.9.33",
+      "port-version": 0
+    },
     "lockpp-1-0-2-0": {
       "baseline": "1.0.2",
       "port-version": 0
