@@ -1,0 +1,11 @@
+old = "libgnutls"
+new = "libgnutls-3-8-1-0"
+
+[deps]
+gettext-0-21-1-3 = "gettext"
+gmp-6-2-1-21 = "gmp"
+libidn2-2-3-4-2 = "libidn2"
+libtasn1-4-19-0-1 = "libtasn1"
+libunistring-1-1-3 = "libunistring"
+nettle-3-8-1-1 = "nettle"
+zlib-1-3-0 = "zlib"
