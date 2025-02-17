@@ -11972,6 +11972,10 @@
       "baseline": "2.10.17",
       "port-version": 0
     },
+    "cpprestsdk-2-10-18-0": {
+      "baseline": "2.10.18",
+      "port-version": 0
+    },
     "cpprestsdk-2-10-2-0": {
       "baseline": "2.10.2",
       "port-version": 0
