@@ -1,0 +1,7 @@
+old = "rtabmap"
+new = "rtabmap-0-20-3-1"
+
+[deps]
+opencv-4-3-0-0 = "opencv"
+pcl-1-11-1-0 = "pcl"
+zlib-1-2-11-9 = "zlib"

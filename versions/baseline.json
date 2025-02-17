@@ -34536,6 +34536,10 @@
       "baseline": "0.20.3",
       "port-version": 0
     },
+    "rtabmap-0-20-3-1": {
+      "baseline": "0.20.3",
+      "port-version": 1
+    },
     "rtlsdr-2020-04-16-0": {
       "baseline": "2020-04-16",
       "port-version": 0
