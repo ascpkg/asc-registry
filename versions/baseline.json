@@ -97972,6 +97972,10 @@
       "baseline": "0.8.0",
       "port-version": 0
     },
+    "simde-0-8-2-0": {
+      "baseline": "0.8.2",
+      "port-version": 0
+    },
     "simde-2019-06-05-0": {
       "baseline": "2019-06-05",
       "port-version": 0
