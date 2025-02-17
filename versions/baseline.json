@@ -2244,6 +2244,10 @@
       "baseline": "0.1.11",
       "port-version": 0
     },
+    "aws-checksums-0-1-11-1": {
+      "baseline": "0.1.11",
+      "port-version": 1
+    },
     "aws-checksums-0-1-2-0": {
       "baseline": "0.1.2",
       "port-version": 0
