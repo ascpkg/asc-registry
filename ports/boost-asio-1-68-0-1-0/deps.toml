@@ -1,0 +1,13 @@
+old = "boost-asio"
+new = "boost-asio-1-68-0-1-0"
+
+[deps]
+boost-core-1-68-0-0 = "boost-core"
+boost-coroutine-1-68-0-0 = "boost-coroutine"
+boost-date-time-1-68-0-0 = "boost-date-time"
+boost-integer-1-68-0-0 = "boost-integer"
+boost-regex-1-68-0-0 = "boost-regex"
+boost-smart-ptr-1-68-0-0 = "boost-smart-ptr"
+boost-system-1-68-0-0 = "boost-system"
+boost-vcpkg-helpers-4-0 = "boost-vcpkg-helpers"
+openssl-0-0 = "openssl"
