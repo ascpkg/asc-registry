@@ -1,0 +1,17 @@
+old = "ogre"
+new = "ogre-13-4-4-0"
+
+[deps]
+assimp-5-2-5-0 = "assimp"
+freeimage-3-18-0-24 = "freeimage"
+freetype-2-12-1-2 = "freetype"
+imgui-1-88-1 = "imgui"
+ogre-13-4-4-0 = "ogre"
+openexr-3-1-5-0 = "openexr"
+pugixml-1-12-1-1 = "pugixml"
+python3-3-10-5-3 = "python3"
+sdl2-2-24-1-0 = "sdl2"
+stb-2021-09-10-1 = "stb"
+vcpkg-cmake-2022-09-26-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-2-12-2 = "zlib"
