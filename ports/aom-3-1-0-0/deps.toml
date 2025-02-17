@@ -1,0 +1,6 @@
+old = "aom"
+new = "aom-3-1-0-0"
+
+[deps]
+vcpkg-cmake-2021-02-28-2 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-0 = "vcpkg-cmake-config"
