@@ -1,0 +1,8 @@
+old = "ztd-text"
+new = "ztd-text-2023-11-03-1"
+
+[deps]
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+ztd-cuneicode-2023-11-03-1 = "ztd-cuneicode"
+ztd-platform-2022-12-30-0 = "ztd-platform"
+ztd-static-containers-2022-12-12-1 = "ztd-static-containers"
