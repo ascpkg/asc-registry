@@ -50388,6 +50388,10 @@
       "baseline": "2.1.2",
       "port-version": 6
     },
+    "nvtt-2-1-2-7": {
+      "baseline": "2.1.2",
+      "port-version": 7
+    },
     "oatpp-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
