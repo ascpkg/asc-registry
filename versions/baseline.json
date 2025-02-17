@@ -29212,6 +29212,10 @@
       "baseline": "6.2.1",
       "port-version": 12
     },
+    "gmp-6-2-1-13": {
+      "baseline": "6.2.1",
+      "port-version": 13
+    },
     "gmp-6-2-1-2-0": {
       "baseline": "6.2.1-2",
       "port-version": 0
