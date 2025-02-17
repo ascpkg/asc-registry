@@ -14328,6 +14328,10 @@
       "baseline": "65.1-1",
       "port-version": 0
     },
+    "icu-65-1-2-0": {
+      "baseline": "65.1-2",
+      "port-version": 0
+    },
     "ideviceinstaller-1-1-2-23-1-0": {
       "baseline": "1.1.2.23-1",
       "port-version": 0
