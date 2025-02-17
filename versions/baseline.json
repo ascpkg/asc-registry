@@ -47428,6 +47428,10 @@
       "baseline": "1.46.0",
       "port-version": 0
     },
+    "nghttp2-1-49-0-0": {
+      "baseline": "1.49.0",
+      "port-version": 0
+    },
     "ngspice-32-0": {
       "baseline": "32",
       "port-version": 0
