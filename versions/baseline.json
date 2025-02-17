@@ -64288,6 +64288,10 @@
       "baseline": "4.3.0",
       "port-version": 7
     },
+    "tiff-4-3-0-8": {
+      "baseline": "4.3.0",
+      "port-version": 8
+    },
     "tinkerforge-2-1-25-0": {
       "baseline": "2.1.25",
       "port-version": 0
