@@ -2,7 +2,7 @@ old = "gmime"
 new = "gmime-3-2-6-0"
 
 [deps]
-glib-2-52-3-14-5-0 = "glib"
-libiconv-1-16-1-0 = "libiconv"
-libidn2-2-2-0-1-0 = "libidn2"
-zlib-1-2-11-6-0 = "zlib"
+glib-2-52-3-14-7-0 = "glib"
+libiconv-1-16-5 = "libiconv"
+libidn2-2-2-0-2 = "libidn2"
+zlib-1-2-11-9 = "zlib"
