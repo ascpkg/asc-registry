@@ -84300,6 +84300,10 @@
       "baseline": "1.17.0",
       "port-version": 1
     },
+    "opentelemetry-cpp-1-18-0-0": {
+      "baseline": "1.18.0",
+      "port-version": 0
+    },
     "opentelemetry-cpp-1-2-0-0": {
       "baseline": "1.2.0",
       "port-version": 0
