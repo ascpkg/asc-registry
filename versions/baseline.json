@@ -113916,6 +113916,10 @@
       "baseline": "1.3.290.0",
       "port-version": 0
     },
+    "vulkan-headers-1-3-290-0-1": {
+      "baseline": "1.3.290.0",
+      "port-version": 1
+    },
     "vulkan-hpp-1-2-184-0": {
       "baseline": "1.2.184",
       "port-version": 0
