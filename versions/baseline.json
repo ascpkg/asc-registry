@@ -3132,6 +3132,10 @@
       "baseline": "2.3.0",
       "port-version": 0
     },
+    "catch2-2-4-0-0": {
+      "baseline": "2.4.0",
+      "port-version": 0
+    },
     "cccapstone-9b4128ee1153e78288a1b5433e2c06a0d47a4c4e-0": {
       "baseline": "9b4128ee1153e78288a1b5433e2c06a0d47a4c4e",
       "port-version": 0
