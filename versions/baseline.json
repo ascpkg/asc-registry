@@ -65012,6 +65012,10 @@
       "baseline": "1.9",
       "port-version": 1
     },
+    "rappture-1-9-2": {
+      "baseline": "1.9",
+      "port-version": 2
+    },
     "raylib-2-5-0-0": {
       "baseline": "2.5.0",
       "port-version": 0
