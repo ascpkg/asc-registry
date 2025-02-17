@@ -56,6 +56,10 @@
       "baseline": "21.07",
       "port-version": 0
     },
+    "7zip-21-07-1": {
+      "baseline": "21.07",
+      "port-version": 1
+    },
     "abseil-2017-09-28-0": {
       "baseline": "2017-09-28",
       "port-version": 0
