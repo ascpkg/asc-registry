@@ -9232,6 +9232,10 @@
       "baseline": "1.0.7.3",
       "port-version": 0
     },
+    "ecsutil-1-0-7-8-0": {
+      "baseline": "1.0.7.8",
+      "port-version": 0
+    },
     "effolkronium-random-1-2-0-0": {
       "baseline": "1.2.0",
       "port-version": 0
