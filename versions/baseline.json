@@ -74448,6 +74448,10 @@
       "baseline": "1.6.0",
       "port-version": 0
     },
+    "strong-type-8-0": {
+      "baseline": "8",
+      "port-version": 0
+    },
     "stronk-0-2-0-0": {
       "baseline": "0.2.0",
       "port-version": 0
