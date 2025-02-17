@@ -98184,6 +98184,10 @@
       "baseline": "2.4",
       "port-version": 0
     },
+    "sqlite-modern-cpp-2023-12-03-0": {
+      "baseline": "2023-12-03",
+      "port-version": 0
+    },
     "sqlite-modern-cpp-3-2-0": {
       "baseline": "3.2",
       "port-version": 0
