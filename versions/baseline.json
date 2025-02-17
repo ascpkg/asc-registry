@@ -87312,6 +87312,10 @@
       "baseline": "1.3.13",
       "port-version": 1
     },
+    "paho-mqtt-1-3-14-0": {
+      "baseline": "1.3.14",
+      "port-version": 0
+    },
     "paho-mqtt-1-3-5-0": {
       "baseline": "1.3.5",
       "port-version": 0
