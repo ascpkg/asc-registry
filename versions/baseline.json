@@ -8336,6 +8336,10 @@
       "baseline": "oct2018",
       "port-version": 0
     },
+    "directxtex-oct2019-0": {
+      "baseline": "oct2019",
+      "port-version": 0
+    },
     "directxtk-apr2018-0": {
       "baseline": "apr2018",
       "port-version": 0
