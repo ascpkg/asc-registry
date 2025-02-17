@@ -60588,6 +60588,10 @@
       "baseline": "2.1.2",
       "port-version": 1
     },
+    "libtorch-2-1-2-2": {
+      "baseline": "2.1.2",
+      "port-version": 2
+    },
     "libtorrent-1-1-4-0": {
       "baseline": "1.1.4",
       "port-version": 0
@@ -63395,6 +63399,10 @@
     "llvm-17-0-2-3": {
       "baseline": "17.0.2",
       "port-version": 3
+    },
+    "llvm-17-0-2-4": {
+      "baseline": "17.0.2",
+      "port-version": 4
     },
     "llvm-4-0-0-0": {
       "baseline": "4.0.0",
