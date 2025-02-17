@@ -45340,6 +45340,10 @@
       "baseline": "0.6.3",
       "port-version": 0
     },
+    "ptyqt-0-6-5-0": {
+      "baseline": "0.6.5",
+      "port-version": 0
+    },
     "pugixml-1-10-0": {
       "baseline": "1.10",
       "port-version": 0
