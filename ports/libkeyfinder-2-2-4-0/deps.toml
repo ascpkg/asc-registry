@@ -1,0 +1,6 @@
+old = "libkeyfinder"
+new = "libkeyfinder-2-2-4-0"
+
+[deps]
+catch2-2-13-1-0 = "catch2"
+fftw3-3-3-8-7-0 = "fftw3"

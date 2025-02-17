@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libkeyfinder-2-2-4-0",
+      "version-string": "2.2.4",
+      "port-version": 0
+    }
+  ]
+}
