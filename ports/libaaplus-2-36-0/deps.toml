@@ -1,0 +1,6 @@
+old = "libaaplus"
+new = "libaaplus-2-36-0"
+
+[deps]
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"
