@@ -28636,6 +28636,10 @@
       "baseline": "5.18.0",
       "port-version": 0
     },
+    "libsbsms-2-3-0-0": {
+      "baseline": "2.3.0",
+      "port-version": 0
+    },
     "libsigcpp-2-10-0": {
       "baseline": "2.10",
       "port-version": 0
