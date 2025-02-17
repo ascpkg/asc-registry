@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libdisasm-0-23-9",
+      "version-string": "0.23",
+      "port-version": 9
+    }
+  ]
+}
