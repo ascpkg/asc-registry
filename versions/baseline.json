@@ -56916,6 +56916,10 @@
       "baseline": "1.18.0",
       "port-version": 2
     },
+    "yoga-1-19-0-0": {
+      "baseline": "1.19.0",
+      "port-version": 0
+    },
     "yoga-1-7-0-0": {
       "baseline": "1.7.0",
       "port-version": 0
