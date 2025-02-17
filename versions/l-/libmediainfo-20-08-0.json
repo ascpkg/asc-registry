@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libmediainfo-20-08-0",
+      "version": "20.08",
+      "port-version": 0
+    }
+  ]
+}
