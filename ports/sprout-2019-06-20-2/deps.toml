@@ -1,0 +1,6 @@
+old = "sprout"
+new = "sprout-2019-06-20-2"
+
+[deps]
+boost-array-1-81-0-2 = "boost-array"
+boost-mpl-1-81-0-2 = "boost-mpl"

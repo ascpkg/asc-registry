@@ -1,0 +1,5 @@
+old = "nspr"
+new = "nspr-4-35-3"
+
+[deps]
+vcpkg-tool-mozbuild-4-0-2-0 = "vcpkg-tool-mozbuild"

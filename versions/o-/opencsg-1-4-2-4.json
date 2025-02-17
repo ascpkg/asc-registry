@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/opencsg-1-4-2-4",
+      "version": "1.4.2",
+      "port-version": 4
+    }
+  ]
+}

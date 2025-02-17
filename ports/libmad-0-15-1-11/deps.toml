@@ -1,0 +1,5 @@
+old = "libmad"
+new = "libmad-0-15-1-11"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

@@ -1,0 +1,7 @@
+old = "ctbignum"
+new = "ctbignum-2019-08-02-3"
+
+[deps]
+boost-1-81-0-3 = "boost"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

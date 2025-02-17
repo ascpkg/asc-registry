@@ -1,0 +1,5 @@
+old = "jinja2cpplight"
+new = "jinja2cpplight-2018-05-08-2"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

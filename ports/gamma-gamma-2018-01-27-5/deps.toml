@@ -1,0 +1,7 @@
+old = "gamma"
+new = "gamma-gamma-2018-01-27-5"
+
+[deps]
+libsndfile-1-2-0-0 = "libsndfile"
+portaudio-19-7-4 = "portaudio"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

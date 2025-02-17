@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cpp-netlib-0-13-0-8",
+      "version": "0.13.0",
+      "port-version": 8
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+old = "atkmm"
+new = "atkmm-2-36-1-1"
+
+[deps]
+atk-2-38-0-5 = "atk"
+gettext-0-21-1-0 = "gettext"
+glib-2-76-0-1 = "glib"
+glibmm-2-74-0-0 = "glibmm"
+vcpkg-tool-meson-0-63-0 = "vcpkg-tool-meson"

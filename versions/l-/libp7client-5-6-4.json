@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libp7client-5-6-4",
+      "version": "5.6",
+      "port-version": 4
+    }
+  ]
+}

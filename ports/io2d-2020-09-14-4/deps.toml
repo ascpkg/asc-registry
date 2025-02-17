@@ -1,0 +1,8 @@
+old = "io2d"
+new = "io2d-2020-09-14-4"
+
+[deps]
+cairo-1-17-8-0 = "cairo"
+graphicsmagick-1-3-37-2 = "graphicsmagick"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/sdl2-gfx-1-0-4-10",
+      "version": "1.0.4",
+      "port-version": 10
+    }
+  ]
+}

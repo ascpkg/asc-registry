@@ -1,0 +1,5 @@
+old = "spirit-po"
+new = "spirit-po-1-1-2-3"
+
+[deps]
+boost-1-81-0-3 = "boost"

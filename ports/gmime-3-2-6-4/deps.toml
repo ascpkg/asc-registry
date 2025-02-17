@@ -1,0 +1,9 @@
+old = "gmime"
+new = "gmime-3-2-6-4"
+
+[deps]
+glib-2-76-0-1 = "glib"
+libiconv-1-17-1 = "libiconv"
+libidn2-2-3-4-2 = "libidn2"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+zlib-1-2-13-0 = "zlib"

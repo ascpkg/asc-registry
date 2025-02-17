@@ -1,0 +1,5 @@
+old = "getopt"
+new = "getopt-0-3"
+
+[deps]
+getopt-win32-0-1-7 = "getopt-win32"

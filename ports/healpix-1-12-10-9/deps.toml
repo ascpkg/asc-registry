@@ -1,0 +1,5 @@
+old = "healpix"
+new = "healpix-1-12-10-9"
+
+[deps]
+cfitsio-3-49-3 = "cfitsio"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libconfuse-2019-07-14-4",
+      "version-date": "2019-07-14",
+      "port-version": 4
+    }
+  ]
+}

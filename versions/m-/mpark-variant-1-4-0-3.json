@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/mpark-variant-1-4-0-3",
+      "version": "1.4.0",
+      "port-version": 3
+    }
+  ]
+}

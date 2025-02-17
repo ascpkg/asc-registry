@@ -1,0 +1,8 @@
+old = "libmagic"
+new = "libmagic-5-40-2"
+
+[deps]
+dirent-1-23-2-2 = "dirent"
+getopt-0-3 = "getopt"
+libmagic-5-40-2 = "libmagic"
+tre-0-8-0-5 = "tre"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/rappture-1-9-3",
+      "version": "1.9",
+      "port-version": 3
+    }
+  ]
+}

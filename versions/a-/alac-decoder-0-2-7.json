@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/alac-decoder-0-2-7",
+      "version": "0.2",
+      "port-version": 7
+    }
+  ]
+}

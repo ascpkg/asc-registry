@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/aliyun-oss-c-sdk-3-10-0-3",
+      "version": "3.10.0",
+      "port-version": 3
+    }
+  ]
+}
