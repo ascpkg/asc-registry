@@ -24120,6 +24120,10 @@
       "baseline": "2020-04-26-6",
       "port-version": 0
     },
+    "opencc-2020-04-26-7": {
+      "baseline": "2020-04-26",
+      "port-version": 7
+    },
     "opencensus-cpp-0-4-0-0": {
       "baseline": "0.4.0",
       "port-version": 0
