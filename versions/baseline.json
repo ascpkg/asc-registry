@@ -39452,6 +39452,10 @@
       "baseline": "2.3",
       "port-version": 1
     },
+    "g3log-2-4-0": {
+      "baseline": "2.4",
+      "port-version": 0
+    },
     "g3log-2019-05-14-1-0": {
       "baseline": "2019-05-14-1",
       "port-version": 0
