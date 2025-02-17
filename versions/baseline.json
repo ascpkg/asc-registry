@@ -29112,6 +29112,10 @@
       "baseline": "6.3.1",
       "port-version": 2
     },
+    "prometheus-cpp-0-10-0-0": {
+      "baseline": "0.10.0",
+      "port-version": 0
+    },
     "prometheus-cpp-0-6-0-0": {
       "baseline": "0.6.0",
       "port-version": 0

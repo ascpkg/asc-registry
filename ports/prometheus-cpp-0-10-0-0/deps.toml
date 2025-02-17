@@ -1,0 +1,9 @@
+old = "prometheus-cpp"
+new = "prometheus-cpp-0-10-0-0"
+
+[deps]
+civetweb-1-13-0 = "civetweb"
+cppcodec-0-2-0 = "cppcodec"
+curl-7-72-0-0 = "curl"
+gtest-1-10-0-2 = "gtest"
+zlib-1-2-11-9 = "zlib"
