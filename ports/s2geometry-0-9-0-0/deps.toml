@@ -1,0 +1,9 @@
+old = "s2geometry"
+new = "s2geometry-0-9-0-0"
+
+[deps]
+gflags-2-2-2-5 = "gflags"
+glog-0-4-0-4 = "glog"
+gtest-1-11-0-3 = "gtest"
+openssl-1-1-1l-4 = "openssl"
+vcpkg-cmake-2021-12-05-0 = "vcpkg-cmake"
