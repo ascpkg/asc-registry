@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/opencascade-7-5-0-1",
+      "version": "7.5.0",
+      "port-version": 1
+    }
+  ]
+}
