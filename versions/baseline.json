@@ -16936,6 +16936,10 @@
       "baseline": "0.27.4",
       "port-version": 1
     },
+    "exiv2-0-27-4-2": {
+      "baseline": "0.27.4",
+      "port-version": 2
+    },
     "exiv2-2018-02-25-0": {
       "baseline": "2018-02-25",
       "port-version": 0
@@ -19659,6 +19663,10 @@
     "gdal-3-2-2-3": {
       "baseline": "3.2.2",
       "port-version": 3
+    },
+    "gdal-3-2-2-4": {
+      "baseline": "3.2.2",
+      "port-version": 4
     },
     "gdcm-3-0-0-0": {
       "baseline": "3.0.0",
@@ -25376,6 +25384,10 @@
       "baseline": "3.4.3",
       "port-version": 7
     },
+    "libarchive-3-4-3-8": {
+      "baseline": "3.4.3",
+      "port-version": 8
+    },
     "libass-0-14-0-0": {
       "baseline": "0.14.0",
       "port-version": 0
@@ -26511,6 +26523,10 @@
     "libiconv-1-16-10": {
       "baseline": "1.16",
       "port-version": 10
+    },
+    "libiconv-1-16-11": {
+      "baseline": "1.16",
+      "port-version": 11
     },
     "libiconv-1-16-2-0": {
       "baseline": "1.16-2",
@@ -29588,6 +29604,10 @@
       "baseline": "1.41.0",
       "port-version": 0
     },
+    "libuv-1-41-0-1": {
+      "baseline": "1.41.0",
+      "port-version": 1
+    },
     "libuv-1-9-1-0": {
       "baseline": "1.9.1",
       "port-version": 0
@@ -30059,6 +30079,10 @@
     "libxml2-2-9-12-3": {
       "baseline": "2.9.12",
       "port-version": 3
+    },
+    "libxml2-2-9-12-4": {
+      "baseline": "2.9.12",
+      "port-version": 4
     },
     "libxml2-2-9-4-0": {
       "baseline": "2.9.4",
