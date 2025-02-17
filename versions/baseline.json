@@ -15540,12 +15540,20 @@
       "baseline": "jan2019",
       "port-version": 0
     },
+    "flashlight-cpu-20210111-0": {
+      "baseline": "20210111",
+      "port-version": 0
+    },
     "flashlight-cuda-20201120-1": {
       "baseline": "20201120",
       "port-version": 1
     },
     "flashlight-cuda-20201201-0": {
       "baseline": "20201201",
+      "port-version": 0
+    },
+    "flashlight-cuda-20210111-0": {
+      "baseline": "20210111",
       "port-version": 0
     },
     "flatbuffers-1-10-0-0": {
