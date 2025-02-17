@@ -51556,6 +51556,10 @@
       "baseline": "0.1.3",
       "port-version": 4
     },
+    "soxr-0-1-3-5": {
+      "baseline": "0.1.3",
+      "port-version": 5
+    },
     "spaceland-7-8-2-0-0": {
       "baseline": "7.8.2-0",
       "port-version": 0
