@@ -8756,6 +8756,10 @@
       "baseline": "3.0.0",
       "port-version": 0
     },
+    "gdcm-3-0-0-1-0": {
+      "baseline": "3.0.0-1",
+      "port-version": 0
+    },
     "gdcm2-2-6-7-0": {
       "baseline": "2.6.7",
       "port-version": 0
@@ -10466,6 +10470,10 @@
     },
     "jbig2dec-0-16-0": {
       "baseline": "0.16",
+      "port-version": 0
+    },
+    "jbig2dec-0-16-1-0": {
+      "baseline": "0.16-1",
       "port-version": 0
     },
     "jbigkit-2-1-0": {
