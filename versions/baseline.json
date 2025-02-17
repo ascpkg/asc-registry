@@ -67868,6 +67868,10 @@
       "baseline": "0.56.0",
       "port-version": 0
     },
+    "libvault-0-61-0-0": {
+      "baseline": "0.61.0",
+      "port-version": 0
+    },
     "libvhdi-20231127-0": {
       "baseline": "20231127",
       "port-version": 0
