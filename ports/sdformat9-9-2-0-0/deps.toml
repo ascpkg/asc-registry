@@ -1,0 +1,7 @@
+old = "sdformat9"
+new = "sdformat9-9-2-0-0"
+
+[deps]
+ignition-math6-6-4-0-0 = "ignition-math6"
+tinyxml-2-6-2-4-0 = "tinyxml"
+urdfdom-1-0-4-0 = "urdfdom"
