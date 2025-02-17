@@ -96788,6 +96788,10 @@
       "baseline": "1.34",
       "port-version": 0
     },
+    "quantlib-1-35-0": {
+      "baseline": "1.35",
+      "port-version": 0
+    },
     "quantlib-2019-09-02-0": {
       "baseline": "2019-09-02",
       "port-version": 0
