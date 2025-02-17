@@ -31460,6 +31460,10 @@
       "baseline": "20201203",
       "port-version": 0
     },
+    "glpk-5-0-0": {
+      "baseline": "5.0",
+      "port-version": 0
+    },
     "glslang-11-11-0-0": {
       "baseline": "11.11.0",
       "port-version": 0
