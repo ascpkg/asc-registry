@@ -1,0 +1,9 @@
+old = "cppgraphqlgen"
+new = "cppgraphqlgen-4-1-1-0"
+
+[deps]
+boost-program-options-1-78-0-0 = "boost-program-options"
+pegtl-3-2-2-0 = "pegtl"
+rapidjson-2020-09-14-2 = "rapidjson"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"
