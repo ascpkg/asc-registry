@@ -6036,6 +6036,10 @@
       "baseline": "3.117.0.0",
       "port-version": 0
     },
+    "bde-3-123-0-0-0": {
+      "baseline": "3.123.0.0",
+      "port-version": 0
+    },
     "bde-3-2-0-0-0": {
       "baseline": "3.2.0.0",
       "port-version": 0
