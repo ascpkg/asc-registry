@@ -36932,6 +36932,10 @@
       "baseline": "3.2.10",
       "port-version": 0
     },
+    "flecs-3-2-11-0": {
+      "baseline": "3.2.11",
+      "port-version": 0
+    },
     "flecs-3-2-2-0": {
       "baseline": "3.2.2",
       "port-version": 0
