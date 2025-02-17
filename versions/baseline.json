@@ -91680,6 +91680,10 @@
       "baseline": "6.60",
       "port-version": 0
     },
+    "xbyak-6-69-0": {
+      "baseline": "6.69",
+      "port-version": 0
+    },
     "xcb-1-14-0": {
       "baseline": "1.14",
       "port-version": 0
