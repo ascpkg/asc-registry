@@ -8600,6 +8600,10 @@
       "baseline": "1.0.0-2",
       "port-version": 0
     },
+    "cartographer-1-0-0-3-0": {
+      "baseline": "1.0.0-3",
+      "port-version": 0
+    },
     "casclib-1-50-0": {
       "baseline": "1.50",
       "port-version": 0
