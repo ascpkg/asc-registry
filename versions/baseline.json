@@ -7864,6 +7864,10 @@
       "baseline": "0.17.2",
       "port-version": 0
     },
+    "caf-0-17-3-0": {
+      "baseline": "0.17.3",
+      "port-version": 0
+    },
     "caffe2-0-8-1-0": {
       "baseline": "0.8.1",
       "port-version": 0
