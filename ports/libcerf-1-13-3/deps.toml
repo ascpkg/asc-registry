@@ -1,0 +1,5 @@
+old = "libcerf"
+new = "libcerf-1-13-3"
+
+[deps]
+vcpkg-cmake-2022-04-21-0 = "vcpkg-cmake"
