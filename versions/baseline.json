@@ -46400,6 +46400,10 @@
       "baseline": "2023-10-24",
       "port-version": 0
     },
+    "jkqtplotter-2023-10-24-1": {
+      "baseline": "2023-10-24",
+      "port-version": 1
+    },
     "joltphysics-2-0-1-0": {
       "baseline": "2.0.1",
       "port-version": 0
