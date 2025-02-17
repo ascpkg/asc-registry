@@ -24672,6 +24672,10 @@
       "baseline": "2.14.0",
       "port-version": 1
     },
+    "fontconfig-2-14-0-2": {
+      "baseline": "2.14.0",
+      "port-version": 2
+    },
     "foonathan-memory-2019-07-21-0": {
       "baseline": "2019-07-21",
       "port-version": 0
@@ -25159,6 +25163,10 @@
     "freetds-1-3-10-0": {
       "baseline": "1.3.10",
       "port-version": 0
+    },
+    "freetds-1-3-10-1": {
+      "baseline": "1.3.10",
+      "port-version": 1
     },
     "freetype-2-10-0-0": {
       "baseline": "2.10.0",
@@ -28043,6 +28051,10 @@
     "gperf-3-1-3": {
       "baseline": "3.1",
       "port-version": 3
+    },
+    "gperf-3-1-4": {
+      "baseline": "3.1",
+      "port-version": 4
     },
     "gperftools-2019-09-02-0": {
       "baseline": "2019-09-02",
@@ -32559,6 +32571,10 @@
     "kf5codecs-5-89-0-0": {
       "baseline": "5.89.0",
       "port-version": 0
+    },
+    "kf5codecs-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
     },
     "kf5completion-5-64-0-0": {
       "baseline": "5.64.0",
@@ -52748,6 +52764,10 @@
       "baseline": "2022.03.21.00",
       "port-version": 1
     },
+    "proxygen-2022-03-21-00-2": {
+      "baseline": "2022.03.21.00",
+      "port-version": 2
+    },
     "proxywrapper-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
@@ -58063,6 +58083,10 @@
     "qtwebengine-6-3-0-1": {
       "baseline": "6.3.0",
       "port-version": 1
+    },
+    "qtwebengine-6-3-0-2": {
+      "baseline": "6.3.0",
+      "port-version": 2
     },
     "qtwebsockets-6-2-0-0": {
       "baseline": "6.2.0",
