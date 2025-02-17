@@ -1,0 +1,6 @@
+old = "woff2"
+new = "woff2-1-0-2-3"
+
+[deps]
+brotli-1-0-9-2 = "brotli"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
