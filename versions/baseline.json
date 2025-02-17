@@ -96824,6 +96824,10 @@
       "baseline": "20.45.0",
       "port-version": 0
     },
+    "uwebsockets-20-47-0-0": {
+      "baseline": "20.47.0",
+      "port-version": 0
+    },
     "uwebsockets-20-5-0-0": {
       "baseline": "20.5.0",
       "port-version": 0
