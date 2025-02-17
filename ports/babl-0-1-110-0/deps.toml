@@ -1,0 +1,8 @@
+old = "babl"
+new = "babl-0-1-110-0"
+
+[deps]
+glib-2-80-0-1 = "glib"
+lcms-2-16-0 = "lcms"
+librsvg-2-40-21-0 = "librsvg"
+vcpkg-tool-meson-1-6-1-0 = "vcpkg-tool-meson"
