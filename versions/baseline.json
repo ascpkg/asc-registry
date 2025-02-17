@@ -33608,6 +33608,10 @@
       "baseline": "2.7.0",
       "port-version": 0
     },
+    "duktape-2-7-0-1": {
+      "baseline": "2.7.0",
+      "port-version": 1
+    },
     "dumb-2-0-3-0": {
       "baseline": "2.0.3",
       "port-version": 0
