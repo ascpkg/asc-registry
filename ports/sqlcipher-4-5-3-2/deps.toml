@@ -1,0 +1,8 @@
+old = "sqlcipher"
+new = "sqlcipher-4-5-3-2"
+
+[deps]
+openssl-3-1-1-1 = "openssl"
+tcl-core-9-0-a1-5 = "tcl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

@@ -86236,6 +86236,10 @@
       "baseline": "4.5.3",
       "port-version": 1
     },
+    "sqlcipher-4-5-3-2": {
+      "baseline": "4.5.3",
+      "port-version": 2
+    },
     "sqlite-modern-cpp-2-4-0": {
       "baseline": "2.4",
       "port-version": 0
