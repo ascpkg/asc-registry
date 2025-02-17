@@ -1,0 +1,13 @@
+old = "python3"
+new = "python3-3-10-1-0"
+
+[deps]
+bzip2-1-0-8-2 = "bzip2"
+expat-2-4-1-0 = "expat"
+gettext-0-21-7 = "gettext"
+libffi-3-4-2-2 = "libffi"
+libiconv-1-16-11 = "libiconv"
+liblzma-5-2-5-4 = "liblzma"
+openssl-1-1-1l-4 = "openssl"
+sqlite3-3-37-0-0 = "sqlite3"
+zlib-1-2-11-13 = "zlib"
