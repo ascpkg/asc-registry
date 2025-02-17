@@ -5620,6 +5620,10 @@
       "baseline": "2.5.0-1",
       "port-version": 0
     },
+    "cello-2019-07-23-0": {
+      "baseline": "2019-07-23",
+      "port-version": 0
+    },
     "cereal-1-2-1-0": {
       "baseline": "1.2.1",
       "port-version": 0
