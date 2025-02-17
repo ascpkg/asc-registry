@@ -16424,6 +16424,22 @@
       "baseline": "4.3.0-1",
       "port-version": 0
     },
+    "spdk-19-01-1-0": {
+      "baseline": "19.01.1",
+      "port-version": 0
+    },
+    "spdk-dpdk-20181124-0": {
+      "baseline": "20181124",
+      "port-version": 0
+    },
+    "spdk-ipsec-20180711-0": {
+      "baseline": "20180711",
+      "port-version": 0
+    },
+    "spdk-isal-20181006-0": {
+      "baseline": "20181006",
+      "port-version": 0
+    },
     "spdlog-0-11-0-0": {
       "baseline": "0.11.0",
       "port-version": 0
