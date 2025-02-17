@@ -15736,6 +15736,10 @@
       "baseline": "5.2.1",
       "port-version": 0
     },
+    "hyperscan-5-2-1-1-0": {
+      "baseline": "5.2.1-1",
+      "port-version": 0
+    },
     "hypre-2-11-1-0": {
       "baseline": "2.11.1",
       "port-version": 0
@@ -26524,6 +26528,10 @@
       "baseline": "3.7.4",
       "port-version": 0
     },
+    "python3-3-8-3-0": {
+      "baseline": "3.8.3",
+      "port-version": 0
+    },
     "qca-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
@@ -33962,6 +33970,10 @@
     },
     "vtk-9-0-1-0": {
       "baseline": "9.0-1",
+      "port-version": 0
+    },
+    "vtk-9-0-2-0": {
+      "baseline": "9.0-2",
       "port-version": 0
     },
     "vtk-dicom-0-8-10-0": {
