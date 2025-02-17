@@ -1,0 +1,6 @@
+old = "milerius-sfml-imgui"
+new = "milerius-sfml-imgui-1-1-0"
+
+[deps]
+imgui-1-62-0 = "imgui"
+sfml-2-5-0-2-0 = "sfml"
