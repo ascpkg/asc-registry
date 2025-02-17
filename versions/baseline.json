@@ -92240,6 +92240,10 @@
       "baseline": "0.7.0",
       "port-version": 0
     },
+    "sentry-native-0-7-0-1": {
+      "baseline": "0.7.0",
+      "port-version": 1
+    },
     "septag-dmon-2022-02-08-0": {
       "baseline": "2022-02-08",
       "port-version": 0
