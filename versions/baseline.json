@@ -34368,6 +34368,10 @@
       "baseline": "1.0.18",
       "port-version": 5
     },
+    "libsodium-1-0-18-6": {
+      "baseline": "1.0.18",
+      "port-version": 6
+    },
     "libsoundio-2-0-0-0": {
       "baseline": "2.0.0",
       "port-version": 0
