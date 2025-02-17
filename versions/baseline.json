@@ -856,6 +856,10 @@
       "baseline": "1.6.1-1",
       "port-version": 0
     },
+    "apr-util-1-6-1-2": {
+      "baseline": "1.6.1",
+      "port-version": 2
+    },
     "arb-2-11-1-0": {
       "baseline": "2.11.1",
       "port-version": 0
@@ -12316,6 +12320,10 @@
       "baseline": "0.27.3",
       "port-version": 0
     },
+    "exiv2-0-27-3-1": {
+      "baseline": "0.27.3",
+      "port-version": 1
+    },
     "exiv2-2018-02-25-0": {
       "baseline": "2018-02-25",
       "port-version": 0
@@ -12458,6 +12466,10 @@
     },
     "expat-2-2-7-0": {
       "baseline": "2.2.7",
+      "port-version": 0
+    },
+    "expat-2-2-9-0": {
+      "baseline": "2.2.9",
       "port-version": 0
     },
     "expected-lite-0-3-0-0": {
@@ -13468,6 +13480,10 @@
       "baseline": "2.12.4",
       "port-version": 11
     },
+    "fontconfig-2-12-4-12": {
+      "baseline": "2.12.4",
+      "port-version": 12
+    },
     "fontconfig-2-12-4-3-0": {
       "baseline": "2.12.4-3",
       "port-version": 0
@@ -14204,6 +14220,10 @@
       "baseline": "2.4.1-1",
       "port-version": 0
     },
+    "gdal-2-4-1-10": {
+      "baseline": "2.4.1",
+      "port-version": 10
+    },
     "gdal-2-4-1-3-0": {
       "baseline": "2.4.1-3",
       "port-version": 0
@@ -14259,6 +14279,10 @@
     "gdcm-3-0-5-0": {
       "baseline": "3.0.5",
       "port-version": 0
+    },
+    "gdcm-3-0-5-1": {
+      "baseline": "3.0.5",
+      "port-version": 1
     },
     "gdcm2-2-6-7-0": {
       "baseline": "2.6.7",
@@ -17044,6 +17068,10 @@
       "baseline": "2019-07-11-2",
       "port-version": 0
     },
+    "io2d-2019-07-11-3": {
+      "baseline": "2019-07-11",
+      "port-version": 3
+    },
     "irrlicht-1-8-4-0": {
       "baseline": "1.8.4",
       "port-version": 0
@@ -17175,6 +17203,10 @@
     "itk-5-1-0-0": {
       "baseline": "5.1.0",
       "port-version": 0
+    },
+    "itk-5-1-0-1": {
+      "baseline": "5.1.0",
+      "port-version": 1
     },
     "itpp-4-3-1-0": {
       "baseline": "4.3.1",
@@ -19227,6 +19259,10 @@
     "libkml-1-3-0-4-0": {
       "baseline": "1.3.0-4",
       "port-version": 0
+    },
+    "libkml-1-3-0-5": {
+      "baseline": "1.3.0",
+      "port-version": 5
     },
     "liblas-1-8-1-0": {
       "baseline": "1.8.1",
@@ -27648,6 +27684,10 @@
       "baseline": "1.9.2-2",
       "port-version": 0
     },
+    "poco-1-9-2-3": {
+      "baseline": "1.9.2",
+      "port-version": 3
+    },
     "poco-2-0-0-pre-0": {
       "baseline": "2.0.0-pre",
       "port-version": 0
@@ -31160,6 +31200,10 @@
       "baseline": "1.1.0-2",
       "port-version": 0
     },
+    "readosm-1-1-0-3": {
+      "baseline": "1.1.0",
+      "port-version": 3
+    },
     "realsense2-2-10-0-0": {
       "baseline": "2.10.0",
       "port-version": 0
@@ -32948,6 +32992,10 @@
       "baseline": "2020-05-18-1",
       "port-version": 0
     },
+    "skia-2020-05-18-2": {
+      "baseline": "2020-05-18",
+      "port-version": 2
+    },
     "skyr-url-1-10-0-0": {
       "baseline": "1.10.0",
       "port-version": 0
@@ -33431,6 +33479,10 @@
     "spatialite-tools-4-3-0-2-0": {
       "baseline": "4.3.0-2",
       "port-version": 0
+    },
+    "spatialite-tools-4-3-0-3": {
+      "baseline": "4.3.0",
+      "port-version": 3
     },
     "spdk-19-01-1-0": {
       "baseline": "19.01.1",
@@ -36919,6 +36971,10 @@
     "wxwidgets-3-1-4-1": {
       "baseline": "3.1.4",
       "port-version": 1
+    },
+    "wxwidgets-3-1-4-2": {
+      "baseline": "3.1.4",
+      "port-version": 2
     },
     "x-plane-3-0-1-0": {
       "baseline": "3.0.1",

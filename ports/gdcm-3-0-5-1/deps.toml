@@ -1,0 +1,7 @@
+old = "gdcm"
+new = "gdcm-3-0-5-1"
+
+[deps]
+expat-2-2-9-0 = "expat"
+openjpeg-2-3-1-2 = "openjpeg"
+zlib-1-2-11-8 = "zlib"
