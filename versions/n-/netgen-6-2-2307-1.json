@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/netgen-6-2-2307-1",
+      "version": "6.2.2307",
+      "port-version": 1
+    }
+  ]
+}
