@@ -39796,6 +39796,10 @@
       "baseline": "2.2.1",
       "port-version": 0
     },
+    "fastcdr-2-2-4-0": {
+      "baseline": "2.2.4",
+      "port-version": 0
+    },
     "fastcgi-2020-09-11-0": {
       "baseline": "2020-09-11",
       "port-version": 0
