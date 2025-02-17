@@ -65452,6 +65452,10 @@
       "baseline": "2017-9",
       "port-version": 8
     },
+    "libstemmer-2021-2-2-0-0": {
+      "baseline": "2021.2.2.0",
+      "port-version": 0
+    },
     "libstk-4-6-0-2-0": {
       "baseline": "4.6.0-2",
       "port-version": 0
