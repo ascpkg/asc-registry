@@ -1,0 +1,7 @@
+old = "mongo-cxx-driver"
+new = "mongo-cxx-driver-3-0-3-0"
+
+[deps]
+boost-1-62-6-0 = "boost"
+libbson-1-5-0-rc6-0 = "libbson"
+mongo-c-driver-1-5-0-rc6-0 = "mongo-c-driver"
