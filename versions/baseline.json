@@ -51660,6 +51660,10 @@
       "baseline": "5.2.0",
       "port-version": 3
     },
+    "libosip2-5-2-0-4": {
+      "baseline": "5.2.0",
+      "port-version": 4
+    },
     "libosmium-2-15-5-0": {
       "baseline": "2.15.5",
       "port-version": 0
