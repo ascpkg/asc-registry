@@ -63272,6 +63272,10 @@
       "baseline": "2023-02-03",
       "port-version": 0
     },
+    "minifb-2023-09-21-0": {
+      "baseline": "2023-09-21",
+      "port-version": 0
+    },
     "minimp3-2019-07-24-0": {
       "baseline": "2019-07-24",
       "port-version": 0
