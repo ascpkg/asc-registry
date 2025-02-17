@@ -30596,6 +30596,10 @@
       "baseline": "2022.03.21.00",
       "port-version": 2
     },
+    "fbthrift-2022-03-21-00-3": {
+      "baseline": "2022.03.21.00",
+      "port-version": 3
+    },
     "fcl-0-5-0-1-0": {
       "baseline": "0.5.0-1",
       "port-version": 0
