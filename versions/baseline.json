@@ -20884,6 +20884,10 @@
       "baseline": "11.0.4",
       "port-version": 0
     },
+    "ixwebsocket-11-0-4-1": {
+      "baseline": "11.0.4",
+      "port-version": 1
+    },
     "ixwebsocket-4-0-3-0": {
       "baseline": "4.0.3",
       "port-version": 0

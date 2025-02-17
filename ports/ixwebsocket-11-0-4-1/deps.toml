@@ -1,0 +1,8 @@
+old = "ixwebsocket"
+new = "ixwebsocket-11-0-4-1"
+
+[deps]
+ixwebsocket-11-0-4-1 = "ixwebsocket"
+mbedtls-2-24-0-2 = "mbedtls"
+openssl-1-1-1j-0 = "openssl"
+zlib-1-2-11-9 = "zlib"
