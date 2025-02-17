@@ -42064,6 +42064,10 @@
       "baseline": "20201203",
       "port-version": 2
     },
+    "gloo-20201203-3": {
+      "baseline": "20201203",
+      "port-version": 3
+    },
     "glpk-5-0-0": {
       "baseline": "5.0",
       "port-version": 0
