@@ -60376,6 +60376,10 @@
       "baseline": "3.1.0",
       "port-version": 2
     },
+    "zydis-3-2-1-0": {
+      "baseline": "3.2.1",
+      "port-version": 0
+    },
     "zyre-2019-07-07-0": {
       "baseline": "2019-07-07",
       "port-version": 0
