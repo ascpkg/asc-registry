@@ -4076,6 +4076,10 @@
       "baseline": "2.12.4-1",
       "port-version": 0
     },
+    "fontconfig-2-12-4-3-0": {
+      "baseline": "2.12.4-3",
+      "port-version": 0
+    },
     "forest-4-5-0-0": {
       "baseline": "4.5.0",
       "port-version": 0
