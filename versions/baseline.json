@@ -100256,6 +100256,10 @@
       "baseline": "8.83",
       "port-version": 0
     },
+    "rapidcsv-8-84-0": {
+      "baseline": "8.84",
+      "port-version": 0
+    },
     "rapidfuzz-1-8-0-0": {
       "baseline": "1.8.0",
       "port-version": 0
