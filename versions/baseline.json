@@ -65948,6 +65948,10 @@
       "baseline": "2021-12-03",
       "port-version": 0
     },
+    "skia-0-36-0-0": {
+      "baseline": "0.36.0",
+      "port-version": 0
+    },
     "skia-2020-02-15-0": {
       "baseline": "2020-02-15",
       "port-version": 0
