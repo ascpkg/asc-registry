@@ -1,0 +1,12 @@
+old = "glibmm"
+new = "glibmm-2-80-1-0"
+
+[deps]
+gettext-0-22-5-1 = "gettext"
+glib-2-80-0-1 = "glib"
+libffi-3-4-6-0 = "libffi"
+libiconv-1-17-5 = "libiconv"
+libsigcpp-3-3-0-3-1 = "libsigcpp-3"
+pcre-8-45-7 = "pcre"
+vcpkg-tool-meson-1-6-1-0 = "vcpkg-tool-meson"
+zlib-1-3-1-0 = "zlib"
