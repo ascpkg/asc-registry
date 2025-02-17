@@ -85204,6 +85204,10 @@
       "baseline": "2019-09-20",
       "port-version": 2
     },
+    "zeromq-2023-01-31-0": {
+      "baseline": "2023-01-31",
+      "port-version": 0
+    },
     "zeromq-4-2-0-0": {
       "baseline": "4.2.0",
       "port-version": 0
