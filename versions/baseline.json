@@ -68844,6 +68844,10 @@
       "baseline": "1.9.4",
       "port-version": 1
     },
+    "lz4-1-9-4-2": {
+      "baseline": "1.9.4",
+      "port-version": 2
+    },
     "lzav-3-10-0": {
       "baseline": "3.10",
       "port-version": 0
