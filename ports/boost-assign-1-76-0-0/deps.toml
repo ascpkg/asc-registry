@@ -1,0 +1,18 @@
+old = "boost-assign"
+new = "boost-assign-1-76-0-0"
+
+[deps]
+boost-array-1-76-0-0 = "boost-array"
+boost-config-1-76-0-0 = "boost-config"
+boost-detail-1-76-0-0 = "boost-detail"
+boost-move-1-76-0-0 = "boost-move"
+boost-mpl-1-76-0-0 = "boost-mpl"
+boost-preprocessor-1-76-0-0 = "boost-preprocessor"
+boost-ptr-container-1-76-0-0 = "boost-ptr-container"
+boost-range-1-76-0-0 = "boost-range"
+boost-static-assert-1-76-0-0 = "boost-static-assert"
+boost-throw-exception-1-76-0-0 = "boost-throw-exception"
+boost-tuple-1-76-0-0 = "boost-tuple"
+boost-type-traits-1-76-0-0 = "boost-type-traits"
+boost-utility-1-76-0-0 = "boost-utility"
+boost-vcpkg-helpers-7-2 = "boost-vcpkg-helpers"

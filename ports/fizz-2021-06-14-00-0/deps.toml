@@ -1,0 +1,9 @@
+old = "fizz"
+new = "fizz-2021-06-14-00-0"
+
+[deps]
+fmt-7-1-3-5 = "fmt"
+folly-2021-06-14-00-0 = "folly"
+libsodium-1-0-18-5 = "libsodium"
+openssl-1-1-1k-6 = "openssl"
+zstd-1-4-9-0 = "zstd"

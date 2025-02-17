@@ -1,0 +1,16 @@
+old = "boost-container"
+new = "boost-container-1-76-0-0"
+
+[deps]
+boost-assert-1-76-0-0 = "boost-assert"
+boost-build-1-75-0-0 = "boost-build"
+boost-config-1-76-0-0 = "boost-config"
+boost-core-1-76-0-0 = "boost-core"
+boost-detail-1-76-0-0 = "boost-detail"
+boost-intrusive-1-76-0-0 = "boost-intrusive"
+boost-modular-build-helper-1-76-0-0 = "boost-modular-build-helper"
+boost-move-1-76-0-0 = "boost-move"
+boost-static-assert-1-76-0-0 = "boost-static-assert"
+boost-type-traits-1-76-0-0 = "boost-type-traits"
+boost-vcpkg-helpers-7-2 = "boost-vcpkg-helpers"
+boost-winapi-1-76-0-0 = "boost-winapi"
