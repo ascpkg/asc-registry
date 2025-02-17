@@ -22832,6 +22832,10 @@
       "baseline": "8.1.1",
       "port-version": 0
     },
+    "fmt-8-1-1-1": {
+      "baseline": "8.1.1",
+      "port-version": 1
+    },
     "folly-2017-10-02-00-0": {
       "baseline": "2017.10.02.00",
       "port-version": 0
