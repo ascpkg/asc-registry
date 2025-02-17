@@ -18920,6 +18920,10 @@
       "baseline": "0.2.2-2",
       "port-version": 0
     },
+    "libyaml-0-2-2-3-0": {
+      "baseline": "0.2.2-3",
+      "port-version": 0
+    },
     "libyuv-fec9121-0": {
       "baseline": "fec9121",
       "port-version": 0
