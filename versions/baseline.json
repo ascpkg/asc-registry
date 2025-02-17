@@ -42960,6 +42960,10 @@
       "baseline": "2020.7",
       "port-version": 0
     },
+    "spirv-tools-2021-1-0": {
+      "baseline": "2021.1",
+      "port-version": 0
+    },
     "spirv-tools-v2017-1-dev-7e2d26c77b606b21af839b37fd21381c4a669f23-0": {
       "baseline": "v2017.1-dev-7e2d26c77b606b21af839b37fd21381c4a669f23",
       "port-version": 0
