@@ -71228,6 +71228,10 @@
       "baseline": "2.7.2.14",
       "port-version": 5
     },
+    "md4c-0-5-2-0": {
+      "baseline": "0.5.2",
+      "port-version": 0
+    },
     "mdl-sdk-2021-1-2-0": {
       "baseline": "2021.1.2",
       "port-version": 0
