@@ -25252,6 +25252,10 @@
       "baseline": "0.5.1-2",
       "port-version": 0
     },
+    "restclient-cpp-0-5-1-3-0": {
+      "baseline": "0.5.1-3",
+      "port-version": 0
+    },
     "restinio-0-4-5-0": {
       "baseline": "0.4.5",
       "port-version": 0
