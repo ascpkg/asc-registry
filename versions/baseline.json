@@ -16932,6 +16932,10 @@
       "baseline": "2.4.0-5",
       "port-version": 0
     },
+    "libodb-mysql-2-4-0-6-0": {
+      "baseline": "2.4.0-6",
+      "port-version": 0
+    },
     "libodb-pgsql-2-4-0-0": {
       "baseline": "2.4.0",
       "port-version": 0
