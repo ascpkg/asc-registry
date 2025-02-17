@@ -1,0 +1,6 @@
+old = "laszip"
+new = "laszip-3-4-3-1"
+
+[deps]
+vcpkg-cmake-2021-06-25-5 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"
