@@ -44084,6 +44084,10 @@
       "baseline": "3.1.4",
       "port-version": 5
     },
+    "wxwidgets-3-1-4-6": {
+      "baseline": "3.1.4",
+      "port-version": 6
+    },
     "x-plane-3-0-1-0": {
       "baseline": "3.0.1",
       "port-version": 0
