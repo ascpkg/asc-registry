@@ -6344,6 +6344,10 @@
       "baseline": "3.0.0-pre",
       "port-version": 0
     },
+    "cppgraphqlgen-3-0-2-0": {
+      "baseline": "3.0.2",
+      "port-version": 0
+    },
     "cppitertools-2019-04-14-2-0": {
       "baseline": "2019-04-14-2",
       "port-version": 0
@@ -17618,6 +17622,10 @@
     },
     "pegtl-3-0-0-pre-0": {
       "baseline": "3.0.0-pre",
+      "port-version": 0
+    },
+    "pegtl-3-0-0-pre-697aaa0-0": {
+      "baseline": "3.0.0-pre-697aaa0",
       "port-version": 0
     },
     "pfultz2-linq-2018-02-08-0": {
