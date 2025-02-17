@@ -59880,6 +59880,10 @@
       "baseline": "8.0.30",
       "port-version": 1
     },
+    "mysql-connector-cpp-8-0-32-0": {
+      "baseline": "8.0.32",
+      "port-version": 0
+    },
     "nameof-0-10-0-0": {
       "baseline": "0.10.0",
       "port-version": 0
