@@ -1,0 +1,8 @@
+old = "getdns"
+new = "getdns-1-6-0-0"
+
+[deps]
+libevent-2-1-11-5-0 = "libevent"
+libidn2-2-2-0-1-0 = "libidn2"
+libuv-1-34-2-1-0 = "libuv"
+openssl-1-1-1g-0 = "openssl"

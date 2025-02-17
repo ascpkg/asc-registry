@@ -14060,6 +14060,10 @@
       "baseline": "3.8",
       "port-version": 0
     },
+    "getdns-1-6-0-0": {
+      "baseline": "1.6.0",
+      "port-version": 0
+    },
     "getopt-0-0": {
       "baseline": "0",
       "port-version": 0
