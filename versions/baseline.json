@@ -8088,6 +8088,10 @@
       "baseline": "5.3-3",
       "port-version": 0
     },
+    "fdlibm-5-3-4-0": {
+      "baseline": "5.3-4",
+      "port-version": 0
+    },
     "ffmpeg-3-2-4-0": {
       "baseline": "3.2.4",
       "port-version": 0
