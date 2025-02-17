@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/span-lite-0-8-1-0",
+      "version-string": "0.8.1",
+      "port-version": 0
+    }
+  ]
+}
