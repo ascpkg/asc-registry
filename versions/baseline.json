@@ -59264,6 +59264,10 @@
       "baseline": "2018-08-31",
       "port-version": 5
     },
+    "simpleini-4-19-0": {
+      "baseline": "4.19",
+      "port-version": 0
+    },
     "sjpeg-2021-10-31-0": {
       "baseline": "2021-10-31",
       "port-version": 0
