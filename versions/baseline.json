@@ -344,6 +344,10 @@
       "baseline": "1.8.2",
       "port-version": 0
     },
+    "avro-c-1-8-2-1-0": {
+      "baseline": "1.8.2-1",
+      "port-version": 0
+    },
     "aws-sdk-cpp-1-0-34-0": {
       "baseline": "1.0.34",
       "port-version": 0
@@ -1784,6 +1788,10 @@
       "baseline": "0.3.2-2",
       "port-version": 0
     },
+    "console-bridge-0-3-2-3-0": {
+      "baseline": "0.3.2-3",
+      "port-version": 0
+    },
     "console_bridge-0-3-2-1-0": {
       "baseline": "0.3.2-1",
       "port-version": 0
@@ -2058,6 +2066,10 @@
     },
     "curl-7-58-0-4-0": {
       "baseline": "7.58.0-4",
+      "port-version": 0
+    },
+    "curl-7-58-0-5-0": {
+      "baseline": "7.58.0-5",
       "port-version": 0
     },
     "cxxopts-1-3-0-0": {
@@ -2906,6 +2918,10 @@
     },
     "freetype-2-8-1-1-0": {
       "baseline": "2.8.1-1",
+      "port-version": 0
+    },
+    "freetype-2-8-1-3-0": {
+      "baseline": "2.8.1-3",
       "port-version": 0
     },
     "freetype-gl--0": {
@@ -3824,6 +3840,10 @@
       "baseline": "2.11",
       "port-version": 0
     },
+    "jansson-2-11-2-0": {
+      "baseline": "2.11-2",
+      "port-version": 0
+    },
     "jansson-v2-10-0": {
       "baseline": "v2.10",
       "port-version": 0
@@ -3982,6 +4002,10 @@
     },
     "leptonica-1-74-4-2-0": {
       "baseline": "1.74.4-2",
+      "port-version": 0
+    },
+    "leptonica-1-74-4-3-0": {
+      "baseline": "1.74.4-3",
       "port-version": 0
     },
     "leveldb-2017-10-25-8b1cd3753b184341e837b30383832645135d3d73-0": {
@@ -4266,6 +4290,10 @@
     },
     "libiconv-1-15-1-0": {
       "baseline": "1.15-1",
+      "port-version": 0
+    },
+    "libiconv-1-15-2-0": {
+      "baseline": "1.15-2",
       "port-version": 0
     },
     "libidn2-2-0-4-0": {
@@ -4554,6 +4582,10 @@
     },
     "libpng-1-6-34-2-0": {
       "baseline": "1.6.34-2",
+      "port-version": 0
+    },
+    "libpng-1-6-34-3-0": {
+      "baseline": "1.6.34-3",
       "port-version": 0
     },
     "libpng-apng-1-6-34-2-0": {
@@ -4950,6 +4982,10 @@
     },
     "libxml2-2-9-4-2-0": {
       "baseline": "2.9.4-2",
+      "port-version": 0
+    },
+    "libxml2-2-9-4-4-0": {
+      "baseline": "2.9.4-4",
       "port-version": 0
     },
     "libxmp-lite-4-4-1-0": {
@@ -6548,6 +6584,10 @@
       "baseline": "3.5.1",
       "port-version": 0
     },
+    "protobuf-3-5-1-1-0": {
+      "baseline": "3.5.1-1",
+      "port-version": 0
+    },
     "ptex-2-1-28-0": {
       "baseline": "2.1.28",
       "port-version": 0
@@ -7314,6 +7354,10 @@
     },
     "sdl2-2-0-8-0": {
       "baseline": "2.0.8",
+      "port-version": 0
+    },
+    "sdl2-2-0-8-1-0": {
+      "baseline": "2.0.8-1",
       "port-version": 0
     },
     "sdl2-gfx-1-0-3-0": {
@@ -8098,6 +8142,10 @@
     },
     "tinyxml2-6-0-0-0": {
       "baseline": "6.0.0",
+      "port-version": 0
+    },
+    "tinyxml2-6-0-0-2-0": {
+      "baseline": "6.0.0-2",
       "port-version": 0
     },
     "torch-th-20180131-89ede3ba90c906a8ec6b9a0f4bef188ba5bb2fd8-1-0": {

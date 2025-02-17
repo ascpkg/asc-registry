@@ -3,4 +3,4 @@ new = "butteraugli-2018-02-25-0"
 
 [deps]
 libjpeg-turbo-1-5-3-0 = "libjpeg-turbo"
-libpng-1-6-34-2-0 = "libpng"
+libpng-1-6-34-3-0 = "libpng"
