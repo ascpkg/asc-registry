@@ -1,0 +1,7 @@
+old = "aws-c-sdkutils"
+new = "aws-c-sdkutils-0-1-15-0"
+
+[deps]
+aws-c-common-0-9-14-0 = "aws-c-common"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
