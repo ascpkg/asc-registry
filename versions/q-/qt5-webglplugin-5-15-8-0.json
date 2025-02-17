@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qt5-webglplugin-5-15-8-0",
+      "version": "5.15.8",
+      "port-version": 0
+    }
+  ]
+}
