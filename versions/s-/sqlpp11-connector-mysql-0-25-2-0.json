@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/sqlpp11-connector-mysql-0-25-2-0",
+      "version": "0.25-2",
+      "port-version": 0
+    }
+  ]
+}

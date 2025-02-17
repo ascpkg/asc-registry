@@ -1,0 +1,5 @@
+old = "sqlpp11"
+new = "sqlpp11-0-58-1-0"
+
+[deps]
+date-2019-05-18-1-0 = "date"

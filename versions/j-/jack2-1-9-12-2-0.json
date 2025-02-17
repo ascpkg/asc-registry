@@ -2,6 +2,11 @@
   "versions": [
     {
       "path": "$/ports/jack2-1-9-12-2-0",
+      "version": "1.9.12-2",
+      "port-version": 0
+    },
+    {
+      "path": "$/ports/jack2-1-9-12-2-0",
       "version": "1.9.12.2",
       "port-version": 0
     }
