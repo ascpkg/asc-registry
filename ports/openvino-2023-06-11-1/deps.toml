@@ -1,0 +1,18 @@
+old = "openvino"
+new = "openvino-2023-06-11-1"
+
+[deps]
+ade-0-1-1f-3 = "ade"
+flatbuffers-23-5-26-0 = "flatbuffers"
+onnx-1-13-1-0 = "onnx"
+opencl-v2023-02-06-2 = "opencl"
+openvino-2023-06-11-1 = "openvino"
+pkgconf-1-8-0-5 = "pkgconf"
+protobuf-3-21-12-0 = "protobuf"
+pugixml-1-13-0-0 = "pugixml"
+snappy-1-1-9-5 = "snappy"
+tbb-2021-9-0-2 = "tbb"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+vcpkg-get-python-packages-2022-06-30-0 = "vcpkg-get-python-packages"
+xbyak-6-69-0 = "xbyak"
