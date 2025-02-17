@@ -1,25 +1,18 @@
 include(vcpkg_common_functions)
 set(VERSION 1_65)
-set(VERSION2 1.65.0)
-set(SOURCE_PATH ${CURRENT_BUILDTREES_DIR}/src/boost_${VERSION}_0)
+set(VERSION_FULL 1_65_1)
+set(VERSION2 1.65.1)
+set(SOURCE_PATH ${CURRENT_BUILDTREES_DIR}/src/boost_${VERSION_FULL})
 
 ######################
 # Acquire and arrange sources
 ######################
 vcpkg_download_distfile(ARCHIVE_FILE
-    URLS "https://sourceforge.net/projects/boost/files/boost/${VERSION2}/boost_${VERSION}_0.7z" "http://dl.bintray.com/boostorg/release/${VERSION2}/source/boost_${VERSION}_0.7z"
-    FILENAME "boost_${VERSION}_0.7z"
-    SHA512 41909136371b3aac53fc06ae92404bd52adde4cbda9337886433d197059105208b67331abf6ca8dc45e4d28679733b5c01fc701cba17516c7134c97785cc5f7e
+    URLS "https://sourceforge.net/projects/boost/files/boost/${VERSION2}/boost_${VERSION_FULL}.7z" "http://dl.bintray.com/boostorg/release/${VERSION2}/source/boost_${VERSION_FULL}.7z"
+    FILENAME "boost_${VERSION_FULL}.7z"
+    SHA512 b1d9264ec74dd75c68176f5a2d2da33a2c1e3162842cc61a07ac8ed1ebb953855cece4faf72ce99b490b665e813b839e35c7fc8026f2f9cb31b106fb8bab2a9c
 )
 vcpkg_extract_source_archive(${ARCHIVE_FILE})
-
-# apply boost combined hotfix
-vcpkg_download_distfile(HOTFIX_PATCH
-    URLS "https://raw.githubusercontent.com/boostorg/website/6c3b630f2c621b78d983e882cefae7ffdf8383b8/patches/1_65_0/boost_1_65_0.patch"
-    FILENAME "boost_1_65_0.patch"
-    SHA512 8f9e654d0ee4d30b38b62b99ebfbbdeccd156c168656e1256b846bd21a3cb36d675396bd48d3f7a18d6cffba80932d40590d12e7ca1a4b51db343b3a0a39a3fd
-)
-vcpkg_apply_patches(SOURCE_PATH ${SOURCE_PATH} PATCHES ${HOTFIX_PATCH})
 
 # apply boost range hotfix
 vcpkg_download_distfile(DIFF
@@ -32,8 +25,7 @@ FILE(READ "${DIFF}" content)
 STRING(REGEX REPLACE "include/" "" content "${content}")
 set(DIFF2 ${CURRENT_BUILDTREES_DIR}/src/boost-range-has_range_iterator-hotfix_e7ebe14707130cda7b72e0ae5e93b17157fdb6a2.diff.fixed)
 FILE(WRITE ${DIFF2} "${content}")
-vcpkg_apply_patches(SOURCE_PATH ${SOURCE_PATH} PATCHES ${DIFF2}
-                                                       ${CMAKE_CURRENT_LIST_DIR}/0001-Fix-boost-ICU-support.patch)
+vcpkg_apply_patches(SOURCE_PATH ${SOURCE_PATH} PATCHES ${DIFF2})
 
 ######################
 # Cleanup previous builds
@@ -84,21 +76,19 @@ message(STATUS "Bootstrapping done")
 set(B2_OPTIONS
     -sZLIB_INCLUDE="${CURRENT_INSTALLED_DIR}\\include"
     -sBZIP2_INCLUDE="${CURRENT_INSTALLED_DIR}\\include"
-    -sICU_PATH="${CURRENT_INSTALLED_DIR}"
     -j$ENV{NUMBER_OF_PROCESSORS}
     --debug-configuration
     --hash
     -q
 
+    --without-python
     threading=multi
 )
 
-set(LIB_RUNTIME_LINK "shared")
 if (VCPKG_CRT_LINKAGE STREQUAL dynamic)
     list(APPEND B2_OPTIONS runtime-link=shared)
 else()
     list(APPEND B2_OPTIONS runtime-link=static)
-    set(LIB_RUNTIME_LINK "static")
 endif()
 
 if (VCPKG_LIBRARY_LINKAGE STREQUAL dynamic)
@@ -146,7 +136,6 @@ if(VCPKG_CMAKE_SYSTEM_NAME MATCHES "WindowsStore")
         --without-thread
         --without-iostreams
         --without-container
-        --without-python
     )
     if(VCPKG_PLATFORM_TOOLSET MATCHES "v141")
         find_path(PATH_TO_CL cl.exe)
@@ -165,11 +154,6 @@ if(VCPKG_CMAKE_SYSTEM_NAME MATCHES "WindowsStore")
     configure_file(${CMAKE_CURRENT_LIST_DIR}/uwp/user-config.jam ${CURRENT_BUILDTREES_DIR}/${TARGET_TRIPLET}-dbg/user-config.jam ESCAPE_QUOTES @ONLY)
     configure_file(${CMAKE_CURRENT_LIST_DIR}/uwp/user-config.jam ${CURRENT_BUILDTREES_DIR}/${TARGET_TRIPLET}-rel/user-config.jam ESCAPE_QUOTES @ONLY)
 else()
-    # Find Python. Can't use find_package here, but we already know where everything is
-    file(GLOB PYTHON_INCLUDE_PATH "${CURRENT_INSTALLED_DIR}/include/python[0-9.]*")
-    set(PYTHONLIBS_RELEASE "${CURRENT_INSTALLED_DIR}/lib")
-    set(PYTHONLIBS_DEBUG "${CURRENT_INSTALLED_DIR}/debug/lib")
-    string(REGEX REPLACE ".*python([0-9\.]+)$" "\\1" PYTHON_VERSION ${PYTHON_INCLUDE_PATH})
     configure_file(${CMAKE_CURRENT_LIST_DIR}/desktop/user-config.jam ${CURRENT_BUILDTREES_DIR}/${TARGET_TRIPLET}-dbg/user-config.jam @ONLY)
     configure_file(${CMAKE_CURRENT_LIST_DIR}/desktop/user-config.jam ${CURRENT_BUILDTREES_DIR}/${TARGET_TRIPLET}-rel/user-config.jam @ONLY)
 endif()

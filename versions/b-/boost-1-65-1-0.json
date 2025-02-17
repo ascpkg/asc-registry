@@ -2,6 +2,11 @@
   "versions": [
     {
       "path": "$/ports/boost-1-65-1-0",
+      "version": "1.65.1",
+      "port-version": 0
+    },
+    {
+      "path": "$/ports/boost-1-65-1-0",
       "version": "1.65-1",
       "port-version": 0
     }
