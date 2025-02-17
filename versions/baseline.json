@@ -9316,6 +9316,10 @@
       "baseline": "3.2.1",
       "port-version": 0
     },
+    "cppgraphqlgen-3-2-2-0": {
+      "baseline": "3.2.2",
+      "port-version": 0
+    },
     "cppitertools-2-0-0": {
       "baseline": "2.0",
       "port-version": 0
@@ -25050,6 +25054,10 @@
     },
     "pegtl-3-0-0-pre-697aaa0-0": {
       "baseline": "3.0.0-pre-697aaa0",
+      "port-version": 0
+    },
+    "pegtl-3-0-0-pre-70971f4-0": {
+      "baseline": "3.0.0-pre-70971f4",
       "port-version": 0
     },
     "pegtl-3-0-0-pre-83b6cdc-0": {
