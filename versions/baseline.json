@@ -56356,6 +56356,10 @@
       "baseline": "3.7.1",
       "port-version": 0
     },
+    "libfork-3-8-0-0": {
+      "baseline": "3.8.0",
+      "port-version": 0
+    },
     "libfort-0-4-1-0": {
       "baseline": "0.4.1",
       "port-version": 0
