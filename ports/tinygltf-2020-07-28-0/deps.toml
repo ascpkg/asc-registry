@@ -1,0 +1,6 @@
+old = "tinygltf"
+new = "tinygltf-2020-07-28-0"
+
+[deps]
+nlohmann-json-3-9-1-0 = "nlohmann-json"
+stb-2020-02-08-1-0 = "stb"
