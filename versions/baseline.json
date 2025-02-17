@@ -84332,6 +84332,10 @@
       "baseline": "6.6.1",
       "port-version": 6
     },
+    "qtbase-6-6-1-7": {
+      "baseline": "6.6.1",
+      "port-version": 7
+    },
     "qtcharts-6-1-0-0": {
       "baseline": "6.1.0",
       "port-version": 0
