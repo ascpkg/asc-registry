@@ -109388,6 +109388,10 @@
       "baseline": "0.10.0",
       "port-version": 2
     },
+    "tracy-0-11-0-0": {
+      "baseline": "0.11.0",
+      "port-version": 0
+    },
     "tracy-0-7-8-0": {
       "baseline": "0.7.8",
       "port-version": 0
