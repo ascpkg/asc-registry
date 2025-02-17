@@ -1,0 +1,5 @@
+old = "python2"
+new = "python2-2-7-18-7"
+
+[deps]
+vcpkg-msbuild-2023-08-08-0 = "vcpkg-msbuild"

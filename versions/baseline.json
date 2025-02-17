@@ -72068,6 +72068,10 @@
       "baseline": "2.7.18",
       "port-version": 6
     },
+    "python2-2-7-18-7": {
+      "baseline": "2.7.18",
+      "port-version": 7
+    },
     "python3-3-10-0-0": {
       "baseline": "3.10.0",
       "port-version": 0

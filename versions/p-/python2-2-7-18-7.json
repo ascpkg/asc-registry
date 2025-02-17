@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/python2-2-7-18-7",
+      "version": "2.7.18",
+      "port-version": 7
+    }
+  ]
+}
