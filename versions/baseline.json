@@ -72124,6 +72124,10 @@
       "baseline": "3.1.0",
       "port-version": 1
     },
+    "luau-0-651-0": {
+      "baseline": "0.651",
+      "port-version": 0
+    },
     "luminoengine-0-10-1-0": {
       "baseline": "0.10.1",
       "port-version": 0
