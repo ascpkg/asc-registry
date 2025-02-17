@@ -125800,6 +125800,10 @@
       "baseline": "0.20.0",
       "port-version": 0
     },
+    "xtensor-blas-0-21-0-0": {
+      "baseline": "0.21.0",
+      "port-version": 0
+    },
     "xtensor-fftw-2019-11-30-0": {
       "baseline": "2019-11-30",
       "port-version": 0
