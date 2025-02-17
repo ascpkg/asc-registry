@@ -78364,6 +78364,10 @@
       "baseline": "3.2",
       "port-version": 0
     },
+    "raygui-3-6-0": {
+      "baseline": "3.6",
+      "port-version": 0
+    },
     "raylib-2-5-0-0": {
       "baseline": "2.5.0",
       "port-version": 0
