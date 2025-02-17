@@ -30220,6 +30220,10 @@
       "baseline": "7.0.0",
       "port-version": 7
     },
+    "chartdir-7-0-0-8": {
+      "baseline": "7.0.0",
+      "port-version": 8
+    },
     "check-0-12-0-1-0": {
       "baseline": "0.12.0-1",
       "port-version": 0
@@ -44648,6 +44652,10 @@
       "baseline": "20190125",
       "port-version": 7
     },
+    "freeopcua-20190125-8": {
+      "baseline": "20190125",
+      "port-version": 8
+    },
     "freerdp-2-0-0-0": {
       "baseline": "2.0.0",
       "port-version": 0
@@ -45947,6 +45955,10 @@
     "gdal-3-10-0-0": {
       "baseline": "3.10.0",
       "port-version": 0
+    },
+    "gdal-3-10-0-1": {
+      "baseline": "3.10.0",
+      "port-version": 1
     },
     "gdal-3-2-2-0": {
       "baseline": "3.2.2",
@@ -53731,6 +53743,10 @@
     "igraph-0-10-15-0": {
       "baseline": "0.10.15",
       "port-version": 0
+    },
+    "igraph-0-10-15-1": {
+      "baseline": "0.10.15",
+      "port-version": 1
     },
     "igraph-0-10-2-0": {
       "baseline": "0.10.2",
@@ -61740,6 +61756,10 @@
       "baseline": "1.8.0",
       "port-version": 0
     },
+    "libgit2-1-8-0-1": {
+      "baseline": "1.8.0",
+      "port-version": 1
+    },
     "libgme-0-6-3-0": {
       "baseline": "0.6.3",
       "port-version": 0
@@ -66983,6 +67003,10 @@
     "librttopo-1-1-0-8": {
       "baseline": "1.1.0",
       "port-version": 8
+    },
+    "librttopo-1-1-0-9": {
+      "baseline": "1.1.0",
+      "port-version": 9
     },
     "libsamplerate-0-1-9-0-0": {
       "baseline": "0.1.9.0",
