@@ -12356,6 +12356,10 @@
       "baseline": "4.2-12",
       "port-version": 0
     },
+    "ffmpeg-4-2-13-0": {
+      "baseline": "4.2-13",
+      "port-version": 0
+    },
     "ffmpeg-4-2-2-0": {
       "baseline": "4.2-2",
       "port-version": 0
