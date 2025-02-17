@@ -30064,6 +30064,10 @@
       "baseline": "0.3.5",
       "port-version": 0
     },
+    "usockets-0-3-5-1-0": {
+      "baseline": "0.3.5-1",
+      "port-version": 0
+    },
     "usrsctp-35c1d97020a-0": {
       "baseline": "35c1d97020a",
       "port-version": 0
