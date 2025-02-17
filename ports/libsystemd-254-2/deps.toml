@@ -1,0 +1,12 @@
+old = "libsystemd"
+new = "libsystemd-254-2"
+
+[deps]
+gperf-3-1-6 = "gperf"
+libcap-2-69-3 = "libcap"
+liblzma-5-4-4-0 = "liblzma"
+libmount-2-38-2 = "libmount"
+libxcrypt-4-4-36-0 = "libxcrypt"
+lz4-1-9-4-1 = "lz4"
+vcpkg-tool-meson-0-63-1 = "vcpkg-tool-meson"
+zstd-1-5-5-2 = "zstd"
