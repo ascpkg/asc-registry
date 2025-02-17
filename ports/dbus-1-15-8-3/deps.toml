@@ -1,0 +1,9 @@
+old = "dbus"
+new = "dbus-1-15-8-3"
+
+[deps]
+expat-2-6-2-0 = "expat"
+libsystemd-255-1 = "libsystemd"
+libx11-1-8-1-1 = "libx11"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
