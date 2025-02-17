@@ -44196,6 +44196,10 @@
       "baseline": "5.13.0",
       "port-version": 12
     },
+    "plplot-5-13-0-13": {
+      "baseline": "5.13.0",
+      "port-version": 13
+    },
     "plplot-5-13-0-2-0": {
       "baseline": "5.13.0-2",
       "port-version": 0
