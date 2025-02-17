@@ -1,0 +1,5 @@
+old = "cialloo-rcon"
+new = "cialloo-rcon-1-0-0-0"
+
+[deps]
+asio-1-24-0-1 = "asio"
