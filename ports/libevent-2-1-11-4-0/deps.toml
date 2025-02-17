@@ -1,0 +1,5 @@
+old = "libevent"
+new = "libevent-2-1-11-4-0"
+
+[deps]
+openssl-1-0 = "openssl"
