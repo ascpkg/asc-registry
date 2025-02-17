@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/asiosdk-2-3-3-5",
+      "version": "2.3.3",
+      "port-version": 5
+    }
+  ]
+}

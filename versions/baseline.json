@@ -2124,6 +2124,10 @@
       "baseline": "2.3.3",
       "port-version": 4
     },
+    "asiosdk-2-3-3-5": {
+      "baseline": "2.3.3",
+      "port-version": 5
+    },
     "asmjit-2018-11-08-0": {
       "baseline": "2018-11-08",
       "port-version": 0
