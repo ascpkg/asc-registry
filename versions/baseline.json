@@ -52292,6 +52292,10 @@
       "baseline": "2021-02-26",
       "port-version": 2
     },
+    "qnnpack-2021-02-26-3": {
+      "baseline": "2021-02-26",
+      "port-version": 3
+    },
     "qpid-proton-0-18-1-0": {
       "baseline": "0.18.1",
       "port-version": 0
