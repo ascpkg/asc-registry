@@ -85240,6 +85240,10 @@
       "baseline": "47.0",
       "port-version": 0
     },
+    "perfetto-48-1-0": {
+      "baseline": "48.1",
+      "port-version": 0
+    },
     "pffft-2021-10-09-0": {
       "baseline": "2021-10-09",
       "port-version": 0
