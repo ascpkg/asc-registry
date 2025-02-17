@@ -3744,6 +3744,10 @@
       "baseline": "2018.04.09.00",
       "port-version": 0
     },
+    "folly-2018-04-16-00-0": {
+      "baseline": "2018.04.16.00",
+      "port-version": 0
+    },
     "folly-v2017-05-08-00-0": {
       "baseline": "v2017.05.08.00",
       "port-version": 0
