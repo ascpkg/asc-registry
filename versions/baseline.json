@@ -119024,6 +119024,10 @@
       "baseline": "4.13.0",
       "port-version": 0
     },
+    "z3-4-13-2-0": {
+      "baseline": "4.13.2",
+      "port-version": 0
+    },
     "z3-4-8-10-0": {
       "baseline": "4.8.10",
       "port-version": 0
