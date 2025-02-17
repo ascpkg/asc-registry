@@ -18944,6 +18944,10 @@
       "baseline": "4.7.0-5",
       "port-version": 0
     },
+    "netcdf-c-4-7-3-0": {
+      "baseline": "4.7.3",
+      "port-version": 0
+    },
     "netcdf-cxx4-4-3-0-0": {
       "baseline": "4.3.0",
       "port-version": 0
