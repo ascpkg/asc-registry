@@ -47268,6 +47268,10 @@
       "baseline": "0.2.5",
       "port-version": 3
     },
+    "libyuv-1857-0": {
+      "baseline": "1857",
+      "port-version": 0
+    },
     "libyuv-2021-04-15-0": {
       "baseline": "2021-04-15",
       "port-version": 0
