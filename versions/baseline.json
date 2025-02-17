@@ -5632,6 +5632,10 @@
       "baseline": "0.4.0",
       "port-version": 0
     },
+    "fmi4cpp-0-5-3-0": {
+      "baseline": "0.5.3",
+      "port-version": 0
+    },
     "fmilib-2-0-3-0": {
       "baseline": "2.0.3",
       "port-version": 0
