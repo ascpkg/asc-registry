@@ -48908,6 +48908,10 @@
       "baseline": "6.3.0",
       "port-version": 1
     },
+    "gmp-6-3-0-2": {
+      "baseline": "6.3.0",
+      "port-version": 2
+    },
     "gmsh-4-11-1-0": {
       "baseline": "4.11.1",
       "port-version": 0
