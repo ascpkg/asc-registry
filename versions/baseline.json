@@ -13088,6 +13088,10 @@
       "baseline": "2.12.4-10",
       "port-version": 0
     },
+    "fontconfig-2-12-4-11": {
+      "baseline": "2.12.4",
+      "port-version": 11
+    },
     "fontconfig-2-12-4-3-0": {
       "baseline": "2.12.4-3",
       "port-version": 0
