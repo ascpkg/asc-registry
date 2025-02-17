@@ -15692,6 +15692,10 @@
       "baseline": "0.18.0",
       "port-version": 0
     },
+    "gamedev-framework-0-18-1-0": {
+      "baseline": "0.18.1",
+      "port-version": 0
+    },
     "gamma-gamma-2018-01-27-0": {
       "baseline": "gamma-2018-01-27",
       "port-version": 0
