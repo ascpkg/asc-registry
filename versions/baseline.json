@@ -7468,6 +7468,10 @@
       "baseline": "3.8.2",
       "port-version": 0
     },
+    "blaze-3-8-2-1": {
+      "baseline": "3.8.2",
+      "port-version": 1
+    },
     "blend2d-0-10-0": {
       "baseline": "0.10",
       "port-version": 0
