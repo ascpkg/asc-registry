@@ -1,0 +1,8 @@
+old = "alembic"
+new = "alembic-1-8-6-0"
+
+[deps]
+hdf5-1-14-0-1 = "hdf5"
+imath-3-1-9-1 = "imath"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

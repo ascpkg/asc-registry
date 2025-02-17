@@ -1068,6 +1068,10 @@
       "baseline": "1.8.5",
       "port-version": 0
     },
+    "alembic-1-8-6-0": {
+      "baseline": "1.8.6",
+      "port-version": 0
+    },
     "aliyun-oss-c-sdk-3-10-0-0": {
       "baseline": "3.10.0",
       "port-version": 0
