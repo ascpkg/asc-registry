@@ -19252,6 +19252,10 @@
       "baseline": "2.10-4",
       "port-version": 0
     },
+    "lzo-2-10-5-0": {
+      "baseline": "2.10-5",
+      "port-version": 0
+    },
     "magic-enum-0-6-0-0": {
       "baseline": "0.6.0",
       "port-version": 0
