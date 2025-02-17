@@ -19836,6 +19836,10 @@
       "baseline": "2021-11-22",
       "port-version": 0
     },
+    "fastor-2021-11-22-1": {
+      "baseline": "2021-11-22",
+      "port-version": 1
+    },
     "fastrtps-1-5-0-0": {
       "baseline": "1.5.0",
       "port-version": 0
