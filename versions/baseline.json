@@ -2400,6 +2400,10 @@
       "baseline": "2.1.2-2",
       "port-version": 0
     },
+    "openjpeg-2-2-0-0": {
+      "baseline": "2.2.0",
+      "port-version": 0
+    },
     "openni2-2-2-0-33-0": {
       "baseline": "2.2.0.33",
       "port-version": 0
