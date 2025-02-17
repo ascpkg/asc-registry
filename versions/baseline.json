@@ -2560,6 +2560,10 @@
       "baseline": "2.38.0",
       "port-version": 3
     },
+    "atk-2-38-0-4": {
+      "baseline": "2.38.0",
+      "port-version": 4
+    },
     "atkmm-2-24-2-0": {
       "baseline": "2.24.2",
       "port-version": 0
@@ -32576,6 +32580,10 @@
       "baseline": "7.0.0",
       "port-version": 0
     },
+    "graphviz-7-0-0-1": {
+      "baseline": "7.0.0",
+      "port-version": 1
+    },
     "greatest-1-4-2-0": {
       "baseline": "1.4.2",
       "port-version": 0
@@ -33359,6 +33367,10 @@
     "gtk3-3-24-34-0": {
       "baseline": "3.24.34",
       "port-version": 0
+    },
+    "gtk3-3-24-34-1": {
+      "baseline": "3.24.34",
+      "port-version": 1
     },
     "gtkmm-3-22-2-0": {
       "baseline": "3.22.2",
@@ -40807,6 +40819,10 @@
     "libgd-2-3-3-1": {
       "baseline": "2.3.3",
       "port-version": 1
+    },
+    "libgd-2-3-3-2": {
+      "baseline": "2.3.3",
+      "port-version": 2
     },
     "libgeotiff-1-4-2-0": {
       "baseline": "1.4.2",
@@ -57207,6 +57223,10 @@
     "pango-1-50-12-0": {
       "baseline": "1.50.12",
       "port-version": 0
+    },
+    "pango-1-50-12-1": {
+      "baseline": "1.50.12",
+      "port-version": 1
     },
     "pango-1-50-3-0": {
       "baseline": "1.50.3",
