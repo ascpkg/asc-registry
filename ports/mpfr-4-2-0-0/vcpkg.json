@@ -1,0 +1,10 @@
+{
+  "name": "mpfr-4-2-0-0",
+  "version": "4.2.0",
+  "description": "The MPFR library is a C library for multiple-precision floating-point computations with correct rounding",
+  "homepage": "https://www.mpfr.org",
+  "license": "LGPL-3.0-or-later",
+  "dependencies": [
+    "gmp"
+  ]
+}
