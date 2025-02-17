@@ -17052,6 +17052,10 @@
       "baseline": "0.2.13-p0",
       "port-version": 0
     },
+    "fplus-0-2-14-p0-0": {
+      "baseline": "0.2.14-p0",
+      "port-version": 0
+    },
     "fplus-0-2-3-p0-0": {
       "baseline": "0.2.3-p0",
       "port-version": 0
@@ -17566,6 +17570,10 @@
     },
     "frozen-1-0-0-0": {
       "baseline": "1.0.0",
+      "port-version": 0
+    },
+    "frugally-deep-0-15-2-p0-0": {
+      "baseline": "0.15.2-p0",
       "port-version": 0
     },
     "fruit-3-4-0-1-0": {
