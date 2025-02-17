@@ -1140,6 +1140,10 @@
       "baseline": "4.9.3",
       "port-version": 1
     },
+    "antlr4-4-9-3-2": {
+      "baseline": "4.9.3",
+      "port-version": 2
+    },
     "any-lite-0-2-0-0": {
       "baseline": "0.2.0",
       "port-version": 0
