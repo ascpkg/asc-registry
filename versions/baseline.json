@@ -117572,6 +117572,10 @@
       "baseline": "1.2",
       "port-version": 0
     },
+    "veigar-1-4-0": {
+      "baseline": "1.4",
+      "port-version": 0
+    },
     "velodyne-decoder-3-0-0-0": {
       "baseline": "3.0.0",
       "port-version": 0
