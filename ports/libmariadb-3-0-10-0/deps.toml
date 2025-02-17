@@ -1,0 +1,2 @@
+old = "libmariadb"
+new = "libmariadb-3-0-10-0"
