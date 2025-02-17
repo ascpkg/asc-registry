@@ -7524,6 +7524,10 @@
       "baseline": "1.19",
       "port-version": 0
     },
+    "duckx-2019-08-06-0": {
+      "baseline": "2019-08-06",
+      "port-version": 0
+    },
     "duilib-2019-4-28-0": {
       "baseline": "2019-4-28",
       "port-version": 0
