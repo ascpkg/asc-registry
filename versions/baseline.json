@@ -34752,6 +34752,10 @@
       "baseline": "3.32.3",
       "port-version": 1
     },
+    "sqlite3-3-33-0-0": {
+      "baseline": "3.33.0",
+      "port-version": 0
+    },
     "sqlite3-3120200-0": {
       "baseline": "3120200",
       "port-version": 0
