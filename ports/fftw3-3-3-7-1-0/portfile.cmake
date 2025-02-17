@@ -1,5 +1,14 @@
 include(vcpkg_common_functions)
 set(SOURCE_PATH ${CURRENT_BUILDTREES_DIR}/src/fftw-3.3.7)
+
+# This can be removed in the next source code update
+if(EXISTS "${SOURCE_PATH}/CMakeLists.txt")
+    file(READ "${SOURCE_PATH}/CMakeLists.txt" _contents)
+    if("${_contents}" MATCHES "-D_OPENMP -DLIBFFTWF33_EXPORTS /openmp /bigobj")
+        file(REMOVE_RECURSE ${CURRENT_BUILDTREES_DIR}/src)
+    endif()
+endif()
+
 vcpkg_download_distfile(ARCHIVE
     URLS "http://www.fftw.org/fftw-3.3.7.tar.gz"
     FILENAME "fftw-3.3.7.tar.gz"
@@ -24,7 +33,6 @@ file(REMOVE_RECURSE ${CURRENT_PACKAGES_DIR}/debug/include)
 file(COPY ${SOURCE_PATH}/api/fftw3.h DESTINATION ${CURRENT_PACKAGES_DIR}/include)
 
 file(MAKE_DIRECTORY ${CURRENT_PACKAGES_DIR}/share/)
-file(REMOVE_RECURSE ${CURRENT_PACKAGES_DIR}/share/fftw3)
 file(RENAME ${CURRENT_PACKAGES_DIR}/lib/cmake ${CURRENT_PACKAGES_DIR}/share/fftw3)
 file(REMOVE_RECURSE ${CURRENT_PACKAGES_DIR}/debug/lib/cmake)
 
