@@ -44220,6 +44220,10 @@
       "baseline": "2.5",
       "port-version": 0
     },
+    "mathgl-2-5-1": {
+      "baseline": "2.5",
+      "port-version": 1
+    },
     "matio-1-5-10-0": {
       "baseline": "1.5.10",
       "port-version": 0
