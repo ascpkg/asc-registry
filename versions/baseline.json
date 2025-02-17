@@ -95696,6 +95696,10 @@
       "baseline": "14.6.2",
       "port-version": 1
     },
+    "realm-core-14-8-0-0": {
+      "baseline": "14.8.0",
+      "port-version": 0
+    },
     "realsense2-2-10-0-0": {
       "baseline": "2.10.0",
       "port-version": 0
