@@ -17284,6 +17284,10 @@
       "baseline": "2018-19-07",
       "port-version": 0
     },
+    "libmpeg2-0-5-1-0": {
+      "baseline": "0.5.1",
+      "port-version": 0
+    },
     "libmspack-0-10-1-0": {
       "baseline": "0.10.1",
       "port-version": 0
