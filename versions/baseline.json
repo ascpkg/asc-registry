@@ -10408,6 +10408,10 @@
       "baseline": "1.70",
       "port-version": 0
     },
+    "immer-2019-06-07-0": {
+      "baseline": "2019-06-07",
+      "port-version": 0
+    },
     "inih-42-0": {
       "baseline": "42",
       "port-version": 0
