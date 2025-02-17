@@ -1,0 +1,17 @@
+old = "kf5notifications"
+new = "kf5notifications-5-89-0-0"
+
+[deps]
+ecm-5-89-0-0 = "ecm"
+kf5config-5-89-0-0 = "kf5config"
+kf5coreaddons-5-89-0-0 = "kf5coreaddons"
+kf5windowsystem-5-89-0-0 = "kf5windowsystem"
+libcanberra-0-30-1 = "libcanberra"
+libsnoretoast-0-8-0-1 = "libsnoretoast"
+qt5-androidextras-5-15-2-1 = "qt5-androidextras"
+qt5-base-5-15-2-19 = "qt5-base"
+qt5-macextras-5-15-2-1 = "qt5-macextras"
+qt5-tools-5-15-2-1 = "qt5-tools"
+qt5-x11extras-5-15-2-1 = "qt5-x11extras"
+vcpkg-cmake-2021-12-05-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-01-0 = "vcpkg-cmake-config"
