@@ -1,0 +1,18 @@
+old = "boost-bimap"
+new = "boost-bimap-1-84-0-0"
+
+[deps]
+boost-concept-check-1-84-0-0 = "boost-concept-check"
+boost-config-1-84-0-0 = "boost-config"
+boost-container-hash-1-84-0-0 = "boost-container-hash"
+boost-core-1-84-0-0 = "boost-core"
+boost-iterator-1-84-0-0 = "boost-iterator"
+boost-lambda-1-84-0-0 = "boost-lambda"
+boost-mpl-1-84-0-0 = "boost-mpl"
+boost-multi-index-1-84-0-0 = "boost-multi-index"
+boost-preprocessor-1-84-0-0 = "boost-preprocessor"
+boost-static-assert-1-84-0-0 = "boost-static-assert"
+boost-throw-exception-1-84-0-0 = "boost-throw-exception"
+boost-type-traits-1-84-0-0 = "boost-type-traits"
+boost-utility-1-84-0-0 = "boost-utility"
+boost-vcpkg-helpers-1-84-0-0 = "boost-vcpkg-helpers"

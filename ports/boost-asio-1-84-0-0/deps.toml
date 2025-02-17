@@ -1,0 +1,14 @@
+old = "boost-asio"
+new = "boost-asio-1-84-0-0"
+
+[deps]
+boost-align-1-84-0-0 = "boost-align"
+boost-assert-1-84-0-0 = "boost-assert"
+boost-config-1-84-0-0 = "boost-config"
+boost-context-1-84-0-0 = "boost-context"
+boost-coroutine-1-84-0-0 = "boost-coroutine"
+boost-date-time-1-84-0-0 = "boost-date-time"
+boost-system-1-84-0-0 = "boost-system"
+boost-throw-exception-1-84-0-0 = "boost-throw-exception"
+boost-vcpkg-helpers-1-84-0-0 = "boost-vcpkg-helpers"
+openssl-3-2-0-2 = "openssl"

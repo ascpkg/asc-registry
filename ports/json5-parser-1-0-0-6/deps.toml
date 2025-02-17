@@ -1,0 +1,7 @@
+old = "json5-parser"
+new = "json5-parser-1-0-0-6"
+
+[deps]
+boost-spirit-1-84-0-0 = "boost-spirit"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

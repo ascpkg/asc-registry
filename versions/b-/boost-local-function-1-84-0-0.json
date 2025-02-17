@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/boost-local-function-1-84-0-0",
+      "version": "1.84.0",
+      "port-version": 0
+    }
+  ]
+}
