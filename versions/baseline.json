@@ -87276,6 +87276,10 @@
       "baseline": "0.36.0",
       "port-version": 1
     },
+    "skia-0-36-0-10": {
+      "baseline": "0.36.0",
+      "port-version": 10
+    },
     "skia-0-36-0-2": {
       "baseline": "0.36.0",
       "port-version": 2
