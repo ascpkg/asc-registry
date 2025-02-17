@@ -1,0 +1,5 @@
+old = "sqlpp11-connector-mysql"
+new = "sqlpp11-connector-mysql-0-61-0"
+
+[deps]
+sqlpp11-0-61-0 = "sqlpp11"

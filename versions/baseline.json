@@ -65192,6 +65192,10 @@
       "baseline": "0.60",
       "port-version": 1
     },
+    "sqlpp11-0-61-0": {
+      "baseline": "0.61",
+      "port-version": 0
+    },
     "sqlpp11-connector-mysql-0-25-0": {
       "baseline": "0.25",
       "port-version": 0
@@ -65220,6 +65224,10 @@
       "baseline": "0.29",
       "port-version": 2
     },
+    "sqlpp11-connector-mysql-0-61-0": {
+      "baseline": "0.61",
+      "port-version": 0
+    },
     "sqlpp11-connector-sqlite3-0-29-0": {
       "baseline": "0.29",
       "port-version": 0
@@ -65239,6 +65247,10 @@
     "sqlpp11-connector-sqlite3-0-30-1": {
       "baseline": "0.30",
       "port-version": 1
+    },
+    "sqlpp11-connector-sqlite3-0-61-0": {
+      "baseline": "0.61",
+      "port-version": 0
     },
     "squirrel-2021-09-17-0": {
       "baseline": "2021-09-17",
