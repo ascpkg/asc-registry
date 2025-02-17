@@ -36540,6 +36540,10 @@
       "baseline": "1.2.2",
       "port-version": 0
     },
+    "dstorage-1-2-3-0": {
+      "baseline": "1.2.3",
+      "port-version": 0
+    },
     "dtl-1-19-0": {
       "baseline": "1.19",
       "port-version": 0
