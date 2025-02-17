@@ -1,0 +1,5 @@
+old = "msdfgen"
+new = "msdfgen-1-8-0"
+
+[deps]
+freetype-2-10-4-0 = "freetype"
