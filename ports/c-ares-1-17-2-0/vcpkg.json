@@ -1,0 +1,7 @@
+{
+  "name": "c-ares-1-17-2-0",
+  "version": "1.17.2",
+  "description": "A C library for asynchronous DNS requests",
+  "homepage": "https://github.com/c-ares/c-ares",
+  "supports": "!uwp"
+}
