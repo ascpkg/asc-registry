@@ -10096,6 +10096,10 @@
       "baseline": "3.16.01",
       "port-version": 0
     },
+    "eastl-3-16-05-0": {
+      "baseline": "3.16.05",
+      "port-version": 0
+    },
     "easycl-0-3-0": {
       "baseline": "0.3",
       "port-version": 0
