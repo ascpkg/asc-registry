@@ -1,0 +1,7 @@
+old = "date"
+new = "date-3-0-1-1"
+
+[deps]
+curl-7-80-0-0 = "curl"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-01-0 = "vcpkg-cmake-config"
