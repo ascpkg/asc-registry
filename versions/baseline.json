@@ -45988,6 +45988,10 @@
       "baseline": "2024-12-14",
       "port-version": 0
     },
+    "g2o-2024-12-14-1": {
+      "baseline": "2024-12-14",
+      "port-version": 1
+    },
     "g3log-1-3-4-0": {
       "baseline": "1.3.4",
       "port-version": 0
@@ -118462,6 +118466,10 @@
     },
     "utfcpp-4-0-5-0": {
       "baseline": "4.0.5",
+      "port-version": 0
+    },
+    "utfcpp-4-0-6-0": {
+      "baseline": "4.0.6",
       "port-version": 0
     },
     "utfz-1-2-0": {
