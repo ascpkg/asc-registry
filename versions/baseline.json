@@ -35248,6 +35248,10 @@
       "baseline": "8.12.0",
       "port-version": 1
     },
+    "curl-8-12-1-0": {
+      "baseline": "8.12.1",
+      "port-version": 0
+    },
     "curl-8-2-0-0": {
       "baseline": "8.2.0",
       "port-version": 0
