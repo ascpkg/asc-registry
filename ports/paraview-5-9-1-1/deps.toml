@@ -1,0 +1,16 @@
+old = "paraview"
+new = "paraview-5-9-1-1"
+
+[deps]
+boost-algorithm-1-78-0-0 = "boost-algorithm"
+boost-core-1-78-0-0 = "boost-core"
+boost-format-1-78-0-0 = "boost-format"
+cgns-4-2-0-0 = "cgns"
+cuda-10-1-9 = "cuda"
+ffmpeg-4-4-1-11 = "ffmpeg"
+gdal-3-4-2-0 = "gdal"
+hdf5-1-12-1-4 = "hdf5"
+laszip-3-4-3-1 = "laszip"
+pdal-2-3-0-0 = "pdal"
+protobuf-3-19-4-0 = "protobuf"
+vtk-9-0-3-pv5-9-1-10 = "vtk"
