@@ -29960,6 +29960,10 @@
       "baseline": "3.2.2-12",
       "port-version": 0
     },
+    "xerces-c-3-2-2-13-0": {
+      "baseline": "3.2.2-13",
+      "port-version": 0
+    },
     "xerces-c-3-2-2-4-0": {
       "baseline": "3.2.2-4",
       "port-version": 0
