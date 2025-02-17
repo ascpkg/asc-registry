@@ -14968,6 +14968,10 @@
       "baseline": "3.6.3",
       "port-version": 0
     },
+    "h5py-lzf-2019-12-04-0": {
+      "baseline": "2019-12-04",
+      "port-version": 0
+    },
     "halide-master-2020-03-07-0": {
       "baseline": "master_2020_03_07",
       "port-version": 0
