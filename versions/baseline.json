@@ -49280,6 +49280,10 @@
       "baseline": "22.1.7",
       "port-version": 0
     },
+    "mesa-22-1-7-1": {
+      "baseline": "22.1.7",
+      "port-version": 1
+    },
     "meschach--0": {
       "baseline": "",
       "port-version": 0
@@ -54962,6 +54966,10 @@
     },
     "opengl-2022-10-08-0": {
       "baseline": "2022-10-08",
+      "port-version": 0
+    },
+    "opengl-2022-12-04-0": {
+      "baseline": "2022-12-04",
       "port-version": 0
     },
     "opengl-registry-2018-06-30-0": {
