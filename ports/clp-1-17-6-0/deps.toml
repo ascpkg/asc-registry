@@ -1,0 +1,6 @@
+old = "clp"
+new = "clp-1-17-6-0"
+
+[deps]
+coinutils-2-11-4-0 = "coinutils"
+osi-0-108-6-0 = "osi"

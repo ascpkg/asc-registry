@@ -2,4 +2,4 @@ old = "nanodbc"
 new = "nanodbc-2-13-0-0"
 
 [deps]
-unixodbc-2-3-7-1-0 = "unixodbc"
+unixodbc-2-3-7-2 = "unixodbc"

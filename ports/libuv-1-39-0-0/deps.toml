@@ -1,0 +1,2 @@
+old = "libuv"
+new = "libuv-1-39-0-0"

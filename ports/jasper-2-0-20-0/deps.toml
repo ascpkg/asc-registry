@@ -1,0 +1,7 @@
+old = "jasper"
+new = "jasper-2-0-20-0"
+
+[deps]
+freeglut-3-2-1-4-0 = "freeglut"
+libjpeg-turbo-2-0-5-0 = "libjpeg-turbo"
+opengl-0-0-7-0 = "opengl"
