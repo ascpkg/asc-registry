@@ -1,0 +1,13 @@
+old = "azure-iot-sdk-c"
+new = "azure-iot-sdk-c-2023-08-06-0"
+
+[deps]
+azure-c-shared-utility-2023-01-18-1 = "azure-c-shared-utility"
+azure-macro-utils-c-2022-01-21-1 = "azure-macro-utils-c"
+azure-uamqp-c-2023-01-18-0 = "azure-uamqp-c"
+azure-uhttp-c-2023-01-18-0 = "azure-uhttp-c"
+azure-umqtt-c-2023-01-18-0 = "azure-umqtt-c"
+parson-2022-11-13-0 = "parson"
+umock-c-2022-01-21-1 = "umock-c"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
