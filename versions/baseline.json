@@ -70184,6 +70184,10 @@
       "baseline": "3.98",
       "port-version": 1
     },
+    "nss-3-99-0": {
+      "baseline": "3.99",
+      "port-version": 0
+    },
     "nsync-1-24-0-0": {
       "baseline": "1.24.0",
       "port-version": 0
