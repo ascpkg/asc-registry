@@ -2,5 +2,5 @@ old = "netcdf-c"
 new = "netcdf-c-4-4-1-1-2-0"
 
 [deps]
-curl-7-55-1-1-0 = "curl"
-hdf5-1-10-0-patch1-2-0 = "hdf5"
+curl-7-61-1-2-0 = "curl"
+hdf5-1-10-1-1-0 = "hdf5"
