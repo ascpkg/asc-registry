@@ -16908,6 +16908,10 @@
       "baseline": "5.5",
       "port-version": 0
     },
+    "cgal-5-5-1": {
+      "baseline": "5.5",
+      "port-version": 1
+    },
     "cgicc--0": {
       "baseline": "",
       "port-version": 0
