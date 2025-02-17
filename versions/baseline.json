@@ -37980,6 +37980,10 @@
       "baseline": "2.10.0",
       "port-version": 0
     },
+    "google-cloud-cpp-2-11-0-0": {
+      "baseline": "2.11.0",
+      "port-version": 0
+    },
     "google-cloud-cpp-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
