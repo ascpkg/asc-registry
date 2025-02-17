@@ -50236,6 +50236,10 @@
       "baseline": "2024.2.1",
       "port-version": 0
     },
+    "kerbal-2024-4-1-0": {
+      "baseline": "2024.4.1",
+      "port-version": 0
+    },
     "keystone-0-9-1-0": {
       "baseline": "0.9.1",
       "port-version": 0
