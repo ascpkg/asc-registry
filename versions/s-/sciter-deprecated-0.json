@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/sciter-deprecated-0",
+      "version-string": "deprecated",
+      "port-version": 0
+    }
+  ]
+}

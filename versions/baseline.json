@@ -51104,6 +51104,14 @@
       "baseline": "4.4.8.3",
       "port-version": 1
     },
+    "sciter-deprecated-0": {
+      "baseline": "deprecated",
+      "port-version": 0
+    },
+    "sciter-js-4-4-8-16-0": {
+      "baseline": "4.4.8.16",
+      "port-version": 0
+    },
     "scnlib-0-1-2-0": {
       "baseline": "0.1.2",
       "port-version": 0
