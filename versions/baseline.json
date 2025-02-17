@@ -24448,6 +24448,10 @@
       "baseline": "0.0-6",
       "port-version": 0
     },
+    "opengl-0-0-7-0": {
+      "baseline": "0.0-7",
+      "port-version": 0
+    },
     "opengl-10-0-10240-0-0": {
       "baseline": "10.0.10240.0",
       "port-version": 0
@@ -35036,6 +35040,10 @@
       "baseline": "0.0-1",
       "port-version": 0
     },
+    "wincrypt-0-0-2-0": {
+      "baseline": "0.0-2",
+      "port-version": 0
+    },
     "winpcap-4-1-2-0": {
       "baseline": "4.1.2",
       "port-version": 0
@@ -35094,6 +35102,10 @@
     },
     "winsock2-0-0-1-0": {
       "baseline": "0.0-1",
+      "port-version": 0
+    },
+    "winsock2-0-0-2-0": {
+      "baseline": "0.0-2",
       "port-version": 0
     },
     "wintoast-1-2-0-0": {
