@@ -1,0 +1,7 @@
+old = "libopensp"
+new = "libopensp-1-5-2-0"
+
+[deps]
+gettext-0-21-6 = "gettext"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"
