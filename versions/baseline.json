@@ -76632,6 +76632,10 @@
       "baseline": "2.0.0-rc9",
       "port-version": 0
     },
+    "tinyply-2-3-4-0": {
+      "baseline": "2.3.4",
+      "port-version": 0
+    },
     "tinyply-2020-05-22-0": {
       "baseline": "2020-05-22",
       "port-version": 0
