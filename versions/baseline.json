@@ -27980,6 +27980,10 @@
       "baseline": "20230000.0",
       "port-version": 0
     },
+    "cppad-20240000-2-0": {
+      "baseline": "20240000.2",
+      "port-version": 0
+    },
     "cppcms-1-1-0-0": {
       "baseline": "1.1.0",
       "port-version": 0
