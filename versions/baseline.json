@@ -16580,6 +16580,10 @@
       "baseline": "3.8.0",
       "port-version": 0
     },
+    "entt-3-8-0-1": {
+      "baseline": "3.8.0",
+      "port-version": 1
+    },
     "entt-cpp14-0": {
       "baseline": "cpp14",
       "port-version": 0
