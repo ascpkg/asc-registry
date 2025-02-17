@@ -17728,6 +17728,10 @@
       "baseline": "0.18.1",
       "port-version": 0
     },
+    "gamedev-framework-0-20-0-0": {
+      "baseline": "0.20.0",
+      "port-version": 0
+    },
     "gamenetworkingsockets-2020-09-02-0": {
       "baseline": "2020-09-02",
       "port-version": 0
