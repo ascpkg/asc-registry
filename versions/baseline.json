@@ -80728,6 +80728,10 @@
       "baseline": "2024.2.0",
       "port-version": 1
     },
+    "openvino-2024-3-0-0": {
+      "baseline": "2024.3.0",
+      "port-version": 0
+    },
     "openvpn3-2018-03-21-0": {
       "baseline": "2018-03-21",
       "port-version": 0
