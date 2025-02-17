@@ -216,6 +216,10 @@
       "baseline": "1.0.3",
       "port-version": 0
     },
+    "directxtex-dec2016-0": {
+      "baseline": "dec2016",
+      "port-version": 0
+    },
     "directxtk-oct2016-0": {
       "baseline": "oct2016",
       "port-version": 0
