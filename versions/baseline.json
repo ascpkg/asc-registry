@@ -5172,6 +5172,10 @@
       "baseline": "2.10",
       "port-version": 0
     },
+    "libsigcpp-2-10-1-0": {
+      "baseline": "2.10-1",
+      "port-version": 0
+    },
     "libsigcpp-2-99-0": {
       "baseline": "2.99",
       "port-version": 0
