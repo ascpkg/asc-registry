@@ -1588,6 +1588,10 @@
       "baseline": "0.13.0-1",
       "port-version": 0
     },
+    "uwebsockets-0-13-0-2-0": {
+      "baseline": "0.13.0-2",
+      "port-version": 0
+    },
     "vtk-7-1-0-0": {
       "baseline": "7.1.0",
       "port-version": 0
