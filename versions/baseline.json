@@ -18980,6 +18980,10 @@
       "baseline": "7.8.2-2",
       "port-version": 0
     },
+    "span-lite-0-5-0-0": {
+      "baseline": "0.5.0",
+      "port-version": 0
+    },
     "sparsepp-1-22-0": {
       "baseline": "1.22",
       "port-version": 0
