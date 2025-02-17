@@ -111148,6 +111148,10 @@
       "baseline": "9.1.269.39",
       "port-version": 7
     },
+    "v8-9-1-269-39-8": {
+      "baseline": "9.1.269.39",
+      "port-version": 8
+    },
     "valijson-0-6-0": {
       "baseline": "0.6",
       "port-version": 0
