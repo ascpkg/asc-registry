@@ -73928,6 +73928,10 @@
       "baseline": "2.3.5",
       "port-version": 0
     },
+    "msquic-2-3-5-1": {
+      "baseline": "2.3.5",
+      "port-version": 1
+    },
     "mstch-1-0-2-2-0": {
       "baseline": "1.0.2-2",
       "port-version": 0
