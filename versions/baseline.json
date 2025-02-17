@@ -34712,6 +34712,10 @@
       "baseline": "2.16.0",
       "port-version": 0
     },
+    "ignition-cmake2-2-16-0-1": {
+      "baseline": "2.16.0",
+      "port-version": 1
+    },
     "ignition-cmake2-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
@@ -34847,6 +34851,10 @@
     "ignition-math6-6-9-2-0": {
       "baseline": "6.9.2",
       "port-version": 0
+    },
+    "ignition-math6-6-9-2-1": {
+      "baseline": "6.9.2",
+      "port-version": 1
     },
     "ignition-modularscripts-2019-08-20-0": {
       "baseline": "2019-08-20",
