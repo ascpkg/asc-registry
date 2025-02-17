@@ -52868,6 +52868,10 @@
       "baseline": "2023-01-25",
       "port-version": 1
     },
+    "libunifex-2023-01-25-2": {
+      "baseline": "2023-01-25",
+      "port-version": 2
+    },
     "libunistring-0-9-10-0": {
       "baseline": "0.9.10",
       "port-version": 0
