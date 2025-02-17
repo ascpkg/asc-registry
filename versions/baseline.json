@@ -65368,6 +65368,10 @@
       "baseline": "2.13.4",
       "port-version": 0
     },
+    "qscintilla-2-13-4-1": {
+      "baseline": "2.13.4",
+      "port-version": 1
+    },
     "qt-6-1-0-0": {
       "baseline": "6.1.0",
       "port-version": 0
@@ -83930,6 +83934,10 @@
     },
     "vcpkg-qmake-2022-11-16-0": {
       "baseline": "2022-11-16",
+      "port-version": 0
+    },
+    "vcpkg-qmake-2023-03-22-0": {
+      "baseline": "2023-03-22",
       "port-version": 0
     },
     "vcpkg-tool-bazel-5-2-0-0": {
