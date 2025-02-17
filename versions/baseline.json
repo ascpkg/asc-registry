@@ -9028,6 +9028,10 @@
       "baseline": "7.68.0-1",
       "port-version": 0
     },
+    "curl-7-68-0-2-0": {
+      "baseline": "7.68.0-2",
+      "port-version": 0
+    },
     "curlpp-2018-06-15-0": {
       "baseline": "2018-06-15",
       "port-version": 0
