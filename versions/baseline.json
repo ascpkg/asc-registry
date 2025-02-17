@@ -29688,6 +29688,10 @@
       "baseline": "4.0.2",
       "port-version": 2
     },
+    "coin-4-0-2-3": {
+      "baseline": "4.0.2",
+      "port-version": 3
+    },
     "coin-or-buildtools-2023-02-02-0": {
       "baseline": "2023-02-02",
       "port-version": 0
