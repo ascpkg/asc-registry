@@ -121744,6 +121744,10 @@
       "baseline": "1.0",
       "port-version": 2
     },
+    "zeroc-ice-3-7-10-0": {
+      "baseline": "3.7.10",
+      "port-version": 0
+    },
     "zeroc-ice-3-7-7-0": {
       "baseline": "3.7.7",
       "port-version": 0
