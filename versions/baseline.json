@@ -26936,6 +26936,10 @@
       "baseline": "4.16.0",
       "port-version": 1
     },
+    "libtasn1-4-17-0-0": {
+      "baseline": "4.17.0",
+      "port-version": 0
+    },
     "libtcod-1-16-6-0": {
       "baseline": "1.16.6",
       "port-version": 0
