@@ -3,4 +3,4 @@ new = "readosm-1-1-0-0"
 
 [deps]
 expat-2-2-4-2-0 = "expat"
-zlib-1-2-11-2-0 = "zlib"
+zlib-1-2-11-3-0 = "zlib"
