@@ -10972,6 +10972,10 @@
       "baseline": "3.0.0-7",
       "port-version": 0
     },
+    "ms-angle-2018-04-18-0": {
+      "baseline": "2018-04-18",
+      "port-version": 0
+    },
     "ms-gsl-20170425-8b320e3f5d016f953e55dfc7ec8694c1349d3fe4-0": {
       "baseline": "20170425-8b320e3f5d016f953e55dfc7ec8694c1349d3fe4",
       "port-version": 0
