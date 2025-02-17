@@ -56996,6 +56996,10 @@
       "baseline": "2.7.0",
       "port-version": 0
     },
+    "tensorflow-common-2-7-0-1": {
+      "baseline": "2.7.0",
+      "port-version": 1
+    },
     "tensorpipe-2021-04-26-0": {
       "baseline": "2021-04-26",
       "port-version": 0
