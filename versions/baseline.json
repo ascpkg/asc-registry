@@ -5952,6 +5952,10 @@
       "baseline": "3.2.1-9",
       "port-version": 0
     },
+    "clara-1-1-5-0": {
+      "baseline": "1.1.5",
+      "port-version": 0
+    },
     "clara-2017-07-20-9661f2b4a50895d52ebb4c59382785a2b416c310-0": {
       "baseline": "2017-07-20-9661f2b4a50895d52ebb4c59382785a2b416c310",
       "port-version": 0
