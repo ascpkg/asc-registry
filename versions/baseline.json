@@ -27064,6 +27064,10 @@
       "baseline": "2019-10-10",
       "port-version": 0
     },
+    "pngpp-0-2-10-0": {
+      "baseline": "0.2.10",
+      "port-version": 0
+    },
     "pngwriter-0-7-0-1-0": {
       "baseline": "0.7.0-1",
       "port-version": 0
