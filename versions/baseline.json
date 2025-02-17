@@ -39908,6 +39908,10 @@
       "baseline": "0.15.31",
       "port-version": 0
     },
+    "frugally-deep-0-15-31-1": {
+      "baseline": "0.15.31",
+      "port-version": 1
+    },
     "fruit-3-4-0-1-0": {
       "baseline": "3.4.0-1",
       "port-version": 0
@@ -40022,6 +40026,10 @@
     },
     "function2-4-2-4-0": {
       "baseline": "4.2.4",
+      "port-version": 0
+    },
+    "functionalplus-0-2-24-0": {
+      "baseline": "0.2.24",
       "port-version": 0
     },
     "functions-framework-cpp-0-3-0-0": {
