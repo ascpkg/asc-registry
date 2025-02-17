@@ -1,0 +1,7 @@
+{
+  "name": "onednn-2-0-1",
+  "version-string": "2.0",
+  "port-version": 1,
+  "description": "oneAPI Deep Neural Network Library (oneDNN)",
+  "supports": "x64 & !uwp"
+}

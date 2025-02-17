@@ -29256,6 +29256,10 @@
       "baseline": "2.0",
       "port-version": 0
     },
+    "onednn-2-0-1": {
+      "baseline": "2.0",
+      "port-version": 1
+    },
     "oniguruma-2019-02-26-0": {
       "baseline": "2019-02-26",
       "port-version": 0
