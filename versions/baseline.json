@@ -44512,6 +44512,10 @@
       "baseline": "2.10.0",
       "port-version": 0
     },
+    "gul14-2-11-0-0": {
+      "baseline": "2.11.0",
+      "port-version": 0
+    },
     "gul14-2-6-0": {
       "baseline": "2.6",
       "port-version": 0
