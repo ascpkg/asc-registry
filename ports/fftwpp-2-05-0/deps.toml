@@ -1,0 +1,5 @@
+old = "fftwpp"
+new = "fftwpp-2-05-0"
+
+[deps]
+fftw3-3-3-8-6-0 = "fftw3"
