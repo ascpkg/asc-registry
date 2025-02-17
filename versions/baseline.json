@@ -9752,6 +9752,10 @@
       "baseline": "2018-03-02-2",
       "port-version": 0
     },
+    "glslang-2019-03-05-0": {
+      "baseline": "2019-03-05",
+      "port-version": 0
+    },
     "glslang-3a21c880500eac21cdf79bef5b80f970a55ac6af-0": {
       "baseline": "3a21c880500eac21cdf79bef5b80f970a55ac6af",
       "port-version": 0
@@ -19792,6 +19796,10 @@
       "baseline": "12fb656ab20ea9aa06e7084a74e5ff832b7ce2da-2",
       "port-version": 0
     },
+    "shaderc-2019-06-26-0": {
+      "baseline": "2019-06-26",
+      "port-version": 0
+    },
     "shaderc-2df47b51d83ad83cbc2e7f8ff2b56776293e8958-0": {
       "baseline": "2df47b51d83ad83cbc2e7f8ff2b56776293e8958",
       "port-version": 0
@@ -20352,6 +20360,10 @@
       "baseline": "2019-03-05",
       "port-version": 0
     },
+    "spirv-headers-2019-05-05-0": {
+      "baseline": "2019-05-05",
+      "port-version": 0
+    },
     "spirv-tools--0": {
       "baseline": "",
       "port-version": 0
@@ -20370,6 +20382,10 @@
     },
     "spirv-tools-2018-1-2-0": {
       "baseline": "2018.1-2",
+      "port-version": 0
+    },
+    "spirv-tools-2019-3-dev-0": {
+      "baseline": "2019.3-dev",
       "port-version": 0
     },
     "spirv-tools-v2017-1-dev-7e2d26c77b606b21af839b37fd21381c4a669f23-0": {
