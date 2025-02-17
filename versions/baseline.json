@@ -26176,6 +26176,10 @@
       "baseline": "1.1.0",
       "port-version": 0
     },
+    "brpc-1-10-0-0": {
+      "baseline": "1.10.0",
+      "port-version": 0
+    },
     "brpc-1-2-0-0": {
       "baseline": "1.2.0",
       "port-version": 0
