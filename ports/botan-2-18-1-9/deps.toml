@@ -1,0 +1,5 @@
+old = "botan"
+new = "botan-2-18-1-9"
+
+[deps]
+zlib-1-2-11-13 = "zlib"
