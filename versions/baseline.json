@@ -83072,6 +83072,10 @@
       "baseline": "6.6.1",
       "port-version": 3
     },
+    "qtbase-6-6-1-4": {
+      "baseline": "6.6.1",
+      "port-version": 4
+    },
     "qtcharts-6-1-0-0": {
       "baseline": "6.1.0",
       "port-version": 0
@@ -84604,6 +84608,10 @@
       "baseline": "6.6.1",
       "port-version": 0
     },
+    "qtpositioning-6-6-1-1": {
+      "baseline": "6.6.1",
+      "port-version": 1
+    },
     "qtquick3d-6-1-0-0": {
       "baseline": "6.1.0",
       "port-version": 0
@@ -85251,6 +85259,10 @@
     "qtserialport-6-6-1-0": {
       "baseline": "6.6.1",
       "port-version": 0
+    },
+    "qtserialport-6-6-1-1": {
+      "baseline": "6.6.1",
+      "port-version": 1
     },
     "qtshadertools-6-1-0-0": {
       "baseline": "6.1.0",
