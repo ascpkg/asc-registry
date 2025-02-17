@@ -79424,6 +79424,10 @@
       "baseline": "0.2.2",
       "port-version": 1
     },
+    "uchardet-0-0-8-0": {
+      "baseline": "0.0.8",
+      "port-version": 0
+    },
     "uchardet-2020-04-26-0": {
       "baseline": "2020-04-26",
       "port-version": 0
