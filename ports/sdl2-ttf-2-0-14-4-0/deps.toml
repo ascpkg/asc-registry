@@ -1,0 +1,6 @@
+old = "sdl2-ttf"
+new = "sdl2-ttf-2-0-14-4-0"
+
+[deps]
+freetype-2-8-1-1-0 = "freetype"
+sdl2-2-0-7-3-0 = "sdl2"
