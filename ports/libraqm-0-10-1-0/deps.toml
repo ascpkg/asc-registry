@@ -1,0 +1,8 @@
+old = "libraqm"
+new = "libraqm-0-10-1-0"
+
+[deps]
+freetype-2-12-1-4 = "freetype"
+fribidi-1-0-12-1 = "fribidi"
+harfbuzz-8-2-1-2 = "harfbuzz"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
