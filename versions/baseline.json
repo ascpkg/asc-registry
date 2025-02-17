@@ -4700,6 +4700,10 @@
       "baseline": "5.8-6",
       "port-version": 0
     },
+    "qt5-5-9-2-1-0": {
+      "baseline": "5.9.2-1",
+      "port-version": 0
+    },
     "qt53d-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -4709,6 +4713,10 @@
       "port-version": 0
     },
     "qt5charts-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5datavis3d-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
     },
@@ -4734,6 +4742,10 @@
     },
     "qt5imageformats-5-9-2-0-0": {
       "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5modularscripts-0-0": {
+      "baseline": "0",
       "port-version": 0
     },
     "qt5multimedia-5-9-2-0-0": {

@@ -1,5 +1,5 @@
-old = "qt53d"
-new = "qt53d-5-9-2-0-0"
+old = "qt5datavis3d"
+new = "qt5datavis3d-5-9-2-0-0"
 
 [deps]
 qt5base-5-9-2-0-0 = "qt5base"

@@ -4,3 +4,4 @@ new = "qt5speech-5-9-2-0-0"
 [deps]
 atlmfc-0-0 = "atlmfc"
 qt5base-5-9-2-0-0 = "qt5base"
+qt5modularscripts-0-0 = "qt5modularscripts"
