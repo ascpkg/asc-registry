@@ -1,0 +1,5 @@
+old = "inja"
+new = "inja-3-3-0-0"
+
+[deps]
+nlohmann-json-3-9-1-0 = "nlohmann-json"

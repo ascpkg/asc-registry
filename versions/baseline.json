@@ -23060,6 +23060,10 @@
       "baseline": "3.2.0",
       "port-version": 0
     },
+    "inja-3-3-0-0": {
+      "baseline": "3.3.0",
+      "port-version": 0
+    },
     "intel-ipsec-0-52-0": {
       "baseline": "0.52",
       "port-version": 0
