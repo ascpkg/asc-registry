@@ -25348,6 +25348,10 @@
       "baseline": "3.5.1",
       "port-version": 3
     },
+    "nettle-3-5-1-4": {
+      "baseline": "3.5.1",
+      "port-version": 4
+    },
     "networkdirect-sdk-2-0-1-0": {
       "baseline": "2.0.1",
       "port-version": 0
