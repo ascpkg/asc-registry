@@ -74460,6 +74460,10 @@
       "baseline": "2021-11-16",
       "port-version": 1
     },
+    "rtaudio-2021-11-16-2": {
+      "baseline": "2021-11-16",
+      "port-version": 2
+    },
     "rtaudio-5-1-0-0": {
       "baseline": "5.1.0",
       "port-version": 0
