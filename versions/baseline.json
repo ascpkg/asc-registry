@@ -27684,6 +27684,10 @@
       "baseline": "0.14.6",
       "port-version": 0
     },
+    "libdjinterop-0-16-0-0": {
+      "baseline": "0.16.0",
+      "port-version": 0
+    },
     "libdshowcapture-0-6-0-0": {
       "baseline": "0.6.0",
       "port-version": 0
@@ -50575,6 +50579,10 @@
     "sqlite3-3-36-0-0": {
       "baseline": "3.36.0",
       "port-version": 0
+    },
+    "sqlite3-3-36-0-1": {
+      "baseline": "3.36.0",
+      "port-version": 1
     },
     "sqlite3-3120200-0": {
       "baseline": "3120200",
