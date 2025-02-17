@@ -1,0 +1,10 @@
+old = "libopenmpt"
+new = "libopenmpt-2017-01-28-cf2390140-1"
+
+[deps]
+libflac-1-3-3-3 = "libflac"
+libogg-1-3-4-2 = "libogg"
+libvorbis-1-3-7-1 = "libvorbis"
+mpg123-1-25-8-13 = "mpg123"
+portaudio-2020-02-02-2 = "portaudio"
+zlib-1-2-11-9 = "zlib"
