@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/fast-float-6-1-6-0",
+      "version": "6.1.6",
+      "port-version": 0
+    }
+  ]
+}
