@@ -16780,6 +16780,10 @@
       "baseline": "1.16.2",
       "port-version": 0
     },
+    "cairomm-1-16-2-1": {
+      "baseline": "1.16.2",
+      "port-version": 1
+    },
     "calceph-3-5-0-0": {
       "baseline": "3.5.0",
       "port-version": 0
@@ -29016,6 +29020,10 @@
       "baseline": "2.42.9",
       "port-version": 2
     },
+    "gdk-pixbuf-2-42-9-3": {
+      "baseline": "2.42.9",
+      "port-version": 3
+    },
     "gemmlowp-2021-09-28-0": {
       "baseline": "2021-09-28",
       "port-version": 0
@@ -38067,6 +38075,10 @@
     "libcanberra-0-30-3": {
       "baseline": "0.30",
       "port-version": 3
+    },
+    "libcanberra-0-30-4": {
+      "baseline": "0.30",
+      "port-version": 4
     },
     "libcbor-0-8-0-0": {
       "baseline": "0.8.0",
@@ -58948,6 +58960,10 @@
       "baseline": "3.8.2",
       "port-version": 1
     },
+    "qt-advanced-docking-system-3-8-2-2": {
+      "baseline": "3.8.2",
+      "port-version": 2
+    },
     "qt3d-6-3-2-0": {
       "baseline": "6.3.2",
       "port-version": 0
@@ -68348,6 +68364,10 @@
       "baseline": "0.23.13",
       "port-version": 0
     },
+    "shader-slang-0-23-13-1": {
+      "baseline": "0.23.13",
+      "port-version": 1
+    },
     "shaderc-12fb656ab20ea9aa06e7084a74e5ff832b7ce2da-0": {
       "baseline": "12fb656ab20ea9aa06e7084a74e5ff832b7ce2da",
       "port-version": 0
@@ -75363,6 +75383,10 @@
     "vcpkg-tool-nodejs-16-18-0-0": {
       "baseline": "16.18.0",
       "port-version": 0
+    },
+    "vcpkg-tool-nodejs-16-18-0-1": {
+      "baseline": "16.18.0",
+      "port-version": 1
     },
     "vcpkg-tool-python2-2-7-18-0": {
       "baseline": "2.7.18",
