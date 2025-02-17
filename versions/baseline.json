@@ -18136,6 +18136,10 @@
       "baseline": "5.7.17-3",
       "port-version": 0
     },
+    "libmysql-8-0-20-0": {
+      "baseline": "8.0.20",
+      "port-version": 0
+    },
     "libmysql-8-0-4-0": {
       "baseline": "8.0.4",
       "port-version": 0
@@ -18258,6 +18262,10 @@
     },
     "libodb-mysql-2-4-0-6-0": {
       "baseline": "2.4.0-6",
+      "port-version": 0
+    },
+    "libodb-mysql-2-4-0-7-0": {
+      "baseline": "2.4.0-7",
       "port-version": 0
     },
     "libodb-pgsql-2-4-0-0": {
