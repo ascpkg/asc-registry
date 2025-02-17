@@ -1,0 +1,16 @@
+{
+  "name": "freeglut-3-2-2-0",
+  "version": "3.2.2",
+  "description": "Open source implementation of GLUT with source and binary backwards compatibility.",
+  "homepage": "https://sourceforge.net/projects/freeglut/",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
