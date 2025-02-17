@@ -86648,6 +86648,10 @@
       "baseline": "2.13.4",
       "port-version": 0
     },
+    "pybind11-2-13-5-0": {
+      "baseline": "2.13.5",
+      "port-version": 0
+    },
     "pybind11-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
