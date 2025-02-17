@@ -16600,6 +16600,10 @@
       "baseline": "5.1.0-5",
       "port-version": 0
     },
+    "metis-5-1-0-6-0": {
+      "baseline": "5.1.0-6",
+      "port-version": 0
+    },
     "mgnlibs-2019-09-29-0": {
       "baseline": "2019-09-29",
       "port-version": 0
@@ -24446,6 +24450,10 @@
     },
     "suitesparse-5-4-0-3-0": {
       "baseline": "5.4.0-3",
+      "port-version": 0
+    },
+    "suitesparse-5-4-0-4-0": {
+      "baseline": "5.4.0-4",
       "port-version": 0
     },
     "sundials-2-7-0-0": {
