@@ -14496,6 +14496,10 @@
       "baseline": "1.0.38-2",
       "port-version": 0
     },
+    "libideviceactivation-1-2-137-0": {
+      "baseline": "1.2.137",
+      "port-version": 0
+    },
     "libideviceactivation-1-2-68-0": {
       "baseline": "1.2.68",
       "port-version": 0
@@ -14534,6 +14538,10 @@
     },
     "libimobiledevice-1-2-1-215-1-0": {
       "baseline": "1.2.1.215-1",
+      "port-version": 0
+    },
+    "libimobiledevice-1-2-137-0": {
+      "baseline": "1.2.137",
       "port-version": 0
     },
     "libimobiledevice-1-2-76-0": {
