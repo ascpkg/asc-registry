@@ -18904,6 +18904,10 @@
       "baseline": "v0.2.20-2",
       "port-version": 0
     },
+    "opencensus-cpp-0-4-0-0": {
+      "baseline": "0.4.0",
+      "port-version": 0
+    },
     "opencl-2-2-2-0": {
       "baseline": "2.2-2",
       "port-version": 0
