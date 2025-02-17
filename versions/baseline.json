@@ -78236,6 +78236,10 @@
       "baseline": "1.0.0",
       "port-version": 0
     },
+    "nanojsonc-1-1-0-0": {
+      "baseline": "1.1.0",
+      "port-version": 0
+    },
     "nanomsg-1-1-2-0": {
       "baseline": "1.1.2",
       "port-version": 0
