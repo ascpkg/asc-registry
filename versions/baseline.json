@@ -32088,6 +32088,10 @@
       "baseline": "2.4.0",
       "port-version": 5
     },
+    "libodb-pgsql-2-4-0-6": {
+      "baseline": "2.4.0",
+      "port-version": 6
+    },
     "libodb-sqlite--0": {
       "baseline": "",
       "port-version": 0
