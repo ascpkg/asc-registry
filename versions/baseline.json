@@ -26124,6 +26124,10 @@
       "baseline": "2.0.4-7",
       "port-version": 0
     },
+    "sdl2-mixer-2-0-4-8-0": {
+      "baseline": "2.0.4-8",
+      "port-version": 0
+    },
     "sdl2-net-2-0-1-0": {
       "baseline": "2.0.1",
       "port-version": 0
