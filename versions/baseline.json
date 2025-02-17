@@ -64644,6 +64644,10 @@
       "baseline": "2024.10.0",
       "port-version": 0
     },
+    "libnick-2024-11-0-0": {
+      "baseline": "2024.11.0",
+      "port-version": 0
+    },
     "libnick-2024-2-0-0": {
       "baseline": "2024.2.0",
       "port-version": 0
