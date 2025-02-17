@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/roaring-0-9-6-0",
+      "version": "0.9.6",
+      "port-version": 0
+    }
+  ]
+}
