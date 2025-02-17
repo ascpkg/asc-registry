@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/discordcoreapi-1-40-0",
+      "version": "1.40",
+      "port-version": 0
+    }
+  ]
+}
