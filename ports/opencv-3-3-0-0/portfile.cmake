@@ -8,7 +8,7 @@ vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO opencv/opencv
     REF 3.3.0
-    SHA512 b69923c9809d5533764b5db73db4f0be17f72b6d53643ee773824cfe8a98261d7dc5b4033895693bfd1454bc474c7f6152a5d0023a6f495324dd2b4b4a058e0d
+    SHA512 13dee5c1c5fec1dccdbb05879d299b93ef8ddeb87f561a6c4178e33a4cf5ae919765119068d0387a3efea0e09a625ca993cffac60a772159690fcbee4e8d70fb
     HEAD_REF master
 )
 
@@ -56,7 +56,6 @@ vcpkg_configure_cmake(
         -DOPENCV_CONFIG_INSTALL_PATH=share/opencv
         -DOPENCV_OTHER_INSTALL_PATH=share/opencv
         -DINSTALL_LICENSE=OFF
-        # Optional: change to ON to build with CUDA
         -DWITH_CUDA=OFF
         -DWITH_CUBLAS=OFF
         -DWITH_OPENCLAMDBLAS=OFF
@@ -66,8 +65,6 @@ vcpkg_configure_cmake(
         -DBUILD_PROTOBUF=OFF
         -DUPDATE_PROTO_FILES=ON
         -DPROTOBUF_UPDATE_FILES=ON
-        # Optional: change to ON to build with VTK
-        -DWITH_VTK=OFF
     OPTIONS_DEBUG
         -DINSTALL_HEADERS=OFF
         -DINSTALL_OTHER=OFF
