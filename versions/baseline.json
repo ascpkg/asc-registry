@@ -380,6 +380,10 @@
       "baseline": "jun2017",
       "port-version": 0
     },
+    "corrade-jun2017-1-0": {
+      "baseline": "jun2017-1",
+      "port-version": 0
+    },
     "cpp-redis-3-5-1-0": {
       "baseline": "3.5.1",
       "port-version": 0
@@ -1556,8 +1560,16 @@
       "baseline": "jun2017",
       "port-version": 0
     },
+    "magnum-jun2017-1-0": {
+      "baseline": "jun2017-1",
+      "port-version": 0
+    },
     "magnum-plugins-jun2017-0": {
       "baseline": "jun2017",
+      "port-version": 0
+    },
+    "magnum-plugins-jun2017-1-0": {
+      "baseline": "jun2017-1",
       "port-version": 0
     },
     "mdnsresponder-765-30-11-0": {
