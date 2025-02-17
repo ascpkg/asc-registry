@@ -1,0 +1,9 @@
+old = "minio-cpp"
+new = "minio-cpp-2022-01-03-0"
+
+[deps]
+curlpp-2018-06-15-6 = "curlpp"
+openssl-1-1-1l-4 = "openssl"
+pugixml-1-11-4-1 = "pugixml"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"
