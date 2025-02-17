@@ -30460,6 +30460,10 @@
       "baseline": "1.19.2",
       "port-version": 6
     },
+    "gstreamer-1-19-2-7": {
+      "baseline": "1.19.2",
+      "port-version": 7
+    },
     "gtest-1-10-0-0": {
       "baseline": "1.10.0",
       "port-version": 0
