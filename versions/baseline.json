@@ -23612,6 +23612,10 @@
       "baseline": "2.16.3-1",
       "port-version": 0
     },
+    "mbedtls-2-24-0-0": {
+      "baseline": "2.24.0",
+      "port-version": 0
+    },
     "mbedtls-2-6-1-0": {
       "baseline": "2.6.1",
       "port-version": 0
@@ -24827,6 +24831,10 @@
     "nana-1-7-2-4": {
       "baseline": "1.7.2",
       "port-version": 4
+    },
+    "nana-1-7-4-0": {
+      "baseline": "1.7.4",
+      "port-version": 0
     },
     "nano-signal-slot-2-0-1-0": {
       "baseline": "2.0.1",
