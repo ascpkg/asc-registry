@@ -52404,6 +52404,10 @@
       "baseline": "3.1.1",
       "port-version": 2
     },
+    "liblsquic-3-3-2-0": {
+      "baseline": "3.3.2",
+      "port-version": 0
+    },
     "liblzma-5-2-2-0": {
       "baseline": "5.2.2",
       "port-version": 0
