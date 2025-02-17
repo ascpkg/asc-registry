@@ -1,0 +1,6 @@
+old = "protobuf"
+new = "protobuf-3-15-8-2"
+
+[deps]
+protobuf-3-15-8-2 = "protobuf"
+zlib-1-2-11-10 = "zlib"
