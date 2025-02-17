@@ -1,0 +1,5 @@
+old = "ptex"
+new = "ptex-2-3-2-2"
+
+[deps]
+zlib-1-2-11-9 = "zlib"
