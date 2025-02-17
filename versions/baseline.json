@@ -5780,6 +5780,10 @@
       "baseline": "3.2.19-2",
       "port-version": 0
     },
+    "cgicc-3-2-19-3-0": {
+      "baseline": "3.2.19-3",
+      "port-version": 0
+    },
     "cgl-0-60-2-1-0": {
       "baseline": "0.60.2-1",
       "port-version": 0
