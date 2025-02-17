@@ -1,0 +1,5 @@
+old = "shiftmedia-libgcrypt"
+new = "shiftmedia-libgcrypt-1-10-1-0"
+
+[deps]
+libgpg-error-1-42-4 = "libgpg-error"
