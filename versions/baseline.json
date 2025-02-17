@@ -37360,6 +37360,10 @@
       "baseline": "1.10.0",
       "port-version": 2
     },
+    "libssh2-1-10-0-3": {
+      "baseline": "1.10.0",
+      "port-version": 3
+    },
     "libssh2-1-8-0-0": {
       "baseline": "1.8.0",
       "port-version": 0
