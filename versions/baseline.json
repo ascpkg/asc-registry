@@ -84036,6 +84036,10 @@
       "baseline": "11.0.0",
       "port-version": 0
     },
+    "openvdb-12-0-0-0": {
+      "baseline": "12.0.0",
+      "port-version": 0
+    },
     "openvdb-5-0-0-0": {
       "baseline": "5.0.0",
       "port-version": 0
