@@ -1484,6 +1484,10 @@
       "baseline": "2.24.0-5",
       "port-version": 0
     },
+    "atk-2-24-0-5-1": {
+      "baseline": "2.24.0-5",
+      "port-version": 1
+    },
     "atkmm-2-24-2-0": {
       "baseline": "2.24.2",
       "port-version": 0
