@@ -1,0 +1,2 @@
+old = "vcpkg-tool-gn"
+new = "vcpkg-tool-gn-2022-04-16-1"

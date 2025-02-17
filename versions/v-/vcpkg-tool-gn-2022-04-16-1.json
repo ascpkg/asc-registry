@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/vcpkg-tool-gn-2022-04-16-1",
+      "version-date": "2022-04-16",
+      "port-version": 1
+    }
+  ]
+}
