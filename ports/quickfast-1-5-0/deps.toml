@@ -1,0 +1,6 @@
+old = "quickfast"
+new = "quickfast-1-5-0"
+
+[deps]
+boost-asio-1-70-0-2-0 = "boost-asio"
+xerces-c-3-2-2-11-0 = "xerces-c"
