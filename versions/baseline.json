@@ -2152,6 +2152,10 @@
       "baseline": "0.15.1",
       "port-version": 0
     },
+    "aws-crt-cpp-0-15-1-1": {
+      "baseline": "0.15.1",
+      "port-version": 1
+    },
     "aws-lambda-cpp-0-1-0-0": {
       "baseline": "0.1.0",
       "port-version": 0
@@ -2423,6 +2427,10 @@
     "aws-sdk-cpp-1-9-96-0": {
       "baseline": "1.9.96",
       "port-version": 0
+    },
+    "aws-sdk-cpp-1-9-96-1": {
+      "baseline": "1.9.96",
+      "port-version": 1
     },
     "azmq-1-0-2-0": {
       "baseline": "1.0.2",
