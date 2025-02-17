@@ -1,0 +1,9 @@
+old = "mesa"
+new = "mesa-21-2-5-1"
+
+[deps]
+llvm-13-0-0-1 = "llvm"
+mesa-21-2-5-1 = "mesa"
+vcpkg-tool-meson-0-60-2-1 = "vcpkg-tool-meson"
+zlib-1-2-11-13 = "zlib"
+zstd-1-5-2-0 = "zstd"
