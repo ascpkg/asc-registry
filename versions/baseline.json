@@ -48800,6 +48800,10 @@
       "baseline": "1.22.5",
       "port-version": 8
     },
+    "gstreamer-1-24-7-0": {
+      "baseline": "1.24.7",
+      "port-version": 0
+    },
     "gtest-1-10-0-0": {
       "baseline": "1.10.0",
       "port-version": 0
