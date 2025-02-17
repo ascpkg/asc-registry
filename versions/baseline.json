@@ -28660,6 +28660,10 @@
       "baseline": "0.0.2-1",
       "port-version": 0
     },
+    "replxx-0-0-2-2-0": {
+      "baseline": "0.0.2-2",
+      "port-version": 0
+    },
     "reproc-10-0-3-0": {
       "baseline": "10.0.3",
       "port-version": 0
