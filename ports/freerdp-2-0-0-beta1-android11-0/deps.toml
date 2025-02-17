@@ -1,0 +1,5 @@
+old = "freerdp"
+new = "freerdp-2-0-0-beta1-android11-0"
+
+[deps]
+openssl-1-0-2k-2-0 = "openssl"

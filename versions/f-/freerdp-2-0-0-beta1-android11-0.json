@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/freerdp-2-0-0-beta1-android11-0",
+      "version": "2.0.0-beta1+android11",
+      "port-version": 0
+    }
+  ]
+}
