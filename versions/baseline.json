@@ -3064,6 +3064,10 @@
       "baseline": "19.0.0",
       "port-version": 0
     },
+    "arrow-19-0-0-1": {
+      "baseline": "19.0.0",
+      "port-version": 1
+    },
     "arrow-3-0-0-0": {
       "baseline": "3.0.0",
       "port-version": 0
