@@ -1388,6 +1388,10 @@
       "baseline": "2020-11-11",
       "port-version": 3
     },
+    "ampl-asl-2024-02-01-0": {
+      "baseline": "2024-02-01",
+      "port-version": 0
+    },
     "ampl-mp-2019-02-08-0": {
       "baseline": "2019-02-08",
       "port-version": 0
@@ -1419,6 +1423,10 @@
     "ampl-mp-2020-11-11-4": {
       "baseline": "2020-11-11",
       "port-version": 4
+    },
+    "ampl-mp-2020-11-11-5": {
+      "baseline": "2020-11-11",
+      "port-version": 5
     },
     "amqpcpp-4-1-2-0": {
       "baseline": "4.1.2",
