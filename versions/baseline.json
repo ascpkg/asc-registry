@@ -42224,6 +42224,10 @@
       "baseline": "7.0.2",
       "port-version": 1
     },
+    "gz-math7-7-3-0-0": {
+      "baseline": "7.3.0",
+      "port-version": 0
+    },
     "gz-msgs9-9-5-0-0": {
       "baseline": "9.5.0",
       "port-version": 0
