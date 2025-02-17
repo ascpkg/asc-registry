@@ -26308,6 +26308,10 @@
       "baseline": "4.1.0-3",
       "port-version": 0
     },
+    "tesseract-4-1-0-4-0": {
+      "baseline": "4.1.0-4",
+      "port-version": 0
+    },
     "tgc-2019-08-11-0": {
       "baseline": "2019-08-11",
       "port-version": 0
