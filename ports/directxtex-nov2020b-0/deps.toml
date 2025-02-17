@@ -1,0 +1,5 @@
+old = "directxtex"
+new = "directxtex-nov2020b-0"
+
+[deps]
+openexr-2-5-0-2 = "openexr"
