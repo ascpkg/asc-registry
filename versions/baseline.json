@@ -10564,6 +10564,10 @@
       "baseline": "4.0.0",
       "port-version": 1
     },
+    "coin-4-0-0-2": {
+      "baseline": "4.0.0",
+      "port-version": 2
+    },
     "coinutils-2-10-14-0-0": {
       "baseline": "2.10.14-0",
       "port-version": 0
