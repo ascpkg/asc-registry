@@ -23428,6 +23428,10 @@
       "baseline": "4.3.0a",
       "port-version": 6
     },
+    "libspatialite-4-3-0a-7": {
+      "baseline": "4.3.0a",
+      "port-version": 7
+    },
     "libspnav-0-2-3-0": {
       "baseline": "0.2.3",
       "port-version": 0
@@ -31524,6 +31528,10 @@
       "baseline": "6.3.1",
       "port-version": 3
     },
+    "proj4-7-2-0-0": {
+      "baseline": "7.2.0",
+      "port-version": 0
+    },
     "prometheus-cpp-0-10-0-0": {
       "baseline": "0.10.0",
       "port-version": 0
@@ -37627,6 +37635,10 @@
     "spatialite-tools-4-3-0-5": {
       "baseline": "4.3.0",
       "port-version": 5
+    },
+    "spatialite-tools-4-3-0-6": {
+      "baseline": "4.3.0",
+      "port-version": 6
     },
     "spdk-19-01-1-0": {
       "baseline": "19.01.1",
