@@ -33172,6 +33172,10 @@
       "baseline": "7.6.5",
       "port-version": 13
     },
+    "cudnn-7-6-5-14": {
+      "baseline": "7.6.5",
+      "port-version": 14
+    },
     "cudnn-7-6-5-2": {
       "baseline": "7.6.5",
       "port-version": 2
