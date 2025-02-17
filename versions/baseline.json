@@ -17708,6 +17708,10 @@
       "baseline": "1.4.0-3",
       "port-version": 0
     },
+    "gl2ps-1-4-2-0": {
+      "baseline": "1.4.2",
+      "port-version": 0
+    },
     "gl2ps-opengl-to-postscript-printing-library-0": {
       "baseline": "opengl to postscript printing library",
       "port-version": 0
