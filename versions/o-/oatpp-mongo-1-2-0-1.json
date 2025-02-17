@@ -1,7 +1,7 @@
 {
   "versions": [
     {
-      "path": "$/ports/oatpp-consul-1-2-0-1",
+      "path": "$/ports/oatpp-mongo-1-2-0-1",
       "version-string": "1.2.0",
       "port-version": 1
     }

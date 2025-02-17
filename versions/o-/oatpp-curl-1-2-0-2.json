@@ -2,7 +2,7 @@
   "versions": [
     {
       "path": "$/ports/oatpp-curl-1-2-0-2",
-      "version": "1.2.0",
+      "version-string": "1.2.0",
       "port-version": 2
     }
   ]

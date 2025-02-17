@@ -1,0 +1,5 @@
+old = "oatpp-zlib"
+new = "oatpp-zlib-1-2-0-1"
+
+[deps]
+oatpp-1-2-0-1 = "oatpp"

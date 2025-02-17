@@ -1,0 +1,6 @@
+old = "oatpp-postgresql"
+new = "oatpp-postgresql-1-2-0-1"
+
+[deps]
+libpq-12-2-8 = "libpq"
+oatpp-1-2-0-1 = "oatpp"

@@ -26700,9 +26700,21 @@
       "baseline": "1.2.0",
       "port-version": 1
     },
+    "oatpp-mongo-1-2-0-1": {
+      "baseline": "1.2.0",
+      "port-version": 1
+    },
+    "oatpp-postgresql-1-2-0-1": {
+      "baseline": "1.2.0",
+      "port-version": 1
+    },
     "oatpp-sqlite-1-2-0-0": {
       "baseline": "1.2.0",
       "port-version": 0
+    },
+    "oatpp-sqlite-1-2-0-1": {
+      "baseline": "1.2.0",
+      "port-version": 1
     },
     "oatpp-swagger-1-0-0-0": {
       "baseline": "1.0.0",
@@ -26733,6 +26745,10 @@
       "port-version": 0
     },
     "oatpp-websocket-1-2-0-1": {
+      "baseline": "1.2.0",
+      "port-version": 1
+    },
+    "oatpp-zlib-1-2-0-1": {
       "baseline": "1.2.0",
       "port-version": 1
     },
