@@ -33488,6 +33488,10 @@
       "baseline": "8.1.2",
       "port-version": 2
     },
+    "curl-8-10-0-0": {
+      "baseline": "8.10.0",
+      "port-version": 0
+    },
     "curl-8-2-0-0": {
       "baseline": "8.2.0",
       "port-version": 0
@@ -33580,6 +33584,10 @@
       "baseline": "3.1",
       "port-version": 0
     },
+    "curlcpp-3-1-1": {
+      "baseline": "3.1",
+      "port-version": 1
+    },
     "curlpp-2018-06-15-0": {
       "baseline": "2018-06-15",
       "port-version": 0
@@ -33587,6 +33595,10 @@
     "curlpp-2018-06-15-1-0": {
       "baseline": "2018-06-15-1",
       "port-version": 0
+    },
+    "curlpp-2018-06-15-10": {
+      "baseline": "2018-06-15",
+      "port-version": 10
     },
     "curlpp-2018-06-15-2-0": {
       "baseline": "2018-06-15-2",
@@ -109399,6 +109411,10 @@
     "tesseract-5-4-1-0": {
       "baseline": "5.4.1",
       "port-version": 0
+    },
+    "tesseract-5-4-1-1": {
+      "baseline": "5.4.1",
+      "port-version": 1
     },
     "tevclient-2023-12-04-0": {
       "baseline": "2023-12-04",
