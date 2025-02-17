@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/lightgbm-4-4-0-0",
+      "version": "4.4.0",
+      "port-version": 0
+    }
+  ]
+}

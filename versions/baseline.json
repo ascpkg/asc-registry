@@ -67024,6 +67024,10 @@
       "baseline": "2020-11-24",
       "port-version": 0
     },
+    "lightgbm-4-4-0-0": {
+      "baseline": "4.4.0",
+      "port-version": 0
+    },
     "lightningscanner-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
