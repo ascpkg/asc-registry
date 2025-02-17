@@ -12008,6 +12008,10 @@
       "baseline": "2.3.3",
       "port-version": 0
     },
+    "libcerf-1-13-0": {
+      "baseline": "1.13",
+      "port-version": 0
+    },
     "libconfig-1-6-0-0": {
       "baseline": "1.6.0",
       "port-version": 0
