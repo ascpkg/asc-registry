@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/clfft-2-12-2-7",
+      "version": "2.12.2",
+      "port-version": 7
+    }
+  ]
+}
