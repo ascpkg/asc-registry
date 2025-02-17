@@ -120024,6 +120024,10 @@
       "baseline": "2024-12-27",
       "port-version": 0
     },
+    "vcpkg-make-2025-01-13-0": {
+      "baseline": "2025-01-13",
+      "port-version": 0
+    },
     "vcpkg-msbuild-2023-06-22-0": {
       "baseline": "2023-06-22",
       "port-version": 0
