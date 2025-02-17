@@ -11176,6 +11176,10 @@
       "baseline": "9.1.23.0",
       "port-version": 0
     },
+    "ffnvcodec-9-1-23-1-0": {
+      "baseline": "9.1.23.1",
+      "port-version": 0
+    },
     "fftw3-3-3-6-p11-0": {
       "baseline": "3.3.6-p11",
       "port-version": 0
