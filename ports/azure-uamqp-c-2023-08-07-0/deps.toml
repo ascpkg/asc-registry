@@ -1,0 +1,9 @@
+old = "azure-uamqp-c"
+new = "azure-uamqp-c-2023-08-07-0"
+
+[deps]
+azure-c-shared-utility-2023-08-07-0 = "azure-c-shared-utility"
+azure-macro-utils-c-2022-01-21-1 = "azure-macro-utils-c"
+umock-c-2022-01-21-1 = "umock-c"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
