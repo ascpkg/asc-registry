@@ -19360,6 +19360,10 @@
       "baseline": "7.0.1",
       "port-version": 0
     },
+    "mqtt-cpp-7-0-1-1-0": {
+      "baseline": "7.0.1-1",
+      "port-version": 0
+    },
     "ms-angle-2018-04-18-0": {
       "baseline": "2018-04-18",
       "port-version": 0
