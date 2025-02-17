@@ -1,0 +1,11 @@
+old = "pdal"
+new = "pdal-1-7-1-9"
+
+[deps]
+boost-filesystem-1-73-0-1 = "boost-filesystem"
+boost-system-1-73-0-0 = "boost-system"
+gdal-2-4-1-13 = "gdal"
+geos-3-8-1-1 = "geos"
+jsoncpp-1-9-4-0 = "jsoncpp"
+laszip-3-4-3-0 = "laszip"
+libgeotiff-1-6-0-0 = "libgeotiff"

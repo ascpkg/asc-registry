@@ -1,0 +1,13 @@
+old = "liblas"
+new = "liblas-1-8-1-5"
+
+[deps]
+boost-1-73-0-3 = "boost"
+boost-detail-1-73-0-0 = "boost-detail"
+boost-filesystem-1-73-0-1 = "boost-filesystem"
+boost-iostreams-1-73-0-1 = "boost-iostreams"
+boost-system-1-73-0-0 = "boost-system"
+boost-thread-1-73-0-0 = "boost-thread"
+libgeotiff-1-6-0-0 = "libgeotiff"
+libjpeg-turbo-2-0-5-0 = "libjpeg-turbo"
+zlib-1-2-11-9 = "zlib"
