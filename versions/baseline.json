@@ -28900,6 +28900,10 @@
       "baseline": "2019-06-20",
       "port-version": 0
     },
+    "spscqueue-1-0-0": {
+      "baseline": "1.0",
+      "port-version": 0
+    },
     "spscqueue-2019-07-26-0": {
       "baseline": "2019-07-26",
       "port-version": 0
