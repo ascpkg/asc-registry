@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/simdutf-5-5-0-0",
+      "version-semver": "5.5.0",
+      "port-version": 0
+    }
+  ]
+}
