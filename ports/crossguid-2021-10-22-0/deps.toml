@@ -1,0 +1,7 @@
+old = "crossguid"
+new = "crossguid-2021-10-22-0"
+
+[deps]
+libuuid-1-0-3-8 = "libuuid"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"
