@@ -4496,6 +4496,10 @@
       "baseline": "1.2rc3-2",
       "port-version": 0
     },
+    "spirit-po-1-1-2-0": {
+      "baseline": "1.1.2",
+      "port-version": 0
+    },
     "spirv-tools--0": {
       "baseline": "",
       "port-version": 0
