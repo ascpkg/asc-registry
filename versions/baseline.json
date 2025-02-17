@@ -1716,6 +1716,10 @@
       "baseline": "3.5.0",
       "port-version": 1
     },
+    "aom-3-7-0-0": {
+      "baseline": "3.7.0",
+      "port-version": 0
+    },
     "apache-datasketches-4-1-0-0": {
       "baseline": "4.1.0",
       "port-version": 0
