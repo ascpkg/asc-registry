@@ -1152,6 +1152,10 @@
       "baseline": "19.4-5",
       "port-version": 0
     },
+    "dlib-19-7-0": {
+      "baseline": "19.7",
+      "port-version": 0
+    },
     "doctest-1-1-0-0": {
       "baseline": "1.1.0",
       "port-version": 0
