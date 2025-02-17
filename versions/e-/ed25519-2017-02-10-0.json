@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ed25519-2017-02-10-0",
+      "version-date": "2017-02-10",
+      "port-version": 0
+    }
+  ]
+}
