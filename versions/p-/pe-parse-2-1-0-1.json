@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/pe-parse-2-1-0-1",
+      "version": "2.1.0",
+      "port-version": 1
+    }
+  ]
+}
