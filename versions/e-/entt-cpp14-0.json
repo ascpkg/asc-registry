@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/entt-cpp14-0",
+      "version": "cpp14",
+      "port-version": 0
+    }
+  ]
+}
