@@ -35544,6 +35544,10 @@
       "baseline": "v1.0.0-rc14",
       "port-version": 0
     },
+    "trantor-v1-0-0-rc16-0": {
+      "baseline": "v1.0.0-rc16",
+      "port-version": 0
+    },
     "tre-0-8-0-1-0": {
       "baseline": "0.8.0-1",
       "port-version": 0
