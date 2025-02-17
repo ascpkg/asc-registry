@@ -43380,6 +43380,10 @@
       "baseline": "2.29.0",
       "port-version": 0
     },
+    "hypre-2-29-0-1": {
+      "baseline": "2.29.0",
+      "port-version": 1
+    },
     "iceoryx-2-0-2-0": {
       "baseline": "2.0.2",
       "port-version": 0
