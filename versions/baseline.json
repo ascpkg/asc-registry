@@ -98088,6 +98088,10 @@
       "baseline": "3.0.1",
       "port-version": 0
     },
+    "roaring-4-0-0-0": {
+      "baseline": "4.0.0",
+      "port-version": 0
+    },
     "robin-hood-hashing-3-10-0-0": {
       "baseline": "3.10.0",
       "port-version": 0
