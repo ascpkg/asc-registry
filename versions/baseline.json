@@ -61160,6 +61160,10 @@
       "baseline": "5.11.0",
       "port-version": 1
     },
+    "paraview-5-11-0-2": {
+      "baseline": "5.11.0",
+      "port-version": 2
+    },
     "paraview-5-8-0-0": {
       "baseline": "5.8.0",
       "port-version": 0
