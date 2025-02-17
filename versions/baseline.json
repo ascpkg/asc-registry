@@ -103712,6 +103712,10 @@
       "baseline": "1.0.2088.41",
       "port-version": 0
     },
+    "webview2-1-0-2277-86-0": {
+      "baseline": "1.0.2277.86",
+      "port-version": 0
+    },
     "wepoll-1-5-5-0": {
       "baseline": "1.5.5",
       "port-version": 0
