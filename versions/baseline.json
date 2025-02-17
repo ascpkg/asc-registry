@@ -22428,6 +22428,10 @@
       "baseline": "69.1",
       "port-version": 10
     },
+    "icu-69-1-11": {
+      "baseline": "69.1",
+      "port-version": 11
+    },
     "icu-69-1-8": {
       "baseline": "69.1",
       "port-version": 8
