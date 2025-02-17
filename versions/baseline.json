@@ -92880,6 +92880,10 @@
       "baseline": "3.11.10",
       "port-version": 1
     },
+    "python3-3-11-11-0": {
+      "baseline": "3.11.11",
+      "port-version": 0
+    },
     "python3-3-11-4-0": {
       "baseline": "3.11.4",
       "port-version": 0
