@@ -19560,6 +19560,10 @@
       "baseline": "2020-09-11",
       "port-version": 1
     },
+    "fastcgi-2020-09-11-2": {
+      "baseline": "2020-09-11",
+      "port-version": 2
+    },
     "fastfeat-391d5e9-0": {
       "baseline": "391d5e9",
       "port-version": 0
