@@ -8476,6 +8476,10 @@
       "baseline": "2020.04",
       "port-version": 0
     },
+    "cppcoro-2020-2-0": {
+      "baseline": "2020.2",
+      "port-version": 0
+    },
     "cppfs-1-2-0-0": {
       "baseline": "1.2.0",
       "port-version": 0
