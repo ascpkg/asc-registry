@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/c9y-0-6-0-0",
+      "version-semver": "0.6.0",
+      "port-version": 0
+    }
+  ]
+}

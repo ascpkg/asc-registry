@@ -1,0 +1,5 @@
+old = "c9y"
+new = "c9y-0-6-0-0"
+
+[deps]
+vcpkg-cmake-2022-10-30-0 = "vcpkg-cmake"
