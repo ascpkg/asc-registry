@@ -1,0 +1,7 @@
+old = "poissonrecon"
+new = "poissonrecon-2019-09-15-0"
+
+[deps]
+libjpeg-turbo-2-0-6-0 = "libjpeg-turbo"
+libpng-1-6-37-14 = "libpng"
+zlib-1-2-11-10 = "zlib"
