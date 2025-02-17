@@ -11348,6 +11348,10 @@
       "baseline": "4.2-7",
       "port-version": 0
     },
+    "ffmpeg-4-2-8-0": {
+      "baseline": "4.2-8",
+      "port-version": 0
+    },
     "ffnvcodec-9-1-23-0-0": {
       "baseline": "9.1.23.0",
       "port-version": 0
@@ -16998,6 +17002,10 @@
     },
     "liblzma-5-2-4-4-0": {
       "baseline": "5.2.4-4",
+      "port-version": 0
+    },
+    "liblzma-5-2-4-5-0": {
+      "baseline": "5.2.4-5",
       "port-version": 0
     },
     "libmad-0-15-1-0": {
