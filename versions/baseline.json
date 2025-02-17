@@ -23124,6 +23124,10 @@
       "baseline": "5.81.0",
       "port-version": 0
     },
+    "kf5completion-5-81-0-1": {
+      "baseline": "5.81.0",
+      "port-version": 1
+    },
     "kf5config-5-64-0-0": {
       "baseline": "5.64.0",
       "port-version": 0
@@ -23152,6 +23156,10 @@
       "baseline": "5.81.0",
       "port-version": 0
     },
+    "kf5coreaddons-5-81-0-1": {
+      "baseline": "5.81.0",
+      "port-version": 1
+    },
     "kf5crash-5-64-0-0": {
       "baseline": "5.64.0",
       "port-version": 0
@@ -23163,6 +23171,10 @@
     "kf5crash-5-81-0-0": {
       "baseline": "5.81.0",
       "port-version": 0
+    },
+    "kf5crash-5-81-0-1": {
+      "baseline": "5.81.0",
+      "port-version": 1
     },
     "kf5dbusaddons-5-81-0-0": {
       "baseline": "5.81.0",
@@ -23228,6 +23240,10 @@
       "baseline": "5.81.0",
       "port-version": 0
     },
+    "kf5i18n-5-81-0-1": {
+      "baseline": "5.81.0",
+      "port-version": 1
+    },
     "kf5itemmodels-5-64-0-0": {
       "baseline": "5.64.0",
       "port-version": 0
@@ -23240,6 +23256,10 @@
       "baseline": "5.81.0",
       "port-version": 0
     },
+    "kf5itemmodels-5-81-0-1": {
+      "baseline": "5.81.0",
+      "port-version": 1
+    },
     "kf5itemviews-5-64-0-0": {
       "baseline": "5.64.0",
       "port-version": 0
@@ -23251,6 +23271,10 @@
     "kf5itemviews-5-81-0-0": {
       "baseline": "5.81.0",
       "port-version": 0
+    },
+    "kf5itemviews-5-81-0-1": {
+      "baseline": "5.81.0",
+      "port-version": 1
     },
     "kf5plotting-5-37-0-0": {
       "baseline": "5.37.0",
@@ -23284,6 +23308,10 @@
       "baseline": "5.81.0",
       "port-version": 0
     },
+    "kf5plotting-5-81-0-1": {
+      "baseline": "5.81.0",
+      "port-version": 1
+    },
     "kf5syntaxhighlighting-5-64-0-0": {
       "baseline": "5.64.0",
       "port-version": 0
@@ -23311,6 +23339,10 @@
     "kf5widgetsaddons-5-81-0-0": {
       "baseline": "5.81.0",
       "port-version": 0
+    },
+    "kf5widgetsaddons-5-81-0-1": {
+      "baseline": "5.81.0",
+      "port-version": 1
     },
     "kf5windowsystem-5-64-0-0": {
       "baseline": "5.64.0",
@@ -26839,6 +26871,10 @@
     "librsvg-2-40-20-3": {
       "baseline": "2.40.20",
       "port-version": 3
+    },
+    "librsvg-2-40-20-4": {
+      "baseline": "2.40.20",
+      "port-version": 4
     },
     "librsync-2-0-2-0": {
       "baseline": "2.0.2",
