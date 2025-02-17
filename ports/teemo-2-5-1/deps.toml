@@ -1,0 +1,7 @@
+old = "teemo"
+new = "teemo-2-5-1"
+
+[deps]
+curl-7-80-0-0 = "curl"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"
