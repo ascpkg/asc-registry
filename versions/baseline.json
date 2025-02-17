@@ -45432,6 +45432,10 @@
       "baseline": "20210419",
       "port-version": 2
     },
+    "libqcow-20221124-0": {
+      "baseline": "20221124",
+      "port-version": 0
+    },
     "libqglviewer-2-7-0-0": {
       "baseline": "2.7.0",
       "port-version": 0
