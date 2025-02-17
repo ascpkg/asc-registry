@@ -90504,6 +90504,10 @@
       "baseline": "1.0.5",
       "port-version": 0
     },
+    "vsg-1-0-5-1": {
+      "baseline": "1.0.5",
+      "port-version": 1
+    },
     "vtk-7-1-0-0": {
       "baseline": "7.1.0",
       "port-version": 0
