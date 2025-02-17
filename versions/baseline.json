@@ -54104,6 +54104,10 @@
       "baseline": "2.3.4",
       "port-version": 2
     },
+    "qca-2-3-4-3": {
+      "baseline": "2.3.4",
+      "port-version": 3
+    },
     "qcustomplot-2-0-1-1-0": {
       "baseline": "2.0.1-1",
       "port-version": 0
