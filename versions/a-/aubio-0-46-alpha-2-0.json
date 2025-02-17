@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/aubio-0-46-alpha-2-0",
+      "version": "0.46~alpha-2",
+      "port-version": 0
+    }
+  ]
+}
