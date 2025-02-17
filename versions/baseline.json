@@ -29908,6 +29908,10 @@
       "baseline": "23.1.4",
       "port-version": 0
     },
+    "flatbuffers-23-3-3-0": {
+      "baseline": "23.3.3",
+      "port-version": 0
+    },
     "flecs-2-4-8-0": {
       "baseline": "2.4.8",
       "port-version": 0
