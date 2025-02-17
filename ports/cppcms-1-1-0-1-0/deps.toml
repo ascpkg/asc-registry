@@ -3,6 +3,6 @@ new = "cppcms-1-1-0-1-0"
 
 [deps]
 icu-59-1-1-0 = "icu"
-openssl-1-0-2l-2-0 = "openssl"
+openssl-1-0-2n-2-0 = "openssl"
 pcre-8-41-1-0 = "pcre"
-zlib-1-2-11-1-0 = "zlib"
+zlib-1-2-11-3-0 = "zlib"
