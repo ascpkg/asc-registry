@@ -69720,6 +69720,10 @@
       "baseline": "3.8.1",
       "port-version": 1
     },
+    "nettle-3-9-1-0": {
+      "baseline": "3.9.1",
+      "port-version": 0
+    },
     "networkdirect-sdk-2-0-1-0": {
       "baseline": "2.0.1",
       "port-version": 0
