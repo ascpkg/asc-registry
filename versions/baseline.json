@@ -15476,6 +15476,10 @@
       "baseline": "2.2.5-3",
       "port-version": 0
     },
+    "libgd-2-2-5-4-0": {
+      "baseline": "2.2.5-4",
+      "port-version": 0
+    },
     "libgeotiff-1-4-2-0": {
       "baseline": "1.4.2",
       "port-version": 0
