@@ -70592,6 +70592,10 @@
       "baseline": "2024-09-29",
       "port-version": 0
     },
+    "live555-2024-10-24-0": {
+      "baseline": "2024-10-24",
+      "port-version": 0
+    },
     "live555-latest-0": {
       "baseline": "latest",
       "port-version": 0
