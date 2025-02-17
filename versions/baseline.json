@@ -51988,6 +51988,10 @@
       "baseline": "9.04",
       "port-version": 2
     },
+    "monkeys-audio-9-04-3": {
+      "baseline": "9.04",
+      "port-version": 3
+    },
     "moos-core-10-4-0-0": {
       "baseline": "10.4.0",
       "port-version": 0
