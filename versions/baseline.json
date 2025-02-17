@@ -51368,6 +51368,10 @@
       "baseline": "4.1.2",
       "port-version": 3
     },
+    "physx-4-1-2-4": {
+      "baseline": "4.1.2",
+      "port-version": 4
+    },
     "physx-commit-624f2cb6c0392013d54b235d9072a49d01c3cb6c-0": {
       "baseline": "commit-624f2cb6c0392013d54b235d9072a49d01c3cb6c",
       "port-version": 0
