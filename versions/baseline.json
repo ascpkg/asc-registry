@@ -48884,6 +48884,10 @@
       "baseline": "15.0.0",
       "port-version": 0
     },
+    "glslang-15-1-0-0": {
+      "baseline": "15.1.0",
+      "port-version": 0
+    },
     "glslang-1c573fbcfba6b3d631008b1babc838501ca925d3-0": {
       "baseline": "1c573fbcfba6b3d631008b1babc838501ca925d3",
       "port-version": 0
