@@ -13232,6 +13232,10 @@
       "baseline": "jun10",
       "port-version": 1
     },
+    "directxsdk-jun10-2": {
+      "baseline": "jun10",
+      "port-version": 2
+    },
     "directxtex-apr2018-0": {
       "baseline": "apr2018",
       "port-version": 0
