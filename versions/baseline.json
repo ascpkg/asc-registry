@@ -99180,6 +99180,10 @@
       "baseline": "0.10.0",
       "port-version": 2
     },
+    "restc-cpp-0-10-0-3": {
+      "baseline": "0.10.0",
+      "port-version": 3
+    },
     "restclient-cpp-0-5-1-0": {
       "baseline": "0.5.1",
       "port-version": 0
