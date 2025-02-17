@@ -1,0 +1,6 @@
+old = "libharu"
+new = "libharu-2017-08-15-8-0"
+
+[deps]
+libpng-1-6-37-2-0 = "libpng"
+zlib-1-2-11-5-0 = "zlib"

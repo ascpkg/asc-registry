@@ -1,0 +1,18 @@
+old = "openmvg"
+new = "openmvg-1-4-5-0"
+
+[deps]
+cereal-1-2-2-2-0 = "cereal"
+ceres-1-14-0-6-0 = "ceres"
+clp-1-17-2-2-0 = "clp"
+coinutils-2-11-2-2-0 = "coinutils"
+eigen3-3-3-7-2-0 = "eigen3"
+flann-jan2019-0 = "flann"
+libjpeg-turbo-2-0-2-0 = "libjpeg-turbo"
+liblemon-2019-06-13-0 = "liblemon"
+libpng-1-6-37-2-0 = "libpng"
+opencv-3-4-3-9-0 = "opencv"
+osi-0-108-4-2-0 = "osi"
+suitesparse-5-4-0-3-0 = "suitesparse"
+tiff-4-0-10-6-0 = "tiff"
+zlib-1-2-11-5-0 = "zlib"
