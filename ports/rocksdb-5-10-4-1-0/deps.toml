@@ -1,0 +1,8 @@
+old = "rocksdb"
+new = "rocksdb-5-10-4-1-0"
+
+[deps]
+gtest-1-8-0-6-0 = "gtest"
+lz4-1-8-1-2-0 = "lz4"
+snappy-1-1-7-1-0 = "snappy"
+zlib-1-2-11-3-0 = "zlib"
