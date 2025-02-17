@@ -41768,6 +41768,10 @@
       "baseline": "0.9.29",
       "port-version": 2
     },
+    "lockpp-1-0-2-0": {
+      "baseline": "1.0.2",
+      "port-version": 0
+    },
     "lodepng-2017-09-01-8a0f16afe74a6a-0": {
       "baseline": "2017-09-01-8a0f16afe74a6a",
       "port-version": 0
@@ -60870,6 +60874,10 @@
     },
     "sassc-3-6-2-0": {
       "baseline": "3.6.2",
+      "port-version": 0
+    },
+    "saucer-1-0-0-0": {
+      "baseline": "1.0.0",
       "port-version": 0
     },
     "sbp-3-4-10-0": {
