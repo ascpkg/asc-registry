@@ -26104,6 +26104,10 @@
       "baseline": "2019-07-09-1",
       "port-version": 0
     },
+    "zeromq-2019-09-20-0": {
+      "baseline": "2019-09-20",
+      "port-version": 0
+    },
     "zeromq-4-2-0-0": {
       "baseline": "4.2.0",
       "port-version": 0
