@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/plplot-5-15-0-0",
+      "version-semver": "5.15.0",
+      "port-version": 0
+    }
+  ]
+}
