@@ -26596,6 +26596,10 @@
       "baseline": "2.10-5",
       "port-version": 0
     },
+    "lzo-2-10-6": {
+      "baseline": "2.10",
+      "port-version": 6
+    },
     "lzokay-2020-07-30-0": {
       "baseline": "2020-07-30",
       "port-version": 0
