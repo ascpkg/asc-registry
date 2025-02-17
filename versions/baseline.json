@@ -44208,6 +44208,10 @@
       "baseline": "1.10.2",
       "port-version": 0
     },
+    "onnx-1-10-2-1": {
+      "baseline": "1.10.2",
+      "port-version": 1
+    },
     "onnx-1-9-0-0": {
       "baseline": "1.9.0",
       "port-version": 0
