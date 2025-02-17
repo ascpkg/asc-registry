@@ -15020,6 +15020,10 @@
       "baseline": "latest",
       "port-version": 0
     },
+    "llgl-2019-08-15-0": {
+      "baseline": "2019-08-15",
+      "port-version": 0
+    },
     "llvm-4-0-0-0": {
       "baseline": "4.0.0",
       "port-version": 0
