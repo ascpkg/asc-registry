@@ -1,0 +1,15 @@
+old = "symengine"
+new = "symengine-0-10-1-0"
+
+[deps]
+arb-2-21-1-1 = "arb"
+boost-math-1-82-0-1 = "boost-math"
+boost-multiprecision-1-82-0-1 = "boost-multiprecision"
+boost-random-1-82-0-1 = "boost-random"
+flint-2-8-0-2 = "flint"
+gmp-6-2-1-18 = "gmp"
+gperftools-2019-09-02-4 = "gperftools"
+llvm-15-0-7-3 = "llvm"
+mpfr-4-2-0-0 = "mpfr"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
