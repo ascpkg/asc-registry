@@ -1900,6 +1900,10 @@
       "baseline": "1.8.83",
       "port-version": 1
     },
+    "aws-sdk-cpp-1-8-83-2": {
+      "baseline": "1.8.83",
+      "port-version": 2
+    },
     "azmq-1-0-2-0": {
       "baseline": "1.0.2",
       "port-version": 0
@@ -24711,6 +24715,10 @@
     "llvm-10-0-0-7": {
       "baseline": "10.0.0",
       "port-version": 7
+    },
+    "llvm-11-0-0-0": {
+      "baseline": "11.0.0",
+      "port-version": 0
     },
     "llvm-4-0-0-0": {
       "baseline": "4.0.0",
