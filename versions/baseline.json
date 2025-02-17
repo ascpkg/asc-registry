@@ -16820,6 +16820,10 @@
       "baseline": "0.3",
       "port-version": 1
     },
+    "flashlight-cuda-0-3-2": {
+      "baseline": "0.3",
+      "port-version": 2
+    },
     "flashlight-cuda-20201120-1": {
       "baseline": "20201120",
       "port-version": 1
