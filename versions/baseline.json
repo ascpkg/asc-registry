@@ -55532,6 +55532,10 @@
       "baseline": "2020-04-30",
       "port-version": 3
     },
+    "nifticlib-2020-04-30-4": {
+      "baseline": "2020-04-30",
+      "port-version": 4
+    },
     "nlohmann-fifo-map-2018-05-07-0": {
       "baseline": "2018.05.07",
       "port-version": 0
