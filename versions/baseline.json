@@ -50876,6 +50876,10 @@
       "baseline": "0.10.12",
       "port-version": 0
     },
+    "igraph-0-10-13-0": {
+      "baseline": "0.10.13",
+      "port-version": 0
+    },
     "igraph-0-10-2-0": {
       "baseline": "0.10.2",
       "port-version": 0
