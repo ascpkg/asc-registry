@@ -1,0 +1,6 @@
+old = "flann"
+new = "flann-2019-04-07-1"
+
+[deps]
+hdf5-1-12-0-0 = "hdf5"
+lz4-1-9-2-2-0 = "lz4"

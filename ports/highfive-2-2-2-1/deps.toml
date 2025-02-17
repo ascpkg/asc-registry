@@ -1,0 +1,9 @@
+old = "highfive"
+new = "highfive-2-2-2-1"
+
+[deps]
+boost-multi-array-1-75-0-0 = "boost-multi-array"
+boost-test-1-75-0-0 = "boost-test"
+boost-ublas-1-75-0-0 = "boost-ublas"
+hdf5-1-12-0-0 = "hdf5"
+highfive-2-2-2-1 = "highfive"
