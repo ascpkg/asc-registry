@@ -1,0 +1,6 @@
+old = "gperftools"
+new = "gperftools-2-10-2"
+
+[deps]
+libunwind-1-8-1-3 = "libunwind"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
