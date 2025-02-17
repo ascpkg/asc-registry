@@ -111612,6 +111612,10 @@
       "baseline": "1.1.0.0",
       "port-version": 1
     },
+    "vlpp-1-2-9-0-0": {
+      "baseline": "1.2.9.0",
+      "port-version": 0
+    },
     "volk-1-3-204-0": {
       "baseline": "1.3.204",
       "port-version": 0
