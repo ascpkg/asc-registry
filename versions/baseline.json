@@ -8420,6 +8420,10 @@
       "baseline": "oct2018b",
       "port-version": 0
     },
+    "directxtk-oct2019-0": {
+      "baseline": "oct2019",
+      "port-version": 0
+    },
     "directxtk12-aug2019-0": {
       "baseline": "aug2019",
       "port-version": 0
