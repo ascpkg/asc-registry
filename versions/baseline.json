@@ -26348,6 +26348,10 @@
       "baseline": "2.4.0",
       "port-version": 0
     },
+    "doctest-2-4-11-0": {
+      "baseline": "2.4.11",
+      "port-version": 0
+    },
     "doctest-2-4-5-0": {
       "baseline": "2.4.5",
       "port-version": 0
