@@ -1,0 +1,5 @@
+old = "libqglviewer"
+new = "libqglviewer-2-7-0-2-0"
+
+[deps]
+qt5-base-5-12-4-6-0 = "qt5-base"
