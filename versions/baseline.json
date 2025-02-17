@@ -28780,6 +28780,10 @@
       "baseline": "1.1.1h",
       "port-version": 1
     },
+    "openssl-1-1-1h-2": {
+      "baseline": "1.1.1h",
+      "port-version": 2
+    },
     "openssl-microsoft-1-0-2-winrt-stable-0": {
       "baseline": "1.0.2-winrt-stable",
       "port-version": 0
