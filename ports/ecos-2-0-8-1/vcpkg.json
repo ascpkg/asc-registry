@@ -1,0 +1,6 @@
+{
+  "name": "ecos-2-0-8-1",
+  "version-string": "2.0.8",
+  "port-version": 1,
+  "description": "A lightweight conic solver for second-order cone programming."
+}
