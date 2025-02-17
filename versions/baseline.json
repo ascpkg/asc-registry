@@ -43024,6 +43024,10 @@
       "baseline": "1.6.0",
       "port-version": 0
     },
+    "highs-1-6-0-1": {
+      "baseline": "1.6.0",
+      "port-version": 1
+    },
     "highway-0-14-2-0": {
       "baseline": "0.14.2",
       "port-version": 0
