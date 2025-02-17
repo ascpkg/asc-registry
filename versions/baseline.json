@@ -3104,6 +3104,10 @@
       "baseline": "2016.10.22",
       "port-version": 0
     },
+    "sophus-1-0-0-0": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
     "spdlog-0-11-0-0": {
       "baseline": "0.11.0",
       "port-version": 0
