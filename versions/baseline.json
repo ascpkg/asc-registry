@@ -70164,6 +70164,10 @@
       "baseline": "6.00",
       "port-version": 1
     },
+    "xbyak-6-60-0": {
+      "baseline": "6.60",
+      "port-version": 0
+    },
     "xerces-c-3-1-4-0": {
       "baseline": "3.1.4",
       "port-version": 0
