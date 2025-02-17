@@ -20920,6 +20920,10 @@
       "baseline": "2.1.12",
       "port-version": 0
     },
+    "libevent-2-1-12-1": {
+      "baseline": "2.1.12",
+      "port-version": 1
+    },
     "libevent-2-1-8-0": {
       "baseline": "2.1.8",
       "port-version": 0
