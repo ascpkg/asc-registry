@@ -1,0 +1,6 @@
+old = "libosip2"
+new = "libosip2-5-2-0-5"
+
+[deps]
+pthread-3-0-0-2 = "pthread"
+vcpkg-msbuild-2023-08-08-0 = "vcpkg-msbuild"

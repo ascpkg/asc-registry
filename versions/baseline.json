@@ -53928,6 +53928,10 @@
       "baseline": "5.2.0",
       "port-version": 4
     },
+    "libosip2-5-2-0-5": {
+      "baseline": "5.2.0",
+      "port-version": 5
+    },
     "libosmium-2-15-5-0": {
       "baseline": "2.15.5",
       "port-version": 0
@@ -92231,6 +92235,10 @@
     "talib-0-4-0-0": {
       "baseline": "0.4.0",
       "port-version": 0
+    },
+    "talib-0-4-0-1": {
+      "baseline": "0.4.0",
+      "port-version": 1
     },
     "taocpp-json-2019-04-29-1-0": {
       "baseline": "2019-04-29-1",
