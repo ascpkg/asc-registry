@@ -106788,6 +106788,10 @@
       "baseline": "2.8.22",
       "port-version": 0
     },
+    "tinygltf-2-8-23-0": {
+      "baseline": "2.8.23",
+      "port-version": 0
+    },
     "tinygltf-2-8-4-0": {
       "baseline": "2.8.4",
       "port-version": 0
