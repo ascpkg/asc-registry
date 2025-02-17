@@ -92720,6 +92720,10 @@
       "baseline": "6.2.0+20220616",
       "port-version": 1
     },
+    "qwt-6-3-0-0": {
+      "baseline": "6.3.0",
+      "port-version": 0
+    },
     "qwt-qt6-6-2-0-0": {
       "baseline": "6.2.0",
       "port-version": 0
