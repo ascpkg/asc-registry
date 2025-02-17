@@ -28900,6 +28900,10 @@
       "baseline": "5.6.1",
       "port-version": 1
     },
+    "cgal-6-0-0": {
+      "baseline": "6.0",
+      "port-version": 0
+    },
     "cgicc--0": {
       "baseline": "",
       "port-version": 0
