@@ -73432,6 +73432,10 @@
       "baseline": "2.1.0",
       "port-version": 4
     },
+    "loguru-2-1-0-5": {
+      "baseline": "2.1.0",
+      "port-version": 5
+    },
     "loguru-v2-0-0-0": {
       "baseline": "v2.0.0",
       "port-version": 0

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/loguru-2-1-0-5",
+      "version": "2.1.0",
+      "port-version": 5
+    }
+  ]
+}
