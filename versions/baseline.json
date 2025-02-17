@@ -37772,6 +37772,10 @@
       "baseline": "2019-07-26",
       "port-version": 1
     },
+    "mqtt-cpp-12-0-0-0": {
+      "baseline": "12.0.0",
+      "port-version": 0
+    },
     "mqtt-cpp-7-0-1-0": {
       "baseline": "7.0.1",
       "port-version": 0
