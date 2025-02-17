@@ -54772,6 +54772,10 @@
       "baseline": "2023-06-10",
       "port-version": 1
     },
+    "lapack-2023-06-10-2": {
+      "baseline": "2023-06-10",
+      "port-version": 2
+    },
     "lapack-3-0": {
       "baseline": "3",
       "port-version": 0

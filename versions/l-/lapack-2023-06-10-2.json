@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/lapack-2023-06-10-2",
+      "version-date": "2023-06-10",
+      "port-version": 2
+    }
+  ]
+}
