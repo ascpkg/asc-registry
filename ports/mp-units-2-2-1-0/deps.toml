@@ -1,0 +1,8 @@
+old = "mp-units"
+new = "mp-units-2-2-1-0"
+
+[deps]
+fmt-11-0-2-0 = "fmt"
+gsl-lite-0-41-0-0 = "gsl-lite"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
