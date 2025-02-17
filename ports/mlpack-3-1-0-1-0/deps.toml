@@ -2,7 +2,8 @@ old = "mlpack"
 new = "mlpack-3-1-0-1-0"
 
 [deps]
-armadillo-2019-04-16-f00d3225-0 = "armadillo"
-boost-1-69-0-0 = "boost"
-clapack-3-2-1-3-0 = "clapack"
-openblas-0-3-5-4-0 = "openblas"
+armadillo-2019-04-16-1-0 = "armadillo"
+boost-1-70-0-0 = "boost"
+clapack-3-2-1-6-0 = "clapack"
+ensmallen-1-15-0-1-0 = "ensmallen"
+openblas-0-3-6-2-0 = "openblas"

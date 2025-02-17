@@ -2,7 +2,7 @@ old = "g2o"
 new = "g2o-20170730-git-4-0"
 
 [deps]
-ceres-1-14-0-1-0 = "ceres"
-clapack-3-2-1-2-0 = "clapack"
-eigen3-3-3-7-0 = "eigen3"
-suitesparse-5-1-2-0 = "suitesparse"
+ceres-1-14-0-4-0 = "ceres"
+clapack-3-2-1-6-0 = "clapack"
+eigen3-3-3-7-1-0 = "eigen3"
+suitesparse-5-4-0-1-0 = "suitesparse"
