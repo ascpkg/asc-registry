@@ -34836,6 +34836,10 @@
       "baseline": "1.14.0",
       "port-version": 2
     },
+    "liblsl-1-16-0-0": {
+      "baseline": "1.16.0",
+      "port-version": 0
+    },
     "liblzma-5-2-2-0": {
       "baseline": "5.2.2",
       "port-version": 0
