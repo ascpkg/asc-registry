@@ -1,0 +1,6 @@
+{
+  "name": "crow-0-3-0",
+  "version": "0.3",
+  "description": "Very fast and easy to use C++ micro web framework",
+  "homepage": "https://github.com/CrowCpp/crow"
+}
