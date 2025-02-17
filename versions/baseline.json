@@ -53252,6 +53252,10 @@
       "baseline": "1.2.0",
       "port-version": 1
     },
+    "libsndfile-1-2-0-2": {
+      "baseline": "1.2.0",
+      "port-version": 2
+    },
     "libsndfile-libsndfile-1-0-29-6830c42-0": {
       "baseline": "libsndfile-1.0.29-6830c42",
       "port-version": 0
