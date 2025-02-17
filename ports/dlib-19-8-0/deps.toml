@@ -2,8 +2,10 @@ old = "dlib"
 new = "dlib-19-8-0"
 
 [deps]
+clapack-3-2-1-1-0 = "clapack"
 cuda-8-0-1-0 = "cuda"
 fftw3-3-3-7-1-0 = "fftw3"
 libjpeg-turbo-1-5-2-2-0 = "libjpeg-turbo"
 libpng-1-6-34-2-0 = "libpng"
+openblas-0-2-20-2-0 = "openblas"
 sqlite3-3-21-0-0 = "sqlite3"
