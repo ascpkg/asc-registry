@@ -78376,6 +78376,10 @@
       "baseline": "0.3.4",
       "port-version": 0
     },
+    "nanoprintf-0-5-3-0": {
+      "baseline": "0.5.3",
+      "port-version": 0
+    },
     "nanoprintf-2020-05-27-0": {
       "baseline": "2020-05-27",
       "port-version": 0
