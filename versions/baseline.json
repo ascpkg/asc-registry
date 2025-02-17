@@ -54088,6 +54088,10 @@
       "baseline": "0.7.0",
       "port-version": 0
     },
+    "symengine-0-7-0-1": {
+      "baseline": "0.7.0",
+      "port-version": 1
+    },
     "symengine-2020-05-25-0": {
       "baseline": "2020-05-25",
       "port-version": 0
