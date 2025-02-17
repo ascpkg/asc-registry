@@ -67812,6 +67812,10 @@
       "baseline": "1.48.0",
       "port-version": 1
     },
+    "libuv-1-49-0-0": {
+      "baseline": "1.49.0",
+      "port-version": 0
+    },
     "libuv-1-9-1-0": {
       "baseline": "1.9.1",
       "port-version": 0
