@@ -1,0 +1,17 @@
+old = "aws-crt-cpp"
+new = "aws-crt-cpp-0-26-12-0"
+
+[deps]
+aws-c-auth-0-7-22-0 = "aws-c-auth"
+aws-c-cal-0-6-15-0 = "aws-c-cal"
+aws-c-common-0-9-21-0 = "aws-c-common"
+aws-c-compression-0-2-18-0 = "aws-c-compression"
+aws-c-event-stream-0-4-2-0 = "aws-c-event-stream"
+aws-c-http-0-8-2-0 = "aws-c-http"
+aws-c-io-0-14-9-0 = "aws-c-io"
+aws-c-mqtt-0-10-4-0 = "aws-c-mqtt"
+aws-c-s3-0-5-10-0 = "aws-c-s3"
+aws-checksums-0-1-18-0 = "aws-checksums"
+s2n-1-4-16-0 = "s2n"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
