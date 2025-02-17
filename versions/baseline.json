@@ -732,6 +732,10 @@
       "baseline": "2.34.0",
       "port-version": 0
     },
+    "angelscript-2-35-0-0": {
+      "baseline": "2.35.0",
+      "port-version": 0
+    },
     "angle-2017-06-14-8d471f-0": {
       "baseline": "2017-06-14-8d471f",
       "port-version": 0
