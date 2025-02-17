@@ -111244,6 +111244,10 @@
       "baseline": "5.8.3",
       "port-version": 0
     },
+    "sobjectizer-5-8-4-0": {
+      "baseline": "5.8.4",
+      "port-version": 0
+    },
     "soci-0": {
       "baseline": "",
       "port-version": 0
