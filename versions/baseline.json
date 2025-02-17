@@ -75028,6 +75028,10 @@
       "baseline": "6.5.0",
       "port-version": 0
     },
+    "qtpositioning-6-5-0-1": {
+      "baseline": "6.5.0",
+      "port-version": 1
+    },
     "qtquick3d-6-1-0-0": {
       "baseline": "6.1.0",
       "port-version": 0
