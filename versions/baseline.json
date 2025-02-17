@@ -26292,6 +26292,10 @@
       "baseline": "1.16-1",
       "port-version": 0
     },
+    "libiconv-1-16-10": {
+      "baseline": "1.16",
+      "port-version": 10
+    },
     "libiconv-1-16-2-0": {
       "baseline": "1.16-2",
       "port-version": 0
@@ -29803,6 +29807,10 @@
     "libxml2-2-9-12-2": {
       "baseline": "2.9.12",
       "port-version": 2
+    },
+    "libxml2-2-9-12-3": {
+      "baseline": "2.9.12",
+      "port-version": 3
     },
     "libxml2-2-9-4-0": {
       "baseline": "2.9.4",
@@ -34768,6 +34776,10 @@
       "baseline": "4.5.2",
       "port-version": 0
     },
+    "opencv-4-5-3-0": {
+      "baseline": "4.5.3",
+      "port-version": 0
+    },
     "opencv2-2-4-13-7-0": {
       "baseline": "2.4.13.7",
       "port-version": 0
@@ -34843,6 +34855,10 @@
     "opencv3-3-4-14-2": {
       "baseline": "3.4.14",
       "port-version": 2
+    },
+    "opencv3-3-4-15-0": {
+      "baseline": "3.4.15",
+      "port-version": 0
     },
     "opencv3-3-4-3-10-0": {
       "baseline": "3.4.3-10",
@@ -34947,6 +34963,10 @@
     "opencv4-4-5-2-1": {
       "baseline": "4.5.2",
       "port-version": 1
+    },
+    "opencv4-4-5-3-0": {
+      "baseline": "4.5.3",
+      "port-version": 0
     },
     "opendnp3-2-3-2-0": {
       "baseline": "2.3.2",
