@@ -57476,6 +57476,10 @@
       "baseline": "2.3.6",
       "port-version": 0
     },
+    "minisat-master-keying-2-3-6-1": {
+      "baseline": "2.3.6",
+      "port-version": 1
+    },
     "minitrace-2019-02-06-0": {
       "baseline": "2019.02.06",
       "port-version": 0
