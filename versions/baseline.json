@@ -66972,6 +66972,10 @@
       "baseline": "1.3.0",
       "port-version": 1
     },
+    "oatpp-sqlite-1-3-0-2": {
+      "baseline": "1.3.0",
+      "port-version": 2
+    },
     "oatpp-ssdp-1-3-0-0": {
       "baseline": "1.3.0",
       "port-version": 0
