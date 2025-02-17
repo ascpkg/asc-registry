@@ -42324,6 +42324,10 @@
       "baseline": "4.3.0",
       "port-version": 1
     },
+    "nanobench-4-3-6-0": {
+      "baseline": "4.3.6",
+      "port-version": 0
+    },
     "nanodbc-2-12-4-0": {
       "baseline": "2.12.4",
       "port-version": 0
