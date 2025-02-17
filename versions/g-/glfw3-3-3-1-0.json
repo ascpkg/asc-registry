@@ -2,6 +2,11 @@
   "versions": [
     {
       "path": "$/ports/glfw3-3-3-1-0",
+      "version": "3.3.1",
+      "port-version": 0
+    },
+    {
+      "path": "$/ports/glfw3-3-3-1-0",
       "version": "3.3-1",
       "port-version": 0
     }
