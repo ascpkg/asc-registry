@@ -1,0 +1,10 @@
+old = "blosc"
+new = "blosc-1-21-5-0"
+
+[deps]
+lz4-1-9-4-1 = "lz4"
+snappy-1-1-10-0 = "snappy"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-3-0 = "zlib"
+zstd-1-5-5-1 = "zstd"
