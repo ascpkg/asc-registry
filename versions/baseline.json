@@ -85508,6 +85508,10 @@
       "baseline": "2020-06-14",
       "port-version": 2
     },
+    "simpleble-2023-07-29-0": {
+      "baseline": "2023-07-29",
+      "port-version": 0
+    },
     "simpleini-2018-08-31-1-0": {
       "baseline": "2018-08-31-1",
       "port-version": 0
