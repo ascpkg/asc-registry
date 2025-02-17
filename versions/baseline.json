@@ -3528,6 +3528,10 @@
       "baseline": "0.6.2",
       "port-version": 0
     },
+    "aws-c-cal-0-6-2-1": {
+      "baseline": "0.6.2",
+      "port-version": 1
+    },
     "aws-c-common-0-3-0-0": {
       "baseline": "0.3.0",
       "port-version": 0
