@@ -81316,6 +81316,10 @@
       "baseline": "apache-parquet-cpp-1.1.0",
       "port-version": 0
     },
+    "parsi-0-1-0-0": {
+      "baseline": "0.1.0",
+      "port-version": 0
+    },
     "parson-2018-03-23-0": {
       "baseline": "2018-03-23",
       "port-version": 0
