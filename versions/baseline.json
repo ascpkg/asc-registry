@@ -38180,6 +38180,10 @@
       "baseline": "2.3.7.2",
       "port-version": 1
     },
+    "openimageio-2-3-7-2-2": {
+      "baseline": "2.3.7.2",
+      "port-version": 2
+    },
     "openimageio-2019-08-08-0": {
       "baseline": "2019-08-08",
       "port-version": 0
