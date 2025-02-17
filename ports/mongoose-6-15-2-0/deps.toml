@@ -1,0 +1,5 @@
+old = "mongoose"
+new = "mongoose-6-15-2-0"
+
+[deps]
+openssl-1-0 = "openssl"
