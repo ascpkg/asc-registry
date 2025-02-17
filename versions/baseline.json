@@ -65992,6 +65992,10 @@
       "baseline": "3.4.4",
       "port-version": 1
     },
+    "libsoup-3-6-0-0": {
+      "baseline": "3.6.0",
+      "port-version": 0
+    },
     "libspatialindex-1-9-0-0": {
       "baseline": "1.9.0",
       "port-version": 0
