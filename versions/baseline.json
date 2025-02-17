@@ -82288,6 +82288,10 @@
       "baseline": "3.21.12",
       "port-version": 2
     },
+    "protobuf-3-21-12-3": {
+      "baseline": "3.21.12",
+      "port-version": 3
+    },
     "protobuf-3-21-2-0": {
       "baseline": "3.21.2",
       "port-version": 0
