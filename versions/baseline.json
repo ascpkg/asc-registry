@@ -45628,6 +45628,10 @@
       "baseline": "0.0.0-e691a6dc",
       "port-version": 0
     },
+    "ned14-internal-quickcpplib-2022-06-17-0": {
+      "baseline": "2022-06-17",
+      "port-version": 0
+    },
     "neon2sse-2021-09-16-0": {
       "baseline": "2021-09-16",
       "port-version": 0
