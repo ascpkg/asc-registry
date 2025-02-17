@@ -912,6 +912,10 @@
       "baseline": "0.16.0",
       "port-version": 0
     },
+    "arrow-0-17-0-0": {
+      "baseline": "0.17.0",
+      "port-version": 0
+    },
     "arrow-0-6-0-0": {
       "baseline": "0.6.0",
       "port-version": 0
