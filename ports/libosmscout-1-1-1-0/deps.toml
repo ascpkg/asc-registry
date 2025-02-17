@@ -1,0 +1,14 @@
+old = "libosmscout"
+new = "libosmscout-1-1-1-0"
+
+[deps]
+cairo-1-16-0-7 = "cairo"
+freetype-2-10-2-4 = "freetype"
+harfbuzz-2-7-2-0 = "harfbuzz"
+libiconv-1-16-5 = "libiconv"
+liblzma-5-2-5-1 = "liblzma"
+libpng-1-6-37-12 = "libpng"
+libxml2-2-9-10-0 = "libxml2"
+pango-1-40-11-8 = "pango"
+protobuf-3-13-0-2 = "protobuf"
+zlib-1-2-11-9 = "zlib"
