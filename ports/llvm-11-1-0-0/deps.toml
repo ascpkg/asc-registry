@@ -1,0 +1,6 @@
+old = "llvm"
+new = "llvm-11-1-0-0"
+
+[deps]
+libffi-3-3-8 = "libffi"
+llvm-11-1-0-0 = "llvm"
