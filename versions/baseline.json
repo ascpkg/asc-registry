@@ -54368,6 +54368,10 @@
       "baseline": "1.21.2",
       "port-version": 1
     },
+    "krb5-1-21-2-2": {
+      "baseline": "1.21.2",
+      "port-version": 2
+    },
     "ktx-4-0-0-0": {
       "baseline": "4.0.0",
       "port-version": 0
