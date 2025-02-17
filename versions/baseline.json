@@ -52728,6 +52728,10 @@
       "baseline": "0.19.5",
       "port-version": 2
     },
+    "libdatachannel-0-20-1-0": {
+      "baseline": "0.20.1",
+      "port-version": 0
+    },
     "libdatachannel-v0-10-1-0": {
       "baseline": "v0.10.1",
       "port-version": 0
