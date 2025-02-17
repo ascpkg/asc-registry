@@ -1,0 +1,6 @@
+old = "rappture"
+new = "rappture-1-9-0"
+
+[deps]
+expat-2020-08-18-0 = "expat"
+zlib-1-2-11-9 = "zlib"
