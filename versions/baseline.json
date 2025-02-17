@@ -56892,6 +56892,10 @@
       "baseline": "2022-06-28",
       "port-version": 1
     },
+    "ms-gltf-2022-06-28-2": {
+      "baseline": "2022-06-28",
+      "port-version": 2
+    },
     "ms-gltf-r1-9-5-0-0": {
       "baseline": "r1.9.5.0",
       "port-version": 0
