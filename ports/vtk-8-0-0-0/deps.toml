@@ -1,0 +1,15 @@
+old = "vtk"
+new = "vtk-8-0-0-0"
+
+[deps]
+expat-2-1-1-1-0 = "expat"
+freetype-2-8-0 = "freetype"
+glew-2-0-0-2-0 = "glew"
+hdf5-1-10-0-patch1-1-0 = "hdf5"
+jsoncpp-1-7-7-0 = "jsoncpp"
+libpng-1-6-31-0 = "libpng"
+libxml2-2-9-4-1-0 = "libxml2"
+msmpi-8-0-1-0 = "msmpi"
+qt5-5-8-4-0 = "qt5"
+tiff-4-0-8-0 = "tiff"
+zlib-1-2-11-0 = "zlib"
