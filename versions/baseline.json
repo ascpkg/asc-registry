@@ -26620,6 +26620,10 @@
       "baseline": "3.0.14",
       "port-version": 1
     },
+    "cld3-3-0-14-2": {
+      "baseline": "3.0.14",
+      "port-version": 2
+    },
     "clfft-2-12-2-0": {
       "baseline": "2.12.2",
       "port-version": 0
