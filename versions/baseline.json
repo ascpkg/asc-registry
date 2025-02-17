@@ -37364,6 +37364,10 @@
       "baseline": "2020.06",
       "port-version": 8
     },
+    "magnum-2020-06-9": {
+      "baseline": "2020.06",
+      "port-version": 9
+    },
     "magnum-extras-2018-02-1-0": {
       "baseline": "2018.02-1",
       "port-version": 0
