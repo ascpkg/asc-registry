@@ -9924,6 +9924,10 @@
       "baseline": "1.0.1",
       "port-version": 0
     },
+    "console-bridge-1-0-1-1": {
+      "baseline": "1.0.1",
+      "port-version": 1
+    },
     "console_bridge-0-3-2-1-0": {
       "baseline": "0.3.2-1",
       "port-version": 0
@@ -17848,6 +17852,10 @@
       "baseline": "2.2.0-1",
       "port-version": 0
     },
+    "ignition-cmake2-2-5-0-0": {
+      "baseline": "2.5.0",
+      "port-version": 0
+    },
     "ignition-common1-1-1-1-0": {
       "baseline": "1.1.1",
       "port-version": 0
@@ -17878,6 +17886,10 @@
     },
     "ignition-math6-6-4-0-0": {
       "baseline": "6.4.0",
+      "port-version": 0
+    },
+    "ignition-math6-6-6-0-0": {
+      "baseline": "6.6.0",
       "port-version": 0
     },
     "ignition-modularscripts-2019-08-20-0": {
@@ -17932,6 +17944,14 @@
       "baseline": "5.1.0",
       "port-version": 1
     },
+    "ignition-msgs5-5-3-0-1": {
+      "baseline": "5.3.0",
+      "port-version": 1
+    },
+    "ignition-msgs6-6-0-0-0": {
+      "baseline": "6.0.0",
+      "port-version": 0
+    },
     "ignition-plugin1-1-1-0-0": {
       "baseline": "1.1.0",
       "port-version": 0
@@ -17950,6 +17970,10 @@
     },
     "ignition-transport8-8-0-0-0": {
       "baseline": "8.0.0",
+      "port-version": 0
+    },
+    "ignition-transport9-9-0-0-0": {
+      "baseline": "9.0.0",
       "port-version": 0
     },
     "ilmbase-2-2-0-0": {
@@ -34892,6 +34916,10 @@
       "baseline": "2018-08-26-16e6f435",
       "port-version": 0
     },
+    "sdformat10-10-0-0-0": {
+      "baseline": "10.0.0",
+      "port-version": 0
+    },
     "sdformat6-6-2-0-0": {
       "baseline": "6.2.0",
       "port-version": 0
@@ -38952,6 +38980,10 @@
       "baseline": "1.0.4",
       "port-version": 2
     },
+    "urdfdom-1-0-4-3": {
+      "baseline": "1.0.4",
+      "port-version": 3
+    },
     "urdfdom-headers-1-0-0-1-0": {
       "baseline": "1.0.0-1",
       "port-version": 0
@@ -38979,6 +39011,10 @@
     "urdfdom-headers-1-0-5-0": {
       "baseline": "1.0.5",
       "port-version": 0
+    },
+    "urdfdom-headers-1-0-5-1": {
+      "baseline": "1.0.5",
+      "port-version": 1
     },
     "urdfdom_headers-1-0-0-1-0": {
       "baseline": "1.0.0-1",

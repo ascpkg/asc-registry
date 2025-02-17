@@ -1,10 +1,10 @@
-old = "ignition-transport8"
-new = "ignition-transport8-8-0-0-0"
+old = "ignition-transport9"
+new = "ignition-transport9-9-0-0-0"
 
 [deps]
 cppzmq-4-7-1-0 = "cppzmq"
 ignition-cmake2-2-5-0-0 = "ignition-cmake2"
-ignition-msgs5-5-3-0-1 = "ignition-msgs5"
+ignition-msgs6-6-0-0-0 = "ignition-msgs6"
 libuuid-1-0-3-7-0 = "libuuid"
 protobuf-3-13-0-2 = "protobuf"
 sqlite3-3-33-0-0 = "sqlite3"
