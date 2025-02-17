@@ -39868,6 +39868,10 @@
       "baseline": "24.06",
       "port-version": 0
     },
+    "faudio-24-09-0": {
+      "baseline": "24.09",
+      "port-version": 0
+    },
     "fawdlstty-libfv-0-0-6-0": {
       "baseline": "0.0.6",
       "port-version": 0
