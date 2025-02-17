@@ -22008,6 +22008,10 @@
       "baseline": "2022-07-29",
       "port-version": 0
     },
+    "directxmesh-2022-10-17-0": {
+      "baseline": "2022-10-17",
+      "port-version": 0
+    },
     "directxmesh-apr2018-0": {
       "baseline": "apr2018",
       "port-version": 0
@@ -22184,6 +22188,10 @@
       "baseline": "2022-07-29",
       "port-version": 1
     },
+    "directxtex-2022-10-17-0": {
+      "baseline": "2022-10-17",
+      "port-version": 0
+    },
     "directxtex-apr2018-0": {
       "baseline": "apr2018",
       "port-version": 0
@@ -22350,6 +22358,10 @@
     },
     "directxtk-2022-07-29-0": {
       "baseline": "2022-07-29",
+      "port-version": 0
+    },
+    "directxtk-2022-10-17-0": {
+      "baseline": "2022-10-17",
       "port-version": 0
     },
     "directxtk-apr2018-0": {
@@ -22530,6 +22542,10 @@
     },
     "directxtk12-2022-07-29-0": {
       "baseline": "2022-07-29",
+      "port-version": 0
+    },
+    "directxtk12-2022-10-17-0": {
+      "baseline": "2022-10-17",
       "port-version": 0
     },
     "directxtk12-apr2021-0": {
@@ -74243,6 +74259,10 @@
     "uvatlas-2022-07-30-1": {
       "baseline": "2022-07-30",
       "port-version": 1
+    },
+    "uvatlas-2022-10-17-0": {
+      "baseline": "2022-10-17",
+      "port-version": 0
     },
     "uvatlas-apr2019-0": {
       "baseline": "apr2019",
