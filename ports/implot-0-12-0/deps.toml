@@ -1,0 +1,7 @@
+old = "implot"
+new = "implot-0-12-0"
+
+[deps]
+imgui-1-85-0 = "imgui"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"
