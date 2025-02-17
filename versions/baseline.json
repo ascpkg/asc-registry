@@ -1936,6 +1936,10 @@
       "baseline": "1.0.7",
       "port-version": 0
     },
+    "audiofile-1-0-9-0": {
+      "baseline": "1.0.9",
+      "port-version": 0
+    },
     "aurora-2017-06-21-c75699d2a8caa726260c29b6d7a0fd35f8f28933-0": {
       "baseline": "2017-06-21-c75699d2a8caa726260c29b6d7a0fd35f8f28933",
       "port-version": 0
@@ -12567,6 +12571,10 @@
     "cgl-0-60-2-3": {
       "baseline": "0.60.2",
       "port-version": 3
+    },
+    "cgltf-1-10-0": {
+      "baseline": "1.10",
+      "port-version": 0
     },
     "cgltf-1-2-0": {
       "baseline": "1.2",
@@ -30535,6 +30543,10 @@
     "libsbml-5-18-0-1": {
       "baseline": "5.18.0",
       "port-version": 1
+    },
+    "libsbml-5-19-0-0": {
+      "baseline": "5.19.0",
+      "port-version": 0
     },
     "libsbsms-2-3-0-0": {
       "baseline": "2.3.0",
