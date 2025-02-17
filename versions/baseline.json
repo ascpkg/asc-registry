@@ -114400,6 +114400,10 @@
       "baseline": "3.2.0",
       "port-version": 0
     },
+    "wolftpm-3-4-0-0": {
+      "baseline": "3.4.0",
+      "port-version": 0
+    },
     "wordnet-3-0-0": {
       "baseline": "3.0",
       "port-version": 0
