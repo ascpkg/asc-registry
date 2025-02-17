@@ -15292,6 +15292,10 @@
       "baseline": "2019-06-07",
       "port-version": 0
     },
+    "magic-get-2019-09-02-0": {
+      "baseline": "2019-09-02",
+      "port-version": 0
+    },
     "magnum-2018-02-1-0": {
       "baseline": "2018.02-1",
       "port-version": 0
