@@ -1,0 +1,7 @@
+old = "qhttpengine"
+new = "qhttpengine-1-0-2-1"
+
+[deps]
+qt5-base-5-15-3-1 = "qt5-base"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"
