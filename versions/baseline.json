@@ -51436,6 +51436,10 @@
       "baseline": "2023-07-05",
       "port-version": 0
     },
+    "libimobiledevice-2023-07-05-1": {
+      "baseline": "2023-07-05",
+      "port-version": 1
+    },
     "libimobiledevice-glue-2023-05-13-0": {
       "baseline": "2023-05-13",
       "port-version": 0
