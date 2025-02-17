@@ -1856,6 +1856,10 @@
       "baseline": "11.2.3",
       "port-version": 0
     },
+    "armadillo-11-4-3-0": {
+      "baseline": "11.4.3",
+      "port-version": 0
+    },
     "armadillo-2019-04-16-1-0": {
       "baseline": "2019-04-16-1",
       "port-version": 0
@@ -25594,6 +25598,10 @@
     },
     "ensmallen-2-18-1-0": {
       "baseline": "2.18.1",
+      "port-version": 0
+    },
+    "ensmallen-2-19-0-0": {
+      "baseline": "2.19.0",
       "port-version": 0
     },
     "entityx--0": {
