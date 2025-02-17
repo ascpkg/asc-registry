@@ -8564,6 +8564,10 @@
       "baseline": "dec2016-1",
       "port-version": 0
     },
+    "directxtk12-dec2019-0": {
+      "baseline": "dec2019",
+      "port-version": 0
+    },
     "directxtk12-jun2019-1-0": {
       "baseline": "jun2019-1",
       "port-version": 0
