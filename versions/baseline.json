@@ -47872,6 +47872,10 @@
       "baseline": "2022-09-18",
       "port-version": 0
     },
+    "llfio-2023-01-27-0": {
+      "baseline": "2023-01-27",
+      "port-version": 0
+    },
     "llgl-2019-08-15-0": {
       "baseline": "2019-08-15",
       "port-version": 0
@@ -52363,6 +52367,10 @@
     "ned14-internal-quickcpplib-2022-09-08-1": {
       "baseline": "2022-09-08",
       "port-version": 1
+    },
+    "ned14-internal-quickcpplib-2023-01-27-0": {
+      "baseline": "2023-01-27",
+      "port-version": 0
     },
     "neon2sse-2021-09-16-0": {
       "baseline": "2021-09-16",
@@ -74858,6 +74866,10 @@
     },
     "status-code-2022-09-08-0": {
       "baseline": "2022-09-08",
+      "port-version": 0
+    },
+    "status-code-2023-01-27-0": {
+      "baseline": "2023-01-27",
       "port-version": 0
     },
     "status-value-lite-1-1-0-0": {
