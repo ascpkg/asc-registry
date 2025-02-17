@@ -1,0 +1,18 @@
+old = "adios2"
+new = "adios2-2-9-2-0"
+
+[deps]
+blosc-1-21-5-0 = "blosc"
+bzip2-1-0-8-5 = "bzip2"
+cuda-10-1-13 = "cuda"
+hdf5-1-14-2-0 = "hdf5"
+libffi-3-4-6-0 = "libffi"
+libpng-1-6-43-0 = "libpng"
+libsodium-1-0-19-1 = "libsodium"
+mpi-1-4 = "mpi"
+pugixml-1-14-0 = "pugixml"
+python3-3-11-8-1 = "python3"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zeromq-4-3-5-1 = "zeromq"
+zfp-1-0-0-1 = "zfp"
