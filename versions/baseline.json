@@ -9512,6 +9512,10 @@
       "baseline": "2.4.0",
       "port-version": 0
     },
+    "box2d-2-4-1-0": {
+      "baseline": "2.4.1",
+      "port-version": 0
+    },
     "box2d-2019-12-31-0": {
       "baseline": "2019-12-31",
       "port-version": 0
