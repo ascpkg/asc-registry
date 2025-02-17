@@ -3040,6 +3040,10 @@
       "baseline": "opengl to postscript printing library",
       "port-version": 0
     },
+    "gl3w-8f7f459d-0": {
+      "baseline": "8f7f459d",
+      "port-version": 0
+    },
     "glbinding-2-1-1-0": {
       "baseline": "2.1.1",
       "port-version": 0
