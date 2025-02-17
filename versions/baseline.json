@@ -94552,6 +94552,10 @@
       "baseline": "1.0.8",
       "port-version": 0
     },
+    "vsg-1-0-9-0": {
+      "baseline": "1.0.9",
+      "port-version": 0
+    },
     "vsgxchange-1-0-4-0": {
       "baseline": "1.0.4",
       "port-version": 0
