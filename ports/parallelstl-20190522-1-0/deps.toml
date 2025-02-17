@@ -1,0 +1,5 @@
+old = "parallelstl"
+new = "parallelstl-20190522-1-0"
+
+[deps]
+tbb-2019-u8-0 = "tbb"
