@@ -3,9 +3,9 @@ new = "libspatialite-4-3-0a-0"
 
 [deps]
 freexl-1-0-4-0 = "freexl"
-geos-3-6-2-0 = "geos"
-libiconv-1-14-1-0 = "libiconv"
+geos-3-6-2-2-0 = "geos"
+libiconv-1-15-1-0 = "libiconv"
 libxml2-2-9-4-2-0 = "libxml2"
 proj4-4-9-3-1-0 = "proj4"
-sqlite3-3-20-1-0 = "sqlite3"
+sqlite3-3-21-0-0 = "sqlite3"
 zlib-1-2-11-3-0 = "zlib"
