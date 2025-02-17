@@ -42512,6 +42512,10 @@
       "baseline": "1.9.3",
       "port-version": 3
     },
+    "lz4-1-9-3-4": {
+      "baseline": "1.9.3",
+      "port-version": 4
+    },
     "lzfse-1-0-0": {
       "baseline": "1.0",
       "port-version": 0
