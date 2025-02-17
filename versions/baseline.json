@@ -9424,6 +9424,10 @@
       "baseline": "1.4.8",
       "port-version": 0
     },
+    "matroska-1-4-9-0": {
+      "baseline": "1.4.9",
+      "port-version": 0
+    },
     "mbedtls-2-12-0-0": {
       "baseline": "2.12.0",
       "port-version": 0
