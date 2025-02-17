@@ -81120,6 +81120,10 @@
       "baseline": "2.3.7",
       "port-version": 0
     },
+    "qca-2-3-7-1": {
+      "baseline": "2.3.7",
+      "port-version": 1
+    },
     "qcoro-0-10-0-0": {
       "baseline": "0.10.0",
       "port-version": 0
