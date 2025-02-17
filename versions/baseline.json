@@ -22036,6 +22036,10 @@
       "baseline": "2019-12-21",
       "port-version": 0
     },
+    "libvmdk-20200926-0": {
+      "baseline": "20200926",
+      "port-version": 0
+    },
     "libvorbis--0": {
       "baseline": "",
       "port-version": 0
