@@ -48044,6 +48044,10 @@
       "baseline": "0.21.9",
       "port-version": 0
     },
+    "xtensor-0-23-10-0": {
+      "baseline": "0.23.10",
+      "port-version": 0
+    },
     "xtensor-2019-01-20-0": {
       "baseline": "2019-01-20",
       "port-version": 0
@@ -48110,6 +48114,10 @@
     },
     "xtl-0-6-5-0": {
       "baseline": "0.6.5",
+      "port-version": 0
+    },
+    "xtl-0-7-2-0": {
+      "baseline": "0.7.2",
       "port-version": 0
     },
     "xxhash-0-6-2-0": {
