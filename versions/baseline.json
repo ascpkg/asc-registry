@@ -7272,6 +7272,10 @@
       "baseline": "2.52.3-11",
       "port-version": 0
     },
+    "glib-2-52-3-13-0": {
+      "baseline": "2.52.3-13",
+      "port-version": 0
+    },
     "glib-2-52-3-2-0": {
       "baseline": "2.52.3-2",
       "port-version": 0
@@ -8702,6 +8706,10 @@
     },
     "libffi-3-1-1-0": {
       "baseline": "3.1-1",
+      "port-version": 0
+    },
+    "libffi-3-1-4-0": {
+      "baseline": "3.1-4",
       "port-version": 0
     },
     "libffi-3-2-1-0": {
