@@ -69164,6 +69164,10 @@
       "baseline": "2.7.1",
       "port-version": 0
     },
+    "nlopt-2-7-1-1": {
+      "baseline": "2.7.1",
+      "port-version": 1
+    },
     "nmap-7-70-0": {
       "baseline": "7.70",
       "port-version": 0
