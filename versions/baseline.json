@@ -8848,6 +8848,10 @@
       "baseline": "1.1.6",
       "port-version": 0
     },
+    "freetype-2-10-0-0": {
+      "baseline": "2.10.0",
+      "port-version": 0
+    },
     "freetype-2-6-3-0": {
       "baseline": "2.6.3",
       "port-version": 0
