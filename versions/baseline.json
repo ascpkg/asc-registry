@@ -11596,6 +11596,10 @@
       "baseline": "sept2020",
       "port-version": 0
     },
+    "directxtk-sept2020-1": {
+      "baseline": "sept2020",
+      "port-version": 1
+    },
     "directxtk12-aug2019-0": {
       "baseline": "aug2019",
       "port-version": 0
