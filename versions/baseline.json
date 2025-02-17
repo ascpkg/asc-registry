@@ -47692,6 +47692,10 @@
       "baseline": "1.3.0",
       "port-version": 0
     },
+    "oatpp-1-3-0-1": {
+      "baseline": "1.3.0",
+      "port-version": 1
+    },
     "oatpp-consul-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
@@ -47715,6 +47719,10 @@
     "oatpp-consul-1-3-0-0": {
       "baseline": "1.3.0",
       "port-version": 0
+    },
+    "oatpp-consul-1-3-0-1": {
+      "baseline": "1.3.0",
+      "port-version": 1
     },
     "oatpp-curl-1-0-0-0": {
       "baseline": "1.0.0",
@@ -47744,6 +47752,10 @@
       "baseline": "1.3.0",
       "port-version": 0
     },
+    "oatpp-curl-1-3-0-1": {
+      "baseline": "1.3.0",
+      "port-version": 1
+    },
     "oatpp-libressl-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
@@ -47767,6 +47779,10 @@
     "oatpp-libressl-1-3-0-0": {
       "baseline": "1.3.0",
       "port-version": 0
+    },
+    "oatpp-libressl-1-3-0-1": {
+      "baseline": "1.3.0",
+      "port-version": 1
     },
     "oatpp-mbedtls-1-0-0-0": {
       "baseline": "1.0.0",
@@ -47804,6 +47820,10 @@
       "baseline": "1.3.0",
       "port-version": 0
     },
+    "oatpp-mongo-1-3-0-1": {
+      "baseline": "1.3.0",
+      "port-version": 1
+    },
     "oatpp-openssl-1-2-5-0": {
       "baseline": "1.2.5",
       "port-version": 0
@@ -47824,6 +47844,10 @@
       "baseline": "1.3.0",
       "port-version": 0
     },
+    "oatpp-postgresql-1-3-0-1": {
+      "baseline": "1.3.0",
+      "port-version": 1
+    },
     "oatpp-sqlite-1-2-0-0": {
       "baseline": "1.2.0",
       "port-version": 0
@@ -47840,9 +47864,17 @@
       "baseline": "1.3.0",
       "port-version": 0
     },
+    "oatpp-sqlite-1-3-0-1": {
+      "baseline": "1.3.0",
+      "port-version": 1
+    },
     "oatpp-ssdp-1-3-0-0": {
       "baseline": "1.3.0",
       "port-version": 0
+    },
+    "oatpp-ssdp-1-3-0-1": {
+      "baseline": "1.3.0",
+      "port-version": 1
     },
     "oatpp-swagger-1-0-0-0": {
       "baseline": "1.0.0",
@@ -47867,6 +47899,10 @@
     "oatpp-swagger-1-3-0-0": {
       "baseline": "1.3.0",
       "port-version": 0
+    },
+    "oatpp-swagger-1-3-0-1": {
+      "baseline": "1.3.0",
+      "port-version": 1
     },
     "oatpp-websocket-1-0-0-0": {
       "baseline": "1.0.0",
@@ -47903,6 +47939,10 @@
     "oatpp-zlib-1-3-0-0": {
       "baseline": "1.3.0",
       "port-version": 0
+    },
+    "oatpp-zlib-1-3-0-1": {
+      "baseline": "1.3.0",
+      "port-version": 1
     },
     "observer-ptr-lite-0-3-0-0": {
       "baseline": "0.3.0",
