@@ -43832,6 +43832,10 @@
       "baseline": "1.4.2",
       "port-version": 0
     },
+    "libgme-0-6-3-0": {
+      "baseline": "0.6.3",
+      "port-version": 0
+    },
     "libgnutls-3-6-15-0": {
       "baseline": "3.6.15",
       "port-version": 0
