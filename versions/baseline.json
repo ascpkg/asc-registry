@@ -104272,6 +104272,10 @@
       "baseline": "3.3.0",
       "port-version": 1
     },
+    "rubberband-4-0-0-0": {
+      "baseline": "4.0.0",
+      "port-version": 0
+    },
     "ruckig-0-14-0-0": {
       "baseline": "0.14.0",
       "port-version": 0
