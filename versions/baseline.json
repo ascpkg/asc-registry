@@ -31248,6 +31248,10 @@
       "baseline": "0.14.2",
       "port-version": 1
     },
+    "etcd-cpp-apiv3-0-15-3-0": {
+      "baseline": "0.15.3",
+      "port-version": 0
+    },
     "etcd-cpp-apiv3-0-2-12-0": {
       "baseline": "0.2.12",
       "port-version": 0
