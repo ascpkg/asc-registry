@@ -1,0 +1,5 @@
+old = "exiv2"
+new = "exiv2-327b3f6c4de4ffda82818367fc870640d2ae8820-0"
+
+[deps]
+zlib-1-2-11-2-0 = "zlib"
