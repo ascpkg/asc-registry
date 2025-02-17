@@ -51892,6 +51892,10 @@
       "baseline": "3.11.3",
       "port-version": 0
     },
+    "robin-hood-hashing-3-11-4-0": {
+      "baseline": "3.11.4",
+      "port-version": 0
+    },
     "robin-hood-hashing-3-2-13-0": {
       "baseline": "3.2.13",
       "port-version": 0
