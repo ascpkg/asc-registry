@@ -48540,6 +48540,10 @@
       "baseline": "0.173.2",
       "port-version": 0
     },
+    "jsoncons-0-173-4-0": {
+      "baseline": "0.173.4",
+      "port-version": 0
+    },
     "jsoncons-v0-122-0-0": {
       "baseline": "v0.122.0",
       "port-version": 0
