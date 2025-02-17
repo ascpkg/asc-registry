@@ -792,6 +792,10 @@
       "baseline": "0-fd5ad87bf",
       "port-version": 0
     },
+    "gsl-20170425-8b320e3f5d016f953e55dfc7ec8694c1349d3fe4-0": {
+      "baseline": "20170425-8b320e3f5d016f953e55dfc7ec8694c1349d3fe4",
+      "port-version": 0
+    },
     "gtest-1-8-0": {
       "baseline": "1.8",
       "port-version": 0
