@@ -79104,6 +79104,10 @@
       "baseline": "2.2.0",
       "port-version": 0
     },
+    "proxy-2-2-1-0": {
+      "baseline": "2.2.1",
+      "port-version": 0
+    },
     "proxygen-2019-10-21-00-0": {
       "baseline": "2019.10.21.00",
       "port-version": 0
