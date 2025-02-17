@@ -1,0 +1,7 @@
+old = "level-zero"
+new = "level-zero-1-17-45-0"
+
+[deps]
+spdlog-1-14-1-0 = "spdlog"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
