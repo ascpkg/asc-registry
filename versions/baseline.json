@@ -31644,6 +31644,10 @@
       "baseline": "0.5.5-2",
       "port-version": 0
     },
+    "zkpp-0-2-3-0": {
+      "baseline": "0.2.3",
+      "port-version": 0
+    },
     "zlib-1-2-10-0": {
       "baseline": "1.2.10",
       "port-version": 0
@@ -31682,6 +31686,10 @@
     },
     "zookeeper-3-5-5-0": {
       "baseline": "3.5.5",
+      "port-version": 0
+    },
+    "zookeeper-3-5-5-1-0": {
+      "baseline": "3.5.5-1",
       "port-version": 0
     },
     "zopfli-2019-01-19-0": {
