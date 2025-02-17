@@ -1,0 +1,6 @@
+old = "vamp-sdk"
+new = "vamp-sdk-2-10-2"
+
+[deps]
+libsndfile-1-0-31-0 = "libsndfile"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"

@@ -63728,6 +63728,10 @@
       "baseline": "2.10",
       "port-version": 1
     },
+    "vamp-sdk-2-10-2": {
+      "baseline": "2.10",
+      "port-version": 2
+    },
     "vamp-sdk-2-9-0": {
       "baseline": "2.9",
       "port-version": 0
