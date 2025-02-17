@@ -37128,6 +37128,10 @@
       "baseline": "2021-11-14",
       "port-version": 0
     },
+    "kissnet-2022-10-18-0": {
+      "baseline": "2022-10-18",
+      "port-version": 0
+    },
     "klein-2021-05-09-0": {
       "baseline": "2021-05-09",
       "port-version": 0
