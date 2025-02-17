@@ -32064,6 +32064,10 @@
       "baseline": "2.3.2",
       "port-version": 1
     },
+    "fluidsynth-2-3-2-2": {
+      "baseline": "2.3.2",
+      "port-version": 2
+    },
     "fmem-c-libs-2ccee3d2fb-0": {
       "baseline": "c-libs-2ccee3d2fb",
       "port-version": 0
