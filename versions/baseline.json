@@ -13316,6 +13316,10 @@
       "baseline": "0.9.9.7",
       "port-version": 0
     },
+    "glm-0-9-9-8-0": {
+      "baseline": "0.9.9.8",
+      "port-version": 0
+    },
     "globjects-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
@@ -29086,6 +29090,10 @@
     },
     "sqlitecpp-2-3-0-1-0": {
       "baseline": "2.3.0-1",
+      "port-version": 0
+    },
+    "sqlitecpp-3-0-0-0": {
+      "baseline": "3.0.0",
       "port-version": 0
     },
     "sqlpp11-0-57-0": {

@@ -1,0 +1,5 @@
+old = "sqlitecpp"
+new = "sqlitecpp-3-0-0-0"
+
+[deps]
+sqlite3-3-31-1-0 = "sqlite3"
