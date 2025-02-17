@@ -32040,6 +32040,10 @@
       "baseline": "2.0.33",
       "port-version": 3
     },
+    "jasper-2-0-33-4": {
+      "baseline": "2.0.33",
+      "port-version": 4
+    },
     "jbig2dec-0-13-0": {
       "baseline": "0.13",
       "port-version": 0
@@ -38947,6 +38951,10 @@
     "libraw-201903-7": {
       "baseline": "201903",
       "port-version": 7
+    },
+    "libraw-201903-8": {
+      "baseline": "201903",
+      "port-version": 8
     },
     "librdkafka-1-1-0-0": {
       "baseline": "1.1.0",
@@ -50152,6 +50160,10 @@
       "baseline": "3.6.5",
       "port-version": 13
     },
+    "osg-3-6-5-14": {
+      "baseline": "3.6.5",
+      "port-version": 14
+    },
     "osg-3-6-5-2": {
       "baseline": "3.6.5",
       "port-version": 2
@@ -55576,6 +55588,10 @@
       "baseline": "5.15.5",
       "port-version": 0
     },
+    "qt5-imageformats-5-15-5-1": {
+      "baseline": "5.15.5",
+      "port-version": 1
+    },
     "qt5-imageformats-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -57664,6 +57680,10 @@
       "baseline": "6.3.0",
       "port-version": 0
     },
+    "qtapplicationmanager-6-3-0-1": {
+      "baseline": "6.3.0",
+      "port-version": 1
+    },
     "qtbase-6-1-0-0": {
       "baseline": "6.1.0",
       "port-version": 0
@@ -58883,6 +58903,10 @@
     "qtwebengine-6-3-0-2": {
       "baseline": "6.3.0",
       "port-version": 2
+    },
+    "qtwebengine-6-3-0-3": {
+      "baseline": "6.3.0",
+      "port-version": 3
     },
     "qtwebsockets-6-2-0-0": {
       "baseline": "6.2.0",
