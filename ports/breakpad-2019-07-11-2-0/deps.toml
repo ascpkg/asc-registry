@@ -1,0 +1,5 @@
+old = "breakpad"
+new = "breakpad-2019-07-11-2-0"
+
+[deps]
+libdisasm-0-23-3-0 = "libdisasm"
