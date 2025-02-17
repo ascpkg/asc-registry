@@ -48064,6 +48064,10 @@
       "baseline": "2017-10-14",
       "port-version": 6
     },
+    "gexiv2-0-14-3-0": {
+      "baseline": "0.14.3",
+      "port-version": 0
+    },
     "gflags-2-1-2-0": {
       "baseline": "2.1.2",
       "port-version": 0
