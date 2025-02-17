@@ -40208,6 +40208,10 @@
       "baseline": "5.0.1",
       "port-version": 6
     },
+    "libspatialite-5-0-1-7": {
+      "baseline": "5.0.1",
+      "port-version": 7
+    },
     "libspnav-0-2-3-0": {
       "baseline": "0.2.3",
       "port-version": 0
