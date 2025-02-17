@@ -692,6 +692,10 @@
       "baseline": "4.1.7",
       "port-version": 0
     },
+    "amqpcpp-4-3-11-0": {
+      "baseline": "4.3.11",
+      "port-version": 0
+    },
     "anax-2-1-0-0": {
       "baseline": "2.1.0",
       "port-version": 0
