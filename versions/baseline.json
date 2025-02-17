@@ -34192,6 +34192,10 @@
       "baseline": "2024-02-21",
       "port-version": 0
     },
+    "directxmesh-2024-06-04-0": {
+      "baseline": "2024-06-04",
+      "port-version": 0
+    },
     "directxmesh-apr2018-0": {
       "baseline": "apr2018",
       "port-version": 0
@@ -34440,6 +34444,10 @@
       "baseline": "2024-03-06",
       "port-version": 0
     },
+    "directxtex-2024-06-04-0": {
+      "baseline": "2024-06-04",
+      "port-version": 0
+    },
     "directxtex-apr2018-0": {
       "baseline": "apr2018",
       "port-version": 0
@@ -34654,6 +34662,10 @@
     },
     "directxtk-2024-02-21-0": {
       "baseline": "2024-02-21",
+      "port-version": 0
+    },
+    "directxtk-2024-06-04-0": {
+      "baseline": "2024-06-04",
       "port-version": 0
     },
     "directxtk-apr2018-0": {
@@ -34882,6 +34894,10 @@
     },
     "directxtk12-2024-02-21-0": {
       "baseline": "2024-02-21",
+      "port-version": 0
+    },
+    "directxtk12-2024-06-04-0": {
+      "baseline": "2024-06-04",
       "port-version": 0
     },
     "directxtk12-apr2021-0": {
@@ -108766,6 +108782,10 @@
     },
     "uvatlas-2024-02-21-0": {
       "baseline": "2024-02-21",
+      "port-version": 0
+    },
+    "uvatlas-2024-06-05-0": {
+      "baseline": "2024-06-05",
       "port-version": 0
     },
     "uvatlas-apr2019-0": {
