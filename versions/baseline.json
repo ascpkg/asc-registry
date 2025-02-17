@@ -43492,6 +43492,10 @@
       "baseline": "0.9.2",
       "port-version": 1
     },
+    "jsonifier-0-9-3-0": {
+      "baseline": "0.9.3",
+      "port-version": 0
+    },
     "jsonnet-0-13-0-0": {
       "baseline": "0.13.0",
       "port-version": 0
