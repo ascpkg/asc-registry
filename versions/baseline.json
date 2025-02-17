@@ -6008,6 +6008,10 @@
       "baseline": "1.1.0",
       "port-version": 3
     },
+    "azure-security-attestation-cpp-1-1-0-4": {
+      "baseline": "1.1.0",
+      "port-version": 4
+    },
     "azure-security-keyvault-administration-cpp-4-0-0-beta-2-0": {
       "baseline": "4.0.0-beta.2",
       "port-version": 0
