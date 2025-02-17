@@ -31156,6 +31156,10 @@
       "baseline": "2.5.0",
       "port-version": 4
     },
+    "duktape-2-7-0-0": {
+      "baseline": "2.7.0",
+      "port-version": 0
+    },
     "dumb-2-0-3-0": {
       "baseline": "2.0.3",
       "port-version": 0
