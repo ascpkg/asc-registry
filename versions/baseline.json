@@ -12844,6 +12844,10 @@
       "baseline": "5.0.2",
       "port-version": 0
     },
+    "directx-headers-1-0-0": {
+      "baseline": "1.0",
+      "port-version": 0
+    },
     "directxmesh-apr2018-0": {
       "baseline": "apr2018",
       "port-version": 0
