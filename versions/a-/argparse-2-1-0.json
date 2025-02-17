@@ -2,7 +2,7 @@
   "versions": [
     {
       "path": "$/ports/argparse-2-1-0",
-      "version": "2.1",
+      "version-string": "2.1",
       "port-version": 0
     }
   ]
