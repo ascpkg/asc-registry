@@ -1,0 +1,9 @@
+old = "arpack-ng"
+new = "arpack-ng-3-9-1-0"
+
+[deps]
+blas-2023-04-14-0 = "blas"
+lapack-2023-06-10-0 = "lapack"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+vcpkg-gfortran-3-3 = "vcpkg-gfortran"
