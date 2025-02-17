@@ -1,0 +1,2 @@
+old = "winreg"
+new = "winreg-2-4-0-0"
