@@ -64492,6 +64492,10 @@
       "baseline": "0.0.7",
       "port-version": 0
     },
+    "libuvc-0-0-7-1": {
+      "baseline": "0.0.7",
+      "port-version": 1
+    },
     "libuvc-2020-11-24-0": {
       "baseline": "2020-11-24",
       "port-version": 0
