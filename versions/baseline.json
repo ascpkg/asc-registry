@@ -17412,6 +17412,10 @@
       "baseline": "4.4",
       "port-version": 1
     },
+    "ffmpeg-4-4-10": {
+      "baseline": "4.4",
+      "port-version": 10
+    },
     "ffmpeg-4-4-2": {
       "baseline": "4.4",
       "port-version": 2
@@ -26635,6 +26639,10 @@
     "libmodplug-0-8-9-0-7": {
       "baseline": "0.8.9.0",
       "port-version": 7
+    },
+    "libmodplug-0-8-9-0-8": {
+      "baseline": "0.8.9.0",
+      "port-version": 8
     },
     "libmorton-0-2-0": {
       "baseline": "0.2",
