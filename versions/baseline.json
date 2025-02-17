@@ -108256,6 +108256,10 @@
       "baseline": "0.64",
       "port-version": 1
     },
+    "sqlpp11-0-64-2": {
+      "baseline": "0.64",
+      "port-version": 2
+    },
     "sqlpp11-connector-mysql-0-25-0": {
       "baseline": "0.25",
       "port-version": 0

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/sqlpp11-0-64-2",
+      "version": "0.64",
+      "port-version": 2
+    }
+  ]
+}
