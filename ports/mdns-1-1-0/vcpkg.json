@@ -1,0 +1,6 @@
+{
+  "name": "mdns-1-1-0",
+  "version-string": "1.1",
+  "description": "Public domain mDNS/DNS-SD library in C",
+  "homepage": "https://github.com/mjansson/mdns"
+}
