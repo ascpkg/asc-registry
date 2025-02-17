@@ -1,0 +1,7 @@
+old = "coin-or-cgl"
+new = "coin-or-cgl-2023-02-01-0"
+
+[deps]
+coin-or-clp-2023-02-01-0 = "coin-or-clp"
+coin-or-osi-2023-02-01-0 = "coin-or-osi"
+coinutils-2023-02-02-0 = "coinutils"

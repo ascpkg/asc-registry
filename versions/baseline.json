@@ -20748,6 +20748,26 @@
       "baseline": "4.0.0",
       "port-version": 5
     },
+    "coin-or-buildtools-2023-02-02-0": {
+      "baseline": "2023-02-02",
+      "port-version": 0
+    },
+    "coin-or-cgl-2023-02-01-0": {
+      "baseline": "2023-02-01",
+      "port-version": 0
+    },
+    "coin-or-clp-2023-02-01-0": {
+      "baseline": "2023-02-01",
+      "port-version": 0
+    },
+    "coin-or-ipopt-2023-02-01-0": {
+      "baseline": "2023-02-01",
+      "port-version": 0
+    },
+    "coin-or-osi-2023-02-01-0": {
+      "baseline": "2023-02-01",
+      "port-version": 0
+    },
     "coinutils-2-10-14-0-0": {
       "baseline": "2.10.14-0",
       "port-version": 0
@@ -20775,6 +20795,10 @@
     "coinutils-2-11-4-1": {
       "baseline": "2.11.4",
       "port-version": 1
+    },
+    "coinutils-2023-02-02-0": {
+      "baseline": "2023-02-02",
+      "port-version": 0
     },
     "collada-dom-2-5-0-0": {
       "baseline": "2.5.0",
@@ -32779,6 +32803,10 @@
     "glpk-5-0-0": {
       "baseline": "5.0",
       "port-version": 0
+    },
+    "glpk-5-0-1": {
+      "baseline": "5.0",
+      "port-version": 1
     },
     "glslang-11-11-0-0": {
       "baseline": "11.11.0",
@@ -57067,6 +57095,10 @@
     "openmvg-2-0-5": {
       "baseline": "2.0",
       "port-version": 5
+    },
+    "openmvg-2-0-6": {
+      "baseline": "2.0",
+      "port-version": 6
     },
     "openmvs-0-9-0": {
       "baseline": "0.9",
