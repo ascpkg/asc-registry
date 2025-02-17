@@ -1,0 +1,10 @@
+old = "g2o"
+new = "g2o-2023-08-06-0"
+
+[deps]
+ceres-2-1-0-5 = "ceres"
+eigen3-3-4-0-4 = "eigen3"
+lapack-2023-06-10-2 = "lapack"
+suitesparse-5-8-0-2 = "suitesparse"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
