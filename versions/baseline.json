@@ -96132,6 +96132,10 @@
       "baseline": "3.4",
       "port-version": 1
     },
+    "x265-3-4-10": {
+      "baseline": "3.4",
+      "port-version": 10
+    },
     "x265-3-4-2": {
       "baseline": "3.4",
       "port-version": 2
