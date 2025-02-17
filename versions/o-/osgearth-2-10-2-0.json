@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/osgearth-2-10-2-0",
+      "version": "2.10.2",
+      "port-version": 0
+    }
+  ]
+}
