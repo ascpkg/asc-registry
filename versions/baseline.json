@@ -10820,6 +10820,10 @@
       "baseline": "2.2.0-1",
       "port-version": 0
     },
+    "farmhash-1-1-0": {
+      "baseline": "1.1",
+      "port-version": 0
+    },
     "fast-cpp-csv-parser-2019-08-14-0": {
       "baseline": "2019-08-14",
       "port-version": 0
