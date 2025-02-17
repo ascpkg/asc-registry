@@ -31468,6 +31468,10 @@
       "baseline": "2019-06-05",
       "port-version": 0
     },
+    "simdjson-0-4-6-0": {
+      "baseline": "0.4.6",
+      "port-version": 0
+    },
     "simdjson-2019-03-03-0": {
       "baseline": "2019-03-03",
       "port-version": 0
