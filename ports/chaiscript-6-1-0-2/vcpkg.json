@@ -1,0 +1,7 @@
+{
+  "name": "chaiscript-6-1-0-2",
+  "version-string": "6.1.0",
+  "port-version": 2,
+  "description": "Embedded Scripting Language Designed for C++",
+  "homepage": "https://github.com/ChaiScript/ChaiScript"
+}

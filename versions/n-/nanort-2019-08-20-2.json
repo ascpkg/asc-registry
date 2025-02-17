@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/nanort-2019-08-20-2",
+      "version-string": "2019-08-20",
+      "port-version": 2
+    }
+  ]
+}

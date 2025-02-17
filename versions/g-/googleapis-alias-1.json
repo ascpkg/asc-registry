@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/googleapis-alias-1",
+      "version-string": "alias",
+      "port-version": 1
+    }
+  ]
+}

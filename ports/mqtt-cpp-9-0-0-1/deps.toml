@@ -1,0 +1,9 @@
+old = "mqtt-cpp"
+new = "mqtt-cpp-9-0-0-1"
+
+[deps]
+boost-any-1-76-0-0 = "boost-any"
+boost-asio-1-76-0-0 = "boost-asio"
+boost-log-1-76-0-0 = "boost-log"
+boost-multi-index-1-76-0-0 = "boost-multi-index"
+boost-type-erasure-1-76-0-0 = "boost-type-erasure"

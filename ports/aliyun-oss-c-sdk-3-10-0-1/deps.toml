@@ -1,0 +1,6 @@
+old = "aliyun-oss-c-sdk"
+new = "aliyun-oss-c-sdk-3-10-0-1"
+
+[deps]
+apr-util-1-6-1-4 = "apr-util"
+curl-7-78-0-0 = "curl"

@@ -1,0 +1,6 @@
+old = "libcds"
+new = "libcds-2-3-3-1"
+
+[deps]
+boost-system-1-76-0-0 = "boost-system"
+boost-thread-1-76-0-0 = "boost-thread"

@@ -1,0 +1,6 @@
+{
+  "name": "tinyspline-0-2-0-4",
+  "version-string": "0.2.0",
+  "port-version": 4,
+  "description": "Library for NURBS, B-Splines, and B?zier curves, allowing you to handle splines with ease"
+}

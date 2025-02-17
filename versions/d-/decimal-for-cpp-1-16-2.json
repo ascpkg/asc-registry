@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/decimal-for-cpp-1-16-2",
+      "version-string": "1.16",
+      "port-version": 2
+    }
+  ]
+}

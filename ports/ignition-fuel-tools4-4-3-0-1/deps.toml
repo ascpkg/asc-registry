@@ -1,0 +1,13 @@
+old = "ignition-fuel-tools4"
+new = "ignition-fuel-tools4-4-3-0-1"
+
+[deps]
+curl-7-78-0-0 = "curl"
+ignition-cmake2-2-5-0-1 = "ignition-cmake2"
+ignition-common3-3-9-0-1 = "ignition-common3"
+ignition-modularscripts-2020-11-23-1 = "ignition-modularscripts"
+ignition-msgs5-5-3-0-3 = "ignition-msgs5"
+jsoncpp-1-9-4-1 = "jsoncpp"
+libyaml-0-2-5-1 = "libyaml"
+libzip-1-7-3-2 = "libzip"
+tinyxml2-8-0-0-2 = "tinyxml2"

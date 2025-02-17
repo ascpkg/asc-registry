@@ -1,0 +1,5 @@
+old = "fribidi"
+new = "fribidi-1-0-10-3"
+
+[deps]
+tool-meson-0-58-1-0 = "tool-meson"

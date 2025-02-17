@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/xsimd-7-4-9-1",
+      "version-string": "7.4.9",
+      "port-version": 1
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libqglviewer-2-7-2-4",
+      "version-string": "2.7.2",
+      "port-version": 4
+    }
+  ]
+}

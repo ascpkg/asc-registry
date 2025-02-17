@@ -1,0 +1,10 @@
+{
+  "name": "glui-2019-11-30-1",
+  "version-string": "2019-11-30",
+  "port-version": 1,
+  "description": "GLUI is a GLUT-based C++ user interface library",
+  "homepage": "https://github.com/libglui/glui",
+  "dependencies": [
+    "freeglut"
+  ]
+}

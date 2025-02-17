@@ -1,0 +1,6 @@
+old = "xmsh"
+new = "xmsh-0-5-2-2"
+
+[deps]
+nlohmann-json-3-10-2-0 = "nlohmann-json"
+tl-expected-1-0-0-2 = "tl-expected"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/duilib-2019-4-28-4",
+      "version-string": "2019-4-28",
+      "port-version": 4
+    }
+  ]
+}

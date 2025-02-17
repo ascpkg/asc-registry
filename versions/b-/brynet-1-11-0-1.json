@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/brynet-1-11-0-1",
+      "version-string": "1.11.0",
+      "port-version": 1
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+old = "libxmlmm"
+new = "libxmlmm-0-6-0-1"
+
+[deps]
+libxml2-2-9-12-4 = "libxml2"

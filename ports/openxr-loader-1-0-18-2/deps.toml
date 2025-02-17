@@ -1,0 +1,6 @@
+old = "openxr-loader"
+new = "openxr-loader-1-0-18-2"
+
+[deps]
+jsoncpp-1-9-4-1 = "jsoncpp"
+vulkan-1-1-82-1-2 = "vulkan"

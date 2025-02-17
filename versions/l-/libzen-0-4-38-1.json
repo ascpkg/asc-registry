@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libzen-0-4-38-1",
+      "version-string": "0.4.38",
+      "port-version": 1
+    }
+  ]
+}

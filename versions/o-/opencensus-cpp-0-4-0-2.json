@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/opencensus-cpp-0-4-0-2",
+      "version-string": "0.4.0",
+      "port-version": 2
+    }
+  ]
+}

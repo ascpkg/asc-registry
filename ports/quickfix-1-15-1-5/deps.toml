@@ -1,0 +1,5 @@
+old = "quickfix"
+new = "quickfix-1-15-1-5"
+
+[deps]
+openssl-1-1-1l-1 = "openssl"

@@ -1,0 +1,5 @@
+old = "qt5-androidextras"
+new = "qt5-androidextras-5-15-2-1"
+
+[deps]
+qt5-base-5-15-2-10 = "qt5-base"

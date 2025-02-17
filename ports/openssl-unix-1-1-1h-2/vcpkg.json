@@ -1,0 +1,10 @@
+{
+  "name": "openssl-unix-1-1-1h-2",
+  "version-string": "1.1.1h",
+  "port-version": 2,
+  "description": "Deprecated OpenSSL port",
+  "supports": "!(windows | uwp)",
+  "dependencies": [
+    "openssl"
+  ]
+}

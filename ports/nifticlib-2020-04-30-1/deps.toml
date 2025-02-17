@@ -1,0 +1,5 @@
+old = "nifticlib"
+new = "nifticlib-2020-04-30-1"
+
+[deps]
+zlib-1-2-11-12 = "zlib"

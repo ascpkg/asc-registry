@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/rapidcheck-2020-08-25-1",
+      "version-string": "2020-08-25",
+      "port-version": 1
+    }
+  ]
+}

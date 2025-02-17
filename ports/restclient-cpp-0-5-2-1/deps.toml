@@ -1,0 +1,5 @@
+old = "restclient-cpp"
+new = "restclient-cpp-0-5-2-1"
+
+[deps]
+curl-7-78-0-0 = "curl"

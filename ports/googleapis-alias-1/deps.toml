@@ -1,0 +1,5 @@
+old = "googleapis"
+new = "googleapis-alias-1"
+
+[deps]
+google-cloud-cpp-1-31-1-0 = "google-cloud-cpp"

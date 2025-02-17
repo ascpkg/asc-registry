@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/outcome-2-2-0-release-1",
+      "version-string": "2.2.0-release",
+      "port-version": 1
+    }
+  ]
+}

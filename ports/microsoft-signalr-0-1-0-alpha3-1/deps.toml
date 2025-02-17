@@ -1,0 +1,7 @@
+old = "microsoft-signalr"
+new = "microsoft-signalr-0-1-0-alpha3-1"
+
+[deps]
+cpprestsdk-2-10-18-0 = "cpprestsdk"
+microsoft-signalr-0-1-0-alpha3-1 = "microsoft-signalr"
+msgpack-3-3-0-1 = "msgpack"

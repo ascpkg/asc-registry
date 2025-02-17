@@ -1,0 +1,10 @@
+old = "brpc"
+new = "brpc-0-9-7-1"
+
+[deps]
+gflags-2-2-2-3 = "gflags"
+glog-0-4-0-4 = "glog"
+leveldb-1-22-2 = "leveldb"
+openssl-1-1-1l-1 = "openssl"
+protobuf-3-15-8-4 = "protobuf"
+thrift-0-13-0-1 = "thrift"

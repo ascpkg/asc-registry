@@ -1,0 +1,5 @@
+old = "mstch"
+new = "mstch-1-0-2-3"
+
+[deps]
+boost-variant-1-76-0-0 = "boost-variant"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ecsutil-1-0-7-15-1",
+      "version-string": "1.0.7.15",
+      "port-version": 1
+    }
+  ]
+}

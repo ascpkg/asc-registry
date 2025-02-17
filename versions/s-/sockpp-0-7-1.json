@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/sockpp-0-7-1",
+      "version-string": "0.7",
+      "port-version": 1
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+old = "readline"
+new = "readline-0-1"
+
+[deps]
+readline-win32-5-0-3 = "readline-win32"

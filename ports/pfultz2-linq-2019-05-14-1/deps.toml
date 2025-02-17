@@ -1,0 +1,14 @@
+old = "pfultz2-linq"
+new = "pfultz2-linq-2019-05-14-1"
+
+[deps]
+boost-fusion-1-76-0-0 = "boost-fusion"
+boost-iterator-1-76-0-0 = "boost-iterator"
+boost-mpl-1-76-0-0 = "boost-mpl"
+boost-optional-1-76-0-0 = "boost-optional"
+boost-preprocessor-1-76-0-0 = "boost-preprocessor"
+boost-range-1-76-0-0 = "boost-range"
+boost-static-assert-1-76-0-0 = "boost-static-assert"
+boost-type-traits-1-76-0-0 = "boost-type-traits"
+boost-unordered-1-76-0-0 = "boost-unordered"
+boost-utility-1-76-0-0 = "boost-utility"

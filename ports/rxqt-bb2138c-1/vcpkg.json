@@ -1,0 +1,10 @@
+{
+  "name": "rxqt-bb2138c-1",
+  "version-string": "bb2138c",
+  "port-version": 1,
+  "description": "The Reactive Extensions for Qt.",
+  "homepage": "https://github.com/tetsurom/rxqt",
+  "dependencies": [
+    "rxcpp"
+  ]
+}

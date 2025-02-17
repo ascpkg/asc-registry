@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/rxcpp-4-1-0-2",
+      "version-string": "4.1.0",
+      "port-version": 2
+    }
+  ]
+}

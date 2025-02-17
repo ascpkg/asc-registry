@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/usbmuxd-1-2-235-1",
+      "version-string": "1.2.235",
+      "port-version": 1
+    }
+  ]
+}

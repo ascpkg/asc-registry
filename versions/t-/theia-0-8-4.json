@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/theia-0-8-4",
+      "version-string": "0.8",
+      "port-version": 4
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+old = "libfabric"
+new = "libfabric-1-8-1-2"
+
+[deps]
+networkdirect-sdk-2-0-1-2 = "networkdirect-sdk"

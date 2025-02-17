@@ -1,0 +1,6 @@
+{
+  "name": "libpopt-1-16-14",
+  "version-string": "1.16",
+  "port-version": 14,
+  "description": "Library for parsing command line parameters"
+}

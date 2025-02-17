@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/brotli-1-0-9-2",
+      "version-string": "1.0.9",
+      "port-version": 2
+    }
+  ]
+}

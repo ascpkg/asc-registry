@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/kubazip-0-1-19-1",
+      "version-string": "0.1.19",
+      "port-version": 1
+    }
+  ]
+}

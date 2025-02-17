@@ -1,0 +1,6 @@
+old = "libodb-pgsql"
+new = "libodb-pgsql-2-4-0-5"
+
+[deps]
+libodb-2-4-0-8 = "libodb"
+libpq-12-2-18 = "libpq"

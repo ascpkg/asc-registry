@@ -1,0 +1,6 @@
+{
+  "name": "gherkin-c-2019-10-07-2",
+  "version-string": "2019-10-07",
+  "port-version": 2,
+  "description": "Gherkin parser/compiler in C"
+}

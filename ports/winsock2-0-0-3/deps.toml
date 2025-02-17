@@ -1,0 +1,2 @@
+old = "winsock2"
+new = "winsock2-0-0-3"

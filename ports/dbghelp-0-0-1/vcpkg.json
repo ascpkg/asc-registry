@@ -1,0 +1,7 @@
+{
+  "name": "dbghelp-0-0-1",
+  "version-string": "0.0",
+  "port-version": 1,
+  "description": "Windows Debug Help Library",
+  "supports": "windows"
+}

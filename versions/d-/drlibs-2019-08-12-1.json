@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/drlibs-2019-08-12-1",
+      "version-string": "2019-08-12",
+      "port-version": 1
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ogdf-2019-08-23-2",
+      "version-string": "2019-08-23",
+      "port-version": 2
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/vcpkg-gfortran-3-1",
+      "version-string": "3",
+      "port-version": 1
+    }
+  ]
+}

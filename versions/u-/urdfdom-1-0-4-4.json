@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/urdfdom-1-0-4-4",
+      "version-string": "1.0.4",
+      "port-version": 4
+    }
+  ]
+}

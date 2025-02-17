@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ignition-common3-3-9-0-1",
+      "version-string": "3.9.0",
+      "port-version": 1
+    }
+  ]
+}

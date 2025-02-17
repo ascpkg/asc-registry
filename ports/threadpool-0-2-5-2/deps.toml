@@ -1,0 +1,5 @@
+old = "threadpool"
+new = "threadpool-0-2-5-2"
+
+[deps]
+boost-thread-1-76-0-0 = "boost-thread"

@@ -1,0 +1,7 @@
+old = "urdfdom"
+new = "urdfdom-1-0-4-4"
+
+[deps]
+console-bridge-1-0-1-2 = "console-bridge"
+tinyxml-2-6-2-8 = "tinyxml"
+urdfdom-headers-1-0-5-2 = "urdfdom-headers"

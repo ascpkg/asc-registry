@@ -1,0 +1,5 @@
+old = "soundtouch"
+new = "soundtouch-2-0-0-7"
+
+[deps]
+atlmfc-0-1 = "atlmfc"

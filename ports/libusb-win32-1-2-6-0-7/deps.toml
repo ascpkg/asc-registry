@@ -1,0 +1,2 @@
+old = "libusb-win32"
+new = "libusb-win32-1-2-6-0-7"

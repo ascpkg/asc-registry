@@ -1,0 +1,6 @@
+{
+  "name": "vulkan-memory-allocator-2021-07-07-1",
+  "version-string": "2021-07-07",
+  "port-version": 1,
+  "description": "Easy to integrate Vulkan memory allocation library from GPUOpen"
+}

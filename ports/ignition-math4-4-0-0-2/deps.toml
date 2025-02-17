@@ -1,0 +1,5 @@
+old = "ignition-math4"
+new = "ignition-math4-4-0-0-2"
+
+[deps]
+ignition-cmake0-0-6-2-3 = "ignition-cmake0"

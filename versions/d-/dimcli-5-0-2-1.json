@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/dimcli-5-0-2-1",
+      "version-string": "5.0.2",
+      "port-version": 1
+    }
+  ]
+}

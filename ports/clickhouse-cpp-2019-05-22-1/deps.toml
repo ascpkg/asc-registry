@@ -1,0 +1,6 @@
+old = "clickhouse-cpp"
+new = "clickhouse-cpp-2019-05-22-1"
+
+[deps]
+cityhash-2013-01-08-1 = "cityhash"
+lz4-1-9-3-1 = "lz4"

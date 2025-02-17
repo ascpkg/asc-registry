@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/xeus-0-24-3-1",
+      "version-string": "0.24.3",
+      "port-version": 1
+    }
+  ]
+}

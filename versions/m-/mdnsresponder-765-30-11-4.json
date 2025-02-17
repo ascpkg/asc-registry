@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/mdnsresponder-765-30-11-4",
+      "version-string": "765.30.11",
+      "port-version": 4
+    }
+  ]
+}

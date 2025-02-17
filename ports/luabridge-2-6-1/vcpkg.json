@@ -1,0 +1,6 @@
+{
+  "name": "luabridge-2-6-1",
+  "version-string": "2.6",
+  "port-version": 1,
+  "description": "A lightweight, dependency-free library for binding Lua to C++"
+}

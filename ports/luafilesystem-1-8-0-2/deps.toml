@@ -1,0 +1,5 @@
+old = "luafilesystem"
+new = "luafilesystem-1-8-0-2"
+
+[deps]
+lua-5-4-3-3 = "lua"

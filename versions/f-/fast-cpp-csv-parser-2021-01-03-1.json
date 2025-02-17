@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/fast-cpp-csv-parser-2021-01-03-1",
+      "version-string": "2021-01-03",
+      "port-version": 1
+    }
+  ]
+}

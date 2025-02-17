@@ -1,0 +1,5 @@
+old = "crossguid"
+new = "crossguid-0-2-2-2018-06-16-2"
+
+[deps]
+libuuid-1-0-3-8 = "libuuid"

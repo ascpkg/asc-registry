@@ -1,0 +1,5 @@
+old = "nngpp"
+new = "nngpp-1-3-0-1"
+
+[deps]
+nng-1-4-0-0 = "nng"

@@ -1,0 +1,5 @@
+old = "rxqt"
+new = "rxqt-bb2138c-1"
+
+[deps]
+rxcpp-4-1-0-2 = "rxcpp"

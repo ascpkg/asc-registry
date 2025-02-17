@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/refl-cpp-0-12-0-1",
+      "version-string": "0.12.0",
+      "port-version": 1
+    }
+  ]
+}

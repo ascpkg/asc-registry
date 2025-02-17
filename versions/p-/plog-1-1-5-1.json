@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/plog-1-1-5-1",
+      "version-string": "1.1.5",
+      "port-version": 1
+    }
+  ]
+}

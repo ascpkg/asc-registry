@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libhdfs3-2019-11-05-1",
+      "version-string": "2019-11-05",
+      "port-version": 1
+    }
+  ]
+}

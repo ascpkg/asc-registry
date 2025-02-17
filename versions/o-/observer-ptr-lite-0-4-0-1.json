@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/observer-ptr-lite-0-4-0-1",
+      "version-string": "0.4.0",
+      "port-version": 1
+    }
+  ]
+}

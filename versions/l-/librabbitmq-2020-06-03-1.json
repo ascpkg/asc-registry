@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/librabbitmq-2020-06-03-1",
+      "version-string": "2020-06-03",
+      "port-version": 1
+    }
+  ]
+}

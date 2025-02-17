@@ -1,0 +1,5 @@
+old = "crashpad"
+new = "crashpad-2020-03-18-1"
+
+[deps]
+zlib-1-2-11-12 = "zlib"

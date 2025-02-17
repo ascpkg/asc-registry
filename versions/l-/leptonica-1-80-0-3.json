@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/leptonica-1-80-0-3",
+      "version-string": "1.80.0",
+      "port-version": 3
+    }
+  ]
+}

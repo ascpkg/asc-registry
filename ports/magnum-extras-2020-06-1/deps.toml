@@ -1,0 +1,6 @@
+old = "magnum-extras"
+new = "magnum-extras-2020-06-1"
+
+[deps]
+corrade-2020-06-2 = "corrade"
+magnum-2020-06-7 = "magnum"

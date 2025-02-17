@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/nanogui-2019-09-23-2",
+      "version-string": "2019-09-23",
+      "port-version": 2
+    }
+  ]
+}

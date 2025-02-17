@@ -1,0 +1,5 @@
+old = "clrng"
+new = "clrng-2020-12-01-1"
+
+[deps]
+opencl-2-2-8 = "opencl"

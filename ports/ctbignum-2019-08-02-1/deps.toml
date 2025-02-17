@@ -1,0 +1,5 @@
+old = "ctbignum"
+new = "ctbignum-2019-08-02-1"
+
+[deps]
+boost-1-76-0-0 = "boost"

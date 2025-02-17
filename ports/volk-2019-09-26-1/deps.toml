@@ -1,0 +1,5 @@
+old = "volk"
+new = "volk-2019-09-26-1"
+
+[deps]
+vulkan-1-1-82-1-2 = "vulkan"

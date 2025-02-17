@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/caffe2-0-8-1-4",
+      "version-string": "0.8.1",
+      "port-version": 4
+    }
+  ]
+}

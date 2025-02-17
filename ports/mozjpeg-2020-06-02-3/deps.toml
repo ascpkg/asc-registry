@@ -1,0 +1,5 @@
+old = "mozjpeg"
+new = "mozjpeg-2020-06-02-3"
+
+[deps]
+libpng-1-6-37-15 = "libpng"

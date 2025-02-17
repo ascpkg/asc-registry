@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libtommath-1-2-0-2",
+      "version-string": "1.2.0",
+      "port-version": 2
+    }
+  ]
+}

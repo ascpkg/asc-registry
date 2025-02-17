@@ -1,0 +1,5 @@
+old = "gzip-hpp"
+new = "gzip-hpp-0-1-0-1"
+
+[deps]
+zlib-1-2-11-12 = "zlib"

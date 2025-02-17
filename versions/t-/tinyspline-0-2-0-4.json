@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/tinyspline-0-2-0-4",
+      "version-string": "0.2.0",
+      "port-version": 4
+    }
+  ]
+}

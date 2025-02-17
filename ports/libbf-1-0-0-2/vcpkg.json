@@ -1,0 +1,6 @@
+{
+  "name": "libbf-1-0-0-2",
+  "version-string": "1.0.0",
+  "port-version": 2,
+  "description": "Bloom filters for C++11."
+}

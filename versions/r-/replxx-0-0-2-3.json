@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/replxx-0-0-2-3",
+      "version-string": "0.0.2",
+      "port-version": 3
+    }
+  ]
+}

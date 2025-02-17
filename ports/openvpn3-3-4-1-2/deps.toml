@@ -1,0 +1,7 @@
+old = "openvpn3"
+new = "openvpn3-3-4-1-2"
+
+[deps]
+asio-1-19-2-0 = "asio"
+mbedtls-2-24-0-3 = "mbedtls"
+tap-windows6-9-21-2-0e30f5c-1 = "tap-windows6"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/log4cplus-2-0-5-2",
+      "version-string": "2.0.5",
+      "port-version": 2
+    }
+  ]
+}
