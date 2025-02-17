@@ -29060,6 +29060,10 @@
       "baseline": "2.5.0",
       "port-version": 0
     },
+    "pybind11-2-5-0-1": {
+      "baseline": "2.5.0",
+      "port-version": 1
+    },
     "pystring-1-1-3-0": {
       "baseline": "1.1.3",
       "port-version": 0
