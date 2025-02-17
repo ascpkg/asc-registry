@@ -1,0 +1,7 @@
+old = "nettle"
+new = "nettle-3-7-3-0"
+
+[deps]
+gmp-6-2-1-9 = "gmp"
+nettle-3-7-3-0 = "nettle"
+yasm-1-3-0-3 = "yasm"
