@@ -1,0 +1,16 @@
+old = "boost-locale"
+new = "boost-locale-1-81-0-1"
+
+[deps]
+boost-assert-1-81-0-0 = "boost-assert"
+boost-build-1-81-0-0 = "boost-build"
+boost-config-1-81-0-0 = "boost-config"
+boost-core-1-81-0-0 = "boost-core"
+boost-iterator-1-81-0-0 = "boost-iterator"
+boost-modular-build-helper-1-81-0-0 = "boost-modular-build-helper"
+boost-predef-1-81-0-0 = "boost-predef"
+boost-thread-1-81-0-0 = "boost-thread"
+boost-vcpkg-helpers-1-81-0-0 = "boost-vcpkg-helpers"
+icu-71-1-0 = "icu"
+libiconv-1-17-0 = "libiconv"
+vcpkg-cmake-2022-10-30-0 = "vcpkg-cmake"
