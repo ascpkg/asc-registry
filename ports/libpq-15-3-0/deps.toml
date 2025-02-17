@@ -1,0 +1,18 @@
+old = "libpq"
+new = "libpq-15-3-0"
+
+[deps]
+gettext-0-21-1-1 = "gettext"
+icu-72-1-5 = "icu"
+libpq-15-3-0 = "libpq"
+libxml2-2-10-3-1 = "libxml2"
+libxslt-1-1-37-2 = "libxslt"
+lz4-1-9-4-1 = "lz4"
+openssl-3-1-0-4 = "openssl"
+python3-3-10-7-6 = "python3"
+readline-0-4 = "readline"
+tcl-core-9-0-a1-5 = "tcl"
+vcpkg-cmake-get-vars-2023-03-02-0 = "vcpkg-cmake-get-vars"
+vcpkg-pkgconfig-get-modules-2022-02-10-1 = "vcpkg-pkgconfig-get-modules"
+zlib-1-2-13-0 = "zlib"
+zstd-1-5-5-0 = "zstd"
