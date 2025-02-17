@@ -1,0 +1,8 @@
+old = "cpr"
+new = "cpr-1-10-5-2"
+
+[deps]
+curl-8-6-0-1 = "curl"
+openssl-3-2-1-0 = "openssl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
