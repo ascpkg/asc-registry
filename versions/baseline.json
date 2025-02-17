@@ -1716,6 +1716,10 @@
       "baseline": "",
       "port-version": 0
     },
+    "ragel-6-10-0": {
+      "baseline": "6.10",
+      "port-version": 0
+    },
     "ragel-6-9-0": {
       "baseline": "6.9",
       "port-version": 0
