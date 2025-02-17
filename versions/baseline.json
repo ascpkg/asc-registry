@@ -23192,6 +23192,10 @@
       "baseline": "0.0-5",
       "port-version": 0
     },
+    "opengl-0-0-6-0": {
+      "baseline": "0.0-6",
+      "port-version": 0
+    },
     "opengl-10-0-10240-0-0": {
       "baseline": "10.0.10240.0",
       "port-version": 0
