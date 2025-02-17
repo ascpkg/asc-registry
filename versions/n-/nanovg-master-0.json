@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/nanovg-master-0",
+      "version": "master",
+      "port-version": 0
+    }
+  ]
+}
