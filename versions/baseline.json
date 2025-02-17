@@ -50848,6 +50848,10 @@
       "baseline": "3.5",
       "port-version": 0
     },
+    "hlslpp-3-5-3-0": {
+      "baseline": "3.5.3",
+      "port-version": 0
+    },
     "hnswlib-0-7-0-0": {
       "baseline": "0.7.0",
       "port-version": 0
