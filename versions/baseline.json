@@ -22276,6 +22276,10 @@
       "baseline": "release-1.11",
       "port-version": 0
     },
+    "sokol-2019-09-09-0": {
+      "baseline": "2019-09-09",
+      "port-version": 0
+    },
     "sol-2-18-7-0": {
       "baseline": "2.18.7",
       "port-version": 0
