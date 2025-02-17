@@ -33568,6 +33568,10 @@
       "baseline": "2.3.0",
       "port-version": 5
     },
+    "libidn2-2-3-1-0": {
+      "baseline": "2.3.1",
+      "port-version": 0
+    },
     "libigl-2-1-0-1-0": {
       "baseline": "2.1.0-1",
       "port-version": 0
