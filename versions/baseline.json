@@ -1936,6 +1936,10 @@
       "baseline": "0.18.2-2",
       "port-version": 0
     },
+    "libraw-0-18-2-3-0": {
+      "baseline": "0.18.2-3",
+      "port-version": 0
+    },
     "libsigcpp-2-10-0": {
       "baseline": "2.10",
       "port-version": 0
