@@ -20480,6 +20480,10 @@
       "baseline": "1.6-3",
       "port-version": 0
     },
+    "pmdk-1-7-0": {
+      "baseline": "1.7",
+      "port-version": 0
+    },
     "pmdk-2019-10-10-0": {
       "baseline": "2019-10-10",
       "port-version": 0
