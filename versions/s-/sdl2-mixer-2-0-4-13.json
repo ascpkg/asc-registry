@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/sdl2-mixer-2-0-4-13",
+      "version": "2.0.4",
+      "port-version": 13
+    }
+  ]
+}

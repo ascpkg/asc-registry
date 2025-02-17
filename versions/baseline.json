@@ -47968,6 +47968,10 @@
       "baseline": "2.0.4",
       "port-version": 12
     },
+    "sdl2-mixer-2-0-4-13": {
+      "baseline": "2.0.4",
+      "port-version": 13
+    },
     "sdl2-mixer-2-0-4-2-0": {
       "baseline": "2.0.4-2",
       "port-version": 0
