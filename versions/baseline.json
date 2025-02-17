@@ -1108,6 +1108,10 @@
       "baseline": "2.0.0-1",
       "port-version": 0
     },
+    "dimcli-3-1-1-1-0": {
+      "baseline": "3.1.1-1",
+      "port-version": 0
+    },
     "directxmesh-oct2016-0": {
       "baseline": "oct2016",
       "port-version": 0
