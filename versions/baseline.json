@@ -57608,6 +57608,10 @@
       "baseline": "4.1.0",
       "port-version": 1
     },
+    "winreg-4-1-2-0": {
+      "baseline": "4.1.2",
+      "port-version": 0
+    },
     "winsock2-0-0-0": {
       "baseline": "0.0",
       "port-version": 0
