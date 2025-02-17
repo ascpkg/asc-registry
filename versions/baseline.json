@@ -29664,6 +29664,10 @@
       "baseline": "5.3.0",
       "port-version": 3
     },
+    "hyperscan-5-4-0-0": {
+      "baseline": "5.4.0",
+      "port-version": 0
+    },
     "hypodermic-2-5-2-0": {
       "baseline": "2.5.2",
       "port-version": 0
