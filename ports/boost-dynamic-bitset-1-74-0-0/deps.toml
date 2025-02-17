@@ -3,4 +3,4 @@ new = "boost-dynamic-bitset-1-74-0-0"
 
 [deps]
 boost-core-1-74-0-0 = "boost-core"
-boost-vcpkg-helpers-7-1 = "boost-vcpkg-helpers"
+boost-vcpkg-helpers-7-2 = "boost-vcpkg-helpers"
