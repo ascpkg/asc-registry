@@ -113516,6 +113516,10 @@
       "baseline": "2019-09-26",
       "port-version": 1
     },
+    "vowpal-wabbit-9-10-0-0": {
+      "baseline": "9.10.0",
+      "port-version": 0
+    },
     "vowpal-wabbit-9-5-0-0": {
       "baseline": "9.5.0",
       "port-version": 0
