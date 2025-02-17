@@ -452,6 +452,10 @@
       "baseline": "2.36.3",
       "port-version": 0
     },
+    "gdk-pixbuf-2-36-5-0": {
+      "baseline": "2.36.5",
+      "port-version": 0
+    },
     "geos-3-5-0-0": {
       "baseline": "3.5.0",
       "port-version": 0
