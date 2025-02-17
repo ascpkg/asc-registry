@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libraw-0-21-1-2",
+      "version": "0.21.1",
+      "port-version": 2
+    }
+  ]
+}
