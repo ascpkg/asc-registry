@@ -15572,6 +15572,10 @@
       "baseline": "4.3.1",
       "port-version": 11
     },
+    "ffmpeg-4-3-1-12": {
+      "baseline": "4.3.1",
+      "port-version": 12
+    },
     "ffmpeg-4-3-1-2": {
       "baseline": "4.3.1",
       "port-version": 2
@@ -32387,6 +32391,10 @@
     "pangolin-0-5-11": {
       "baseline": "0.5",
       "port-version": 11
+    },
+    "pangolin-0-5-12": {
+      "baseline": "0.5",
+      "port-version": 12
     },
     "pangolin-0-5-2-0": {
       "baseline": "0.5-2",
