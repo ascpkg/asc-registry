@@ -46032,6 +46032,10 @@
       "baseline": "3.10.0",
       "port-version": 1
     },
+    "gdal-3-10-0-2": {
+      "baseline": "3.10.0",
+      "port-version": 2
+    },
     "gdal-3-2-2-0": {
       "baseline": "3.2.2",
       "port-version": 0
