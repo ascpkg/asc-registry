@@ -118724,6 +118724,10 @@
       "baseline": "2019-07-07",
       "port-version": 5
     },
+    "zyre-2024-04-10-0": {
+      "baseline": "2024-04-10",
+      "port-version": 0
+    },
     "zziplib-0-13-62-0": {
       "baseline": "0.13.62",
       "port-version": 0
