@@ -49648,6 +49648,10 @@
       "baseline": "4.3.0-alpha3",
       "port-version": 0
     },
+    "ktx-4-3-0-beta1-0": {
+      "baseline": "4.3.0-beta1",
+      "port-version": 0
+    },
     "kubazip-0-1-19-0": {
       "baseline": "0.1.19",
       "port-version": 0
