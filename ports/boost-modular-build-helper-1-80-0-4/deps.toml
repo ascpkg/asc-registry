@@ -1,0 +1,7 @@
+old = "boost-modular-build-helper"
+new = "boost-modular-build-helper-1-80-0-4"
+
+[deps]
+boost-uninstall-1-80-0-1 = "boost-uninstall"
+vcpkg-cmake-2022-10-30-0 = "vcpkg-cmake"
+vcpkg-cmake-get-vars-2022-09-04-0 = "vcpkg-cmake-get-vars"
