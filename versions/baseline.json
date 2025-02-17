@@ -54384,6 +54384,10 @@
       "baseline": "2024-08-05",
       "port-version": 0
     },
+    "imageinfo-2024-12-02-0": {
+      "baseline": "2024-12-02",
+      "port-version": 0
+    },
     "imath-3-1-11-0": {
       "baseline": "3.1.11",
       "port-version": 0
