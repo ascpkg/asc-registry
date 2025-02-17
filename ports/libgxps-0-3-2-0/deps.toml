@@ -1,0 +1,13 @@
+old = "libgxps"
+new = "libgxps-0-3-2-0"
+
+[deps]
+cairo-1-17-4-2 = "cairo"
+glib-2-66-4-0 = "glib"
+lcms-2-12-2 = "lcms"
+libarchive-3-5-2-1 = "libarchive"
+libjpeg-turbo-2-0-6-2 = "libjpeg-turbo"
+libpng-1-6-37-15 = "libpng"
+libxslt-1-1-34-1 = "libxslt"
+tiff-4-3-0-1 = "tiff"
+tool-meson-0-58-1-0 = "tool-meson"
