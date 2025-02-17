@@ -1,0 +1,10 @@
+old = "boost-static-string"
+new = "boost-static-string-1-80-0-1"
+
+[deps]
+boost-assert-1-80-0-1 = "boost-assert"
+boost-container-hash-1-80-0-1 = "boost-container-hash"
+boost-static-assert-1-80-0-1 = "boost-static-assert"
+boost-throw-exception-1-80-0-1 = "boost-throw-exception"
+boost-utility-1-80-0-1 = "boost-utility"
+boost-vcpkg-helpers-1-80-0-1 = "boost-vcpkg-helpers"
