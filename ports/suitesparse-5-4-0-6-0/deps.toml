@@ -1,0 +1,6 @@
+old = "suitesparse"
+new = "suitesparse-5-4-0-6-0"
+
+[deps]
+clapack-3-2-1-13-0 = "clapack"
+metis-5-1-0-6-0 = "metis"
