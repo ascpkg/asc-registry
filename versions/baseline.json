@@ -19784,6 +19784,10 @@
       "baseline": "3.18.0",
       "port-version": 20
     },
+    "freeimage-3-18-0-21": {
+      "baseline": "3.18.0",
+      "port-version": 21
+    },
     "freeimage-3-18-0-3-0": {
       "baseline": "3.18.0-3",
       "port-version": 0
