@@ -46588,6 +46588,10 @@
       "baseline": "6.2.0",
       "port-version": 0
     },
+    "qtbase-6-2-0-1": {
+      "baseline": "6.2.0",
+      "port-version": 1
+    },
     "qtcharts-6-1-0-0": {
       "baseline": "6.1.0",
       "port-version": 0
@@ -46971,6 +46975,10 @@
     "qttools-6-2-0-0": {
       "baseline": "6.2.0",
       "port-version": 0
+    },
+    "qttools-6-2-0-1": {
+      "baseline": "6.2.0",
+      "port-version": 1
     },
     "qttranslations-6-1-0-0": {
       "baseline": "6.1.0",
