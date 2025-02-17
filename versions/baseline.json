@@ -2224,6 +2224,10 @@
       "baseline": "0.2.6",
       "port-version": 1
     },
+    "aws-lambda-cpp-0-2-7-0": {
+      "baseline": "0.2.7",
+      "port-version": 0
+    },
     "aws-lambda-cpp-2018-12-06-0": {
       "baseline": "2018-12-06",
       "port-version": 0
