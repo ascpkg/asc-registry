@@ -42156,6 +42156,10 @@
       "baseline": "5.7.2.4",
       "port-version": 0
     },
+    "sobjectizer-5-7-2-5-0": {
+      "baseline": "5.7.2.5",
+      "port-version": 0
+    },
     "soci-0": {
       "baseline": "",
       "port-version": 0
