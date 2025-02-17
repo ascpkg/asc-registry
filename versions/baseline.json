@@ -25576,6 +25576,10 @@
       "baseline": "2021-10-17",
       "port-version": 1
     },
+    "ftxui-3-0-0-0": {
+      "baseline": "3.0.0",
+      "port-version": 0
+    },
     "function2-4-0-0-0": {
       "baseline": "4.0.0",
       "port-version": 0
