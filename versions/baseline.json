@@ -14560,6 +14560,10 @@
       "baseline": "6.0-2",
       "port-version": 0
     },
+    "fuzzylite-6-0-3": {
+      "baseline": "6.0",
+      "port-version": 3
+    },
     "g2o-20170730-git-0": {
       "baseline": "20170730_git",
       "port-version": 0
