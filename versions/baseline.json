@@ -23212,6 +23212,10 @@
       "baseline": "3.0.0",
       "port-version": 0
     },
+    "cyclonedds-0-10-2-0": {
+      "baseline": "0.10.2",
+      "port-version": 0
+    },
     "czmq-2019-06-10-0": {
       "baseline": "2019-06-10",
       "port-version": 0
