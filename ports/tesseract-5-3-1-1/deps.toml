@@ -1,0 +1,13 @@
+old = "tesseract"
+new = "tesseract-5-3-1-1"
+
+[deps]
+cairo-1-17-8-3 = "cairo"
+curl-8-1-2-1 = "curl"
+fontconfig-2-14-2-0 = "fontconfig"
+icu-73-1-0 = "icu"
+leptonica-1-83-1-0 = "leptonica"
+libarchive-3-6-2-0 = "libarchive"
+pango-1-50-14-1 = "pango"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
