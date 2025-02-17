@@ -49336,6 +49336,10 @@
       "baseline": "2.7.18",
       "port-version": 1
     },
+    "python2-2-7-18-2": {
+      "baseline": "2.7.18",
+      "port-version": 2
+    },
     "python3-3-10-0-0": {
       "baseline": "3.10.0",
       "port-version": 0
@@ -49375,6 +49379,10 @@
     "python3-3-10-1-4": {
       "baseline": "3.10.1",
       "port-version": 4
+    },
+    "python3-3-10-1-5": {
+      "baseline": "3.10.1",
+      "port-version": 5
     },
     "python3-3-6-1-0": {
       "baseline": "3.6.1",
