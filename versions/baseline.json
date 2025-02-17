@@ -37832,6 +37832,10 @@
       "baseline": "2020-09-14",
       "port-version": 1
     },
+    "luasocket-2020-09-14-2": {
+      "baseline": "2020-09-14",
+      "port-version": 2
+    },
     "lv2-1-18-0-0": {
       "baseline": "1.18.0",
       "port-version": 0
