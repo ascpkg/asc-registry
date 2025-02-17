@@ -114404,6 +114404,10 @@
       "baseline": "4.0.0",
       "port-version": 2
     },
+    "zydis-4-1-0-0": {
+      "baseline": "4.1.0",
+      "port-version": 0
+    },
     "zyre-2019-07-07-0": {
       "baseline": "2019-07-07",
       "port-version": 0
