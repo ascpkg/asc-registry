@@ -87784,6 +87784,10 @@
       "baseline": "5.3.0",
       "port-version": 0
     },
+    "physx-5-3-0-1": {
+      "baseline": "5.3.0",
+      "port-version": 1
+    },
     "physx-commit-624f2cb6c0392013d54b235d9072a49d01c3cb6c-0": {
       "baseline": "commit-624f2cb6c0392013d54b235d9072a49d01c3cb6c",
       "port-version": 0
