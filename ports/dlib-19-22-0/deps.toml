@@ -1,0 +1,14 @@
+old = "dlib"
+new = "dlib-19-22-0"
+
+[deps]
+blas-1-1 = "blas"
+cuda-10-1-8 = "cuda"
+cudnn-7-6-5-4 = "cudnn"
+fftw3-3-3-10-2 = "fftw3"
+lapack-3-2 = "lapack"
+libjpeg-turbo-2-0-6-2 = "libjpeg-turbo"
+libpng-1-6-37-16 = "libpng"
+sqlite3-3-37-0-0 = "sqlite3"
+vcpkg-cmake-2021-12-05-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-01-0 = "vcpkg-cmake-config"
