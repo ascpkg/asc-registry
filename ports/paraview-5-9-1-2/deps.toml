@@ -1,0 +1,18 @@
+old = "paraview"
+new = "paraview-5-9-1-2"
+
+[deps]
+boost-algorithm-1-79-0-0 = "boost-algorithm"
+boost-core-1-79-0-0 = "boost-core"
+boost-format-1-79-0-0 = "boost-format"
+cgns-4-3-0-0 = "cgns"
+cuda-10-1-10 = "cuda"
+ffmpeg-4-4-1-13 = "ffmpeg"
+gdal-3-4-3-0 = "gdal"
+hdf5-1-12-1-4 = "hdf5"
+laszip-3-4-3-1 = "laszip"
+pdal-2-4-0-0 = "pdal"
+protobuf-3-19-4-0 = "protobuf"
+vcpkg-cmake-2022-05-10-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"
+vtk-9-0-3-pv5-9-1-10 = "vtk"
