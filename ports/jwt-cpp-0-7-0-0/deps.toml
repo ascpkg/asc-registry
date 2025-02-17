@@ -1,0 +1,5 @@
+old = "jwt-cpp"
+new = "jwt-cpp-0-7-0-0"
+
+[deps]
+picojson-1-3-0-3 = "picojson"
