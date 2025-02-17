@@ -28960,6 +28960,10 @@
       "baseline": "0.4.1",
       "port-version": 0
     },
+    "xmsh-0-5-2-0": {
+      "baseline": "0.5.2",
+      "port-version": 0
+    },
     "xorstr-2019-08-10-0": {
       "baseline": "2019-08-10",
       "port-version": 0
