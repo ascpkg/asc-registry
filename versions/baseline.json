@@ -17592,6 +17592,10 @@
       "baseline": "4.4",
       "port-version": 13
     },
+    "ffmpeg-4-4-14": {
+      "baseline": "4.4",
+      "port-version": 14
+    },
     "ffmpeg-4-4-2": {
       "baseline": "4.4",
       "port-version": 2
@@ -34784,6 +34788,10 @@
       "baseline": "2.4.13.7",
       "port-version": 5
     },
+    "opencv2-2-4-13-7-6": {
+      "baseline": "2.4.13.7",
+      "port-version": 6
+    },
     "opencv3-3-4-10-0": {
       "baseline": "3.4.10",
       "port-version": 0
@@ -34823,6 +34831,10 @@
     "opencv3-3-4-14-1": {
       "baseline": "3.4.14",
       "port-version": 1
+    },
+    "opencv3-3-4-14-2": {
+      "baseline": "3.4.14",
+      "port-version": 2
     },
     "opencv3-3-4-3-10-0": {
       "baseline": "3.4.3-10",
@@ -34923,6 +34935,10 @@
     "opencv4-4-5-2-0": {
       "baseline": "4.5.2",
       "port-version": 0
+    },
+    "opencv4-4-5-2-1": {
+      "baseline": "4.5.2",
+      "port-version": 1
     },
     "opendnp3-2-3-2-0": {
       "baseline": "2.3.2",
