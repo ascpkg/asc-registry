@@ -1,0 +1,9 @@
+old = "small-gicp"
+new = "small-gicp-1-0-0-0"
+
+[deps]
+eigen3-3-4-0-4 = "eigen3"
+pcl-1-14-1-1 = "pcl"
+tbb-2021-13-0-0 = "tbb"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
