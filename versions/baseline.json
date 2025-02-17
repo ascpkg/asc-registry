@@ -120188,6 +120188,10 @@
       "baseline": "8.2.1",
       "port-version": 0
     },
+    "wcslib-8-4-0": {
+      "baseline": "8.4",
+      "port-version": 0
+    },
     "websocketpp-0-7-0-0": {
       "baseline": "0.7.0",
       "port-version": 0
