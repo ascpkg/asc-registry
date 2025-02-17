@@ -4912,6 +4912,10 @@
       "baseline": "2.1.0",
       "port-version": 0
     },
+    "cppgraphqlgen-3-0-0-pre-0": {
+      "baseline": "3.0.0-pre",
+      "port-version": 0
+    },
     "cpprestsdk-2-10-0-0": {
       "baseline": "2.10.0",
       "port-version": 0
@@ -13332,6 +13336,10 @@
       "baseline": "3.6",
       "port-version": 0
     },
+    "pegtl-2-2-8-0-0": {
+      "baseline": "2.8.0",
+      "port-version": 0
+    },
     "pegtl-2-6-0-1-0": {
       "baseline": "2.6.0-1",
       "port-version": 0
@@ -13342,6 +13350,10 @@
     },
     "pegtl-2-8-0-0": {
       "baseline": "2.8.0",
+      "port-version": 0
+    },
+    "pegtl-3-0-0-pre-0": {
+      "baseline": "3.0.0-pre",
       "port-version": 0
     },
     "physfs--0": {
