@@ -6980,6 +6980,10 @@
       "baseline": "8.0.1-6",
       "port-version": 0
     },
+    "vtk-8-1-0-0": {
+      "baseline": "8.1.0",
+      "port-version": 0
+    },
     "websocketpp-0-7-0-0": {
       "baseline": "0.7.0",
       "port-version": 0
