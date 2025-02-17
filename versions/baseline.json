@@ -116,6 +116,10 @@
       "baseline": "2018-09-18-3",
       "port-version": 0
     },
+    "abseil-2018-10-11-0": {
+      "baseline": "2018-10-11",
+      "port-version": 0
+    },
     "abseil-2018-2-23-0": {
       "baseline": "2018-2-23",
       "port-version": 0
@@ -334,6 +338,10 @@
     },
     "args-2018-06-28-0": {
       "baseline": "2018-06-28",
+      "port-version": 0
+    },
+    "args-2018-10-11-0": {
+      "baseline": "2018-10-11",
       "port-version": 0
     },
     "args-d8905de-0": {
@@ -642,6 +650,10 @@
     },
     "aws-sdk-cpp-1-6-12-1-0": {
       "baseline": "1.6.12-1",
+      "port-version": 0
+    },
+    "aws-sdk-cpp-1-6-29-0": {
+      "baseline": "1.6.29",
       "port-version": 0
     },
     "azmq-1-0-2-0": {
@@ -3208,6 +3220,10 @@
       "baseline": "2.4.0",
       "port-version": 0
     },
+    "catch2-2-4-1-0": {
+      "baseline": "2.4.1",
+      "port-version": 0
+    },
     "cccapstone-9b4128ee1153e78288a1b5433e2c06a0d47a4c4e-0": {
       "baseline": "9b4128ee1153e78288a1b5433e2c06a0d47a4c4e",
       "port-version": 0
@@ -3396,6 +3412,10 @@
       "baseline": "1.11.1-1",
       "port-version": 0
     },
+    "chakracore-1-11-2-0": {
+      "baseline": "1.11.2",
+      "port-version": 0
+    },
     "chakracore-1-2-0-0-0": {
       "baseline": "1.2.0.0",
       "port-version": 0
@@ -3498,6 +3518,10 @@
     },
     "cimg-2-3-6-0": {
       "baseline": "2.3.6",
+      "port-version": 0
+    },
+    "cimg-2-4-0-0": {
+      "baseline": "2.4.0",
       "port-version": 0
     },
     "cimg-220-0": {
@@ -4752,6 +4776,10 @@
       "baseline": "2018-09-18",
       "port-version": 0
     },
+    "exiv2-2018-10-11-0": {
+      "baseline": "2018-10-11",
+      "port-version": 0
+    },
     "exiv2-327b3f6c4de4ffda82818367fc870640d2ae8820-0": {
       "baseline": "327b3f6c4de4ffda82818367fc870640d2ae8820",
       "port-version": 0
@@ -4814,6 +4842,10 @@
     },
     "exprtk-2018-09-30-9836f21-0": {
       "baseline": "2018.09.30-9836f21",
+      "port-version": 0
+    },
+    "exprtk-2018-10-11-0": {
+      "baseline": "2018-10-11",
       "port-version": 0
     },
     "fadbad-2-1-0-0": {
@@ -4938,6 +4970,10 @@
     },
     "fftw3-3-3-7-2-0": {
       "baseline": "3.3.7-2",
+      "port-version": 0
+    },
+    "fizz-2018-10-15-00-0": {
+      "baseline": "2018.10.15.00",
       "port-version": 0
     },
     "flann-1-9-1-0": {
@@ -5104,6 +5140,10 @@
       "baseline": "5.2.0",
       "port-version": 0
     },
+    "fmt-5-2-1-0": {
+      "baseline": "5.2.1",
+      "port-version": 0
+    },
     "folly-2017-10-02-00-0": {
       "baseline": "2017.10.02.00",
       "port-version": 0
@@ -5170,6 +5210,10 @@
     },
     "folly-2018-09-17-00-0": {
       "baseline": "2018.09.17.00",
+      "port-version": 0
+    },
+    "folly-2018-10-08-00-0": {
+      "baseline": "2018.10.08.00",
       "port-version": 0
     },
     "folly-v2017-05-08-00-0": {
@@ -5262,6 +5306,10 @@
     },
     "forest-9-0-5-0": {
       "baseline": "9.0.5",
+      "port-version": 0
+    },
+    "forest-9-0-6-0": {
+      "baseline": "9.0.6",
       "port-version": 0
     },
     "freeglut-3-0-0-0": {
@@ -6744,6 +6792,10 @@
       "baseline": "2018-09-18",
       "port-version": 0
     },
+    "jsonnet-2018-10-11-0": {
+      "baseline": "2018-10-11",
+      "port-version": 0
+    },
     "jxrlib-1-1-0": {
       "baseline": "1.1",
       "port-version": 0
@@ -7298,6 +7350,10 @@
     },
     "liblinear-2-20-1-0": {
       "baseline": "2.20-1",
+      "port-version": 0
+    },
+    "liblinear-221-0": {
+      "baseline": "221",
       "port-version": 0
     },
     "liblo-0-29-1-0": {
@@ -8018,6 +8074,10 @@
     },
     "libuv-1-23-0-0": {
       "baseline": "1.23.0",
+      "port-version": 0
+    },
+    "libuv-1-23-2-0": {
+      "baseline": "1.23.2",
       "port-version": 0
     },
     "libuv-1-9-1-0": {
@@ -9558,6 +9618,10 @@
     },
     "openimageio-1-8-10-0": {
       "baseline": "1.8.10",
+      "port-version": 0
+    },
+    "openimageio-1-8-15-0": {
+      "baseline": "1.8.15",
       "port-version": 0
     },
     "openimageio-1-8-9-0": {
@@ -11204,6 +11268,10 @@
       "baseline": "2018-09-18",
       "port-version": 0
     },
+    "re2-2018-10-11-0": {
+      "baseline": "2018-10-11",
+      "port-version": 0
+    },
     "readerwriterqueue-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
@@ -11490,6 +11558,10 @@
     },
     "rs-core-lib-2018-09-18-0": {
       "baseline": "2018-09-18",
+      "port-version": 0
+    },
+    "rs-core-lib-2018-10-11-0": {
+      "baseline": "2018-10-11",
       "port-version": 0
     },
     "rs-core-lib-commit-1ed2dadbda3977b13e5e83cc1f3eeca76b36ebe5-0": {
@@ -12176,6 +12248,10 @@
       "baseline": "1.0.0",
       "port-version": 0
     },
+    "spdlog-1-2-0-0": {
+      "baseline": "1.2.0",
+      "port-version": 0
+    },
     "spdlog-1-x-2018-07-04-0": {
       "baseline": "1.x-2018-07.04",
       "port-version": 0
@@ -12516,6 +12592,10 @@
       "baseline": "2018_u5-4",
       "port-version": 0
     },
+    "tbb-2018-u6-0": {
+      "baseline": "2018_u6",
+      "port-version": 0
+    },
     "tclap-1-2-1-0": {
       "baseline": "1.2.1",
       "port-version": 0
@@ -12718,6 +12798,10 @@
     },
     "thrift-2018-09-18-0": {
       "baseline": "2018-09-18",
+      "port-version": 0
+    },
+    "thrift-2018-10-11-0": {
+      "baseline": "2018-10-11",
       "port-version": 0
     },
     "thrift-latest-0": {
@@ -12968,6 +13052,10 @@
       "baseline": "2018-09-18",
       "port-version": 0
     },
+    "unicorn-2018-10-11-0": {
+      "baseline": "2018-10-11",
+      "port-version": 0
+    },
     "unicorn-lib-2018-02-25-0": {
       "baseline": "2018-02-25",
       "port-version": 0
@@ -13018,6 +13106,10 @@
     },
     "unicorn-lib-2018-09-18-0": {
       "baseline": "2018-09-18",
+      "port-version": 0
+    },
+    "unicorn-lib-2018-10-11-0": {
+      "baseline": "2018-10-11",
       "port-version": 0
     },
     "unicorn-lib-commit-3ffa7fe69a1d0c37fb52a4af61380c5fd84fa5aa-0": {
@@ -13262,6 +13354,10 @@
     },
     "vxl-20180414-7a130cf-1-0": {
       "baseline": "20180414-7a130cf-1",
+      "port-version": 0
+    },
+    "wangle-2018-07-30-00-2-0": {
+      "baseline": "2018.07.30.00-2",
       "port-version": 0
     },
     "wangle-v2018-07-30-00-1-0": {
@@ -13528,6 +13624,10 @@
       "baseline": "1.0-1",
       "port-version": 0
     },
+    "yoga-1-10-0-0": {
+      "baseline": "1.10.0",
+      "port-version": 0
+    },
     "yoga-1-7-0-0": {
       "baseline": "1.7.0",
       "port-version": 0
@@ -13618,6 +13718,10 @@
     },
     "zeromq-2018-09-18-0": {
       "baseline": "2018-09-18",
+      "port-version": 0
+    },
+    "zeromq-2018-10-11-0": {
+      "baseline": "2018-10-11",
       "port-version": 0
     },
     "zeromq-4-2-0-0": {
