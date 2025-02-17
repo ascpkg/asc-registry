@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libxdf-0-99-8-0",
+      "version": "0.99.8",
+      "port-version": 0
+    }
+  ]
+}
