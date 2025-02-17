@@ -95032,6 +95032,10 @@
       "baseline": "2.0.0-rc9",
       "port-version": 0
     },
+    "tinyorm-0-36-5-0": {
+      "baseline": "0.36.5",
+      "port-version": 0
+    },
     "tinyply-2-3-4-0": {
       "baseline": "2.3.4",
       "port-version": 0
