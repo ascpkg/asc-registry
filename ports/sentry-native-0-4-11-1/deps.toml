@@ -1,0 +1,6 @@
+old = "sentry-native"
+new = "sentry-native-0-4-11-1"
+
+[deps]
+curl-7-74-0-8 = "curl"
+zlib-1-2-11-11 = "zlib"

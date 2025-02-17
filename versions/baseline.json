@@ -43904,6 +43904,10 @@
       "baseline": "0.4.11",
       "port-version": 0
     },
+    "sentry-native-0-4-11-1": {
+      "baseline": "0.4.11",
+      "port-version": 1
+    },
     "sentry-native-0-4-2-2": {
       "baseline": "0.4.2",
       "port-version": 2
@@ -50579,6 +50583,10 @@
     "zlib-1-2-11-10": {
       "baseline": "1.2.11",
       "port-version": 10
+    },
+    "zlib-1-2-11-11": {
+      "baseline": "1.2.11",
+      "port-version": 11
     },
     "zlib-1-2-11-2-0": {
       "baseline": "1.2.11-2",
