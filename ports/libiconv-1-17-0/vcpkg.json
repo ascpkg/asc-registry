@@ -1,0 +1,6 @@
+{
+  "name": "libiconv-1-17-0",
+  "version": "1.17",
+  "description": "GNU Unicode text conversion",
+  "homepage": "https://www.gnu.org/software/libiconv/"
+}
