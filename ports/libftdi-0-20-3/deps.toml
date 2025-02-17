@@ -1,0 +1,5 @@
+old = "libftdi"
+new = "libftdi-0-20-3"
+
+[deps]
+libusb-win32-1-2-6-0-7 = "libusb-win32"
