@@ -28900,6 +28900,10 @@
       "baseline": "3.2.0",
       "port-version": 3
     },
+    "harfbuzz-4-2-0-0": {
+      "baseline": "4.2.0",
+      "port-version": 0
+    },
     "hash-library-8-0": {
       "baseline": "8",
       "port-version": 0
