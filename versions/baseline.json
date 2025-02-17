@@ -5520,6 +5520,10 @@
       "baseline": "2022-05-02",
       "port-version": 0
     },
+    "blend2d-2022-12-31-0": {
+      "baseline": "2022-12-31",
+      "port-version": 0
+    },
     "blend2d-beta-2019-04-30-0": {
       "baseline": "beta_2019-04-30",
       "port-version": 0
