@@ -15840,6 +15840,10 @@
       "baseline": "1.0-3",
       "port-version": 0
     },
+    "fastlz-2021-05-10-0": {
+      "baseline": "2021-05-10",
+      "port-version": 0
+    },
     "fastrtps-1-5-0-0": {
       "baseline": "1.5.0",
       "port-version": 0
