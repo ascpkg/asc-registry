@@ -50812,6 +50812,10 @@
       "baseline": "0.23.90",
       "port-version": 2
     },
+    "mchehab-zbar-0-23-90-3": {
+      "baseline": "0.23.90",
+      "port-version": 3
+    },
     "mcpp-2-7-2-14-0": {
       "baseline": "2.7.2.14",
       "port-version": 0
