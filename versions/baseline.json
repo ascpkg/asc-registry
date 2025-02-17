@@ -24980,6 +24980,10 @@
       "baseline": "1.5.2",
       "port-version": 3
     },
+    "clblast-1-6-1-0": {
+      "baseline": "1.6.1",
+      "port-version": 0
+    },
     "clfft-2-12-2-0": {
       "baseline": "2.12.2",
       "port-version": 0
