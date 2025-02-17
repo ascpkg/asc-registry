@@ -72820,6 +72820,10 @@
       "baseline": "1.39.1",
       "port-version": 0
     },
+    "materialx-1-39-1-1": {
+      "baseline": "1.39.1",
+      "port-version": 1
+    },
     "mathc-2019-09-29-0": {
       "baseline": "2019-09-29",
       "port-version": 0
