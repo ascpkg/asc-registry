@@ -10556,6 +10556,10 @@
       "baseline": "2018.08.05",
       "port-version": 0
     },
+    "live555-2019-03-06-0": {
+      "baseline": "2019.03.06",
+      "port-version": 0
+    },
     "live555-latest-0": {
       "baseline": "latest",
       "port-version": 0
