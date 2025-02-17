@@ -46160,6 +46160,10 @@
       "baseline": "2.24.0",
       "port-version": 0
     },
+    "google-cloud-cpp-2-25-0-0": {
+      "baseline": "2.25.0",
+      "port-version": 0
+    },
     "google-cloud-cpp-2-3-0-0": {
       "baseline": "2.3.0",
       "port-version": 0
