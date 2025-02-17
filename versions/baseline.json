@@ -56300,6 +56300,10 @@
       "baseline": "5.45",
       "port-version": 1
     },
+    "libmagic-5-45-2": {
+      "baseline": "5.45",
+      "port-version": 2
+    },
     "libmariadb-2-3-1-0": {
       "baseline": "2.3.1",
       "port-version": 0
