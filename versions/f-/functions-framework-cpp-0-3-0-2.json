@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/functions-framework-cpp-0-3-0-2",
+      "version": "0.3.0",
+      "port-version": 2
+    }
+  ]
+}
