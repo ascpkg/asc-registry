@@ -1,0 +1,9 @@
+old = "ffmpeg"
+new = "ffmpeg-3-3-3-5-0"
+
+[deps]
+ffmpeg-3-3-3-5-0 = "ffmpeg"
+liblzma-5-2-3-2-0 = "liblzma"
+opencl-2-2-2017-07-18-0 = "opencl"
+openssl-1-0-2n-3-0 = "openssl"
+x264-152-e9a5903edf8ca59-0 = "x264"
