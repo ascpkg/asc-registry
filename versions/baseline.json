@@ -45264,6 +45264,10 @@
       "baseline": "4.33",
       "port-version": 0
     },
+    "nspr-4-33-1": {
+      "baseline": "4.33",
+      "port-version": 1
+    },
     "nss-3-75-0": {
       "baseline": "3.75",
       "port-version": 0
