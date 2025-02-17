@@ -3,7 +3,7 @@ new = "ceres-1-12-0-2-0"
 
 [deps]
 clapack-3-2-1-0 = "clapack"
-eigen3-3-3-3-5-0 = "eigen3"
+eigen3-3-3-4-0 = "eigen3"
 gflags-2-2-0-4-0 = "gflags"
 glog-0-3-5-0 = "glog"
-suitesparse-4-5-5-2-0 = "suitesparse"
+suitesparse-4-5-5-1-0 = "suitesparse"
