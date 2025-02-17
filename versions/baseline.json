@@ -50116,6 +50116,10 @@
       "baseline": "1.22.2",
       "port-version": 3
     },
+    "openal-soft-1-22-2-4": {
+      "baseline": "1.22.2",
+      "port-version": 4
+    },
     "openblas-0-2-20-2-0": {
       "baseline": "0.2.20-2",
       "port-version": 0
