@@ -1,0 +1,8 @@
+old = "velodyne-decoder"
+new = "velodyne-decoder-3-0-0-1"
+
+[deps]
+ms-gsl-4-0-0-1 = "ms-gsl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+yaml-cpp-0-8-0-1 = "yaml-cpp"

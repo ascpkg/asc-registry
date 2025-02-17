@@ -99704,6 +99704,10 @@
       "baseline": "0.8",
       "port-version": 0
     },
+    "theia-0-8-10": {
+      "baseline": "0.8",
+      "port-version": 10
+    },
     "theia-0-8-2-0": {
       "baseline": "0.8-2",
       "port-version": 0
@@ -103919,6 +103923,10 @@
     "velodyne-decoder-3-0-0-0": {
       "baseline": "3.0.0",
       "port-version": 0
+    },
+    "velodyne-decoder-3-0-0-1": {
+      "baseline": "3.0.0",
+      "port-version": 1
     },
     "verdict-1-4-0-0": {
       "baseline": "1.4.0",
