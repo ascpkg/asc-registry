@@ -860,6 +860,10 @@
       "baseline": "2020-01-13-1",
       "port-version": 0
     },
+    "anyrpc-2020-01-13-2": {
+      "baseline": "2020-01-13",
+      "port-version": 2
+    },
     "apr-1-5-2-0": {
       "baseline": "1.5.2",
       "port-version": 0
@@ -28219,6 +28223,10 @@
     "ois-1-5-1-0": {
       "baseline": "1.5-1",
       "port-version": 0
+    },
+    "ois-1-5-2": {
+      "baseline": "1.5",
+      "port-version": 2
     },
     "ompl-1-4-1-2-0": {
       "baseline": "1.4.1-2",
