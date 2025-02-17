@@ -20064,6 +20064,10 @@
       "baseline": "4.4",
       "port-version": 1
     },
+    "ffmpeg-4-4-1-0": {
+      "baseline": "4.4.1",
+      "port-version": 0
+    },
     "ffmpeg-4-4-10": {
       "baseline": "4.4",
       "port-version": 10
