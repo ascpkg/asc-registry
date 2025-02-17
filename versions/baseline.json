@@ -4556,11 +4556,19 @@
       "baseline": "5.9.2-0",
       "port-version": 0
     },
+    "qt5gamepad-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
     "qt5imageformats-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
     },
     "qt5multimedia-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5scxml-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
     },
@@ -4577,6 +4585,14 @@
       "port-version": 0
     },
     "qt5tools-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5virtualkeyboard-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5websockets-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
     },
