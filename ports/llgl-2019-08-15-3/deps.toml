@@ -1,0 +1,5 @@
+old = "llgl"
+new = "llgl-2019-08-15-3"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

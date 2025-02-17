@@ -42328,6 +42328,10 @@
       "baseline": "2019-07-14",
       "port-version": 2
     },
+    "libconfuse-2019-07-14-3": {
+      "baseline": "2019-07-14",
+      "port-version": 3
+    },
     "libcopp-1-1-0-1-0": {
       "baseline": "1.1.0-1",
       "port-version": 0
@@ -42431,6 +42435,10 @@
     "libcroco-0-6-13-3": {
       "baseline": "0.6.13",
       "port-version": 3
+    },
+    "libcroco-0-6-13-4": {
+      "baseline": "0.6.13",
+      "port-version": 4
     },
     "libcsv-3-0-3-0": {
       "baseline": "3.0.3",
@@ -42712,6 +42720,10 @@
       "baseline": "1.2.6",
       "port-version": 0
     },
+    "libebur128-1-2-6-1": {
+      "baseline": "1.2.6",
+      "port-version": 1
+    },
     "libenvpp-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
@@ -42903,6 +42915,10 @@
     "libevhtp-1-2-18-3": {
       "baseline": "1.2.18",
       "port-version": 3
+    },
+    "libevhtp-1-2-18-4": {
+      "baseline": "1.2.18",
+      "port-version": 4
     },
     "libexif-0-6-21-1-0": {
       "baseline": "0.6.21-1",
@@ -43231,6 +43247,10 @@
     "libftdi-0-20-3": {
       "baseline": "0.20",
       "port-version": 3
+    },
+    "libftdi-0-20-4": {
+      "baseline": "0.20",
+      "port-version": 4
     },
     "libftdi1-1-4-0": {
       "baseline": "1.4",
@@ -43652,6 +43672,10 @@
       "baseline": "1.0.8",
       "port-version": 3
     },
+    "libgta-1-0-8-4": {
+      "baseline": "1.0.8",
+      "port-version": 4
+    },
     "libguarded-2019-08-27-0": {
       "baseline": "2019-08-27",
       "port-version": 0
@@ -43751,6 +43775,10 @@
     "libhdfs3-2019-11-05-3": {
       "baseline": "2019-11-05",
       "port-version": 3
+    },
+    "libhdfs3-2019-11-05-4": {
+      "baseline": "2019-11-05",
+      "port-version": 4
     },
     "libheif-1-10-0-0": {
       "baseline": "1.10.0",
@@ -44624,6 +44652,10 @@
       "baseline": "2019-06-13",
       "port-version": 3
     },
+    "liblemon-2019-06-13-4": {
+      "baseline": "2019-06-13",
+      "port-version": 4
+    },
     "liblinear-2-20-0": {
       "baseline": "2.20",
       "port-version": 0
@@ -44671,6 +44703,10 @@
     "liblo-0-31-2": {
       "baseline": "0.31",
       "port-version": 2
+    },
+    "liblo-0-31-3": {
+      "baseline": "0.31",
+      "port-version": 3
     },
     "liblrc-1-0-0-0": {
       "baseline": "1.0.0",
@@ -44811,6 +44847,10 @@
     "libmad-0-15-1-1-0": {
       "baseline": "0.15.1-1",
       "port-version": 0
+    },
+    "libmad-0-15-1-10": {
+      "baseline": "0.15.1",
+      "port-version": 10
     },
     "libmad-0-15-1-2-0": {
       "baseline": "0.15.1-2",
@@ -44992,6 +45032,10 @@
       "baseline": "1.4.3",
       "port-version": 1
     },
+    "libmaxminddb-1-4-3-2": {
+      "baseline": "1.4.3",
+      "port-version": 2
+    },
     "libmediainfo-20-03-0": {
       "baseline": "20.03",
       "port-version": 0
@@ -45168,6 +45212,10 @@
       "baseline": "3.1.6",
       "port-version": 3
     },
+    "libmodbus-3-1-6-4": {
+      "baseline": "3.1.6",
+      "port-version": 4
+    },
     "libmodman-2-0-1-0": {
       "baseline": "2.0.1",
       "port-version": 0
@@ -45272,6 +45320,10 @@
       "baseline": "0.5.1",
       "port-version": 2
     },
+    "libmpeg2-0-5-1-3": {
+      "baseline": "0.5.1",
+      "port-version": 3
+    },
     "libmspack-0-10-1-0": {
       "baseline": "0.10.1",
       "port-version": 0
@@ -45291,6 +45343,10 @@
     "libmspack-0-10-1-4": {
       "baseline": "0.10.1",
       "port-version": 4
+    },
+    "libmspack-0-10-1-5": {
+      "baseline": "0.10.1",
+      "port-version": 5
     },
     "libmspack-0-6-0": {
       "baseline": "0.6",
@@ -45548,6 +45604,10 @@
       "baseline": "2.4.0-1",
       "port-version": 0
     },
+    "libodb-2-4-0-10": {
+      "baseline": "2.4.0",
+      "port-version": 10
+    },
     "libodb-2-4-0-2-0": {
       "baseline": "2.4.0-2",
       "port-version": 0
@@ -45604,6 +45664,10 @@
       "baseline": "2.4.0",
       "port-version": 6
     },
+    "libodb-boost-2-4-0-7": {
+      "baseline": "2.4.0",
+      "port-version": 7
+    },
     "libodb-mysql-2-4-0-1-0": {
       "baseline": "2.4.0-1",
       "port-version": 0
@@ -45611,6 +45675,10 @@
     "libodb-mysql-2-4-0-10": {
       "baseline": "2.4.0",
       "port-version": 10
+    },
+    "libodb-mysql-2-4-0-11": {
+      "baseline": "2.4.0",
+      "port-version": 11
     },
     "libodb-mysql-2-4-0-2-0": {
       "baseline": "2.4.0-2",
@@ -45687,6 +45755,10 @@
     "libodb-sqlite-2-4-0-10": {
       "baseline": "2.4.0",
       "port-version": 10
+    },
+    "libodb-sqlite-2-4-0-11": {
+      "baseline": "2.4.0",
+      "port-version": 11
     },
     "libodb-sqlite-2-4-0-2-0": {
       "baseline": "2.4.0-2",
@@ -45836,6 +45908,10 @@
       "baseline": "0.2.1",
       "port-version": 1
     },
+    "libopusenc-0-2-1-2": {
+      "baseline": "0.2.1",
+      "port-version": 2
+    },
     "libosip2-5-1-0-0": {
       "baseline": "5.1.0",
       "port-version": 0
@@ -45896,6 +45972,10 @@
       "baseline": "1.1.1",
       "port-version": 0
     },
+    "libosmscout-1-1-1-1": {
+      "baseline": "1.1.1",
+      "port-version": 1
+    },
     "libp7-baical-4-1-0": {
       "baseline": "4.1",
       "port-version": 0
@@ -45947,6 +46027,10 @@
     "libp7client-5-6-2": {
       "baseline": "5.6",
       "port-version": 2
+    },
+    "libp7client-5-6-3": {
+      "baseline": "5.6",
+      "port-version": 3
     },
     "libpcap-1-10-1-0": {
       "baseline": "1.10.1",
@@ -46264,6 +46348,10 @@
       "baseline": "1.16",
       "port-version": 14
     },
+    "libpopt-1-16-15": {
+      "baseline": "1.16",
+      "port-version": 15
+    },
     "libpq-12-0-0": {
       "baseline": "12.0",
       "port-version": 0
@@ -46515,6 +46603,10 @@
     "libprotobuf-mutator-1-0-0": {
       "baseline": "1.0",
       "port-version": 0
+    },
+    "libprotobuf-mutator-1-0-1": {
+      "baseline": "1.0",
+      "port-version": 1
     },
     "libproxy-0-4-15-0": {
       "baseline": "0.4.15",
@@ -47028,6 +47120,10 @@
       "baseline": "2019-11-11",
       "port-version": 3
     },
+    "librtmp-2019-11-11-4": {
+      "baseline": "2019-11-11",
+      "port-version": 4
+    },
     "librttopo-1-1-0-2-0": {
       "baseline": "1.1.0-2",
       "port-version": 0
@@ -47224,6 +47320,10 @@
       "baseline": "2021-04-29",
       "port-version": 1
     },
+    "libsmb2-2021-04-29-2": {
+      "baseline": "2021-04-29",
+      "port-version": 2
+    },
     "libsndfile-1-0-29-10": {
       "baseline": "1.0.29",
       "port-version": 10
@@ -47399,6 +47499,10 @@
     "libsoundio-2-0-0-6": {
       "baseline": "2.0.0",
       "port-version": 6
+    },
+    "libsoundio-2-0-0-7": {
+      "baseline": "2.0.0",
+      "port-version": 7
     },
     "libspatialindex-1-9-0-0": {
       "baseline": "1.9.0",
@@ -47800,6 +47904,10 @@
       "baseline": "2017-9",
       "port-version": 6
     },
+    "libstemmer-2017-9-7": {
+      "baseline": "2017-9",
+      "port-version": 7
+    },
     "libstk-4-6-0-2-0": {
       "baseline": "4.6.0-2",
       "port-version": 0
@@ -47811,6 +47919,10 @@
     "libstk-4-6-1-1": {
       "baseline": "4.6.1",
       "port-version": 1
+    },
+    "libstk-4-6-1-2": {
+      "baseline": "4.6.1",
+      "port-version": 2
     },
     "libsvm-3-25-0": {
       "baseline": "3.25",
@@ -48156,6 +48268,10 @@
       "baseline": "1.1.0",
       "port-version": 4
     },
+    "libu2f-server-1-1-0-5": {
+      "baseline": "1.1.0",
+      "port-version": 5
+    },
     "libudis86-2018-01-28-3": {
       "baseline": "2018-01-28",
       "port-version": 3
@@ -48492,6 +48608,10 @@
       "baseline": "1.0.3",
       "port-version": 11
     },
+    "libuuid-1-0-3-12": {
+      "baseline": "1.0.3",
+      "port-version": 12
+    },
     "libuuid-1-0-3-2-0": {
       "baseline": "1.0.3-2",
       "port-version": 0
@@ -48723,6 +48843,10 @@
     "libvmdk-20200926-2": {
       "baseline": "20200926",
       "port-version": 2
+    },
+    "libvmdk-20200926-3": {
+      "baseline": "20200926",
+      "port-version": 3
     },
     "libvorbis--0": {
       "baseline": "",
@@ -49263,6 +49387,10 @@
     "libxdiff-0-23-2": {
       "baseline": "0.23",
       "port-version": 2
+    },
+    "libxdiff-0-23-3": {
+      "baseline": "0.23",
+      "port-version": 3
     },
     "libxdmcp-1-1-3-0": {
       "baseline": "1.1.3",
@@ -49920,6 +50048,10 @@
       "baseline": "2020-05-19",
       "port-version": 3
     },
+    "licensepp-2020-05-19-4": {
+      "baseline": "2020-05-19",
+      "port-version": 4
+    },
     "lilv-0-24-10-0": {
       "baseline": "0.24.10",
       "port-version": 0
@@ -49927,6 +50059,10 @@
     "lilv-0-24-10-1": {
       "baseline": "0.24.10",
       "port-version": 1
+    },
+    "lilv-0-24-10-2": {
+      "baseline": "0.24.10",
+      "port-version": 2
     },
     "linalg-2-1-0": {
       "baseline": "2.1",
@@ -49947,6 +50083,10 @@
     "linenoise-ng-4754bee2d8eb3-2": {
       "baseline": "4754bee2d8eb3",
       "port-version": 2
+    },
+    "linenoise-ng-4754bee2d8eb3-3": {
+      "baseline": "4754bee2d8eb3",
+      "port-version": 3
     },
     "linmath-2022-07-30-0": {
       "baseline": "2022-07-30",
@@ -50115,6 +50255,10 @@
     "llgl-2019-08-15-2": {
       "baseline": "2019-08-15",
       "port-version": 2
+    },
+    "llgl-2019-08-15-3": {
+      "baseline": "2019-08-15",
+      "port-version": 3
     },
     "llhttp-8-1-0-0": {
       "baseline": "8.1.0",
@@ -50500,6 +50644,10 @@
       "baseline": "2.9.1",
       "port-version": 7
     },
+    "log4cpp-2-9-1-8": {
+      "baseline": "2.9.1",
+      "port-version": 8
+    },
     "log4cxx-0-10-0-2-0": {
       "baseline": "0.10.0-2",
       "port-version": 0
@@ -50579,6 +50727,10 @@
     "lpeg-1-0-2-2": {
       "baseline": "1.0.2",
       "port-version": 2
+    },
+    "lpeg-1-0-2-3": {
+      "baseline": "1.0.2",
+      "port-version": 3
     },
     "lua--0": {
       "baseline": "",
@@ -50747,6 +50899,10 @@
     "luafilesystem-1-8-0-2": {
       "baseline": "1.8.0",
       "port-version": 2
+    },
+    "luafilesystem-1-8-0-3": {
+      "baseline": "1.8.0",
+      "port-version": 3
     },
     "luajit-2-0-5-0": {
       "baseline": "2.0.5",
@@ -50996,6 +51152,10 @@
       "baseline": "1.0",
       "port-version": 3
     },
+    "lzfse-1-0-4": {
+      "baseline": "1.0",
+      "port-version": 4
+    },
     "lzo-2-09-0": {
       "baseline": "2.09",
       "port-version": 0
@@ -51032,9 +51192,17 @@
       "baseline": "2.10",
       "port-version": 7
     },
+    "lzo-2-10-8": {
+      "baseline": "2.10",
+      "port-version": 8
+    },
     "lzokay-2020-07-30-0": {
       "baseline": "2020-07-30",
       "port-version": 0
+    },
+    "lzokay-2020-07-30-1": {
+      "baseline": "2020-07-30",
+      "port-version": 1
     },
     "magic-enum-0-6-0-0": {
       "baseline": "0.6.0",
@@ -51612,6 +51780,10 @@
       "baseline": "2019-09-29",
       "port-version": 1
     },
+    "mathc-2019-09-29-2": {
+      "baseline": "2019-09-29",
+      "port-version": 2
+    },
     "mathgl-2-4-3-0": {
       "baseline": "2.4.3",
       "port-version": 0
@@ -51888,6 +52060,10 @@
       "baseline": "2.7.2.14",
       "port-version": 3
     },
+    "mcpp-2-7-2-14-4": {
+      "baseline": "2.7.2.14",
+      "port-version": 4
+    },
     "mdl-sdk-2021-1-2-0": {
       "baseline": "2021.1.2",
       "port-version": 0
@@ -51967,6 +52143,10 @@
     "mecab-2019-09-25-2": {
       "baseline": "2019-09-25",
       "port-version": 2
+    },
+    "mecab-2019-09-25-3": {
+      "baseline": "2019-09-25",
+      "port-version": 3
     },
     "memorymodule-2019-12-31-0": {
       "baseline": "2019-12-31",
@@ -52064,6 +52244,10 @@
       "baseline": "1.2b",
       "port-version": 5
     },
+    "meschach-1-2b-6": {
+      "baseline": "1.2b",
+      "port-version": 6
+    },
     "meshoptimizer-0-14-1": {
       "baseline": "0.14",
       "port-version": 1
@@ -52144,6 +52328,10 @@
       "baseline": "1.1.3",
       "port-version": 4
     },
+    "metrohash-1-1-3-5": {
+      "baseline": "1.1.3",
+      "port-version": 5
+    },
     "mfl-0-0-1-0": {
       "baseline": "0.0.1",
       "port-version": 0
@@ -52212,6 +52400,10 @@
       "baseline": "0.1.0-alpha4",
       "port-version": 1
     },
+    "microsoft-signalr-0-1-0-alpha4-2": {
+      "baseline": "0.1.0-alpha4",
+      "port-version": 2
+    },
     "mikktspace-2020-10-06-0": {
       "baseline": "2020-10-06",
       "port-version": 0
@@ -52219,6 +52411,10 @@
     "mikktspace-2020-10-06-1": {
       "baseline": "2020-10-06",
       "port-version": 1
+    },
+    "mikktspace-2020-10-06-2": {
+      "baseline": "2020-10-06",
+      "port-version": 2
     },
     "milerius-sfml-imgui-1-1-0": {
       "baseline": "1.1",
@@ -52443,6 +52639,10 @@
     "miniupnpc-2-1-2": {
       "baseline": "2.1",
       "port-version": 2
+    },
+    "miniupnpc-2-1-3": {
+      "baseline": "2.1",
+      "port-version": 3
     },
     "miniz-2-0-8-0": {
       "baseline": "2.0.8",

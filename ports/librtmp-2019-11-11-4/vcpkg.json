@@ -1,0 +1,15 @@
+{
+  "name": "librtmp-2019-11-11-4",
+  "version-date": "2019-11-11",
+  "port-version": 4,
+  "description": "RTMPDump Real-Time Messaging Protocol API",
+  "homepage": "https://rtmpdump.mplayerhq.hu",
+  "dependencies": [
+    "openssl",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    "zlib"
+  ]
+}

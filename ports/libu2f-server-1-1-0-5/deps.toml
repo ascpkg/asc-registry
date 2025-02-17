@@ -1,0 +1,7 @@
+old = "libu2f-server"
+new = "libu2f-server-1-1-0-5"
+
+[deps]
+json-c-2022-06-26-2 = "json-c"
+openssl-3-0-8-1 = "openssl"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

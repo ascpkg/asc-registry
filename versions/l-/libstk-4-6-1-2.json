@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libstk-4-6-1-2",
+      "version-string": "4.6.1",
+      "port-version": 2
+    }
+  ]
+}

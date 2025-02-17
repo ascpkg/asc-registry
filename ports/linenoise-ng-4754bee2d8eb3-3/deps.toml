@@ -1,0 +1,5 @@
+old = "linenoise-ng"
+new = "linenoise-ng-4754bee2d8eb3-3"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
