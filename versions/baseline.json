@@ -43320,6 +43320,10 @@
       "baseline": "1.3.0",
       "port-version": 10
     },
+    "libkml-1-3-0-11": {
+      "baseline": "1.3.0",
+      "port-version": 11
+    },
     "libkml-1-3-0-2-0": {
       "baseline": "1.3.0-2",
       "port-version": 0
