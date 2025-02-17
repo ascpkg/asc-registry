@@ -25812,6 +25812,10 @@
       "baseline": "2.19.0",
       "port-version": 1
     },
+    "hypre-2-23-0-0": {
+      "baseline": "2.23.0",
+      "port-version": 0
+    },
     "icu-58-1-0": {
       "baseline": "58.1",
       "port-version": 0
