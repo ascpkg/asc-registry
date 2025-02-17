@@ -29088,6 +29088,10 @@
       "baseline": "5.0",
       "port-version": 7
     },
+    "libalkimia-8-1-70-0": {
+      "baseline": "8.1.70",
+      "port-version": 0
+    },
     "libarchive-3-2-2-0": {
       "baseline": "3.2.2",
       "port-version": 0
