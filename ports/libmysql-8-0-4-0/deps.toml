@@ -1,0 +1,9 @@
+old = "libmysql"
+new = "libmysql-8-0-4-0"
+
+[deps]
+boost-algorithm-1-66-0-0 = "boost-algorithm"
+boost-functional-1-66-0-0 = "boost-functional"
+boost-geometry-1-66-0-0 = "boost-geometry"
+boost-graph-1-66-0-0 = "boost-graph"
+boost-optional-1-66-0-0 = "boost-optional"
