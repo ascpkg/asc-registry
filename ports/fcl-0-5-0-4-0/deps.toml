@@ -1,0 +1,6 @@
+old = "fcl"
+new = "fcl-0-5-0-4-0"
+
+[deps]
+ccd-2-0-0-2-0 = "ccd"
+octomap-cefed0c1d79afafa5aeb05273cf1246b093b771c-3-0 = "octomap"
