@@ -117048,6 +117048,10 @@
       "baseline": "4.0",
       "port-version": 0
     },
+    "x86-simd-sort-5-0-0": {
+      "baseline": "5.0",
+      "port-version": 0
+    },
     "xalan-c-1-11-0": {
       "baseline": "1.11",
       "port-version": 0
