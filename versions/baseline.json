@@ -24232,6 +24232,10 @@
       "baseline": "0.9.6-1",
       "port-version": 0
     },
+    "rttr-0-9-6-2-0": {
+      "baseline": "0.9.6-2",
+      "port-version": 0
+    },
     "rxcpp-2-3-0-0": {
       "baseline": "2.3.0",
       "port-version": 0
