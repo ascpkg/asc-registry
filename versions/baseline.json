@@ -256,6 +256,10 @@
       "baseline": "",
       "port-version": 0
     },
+    "physfs-2-0-3-0": {
+      "baseline": "2.0.3",
+      "port-version": 0
+    },
     "protobuf-3-0-2-0": {
       "baseline": "3.0.2",
       "port-version": 0
