@@ -1,0 +1,8 @@
+{
+  "name": "ilmbase-3-0",
+  "version": "3",
+  "description": "Obsolete, use port imath instead",
+  "dependencies": [
+    "imath"
+  ]
+}
