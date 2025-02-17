@@ -14560,6 +14560,10 @@
       "baseline": "gamma-2018-01-27-1",
       "port-version": 0
     },
+    "gamma-gamma-2018-01-27-2": {
+      "baseline": "gamma-2018-01-27",
+      "port-version": 2
+    },
     "gasol-2018-01-04-0": {
       "baseline": "2018-01-04",
       "port-version": 0
