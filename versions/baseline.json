@@ -2340,6 +2340,10 @@
       "baseline": "2.1.8-3",
       "port-version": 0
     },
+    "libexif-0-6-21-1-0": {
+      "baseline": "0.6.21-1",
+      "port-version": 0
+    },
     "libffi-3-1-0": {
       "baseline": "3.1",
       "port-version": 0
