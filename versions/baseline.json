@@ -6804,6 +6804,10 @@
       "baseline": "12.8.0",
       "port-version": 1
     },
+    "azure-storage-common-cpp-12-9-0-0": {
+      "baseline": "12.9.0",
+      "port-version": 0
+    },
     "azure-storage-cpp-2-5-0-0": {
       "baseline": "2.5.0",
       "port-version": 0
@@ -7087,6 +7091,10 @@
     "azure-storage-files-shares-cpp-12-11-0-1": {
       "baseline": "12.11.0",
       "port-version": 1
+    },
+    "azure-storage-files-shares-cpp-12-12-0-0": {
+      "baseline": "12.12.0",
+      "port-version": 0
     },
     "azure-storage-files-shares-cpp-12-2-0-0": {
       "baseline": "12.2.0",
