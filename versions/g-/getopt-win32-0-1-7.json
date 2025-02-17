@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/getopt-win32-0-1-7",
+      "version": "0.1",
+      "port-version": 7
+    }
+  ]
+}

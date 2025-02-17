@@ -1732,6 +1732,10 @@
       "baseline": "2.13-1",
       "port-version": 0
     },
+    "argtable2-2-13-10": {
+      "baseline": "2.13",
+      "port-version": 10
+    },
     "argtable2-2-13-2-0": {
       "baseline": "2.13-2",
       "port-version": 0
@@ -1775,6 +1779,10 @@
     "argtable3-3-2-1-2": {
       "baseline": "3.2.1",
       "port-version": 2
+    },
+    "argtable3-3-2-1-3": {
+      "baseline": "3.2.1",
+      "port-version": 3
     },
     "argumentum-0-2-2-0": {
       "baseline": "0.2.2",
@@ -29912,6 +29920,10 @@
       "baseline": "3.0.12",
       "port-version": 0
     },
+    "gdcm-3-0-12-1": {
+      "baseline": "3.0.12",
+      "port-version": 1
+    },
     "gdcm-3-0-3-0": {
       "baseline": "3.0.3",
       "port-version": 0
@@ -30455,6 +30467,10 @@
     "getopt-win32-0-1-6": {
       "baseline": "0.1",
       "port-version": 6
+    },
+    "getopt-win32-0-1-7": {
+      "baseline": "0.1",
+      "port-version": 7
     },
     "gettext-0-19-0": {
       "baseline": "0.19",
