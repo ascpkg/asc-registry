@@ -99552,6 +99552,10 @@
       "baseline": "2.02.00",
       "port-version": 0
     },
+    "veigar-1-0-0": {
+      "baseline": "1.0",
+      "port-version": 0
+    },
     "verdict-1-4-0-0": {
       "baseline": "1.4.0",
       "port-version": 0
