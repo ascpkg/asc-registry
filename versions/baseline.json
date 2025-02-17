@@ -15112,6 +15112,10 @@
       "baseline": "3.8",
       "port-version": 0
     },
+    "elfio-3-9-0": {
+      "baseline": "3.9",
+      "port-version": 0
+    },
     "elfutils-0-182-0": {
       "baseline": "0.182",
       "port-version": 0
