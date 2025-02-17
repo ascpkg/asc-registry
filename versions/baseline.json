@@ -12788,6 +12788,10 @@
       "baseline": "2.7",
       "port-version": 0
     },
+    "cub-1-12-0-0": {
+      "baseline": "1.12.0",
+      "port-version": 0
+    },
     "cub-1-8-0-0": {
       "baseline": "1.8.0",
       "port-version": 0

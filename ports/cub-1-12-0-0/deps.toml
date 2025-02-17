@@ -1,0 +1,5 @@
+old = "cub"
+new = "cub-1-12-0-0"
+
+[deps]
+cuda-10-1-7 = "cuda"
