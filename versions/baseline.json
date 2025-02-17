@@ -24672,6 +24672,10 @@
       "baseline": "1.0.0",
       "port-version": 1
     },
+    "hfsm2-1-10-1-0": {
+      "baseline": "1.10.1",
+      "port-version": 0
+    },
     "hfsm2-beta7-0": {
       "baseline": "beta7",
       "port-version": 0
