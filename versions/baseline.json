@@ -49044,6 +49044,10 @@
       "baseline": "7.70",
       "port-version": 5
     },
+    "nmap-7-70-6": {
+      "baseline": "7.70",
+      "port-version": 6
+    },
     "nmslib-1-7-2-0": {
       "baseline": "1.7.2",
       "port-version": 0
