@@ -23308,6 +23308,10 @@
       "baseline": "2.66.4",
       "port-version": 0
     },
+    "glib-2-66-4-1": {
+      "baseline": "2.66.4",
+      "port-version": 1
+    },
     "glibmm-2-52-1-0": {
       "baseline": "2.52.1",
       "port-version": 0
