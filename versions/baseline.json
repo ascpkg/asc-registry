@@ -22784,6 +22784,10 @@
       "baseline": "3.1-1.6.1",
       "port-version": 0
     },
+    "libzippp-4-0-1-7-3-0": {
+      "baseline": "4.0-1.7.3",
+      "port-version": 0
+    },
     "licensepp-2020-05-19-0": {
       "baseline": "2020-05-19",
       "port-version": 0
