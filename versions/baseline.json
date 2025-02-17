@@ -1844,6 +1844,10 @@
       "baseline": "1.8.4",
       "port-version": 0
     },
+    "aws-sdk-cpp-1-8-4-1": {
+      "baseline": "1.8.4",
+      "port-version": 1
+    },
     "azmq-1-0-2-0": {
       "baseline": "1.0.2",
       "port-version": 0
@@ -23240,6 +23244,10 @@
       "baseline": "1.1.33-7",
       "port-version": 0
     },
+    "libxslt-1-1-33-7-1": {
+      "baseline": "1.1.33-7",
+      "port-version": 1
+    },
     "libyaml-0-2-1-1-0": {
       "baseline": "0.2.1-1",
       "port-version": 0
@@ -36231,6 +36239,10 @@
     "sqlcipher-4-4-0-0": {
       "baseline": "4.4.0",
       "port-version": 0
+    },
+    "sqlcipher-4-4-0-1": {
+      "baseline": "4.4.0",
+      "port-version": 1
     },
     "sqlite-modern-cpp-2-4-0": {
       "baseline": "2.4",
