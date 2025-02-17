@@ -65968,6 +65968,10 @@
       "baseline": "7.12",
       "port-version": 0
     },
+    "mongoose-7-13-0": {
+      "baseline": "7.13",
+      "port-version": 0
+    },
     "mongoose-7-5-0": {
       "baseline": "7.5",
       "port-version": 0
