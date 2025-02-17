@@ -1,0 +1,7 @@
+old = "zxing-cpp"
+new = "zxing-cpp-2020-12-2-0"
+
+[deps]
+bigint-2010-04-30-6 = "bigint"
+libiconv-1-16-8 = "libiconv"
+opencv-4-5-1-0 = "opencv"

@@ -46640,6 +46640,10 @@
       "baseline": "1.0.4",
       "port-version": 0
     },
+    "zxing-cpp-2020-12-2-0": {
+      "baseline": "2020-12-2",
+      "port-version": 0
+    },
     "zxing-cpp-3-3-3-2-0": {
       "baseline": "3.3.3-2",
       "port-version": 0
