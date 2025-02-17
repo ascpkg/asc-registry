@@ -31600,6 +31600,10 @@
       "baseline": "2",
       "port-version": 0
     },
+    "lapack-2022-02-22-0": {
+      "baseline": "2022-02-22",
+      "port-version": 0
+    },
     "lapack-3-0": {
       "baseline": "3",
       "port-version": 0
@@ -31611,6 +31615,10 @@
     "lapack-3-2": {
       "baseline": "3",
       "port-version": 2
+    },
+    "lapack-reference-3-10-0-0": {
+      "baseline": "3.10.0",
+      "port-version": 0
     },
     "lapack-reference-3-8-0-0": {
       "baseline": "3.8.0",
