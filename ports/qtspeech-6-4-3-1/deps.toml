@@ -1,0 +1,7 @@
+old = "qtspeech"
+new = "qtspeech-6-4-3-1"
+
+[deps]
+qtbase-6-4-3-3 = "qtbase"
+qtdeclarative-6-4-3-0 = "qtdeclarative"
+qtmultimedia-6-4-3-1 = "qtmultimedia"
