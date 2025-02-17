@@ -30044,6 +30044,10 @@
       "baseline": "3.18.0",
       "port-version": 24
     },
+    "freeimage-3-18-0-25": {
+      "baseline": "3.18.0",
+      "port-version": 25
+    },
     "freeimage-3-18-0-3-0": {
       "baseline": "3.18.0-3",
       "port-version": 0
@@ -45674,6 +45678,10 @@
     },
     "libraw-0-19-2-0": {
       "baseline": "0.19.2",
+      "port-version": 0
+    },
+    "libraw-0-21-1-0": {
+      "baseline": "0.21.1",
       "port-version": 0
     },
     "libraw-201903-0": {
