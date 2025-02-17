@@ -12336,6 +12336,10 @@
       "baseline": "1.1.1.133-1",
       "port-version": 0
     },
+    "usrsctp-35c1d97020a-0": {
+      "baseline": "35c1d97020a",
+      "port-version": 0
+    },
     "utf8h-841cb2deb8eb806e73fff0e1f43a11fca4f5da45-0": {
       "baseline": "841cb2deb8eb806e73fff0e1f43a11fca4f5da45",
       "port-version": 0
