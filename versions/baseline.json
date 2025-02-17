@@ -17952,6 +17952,10 @@
       "baseline": "1.7.1",
       "port-version": 2
     },
+    "drogon-1-7-3-0": {
+      "baseline": "1.7.3",
+      "port-version": 0
+    },
     "drogon-v1-0-0-beta18-0": {
       "baseline": "v1.0.0-beta18",
       "port-version": 0
