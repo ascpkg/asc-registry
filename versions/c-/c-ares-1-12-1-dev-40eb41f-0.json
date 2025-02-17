@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/c-ares-1-12-1-dev-40eb41f-0",
+      "version": "1.12.1-dev-40eb41f",
+      "port-version": 0
+    }
+  ]
+}
