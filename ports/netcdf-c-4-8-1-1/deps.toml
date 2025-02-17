@@ -1,0 +1,11 @@
+old = "netcdf-c"
+new = "netcdf-c-4-8-1-1"
+
+[deps]
+curl-7-80-0-0 = "curl"
+hdf5-1-12-1-1 = "hdf5"
+libzip-1-8-0-0 = "libzip"
+netcdf-c-4-8-1-1 = "netcdf-c"
+vcpkg-cmake-2021-12-05-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-01-0 = "vcpkg-cmake-config"
+vcpkg-pkgconfig-get-modules-2021-04-02-1 = "vcpkg-pkgconfig-get-modules"
