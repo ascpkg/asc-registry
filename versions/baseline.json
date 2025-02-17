@@ -21748,6 +21748,10 @@
       "baseline": "2.0.5",
       "port-version": 0
     },
+    "libjpeg-turbo-2-0-5-1": {
+      "baseline": "2.0.5",
+      "port-version": 1
+    },
     "libjuice-0-5-2-0": {
       "baseline": "0.5.2",
       "port-version": 0
