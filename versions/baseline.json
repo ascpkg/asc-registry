@@ -77472,6 +77472,10 @@
       "baseline": "9.1.0",
       "port-version": 1
     },
+    "mysql-connector-cpp-9-1-0-2": {
+      "baseline": "9.1.0",
+      "port-version": 2
+    },
     "nameof-0-10-0-0": {
       "baseline": "0.10.0",
       "port-version": 0
