@@ -8244,6 +8244,10 @@
       "baseline": "2.2.6",
       "port-version": 0
     },
+    "expat-2-2-7-0": {
+      "baseline": "2.2.7",
+      "port-version": 0
+    },
     "expected-lite-0-3-0-0": {
       "baseline": "0.3.0",
       "port-version": 0
