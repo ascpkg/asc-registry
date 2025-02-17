@@ -41060,6 +41060,10 @@
       "baseline": "2019-08-20",
       "port-version": 2
     },
+    "nanovg-2019-08-30-5": {
+      "baseline": "2019-08-30",
+      "port-version": 5
+    },
     "nanovg-2019-8-30-0": {
       "baseline": "2019-8-30",
       "port-version": 0
