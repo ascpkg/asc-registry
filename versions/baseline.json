@@ -51880,6 +51880,10 @@
       "baseline": "1.50.0",
       "port-version": 0
     },
+    "nghttp2-1-51-0-0": {
+      "baseline": "1.51.0",
+      "port-version": 0
+    },
     "nghttp3-0-7-0-0": {
       "baseline": "0.7.0",
       "port-version": 0
