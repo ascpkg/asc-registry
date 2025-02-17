@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cjson-2019-11-30-0",
+      "version": "2019-11-30",
+      "port-version": 0
+    }
+  ]
+}
