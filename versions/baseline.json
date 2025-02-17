@@ -50712,6 +50712,10 @@
       "baseline": "1.0.18",
       "port-version": 8
     },
+    "libsonic-0-2-0-0": {
+      "baseline": "0.2.0",
+      "port-version": 0
+    },
     "libsoundio-2-0-0-0": {
       "baseline": "2.0.0",
       "port-version": 0
