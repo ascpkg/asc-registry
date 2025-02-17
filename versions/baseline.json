@@ -28960,6 +28960,10 @@
       "baseline": "13.0.2",
       "port-version": 0
     },
+    "halide-14-0-0-0": {
+      "baseline": "14.0.0",
+      "port-version": 0
+    },
     "halide-master-2020-03-07-0": {
       "baseline": "master_2020_03_07",
       "port-version": 0
@@ -41096,6 +41100,10 @@
       "baseline": "13.0.0",
       "port-version": 5
     },
+    "llvm-14-0-3-0": {
+      "baseline": "14.0.3",
+      "port-version": 0
+    },
     "llvm-4-0-0-0": {
       "baseline": "4.0.0",
       "port-version": 0
@@ -42687,6 +42695,10 @@
     "mesa-21-2-5-4": {
       "baseline": "21.2.5",
       "port-version": 4
+    },
+    "mesa-22-0-2-0": {
+      "baseline": "22.0.2",
+      "port-version": 0
     },
     "meschach--0": {
       "baseline": "",
