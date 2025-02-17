@@ -42820,6 +42820,10 @@
       "baseline": "0.9.0",
       "port-version": 0
     },
+    "promise-cpp-2-1-2-0": {
+      "baseline": "2.1.2",
+      "port-version": 0
+    },
     "protobuf-3-0-2-0": {
       "baseline": "3.0.2",
       "port-version": 0
