@@ -15072,6 +15072,10 @@
       "baseline": "1.15.0",
       "port-version": 0
     },
+    "google-cloud-cpp-1-16-0-0": {
+      "baseline": "1.16.0",
+      "port-version": 0
+    },
     "google-cloud-cpp-common-0-15-0-0": {
       "baseline": "0.15.0",
       "port-version": 0
