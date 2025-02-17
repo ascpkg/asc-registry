@@ -648,6 +648,10 @@
       "baseline": "1.43",
       "port-version": 0
     },
+    "akali-1-43-1": {
+      "baseline": "1.43",
+      "port-version": 1
+    },
     "alac-2017-11-03-c38887c5-0": {
       "baseline": "2017-11-03-c38887c5",
       "port-version": 0
