@@ -22048,6 +22048,10 @@
       "baseline": "6.4.1",
       "port-version": 2
     },
+    "coolprop-6-4-3-0": {
+      "baseline": "6.4.3",
+      "port-version": 0
+    },
     "coroutine-1-4-0-0": {
       "baseline": "1.4.0",
       "port-version": 0
@@ -54395,6 +54399,10 @@
     "msgpack-3-3-0-4": {
       "baseline": "3.3.0",
       "port-version": 4
+    },
+    "msgpack-4-1-3-0": {
+      "baseline": "4.1.3",
+      "port-version": 0
     },
     "msgpack11-0-0-10-0": {
       "baseline": "0.0.10",
