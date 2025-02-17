@@ -8412,6 +8412,10 @@
       "baseline": "0.7.0",
       "port-version": 0
     },
+    "evpp-0-7-0-1-0": {
+      "baseline": "0.7.0-1",
+      "port-version": 0
+    },
     "exiv2-0-27-0": {
       "baseline": "0.27",
       "port-version": 0
