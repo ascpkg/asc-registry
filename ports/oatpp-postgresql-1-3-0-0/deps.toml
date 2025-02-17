@@ -1,0 +1,8 @@
+old = "oatpp-postgresql"
+new = "oatpp-postgresql-1-3-0-0"
+
+[deps]
+libpq-12-9-1 = "libpq"
+oatpp-1-3-0-0 = "oatpp"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"
