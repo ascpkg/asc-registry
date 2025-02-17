@@ -17072,6 +17072,10 @@
       "baseline": "2.9.9-4",
       "port-version": 0
     },
+    "libxml2-2-9-9-5-0": {
+      "baseline": "2.9.9-5",
+      "port-version": 0
+    },
     "libxmlpp-2-40-1-1-0": {
       "baseline": "2.40.1-1",
       "port-version": 0
