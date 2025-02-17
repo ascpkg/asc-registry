@@ -6504,6 +6504,10 @@
       "baseline": "2019-04-14-2",
       "port-version": 0
     },
+    "cppkafka-0-3-1-0": {
+      "baseline": "0.3.1",
+      "port-version": 0
+    },
     "cppmicroservices-4-0-0-pre1-0": {
       "baseline": "4.0.0-pre1",
       "port-version": 0
