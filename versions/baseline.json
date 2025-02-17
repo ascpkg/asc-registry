@@ -83928,6 +83928,10 @@
       "baseline": "3.2.0",
       "port-version": 1
     },
+    "sqlitecpp-3-3-0-0": {
+      "baseline": "3.3.0",
+      "port-version": 0
+    },
     "sqlpp11-0-57-0": {
       "baseline": "0.57",
       "port-version": 0
