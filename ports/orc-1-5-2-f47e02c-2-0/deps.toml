@@ -1,0 +1,9 @@
+old = "orc"
+new = "orc-1-5-2-f47e02c-2-0"
+
+[deps]
+gtest-1-8-0-9-0 = "gtest"
+lz4-1-8-3-0 = "lz4"
+protobuf-3-6-1-4-0 = "protobuf"
+snappy-1-1-7-2-0 = "snappy"
+zlib-1-2-11-3-0 = "zlib"
