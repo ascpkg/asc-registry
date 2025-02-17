@@ -20916,6 +20916,10 @@
       "baseline": "0.6.4",
       "port-version": 0
     },
+    "magic-enum-0-6-5-0": {
+      "baseline": "0.6.5",
+      "port-version": 0
+    },
     "magic-enum-2019-06-07-0": {
       "baseline": "2019-06-07",
       "port-version": 0
