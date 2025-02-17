@@ -22056,6 +22056,10 @@
       "baseline": "1.1.1d-2",
       "port-version": 0
     },
+    "openssl-unix-1-1-1d-3-0": {
+      "baseline": "1.1.1d-3",
+      "port-version": 0
+    },
     "openssl-uwp-1-0-2l-winrt-0": {
       "baseline": "1.0.2l-winrt",
       "port-version": 0
