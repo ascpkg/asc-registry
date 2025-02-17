@@ -95700,6 +95700,10 @@
       "baseline": "3.6.2",
       "port-version": 1
     },
+    "simdjson-3-8-0-0": {
+      "baseline": "3.8.0",
+      "port-version": 0
+    },
     "simdutf-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
