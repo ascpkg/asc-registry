@@ -1,0 +1,9 @@
+old = "coin-or-cbc"
+new = "coin-or-cbc-2024-06-04-1"
+
+[deps]
+coin-or-cgl-2023-02-01-0 = "coin-or-cgl"
+coin-or-clp-2023-02-01-0 = "coin-or-clp"
+coin-or-osi-2024-04-16-0 = "coin-or-osi"
+coinutils-2024-04-08-0 = "coinutils"
+vcpkg-make-2023-05-15-0 = "vcpkg-make"
