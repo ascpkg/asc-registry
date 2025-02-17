@@ -41352,6 +41352,10 @@
       "baseline": "0.6.0",
       "port-version": 0
     },
+    "kubernetes-0-6-0-1": {
+      "baseline": "0.6.0",
+      "port-version": 1
+    },
     "kubernetes-2021-11-18-0": {
       "baseline": "2021-11-18",
       "port-version": 0
