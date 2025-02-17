@@ -6844,6 +6844,10 @@
       "baseline": "2017.01.02-1e2960f",
       "port-version": 0
     },
+    "strtk-2018-01-01-5579ed1-0": {
+      "baseline": "2018.01.01-5579ed1",
+      "port-version": 0
+    },
     "suitesparse-4-5-4-0": {
       "baseline": "4.5.4",
       "port-version": 0
