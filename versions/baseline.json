@@ -61176,6 +61176,10 @@
       "baseline": "1.38.4",
       "port-version": 0
     },
+    "materialx-1-38-8-0": {
+      "baseline": "1.38.8",
+      "port-version": 0
+    },
     "mathc-2019-09-29-0": {
       "baseline": "2019-09-29",
       "port-version": 0
