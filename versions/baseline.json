@@ -50368,12 +50368,20 @@
       "baseline": "1.1.0",
       "port-version": 0
     },
+    "libeventheader-decode-1-2-1-0": {
+      "baseline": "1.2.1",
+      "port-version": 0
+    },
     "libeventheader-tracepoint-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
     },
     "libeventheader-tracepoint-1-1-0-0": {
       "baseline": "1.1.0",
+      "port-version": 0
+    },
+    "libeventheader-tracepoint-1-2-1-0": {
+      "baseline": "1.2.1",
       "port-version": 0
     },
     "libevhtp-1-2-18-0": {
@@ -56612,8 +56620,16 @@
       "baseline": "1.1.0",
       "port-version": 0
     },
+    "libtracepoint-1-2-1-0": {
+      "baseline": "1.2.1",
+      "port-version": 0
+    },
     "libtracepoint-control-1-1-0-0": {
       "baseline": "1.1.0",
+      "port-version": 0
+    },
+    "libtracepoint-control-1-2-1-0": {
+      "baseline": "1.2.1",
       "port-version": 0
     },
     "libtracepoint-decode-1-0-0-0": {
@@ -56622,6 +56638,10 @@
     },
     "libtracepoint-decode-1-1-0-0": {
       "baseline": "1.1.0",
+      "port-version": 0
+    },
+    "libtracepoint-decode-1-2-1-0": {
+      "baseline": "1.2.1",
       "port-version": 0
     },
     "libu2f-server-1-1-0-0": {
