@@ -93016,6 +93016,10 @@
       "baseline": "1.45",
       "port-version": 0
     },
+    "shiftmedia-libgpg-error-1-45-1": {
+      "baseline": "1.45",
+      "port-version": 1
+    },
     "shiva-0-1-0": {
       "baseline": "0.1",
       "port-version": 0
