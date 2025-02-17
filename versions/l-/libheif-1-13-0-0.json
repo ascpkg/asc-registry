@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libheif-1-13-0-0",
+      "version": "1.13.0",
+      "port-version": 0
+    }
+  ]
+}
