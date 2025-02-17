@@ -97668,6 +97668,10 @@
       "baseline": "0.2.2",
       "port-version": 1
     },
+    "type-safe-0-2-3-0": {
+      "baseline": "0.2.3",
+      "port-version": 0
+    },
     "uchardet-0-0-8-0": {
       "baseline": "0.0.8",
       "port-version": 0
