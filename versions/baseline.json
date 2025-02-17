@@ -22112,6 +22112,10 @@
       "baseline": "3.0",
       "port-version": 0
     },
+    "libdjinterop-0-14-6-0": {
+      "baseline": "0.14.6",
+      "port-version": 0
+    },
     "libdshowcapture-0-6-0-0": {
       "baseline": "0.6.0",
       "port-version": 0
