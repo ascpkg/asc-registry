@@ -34716,6 +34716,10 @@
       "baseline": "3.7.0",
       "port-version": 1
     },
+    "gdal-3-7-0-2": {
+      "baseline": "3.7.0",
+      "port-version": 2
+    },
     "gdcm-3-0-0-0": {
       "baseline": "3.0.0",
       "port-version": 0
@@ -46739,6 +46743,10 @@
     "libgeotiff-1-7-1-2": {
       "baseline": "1.7.1",
       "port-version": 2
+    },
+    "libgeotiff-1-7-1-3": {
+      "baseline": "1.7.1",
+      "port-version": 3
     },
     "libgit2-0-26-0-0": {
       "baseline": "0.26.0",
