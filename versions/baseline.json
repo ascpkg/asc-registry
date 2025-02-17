@@ -30380,6 +30380,10 @@
       "baseline": "2.97.0",
       "port-version": 0
     },
+    "daw-header-libraries-2-98-5-0": {
+      "baseline": "2.98.5",
+      "port-version": 0
+    },
     "daw-json-link-2-10-2-0": {
       "baseline": "2.10.2",
       "port-version": 0
