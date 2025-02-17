@@ -1,0 +1,7 @@
+old = "libredwg"
+new = "libredwg-0-13-2-0"
+
+[deps]
+jsmn-2019-04-27-2 = "jsmn"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
