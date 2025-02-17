@@ -8780,6 +8780,10 @@
       "baseline": "3.6.4-1",
       "port-version": 0
     },
+    "python3-3-6-4-2-0": {
+      "baseline": "3.6.4-2",
+      "port-version": 0
+    },
     "qca-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
