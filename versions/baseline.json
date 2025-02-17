@@ -22996,6 +22996,10 @@
       "baseline": "0.3",
       "port-version": 1
     },
+    "easyexif-2022-10-07-0": {
+      "baseline": "2022-10-07",
+      "port-version": 0
+    },
     "easyhook-2-7-6789-0-0": {
       "baseline": "2.7.6789.0",
       "port-version": 0
