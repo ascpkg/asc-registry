@@ -18700,6 +18700,10 @@
       "baseline": "1.1.0-3",
       "port-version": 0
     },
+    "rapidjson-d87b698-0": {
+      "baseline": "d87b698",
+      "port-version": 0
+    },
     "rapidstring-2018-08-03-0": {
       "baseline": "2018-08-03",
       "port-version": 0
