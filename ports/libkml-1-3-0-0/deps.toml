@@ -1,0 +1,9 @@
+old = "libkml"
+new = "libkml-1-3-0-0"
+
+[deps]
+boost-1-64-5-0 = "boost"
+expat-2-1-1-1-0 = "expat"
+minizip-1-2-11-0 = "minizip"
+uriparser-0-8-4-0 = "uriparser"
+zlib-1-2-11-0 = "zlib"
