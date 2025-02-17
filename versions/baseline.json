@@ -1620,6 +1620,10 @@
       "baseline": "3.5.0",
       "port-version": 1
     },
+    "apache-datasketches-4-1-0-0": {
+      "baseline": "4.1.0",
+      "port-version": 0
+    },
     "approval-tests-cpp-10-10-0-0": {
       "baseline": "10.10.0",
       "port-version": 0
