@@ -70552,6 +70552,10 @@
       "baseline": "2.0.5",
       "port-version": 0
     },
+    "libxfont-2-0-5-1": {
+      "baseline": "2.0.5",
+      "port-version": 1
+    },
     "libxft-2-3-4-0": {
       "baseline": "2.3.4",
       "port-version": 0
