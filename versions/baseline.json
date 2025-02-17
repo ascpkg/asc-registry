@@ -1676,6 +1676,10 @@
       "baseline": "7.0.2-2",
       "port-version": 0
     },
+    "bond-8-1-0-0": {
+      "baseline": "8.1.0",
+      "port-version": 0
+    },
     "boost-1-60-0": {
       "baseline": "1.60",
       "port-version": 0
