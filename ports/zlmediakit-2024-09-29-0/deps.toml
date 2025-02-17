@@ -1,0 +1,10 @@
+old = "zlmediakit"
+new = "zlmediakit-2024-09-29-0"
+
+[deps]
+jsoncpp-1-9-6-0 = "jsoncpp"
+libsrtp-2-5-0-1 = "libsrtp"
+openssl-3-3-2-1 = "openssl"
+usrsctp-0-9-5-0-4 = "usrsctp"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
