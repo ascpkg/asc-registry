@@ -17712,6 +17712,10 @@
       "baseline": "2020-09-02",
       "port-version": 0
     },
+    "gamenetworkingsockets-2021-04-26-0": {
+      "baseline": "2021-04-26",
+      "port-version": 0
+    },
     "gamma-gamma-2018-01-27-0": {
       "baseline": "gamma-2018-01-27",
       "port-version": 0
