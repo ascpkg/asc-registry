@@ -39248,6 +39248,10 @@
       "baseline": "2.3.1",
       "port-version": 4
     },
+    "openjpeg-2-4-0-0": {
+      "baseline": "2.4.0",
+      "port-version": 0
+    },
     "openmama-6-2-1-a5a93a24d2f89a0def0145552c8cd4a53c69e2de-0": {
       "baseline": "6.2.1-a5a93a24d2f89a0def0145552c8cd4a53c69e2de",
       "port-version": 0
