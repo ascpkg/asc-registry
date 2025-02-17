@@ -1,0 +1,8 @@
+old = "qtpositioning"
+new = "qtpositioning-6-6-3-0"
+
+[deps]
+jhasse-poly2tri-2023-12-27-0 = "jhasse-poly2tri"
+qtbase-6-6-3-0 = "qtbase"
+qtdeclarative-6-6-3-0 = "qtdeclarative"
+qtserialport-6-6-3-0 = "qtserialport"
