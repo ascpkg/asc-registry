@@ -1,0 +1,6 @@
+old = "spdlog"
+new = "spdlog-1-4-2-1-0"
+
+[deps]
+benchmark-1-5-0 = "benchmark"
+fmt-6-1-2-0 = "fmt"
