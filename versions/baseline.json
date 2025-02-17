@@ -67496,6 +67496,10 @@
       "baseline": "0.9",
       "port-version": 5
     },
+    "portable-file-dialogs-0-1-0-0": {
+      "baseline": "0.1.0",
+      "port-version": 0
+    },
     "portable-snippets-2019-09-20-0": {
       "baseline": "2019-09-20",
       "port-version": 0
