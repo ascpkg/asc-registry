@@ -1,0 +1,11 @@
+old = "selene"
+new = "selene-0-3-1-5"
+
+[deps]
+libjpeg-turbo-2-0-6-0 = "libjpeg-turbo"
+libpng-1-6-37-15 = "libpng"
+opencv-4-5-2-0 = "opencv"
+tiff-4-3-0-1 = "tiff"
+vcpkg-cmake-2021-07-30-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"
+zlib-1-2-11-11 = "zlib"

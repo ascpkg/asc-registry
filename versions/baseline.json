@@ -2480,6 +2480,10 @@
       "baseline": "2020-12-09",
       "port-version": 1
     },
+    "azure-iot-sdk-c-2020-12-09-2": {
+      "baseline": "2020-12-09",
+      "port-version": 2
+    },
     "azure-kinect-sensor-sdk-1-4-0-alpha-0-0": {
       "baseline": "1.4.0-alpha.0",
       "port-version": 0
@@ -13056,6 +13060,10 @@
       "baseline": "1.5.0",
       "port-version": 1
     },
+    "coroutine-1-5-0-2": {
+      "baseline": "1.5.0",
+      "port-version": 2
+    },
     "coroutine-2020-01-13-0": {
       "baseline": "2020-01-13",
       "port-version": 0
@@ -23384,6 +23392,10 @@
       "baseline": "4.3.1",
       "port-version": 6
     },
+    "itpp-4-3-1-7": {
+      "baseline": "4.3.1",
+      "port-version": 7
+    },
     "ixwebsocket-11-0-4-0": {
       "baseline": "11.0.4",
       "port-version": 0
@@ -27192,6 +27204,10 @@
       "baseline": "2.4.0",
       "port-version": 7
     },
+    "libodb-2-4-0-8": {
+      "baseline": "2.4.0",
+      "port-version": 8
+    },
     "libodb-boost-2-4-0-1-0": {
       "baseline": "2.4.0-1",
       "port-version": 0
@@ -27203,6 +27219,10 @@
     "libodb-boost-2-4-0-3-0": {
       "baseline": "2.4.0-3",
       "port-version": 0
+    },
+    "libodb-boost-2-4-0-4": {
+      "baseline": "2.4.0",
+      "port-version": 4
     },
     "libodb-mysql-2-4-0-1-0": {
       "baseline": "2.4.0-1",
@@ -27236,6 +27256,10 @@
       "baseline": "2.4.0",
       "port-version": 8
     },
+    "libodb-mysql-2-4-0-9": {
+      "baseline": "2.4.0",
+      "port-version": 9
+    },
     "libodb-pgsql-2-4-0-0": {
       "baseline": "2.4.0",
       "port-version": 0
@@ -27251,6 +27275,10 @@
     "libodb-pgsql-2-4-0-3-0": {
       "baseline": "2.4.0-3",
       "port-version": 0
+    },
+    "libodb-pgsql-2-4-0-4": {
+      "baseline": "2.4.0",
+      "port-version": 4
     },
     "libodb-sqlite--0": {
       "baseline": "",
@@ -27287,6 +27315,10 @@
     "libodb-sqlite-2-4-0-7": {
       "baseline": "2.4.0",
       "port-version": 7
+    },
+    "libodb-sqlite-2-4-0-8": {
+      "baseline": "2.4.0",
+      "port-version": 8
     },
     "libogg-1-3-2-0": {
       "baseline": "1.3.2",
@@ -28895,6 +28927,10 @@
     "libunistring-0-9-10-0": {
       "baseline": "0.9.10",
       "port-version": 0
+    },
+    "libunistring-0-9-10-1": {
+      "baseline": "0.9.10",
+      "port-version": 1
     },
     "liburing-2-0-0": {
       "baseline": "2.0",
@@ -32747,6 +32783,10 @@
     "nanodbc-2-13-0-3": {
       "baseline": "2.13.0",
       "port-version": 3
+    },
+    "nanodbc-2-13-0-4": {
+      "baseline": "2.13.0",
+      "port-version": 4
     },
     "nanoflann-1-3-1-0": {
       "baseline": "1.3.1",
@@ -37403,6 +37443,10 @@
     "plplot-5-13-0-1-0": {
       "baseline": "5.13.0-1",
       "port-version": 0
+    },
+    "plplot-5-13-0-10": {
+      "baseline": "5.13.0",
+      "port-version": 10
     },
     "plplot-5-13-0-2-0": {
       "baseline": "5.13.0-2",
@@ -44128,6 +44172,14 @@
       "baseline": "0.3.1",
       "port-version": 4
     },
+    "selene-0-3-1-5": {
+      "baseline": "0.3.1",
+      "port-version": 5
+    },
+    "sentencepiece-0-1-82-1": {
+      "baseline": "0.1.82",
+      "port-version": 1
+    },
     "sentencepiece-v0-1-82-0": {
       "baseline": "v0.1.82",
       "port-version": 0
@@ -50207,6 +50259,10 @@
     "xlnt-1-5-0-1": {
       "baseline": "1.5.0",
       "port-version": 1
+    },
+    "xlnt-1-5-0-2": {
+      "baseline": "1.5.0",
+      "port-version": 2
     },
     "xlsxio-2021-03-24-0": {
       "baseline": "2021-03-24",
