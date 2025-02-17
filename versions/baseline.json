@@ -25412,6 +25412,10 @@
       "baseline": "1.7.2",
       "port-version": 4
     },
+    "libconfig-1-7-3-0": {
+      "baseline": "1.7.3",
+      "port-version": 0
+    },
     "libconfuse-2019-07-14-0": {
       "baseline": "2019-07-14",
       "port-version": 0
