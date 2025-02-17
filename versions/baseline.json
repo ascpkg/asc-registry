@@ -39420,6 +39420,10 @@
       "baseline": "3.0.16",
       "port-version": 0
     },
+    "libical-3-0-16-1": {
+      "baseline": "3.0.16",
+      "port-version": 1
+    },
     "libice-1-0-10-0": {
       "baseline": "1.0.10",
       "port-version": 0
