@@ -1,0 +1,7 @@
+old = "mpg123"
+new = "mpg123-1-29-2-1"
+
+[deps]
+vcpkg-cmake-2021-12-05-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-01-0 = "vcpkg-cmake-config"
+yasm-tool-helper-2020-03-11-0 = "yasm-tool-helper"
