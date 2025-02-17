@@ -29448,6 +29448,10 @@
       "baseline": "2021-05-03",
       "port-version": 0
     },
+    "immer-2022-02-12-0": {
+      "baseline": "2022-02-12",
+      "port-version": 0
+    },
     "implot-0-11-0": {
       "baseline": "0.11",
       "port-version": 0
