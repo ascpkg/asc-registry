@@ -2,4 +2,4 @@ old = "sfgui"
 new = "sfgui-0-4-0-3-0"
 
 [deps]
-sfml-2-5-1-4-0 = "sfml"
+sfml-2-5-1-9 = "sfml"

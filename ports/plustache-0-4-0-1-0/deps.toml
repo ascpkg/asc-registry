@@ -2,5 +2,5 @@ old = "plustache"
 new = "plustache-0-4-0-1-0"
 
 [deps]
-boost-algorithm-1-68-0-0 = "boost-algorithm"
-boost-regex-1-68-0-0 = "boost-regex"
+boost-algorithm-1-73-0-0 = "boost-algorithm"
+boost-regex-1-73-0-0 = "boost-regex"

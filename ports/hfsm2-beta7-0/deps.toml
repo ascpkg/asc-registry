@@ -2,4 +2,4 @@ old = "hfsm2"
 new = "hfsm2-beta7-0"
 
 [deps]
-catch2-2-9-2-0 = "catch2"
+catch2-2-13-1-0 = "catch2"

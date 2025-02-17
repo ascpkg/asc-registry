@@ -2,9 +2,9 @@ old = "cairo"
 new = "cairo-1-16-0-7"
 
 [deps]
-fontconfig-2-12-4-11 = "fontconfig"
-freetype-2-10-2-2 = "freetype"
+fontconfig-2-12-4-13 = "fontconfig"
+freetype-2-10-2-4 = "freetype"
 glib-2-52-3-14-7-0 = "glib"
-libpng-1-6-37-10-0 = "libpng"
+libpng-1-6-37-12 = "libpng"
 pixman-0-38-4-1-0 = "pixman"
-zlib-1-2-11-7 = "zlib"
+zlib-1-2-11-9 = "zlib"

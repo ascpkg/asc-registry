@@ -2,4 +2,4 @@ old = "moos-ui"
 new = "moos-ui-10-0-1-2-0"
 
 [deps]
-moos-core-10-4-0-3-0 = "moos-core"
+moos-core-10-4-0-4-0 = "moos-core"

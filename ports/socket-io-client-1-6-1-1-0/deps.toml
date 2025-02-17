@@ -2,6 +2,6 @@ old = "socket-io-client"
 new = "socket-io-client-1-6-1-1-0"
 
 [deps]
-boost-1-69-0-0 = "boost"
-rapidjson-1-1-0-3-0 = "rapidjson"
-websocketpp-0-8-1-0 = "websocketpp"
+boost-1-73-0-3 = "boost"
+rapidjson-2020-09-14-0 = "rapidjson"
+websocketpp-0-8-2-0 = "websocketpp"

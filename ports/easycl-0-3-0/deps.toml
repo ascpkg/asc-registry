@@ -2,4 +2,4 @@ old = "easycl"
 new = "easycl-0-3-0"
 
 [deps]
-opencl-2-2-2017-07-18-1-0 = "opencl"
+opencl-2-2-4 = "opencl"

@@ -2,6 +2,6 @@ old = "pngwriter"
 new = "pngwriter-0-7-0-2-0"
 
 [deps]
-freetype-2-9-1-1-0 = "freetype"
-libpng-1-6-37-0 = "libpng"
-zlib-1-2-11-5-0 = "zlib"
+freetype-2-10-2-4 = "freetype"
+libpng-1-6-37-12 = "libpng"
+zlib-1-2-11-9 = "zlib"

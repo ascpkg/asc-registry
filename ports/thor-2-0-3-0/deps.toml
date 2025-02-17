@@ -3,4 +3,4 @@ new = "thor-2-0-3-0"
 
 [deps]
 aurora-2017-06-21-c75699d2a8caa726260c29b6d7a0fd35f8f28933-0 = "aurora"
-sfml-2-5-1-1-0 = "sfml"
+sfml-2-5-1-9 = "sfml"

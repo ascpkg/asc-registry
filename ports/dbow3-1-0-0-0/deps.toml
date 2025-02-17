@@ -2,4 +2,4 @@ old = "dbow3"
 new = "dbow3-1-0-0-0"
 
 [deps]
-opencv3-3-4-7-2-0 = "opencv3"
+opencv3-3-4-10-2 = "opencv3"

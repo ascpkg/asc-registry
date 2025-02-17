@@ -2,4 +2,4 @@ old = "cudnn"
 new = "cudnn-7-6-2"
 
 [deps]
-cuda-10-1-2 = "cuda"
+cuda-10-1-4 = "cuda"

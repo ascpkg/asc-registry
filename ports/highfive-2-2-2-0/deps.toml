@@ -2,7 +2,7 @@ old = "highfive"
 new = "highfive-2-2-2-0"
 
 [deps]
-boost-multi-array-1-73-0-0 = "boost-multi-array"
+boost-multi-array-1-73-0-1 = "boost-multi-array"
 boost-test-1-73-0-1 = "boost-test"
 boost-ublas-1-73-0-0 = "boost-ublas"
 hdf5-1-12-0-0 = "hdf5"

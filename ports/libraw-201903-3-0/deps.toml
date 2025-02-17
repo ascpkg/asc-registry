@@ -2,5 +2,5 @@ old = "libraw"
 new = "libraw-201903-3-0"
 
 [deps]
-jasper-2-0-16-2-0 = "jasper"
-lcms-2-9-1-0 = "lcms"
+jasper-2-0-20-0 = "jasper"
+lcms-2-11-0 = "lcms"

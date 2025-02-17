@@ -2,5 +2,5 @@ old = "shaderc"
 new = "shaderc-2019-06-26-1-0"
 
 [deps]
-glslang-2019-03-05-0 = "glslang"
-spirv-tools-2019-3-dev-1-0 = "spirv-tools"
+glslang-2019-03-05-1-0 = "glslang"
+spirv-tools-2020-1-1-0 = "spirv-tools"

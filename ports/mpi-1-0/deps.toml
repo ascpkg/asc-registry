@@ -2,5 +2,5 @@ old = "mpi"
 new = "mpi-1-0"
 
 [deps]
-msmpi-10-0-2-0 = "msmpi"
-openmpi-4-0-1-0 = "openmpi"
+msmpi-10-1-0 = "msmpi"
+openmpi-4-0-3-3 = "openmpi"

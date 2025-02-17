@@ -2,4 +2,4 @@ old = "signalrclient"
 new = "signalrclient-1-0-0-beta1-9-0"
 
 [deps]
-openssl-1-1-1d-0 = "openssl"
+openssl-1-1-1g-1 = "openssl"

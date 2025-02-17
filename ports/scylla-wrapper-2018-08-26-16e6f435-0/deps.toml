@@ -2,4 +2,4 @@ old = "scylla-wrapper"
 new = "scylla-wrapper-2018-08-26-16e6f435-0"
 
 [deps]
-distorm-2018-08-26-16e6f435-1-0 = "distorm"
+distorm-3-4-1-0 = "distorm"

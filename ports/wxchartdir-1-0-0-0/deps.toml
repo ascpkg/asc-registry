@@ -2,5 +2,5 @@ old = "wxchartdir"
 new = "wxchartdir-1-0-0-0"
 
 [deps]
-chartdir-6-3-1-0 = "chartdir"
-wxwidgets-3-1-2-2-0 = "wxwidgets"
+chartdir-6-3-1-1-0 = "chartdir"
+wxwidgets-3-1-4-3 = "wxwidgets"

@@ -3,4 +3,4 @@ new = "guetzli-2020-09-14-0"
 
 [deps]
 butteraugli-2019-05-08-1-0 = "butteraugli"
-libpng-1-6-37-11 = "libpng"
+libpng-1-6-37-12 = "libpng"

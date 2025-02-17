@@ -3,4 +3,4 @@ new = "aliyun-oss-c-sdk-3-10-0-0"
 
 [deps]
 apr-util-1-6-1-3 = "apr-util"
-curl-7-72-0-0 = "curl"
+curl-7-73-0-1 = "curl"

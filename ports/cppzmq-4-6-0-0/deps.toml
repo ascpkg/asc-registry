@@ -2,4 +2,4 @@ old = "cppzmq"
 new = "cppzmq-4-6-0-0"
 
 [deps]
-zeromq-2019-09-20-0 = "zeromq"
+zeromq-2019-09-20-1 = "zeromq"

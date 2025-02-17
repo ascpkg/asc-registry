@@ -2,4 +2,4 @@ old = "rxqt"
 new = "rxqt-bb2138c-0"
 
 [deps]
-rxcpp-4-1-0-0 = "rxcpp"
+rxcpp-4-1-0-1-0 = "rxcpp"

@@ -2,5 +2,5 @@ old = "sprout"
 new = "sprout-2019-06-20-0"
 
 [deps]
-boost-array-1-70-0-0 = "boost-array"
-boost-mpl-1-70-0-0 = "boost-mpl"
+boost-array-1-73-0-0 = "boost-array"
+boost-mpl-1-73-0-0 = "boost-mpl"

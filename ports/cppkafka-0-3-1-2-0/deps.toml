@@ -2,5 +2,5 @@ old = "cppkafka"
 new = "cppkafka-0-3-1-2-0"
 
 [deps]
-boost-program-options-1-71-0-0 = "boost-program-options"
-librdkafka-1-2-0-2-0 = "librdkafka"
+boost-program-options-1-73-0-0 = "boost-program-options"
+librdkafka-1-5-0-0 = "librdkafka"

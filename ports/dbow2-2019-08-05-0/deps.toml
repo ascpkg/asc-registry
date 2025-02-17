@@ -2,4 +2,4 @@ old = "dbow2"
 new = "dbow2-2019-08-05-0"
 
 [deps]
-opencv-1-0 = "opencv"
+opencv-4-3-0-0 = "opencv"

@@ -2,4 +2,4 @@ old = "think-cell-range"
 new = "think-cell-range-498839d-1-0"
 
 [deps]
-boost-1-71-0-0 = "boost"
+boost-1-73-0-3 = "boost"

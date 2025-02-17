@@ -2,4 +2,4 @@ old = "tinyexif"
 new = "tinyexif-1-0-2-6-0"
 
 [deps]
-tinyxml2-7-0-1-2-0 = "tinyxml2"
+tinyxml2-8-0-0-1-0 = "tinyxml2"

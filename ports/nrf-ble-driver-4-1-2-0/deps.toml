@@ -3,6 +3,6 @@ new = "nrf-ble-driver-4-1-2-0"
 
 [deps]
 asio-1-12-2-2-0 = "asio"
-catch2-2-12-1-0 = "catch2"
-cli11-1-9-0-0 = "cli11"
-spdlog-1-6-1-0 = "spdlog"
+catch2-2-13-1-0 = "catch2"
+cli11-1-9-1-0 = "cli11"
+spdlog-1-8-0-0 = "spdlog"

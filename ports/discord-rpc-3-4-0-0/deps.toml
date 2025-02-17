@@ -2,4 +2,4 @@ old = "discord-rpc"
 new = "discord-rpc-3-4-0-0"
 
 [deps]
-rapidjson-1-1-0-3-0 = "rapidjson"
+rapidjson-2020-09-14-0 = "rapidjson"

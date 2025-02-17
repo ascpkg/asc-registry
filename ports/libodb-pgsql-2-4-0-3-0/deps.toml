@@ -3,4 +3,4 @@ new = "libodb-pgsql-2-4-0-3-0"
 
 [deps]
 libodb-2-4-0-6-0 = "libodb"
-libpq-9-6-1-8-0 = "libpq"
+libpq-12-2-8 = "libpq"
