@@ -27004,6 +27004,10 @@
       "baseline": "latest-1",
       "port-version": 0
     },
+    "llfio-2-0-a74411ed-0": {
+      "baseline": "2.0-a74411ed",
+      "port-version": 0
+    },
     "llgl-2019-08-15-0": {
       "baseline": "2019-08-15",
       "port-version": 0
@@ -29610,6 +29614,10 @@
     },
     "neargye-semver-0-2-2-0": {
       "baseline": "0.2.2",
+      "port-version": 0
+    },
+    "ned14-internal-quickcpplib-0-0-0-24d92c71-0": {
+      "baseline": "0.0.0-24d92c71",
       "port-version": 0
     },
     "netcdf-c-4-4-1-1-0": {
@@ -32682,6 +32690,10 @@
     },
     "outcome-2-1-3-0": {
       "baseline": "2.1.3",
+      "port-version": 0
+    },
+    "outcome-2-2-0-b9e664fb-0": {
+      "baseline": "2.2.0-b9e664fb",
       "port-version": 0
     },
     "p-ranav-csv-2019-07-11-0": {
@@ -41610,6 +41622,10 @@
     },
     "sratom-0-6-4-0": {
       "baseline": "0.6.4",
+      "port-version": 0
+    },
+    "status-code-1-0-0-ab3cd821-0": {
+      "baseline": "1.0.0-ab3cd821",
       "port-version": 0
     },
     "status-value-lite-1-1-0-0": {
