@@ -41724,6 +41724,10 @@
       "baseline": "1.0.0",
       "port-version": 0
     },
+    "glm-1-0-0-1": {
+      "baseline": "1.0.0",
+      "port-version": 1
+    },
     "glm-2023-06-08-0": {
       "baseline": "2023-06-08",
       "port-version": 0
