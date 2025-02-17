@@ -1,0 +1,9 @@
+old = "vsg"
+new = "vsg-1-1-8-0"
+
+[deps]
+glslang-15-0-0-0 = "glslang"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
+vulkan-2023-12-17-0 = "vulkan"
+xcb-1-14-3 = "xcb"
