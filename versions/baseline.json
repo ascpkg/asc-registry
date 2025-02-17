@@ -28648,6 +28648,10 @@
       "baseline": "3.13.0",
       "port-version": 0
     },
+    "protobuf-3-13-0-1": {
+      "baseline": "3.13.0",
+      "port-version": 1
+    },
     "protobuf-3-2-0-0": {
       "baseline": "3.2.0",
       "port-version": 0
