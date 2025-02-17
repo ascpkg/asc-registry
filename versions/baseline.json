@@ -37944,6 +37944,10 @@
       "baseline": "1.17.6",
       "port-version": 1
     },
+    "libbson-1-22-2-0": {
+      "baseline": "1.22.2",
+      "port-version": 0
+    },
     "libbson-1-4-2-0": {
       "baseline": "1.4.2",
       "port-version": 0
@@ -47939,6 +47943,10 @@
     "mongo-c-driver-1-17-6-2": {
       "baseline": "1.17.6",
       "port-version": 2
+    },
+    "mongo-c-driver-1-22-2-0": {
+      "baseline": "1.22.2",
+      "port-version": 0
     },
     "mongo-c-driver-1-4-2-0": {
       "baseline": "1.4.2",
