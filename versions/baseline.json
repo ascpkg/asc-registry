@@ -24516,6 +24516,10 @@
       "baseline": "0.39.0",
       "port-version": 0
     },
+    "gsl-lite-0-40-0-0": {
+      "baseline": "0.40.0",
+      "port-version": 0
+    },
     "gsoap-2-8-102-0": {
       "baseline": "2.8.102",
       "port-version": 0
