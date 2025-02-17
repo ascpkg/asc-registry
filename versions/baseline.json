@@ -972,6 +972,10 @@
       "baseline": "1.7.6-2",
       "port-version": 0
     },
+    "poco-1-7-6-3-0": {
+      "baseline": "1.7.6-3",
+      "port-version": 0
+    },
     "proj-4-9-3-0": {
       "baseline": "4.9.3",
       "port-version": 0
