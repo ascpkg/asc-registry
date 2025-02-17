@@ -1,0 +1,6 @@
+old = "qttranslations"
+new = "qttranslations-6-6-1-1"
+
+[deps]
+qtbase-6-6-1-11 = "qtbase"
+qttools-6-6-1-1 = "qttools"

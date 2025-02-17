@@ -1,0 +1,6 @@
+old = "qt5-webglplugin"
+new = "qt5-webglplugin-5-15-13-1"
+
+[deps]
+qt5-base-5-15-13-1 = "qt5-base"
+qt5-websockets-5-15-13-1 = "qt5-websockets"
