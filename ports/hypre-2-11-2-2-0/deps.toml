@@ -2,4 +2,4 @@ old = "hypre"
 new = "hypre-2-11-2-2-0"
 
 [deps]
-msmpi-10-0-2-0 = "msmpi"
+mpi-1-0 = "mpi"

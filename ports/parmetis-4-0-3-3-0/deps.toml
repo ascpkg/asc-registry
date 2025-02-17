@@ -3,4 +3,4 @@ new = "parmetis-4-0-3-3-0"
 
 [deps]
 metis-5-1-0-5-0 = "metis"
-msmpi-10-0-2-0 = "msmpi"
+mpi-1-0 = "mpi"
