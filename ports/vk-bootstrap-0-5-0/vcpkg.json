@@ -1,0 +1,12 @@
+{
+  "name": "vk-bootstrap-0-5-0",
+  "version": "0.5",
+  "description": "Vulkan bootstraping library",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    "vulkan"
+  ]
+}

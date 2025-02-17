@@ -1,0 +1,6 @@
+old = "vk-bootstrap"
+new = "vk-bootstrap-0-5-0"
+
+[deps]
+vcpkg-cmake-2021-12-05-0 = "vcpkg-cmake"
+vulkan-1-1-82-1-2 = "vulkan"
