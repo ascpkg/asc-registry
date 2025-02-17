@@ -1,0 +1,6 @@
+old = "crashpad"
+new = "crashpad-2022-04-16-0"
+
+[deps]
+vcpkg-tool-gn-2022-04-16-0 = "vcpkg-tool-gn"
+zlib-1-2-12-0 = "zlib"
