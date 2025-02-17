@@ -36384,6 +36384,10 @@
       "baseline": "2021-11-15",
       "port-version": 0
     },
+    "mapnik-2021-11-15-1": {
+      "baseline": "2021-11-15",
+      "port-version": 1
+    },
     "marble-19-08-2-0": {
       "baseline": "19.08.2",
       "port-version": 0
@@ -44791,6 +44795,10 @@
     "proj4-7-2-1-7": {
       "baseline": "7.2.1",
       "port-version": 7
+    },
+    "proj4-8-0-0-0": {
+      "baseline": "8.0.0",
+      "port-version": 0
     },
     "prometheus-cpp-0-10-0-0": {
       "baseline": "0.10.0",
@@ -58207,6 +58215,10 @@
     "vtk-9-0-3-pv5-9-1-4": {
       "baseline": "9.0.3-pv5.9.1",
       "port-version": 4
+    },
+    "vtk-9-0-3-pv5-9-1-5": {
+      "baseline": "9.0.3-pv5.9.1",
+      "port-version": 5
     },
     "vtk-9-0-4-0": {
       "baseline": "9.0-4",
