@@ -1,0 +1,16 @@
+old = "boost-lexical-cast"
+new = "boost-lexical-cast-1-80-0-0"
+
+[deps]
+boost-array-1-80-0-0 = "boost-array"
+boost-assert-1-80-0-0 = "boost-assert"
+boost-config-1-80-0-0 = "boost-config"
+boost-container-1-80-0-0 = "boost-container"
+boost-core-1-80-0-0 = "boost-core"
+boost-integer-1-80-0-0 = "boost-integer"
+boost-numeric-conversion-1-80-0-0 = "boost-numeric-conversion"
+boost-range-1-80-0-0 = "boost-range"
+boost-static-assert-1-80-0-0 = "boost-static-assert"
+boost-throw-exception-1-80-0-0 = "boost-throw-exception"
+boost-type-traits-1-80-0-0 = "boost-type-traits"
+boost-vcpkg-helpers-1-80-0-0 = "boost-vcpkg-helpers"
