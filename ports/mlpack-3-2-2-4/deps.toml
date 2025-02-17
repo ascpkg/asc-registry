@@ -1,0 +1,10 @@
+old = "mlpack"
+new = "mlpack-3-2-2-4"
+
+[deps]
+armadillo-2019-04-16-9 = "armadillo"
+boost-1-73-0-0 = "boost"
+ensmallen-2-11-2-1 = "ensmallen"
+lapack-0-0 = "lapack"
+openblas-0-3-9-1-0 = "openblas"
+stb-2020-02-08-1-0 = "stb"

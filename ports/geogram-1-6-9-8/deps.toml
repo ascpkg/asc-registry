@@ -1,0 +1,7 @@
+old = "geogram"
+new = "geogram-1-6-9-8"
+
+[deps]
+glfw3-3-3-2-0 = "glfw3"
+lapack-0-0 = "lapack"
+openblas-0-3-9-1-0 = "openblas"

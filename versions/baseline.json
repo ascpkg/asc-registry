@@ -1012,6 +1012,10 @@
       "baseline": "2019-04-16-8",
       "port-version": 0
     },
+    "armadillo-2019-04-16-9": {
+      "baseline": "2019-04-16",
+      "port-version": 9
+    },
     "armadillo-2019-04-16-f00d3225-0": {
       "baseline": "2019-04-16-f00d3225",
       "port-version": 0
@@ -2655,6 +2659,10 @@
     "blaze-3-7-0": {
       "baseline": "3.7",
       "port-version": 0
+    },
+    "blaze-3-7-1": {
+      "baseline": "3.7",
+      "port-version": 1
     },
     "blend2d-beta-2019-04-30-0": {
       "baseline": "beta_2019-04-30",
@@ -8536,6 +8544,10 @@
       "baseline": "1.14.0-7",
       "port-version": 0
     },
+    "ceres-1-14-0-8": {
+      "baseline": "1.14.0",
+      "port-version": 8
+    },
     "ceres-solver-1-12-0-0": {
       "baseline": "1.12.0",
       "port-version": 0
@@ -9015,6 +9027,10 @@
     "clapack-3-2-1-12-0": {
       "baseline": "3.2.1-12",
       "port-version": 0
+    },
+    "clapack-3-2-1-13": {
+      "baseline": "3.2.1",
+      "port-version": 13
     },
     "clapack-3-2-1-13-0": {
       "baseline": "3.2.1-13",
@@ -11100,6 +11116,10 @@
       "baseline": "19.19-1",
       "port-version": 0
     },
+    "dlib-19-19-2": {
+      "baseline": "19.19",
+      "port-version": 2
+    },
     "dlib-19-2-0": {
       "baseline": "19.2",
       "port-version": 0
@@ -11983,6 +12003,10 @@
     "ensmallen-2-11-2-0": {
       "baseline": "2.11.2",
       "port-version": 0
+    },
+    "ensmallen-2-11-2-1": {
+      "baseline": "2.11.2",
+      "port-version": 1
     },
     "entityx--0": {
       "baseline": "",
@@ -13896,6 +13920,10 @@
       "baseline": "2020-02-07",
       "port-version": 0
     },
+    "g2o-2020-02-07-1": {
+      "baseline": "2020-02-07",
+      "port-version": 1
+    },
     "g3log-2019-05-14-1-0": {
       "baseline": "2019-05-14-1",
       "port-version": 0
@@ -14191,6 +14219,10 @@
     "geogram-1-6-9-7-0": {
       "baseline": "1.6.9-7",
       "port-version": 0
+    },
+    "geogram-1-6-9-8": {
+      "baseline": "1.6.9",
+      "port-version": 8
     },
     "geographiclib-1-47-patch1-0": {
       "baseline": "1.47-patch1",
@@ -17678,6 +17710,10 @@
     },
     "kvasir-mpl-2019-08-06-0": {
       "baseline": "2019-08-06",
+      "port-version": 0
+    },
+    "lapack-0-0": {
+      "baseline": "0",
       "port-version": 0
     },
     "lastools-2019-07-10-0": {
@@ -22755,6 +22791,10 @@
     "mlpack-3-2-2-3-0": {
       "baseline": "3.2.2-3",
       "port-version": 0
+    },
+    "mlpack-3-2-2-4": {
+      "baseline": "3.2.2",
+      "port-version": 4
     },
     "mman-git-f5ff813-0": {
       "baseline": "git-f5ff813",
@@ -33727,6 +33767,10 @@
     "suitesparse-5-4-0-6-0": {
       "baseline": "5.4.0-6",
       "port-version": 0
+    },
+    "suitesparse-5-4-0-7": {
+      "baseline": "5.4.0",
+      "port-version": 7
     },
     "sundials-2-7-0-0": {
       "baseline": "2.7.0",
