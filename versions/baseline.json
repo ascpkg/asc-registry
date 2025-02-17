@@ -47712,6 +47712,10 @@
       "baseline": "1.50.3",
       "port-version": 0
     },
+    "pango-1-50-6-0": {
+      "baseline": "1.50.6",
+      "port-version": 0
+    },
     "pangolin-0-5-0": {
       "baseline": "0.5",
       "port-version": 0
