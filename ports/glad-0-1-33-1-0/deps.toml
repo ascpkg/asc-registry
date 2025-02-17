@@ -2,5 +2,5 @@ old = "glad"
 new = "glad-0-1-33-1-0"
 
 [deps]
-egl-registry-2020-02-03-0 = "egl-registry"
-opengl-registry-2020-02-03-0 = "opengl-registry"
+egl-registry-2020-02-20-0 = "egl-registry"
+opengl-registry-2020-03-25-0 = "opengl-registry"
