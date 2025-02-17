@@ -1552,6 +1552,10 @@
       "baseline": "2.3.2",
       "port-version": 0
     },
+    "libmikmod--0": {
+      "baseline": "",
+      "port-version": 0
+    },
     "libmodplug-0-8-8-5-bb25b05-0": {
       "baseline": "0.8.8.5-bb25b05",
       "port-version": 0
