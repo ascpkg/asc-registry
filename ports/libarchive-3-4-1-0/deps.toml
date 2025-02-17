@@ -1,0 +1,11 @@
+old = "libarchive"
+new = "libarchive-3-4-1-0"
+
+[deps]
+bzip2-1-0-6-4-0 = "bzip2"
+liblzma-5-2-4-3-0 = "liblzma"
+libxml2-2-9-9-5-0 = "libxml2"
+lz4-1-9-2-0 = "lz4"
+lzo-2-10-4-0 = "lzo"
+openssl-1-0 = "openssl"
+zlib-1-2-11-5-0 = "zlib"
