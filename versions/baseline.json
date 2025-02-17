@@ -6480,6 +6480,10 @@
       "baseline": "4.3.1-1",
       "port-version": 0
     },
+    "cpp-redis-4-3-1-2-0": {
+      "baseline": "4.3.1-2",
+      "port-version": 0
+    },
     "cpp-taskflow-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
@@ -22568,6 +22572,10 @@
       "baseline": "2018-08-31-1",
       "port-version": 0
     },
+    "simpleini-2018-08-31-2-0": {
+      "baseline": "2018-08-31-2",
+      "port-version": 0
+    },
     "smpeg2-2-0-0-0": {
       "baseline": "2.0.0",
       "port-version": 0
@@ -23518,6 +23526,10 @@
     },
     "tacopie-3-2-0-1-0": {
       "baseline": "3.2.0-1",
+      "port-version": 0
+    },
+    "tacopie-3-2-0-2-0": {
+      "baseline": "3.2.0-2",
       "port-version": 0
     },
     "taglib-1-11-1-0": {
