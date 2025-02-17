@@ -1,0 +1,5 @@
+old = "quill"
+new = "quill-1-4-1-0"
+
+[deps]
+fmt-7-1-0-0 = "fmt"
