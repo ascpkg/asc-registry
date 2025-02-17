@@ -46368,6 +46368,10 @@
       "baseline": "1.2.0",
       "port-version": 0
     },
+    "nu-book-zxing-cpp-1-3-0-0": {
+      "baseline": "1.3.0",
+      "port-version": 0
+    },
     "nuklear-2017-06-15-5c7194c2fe2c68c1a8212712c0b4b6195382d27d-0": {
       "baseline": "2017-06-15-5c7194c2fe2c68c1a8212712c0b4b6195382d27d",
       "port-version": 0
