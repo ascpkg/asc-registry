@@ -24436,6 +24436,10 @@
       "baseline": "2022-09-20",
       "port-version": 0
     },
+    "egl-2022-12-04-0": {
+      "baseline": "2022-12-04",
+      "port-version": 0
+    },
     "egl-registry-2018-06-30-0": {
       "baseline": "2018-06-30",
       "port-version": 0
