@@ -1,0 +1,5 @@
+old = "zlib"
+new = "zlib-1-2-12-2"
+
+[deps]
+vcpkg-cmake-2022-08-18-0 = "vcpkg-cmake"
