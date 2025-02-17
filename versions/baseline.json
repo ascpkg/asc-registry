@@ -6992,6 +6992,10 @@
       "baseline": "1.3.0",
       "port-version": 0
     },
+    "bext-di-1-3-0-1": {
+      "baseline": "1.3.0",
+      "port-version": 1
+    },
     "bext-mp-2023-03-02-0": {
       "baseline": "2023-03-02",
       "port-version": 0
