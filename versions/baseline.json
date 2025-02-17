@@ -41628,6 +41628,10 @@
       "baseline": "3.1.0",
       "port-version": 0
     },
+    "fastdds-3-1-2-0": {
+      "baseline": "3.1.2",
+      "port-version": 0
+    },
     "fastfeat-391d5e9-0": {
       "baseline": "391d5e9",
       "port-version": 0
