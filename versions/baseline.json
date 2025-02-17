@@ -7192,6 +7192,10 @@
       "baseline": "5.10.4-2",
       "port-version": 0
     },
+    "rocksdb-5-10-4-3-0": {
+      "baseline": "5.10.4-3",
+      "port-version": 0
+    },
     "rocksdb-5-4-6-0": {
       "baseline": "5.4.6",
       "port-version": 0
