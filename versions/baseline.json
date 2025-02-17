@@ -1244,6 +1244,10 @@
       "baseline": "0.11.0",
       "port-version": 0
     },
+    "spdlog-0-12-0-0": {
+      "baseline": "0.12.0",
+      "port-version": 0
+    },
     "spirv-tools--0": {
       "baseline": "",
       "port-version": 0
