@@ -2148,6 +2148,10 @@
       "baseline": "1.5.3",
       "port-version": 0
     },
+    "nana-1-5-4-0": {
+      "baseline": "1.5.4",
+      "port-version": 0
+    },
     "nanodbc-2-12-4-0": {
       "baseline": "2.12.4",
       "port-version": 0
