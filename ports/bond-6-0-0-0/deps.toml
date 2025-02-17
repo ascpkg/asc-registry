@@ -1,0 +1,6 @@
+old = "bond"
+new = "bond-6-0-0-0"
+
+[deps]
+boost-1-64-5-0 = "boost"
+rapidjson-1-1-0-0 = "rapidjson"
