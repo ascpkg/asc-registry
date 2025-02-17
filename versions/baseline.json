@@ -39848,6 +39848,10 @@
       "baseline": "5.3",
       "port-version": 7
     },
+    "fenster-2024-08-19-0": {
+      "baseline": "2024-08-19",
+      "port-version": 0
+    },
     "ffmpeg-3-2-4-0": {
       "baseline": "3.2.4",
       "port-version": 0
