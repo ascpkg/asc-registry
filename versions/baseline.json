@@ -1632,6 +1632,10 @@
       "baseline": "0",
       "port-version": 0
     },
+    "atomic-queue-2021-05-03-0": {
+      "baseline": "2021-05-03",
+      "port-version": 0
+    },
     "aubio-0-4-6-0": {
       "baseline": "0.4.6",
       "port-version": 0
