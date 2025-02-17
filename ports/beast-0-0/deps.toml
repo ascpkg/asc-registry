@@ -2,4 +2,4 @@ old = "beast"
 new = "beast-0-0"
 
 [deps]
-boost-beast-1-66-0-0 = "boost-beast"
+boost-beast-1-70-0-0 = "boost-beast"
