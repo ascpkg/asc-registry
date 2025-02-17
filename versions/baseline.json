@@ -17420,6 +17420,10 @@
       "baseline": "2018-06-15",
       "port-version": 6
     },
+    "curlpp-2018-06-15-7": {
+      "baseline": "2018-06-15",
+      "port-version": 7
+    },
     "cute-headers-2019-09-20-0": {
       "baseline": "2019-09-20",
       "port-version": 0
