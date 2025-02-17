@@ -1,0 +1,7 @@
+old = "frugally-deep"
+new = "frugally-deep-0-15-10-p0-0"
+
+[deps]
+eigen3-3-3-9-0 = "eigen3"
+fplus-0-2-14-p0-0 = "fplus"
+nlohmann-json-3-9-1-0 = "nlohmann-json"
