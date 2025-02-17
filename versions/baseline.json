@@ -69188,6 +69188,10 @@
       "baseline": "1.2.20",
       "port-version": 0
     },
+    "libtar-1-2-20-1": {
+      "baseline": "1.2.20",
+      "port-version": 1
+    },
     "libtasn1-4-16-0-0": {
       "baseline": "4.16.0",
       "port-version": 0
