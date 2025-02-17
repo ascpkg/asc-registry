@@ -66192,6 +66192,10 @@
       "baseline": "0.3.1",
       "port-version": 5
     },
+    "selene-0-3-1-6": {
+      "baseline": "0.3.1",
+      "port-version": 6
+    },
     "sentencepiece-0-1-82-1": {
       "baseline": "0.1.82",
       "port-version": 1
