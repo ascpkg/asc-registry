@@ -1,0 +1,11 @@
+old = "clamav"
+new = "clamav-0-103-0-0"
+
+[deps]
+bzip2-1-0-8-1 = "bzip2"
+json-c-2019-09-10-1 = "json-c"
+libxml2-2-9-10-3 = "libxml2"
+openssl-1-1-1j-0 = "openssl"
+pcre2-10-35-2 = "pcre2"
+pthreads-3-0-0-6-0 = "pthreads"
+zlib-1-2-11-9 = "zlib"
