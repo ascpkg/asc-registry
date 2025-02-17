@@ -14956,6 +14956,10 @@
       "baseline": "0.2.2-2",
       "port-version": 0
     },
+    "libyuv-fec9121-0": {
+      "baseline": "fec9121",
+      "port-version": 0
+    },
     "libzen-0-4-37-0": {
       "baseline": "0.4.37",
       "port-version": 0
