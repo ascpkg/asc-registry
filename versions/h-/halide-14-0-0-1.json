@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/halide-14-0-0-1",
+      "version": "14.0.0",
+      "port-version": 1
+    }
+  ]
+}
