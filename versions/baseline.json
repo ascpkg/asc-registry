@@ -33280,6 +33280,10 @@
       "baseline": "1.10.5",
       "port-version": 2
     },
+    "cpr-1-11-0-0": {
+      "baseline": "1.11.0",
+      "port-version": 0
+    },
     "cpr-1-3-0-0": {
       "baseline": "1.3.0",
       "port-version": 0
