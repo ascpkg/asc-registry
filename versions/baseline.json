@@ -58944,6 +58944,10 @@
       "baseline": "3.6.5",
       "port-version": 1
     },
+    "libsass-3-6-6-0": {
+      "baseline": "3.6.6",
+      "port-version": 0
+    },
     "libsbml-5-18-0-0": {
       "baseline": "5.18.0",
       "port-version": 0
