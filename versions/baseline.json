@@ -1148,6 +1148,10 @@
       "baseline": "2.3.3",
       "port-version": 0
     },
+    "asiosdk-2-3-3-1-0": {
+      "baseline": "2.3.3-1",
+      "port-version": 0
+    },
     "asmjit-2018-11-08-0": {
       "baseline": "2018-11-08",
       "port-version": 0
@@ -10104,6 +10108,10 @@
       "baseline": "7.6",
       "port-version": 1
     },
+    "cudnn-7-6-2": {
+      "baseline": "7.6",
+      "port-version": 2
+    },
     "cunit-2-1-3-0": {
       "baseline": "2.1.3",
       "port-version": 0
@@ -12579,6 +12587,10 @@
     "ffmpeg-4-2-14": {
       "baseline": "4.2",
       "port-version": 14
+    },
+    "ffmpeg-4-2-16": {
+      "baseline": "4.2",
+      "port-version": 16
     },
     "ffmpeg-4-2-2-0": {
       "baseline": "4.2-2",
@@ -17436,6 +17448,10 @@
       "baseline": "2019.10.9",
       "port-version": 0
     },
+    "jxrlib-2019-10-9-1-0": {
+      "baseline": "2019.10.9-1",
+      "port-version": 0
+    },
     "kangaru-4-1-2-0": {
       "baseline": "4.1.2",
       "port-version": 0
@@ -19180,6 +19196,10 @@
       "baseline": "2.0.1-1",
       "port-version": 0
     },
+    "libmodman-2-0-1-2-0": {
+      "baseline": "2.0.1-2",
+      "port-version": 0
+    },
     "libmodplug-0-8-8-5-bb25b05-0": {
       "baseline": "0.8.8.5-bb25b05",
       "port-version": 0
@@ -19906,6 +19926,10 @@
     },
     "libproxy-0-4-15-1-0": {
       "baseline": "0.4.15-1",
+      "port-version": 0
+    },
+    "libproxy-0-4-15-2-0": {
+      "baseline": "0.4.15-2",
       "port-version": 0
     },
     "libqcow-20191221-0": {
@@ -24936,6 +24960,10 @@
       "baseline": "2.5.0",
       "port-version": 0
     },
+    "openexr-2-5-0-1": {
+      "baseline": "2.5.0",
+      "port-version": 1
+    },
     "opengl-0-0-1-0": {
       "baseline": "0.0-1",
       "port-version": 0
@@ -25030,6 +25058,10 @@
     },
     "openimageio-2-1-16-0-0": {
       "baseline": "2.1.16.0",
+      "port-version": 0
+    },
+    "openimageio-2-1-16-0-1-0": {
+      "baseline": "2.1.16.0-1",
       "port-version": 0
     },
     "openimageio-2-1-9-0-0": {
@@ -33310,6 +33342,10 @@
     },
     "stb-2020-02-08-0": {
       "baseline": "2020-02-08",
+      "port-version": 0
+    },
+    "stb-2020-02-08-1-0": {
+      "baseline": "2020-02-08-1",
       "port-version": 0
     },
     "stlab-1-3-3-0": {
