@@ -1,0 +1,13 @@
+old = "freeopcua"
+new = "freeopcua-20190125-5"
+
+[deps]
+boost-asio-1-77-0-0 = "boost-asio"
+boost-date-time-1-77-0-0 = "boost-date-time"
+boost-filesystem-1-77-0-0 = "boost-filesystem"
+boost-foreach-1-77-0-0 = "boost-foreach"
+boost-format-1-77-0-0 = "boost-format"
+boost-program-options-1-77-0-0 = "boost-program-options"
+boost-property-tree-1-77-0-0 = "boost-property-tree"
+boost-system-1-77-0-0 = "boost-system"
+boost-thread-1-77-0-0 = "boost-thread"

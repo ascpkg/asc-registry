@@ -1,0 +1,7 @@
+old = "zeromq"
+new = "zeromq-4-3-4-2"
+
+[deps]
+libsodium-1-0-18-5 = "libsodium"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"

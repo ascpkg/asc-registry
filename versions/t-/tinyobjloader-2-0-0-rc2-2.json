@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/tinyobjloader-2-0-0-rc2-2",
+      "version-string": "2.0.0-rc2",
+      "port-version": 2
+    }
+  ]
+}

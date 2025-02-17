@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libevhtp-1-2-18-2",
+      "version-string": "1.2.18",
+      "port-version": 2
+    }
+  ]
+}

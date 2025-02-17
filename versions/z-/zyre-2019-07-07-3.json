@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/zyre-2019-07-07-3",
+      "version-string": "2019-07-07",
+      "port-version": 3
+    }
+  ]
+}

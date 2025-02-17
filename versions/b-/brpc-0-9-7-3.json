@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/brpc-0-9-7-3",
+      "version-string": "0.9.7",
+      "port-version": 3
+    }
+  ]
+}

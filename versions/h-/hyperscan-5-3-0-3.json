@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/hyperscan-5-3-0-3",
+      "version-string": "5.3.0",
+      "port-version": 3
+    }
+  ]
+}

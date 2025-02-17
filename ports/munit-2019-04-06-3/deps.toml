@@ -1,0 +1,5 @@
+old = "munit"
+new = "munit-2019-04-06-3"
+
+[deps]
+tool-meson-0-58-1-0 = "tool-meson"

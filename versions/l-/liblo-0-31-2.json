@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/liblo-0-31-2",
+      "version-string": "0.31",
+      "port-version": 2
+    }
+  ]
+}

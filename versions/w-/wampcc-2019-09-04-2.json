@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/wampcc-2019-09-04-2",
+      "version-string": "2019-09-04",
+      "port-version": 2
+    }
+  ]
+}

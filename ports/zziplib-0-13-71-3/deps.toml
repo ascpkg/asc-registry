@@ -1,0 +1,5 @@
+old = "zziplib"
+new = "zziplib-0-13-71-3"
+
+[deps]
+zlib-1-2-11-13 = "zlib"

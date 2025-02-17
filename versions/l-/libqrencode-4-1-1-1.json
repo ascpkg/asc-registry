@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libqrencode-4-1-1-1",
+      "version-semver": "4.1.1",
+      "port-version": 1
+    }
+  ]
+}

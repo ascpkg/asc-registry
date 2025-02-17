@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libmt32emu-2-5-3-1",
+      "version": "2.5.3",
+      "port-version": 1
+    }
+  ]
+}

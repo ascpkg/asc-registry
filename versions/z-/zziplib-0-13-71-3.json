@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/zziplib-0-13-71-3",
+      "version-string": "0.13.71",
+      "port-version": 3
+    }
+  ]
+}

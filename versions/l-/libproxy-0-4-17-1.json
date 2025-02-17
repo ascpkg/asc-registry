@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libproxy-0-4-17-1",
+      "version": "0.4.17",
+      "port-version": 1
+    }
+  ]
+}
