@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/plib-1-8-5-8",
+      "version": "1.8.5",
+      "port-version": 8
+    }
+  ]
+}

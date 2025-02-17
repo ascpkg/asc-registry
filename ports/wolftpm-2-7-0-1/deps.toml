@@ -1,0 +1,7 @@
+old = "wolftpm"
+new = "wolftpm-2-7-0-1"
+
+[deps]
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+wolfssl-5-5-4-0 = "wolfssl"

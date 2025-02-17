@@ -1,0 +1,13 @@
+old = "pagmo2"
+new = "pagmo2-2-19-0-2"
+
+[deps]
+boost-any-1-82-0-2 = "boost-any"
+boost-graph-1-82-0-2 = "boost-graph"
+boost-safe-numerics-1-82-0-2 = "boost-safe-numerics"
+boost-serialization-1-82-0-2 = "boost-serialization"
+eigen3-3-4-0-2 = "eigen3"
+nlopt-2-7-1-0 = "nlopt"
+tbb-2021-9-0-2 = "tbb"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

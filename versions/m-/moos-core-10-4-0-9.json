@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/moos-core-10-4-0-9",
+      "version": "10.4.0",
+      "port-version": 9
+    }
+  ]
+}

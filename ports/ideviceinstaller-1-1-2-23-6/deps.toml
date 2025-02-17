@@ -1,0 +1,6 @@
+old = "ideviceinstaller"
+new = "ideviceinstaller-1-1-2-23-6"
+
+[deps]
+libimobiledevice-1-3-17-4 = "libimobiledevice"
+libzip-1-9-2-1 = "libzip"

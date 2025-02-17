@@ -1,0 +1,9 @@
+old = "libzim"
+new = "libzim-8-2-0-2"
+
+[deps]
+icu-72-1-5 = "icu"
+liblzma-5-4-3-0 = "liblzma"
+vcpkg-tool-meson-0-63-0 = "vcpkg-tool-meson"
+xapian-1-4-22-2 = "xapian"
+zstd-1-5-5-0 = "zstd"

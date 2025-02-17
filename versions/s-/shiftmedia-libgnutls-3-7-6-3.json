@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/shiftmedia-libgnutls-3-7-6-3",
+      "version": "3.7.6",
+      "port-version": 3
+    }
+  ]
+}

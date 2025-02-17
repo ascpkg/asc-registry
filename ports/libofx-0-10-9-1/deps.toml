@@ -1,0 +1,8 @@
+old = "libofx"
+new = "libofx-0-10-9-1"
+
+[deps]
+libiconv-1-17-1 = "libiconv"
+libopensp-1-5-2-2 = "libopensp"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

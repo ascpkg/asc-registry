@@ -1,0 +1,11 @@
+old = "spatialite-tools"
+new = "spatialite-tools-5-0-1-4"
+
+[deps]
+expat-2-5-0-3 = "expat"
+libiconv-1-17-1 = "libiconv"
+libspatialite-5-0-1-12 = "libspatialite"
+libxml2-2-10-3-1 = "libxml2"
+readosm-1-1-0a-4 = "readosm"
+sqlite3-3-42-0-0 = "sqlite3"
+vcpkg-pkgconfig-get-modules-2022-02-10-1 = "vcpkg-pkgconfig-get-modules"

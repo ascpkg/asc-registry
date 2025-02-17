@@ -1,0 +1,11 @@
+old = "gtkmm"
+new = "gtkmm-4-10-0-1"
+
+[deps]
+cairomm-1-16-2-4 = "cairomm"
+gdk-pixbuf-2-42-10-1 = "gdk-pixbuf"
+glibmm-2-76-0-1 = "glibmm"
+gtk-4-10-4-1 = "gtk"
+libepoxy-1-5-10-1 = "libepoxy"
+pangomm-2-50-1-3 = "pangomm"
+vcpkg-tool-meson-0-63-0 = "vcpkg-tool-meson"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/spatialite-tools-5-0-1-4",
+      "version": "5.0.1",
+      "port-version": 4
+    }
+  ]
+}

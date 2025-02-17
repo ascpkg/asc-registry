@@ -1,0 +1,15 @@
+old = "openslide"
+new = "openslide-3-4-1-2"
+
+[deps]
+cairo-1-17-8-1 = "cairo"
+gdk-pixbuf-2-42-10-1 = "gdk-pixbuf"
+glib-2-76-3-1 = "glib"
+libjpeg-turbo-2-1-5-1-1 = "libjpeg-turbo"
+libpng-1-6-39-1 = "libpng"
+libxml2-2-10-3-1 = "libxml2"
+openjpeg-2-5-0-0 = "openjpeg"
+sqlite3-3-42-0-0 = "sqlite3"
+tiff-4-5-0-3 = "tiff"
+vcpkg-tool-meson-0-63-0 = "vcpkg-tool-meson"
+zlib-1-2-13-0 = "zlib"
