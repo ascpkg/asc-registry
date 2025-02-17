@@ -67696,6 +67696,10 @@
       "baseline": "5.4.0",
       "port-version": 1
     },
+    "wavpack-5-4-0-2": {
+      "baseline": "5.4.0",
+      "port-version": 2
+    },
     "websocketpp-0-7-0-0": {
       "baseline": "0.7.0",
       "port-version": 0
