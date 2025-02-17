@@ -2,4 +2,4 @@ old = "curlpp"
 new = "curlpp-2018-06-15-0"
 
 [deps]
-curl-7-61-1-2-0 = "curl"
+curl-7-66-0-0 = "curl"
