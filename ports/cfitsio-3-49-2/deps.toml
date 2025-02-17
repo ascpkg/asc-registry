@@ -1,0 +1,7 @@
+old = "cfitsio"
+new = "cfitsio-3-49-2"
+
+[deps]
+curl-7-80-0-0 = "curl"
+pthreads-3-0-0-10 = "pthreads"
+zlib-1-2-11-13 = "zlib"
