@@ -1,0 +1,6 @@
+old = "directxtk"
+new = "directxtk-sept2021-0"
+
+[deps]
+directxmath-jan2021-1 = "directxmath"
+xaudio2redist-1-2-6-0 = "xaudio2redist"
