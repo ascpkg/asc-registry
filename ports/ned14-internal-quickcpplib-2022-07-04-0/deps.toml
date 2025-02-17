@@ -1,0 +1,9 @@
+old = "ned14-internal-quickcpplib"
+new = "ned14-internal-quickcpplib-2022-07-04-0"
+
+[deps]
+byte-lite-0-3-0-0 = "byte-lite"
+ned14-internal-quickcpplib-2022-07-04-0 = "ned14-internal-quickcpplib"
+span-lite-0-10-3-0 = "span-lite"
+vcpkg-cmake-2022-07-02-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
