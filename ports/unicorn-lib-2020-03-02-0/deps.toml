@@ -1,0 +1,8 @@
+old = "unicorn-lib"
+new = "unicorn-lib-2020-03-02-0"
+
+[deps]
+libiconv-1-16-3-0 = "libiconv"
+pcre2-10-30-7-0 = "pcre2"
+rs-core-lib-2019-07-11-0 = "rs-core-lib"
+zlib-1-2-11-6-0 = "zlib"
