@@ -68324,6 +68324,10 @@
       "baseline": "2.24.2",
       "port-version": 0
     },
+    "sdl2-2-26-0-0": {
+      "baseline": "2.26.0",
+      "port-version": 0
+    },
     "sdl2-gfx-1-0-3-0": {
       "baseline": "1.0.3",
       "port-version": 0
