@@ -111684,6 +111684,10 @@
       "baseline": "4.6.0",
       "port-version": 5
     },
+    "tiff-4-7-0-0": {
+      "baseline": "4.7.0",
+      "port-version": 0
+    },
     "tinkerforge-2-1-25-0": {
       "baseline": "2.1.25",
       "port-version": 0
