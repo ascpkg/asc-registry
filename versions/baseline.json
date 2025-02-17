@@ -20832,6 +20832,10 @@
       "baseline": "6.9.3",
       "port-version": 0
     },
+    "oniguruma-6-9-4-0": {
+      "baseline": "6.9.4",
+      "port-version": 0
+    },
     "open62541--0": {
       "baseline": "",
       "port-version": 0
