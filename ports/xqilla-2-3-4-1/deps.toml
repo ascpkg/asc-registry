@@ -1,0 +1,7 @@
+old = "xqilla"
+new = "xqilla-2-3-4-1"
+
+[deps]
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"
+xerces-c-3-2-3-4 = "xerces-c"
