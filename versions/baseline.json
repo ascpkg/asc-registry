@@ -41680,6 +41680,10 @@
       "baseline": "6.1.5",
       "port-version": 0
     },
+    "qwt-6-2-0-0": {
+      "baseline": "6.2.0",
+      "port-version": 0
+    },
     "qwtw-3-0-0": {
       "baseline": "3.0",
       "port-version": 0
