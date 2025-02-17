@@ -3536,6 +3536,10 @@
       "baseline": "1.73.0",
       "port-version": 0
     },
+    "boost-context-1-73-0-1-0": {
+      "baseline": "1.73.0-1",
+      "port-version": 0
+    },
     "boost-contract-1-67-0-0": {
       "baseline": "1.67.0",
       "port-version": 0
@@ -17084,6 +17088,10 @@
       "baseline": "0.98.1-1",
       "port-version": 0
     },
+    "libb2-0-98-1-2-0": {
+      "baseline": "0.98.1-2",
+      "port-version": 0
+    },
     "libbf-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
@@ -25716,6 +25724,10 @@
       "baseline": "0.5",
       "port-version": 0
     },
+    "ppconsul-0-5-1-0": {
+      "baseline": "0.5-1",
+      "port-version": 0
+    },
     "pprint-2019-06-01-0": {
       "baseline": "2019-06-01",
       "port-version": 0
@@ -25798,6 +25810,10 @@
     },
     "proj4-6-3-1-0": {
       "baseline": "6.3.1",
+      "port-version": 0
+    },
+    "proj4-6-3-1-1-0": {
+      "baseline": "6.3.1-1",
       "port-version": 0
     },
     "prometheus-cpp-0-6-0-0": {
