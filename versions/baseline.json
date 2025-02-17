@@ -78804,6 +78804,10 @@
       "baseline": "3.2.3",
       "port-version": 1
     },
+    "openexr-3-2-4-0": {
+      "baseline": "3.2.4",
+      "port-version": 0
+    },
     "openfbx-2022-07-18-0": {
       "baseline": "2022-07-18",
       "port-version": 0
