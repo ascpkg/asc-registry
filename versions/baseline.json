@@ -59992,6 +59992,10 @@
       "baseline": "2021-12-05",
       "port-version": 0
     },
+    "vcpkg-cmake-2021-12-20-0": {
+      "baseline": "2021-12-20",
+      "port-version": 0
+    },
     "vcpkg-cmake-config-2021-02-26-0": {
       "baseline": "2021-02-26",
       "port-version": 0
