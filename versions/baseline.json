@@ -25928,6 +25928,10 @@
       "baseline": "2.5.0",
       "port-version": 0
     },
+    "raylib-2-6-0-0": {
+      "baseline": "2.6.0",
+      "port-version": 0
+    },
     "raylib-2019-04-27-2-0": {
       "baseline": "2019-04-27-2",
       "port-version": 0
