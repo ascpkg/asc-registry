@@ -58688,6 +58688,10 @@
       "baseline": "2021-08-10",
       "port-version": 0
     },
+    "wavelib-2021-11-26-0": {
+      "baseline": "2021-11-26",
+      "port-version": 0
+    },
     "wavpack-5-1-0-00d9a4a-0": {
       "baseline": "5.1.0-00d9a4a",
       "port-version": 0
