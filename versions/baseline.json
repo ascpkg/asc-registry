@@ -23088,6 +23088,10 @@
       "baseline": "2.5.3",
       "port-version": 0
     },
+    "libassuan-2-5-3-1": {
+      "baseline": "2.5.3",
+      "port-version": 1
+    },
     "libb2-0-98-1-0": {
       "baseline": "0.98.1",
       "port-version": 0
