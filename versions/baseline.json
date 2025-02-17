@@ -32472,6 +32472,10 @@
       "baseline": "0.10.0",
       "port-version": 0
     },
+    "thrift-0-13-0-0": {
+      "baseline": "0.13.0",
+      "port-version": 0
+    },
     "thrift-20172805-72ca60debae1d9fb35d9f0085118873669006d7f-0": {
       "baseline": "20172805-72ca60debae1d9fb35d9f0085118873669006d7f",
       "port-version": 0
