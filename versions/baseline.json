@@ -9524,6 +9524,10 @@
       "baseline": "2016.10.22-1",
       "port-version": 0
     },
+    "soci-3-2-3-1-0": {
+      "baseline": "3.2.3-1",
+      "port-version": 0
+    },
     "sol-2-18-7-0": {
       "baseline": "2.18.7",
       "port-version": 0
