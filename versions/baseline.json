@@ -2312,12 +2312,24 @@
       "baseline": "0.8",
       "port-version": 0
     },
+    "bitserializer-0-9-0": {
+      "baseline": "0.9",
+      "port-version": 0
+    },
     "bitserializer-cpprestjson-0-8-0": {
       "baseline": "0.8",
       "port-version": 0
     },
+    "bitserializer-cpprestjson-0-9-0": {
+      "baseline": "0.9",
+      "port-version": 0
+    },
     "bitserializer-rapidjson-0-8-0": {
       "baseline": "0.8",
+      "port-version": 0
+    },
+    "bitserializer-rapidjson-0-9-0": {
+      "baseline": "0.9",
       "port-version": 0
     },
     "bitsery-4-6-0-0": {
