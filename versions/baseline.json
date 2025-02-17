@@ -70788,6 +70788,10 @@
       "baseline": "1.1.37",
       "port-version": 4
     },
+    "libxslt-1-1-42-0": {
+      "baseline": "1.1.42",
+      "port-version": 0
+    },
     "libxt-1-2-1-0": {
       "baseline": "1.2.1",
       "port-version": 0
@@ -121695,6 +121699,10 @@
     "xcb-1-14-2": {
       "baseline": "1.14",
       "port-version": 2
+    },
+    "xcb-1-14-3": {
+      "baseline": "1.14",
+      "port-version": 3
     },
     "xcb-image-0-4-1-0": {
       "baseline": "0.4.1",
