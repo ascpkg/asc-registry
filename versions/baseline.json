@@ -34032,6 +34032,10 @@
       "baseline": "1.2.4",
       "port-version": 0
     },
+    "libhv-1-2-4-1": {
+      "baseline": "1.2.4",
+      "port-version": 1
+    },
     "libhydrogen-2019-08-11-0": {
       "baseline": "2019-08-11",
       "port-version": 0
