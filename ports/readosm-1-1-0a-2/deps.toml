@@ -1,0 +1,7 @@
+old = "readosm"
+new = "readosm-1-1-0a-2"
+
+[deps]
+expat-2-4-1-0 = "expat"
+vcpkg-pkgconfig-get-modules-2021-04-02-1 = "vcpkg-pkgconfig-get-modules"
+zlib-1-2-11-13 = "zlib"
