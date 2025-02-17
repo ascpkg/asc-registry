@@ -26640,6 +26640,10 @@
       "baseline": "0.19.3",
       "port-version": 0
     },
+    "caf-0-19-6-0": {
+      "baseline": "0.19.6",
+      "port-version": 0
+    },
     "caffe2-0-8-1-0": {
       "baseline": "0.8.1",
       "port-version": 0
