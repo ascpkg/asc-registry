@@ -20792,6 +20792,10 @@
       "baseline": "2018-11-17",
       "port-version": 0
     },
+    "variant-lite-1-2-2-0": {
+      "baseline": "1.2.2",
+      "port-version": 0
+    },
     "vcglib-1-0-1-0": {
       "baseline": "1.0.1",
       "port-version": 0
