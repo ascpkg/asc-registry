@@ -1,0 +1,10 @@
+old = "robotraconteur-companion"
+new = "robotraconteur-companion-0-4-1-0"
+
+[deps]
+eigen3-3-4-0-4 = "eigen3"
+opencv-4-8-0-1 = "opencv"
+robotraconteur-1-2-1-0 = "robotraconteur"
+vcpkg-cmake-2024-04-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+yaml-cpp-0-8-0-1 = "yaml-cpp"
