@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/snap7-1-4-2-1",
+      "version": "1.4.2",
+      "port-version": 1
+    }
+  ]
+}
