@@ -1,0 +1,5 @@
+old = "beast"
+new = "beast-1-0-0-b30-0"
+
+[deps]
+boost-1-63-2-0 = "boost"
