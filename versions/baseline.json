@@ -9376,6 +9376,10 @@
       "baseline": "1.1.5",
       "port-version": 3
     },
+    "cmocka-2020-08-01-0": {
+      "baseline": "2020-08-01",
+      "port-version": 0
+    },
     "cnl-2019-01-09-0": {
       "baseline": "2019-01-09",
       "port-version": 0
