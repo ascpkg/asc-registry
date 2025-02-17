@@ -19720,6 +19720,10 @@
       "baseline": "2021-08-27",
       "port-version": 1
     },
+    "cmakerc-2022-09-08-0": {
+      "baseline": "2022-09-08",
+      "port-version": 0
+    },
     "cmark-0-28-3-1-0": {
       "baseline": "0.28.3-1",
       "port-version": 0
