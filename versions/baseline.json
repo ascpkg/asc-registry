@@ -39280,6 +39280,10 @@
       "baseline": "1.1.3",
       "port-version": 3
     },
+    "pystring-1-1-3-4": {
+      "baseline": "1.1.3",
+      "port-version": 4
+    },
     "python2-2-7-15-1-0": {
       "baseline": "2.7.15-1",
       "port-version": 0
