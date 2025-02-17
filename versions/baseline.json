@@ -36048,6 +36048,10 @@
       "baseline": "3.0.3",
       "port-version": 1
     },
+    "libslirp-4-6-1-0": {
+      "baseline": "4.6.1",
+      "port-version": 0
+    },
     "libsmb2-2021-04-29-0": {
       "baseline": "2021-04-29",
       "port-version": 0
