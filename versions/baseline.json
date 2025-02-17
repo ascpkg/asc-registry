@@ -59604,6 +59604,10 @@
       "baseline": "1.17.45",
       "port-version": 0
     },
+    "level-zero-1-19-2-0": {
+      "baseline": "1.19.2",
+      "port-version": 0
+    },
     "leveldb-1-22-0": {
       "baseline": "1.22",
       "port-version": 0
