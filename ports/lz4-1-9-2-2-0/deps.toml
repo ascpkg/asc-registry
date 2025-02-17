@@ -1,0 +1,5 @@
+old = "lz4"
+new = "lz4-1-9-2-2-0"
+
+[deps]
+xxhash-0-7-0-0 = "xxhash"
