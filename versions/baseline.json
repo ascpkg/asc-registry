@@ -16168,6 +16168,10 @@
       "baseline": "4.3.2",
       "port-version": 10
     },
+    "ffmpeg-4-3-2-11": {
+      "baseline": "4.3.2",
+      "port-version": 11
+    },
     "ffmpeg-4-3-2-2": {
       "baseline": "4.3.2",
       "port-version": 2
