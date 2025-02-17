@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/liblsl-1-13-0-b4-0",
+      "version": "1.13.0-b4",
+      "port-version": 0
+    }
+  ]
+}
