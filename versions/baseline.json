@@ -23328,6 +23328,10 @@
       "baseline": "2020-05-19",
       "port-version": 1
     },
+    "lilv-0-24-10-0": {
+      "baseline": "0.24.10",
+      "port-version": 0
+    },
     "linalg-2-1-0": {
       "baseline": "2.1",
       "port-version": 0
