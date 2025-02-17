@@ -1,0 +1,24 @@
+diff --git a/Source/Projects/VS2019/Console/Console.vcxproj b/Source/Projects/VS2019/Console/Console.vcxproj
+index 3337a12..70c1942 100644
+--- a/Source/Projects/VS2019/Console/Console.vcxproj
++++ b/Source/Projects/VS2019/Console/Console.vcxproj
+@@ -180,9 +180,6 @@
+       <DataExecutionPrevention />
+       <TargetMachine>MachineX86</TargetMachine>
+     </Link>
+-    <PostBuildEvent>
+-      <Command>C:\MAC\Current\Source\Certificate\signtool.exe sign /f C:\MAC\Current\Source\Certificate\MAC3.pfx /tr http://sha256timestamp.ws.symantec.com/sha256/timestamp /td sha256 /fd sha256 /a /as /p password "$(TargetPath)"</Command>
+-    </PostBuildEvent>
+   </ItemDefinitionGroup>
+   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+     <Midl>
+@@ -272,9 +269,6 @@
+       <DataExecutionPrevention />
+       <TargetMachine>MachineX64</TargetMachine>
+     </Link>
+-    <PostBuildEvent>
+-      <Command>C:\MAC\Current\Source\Certificate\signtool.exe sign /f C:\MAC\Current\Source\Certificate\MAC3.pfx /tr http://sha256timestamp.ws.symantec.com/sha256/timestamp /td sha256 /fd sha256 /a /as /p password "$(TargetPath)"</Command>
+-    </PostBuildEvent>
+   </ItemDefinitionGroup>
+   <ItemGroup>
+     <ClCompile Include="..\..\..\Console\Console.cpp">
