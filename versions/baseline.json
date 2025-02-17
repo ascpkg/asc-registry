@@ -36464,6 +36464,10 @@
       "baseline": "0.6.12",
       "port-version": 0
     },
+    "restinio-0-6-13-0": {
+      "baseline": "0.6.13",
+      "port-version": 0
+    },
     "restinio-0-6-2-0": {
       "baseline": "0.6.2",
       "port-version": 0
