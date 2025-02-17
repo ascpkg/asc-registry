@@ -1,0 +1,5 @@
+old = "ktx"
+new = "ktx-4-0-0-1"
+
+[deps]
+zstd-1-5-2-0 = "zstd"

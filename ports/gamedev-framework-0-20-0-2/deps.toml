@@ -1,0 +1,13 @@
+old = "gamedev-framework"
+new = "gamedev-framework-0-20-0-2"
+
+[deps]
+boost-algorithm-1-78-0-0 = "boost-algorithm"
+boost-container-1-78-0-0 = "boost-container"
+boost-filesystem-1-78-0-0 = "boost-filesystem"
+boost-heap-1-78-0-0 = "boost-heap"
+freetype-2-11-0-2 = "freetype"
+pugixml-1-11-4-1 = "pugixml"
+sdl2-2-0-16-3 = "sdl2"
+stb-2020-09-14-1 = "stb"
+zlib-1-2-11-13 = "zlib"

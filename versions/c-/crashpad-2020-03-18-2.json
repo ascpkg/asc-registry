@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/crashpad-2020-03-18-2",
+      "version-date": "2020-03-18",
+      "port-version": 2
+    }
+  ]
+}

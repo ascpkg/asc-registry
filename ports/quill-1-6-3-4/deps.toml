@@ -1,0 +1,7 @@
+old = "quill"
+new = "quill-1-6-3-4"
+
+[deps]
+fmt-8-1-0-0 = "fmt"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"

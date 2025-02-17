@@ -1,0 +1,5 @@
+old = "ecsutil"
+new = "ecsutil-1-0-7-15-2"
+
+[deps]
+atlmfc-0-1 = "atlmfc"

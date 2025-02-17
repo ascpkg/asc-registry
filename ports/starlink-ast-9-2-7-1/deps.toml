@@ -1,0 +1,7 @@
+old = "starlink-ast"
+new = "starlink-ast-9-2-7-1"
+
+[deps]
+cminpack-1-3-8-1 = "cminpack"
+libyaml-0-2-5-3 = "libyaml"
+pthreads-3-0-0-10 = "pthreads"

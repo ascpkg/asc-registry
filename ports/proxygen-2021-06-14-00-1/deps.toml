@@ -1,0 +1,18 @@
+old = "proxygen"
+new = "proxygen-2021-06-14-00-1"
+
+[deps]
+boost-context-1-78-0-0 = "boost-context"
+boost-date-time-1-78-0-0 = "boost-date-time"
+boost-filesystem-1-78-0-0 = "boost-filesystem"
+boost-iostreams-1-78-0-0 = "boost-iostreams"
+boost-program-options-1-78-0-0 = "boost-program-options"
+boost-regex-1-78-0-0 = "boost-regex"
+boost-system-1-78-0-0 = "boost-system"
+boost-thread-1-78-0-0 = "boost-thread"
+fizz-2021-06-14-00-0 = "fizz"
+folly-2021-06-14-00-4 = "folly"
+openssl-1-1-1m-1 = "openssl"
+wangle-2021-06-14-00-0 = "wangle"
+zlib-1-2-11-13 = "zlib"
+zstd-1-5-2-0 = "zstd"

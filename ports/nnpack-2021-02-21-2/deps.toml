@@ -1,0 +1,9 @@
+old = "nnpack"
+new = "nnpack-2021-02-21-2"
+
+[deps]
+cpuinfo-2021-04-04-0 = "cpuinfo"
+fp16-2021-02-21-0 = "fp16"
+fxdiv-2021-02-21-0 = "fxdiv"
+psimd-2021-02-21-0 = "psimd"
+pthreadpool-2020-04-10-1 = "pthreadpool"

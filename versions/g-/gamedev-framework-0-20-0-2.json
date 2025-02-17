@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gamedev-framework-0-20-0-2",
+      "version-semver": "0.20.0",
+      "port-version": 2
+    }
+  ]
+}

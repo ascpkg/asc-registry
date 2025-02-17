@@ -1,0 +1,5 @@
+old = "dxut"
+new = "dxut-11-26-1"
+
+[deps]
+directxmath-jan2021-1 = "directxmath"

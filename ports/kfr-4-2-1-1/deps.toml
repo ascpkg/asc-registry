@@ -1,0 +1,6 @@
+old = "kfr"
+new = "kfr-4-2-1-1"
+
+[deps]
+kfr-4-2-1-1 = "kfr"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"

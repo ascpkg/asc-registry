@@ -1,0 +1,11 @@
+old = "libhsplasma"
+new = "libhsplasma-2021-06-08-1"
+
+[deps]
+libjpeg-turbo-2-1-2-0 = "libjpeg-turbo"
+libpng-1-6-37-16 = "libpng"
+openssl-1-1-1m-1 = "openssl"
+string-theory-3-5-0 = "string-theory"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"
+zlib-1-2-11-13 = "zlib"

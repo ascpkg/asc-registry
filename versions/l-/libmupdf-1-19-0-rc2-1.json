@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libmupdf-1-19-0-rc2-1",
+      "version": "1.19.0-rc2",
+      "port-version": 1
+    }
+  ]
+}

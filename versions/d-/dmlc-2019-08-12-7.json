@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/dmlc-2019-08-12-7",
+      "version-date": "2019-08-12",
+      "port-version": 7
+    }
+  ]
+}

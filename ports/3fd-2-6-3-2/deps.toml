@@ -1,0 +1,9 @@
+old = "3fd"
+new = "3fd-2-6-3-2"
+
+[deps]
+boost-lockfree-1-78-0-0 = "boost-lockfree"
+boost-regex-1-78-0-0 = "boost-regex"
+poco-1-11-0-2 = "poco"
+rapidxml-1-13-5 = "rapidxml"
+sqlite3-3-37-0-1 = "sqlite3"

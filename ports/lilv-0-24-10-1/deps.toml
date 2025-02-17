@@ -1,0 +1,8 @@
+old = "lilv"
+new = "lilv-0-24-10-1"
+
+[deps]
+lv2-1-18-2-1 = "lv2"
+serd-0-30-4-0 = "serd"
+sord-0-16-4-0 = "sord"
+sratom-0-6-4-0 = "sratom"

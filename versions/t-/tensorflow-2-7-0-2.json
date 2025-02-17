@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/tensorflow-2-7-0-2",
+      "version-semver": "2.7.0",
+      "port-version": 2
+    }
+  ]
+}

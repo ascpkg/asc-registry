@@ -1,0 +1,10 @@
+old = "jaeger-client-cpp"
+new = "jaeger-client-cpp-0-7-0-1"
+
+[deps]
+nlohmann-json-3-10-5-0 = "nlohmann-json"
+opentracing-1-6-0-2 = "opentracing"
+thrift-0-13-0-2 = "thrift"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"
+yaml-cpp-0-7-0-1 = "yaml-cpp"

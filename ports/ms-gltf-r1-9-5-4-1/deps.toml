@@ -1,0 +1,7 @@
+old = "ms-gltf"
+new = "ms-gltf-r1-9-5-4-1"
+
+[deps]
+gtest-1-11-0-3 = "gtest"
+rapidjson-2020-09-14-2 = "rapidjson"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"

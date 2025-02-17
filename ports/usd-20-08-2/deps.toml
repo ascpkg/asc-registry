@@ -1,0 +1,16 @@
+old = "usd"
+new = "usd-20-08-2"
+
+[deps]
+boost-assign-1-78-0-0 = "boost-assign"
+boost-crc-1-78-0-0 = "boost-crc"
+boost-date-time-1-78-0-0 = "boost-date-time"
+boost-filesystem-1-78-0-0 = "boost-filesystem"
+boost-format-1-78-0-0 = "boost-format"
+boost-multi-index-1-78-0-0 = "boost-multi-index"
+boost-program-options-1-78-0-0 = "boost-program-options"
+boost-regex-1-78-0-0 = "boost-regex"
+boost-system-1-78-0-0 = "boost-system"
+boost-vmd-1-78-0-0 = "boost-vmd"
+tbb-2020-u3-7 = "tbb"
+zlib-1-2-11-13 = "zlib"

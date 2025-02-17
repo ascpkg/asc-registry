@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/wpilib-2020-3-2-2",
+      "version-string": "2020.3.2",
+      "port-version": 2
+    }
+  ]
+}

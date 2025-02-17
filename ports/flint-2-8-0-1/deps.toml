@@ -1,0 +1,9 @@
+old = "flint"
+new = "flint-2-8-0-1"
+
+[deps]
+gettimeofday-2017-10-14-4 = "gettimeofday"
+gmp-6-2-1-7 = "gmp"
+mpfr-4-1-0-2 = "mpfr"
+pthreads-3-0-0-10 = "pthreads"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"

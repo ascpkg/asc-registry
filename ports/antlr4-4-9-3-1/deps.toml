@@ -1,0 +1,6 @@
+old = "antlr4"
+new = "antlr4-4-9-3-1"
+
+[deps]
+libuuid-1-0-3-11 = "libuuid"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
