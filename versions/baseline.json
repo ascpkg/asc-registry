@@ -1264,6 +1264,10 @@
       "baseline": "1.3.25",
       "port-version": 0
     },
+    "graphicsmagick-1-3-26-0": {
+      "baseline": "1.3.26",
+      "port-version": 0
+    },
     "grpc-1-1-0-dev-1674f65-0": {
       "baseline": "1.1.0-dev-1674f65",
       "port-version": 0
