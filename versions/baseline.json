@@ -60708,6 +60708,10 @@
       "baseline": "1.14.0",
       "port-version": 0
     },
+    "libfido2-1-15-0-0": {
+      "baseline": "1.15.0",
+      "port-version": 0
+    },
     "libfido2-1-7-0-0": {
       "baseline": "1.7.0",
       "port-version": 0
