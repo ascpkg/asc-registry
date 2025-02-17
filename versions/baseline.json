@@ -23928,6 +23928,10 @@
       "baseline": "2.0.6",
       "port-version": 0
     },
+    "flecs-2-4-8-0": {
+      "baseline": "2.4.8",
+      "port-version": 0
+    },
     "flint-2-5-2-0": {
       "baseline": "2.5.2",
       "port-version": 0
