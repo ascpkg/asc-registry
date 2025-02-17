@@ -109008,6 +109008,10 @@
       "baseline": "2.4.0",
       "port-version": 0
     },
+    "spglib-2-5-0-0": {
+      "baseline": "2.5.0",
+      "port-version": 0
+    },
     "spine-runtimes-4-1-0-0": {
       "baseline": "4.1.0",
       "port-version": 0
