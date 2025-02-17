@@ -110788,6 +110788,10 @@
       "baseline": "6.73",
       "port-version": 0
     },
+    "xbyak-7-6-0": {
+      "baseline": "7.6",
+      "port-version": 0
+    },
     "xcb-1-14-0": {
       "baseline": "1.14",
       "port-version": 0
