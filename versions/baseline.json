@@ -8356,6 +8356,10 @@
       "baseline": "1.4.3",
       "port-version": 0
     },
+    "coroutine-1-5-0-0": {
+      "baseline": "1.5.0",
+      "port-version": 0
+    },
     "coroutine-2020-01-13-0": {
       "baseline": "2020-01-13",
       "port-version": 0
