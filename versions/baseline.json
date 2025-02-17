@@ -692,6 +692,10 @@
       "baseline": "5.0.0",
       "port-version": 0
     },
+    "azure-storage-cpp-5-1-0-0": {
+      "baseline": "5.1.0",
+      "port-version": 0
+    },
     "azure-uamqp-c-1-0-0-pre-release-1-0-9-0": {
       "baseline": "1.0.0-pre-release-1.0.9",
       "port-version": 0
