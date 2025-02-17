@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libfabric-1-13-2-0",
+      "version-semver": "1.13.2",
+      "port-version": 0
+    }
+  ]
+}
