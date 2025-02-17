@@ -1,0 +1,13 @@
+old = "ignition-common3"
+new = "ignition-common3-3-14-1-0"
+
+[deps]
+dlfcn-win32-1-3-1-1 = "dlfcn-win32"
+ffmpeg-4-4-3-1 = "ffmpeg"
+freeimage-3-18-0-24 = "freeimage"
+gts-0-7-6-7 = "gts"
+ignition-cmake2-2-16-0-0 = "ignition-cmake2"
+ignition-math6-6-9-2-0 = "ignition-math6"
+ignition-modularscripts-2022-05-11-1 = "ignition-modularscripts"
+libuuid-1-0-3-11 = "libuuid"
+tinyxml2-9-0-0-2 = "tinyxml2"
