@@ -2696,6 +2696,10 @@
       "baseline": "beta_2020-07-09",
       "port-version": 0
     },
+    "blend2d-beta-2020-07-31-0": {
+      "baseline": "beta_2020-07-31",
+      "port-version": 0
+    },
     "blitz-2019-09-26-0": {
       "baseline": "2019-09-26",
       "port-version": 0
