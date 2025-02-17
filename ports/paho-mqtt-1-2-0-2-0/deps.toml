@@ -1,0 +1,5 @@
+old = "paho-mqtt"
+new = "paho-mqtt-1-2-0-2-0"
+
+[deps]
+openssl-1-0-2l-2-0 = "openssl"
