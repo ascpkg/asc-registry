@@ -1,0 +1,5 @@
+old = "cudnn"
+new = "cudnn-7-6-5-13"
+
+[deps]
+cuda-10-1-13 = "cuda"
