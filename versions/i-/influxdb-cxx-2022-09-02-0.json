@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/influxdb-cxx-2022-09-02-0",
+      "version-date": "2022-09-02",
+      "port-version": 0
+    }
+  ]
+}
