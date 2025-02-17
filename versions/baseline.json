@@ -105560,6 +105560,10 @@
       "baseline": "3.3.1",
       "port-version": 0
     },
+    "rapidfuzz-3-3-2-0": {
+      "baseline": "3.3.2",
+      "port-version": 0
+    },
     "rapidhash-2024-06-08-0": {
       "baseline": "2024-06-08",
       "port-version": 0
