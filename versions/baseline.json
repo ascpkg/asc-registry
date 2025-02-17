@@ -29696,6 +29696,10 @@
       "baseline": "5.15.0",
       "port-version": 0
     },
+    "qt5-webengine-5-15-0-1": {
+      "baseline": "5.15.0",
+      "port-version": 1
+    },
     "qt5-webglplugin-5-12-7-0": {
       "baseline": "5.12.7",
       "port-version": 0
