@@ -1,0 +1,7 @@
+old = "azure-security-keyvault-keys-cpp"
+new = "azure-security-keyvault-keys-cpp-4-0-0-beta-3-0"
+
+[deps]
+azure-security-keyvault-common-cpp-4-0-0-beta-3-0 = "azure-security-keyvault-common-cpp"
+vcpkg-cmake-2021-02-28-3 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-0 = "vcpkg-cmake-config"
