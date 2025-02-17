@@ -1112,6 +1112,10 @@
       "baseline": "10.1.0",
       "port-version": 0
     },
+    "armadillo-10-1-0-1": {
+      "baseline": "10.1.0",
+      "port-version": 1
+    },
     "armadillo-2019-04-16-1-0": {
       "baseline": "2019-04-16-1",
       "port-version": 0
