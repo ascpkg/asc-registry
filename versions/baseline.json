@@ -12076,6 +12076,10 @@
       "baseline": "0.7.0-3",
       "port-version": 0
     },
+    "evpp-0-7-0-4": {
+      "baseline": "0.7.0",
+      "port-version": 4
+    },
     "exiv2-0-27-0": {
       "baseline": "0.27",
       "port-version": 0
@@ -12703,6 +12707,10 @@
     "fizz-2020-02-03-00-0": {
       "baseline": "2020.02.03.00",
       "port-version": 0
+    },
+    "fizz-2020-02-03-00-1": {
+      "baseline": "2020.02.03.00",
+      "port-version": 1
     },
     "flann-1-9-1-0": {
       "baseline": "1.9.1",
@@ -18158,6 +18166,10 @@
     },
     "libevent-2-1-11-5-0": {
       "baseline": "2.1.11-5",
+      "port-version": 0
+    },
+    "libevent-2-1-12-0": {
+      "baseline": "2.1.12",
       "port-version": 0
     },
     "libevent-2-1-8-0": {
