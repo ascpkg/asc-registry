@@ -2,4 +2,4 @@ old = "fribidi"
 new = "fribidi-2019-02-04-2-0"
 
 [deps]
-tool-meson-0-52-0-0 = "tool-meson"
+tool-meson-0-53-2-0 = "tool-meson"
