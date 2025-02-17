@@ -884,6 +884,10 @@
       "baseline": "1.8.2-1",
       "port-version": 0
     },
+    "avro-c-1-8-2-2-0": {
+      "baseline": "1.8.2-2",
+      "port-version": 0
+    },
     "aws-c-common-0-3-0-0": {
       "baseline": "0.3.0",
       "port-version": 0
@@ -5964,6 +5968,10 @@
       "baseline": "1.1.0-2",
       "port-version": 0
     },
+    "cppcms-1-2-1-0": {
+      "baseline": "1.2.1",
+      "port-version": 0
+    },
     "cppcodec-0-2-0": {
       "baseline": "0.2",
       "port-version": 0
@@ -6518,6 +6526,10 @@
     },
     "dcmtk-3-6-3-1-0": {
       "baseline": "3.6.3-1",
+      "port-version": 0
+    },
+    "dcmtk-3-6-4-0": {
+      "baseline": "3.6.4",
       "port-version": 0
     },
     "decimal-for-cpp-1-12-0": {
@@ -7496,6 +7508,10 @@
       "baseline": "1.15.0-1",
       "port-version": 0
     },
+    "ensmallen-1-15-1-0": {
+      "baseline": "1.15.1",
+      "port-version": 0
+    },
     "entityx--0": {
       "baseline": "",
       "port-version": 0
@@ -7788,6 +7804,10 @@
       "baseline": "1.0.6-2",
       "port-version": 0
     },
+    "fastcdr-1-0-9-1-0": {
+      "baseline": "1.0.9-1",
+      "port-version": 0
+    },
     "fastfeat-391d5e9-0": {
       "baseline": "391d5e9",
       "port-version": 0
@@ -7990,6 +8010,10 @@
     },
     "fizz-2019-05-13-00-0": {
       "baseline": "2019.05.13.00",
+      "port-version": 0
+    },
+    "fizz-2019-05-20-00-0": {
+      "baseline": "2019.05.20.00",
       "port-version": 0
     },
     "flann-1-9-1-0": {
@@ -8348,6 +8372,10 @@
       "baseline": "2019.05.13.00",
       "port-version": 0
     },
+    "folly-2019-05-20-00-0": {
+      "baseline": "2019.05.20.00",
+      "port-version": 0
+    },
     "folly-v2017-05-08-00-0": {
       "baseline": "v2017.05.08.00",
       "port-version": 0
@@ -8694,6 +8722,10 @@
     },
     "ftgl-2-3-1-0": {
       "baseline": "2.3.1",
+      "port-version": 0
+    },
+    "ftgl-2-4-0-1-0": {
+      "baseline": "2.4.0-1",
       "port-version": 0
     },
     "fuzzylite-6-0-0": {
@@ -9106,6 +9138,10 @@
     },
     "gflags-2-2-2-1-0": {
       "baseline": "2.2.2-1",
+      "port-version": 0
+    },
+    "gherkin-c-4-1-2-0": {
+      "baseline": "4.1.2",
       "port-version": 0
     },
     "gherkin-c-c-libs-e63e83104b-0": {
@@ -9682,6 +9718,10 @@
     },
     "grpc-1-20-1-1-0": {
       "baseline": "1.20.1-1",
+      "port-version": 0
+    },
+    "grpc-1-21-1-0": {
+      "baseline": "1.21.1",
       "port-version": 0
     },
     "grpc-1-3-1-0": {
@@ -10436,6 +10476,10 @@
       "baseline": "43",
       "port-version": 0
     },
+    "inih-44-0": {
+      "baseline": "44",
+      "port-version": 0
+    },
     "inja-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
@@ -10500,6 +10544,10 @@
       "baseline": "1.4",
       "port-version": 0
     },
+    "ismrmrd-1-4-0-0": {
+      "baseline": "1.4.0",
+      "port-version": 0
+    },
     "itk-4-11-0-0": {
       "baseline": "4.11.0",
       "port-version": 0
@@ -10558,6 +10606,10 @@
     },
     "jansson-2-11-2-0": {
       "baseline": "2.11-2",
+      "port-version": 0
+    },
+    "jansson-2-12-0": {
+      "baseline": "2.12",
       "port-version": 0
     },
     "jansson-v2-10-0": {
@@ -11396,6 +11448,10 @@
       "baseline": "0.28.1",
       "port-version": 0
     },
+    "libgit2-0-28-2-0": {
+      "baseline": "0.28.2",
+      "port-version": 0
+    },
     "libgo-2-7-0": {
       "baseline": "2.7",
       "port-version": 0
@@ -11488,6 +11544,10 @@
       "baseline": "1.6.2",
       "port-version": 0
     },
+    "libics-1-6-3-0": {
+      "baseline": "1.6.3",
+      "port-version": 0
+    },
     "libideviceactivation-1-0-38-1-0": {
       "baseline": "1.0.38-1",
       "port-version": 0
@@ -11522,6 +11582,10 @@
     },
     "libimobiledevice-1-2-1-215-1-0": {
       "baseline": "1.2.1.215-1",
+      "port-version": 0
+    },
+    "libimobiledevice-1-2-76-0": {
+      "baseline": "1.2.76",
       "port-version": 0
     },
     "libirecovery-1-0-25-1-0": {
@@ -12004,6 +12068,10 @@
       "baseline": "2018-07-14",
       "port-version": 0
     },
+    "libplist-1-2-77-0": {
+      "baseline": "1.2.77",
+      "port-version": 0
+    },
     "libplist-2-0-1-197-1-0": {
       "baseline": "2.0.1.197-1",
       "port-version": 0
@@ -12142,6 +12210,10 @@
     },
     "libpqxx-6-4-4-0": {
       "baseline": "6.4.4",
+      "port-version": 0
+    },
+    "libqglviewer-2-7-0-0": {
+      "baseline": "2.7.0",
       "port-version": 0
     },
     "libqglviewer-2-7-1-0": {
@@ -12560,6 +12632,10 @@
       "baseline": "4.1",
       "port-version": 0
     },
+    "libunibreak-4-2-0": {
+      "baseline": "4.2",
+      "port-version": 0
+    },
     "libusb-1-0-21-fc99620-0": {
       "baseline": "1.0.21-fc99620",
       "port-version": 0
@@ -12590,6 +12666,10 @@
     },
     "libusbmuxd-1-0-107-2-0": {
       "baseline": "1.0.107-2",
+      "port-version": 0
+    },
+    "libusbmuxd-1-2-77-0": {
+      "baseline": "1.2.77",
       "port-version": 0
     },
     "libuuid-1-0-3-0": {
@@ -12718,6 +12798,10 @@
     },
     "libuv-1-29-0-0": {
       "baseline": "1.29.0",
+      "port-version": 0
+    },
+    "libuv-1-29-1-0": {
+      "baseline": "1.29.1",
       "port-version": 0
     },
     "libuv-1-9-1-0": {
@@ -12942,6 +13026,10 @@
     },
     "libyaml-0-2-1-1-0": {
       "baseline": "0.2.1-1",
+      "port-version": 0
+    },
+    "libyaml-0-2-2-0": {
+      "baseline": "0.2.2",
       "port-version": 0
     },
     "libzip-1-2-0-0": {
@@ -13672,6 +13760,10 @@
       "baseline": "2.0.8",
       "port-version": 0
     },
+    "miniz-2-1-0-0": {
+      "baseline": "2.1.0",
+      "port-version": 0
+    },
     "minizip-1-2-11-0": {
       "baseline": "1.2.11",
       "port-version": 0
@@ -13874,6 +13966,10 @@
     },
     "mosquitto-1-5-0-3-0": {
       "baseline": "1.5.0-3",
+      "port-version": 0
+    },
+    "mosquitto-1-6-2-2-0": {
+      "baseline": "1.6.2-2",
       "port-version": 0
     },
     "mozjpeg-3-2-0": {
@@ -14436,6 +14532,10 @@
       "baseline": "1.7.2-1",
       "port-version": 0
     },
+    "nmslib-1-7-3-6-0": {
+      "baseline": "1.7.3.6",
+      "port-version": 0
+    },
     "nng-1-0-1-0": {
       "baseline": "1.0.1",
       "port-version": 0
@@ -14654,6 +14754,10 @@
     },
     "ogre-1-11-3-4-0": {
       "baseline": "1.11.3-4",
+      "port-version": 0
+    },
+    "ogre-1-12-0-0": {
+      "baseline": "1.12.0",
       "port-version": 0
     },
     "ogre-1-9-0-0": {
@@ -15368,6 +15472,10 @@
       "baseline": "2018-03-21",
       "port-version": 0
     },
+    "openvpn3-2018-03-21-1-0": {
+      "baseline": "2018-03-21-1",
+      "port-version": 0
+    },
     "openvr-1-0-12-0": {
       "baseline": "1.0.12",
       "port-version": 0
@@ -15398,6 +15506,10 @@
     },
     "openvr-1-1-3b-0": {
       "baseline": "1.1.3b",
+      "port-version": 0
+    },
+    "openvr-1-4-18-0": {
+      "baseline": "1.4.18",
       "port-version": 0
     },
     "optional-bare-1-1-0-0": {
@@ -15926,6 +16038,10 @@
     },
     "pdcurses-3-6-0": {
       "baseline": "3.6",
+      "port-version": 0
+    },
+    "pdcurses-3-8-0": {
+      "baseline": "3.8",
       "port-version": 0
     },
     "pegtl-2-2-8-0-0": {
@@ -18072,6 +18188,10 @@
       "baseline": "0.2.0",
       "port-version": 0
     },
+    "robin-map-0-6-1-0": {
+      "baseline": "0.6.1",
+      "port-version": 0
+    },
     "rocksdb-2017-06-28-18c63af6ef2b9f014c404b88488ae52e6fead03c-0": {
       "baseline": "2017-06-28-18c63af6ef2b9f014c404b88488ae52e6fead03c",
       "port-version": 0
@@ -19084,6 +19204,10 @@
       "baseline": "3.0.1",
       "port-version": 0
     },
+    "snowhouse-3-1-0-0": {
+      "baseline": "3.1.0",
+      "port-version": 0
+    },
     "so5extra-1-2-1-0": {
       "baseline": "1.2.1",
       "port-version": 0
@@ -19218,6 +19342,10 @@
     },
     "sol2-2-20-6-0": {
       "baseline": "2.20.6",
+      "port-version": 0
+    },
+    "sol2-3-0-2-0": {
+      "baseline": "3.0.2",
       "port-version": 0
     },
     "solid3-3-5-8-0": {
@@ -19452,6 +19580,10 @@
       "baseline": "3.2",
       "port-version": 0
     },
+    "sqlite-modern-cpp-3-2-936cd0c8-0": {
+      "baseline": "3.2-936cd0c8",
+      "port-version": 0
+    },
     "sqlite-modern-cpp-3-2-e2248fa-0": {
       "baseline": "3.2-e2248fa",
       "port-version": 0
@@ -19556,6 +19688,10 @@
       "baseline": "2.2-2",
       "port-version": 0
     },
+    "sqlitecpp-2-3-0-0": {
+      "baseline": "2.3.0",
+      "port-version": 0
+    },
     "sqlpp11-0-57-0": {
       "baseline": "0.57",
       "port-version": 0
@@ -19614,6 +19750,10 @@
     },
     "stormlib-9-22-0": {
       "baseline": "9.22",
+      "port-version": 0
+    },
+    "strict-variant-0-5-0": {
+      "baseline": "0.5",
       "port-version": 0
     },
     "strict-variant-v0-5-0": {
@@ -19862,6 +20002,10 @@
     },
     "tbb-2019-u6-0": {
       "baseline": "2019_u6",
+      "port-version": 0
+    },
+    "tbb-2019-u7-0": {
+      "baseline": "2019_u7",
       "port-version": 0
     },
     "tclap-1-2-1-0": {
@@ -20348,6 +20492,10 @@
       "baseline": "2.2.0",
       "port-version": 0
     },
+    "tinyobjloader-1-0-7-0": {
+      "baseline": "1.0.7",
+      "port-version": 0
+    },
     "tinyobjloader-1-2-0-1-0": {
       "baseline": "1.2.0-1",
       "port-version": 0
@@ -20772,6 +20920,10 @@
       "baseline": "1.0.3",
       "port-version": 0
     },
+    "urdfdom-headers-1-0-4-0": {
+      "baseline": "1.0.4",
+      "port-version": 0
+    },
     "urdfdom_headers-1-0-0-1-0": {
       "baseline": "1.0.0-1",
       "port-version": 0
@@ -20882,6 +21034,10 @@
     },
     "utfz-1-2-1-0": {
       "baseline": "1.2-1",
+      "port-version": 0
+    },
+    "uvatlas-apr2019-0": {
+      "baseline": "apr2019",
       "port-version": 0
     },
     "uvatlas-sept2016-0": {
@@ -21176,6 +21332,10 @@
       "baseline": "2019.05.13.00",
       "port-version": 0
     },
+    "wangle-2019-05-20-00-0": {
+      "baseline": "2019.05.20.00",
+      "port-version": 0
+    },
     "wangle-v2018-07-30-00-1-0": {
       "baseline": "v2018.07.30.00-1",
       "port-version": 0
@@ -21466,6 +21626,10 @@
     },
     "xeus-0-19-1-1-0": {
       "baseline": "0.19.1-1",
+      "port-version": 0
+    },
+    "xeus-0-19-2-0": {
+      "baseline": "0.19.2",
       "port-version": 0
     },
     "xeus-2019-02-13-1-0": {
