@@ -39600,6 +39600,10 @@
       "baseline": "2.4.2",
       "port-version": 0
     },
+    "libharu-2-4-3-0": {
+      "baseline": "2.4.3",
+      "port-version": 0
+    },
     "libharu-2017-08-15-10": {
       "baseline": "2017-08-15",
       "port-version": 10
