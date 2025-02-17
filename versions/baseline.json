@@ -113268,6 +113268,10 @@
       "baseline": "3.10.5",
       "port-version": 0
     },
+    "stringzilla-3-11-2-0": {
+      "baseline": "3.11.2",
+      "port-version": 0
+    },
     "stringzilla-3-7-0-0": {
       "baseline": "3.7.0",
       "port-version": 0
