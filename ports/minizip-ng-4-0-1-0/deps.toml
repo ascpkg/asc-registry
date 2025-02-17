@@ -1,0 +1,12 @@
+old = "minizip-ng"
+new = "minizip-ng-4-0-1-0"
+
+[deps]
+bzip2-1-0-8-5 = "bzip2"
+liblzma-5-4-4-0 = "liblzma"
+minizip-ng-4-0-1-0 = "minizip-ng"
+openssl-3-1-3-0 = "openssl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-3-0 = "zlib"
+zstd-1-5-5-1 = "zstd"
