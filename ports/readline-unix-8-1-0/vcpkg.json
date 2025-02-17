@@ -1,0 +1,6 @@
+{
+  "name": "readline-unix-8-1-0",
+  "version": "8.1",
+  "description": "Implementation of readline for unix",
+  "supports": "!windows"
+}
