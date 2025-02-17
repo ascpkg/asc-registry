@@ -87688,6 +87688,10 @@
       "baseline": "0.9.6",
       "port-version": 0
     },
+    "roaring-2-0-4-0": {
+      "baseline": "2.0.4",
+      "port-version": 0
+    },
     "roaring-2019-03-05-1-0": {
       "baseline": "2019-03-05-1",
       "port-version": 0
