@@ -33456,6 +33456,10 @@
       "baseline": "1.8",
       "port-version": 4
     },
+    "kinectsdk1-1-8-5": {
+      "baseline": "1.8",
+      "port-version": 5
+    },
     "kinectsdk2-2-0-0": {
       "baseline": "2.0",
       "port-version": 0
@@ -33471,6 +33475,10 @@
     "kinectsdk2-2-0-3": {
       "baseline": "2.0",
       "port-version": 3
+    },
+    "kinectsdk2-2-0-4": {
+      "baseline": "2.0",
+      "port-version": 4
     },
     "kissfft-2020-03-30-0": {
       "baseline": "2020-03-30",
