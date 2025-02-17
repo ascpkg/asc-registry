@@ -65356,6 +65356,10 @@
       "baseline": "2.4.13.7",
       "port-version": 18
     },
+    "opencv2-2-4-13-7-19": {
+      "baseline": "2.4.13.7",
+      "port-version": 19
+    },
     "opencv2-2-4-13-7-2": {
       "baseline": "2.4.13.7",
       "port-version": 2
