@@ -52080,6 +52080,10 @@
       "baseline": "2.4.0",
       "port-version": 4
     },
+    "libigl-2-5-0-0": {
+      "baseline": "2.5.0",
+      "port-version": 0
+    },
     "libilbc-3-0-3-0": {
       "baseline": "3.0.3",
       "port-version": 0
