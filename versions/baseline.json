@@ -36196,6 +36196,10 @@
       "baseline": "878.270.2",
       "port-version": 0
     },
+    "mdspan-2021-11-03-0": {
+      "baseline": "2021-11-03",
+      "port-version": 0
+    },
     "mecab-0-996-0": {
       "baseline": "0.996",
       "port-version": 0
