@@ -1,0 +1,6 @@
+old = "cppgraphqlgen"
+new = "cppgraphqlgen-2-1-0-0"
+
+[deps]
+pegtl-2-7-1-0 = "pegtl"
+rapidjson-1-1-0-3-0 = "rapidjson"
