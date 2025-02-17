@@ -42164,6 +42164,10 @@
       "baseline": "2.3.1",
       "port-version": 1
     },
+    "tensorflow-2-4-1-0": {
+      "baseline": "2.4.1",
+      "port-version": 0
+    },
     "tensorflow-cc-1-14-0": {
       "baseline": "1.14",
       "port-version": 0
@@ -42200,6 +42204,10 @@
       "baseline": "2.3.1",
       "port-version": 2
     },
+    "tensorflow-cc-2-4-1-0": {
+      "baseline": "2.4.1",
+      "port-version": 0
+    },
     "tensorflow-common-2-3-1-0": {
       "baseline": "2.3.1",
       "port-version": 0
@@ -42207,6 +42215,10 @@
     "tensorflow-common-2-3-1-1": {
       "baseline": "2.3.1",
       "port-version": 1
+    },
+    "tensorflow-common-2-4-1-0": {
+      "baseline": "2.4.1",
+      "port-version": 0
     },
     "termcolor-1-0-1-0": {
       "baseline": "1.0.1",
