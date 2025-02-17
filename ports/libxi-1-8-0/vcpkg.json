@@ -1,0 +1,10 @@
+{
+  "name": "libxi-1-8-0",
+  "version": "1.8",
+  "description": "Xlib library for the X Input Extension",
+  "homepage": "https://gitlab.freedesktop.org/xorg/lib/libxi",
+  "dependencies": [
+    "libxext",
+    "libxfixes"
+  ]
+}
