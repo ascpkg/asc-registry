@@ -1,0 +1,5 @@
+old = "openxr-loader"
+new = "openxr-loader-2019-09-25-0"
+
+[deps]
+vulkan-1-1-82-1-1-0 = "vulkan"
