@@ -4412,6 +4412,10 @@
       "baseline": "1.11",
       "port-version": 5
     },
+    "basisu-1-11-6": {
+      "baseline": "1.11",
+      "port-version": 6
+    },
     "bcg729-1-1-1-0": {
       "baseline": "1.1.1",
       "port-version": 0
