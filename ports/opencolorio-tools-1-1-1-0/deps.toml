@@ -1,0 +1,5 @@
+old = "opencolorio-tools"
+new = "opencolorio-tools-1-1-1-0"
+
+[deps]
+openimageio-2-1-16-0-2 = "openimageio"
