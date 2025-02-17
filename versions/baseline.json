@@ -9576,6 +9576,10 @@
       "baseline": "2.0.0.2",
       "port-version": 0
     },
+    "spaceland-7-8-2-0-0": {
+      "baseline": "7.8.2-0",
+      "port-version": 0
+    },
     "spatialite-tools-4-3-0-0": {
       "baseline": "4.3.0",
       "port-version": 0
