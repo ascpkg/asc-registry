@@ -8500,6 +8500,10 @@
       "baseline": "4.0.8",
       "port-version": 0
     },
+    "bit7z-4-0-9-0": {
+      "baseline": "4.0.9",
+      "port-version": 0
+    },
     "bitmagic-6-4-0-0": {
       "baseline": "6.4.0",
       "port-version": 0
