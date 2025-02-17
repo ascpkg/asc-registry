@@ -1,0 +1,6 @@
+old = "halide"
+new = "halide-12-0-1-0"
+
+[deps]
+halide-12-0-1-0 = "halide"
+llvm-12-0-0-0 = "llvm"
