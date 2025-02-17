@@ -1,0 +1,5 @@
+old = "mdns"
+new = "mdns-1-4-1-0"
+
+[deps]
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
