@@ -1,0 +1,5 @@
+old = "gl3w"
+new = "gl3w-99ed3211-0"
+
+[deps]
+opengl-registry-2018-06-30-1-0 = "opengl-registry"
