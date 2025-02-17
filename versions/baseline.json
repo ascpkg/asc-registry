@@ -25404,6 +25404,10 @@
       "baseline": "0.1.0",
       "port-version": 0
     },
+    "fastgltf-0-2-0-0": {
+      "baseline": "0.2.0",
+      "port-version": 0
+    },
     "fastlz-1-0-0": {
       "baseline": "1.0",
       "port-version": 0
