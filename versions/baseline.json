@@ -9144,6 +9144,10 @@
       "baseline": "2018-06-15-2",
       "port-version": 0
     },
+    "curlpp-2018-06-15-3-0": {
+      "baseline": "2018-06-15-3",
+      "port-version": 0
+    },
     "cute-headers-2019-09-20-0": {
       "baseline": "2019-09-20",
       "port-version": 0
