@@ -56020,6 +56020,10 @@
       "baseline": "2023-06-21",
       "port-version": 0
     },
+    "libusbmuxd-2023-06-21-1": {
+      "baseline": "2023-06-21",
+      "port-version": 1
+    },
     "libuuid-1-0-3-0": {
       "baseline": "1.0.3",
       "port-version": 0
