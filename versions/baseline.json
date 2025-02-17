@@ -36648,6 +36648,10 @@
       "baseline": "11.1.5.3",
       "port-version": 0
     },
+    "ffnvcodec-12-1-14-0-0": {
+      "baseline": "12.1.14.0",
+      "port-version": 0
+    },
     "ffnvcodec-9-1-23-0-0": {
       "baseline": "9.1.23.0",
       "port-version": 0
