@@ -10108,6 +10108,10 @@
       "baseline": "2.05",
       "port-version": 0
     },
+    "fftwpp-2019-12-19-0": {
+      "baseline": "2019-12-19",
+      "port-version": 0
+    },
     "field3d-1-7-2-0": {
       "baseline": "1.7.2",
       "port-version": 0
