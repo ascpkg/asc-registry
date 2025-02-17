@@ -1,0 +1,6 @@
+old = "tinyxml2"
+new = "tinyxml2-10-0-0-0"
+
+[deps]
+vcpkg-cmake-2024-04-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
