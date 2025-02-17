@@ -66168,6 +66168,10 @@
       "baseline": "3.11.2",
       "port-version": 0
     },
+    "nlohmann-json-3-11-3-0": {
+      "baseline": "3.11.3",
+      "port-version": 0
+    },
     "nlohmann-json-3-2-0-0": {
       "baseline": "3.2.0",
       "port-version": 0
