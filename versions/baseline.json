@@ -11028,6 +11028,10 @@
       "baseline": "3.4.0-1",
       "port-version": 0
     },
+    "fruit-3-4-0-2-0": {
+      "baseline": "3.4.0-2",
+      "port-version": 0
+    },
     "ftgl-2-3-1-0": {
       "baseline": "2.3.1",
       "port-version": 0
