@@ -1368,6 +1368,10 @@
       "baseline": "0.46~alpha-4",
       "port-version": 0
     },
+    "audiofile-1-0-7-0": {
+      "baseline": "1.0.7",
+      "port-version": 0
+    },
     "aurora-2017-06-21-c75699d2a8caa726260c29b6d7a0fd35f8f28933-0": {
       "baseline": "2017-06-21-c75699d2a8caa726260c29b6d7a0fd35f8f28933",
       "port-version": 0
