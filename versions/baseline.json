@@ -75544,6 +75544,10 @@
       "baseline": "1.12",
       "port-version": 1
     },
+    "xapian-1-4-21-0": {
+      "baseline": "1.4.21",
+      "port-version": 0
+    },
     "xaudio2redist-1-2-6-0": {
       "baseline": "1.2.6",
       "port-version": 0
