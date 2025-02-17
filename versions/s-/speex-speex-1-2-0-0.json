@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/speex-speex-1-2-0-0",
+      "version": "speex-1.2.0",
+      "port-version": 0
+    }
+  ]
+}
