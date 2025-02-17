@@ -43616,6 +43616,10 @@
       "baseline": "3.75",
       "port-version": 0
     },
+    "nss-3-76-0": {
+      "baseline": "3.76",
+      "port-version": 0
+    },
     "nsync-1-24-0-0": {
       "baseline": "1.24.0",
       "port-version": 0
