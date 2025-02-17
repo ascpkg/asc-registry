@@ -25876,6 +25876,10 @@
       "baseline": "0.1.0-alpha1-1",
       "port-version": 0
     },
+    "microsoft-signalr-0-1-0-alpha1-2": {
+      "baseline": "0.1.0-alpha1",
+      "port-version": 2
+    },
     "mikktspace-2020-10-06-0": {
       "baseline": "2020-10-06",
       "port-version": 0
