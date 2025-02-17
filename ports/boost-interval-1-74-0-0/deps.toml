@@ -1,0 +1,8 @@
+old = "boost-interval"
+new = "boost-interval-1-74-0-0"
+
+[deps]
+boost-compatibility-1-74-0-0 = "boost-compatibility"
+boost-config-1-74-0-0 = "boost-config"
+boost-logic-1-74-0-0 = "boost-logic"
+boost-vcpkg-helpers-7-1 = "boost-vcpkg-helpers"

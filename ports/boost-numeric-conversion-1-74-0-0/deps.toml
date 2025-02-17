@@ -1,0 +1,13 @@
+old = "boost-numeric-conversion"
+new = "boost-numeric-conversion-1-74-0-0"
+
+[deps]
+boost-compatibility-1-74-0-0 = "boost-compatibility"
+boost-config-1-74-0-0 = "boost-config"
+boost-conversion-1-74-0-0 = "boost-conversion"
+boost-core-1-74-0-0 = "boost-core"
+boost-detail-1-74-0-0 = "boost-detail"
+boost-integer-1-74-0-0 = "boost-integer"
+boost-preprocessor-1-74-0-0 = "boost-preprocessor"
+boost-throw-exception-1-74-0-0 = "boost-throw-exception"
+boost-vcpkg-helpers-7-1 = "boost-vcpkg-helpers"
