@@ -19172,6 +19172,10 @@
       "baseline": "2.0.1",
       "port-version": 1
     },
+    "fastrtps-2-4-0-0": {
+      "baseline": "2.4.0",
+      "port-version": 0
+    },
     "fbgemm-2021-03-18-0": {
       "baseline": "2021-03-18",
       "port-version": 0
