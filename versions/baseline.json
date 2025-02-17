@@ -928,6 +928,10 @@
       "baseline": "0.1.2d",
       "port-version": 0
     },
+    "ade-0-1-2e-0": {
+      "baseline": "0.1.2e",
+      "port-version": 0
+    },
     "adios2-2-8-3-0": {
       "baseline": "2.8.3",
       "port-version": 0
