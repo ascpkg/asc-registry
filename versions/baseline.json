@@ -17236,6 +17236,10 @@
       "baseline": "2.0.2",
       "port-version": 0
     },
+    "fdk-aac-2-0-2-1": {
+      "baseline": "2.0.2",
+      "port-version": 1
+    },
     "fdk-aac-2017-11-02-1e351-0": {
       "baseline": "2017-11-02-1e351",
       "port-version": 0
@@ -17579,6 +17583,10 @@
     "ffmpeg-4-4-12": {
       "baseline": "4.4",
       "port-version": 12
+    },
+    "ffmpeg-4-4-13": {
+      "baseline": "4.4",
+      "port-version": 13
     },
     "ffmpeg-4-4-2": {
       "baseline": "4.4",
