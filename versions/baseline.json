@@ -37624,6 +37624,10 @@
       "baseline": "2.0.0",
       "port-version": 0
     },
+    "protopuf-2-1-0-0": {
+      "baseline": "2.1.0",
+      "port-version": 0
+    },
     "protozero-1-6-8-0": {
       "baseline": "1.6.8",
       "port-version": 0
