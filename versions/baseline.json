@@ -97468,6 +97468,10 @@
       "baseline": "3.3.0",
       "port-version": 6
     },
+    "rbdl-3-3-0-7": {
+      "baseline": "3.3.0",
+      "port-version": 7
+    },
     "rbdl-orb-3-0-0-0": {
       "baseline": "3.0.0",
       "port-version": 0
