@@ -764,6 +764,10 @@
       "baseline": "1.6.1",
       "port-version": 0
     },
+    "apr-util-1-6-1-1-0": {
+      "baseline": "1.6.1-1",
+      "port-version": 0
+    },
     "arb-2-11-1-0": {
       "baseline": "2.11.1",
       "port-version": 0
@@ -2562,6 +2566,10 @@
     },
     "bond-8-1-0-3-0": {
       "baseline": "8.1.0-3",
+      "port-version": 0
+    },
+    "bond-8-1-0-4-0": {
+      "baseline": "8.1.0-4",
       "port-version": 0
     },
     "boolinq-2019-07-22-0": {
@@ -8072,6 +8080,10 @@
       "baseline": "2.5-4",
       "port-version": 0
     },
+    "ccfits-2-5-5-0": {
+      "baseline": "2.5-5",
+      "port-version": 0
+    },
     "cctz-2-1-0": {
       "baseline": "2.1",
       "port-version": 0
@@ -13532,6 +13544,10 @@
       "baseline": "1.47-patch1-10",
       "port-version": 0
     },
+    "geographiclib-1-47-patch1-11-0": {
+      "baseline": "1.47-patch1-11",
+      "port-version": 0
+    },
     "geographiclib-1-47-patch1-2-0": {
       "baseline": "1.47-patch1-2",
       "port-version": 0
@@ -16906,6 +16922,10 @@
     },
     "libaiff-5-0-2-0": {
       "baseline": "5.0-2",
+      "port-version": 0
+    },
+    "libaiff-5-0-3-0": {
+      "baseline": "5.0-3",
       "port-version": 0
     },
     "libarchive-3-2-2-0": {
@@ -22896,6 +22916,10 @@
       "baseline": "1.5",
       "port-version": 0
     },
+    "ois-1-5-1-0": {
+      "baseline": "1.5-1",
+      "port-version": 0
+    },
     "ompl-1-4-1-2-0": {
       "baseline": "1.4.1-2",
       "port-version": 0
@@ -23118,6 +23142,10 @@
     },
     "opencc-2020-04-26-2-0": {
       "baseline": "2020-04-26-2",
+      "port-version": 0
+    },
+    "opencc-2020-04-26-3-0": {
+      "baseline": "2020-04-26-3",
       "port-version": 0
     },
     "opencensus-cpp-0-4-0-0": {
@@ -33704,6 +33732,10 @@
       "baseline": "10.0-4",
       "port-version": 0
     },
+    "wtl-10-0-5-0": {
+      "baseline": "10.0-5",
+      "port-version": 0
+    },
     "wtl-9-1-0": {
       "baseline": "9.1",
       "port-version": 0
@@ -34018,6 +34050,10 @@
     },
     "xmsh-0-5-2-0": {
       "baseline": "0.5.2",
+      "port-version": 0
+    },
+    "xmsh-0-5-2-1-0": {
+      "baseline": "0.5.2-1",
       "port-version": 0
     },
     "xorstr-2019-08-10-0": {
