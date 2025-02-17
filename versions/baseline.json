@@ -5748,6 +5748,10 @@
       "baseline": "3.2.19-2",
       "port-version": 0
     },
+    "cgl-0-60-2-1-0": {
+      "baseline": "0.60.2-1",
+      "port-version": 0
+    },
     "cgltf-1-2-0": {
       "baseline": "1.2",
       "port-version": 0
