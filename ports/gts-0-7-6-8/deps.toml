@@ -1,0 +1,6 @@
+old = "gts"
+new = "gts-0-7-6-8"
+
+[deps]
+glib-2-78-0-0 = "glib"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
