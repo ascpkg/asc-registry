@@ -17748,6 +17748,10 @@
       "baseline": "0472b91",
       "port-version": 0
     },
+    "gloo-20201203-0": {
+      "baseline": "20201203",
+      "port-version": 0
+    },
     "glslang-1c573fbcfba6b3d631008b1babc838501ca925d3-0": {
       "baseline": "1c573fbcfba6b3d631008b1babc838501ca925d3",
       "port-version": 0
