@@ -63940,6 +63940,10 @@
       "baseline": "2.0.5",
       "port-version": 6
     },
+    "sdl2-image-2-0-5-7": {
+      "baseline": "2.0.5",
+      "port-version": 7
+    },
     "sdl2-mixer-2-0-1-0": {
       "baseline": "2.0.1",
       "port-version": 0
