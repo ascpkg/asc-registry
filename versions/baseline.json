@@ -30020,6 +30020,10 @@
       "baseline": "0.9.8",
       "port-version": 0
     },
+    "igraph-0-9-8-1": {
+      "baseline": "0.9.8",
+      "port-version": 1
+    },
     "iir1-1-8-0-0": {
       "baseline": "1.8.0",
       "port-version": 0
