@@ -1,0 +1,6 @@
+old = "pthreadpool"
+new = "pthreadpool-2020-04-10-0"
+
+[deps]
+fxdiv-2021-02-21-0 = "fxdiv"
+pthreads-3-0-0-9 = "pthreads"
