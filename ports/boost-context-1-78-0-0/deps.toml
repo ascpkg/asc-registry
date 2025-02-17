@@ -1,0 +1,15 @@
+old = "boost-context"
+new = "boost-context-1-78-0-0"
+
+[deps]
+boost-assert-1-78-0-0 = "boost-assert"
+boost-build-1-78-0-0 = "boost-build"
+boost-config-1-78-0-0 = "boost-config"
+boost-core-1-78-0-0 = "boost-core"
+boost-modular-build-helper-1-78-0-0 = "boost-modular-build-helper"
+boost-mp11-1-78-0-0 = "boost-mp11"
+boost-pool-1-78-0-0 = "boost-pool"
+boost-predef-1-78-0-0 = "boost-predef"
+boost-smart-ptr-1-78-0-0 = "boost-smart-ptr"
+boost-vcpkg-helpers-1-78-0-0 = "boost-vcpkg-helpers"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"

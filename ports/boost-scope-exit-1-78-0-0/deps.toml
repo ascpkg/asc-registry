@@ -1,0 +1,10 @@
+old = "boost-scope-exit"
+new = "boost-scope-exit-1-78-0-0"
+
+[deps]
+boost-config-1-78-0-0 = "boost-config"
+boost-function-1-78-0-0 = "boost-function"
+boost-preprocessor-1-78-0-0 = "boost-preprocessor"
+boost-type-traits-1-78-0-0 = "boost-type-traits"
+boost-typeof-1-78-0-0 = "boost-typeof"
+boost-vcpkg-helpers-1-78-0-0 = "boost-vcpkg-helpers"
