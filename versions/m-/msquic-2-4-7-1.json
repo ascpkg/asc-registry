@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/msquic-2-4-7-1",
+      "version": "2.4.7",
+      "port-version": 1
+    }
+  ]
+}
