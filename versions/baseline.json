@@ -30832,6 +30832,10 @@
       "baseline": "3.7.0",
       "port-version": 0
     },
+    "robin-hood-hashing-3-8-0-0": {
+      "baseline": "3.8.0",
+      "port-version": 0
+    },
     "robin-map-0-2-0-0": {
       "baseline": "0.2.0",
       "port-version": 0
