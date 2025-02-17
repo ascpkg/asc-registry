@@ -3,4 +3,5 @@ new = "qt53d-5-9-2-0-0"
 
 [deps]
 qt5base-5-9-2-0-0 = "qt5base"
+qt5declarative-5-9-2-0-0 = "qt5declarative"
 qt5modularscripts-0-0 = "qt5modularscripts"
