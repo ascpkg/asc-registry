@@ -25388,6 +25388,10 @@
       "baseline": "0.4.0-2",
       "port-version": 0
     },
+    "sfgui-0-4-0-3-0": {
+      "baseline": "0.4.0-3",
+      "port-version": 0
+    },
     "sfml-2-4-1-0": {
       "baseline": "2.4.1",
       "port-version": 0
