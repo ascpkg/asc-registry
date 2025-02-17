@@ -60,6 +60,10 @@
       "baseline": "21.07",
       "port-version": 1
     },
+    "7zip-22-0-0": {
+      "baseline": "22.0",
+      "port-version": 0
+    },
     "ableton-3-0-5-0": {
       "baseline": "3.0.5",
       "port-version": 0
