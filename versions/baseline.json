@@ -864,6 +864,10 @@
       "baseline": "2020-05-15",
       "port-version": 2
     },
+    "angle-chromium-4472-0": {
+      "baseline": "chromium_4472",
+      "port-version": 0
+    },
     "antlr4-4-6-0": {
       "baseline": "4.6",
       "port-version": 0
