@@ -68768,6 +68768,10 @@
       "baseline": "5.8.1",
       "port-version": 3
     },
+    "unrar-6-1-7-0": {
+      "baseline": "6.1.7",
+      "port-version": 0
+    },
     "upb-2019-10-21-0": {
       "baseline": "2019-10-21",
       "port-version": 0
