@@ -4744,6 +4744,10 @@
       "baseline": "7.18.1",
       "port-version": 4
     },
+    "boinc-7-18-1-5": {
+      "baseline": "7.18.1",
+      "port-version": 5
+    },
     "bond-5-0-0-4-g53ea136-0": {
       "baseline": "5.0.0-4-g53ea136",
       "port-version": 0
