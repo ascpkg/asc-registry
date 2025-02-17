@@ -41996,6 +41996,10 @@
       "baseline": "1.8.5",
       "port-version": 1
     },
+    "spdlog-1-8-5-2": {
+      "baseline": "1.8.5",
+      "port-version": 2
+    },
     "spdlog-1-x-2018-07-04-0": {
       "baseline": "1.x-2018-07.04",
       "port-version": 0
