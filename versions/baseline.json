@@ -30000,6 +30000,10 @@
       "baseline": "2.70.0",
       "port-version": 1
     },
+    "glibmm-2-74-0-0": {
+      "baseline": "2.74.0",
+      "port-version": 0
+    },
     "glm-0-9-8-0-0": {
       "baseline": "0.9.8.0",
       "port-version": 0
