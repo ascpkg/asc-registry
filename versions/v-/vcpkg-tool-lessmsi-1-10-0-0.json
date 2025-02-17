@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/vcpkg-tool-lessmsi-1-10-0-0",
+      "version": "1.10.0",
+      "port-version": 0
+    }
+  ]
+}

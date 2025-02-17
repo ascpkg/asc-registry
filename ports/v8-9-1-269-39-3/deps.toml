@@ -1,0 +1,9 @@
+old = "v8"
+new = "v8-9-1-269-39-3"
+
+[deps]
+glib-2-70-1-2 = "glib"
+icu-69-1-18 = "icu"
+pthread-3-0-0-1 = "pthread"
+vcpkg-tool-python2-2-7-18-0 = "vcpkg-tool-python2"
+zlib-1-2-11-13 = "zlib"
