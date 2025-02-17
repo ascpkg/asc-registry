@@ -11708,6 +11708,10 @@
       "baseline": "0.7.18",
       "port-version": 0
     },
+    "cpp-httplib-0-8-4-0": {
+      "baseline": "0.8.4",
+      "port-version": 0
+    },
     "cpp-netlib-0-13-0-2-0": {
       "baseline": "0.13.0-2",
       "port-version": 0
