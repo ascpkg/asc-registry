@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libraqm-0-9-0-0",
+      "version-string": "0.9.0",
+      "port-version": 0
+    }
+  ]
+}
