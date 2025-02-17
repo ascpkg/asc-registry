@@ -22972,6 +22972,10 @@
       "baseline": "2.2.0",
       "port-version": 3
     },
+    "libigl-2-2-0-4": {
+      "baseline": "2.2.0",
+      "port-version": 4
+    },
     "libilbc-3-0-3-0": {
       "baseline": "3.0.3",
       "port-version": 0
