@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/boost-beast-1-85-0-2",
+      "version": "1.85.0",
+      "port-version": 2
+    }
+  ]
+}

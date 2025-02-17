@@ -1,0 +1,18 @@
+old = "boost-json"
+new = "boost-json-1-85-0-2"
+
+[deps]
+boost-align-1-85-0-1 = "boost-align"
+boost-assert-1-85-0-1 = "boost-assert"
+boost-cmake-1-85-0-1 = "boost-cmake"
+boost-config-1-85-0-1 = "boost-config"
+boost-container-1-85-0-1 = "boost-container"
+boost-container-hash-1-85-0-1 = "boost-container-hash"
+boost-core-1-85-0-2 = "boost-core"
+boost-describe-1-85-0-2 = "boost-describe"
+boost-endian-1-85-0-1 = "boost-endian"
+boost-headers-1-85-0-1 = "boost-headers"
+boost-mp11-1-85-0-1 = "boost-mp11"
+boost-static-assert-1-85-0-1 = "boost-static-assert"
+boost-system-1-85-0-1 = "boost-system"
+boost-throw-exception-1-85-0-1 = "boost-throw-exception"
