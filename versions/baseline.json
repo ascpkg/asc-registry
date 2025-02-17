@@ -8852,6 +8852,10 @@
       "baseline": "2.36.9-2",
       "port-version": 0
     },
+    "gdk-pixbuf-2-36-9-3-0": {
+      "baseline": "2.36.9-3",
+      "port-version": 0
+    },
     "geogram-1-4-9-0": {
       "baseline": "1.4.9",
       "port-version": 0
@@ -9238,6 +9242,10 @@
     },
     "glib-2-52-3-14-1-0": {
       "baseline": "2.52.3-14-1",
+      "port-version": 0
+    },
+    "glib-2-52-3-14-2-0": {
+      "baseline": "2.52.3-14-2",
       "port-version": 0
     },
     "glib-2-52-3-2-0": {
@@ -11054,6 +11062,10 @@
     },
     "libcroco-0-6-13-0": {
       "baseline": "0.6.13",
+      "port-version": 0
+    },
+    "libcroco-0-6-13-1-0": {
+      "baseline": "0.6.13-1",
       "port-version": 0
     },
     "libcuckoo-2018-12-24-1-0": {
