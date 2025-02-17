@@ -15972,6 +15972,10 @@
       "baseline": "jun10",
       "port-version": 3
     },
+    "directxsdk-jun10-4": {
+      "baseline": "jun10",
+      "port-version": 4
+    },
     "directxtex-apr2018-0": {
       "baseline": "apr2018",
       "port-version": 0
@@ -16975,6 +16979,10 @@
     "dxsdk-d3dx-9-29-952-8-0": {
       "baseline": "9.29.952.8",
       "port-version": 0
+    },
+    "dxsdk-d3dx-9-29-952-8-1": {
+      "baseline": "9.29.952.8",
+      "port-version": 1
     },
     "dxut-11-14-0": {
       "baseline": "11.14",
