@@ -7376,6 +7376,10 @@
       "baseline": "2023-03-02",
       "port-version": 0
     },
+    "bext-sml-1-1-11-0": {
+      "baseline": "1.1.11",
+      "port-version": 0
+    },
     "bext-sml-1-1-4-0": {
       "baseline": "1.1.4",
       "port-version": 0
