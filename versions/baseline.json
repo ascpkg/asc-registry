@@ -52444,6 +52444,10 @@
       "baseline": "0.175.0",
       "port-version": 0
     },
+    "jsoncons-0-176-0-0": {
+      "baseline": "0.176.0",
+      "port-version": 0
+    },
     "jsoncons-v0-122-0-0": {
       "baseline": "v0.122.0",
       "port-version": 0
