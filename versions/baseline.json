@@ -90484,6 +90484,10 @@
       "baseline": "19.7",
       "port-version": 5
     },
+    "portaudio-19-7-6": {
+      "baseline": "19.7",
+      "port-version": 6
+    },
     "portaudio-2019-09-30-0": {
       "baseline": "2019-09-30",
       "port-version": 0
