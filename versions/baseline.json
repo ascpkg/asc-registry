@@ -24148,6 +24148,10 @@
       "baseline": "2.5.0-1",
       "port-version": 0
     },
+    "collada-dom-2-5-0-10": {
+      "baseline": "2.5.0",
+      "port-version": 10
+    },
     "collada-dom-2-5-0-2-0": {
       "baseline": "2.5.0-2",
       "port-version": 0
