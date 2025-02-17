@@ -12172,6 +12172,10 @@
       "baseline": "2.0-1",
       "port-version": 0
     },
+    "kvasir-mpl-2019-08-06-0": {
+      "baseline": "2019-08-06",
+      "port-version": 0
+    },
     "lastools-2019-07-10-0": {
       "baseline": "2019-07-10",
       "port-version": 0
