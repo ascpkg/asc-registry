@@ -1380,6 +1380,10 @@
       "baseline": "4.3.23",
       "port-version": 0
     },
+    "amqpcpp-4-3-26-0": {
+      "baseline": "4.3.26",
+      "port-version": 0
+    },
     "anari-0-7-0-0": {
       "baseline": "0.7.0",
       "port-version": 0
