@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/jsoncons-0-153-3-0",
+      "version": "0.153.3",
+      "port-version": 0
+    }
+  ]
+}
