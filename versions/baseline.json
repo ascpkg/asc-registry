@@ -31648,6 +31648,10 @@
       "baseline": "2.0.3",
       "port-version": 0
     },
+    "zydis-3-1-0-0": {
+      "baseline": "3.1.0",
+      "port-version": 0
+    },
     "zyre-2019-07-07-0": {
       "baseline": "2019-07-07",
       "port-version": 0
