@@ -20816,6 +20816,10 @@
       "baseline": "11.5.0",
       "port-version": 0
     },
+    "glslang-11-6-0-0": {
+      "baseline": "11.6.0",
+      "port-version": 0
+    },
     "glslang-1c573fbcfba6b3d631008b1babc838501ca925d3-0": {
       "baseline": "1c573fbcfba6b3d631008b1babc838501ca925d3",
       "port-version": 0
@@ -27298,6 +27302,10 @@
     },
     "libmediainfo-20-09-0": {
       "baseline": "20.09",
+      "port-version": 0
+    },
+    "libmediainfo-21-03-0": {
+      "baseline": "21.03",
       "port-version": 0
     },
     "libmesh-1-5-0-0": {

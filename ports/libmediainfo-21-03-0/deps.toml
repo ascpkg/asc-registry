@@ -1,0 +1,9 @@
+old = "libmediainfo"
+new = "libmediainfo-21-03-0"
+
+[deps]
+curl-7-78-0-0 = "curl"
+libzen-0-4-38-0 = "libzen"
+vcpkg-cmake-2021-07-30-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"
+zlib-1-2-11-12 = "zlib"
