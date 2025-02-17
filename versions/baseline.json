@@ -16576,6 +16576,10 @@
       "baseline": "4.0.442",
       "port-version": 0
     },
+    "p-ranav-csv-2019-07-11-0": {
+      "baseline": "2019-07-11",
+      "port-version": 0
+    },
     "paho-mqtt-1-2-0-0": {
       "baseline": "1.2.0",
       "port-version": 0
