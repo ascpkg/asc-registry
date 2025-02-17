@@ -21256,6 +21256,10 @@
       "baseline": "4.4-4",
       "port-version": 0
     },
+    "libp7-baical-4-4-5": {
+      "baseline": "4.4",
+      "port-version": 5
+    },
     "libp7client-5-2-0": {
       "baseline": "5.2",
       "port-version": 0
