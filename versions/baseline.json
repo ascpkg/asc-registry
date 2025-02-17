@@ -4536,6 +4536,10 @@
       "baseline": "5.9.2-0",
       "port-version": 0
     },
+    "qt5datavisualization3d-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
     "qt5declarative-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -4545,6 +4549,14 @@
       "port-version": 0
     },
     "qt5docs-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5imageformats-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5multimedia-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
     },
@@ -4565,6 +4577,10 @@
       "port-version": 0
     },
     "qt5winextras-5-9-2-0-0": {
+      "baseline": "5.9.2-0",
+      "port-version": 0
+    },
+    "qt5xmlpatterns-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
     },
