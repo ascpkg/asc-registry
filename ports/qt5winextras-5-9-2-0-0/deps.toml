@@ -1,0 +1,6 @@
+old = "qt5winextras"
+new = "qt5winextras-5-9-2-0-0"
+
+[deps]
+atlmfc-0-0 = "atlmfc"
+qt5base-5-9-2-0-0 = "qt5base"
