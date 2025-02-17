@@ -1,0 +1,9 @@
+old = "freerdp"
+new = "freerdp-2-5-0-0"
+
+[deps]
+glib-2-70-1-2 = "glib"
+libusb-1-0-24-7 = "libusb"
+openssl-1-1-1m-2 = "openssl"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-01-30-0 = "vcpkg-cmake-config"
