@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cyclonedds-0-10-2-1",
+      "version-semver": "0.10.2",
+      "port-version": 1
+    }
+  ]
+}

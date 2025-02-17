@@ -24028,6 +24028,10 @@
       "baseline": "0.10.2",
       "port-version": 0
     },
+    "cyclonedds-0-10-2-1": {
+      "baseline": "0.10.2",
+      "port-version": 1
+    },
     "cyclonedds-cxx-0-10-2-0": {
       "baseline": "0.10.2",
       "port-version": 0
