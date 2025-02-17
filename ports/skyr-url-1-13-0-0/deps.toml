@@ -1,0 +1,7 @@
+old = "skyr-url"
+new = "skyr-url-1-13-0-0"
+
+[deps]
+nlohmann-json-3-9-1-0 = "nlohmann-json"
+range-v3-0-10-0-20200708-0 = "range-v3"
+tl-expected-1-0-0-1-0 = "tl-expected"
