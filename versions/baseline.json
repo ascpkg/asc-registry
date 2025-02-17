@@ -28724,6 +28724,10 @@
       "baseline": "1.0.2",
       "port-version": 1
     },
+    "capnproto-1-0-2-2": {
+      "baseline": "1.0.2",
+      "port-version": 2
+    },
     "capstone--0": {
       "baseline": "",
       "port-version": 0
