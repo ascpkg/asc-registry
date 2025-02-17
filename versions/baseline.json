@@ -20252,6 +20252,10 @@
       "baseline": "3.2.13",
       "port-version": 0
     },
+    "robin-hood-hashing-3-4-0-0": {
+      "baseline": "3.4.0",
+      "port-version": 0
+    },
     "robin-map-0-2-0-0": {
       "baseline": "0.2.0",
       "port-version": 0
