@@ -23212,6 +23212,10 @@
       "baseline": "0.6.0",
       "port-version": 0
     },
+    "expected-lite-0-6-2-0": {
+      "baseline": "0.6.2",
+      "port-version": 0
+    },
     "exprtk-2018-01-01-f32d2b4-0": {
       "baseline": "2018.01.01-f32d2b4",
       "port-version": 0
