@@ -24124,6 +24124,10 @@
       "baseline": "4.4.1",
       "port-version": 15
     },
+    "ffmpeg-4-4-1-16": {
+      "baseline": "4.4.1",
+      "port-version": 16
+    },
     "ffmpeg-4-4-1-2": {
       "baseline": "4.4.1",
       "port-version": 2
