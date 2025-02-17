@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/tinygltf-2-8-19-0",
+      "version": "2.8.19",
+      "port-version": 0
+    }
+  ]
+}
