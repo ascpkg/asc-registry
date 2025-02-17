@@ -69420,6 +69420,10 @@
       "baseline": "8.0.0",
       "port-version": 0
     },
+    "nethost-8-0-3-0": {
+      "baseline": "8.0.3",
+      "port-version": 0
+    },
     "nettle-3-5-1-0": {
       "baseline": "3.5.1",
       "port-version": 0
