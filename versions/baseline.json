@@ -6512,6 +6512,10 @@
       "baseline": "5.0",
       "port-version": 0
     },
+    "cgal-5-0-beta1-0-1-0": {
+      "baseline": "5.0-beta1-0.1",
+      "port-version": 0
+    },
     "cgicc--0": {
       "baseline": "",
       "port-version": 0
