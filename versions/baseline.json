@@ -3000,6 +3000,10 @@
       "baseline": "5.2.5",
       "port-version": 0
     },
+    "assimp-5-3-1-0": {
+      "baseline": "5.3.1",
+      "port-version": 0
+    },
     "async-mqtt-1-0-2-0": {
       "baseline": "1.0.2",
       "port-version": 0
@@ -75067,6 +75071,10 @@
     "qt5-3d-5-15-10-0": {
       "baseline": "5.15.10",
       "port-version": 0
+    },
+    "qt5-3d-5-15-10-1": {
+      "baseline": "5.15.10",
+      "port-version": 1
     },
     "qt5-3d-5-15-2-0": {
       "baseline": "5.15.2",
