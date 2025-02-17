@@ -52980,6 +52980,10 @@
       "baseline": "1.2",
       "port-version": 2
     },
+    "uthash-2-3-0-0": {
+      "baseline": "2.3.0",
+      "port-version": 0
+    },
     "uthenticode-1-0-2-0": {
       "baseline": "1.0.2",
       "port-version": 0
