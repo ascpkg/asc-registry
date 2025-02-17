@@ -52992,6 +52992,10 @@
       "baseline": "2019-09-29",
       "port-version": 1
     },
+    "mmx-2022-03-27-0": {
+      "baseline": "2022-03-27",
+      "port-version": 0
+    },
     "mnn-1-1-0-0": {
       "baseline": "1.1.0",
       "port-version": 0
