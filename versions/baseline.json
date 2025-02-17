@@ -70396,6 +70396,10 @@
       "baseline": "5.15.9",
       "port-version": 0
     },
+    "qt5-declarative-5-15-9-1": {
+      "baseline": "5.15.9",
+      "port-version": 1
+    },
     "qt5-declarative-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
