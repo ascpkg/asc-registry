@@ -15996,6 +15996,10 @@
       "baseline": "4.3.2",
       "port-version": 4
     },
+    "ffmpeg-4-3-2-5": {
+      "baseline": "4.3.2",
+      "port-version": 5
+    },
     "ffnvcodec-10-0-26-0-0": {
       "baseline": "10.0.26.0",
       "port-version": 0
@@ -26751,6 +26755,10 @@
     "libvpx-1-9-0-7": {
       "baseline": "1.9.0",
       "port-version": 7
+    },
+    "libvpx-1-9-0-8": {
+      "baseline": "1.9.0",
+      "port-version": 8
     },
     "libwandio-4-2-1-0": {
       "baseline": "4.2.1",
