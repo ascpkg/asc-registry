@@ -11280,6 +11280,10 @@
       "baseline": "19.2",
       "port-version": 0
     },
+    "dlib-19-21-2": {
+      "baseline": "19.21",
+      "port-version": 2
+    },
     "dlib-19-4-0": {
       "baseline": "19.4",
       "port-version": 0
