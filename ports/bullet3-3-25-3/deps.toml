@@ -1,0 +1,7 @@
+old = "bullet3"
+new = "bullet3-3-25-3"
+
+[deps]
+tinyxml2-10-0-0-0 = "tinyxml2"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

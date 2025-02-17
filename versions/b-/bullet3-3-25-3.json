@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/bullet3-3-25-3",
+      "version": "3.25",
+      "port-version": 3
+    }
+  ]
+}
