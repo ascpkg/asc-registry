@@ -10572,6 +10572,10 @@
       "baseline": "3.2.2",
       "port-version": 0
     },
+    "entt-3-3-0-0": {
+      "baseline": "3.3.0",
+      "port-version": 0
+    },
     "entt-cpp14-0": {
       "baseline": "cpp14",
       "port-version": 0
