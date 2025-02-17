@@ -2304,6 +2304,10 @@
       "baseline": "5.2.4",
       "port-version": 0
     },
+    "assimp-5-2-5-0": {
+      "baseline": "5.2.5",
+      "port-version": 0
+    },
     "asynch-2019-09-21-0": {
       "baseline": "2019-09-21",
       "port-version": 0
