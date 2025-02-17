@@ -1,0 +1,7 @@
+old = "usockets"
+new = "usockets-0-7-1-0"
+
+[deps]
+libuv-1-39-0-0 = "libuv"
+openssl-1-1-1j-0 = "openssl"
+winsock2-0-0-2-0 = "winsock2"
