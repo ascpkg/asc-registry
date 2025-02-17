@@ -53328,6 +53328,10 @@
       "baseline": "1.5.9",
       "port-version": 1
     },
+    "liberasurecode-1-6-3-0": {
+      "baseline": "1.6.3",
+      "port-version": 0
+    },
     "libev-4-33-0": {
       "baseline": "4.33",
       "port-version": 0
