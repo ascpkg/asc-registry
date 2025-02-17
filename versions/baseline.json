@@ -20664,6 +20664,10 @@
       "baseline": "20.08",
       "port-version": 0
     },
+    "libmediainfo-20-09-0": {
+      "baseline": "20.09",
+      "port-version": 0
+    },
     "libmesh-1-5-0-0": {
       "baseline": "1.5.0",
       "port-version": 0
