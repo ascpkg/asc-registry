@@ -368,6 +368,10 @@
       "baseline": "20220623.1",
       "port-version": 0
     },
+    "abseil-20230125-0-0": {
+      "baseline": "20230125.0",
+      "port-version": 0
+    },
     "absent-0-3-0-0": {
       "baseline": "0.3.0",
       "port-version": 0
@@ -27019,6 +27023,10 @@
     "etcd-cpp-apiv3-0-2-12-0": {
       "baseline": "0.2.12",
       "port-version": 0
+    },
+    "etcd-cpp-apiv3-0-2-12-1": {
+      "baseline": "0.2.12",
+      "port-version": 1
     },
     "etl-20-35-4-0": {
       "baseline": "20.35.4",
