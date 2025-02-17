@@ -1,0 +1,8 @@
+old = "nuspell"
+new = "nuspell-5-1-0-1"
+
+[deps]
+getopt-0-1 = "getopt"
+icu-71-1-0 = "icu"
+vcpkg-cmake-2022-04-21-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"
