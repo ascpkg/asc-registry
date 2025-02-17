@@ -21448,6 +21448,10 @@
       "baseline": "0.1.9.0-1",
       "port-version": 0
     },
+    "libsbml-5-18-0-0": {
+      "baseline": "5.18.0",
+      "port-version": 0
+    },
     "libsigcpp-2-10-0": {
       "baseline": "2.10",
       "port-version": 0
