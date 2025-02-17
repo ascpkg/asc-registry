@@ -196,6 +196,10 @@
       "baseline": "2019-05-08",
       "port-version": 0
     },
+    "abseil-2019-05-08-1-0": {
+      "baseline": "2019-05-08-1",
+      "port-version": 0
+    },
     "ace-6-4-0-0": {
       "baseline": "6.4.0",
       "port-version": 0
