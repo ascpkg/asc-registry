@@ -36940,6 +36940,10 @@
       "baseline": "1.89.2",
       "port-version": 0
     },
+    "imgui-1-89-3-0": {
+      "baseline": "1.89.3",
+      "port-version": 0
+    },
     "imgui-sfml-2-0-2-0": {
       "baseline": "2.0.2",
       "port-version": 0
