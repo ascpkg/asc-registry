@@ -1,0 +1,9 @@
+old = "rmlui"
+new = "rmlui-5-1-1"
+
+[deps]
+freetype-2-13-2-0 = "freetype"
+lua-5-4-6-0 = "lua"
+robin-hood-hashing-3-11-5-0 = "robin-hood-hashing"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
