@@ -84896,6 +84896,10 @@
       "baseline": "1.0.31",
       "port-version": 0
     },
+    "openxr-loader-1-0-34-0": {
+      "baseline": "1.0.34",
+      "port-version": 0
+    },
     "openxr-loader-2019-09-25-0": {
       "baseline": "2019-09-25",
       "port-version": 0
