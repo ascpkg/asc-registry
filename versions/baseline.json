@@ -38020,6 +38020,10 @@
       "baseline": "3.9.5",
       "port-version": 1
     },
+    "python3-3-9-6-0": {
+      "baseline": "3.9.6",
+      "port-version": 0
+    },
     "qca-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
