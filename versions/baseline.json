@@ -59640,6 +59640,10 @@
       "baseline": "3.5.1",
       "port-version": 1
     },
+    "sleef-3-5-1-2": {
+      "baseline": "3.5.1",
+      "port-version": 2
+    },
     "sleepy-discord-2021-07-07-0": {
       "baseline": "2021-07-07",
       "port-version": 0

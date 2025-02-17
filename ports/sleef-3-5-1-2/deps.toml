@@ -1,0 +1,5 @@
+old = "sleef"
+new = "sleef-3-5-1-2"
+
+[deps]
+vcpkg-cmake-2022-02-14-0 = "vcpkg-cmake"
