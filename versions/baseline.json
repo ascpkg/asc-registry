@@ -19668,6 +19668,10 @@
       "baseline": "9.0.0",
       "port-version": 0
     },
+    "ijg-libjpeg-9d-0": {
+      "baseline": "9d",
+      "port-version": 0
+    },
     "ilmbase-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
