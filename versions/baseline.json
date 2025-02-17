@@ -52172,6 +52172,10 @@
       "baseline": "3.4.3",
       "port-version": 1
     },
+    "laszip-3-4-4-0": {
+      "baseline": "3.4.4",
+      "port-version": 0
+    },
     "launch-darkly-server-2-4-3-0": {
       "baseline": "2.4.3",
       "port-version": 0
