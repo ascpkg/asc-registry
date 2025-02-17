@@ -39072,6 +39072,10 @@
       "baseline": "1.0.24",
       "port-version": 7
     },
+    "libusb-1-0-26-0": {
+      "baseline": "1.0.26",
+      "port-version": 0
+    },
     "libusb-win32-1-2-6-0-0": {
       "baseline": "1.2.6.0",
       "port-version": 0
