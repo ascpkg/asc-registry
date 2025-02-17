@@ -65504,6 +65504,10 @@
       "baseline": "1.3",
       "port-version": 1
     },
+    "quazip-1-3-2": {
+      "baseline": "1.3",
+      "port-version": 2
+    },
     "quickfast-1-5-0": {
       "baseline": "1.5",
       "port-version": 0
