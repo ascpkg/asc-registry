@@ -57816,6 +57816,10 @@
       "baseline": "7.4.9",
       "port-version": 1
     },
+    "xsimd-8-0-3-0": {
+      "baseline": "8.0.3",
+      "port-version": 0
+    },
     "xtensor-0-19-3-0": {
       "baseline": "0.19.3",
       "port-version": 0
