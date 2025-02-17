@@ -4,5 +4,5 @@ new = "ogre-1-9-0-1-0"
 [deps]
 freeimage-3-17-0-3-0 = "freeimage"
 freetype-2-8-1-0 = "freetype"
-zlib-1-2-11-1-0 = "zlib"
+zlib-1-2-11-3-0 = "zlib"
 zziplib-0-13-62-1-0 = "zziplib"
