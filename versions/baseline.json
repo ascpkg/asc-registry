@@ -62800,6 +62800,10 @@
       "baseline": "2021-04-02",
       "port-version": 1
     },
+    "vcpkg-pkgconfig-get-modules-2022-01-10-0": {
+      "baseline": "2022-01-10",
+      "port-version": 0
+    },
     "vcpkg-qmake-2021-10-23-0": {
       "baseline": "2021-10-23",
       "port-version": 0
