@@ -27784,6 +27784,10 @@
       "baseline": "0.2.9.2",
       "port-version": 0
     },
+    "json-dto-0-3-0-0": {
+      "baseline": "0.3.0",
+      "port-version": 0
+    },
     "json-schema-validator-2-1-0-0": {
       "baseline": "2.1.0",
       "port-version": 0
