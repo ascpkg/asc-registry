@@ -1260,6 +1260,10 @@
       "baseline": "2018-2-19",
       "port-version": 0
     },
+    "breakpad-2018-2-19-1-0": {
+      "baseline": "2018-2-19-1",
+      "port-version": 0
+    },
     "brotli-0-6-0-0": {
       "baseline": "0.6.0",
       "port-version": 0
