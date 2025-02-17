@@ -16012,6 +16012,10 @@
       "baseline": "6.4.5",
       "port-version": 0
     },
+    "libpqxx-6-4-5-1-0": {
+      "baseline": "6.4.5-1",
+      "port-version": 0
+    },
     "libproxy-0-4-15-0": {
       "baseline": "0.4.15",
       "port-version": 0
