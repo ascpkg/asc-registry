@@ -1,0 +1,16 @@
+old = "openmvs"
+new = "openmvs-1-1-1-0"
+
+[deps]
+boost-iostreams-1-72-0-1-0 = "boost-iostreams"
+boost-program-options-1-72-0-0 = "boost-program-options"
+boost-serialization-1-72-0-0 = "boost-serialization"
+boost-system-1-72-0-0 = "boost-system"
+ceres-1-14-0-6-0 = "ceres"
+cgal-5-0-2-0 = "cgal"
+eigen3-3-3-7-4-0 = "eigen3"
+glew-2-1-0-7-0 = "glew"
+glfw3-3-3-2-0 = "glfw3"
+opencv-4-1-1-1-0 = "opencv"
+vcglib-1-0-1-0 = "vcglib"
+zlib-1-2-11-6-0 = "zlib"
