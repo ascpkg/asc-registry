@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/grpc-1-48-0-0",
+      "version-semver": "1.48.0",
+      "port-version": 0
+    }
+  ]
+}
