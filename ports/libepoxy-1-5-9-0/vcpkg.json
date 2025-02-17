@@ -1,0 +1,9 @@
+{
+  "name": "libepoxy-1-5-9-0",
+  "version-semver": "1.5.9",
+  "description": "Epoxy is a library for handling OpenGL function pointer management for you",
+  "homepage": "https://github.com/anholt/libepoxy",
+  "dependencies": [
+    "tool-meson"
+  ]
+}
