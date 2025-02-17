@@ -1,0 +1,9 @@
+old = "ableton-link"
+new = "ableton-link-3-0-6-1"
+
+[deps]
+asio-1-28-0-1 = "asio"
+asiosdk-2-3-3-6 = "asiosdk"
+catch2-3-4-0-0 = "catch2"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
