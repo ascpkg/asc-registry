@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/usrsctp-0db9691-0",
+      "version": "0db9691",
+      "port-version": 0
+    }
+  ]
+}
