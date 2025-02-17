@@ -19220,6 +19220,10 @@
       "baseline": "1.0.4",
       "port-version": 11
     },
+    "freexl-1-0-4-12": {
+      "baseline": "1.0.4",
+      "port-version": 12
+    },
     "freexl-1-0-4-2-0": {
       "baseline": "1.0.4-2",
       "port-version": 0
