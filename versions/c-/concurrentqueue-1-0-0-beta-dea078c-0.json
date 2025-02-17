@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/concurrentqueue-1-0-0-beta-dea078c-0",
+      "version": "1.0.0-beta-dea078c",
+      "port-version": 0
+    }
+  ]
+}
