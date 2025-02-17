@@ -66816,6 +66816,10 @@
       "baseline": "2020-01-07",
       "port-version": 5
     },
+    "superlu-2020-01-07-6": {
+      "baseline": "2020-01-07",
+      "port-version": 6
+    },
     "sx-2019-04-27-0": {
       "baseline": "2019-04-27",
       "port-version": 0
