@@ -26900,6 +26900,10 @@
       "baseline": "3.4.3",
       "port-version": 8
     },
+    "libarchive-3-5-2-0": {
+      "baseline": "3.5.2",
+      "port-version": 0
+    },
     "libass-0-14-0-0": {
       "baseline": "0.14.0",
       "port-version": 0
