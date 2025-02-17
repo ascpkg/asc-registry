@@ -61400,6 +61400,10 @@
       "baseline": "3.1.5",
       "port-version": 4
     },
+    "wxwidgets-3-1-5-5": {
+      "baseline": "3.1.5",
+      "port-version": 5
+    },
     "x-plane-3-0-1-0": {
       "baseline": "3.0.1",
       "port-version": 0
