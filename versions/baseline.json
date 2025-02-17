@@ -93860,6 +93860,10 @@
       "baseline": "13.5.0",
       "port-version": 1
     },
+    "sdformat13-13-6-0-0": {
+      "baseline": "13.6.0",
+      "port-version": 0
+    },
     "sdformat6-6-2-0-0": {
       "baseline": "6.2.0",
       "port-version": 0
