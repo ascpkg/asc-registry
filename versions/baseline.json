@@ -77704,6 +77704,10 @@
       "baseline": "0.8.3",
       "port-version": 0
     },
+    "usockets-0-8-5-0": {
+      "baseline": "0.8.5",
+      "port-version": 0
+    },
     "usockets-2021-1-19-0": {
       "baseline": "2021-1-19",
       "port-version": 0
