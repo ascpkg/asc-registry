@@ -66588,6 +66588,10 @@
       "baseline": "4.3.1",
       "port-version": 5
     },
+    "netgen-6-2-2307-0": {
+      "baseline": "6.2.2307",
+      "port-version": 0
+    },
     "nethost-2019-12-21-0": {
       "baseline": "2019-12-21",
       "port-version": 0
