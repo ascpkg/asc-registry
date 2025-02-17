@@ -50984,6 +50984,10 @@
       "baseline": "1.2",
       "port-version": 0
     },
+    "kdalgorithms-1-3-0": {
+      "baseline": "1.3",
+      "port-version": 0
+    },
     "kdalgorithms-2023-01-31-0": {
       "baseline": "2023-01-31",
       "port-version": 0
