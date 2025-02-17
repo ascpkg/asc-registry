@@ -36860,6 +36860,10 @@
       "baseline": "3.4.0",
       "port-version": 0
     },
+    "freeglut-3-4-0-1": {
+      "baseline": "3.4.0",
+      "port-version": 1
+    },
     "freeimage-3-17-0-0": {
       "baseline": "3.17.0",
       "port-version": 0
@@ -39460,6 +39464,10 @@
       "baseline": "1.4.2",
       "port-version": 3
     },
+    "gl2ps-1-4-2-4": {
+      "baseline": "1.4.2",
+      "port-version": 4
+    },
     "gl2ps-opengl-to-postscript-printing-library-0": {
       "baseline": "opengl to postscript printing library",
       "port-version": 0
@@ -40455,6 +40463,10 @@
     "glui-2019-11-30-3": {
       "baseline": "2019-11-30",
       "port-version": 3
+    },
+    "glui-2019-11-30-4": {
+      "baseline": "2019-11-30",
+      "port-version": 4
     },
     "gmime-3-0-2-0": {
       "baseline": "3.0.2",
@@ -62135,6 +62147,10 @@
     "mdl-sdk-2021-1-2-3": {
       "baseline": "2021.1.2",
       "port-version": 3
+    },
+    "mdl-sdk-2021-1-2-4": {
+      "baseline": "2021.1.2",
+      "port-version": 4
     },
     "mdns-1-1-0": {
       "baseline": "1.1",
