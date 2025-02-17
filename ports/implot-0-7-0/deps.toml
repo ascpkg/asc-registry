@@ -1,0 +1,5 @@
+old = "implot"
+new = "implot-0-7-0"
+
+[deps]
+imgui-1-78-3 = "imgui"
