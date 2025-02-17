@@ -27896,6 +27896,10 @@
       "baseline": "22.10.26",
       "port-version": 1
     },
+    "flatbuffers-23-1-21-0": {
+      "baseline": "23.1.21",
+      "port-version": 0
+    },
     "flatbuffers-23-1-4-0": {
       "baseline": "23.1.4",
       "port-version": 0
