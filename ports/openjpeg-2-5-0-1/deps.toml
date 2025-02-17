@@ -1,0 +1,11 @@
+old = "openjpeg"
+new = "openjpeg-2-5-0-1"
+
+[deps]
+curl-8-2-1-0 = "curl"
+fastcgi-2020-09-11-5 = "fastcgi"
+lcms-2-14-0 = "lcms"
+tiff-4-5-1-2 = "tiff"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-3-0 = "zlib"
