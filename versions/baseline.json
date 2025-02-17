@@ -38716,6 +38716,10 @@
       "baseline": "3.10.1",
       "port-version": 0
     },
+    "lapack-reference-3-11-0-0": {
+      "baseline": "3.11.0",
+      "port-version": 0
+    },
     "lapack-reference-3-8-0-0": {
       "baseline": "3.8.0",
       "port-version": 0
