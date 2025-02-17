@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libvhdi-20231127-0",
+      "version": "20231127",
+      "port-version": 0
+    }
+  ]
+}

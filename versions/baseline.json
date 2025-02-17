@@ -60376,6 +60376,10 @@
       "baseline": "0.56.0",
       "port-version": 0
     },
+    "libvhdi-20231127-0": {
+      "baseline": "20231127",
+      "port-version": 0
+    },
     "libvmdk-2019-12-21-0": {
       "baseline": "2019-12-21",
       "port-version": 0
