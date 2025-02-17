@@ -49072,6 +49072,10 @@
       "baseline": "3.0.5",
       "port-version": 0
     },
+    "gmime-3-2-15-0": {
+      "baseline": "3.2.15",
+      "port-version": 0
+    },
     "gmime-3-2-3-0": {
       "baseline": "3.2.3",
       "port-version": 0

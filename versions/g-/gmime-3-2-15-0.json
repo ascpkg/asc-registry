@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gmime-3-2-15-0",
+      "version": "3.2.15",
+      "port-version": 0
+    }
+  ]
+}
