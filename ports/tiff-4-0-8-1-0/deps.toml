@@ -2,6 +2,6 @@ old = "tiff"
 new = "tiff-4-0-8-1-0"
 
 [deps]
-libjpeg-turbo-1-5-2-1-0 = "libjpeg-turbo"
+libjpeg-turbo-1-5-2-2-0 = "libjpeg-turbo"
 liblzma-5-2-3-2-0 = "liblzma"
-zlib-1-2-11-1-0 = "zlib"
+zlib-1-2-11-3-0 = "zlib"
