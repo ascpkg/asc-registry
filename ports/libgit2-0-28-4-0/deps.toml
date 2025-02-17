@@ -1,0 +1,5 @@
+old = "libgit2"
+new = "libgit2-0-28-4-0"
+
+[deps]
+openssl-1-0 = "openssl"

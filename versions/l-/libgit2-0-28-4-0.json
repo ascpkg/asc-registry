@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libgit2-0-28-4-0",
+      "version": "0.28.4",
+      "port-version": 0
+    }
+  ]
+}
