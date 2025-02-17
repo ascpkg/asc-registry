@@ -1,0 +1,8 @@
+old = "launch-darkly-server"
+new = "launch-darkly-server-2-9-3-0"
+
+[deps]
+curl-8-10-1-2 = "curl"
+pcre-8-45-6 = "pcre"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
