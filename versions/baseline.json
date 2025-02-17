@@ -69384,6 +69384,10 @@
       "baseline": "5.4.6",
       "port-version": 0
     },
+    "lua-5-4-7-0": {
+      "baseline": "5.4.7",
+      "port-version": 0
+    },
     "lua-compat53-0-10-0": {
       "baseline": "0.10",
       "port-version": 0
