@@ -31468,6 +31468,10 @@
       "baseline": "0.6.1",
       "port-version": 0
     },
+    "cpptrace-0-6-2-0": {
+      "baseline": "0.6.2",
+      "port-version": 0
+    },
     "cppunit-1-13-2-0": {
       "baseline": "1.13.2",
       "port-version": 0
