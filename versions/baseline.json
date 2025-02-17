@@ -66832,6 +66832,10 @@
       "baseline": "1.9.6",
       "port-version": 1
     },
+    "octomap-1-9-8-0": {
+      "baseline": "1.9.8",
+      "port-version": 0
+    },
     "octomap-2017-03-11-7-0": {
       "baseline": "2017-03-11-7",
       "port-version": 0
