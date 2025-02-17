@@ -56756,6 +56756,10 @@
       "baseline": "2.3.8",
       "port-version": 0
     },
+    "lunasvg-2-3-8-1": {
+      "baseline": "2.3.8",
+      "port-version": 1
+    },
     "luv-1-44-2-0": {
       "baseline": "1.44.2",
       "port-version": 0
