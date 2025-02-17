@@ -1,0 +1,5 @@
+old = "gdal"
+new = "gdal-1-11-3-0"
+
+[deps]
+proj-4-9-3-0 = "proj"
