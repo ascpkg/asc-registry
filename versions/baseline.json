@@ -23848,6 +23848,10 @@
       "baseline": "jun2017-3",
       "port-version": 0
     },
+    "cpp-async-1-0-0-0": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
     "cpp-base64-2019-06-19-0": {
       "baseline": "2019-06-19",
       "port-version": 0
