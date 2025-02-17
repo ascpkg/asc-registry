@@ -15044,6 +15044,10 @@
       "baseline": "2.0.4",
       "port-version": 0
     },
+    "sdl2-image-2-0-4-1-0": {
+      "baseline": "2.0.4-1",
+      "port-version": 0
+    },
     "sdl2-mixer-2-0-1-0": {
       "baseline": "2.0.1",
       "port-version": 0
@@ -15084,6 +15088,10 @@
       "baseline": "2.0.4",
       "port-version": 0
     },
+    "sdl2-mixer-2-0-4-1-0": {
+      "baseline": "2.0.4-1",
+      "port-version": 0
+    },
     "sdl2-net-2-0-1-0": {
       "baseline": "2.0.1",
       "port-version": 0
@@ -15102,6 +15110,10 @@
     },
     "sdl2-net-2-0-1-4-0": {
       "baseline": "2.0.1-4",
+      "port-version": 0
+    },
+    "sdl2-net-2-0-1-5-0": {
+      "baseline": "2.0.1-5",
       "port-version": 0
     },
     "sdl2-ttf-2-0-14-0": {
@@ -15126,6 +15138,10 @@
     },
     "sdl2-ttf-2-0-15-0": {
       "baseline": "2.0.15",
+      "port-version": 0
+    },
+    "sdl2-ttf-2-0-15-1-0": {
+      "baseline": "2.0.15-1",
       "port-version": 0
     },
     "sdl2pp-0-16-0-1-0": {
