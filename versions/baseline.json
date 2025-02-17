@@ -43404,6 +43404,10 @@
       "baseline": "0.5.12",
       "port-version": 0
     },
+    "libopenmpt-0-5-12-1": {
+      "baseline": "0.5.12",
+      "port-version": 1
+    },
     "libopenmpt-2017-01-28-cf2390140-0": {
       "baseline": "2017-01-28-cf2390140",
       "port-version": 0
