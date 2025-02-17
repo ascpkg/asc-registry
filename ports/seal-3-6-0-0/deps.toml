@@ -1,0 +1,7 @@
+old = "seal"
+new = "seal-3-6-0-0"
+
+[deps]
+ms-gsl-3-1-0-0 = "ms-gsl"
+zlib-1-2-11-9 = "zlib"
+zstd-1-4-5-1 = "zstd"
