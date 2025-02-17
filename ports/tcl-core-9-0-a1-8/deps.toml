@@ -1,0 +1,5 @@
+old = "tcl"
+new = "tcl-core-9-0-a1-8"
+
+[deps]
+zlib-1-3-1-0 = "zlib"
