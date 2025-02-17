@@ -21372,6 +21372,10 @@
       "baseline": "4.0.0-3",
       "port-version": 0
     },
+    "tesseract-4-1-0-0": {
+      "baseline": "4.1.0",
+      "port-version": 0
+    },
     "tgui-0-8-4-0": {
       "baseline": "0.8.4",
       "port-version": 0
