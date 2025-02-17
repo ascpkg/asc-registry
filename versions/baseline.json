@@ -20112,6 +20112,10 @@
       "baseline": "1.4-6",
       "port-version": 0
     },
+    "openmvg-1-4-7-0": {
+      "baseline": "1.4-7",
+      "port-version": 0
+    },
     "openmvs-0-9-0": {
       "baseline": "0.9",
       "port-version": 0
