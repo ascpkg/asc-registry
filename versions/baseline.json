@@ -8316,6 +8316,10 @@
       "baseline": "2019.10",
       "port-version": 0
     },
+    "corrade-2019-10-1-0": {
+      "baseline": "2019.10-1",
+      "port-version": 0
+    },
     "corrade-jan2018-1-0": {
       "baseline": "jan2018-1",
       "port-version": 0
@@ -19336,6 +19340,10 @@
       "baseline": "2019.10",
       "port-version": 0
     },
+    "magnum-2019-10-1-0": {
+      "baseline": "2019.10-1",
+      "port-version": 0
+    },
     "magnum-extras-2018-02-1-0": {
       "baseline": "2018.02-1",
       "port-version": 0
@@ -19450,6 +19458,10 @@
     },
     "magnum-plugins-2019-10-1-0": {
       "baseline": "2019.10-1",
+      "port-version": 0
+    },
+    "magnum-plugins-2019-10-2-0": {
+      "baseline": "2019.10-2",
       "port-version": 0
     },
     "magnum-plugins-jan2018-1-0": {

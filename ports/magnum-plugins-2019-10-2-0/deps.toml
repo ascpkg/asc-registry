@@ -1,0 +1,13 @@
+old = "magnum-plugins"
+new = "magnum-plugins-2019-10-2-0"
+
+[deps]
+assimp-5-0-1-0 = "assimp"
+basisu-1-11-3-0 = "basisu"
+devil-1-8-0-5-0 = "devil"
+freetype-2-10-1-5-0 = "freetype"
+harfbuzz-2-5-3-0 = "harfbuzz"
+libjpeg-turbo-2-0-4-0 = "libjpeg-turbo"
+libpng-1-6-37-6-0 = "libpng"
+magnum-2019-10-1-0 = "magnum"
+magnum-plugins-2019-10-2-0 = "magnum-plugins"
