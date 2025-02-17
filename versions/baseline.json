@@ -2872,6 +2872,10 @@
       "baseline": "5.1.0",
       "port-version": 0
     },
+    "bitsery-5-2-1-0": {
+      "baseline": "5.2.1",
+      "port-version": 0
+    },
     "blas-1-0": {
       "baseline": "1",
       "port-version": 0
