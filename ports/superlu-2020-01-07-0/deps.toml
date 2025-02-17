@@ -1,0 +1,5 @@
+old = "superlu"
+new = "superlu-2020-01-07-0"
+
+[deps]
+openblas-0-3-7-0 = "openblas"
