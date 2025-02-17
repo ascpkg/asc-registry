@@ -1,0 +1,5 @@
+old = "libgo"
+new = "libgo-2-8-2-0"
+
+[deps]
+boost-context-1-68-0-1-0 = "boost-context"
