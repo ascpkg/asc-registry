@@ -33592,6 +33592,10 @@
       "baseline": "0.6.4",
       "port-version": 0
     },
+    "cpuid-0-7-0-0": {
+      "baseline": "0.7.0",
+      "port-version": 0
+    },
     "cpuinfo-2019-07-28-0": {
       "baseline": "2019-07-28",
       "port-version": 0
