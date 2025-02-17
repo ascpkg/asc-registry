@@ -1,0 +1,6 @@
+old = "simdjson"
+new = "simdjson-0-9-6-0"
+
+[deps]
+vcpkg-cmake-2021-06-25-4 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"
