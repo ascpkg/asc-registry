@@ -3,4 +3,4 @@ new = "hpx-1-0-0-3-0"
 
 [deps]
 boost-1-64-4-0 = "boost"
-hwloc-1-11-7-0 = "hwloc"
+hwloc-1-11-7-1-0 = "hwloc"
