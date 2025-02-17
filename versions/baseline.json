@@ -1968,6 +1968,10 @@
       "baseline": "2.10",
       "port-version": 0
     },
+    "libsigcpp-2-99-0": {
+      "baseline": "2.99",
+      "port-version": 0
+    },
     "libsndfile-libsndfile-1-0-29-6830c42-0": {
       "baseline": "libsndfile-1.0.29-6830c42",
       "port-version": 0
