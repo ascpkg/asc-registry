@@ -1,0 +1,5 @@
+old = "qt5-svg"
+new = "qt5-svg-5-15-2-1"
+
+[deps]
+qt5-base-5-15-2-9 = "qt5-base"
