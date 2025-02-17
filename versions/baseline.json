@@ -40480,6 +40480,10 @@
       "baseline": "2021-01-25",
       "port-version": 0
     },
+    "rtaudio-2021-04-30-0": {
+      "baseline": "2021-04-30",
+      "port-version": 0
+    },
     "rtaudio-5-1-0-0": {
       "baseline": "5.1.0",
       "port-version": 0
