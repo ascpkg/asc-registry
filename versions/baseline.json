@@ -42868,6 +42868,10 @@
       "baseline": "2.21.0",
       "port-version": 0
     },
+    "google-cloud-cpp-2-22-0-0": {
+      "baseline": "2.22.0",
+      "port-version": 0
+    },
     "google-cloud-cpp-2-3-0-0": {
       "baseline": "2.3.0",
       "port-version": 0
