@@ -2004,6 +2004,10 @@
       "baseline": "0.4.6",
       "port-version": 3
     },
+    "argagg-0-4-7-0": {
+      "baseline": "0.4.7",
+      "port-version": 0
+    },
     "argagg-2019-01-25-0": {
       "baseline": "2019-01-25",
       "port-version": 0
