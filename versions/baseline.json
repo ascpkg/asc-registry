@@ -39960,6 +39960,10 @@
       "baseline": "3.4.0",
       "port-version": 4
     },
+    "eigen3-3-4-0-5": {
+      "baseline": "3.4.0",
+      "port-version": 5
+    },
     "elements-2022-12-07-0": {
       "baseline": "2022-12-07",
       "port-version": 0
