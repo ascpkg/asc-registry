@@ -1,0 +1,8 @@
+old = "ftgl"
+new = "ftgl-2022-05-18-1"
+
+[deps]
+freetype-2-11-1-1 = "freetype"
+opengl-2022-03-14-0 = "opengl"
+vcpkg-cmake-2022-05-10-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"

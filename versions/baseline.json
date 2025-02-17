@@ -25468,6 +25468,10 @@
       "baseline": "2022-05-18",
       "port-version": 0
     },
+    "ftgl-2022-05-18-1": {
+      "baseline": "2022-05-18",
+      "port-version": 1
+    },
     "ftxui-2-0-0-1": {
       "baseline": "2.0.0",
       "port-version": 1
