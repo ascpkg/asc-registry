@@ -1,0 +1,5 @@
+old = "glog"
+new = "glog-0-4-0-3-0"
+
+[deps]
+gflags-2-2-2-1-0 = "gflags"
