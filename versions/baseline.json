@@ -43964,6 +43964,10 @@
       "baseline": "0.7.1",
       "port-version": 0
     },
+    "influxdb-cxx-0-7-1-1": {
+      "baseline": "0.7.1",
+      "port-version": 1
+    },
     "influxdb-cxx-2022-09-02-0": {
       "baseline": "2022-09-02",
       "port-version": 0
