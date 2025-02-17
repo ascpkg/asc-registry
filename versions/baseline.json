@@ -69232,6 +69232,10 @@
       "baseline": "0.8.0",
       "port-version": 4
     },
+    "tree-sitter-0-26-0-0": {
+      "baseline": "0.26.0",
+      "port-version": 0
+    },
     "treehh-3-16-0": {
       "baseline": "3.16",
       "port-version": 0
