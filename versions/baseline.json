@@ -19312,6 +19312,10 @@
       "baseline": "10.0.0",
       "port-version": 0
     },
+    "halide-11-0-1-0": {
+      "baseline": "11.0.1",
+      "port-version": 0
+    },
     "halide-master-2020-03-07-0": {
       "baseline": "master_2020_03_07",
       "port-version": 0
