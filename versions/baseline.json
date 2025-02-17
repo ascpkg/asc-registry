@@ -71472,6 +71472,10 @@
       "baseline": "2024-10-31",
       "port-version": 0
     },
+    "live555-2024-11-28-0": {
+      "baseline": "2024-11-28",
+      "port-version": 0
+    },
     "live555-latest-0": {
       "baseline": "latest",
       "port-version": 0
