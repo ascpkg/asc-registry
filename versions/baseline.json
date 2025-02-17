@@ -35764,6 +35764,10 @@
       "baseline": "0.10.0",
       "port-version": 0
     },
+    "librabbitmq-0-11-0-0": {
+      "baseline": "0.11.0",
+      "port-version": 0
+    },
     "librabbitmq-0-8-0-0": {
       "baseline": "0.8.0",
       "port-version": 0
