@@ -33500,6 +33500,10 @@
       "baseline": "2020-02-02",
       "port-version": 2
     },
+    "portaudio-2020-02-20-0": {
+      "baseline": "2020-02-20",
+      "port-version": 0
+    },
     "portmidi-0-217-1-0": {
       "baseline": "0.217.1",
       "port-version": 0
