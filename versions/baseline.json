@@ -82948,6 +82948,10 @@
       "baseline": "3.6",
       "port-version": 0
     },
+    "raygui-4-0-0": {
+      "baseline": "4.0",
+      "port-version": 0
+    },
     "raylib-2-5-0-0": {
       "baseline": "2.5.0",
       "port-version": 0
