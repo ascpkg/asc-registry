@@ -31440,6 +31440,10 @@
       "baseline": "1.1.1i",
       "port-version": 0
     },
+    "openssl-1-1-1j-0": {
+      "baseline": "1.1.1j",
+      "port-version": 0
+    },
     "openssl-microsoft-1-0-2-winrt-stable-0": {
       "baseline": "1.0.2-winrt-stable",
       "port-version": 0
