@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/angle-chromium-4472-5",
+      "version-string": "chromium_4472",
+      "port-version": 5
+    }
+  ]
+}

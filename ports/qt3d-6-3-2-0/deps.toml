@@ -1,0 +1,10 @@
+old = "qt3d"
+new = "qt3d-6-3-2-0"
+
+[deps]
+assimp-5-2-5-0 = "assimp"
+qt3d-6-3-2-0 = "qt3d"
+qtbase-6-3-2-1 = "qtbase"
+qtdeclarative-6-3-2-0 = "qtdeclarative"
+qtshadertools-6-3-2-0 = "qtshadertools"
+vulkan-1-1-82-1-2 = "vulkan"
