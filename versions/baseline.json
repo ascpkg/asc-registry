@@ -4520,6 +4520,10 @@
       "baseline": "0.10.4",
       "port-version": 0
     },
+    "aws-c-mqtt-0-10-5-0": {
+      "baseline": "0.10.5",
+      "port-version": 0
+    },
     "aws-c-mqtt-0-7-6-0": {
       "baseline": "0.7.6",
       "port-version": 0
