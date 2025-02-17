@@ -88824,6 +88824,10 @@
       "baseline": "2.3.9",
       "port-version": 1
     },
+    "unordered-dense-4-0-1-0": {
+      "baseline": "4.0.1",
+      "port-version": 0
+    },
     "unqlite-1-1-9-0": {
       "baseline": "1.1.9",
       "port-version": 0
