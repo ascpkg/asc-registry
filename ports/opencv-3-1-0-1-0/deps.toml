@@ -4,4 +4,5 @@ new = "opencv-3-1-0-1-0"
 [deps]
 libjpeg-turbo-1-4-90-1-0 = "libjpeg-turbo"
 libpng-1-6-24-1-0 = "libpng"
+tiff-4-0-6-0 = "tiff"
 zlib-1-2-8-0 = "zlib"
