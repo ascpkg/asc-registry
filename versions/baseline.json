@@ -22236,6 +22236,10 @@
       "baseline": "7.86.0",
       "port-version": 1
     },
+    "curl-7-86-0-2": {
+      "baseline": "7.86.0",
+      "port-version": 2
+    },
     "curlpp-2018-06-15-0": {
       "baseline": "2018-06-15",
       "port-version": 0
@@ -39651,6 +39655,10 @@
     "libarchive-3-6-1-1": {
       "baseline": "3.6.1",
       "port-version": 1
+    },
+    "libarchive-3-6-1-2": {
+      "baseline": "3.6.1",
+      "port-version": 2
     },
     "libass-0-14-0-0": {
       "baseline": "0.14.0",
