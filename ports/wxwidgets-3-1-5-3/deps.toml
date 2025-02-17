@@ -1,0 +1,8 @@
+old = "wxwidgets"
+new = "wxwidgets-3-1-5-3"
+
+[deps]
+expat-2-4-1-0 = "expat"
+libpng-1-6-37-15 = "libpng"
+tiff-4-3-0-1 = "tiff"
+zlib-1-2-11-11 = "zlib"
