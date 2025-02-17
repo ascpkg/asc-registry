@@ -46620,6 +46620,10 @@
       "baseline": "0.9.4",
       "port-version": 1
     },
+    "workflow-0-9-5-1": {
+      "baseline": "0.9.5",
+      "port-version": 1
+    },
     "wpilib-2019-4-1-0": {
       "baseline": "2019.4.1",
       "port-version": 0
