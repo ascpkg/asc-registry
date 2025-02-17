@@ -31264,6 +31264,10 @@
       "baseline": "2023-08-14",
       "port-version": 0
     },
+    "directx-dxc-2024-03-07-0": {
+      "baseline": "2024-03-07",
+      "port-version": 0
+    },
     "directx-headers-1-0-0": {
       "baseline": "1.0",
       "port-version": 0
@@ -31306,6 +31310,10 @@
     },
     "directx-headers-1-611-0-0": {
       "baseline": "1.611.0",
+      "port-version": 0
+    },
+    "directx-headers-1-613-0-0": {
+      "baseline": "1.613.0",
       "port-version": 0
     },
     "directxmath-2022-01-18-0": {
