@@ -89968,6 +89968,10 @@
       "baseline": "0.10.0",
       "port-version": 1
     },
+    "qcoro-0-11-0-0": {
+      "baseline": "0.11.0",
+      "port-version": 0
+    },
     "qcoro-0-9-0-0": {
       "baseline": "0.9.0",
       "port-version": 0
