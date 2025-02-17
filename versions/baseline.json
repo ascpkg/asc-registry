@@ -72752,6 +72752,10 @@
       "baseline": "2.5.0",
       "port-version": 1
     },
+    "openjpeg-2-5-2-0": {
+      "baseline": "2.5.2",
+      "port-version": 0
+    },
     "openldap-2-5-13-0": {
       "baseline": "2.5.13",
       "port-version": 0
