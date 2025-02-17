@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gsl-lite-0-26-0-0",
+      "version": "0.26.0",
+      "port-version": 0
+    }
+  ]
+}
