@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qtbase-6-2-2-2",
+      "version-semver": "6.2.2",
+      "port-version": 2
+    }
+  ]
+}
