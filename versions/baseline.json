@@ -32324,6 +32324,10 @@
       "baseline": "1.0.2",
       "port-version": 0
     },
+    "readerwriterqueue-1-0-3-0": {
+      "baseline": "1.0.3",
+      "port-version": 0
+    },
     "readline-0-0": {
       "baseline": "0",
       "port-version": 0
