@@ -1,0 +1,12 @@
+{
+  "name": "qtdoc-6-6-0-0",
+  "version": "6.6.0",
+  "description": "Qt Documentation",
+  "homepage": "https://www.qt.io/",
+  "dependencies": [
+    {
+      "name": "qtbase",
+      "default-features": false
+    }
+  ]
+}
