@@ -12100,6 +12100,10 @@
       "baseline": "20170730_git-5",
       "port-version": 0
     },
+    "g2o-2020-02-07-0": {
+      "baseline": "2020-02-07",
+      "port-version": 0
+    },
     "g3log-2019-05-14-1-0": {
       "baseline": "2019-05-14-1",
       "port-version": 0
