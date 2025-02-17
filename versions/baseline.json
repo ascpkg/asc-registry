@@ -48020,6 +48020,10 @@
       "baseline": "1.6.0",
       "port-version": 2
     },
+    "opentracing-1-6-0-3": {
+      "baseline": "1.6.0",
+      "port-version": 3
+    },
     "openvdb-5-0-0-0": {
       "baseline": "5.0.0",
       "port-version": 0
