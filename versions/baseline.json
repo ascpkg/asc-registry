@@ -684,6 +684,10 @@
       "baseline": "3.9.5",
       "port-version": 9
     },
+    "ada-url-2-4-2-0": {
+      "baseline": "2.4.2",
+      "port-version": 0
+    },
     "ade-0-1-1d-0": {
       "baseline": "0.1.1d",
       "port-version": 0
