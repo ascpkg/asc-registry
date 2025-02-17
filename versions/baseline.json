@@ -22192,6 +22192,10 @@
       "baseline": "10.0.0-4",
       "port-version": 0
     },
+    "llvm-10-0-0-5": {
+      "baseline": "10.0.0",
+      "port-version": 5
+    },
     "llvm-4-0-0-0": {
       "baseline": "4.0.0",
       "port-version": 0
@@ -33307,6 +33311,10 @@
     "skia-2020-05-18-2": {
       "baseline": "2020-05-18",
       "port-version": 2
+    },
+    "skia-2020-05-18-3": {
+      "baseline": "2020-05-18",
+      "port-version": 3
     },
     "skyr-url-1-10-0-0": {
       "baseline": "1.10.0",
