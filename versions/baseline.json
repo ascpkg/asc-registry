@@ -122220,6 +122220,10 @@
       "baseline": "3.2",
       "port-version": 0
     },
+    "zoe-3-3-0": {
+      "baseline": "3.3",
+      "port-version": 0
+    },
     "zookeeper-3-5-5-0": {
       "baseline": "3.5.5",
       "port-version": 0
