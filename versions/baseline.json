@@ -44488,6 +44488,10 @@
       "baseline": "3.6.3",
       "port-version": 0
     },
+    "tinyfiledialogs-3-8-8-0": {
+      "baseline": "3.8.8",
+      "port-version": 0
+    },
     "tinygltf-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
