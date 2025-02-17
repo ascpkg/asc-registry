@@ -48244,6 +48244,10 @@
       "baseline": "2.3.0",
       "port-version": 0
     },
+    "json-schema-validator-2-3-0-1": {
+      "baseline": "2.3.0",
+      "port-version": 1
+    },
     "json-spirit-4-1-0-0": {
       "baseline": "4.1.0",
       "port-version": 0
