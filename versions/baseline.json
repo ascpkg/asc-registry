@@ -55356,6 +55356,10 @@
       "baseline": "2021-04-29",
       "port-version": 2
     },
+    "libsmb2-2023-08-11-0": {
+      "baseline": "2023-08-11",
+      "port-version": 0
+    },
     "libsndfile-1-0-29-10": {
       "baseline": "1.0.29",
       "port-version": 10
