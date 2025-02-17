@@ -1,0 +1,8 @@
+old = "behaviortree-cpp"
+new = "behaviortree-cpp-4-3-7-0"
+
+[deps]
+boost-coroutine2-1-83-0-0 = "boost-coroutine2"
+cppzmq-4-9-0-1 = "cppzmq"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
