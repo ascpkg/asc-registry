@@ -18632,6 +18632,10 @@
       "baseline": "8.0.0",
       "port-version": 0
     },
+    "ignition-transport8-8-1-0-0": {
+      "baseline": "8.1.0",
+      "port-version": 0
+    },
     "ignition-transport9-9-0-0-0": {
       "baseline": "9.0.0",
       "port-version": 0
