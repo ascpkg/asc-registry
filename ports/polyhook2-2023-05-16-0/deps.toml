@@ -1,0 +1,9 @@
+old = "polyhook2"
+new = "polyhook2-2023-05-16-0"
+
+[deps]
+asmjit-2023-03-25-0 = "asmjit"
+asmtk-2022-11-06-0 = "asmtk"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zydis-4-0-0-0 = "zydis"
