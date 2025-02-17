@@ -11556,6 +11556,10 @@
       "baseline": "4.0.3",
       "port-version": 0
     },
+    "ixwebsocket-5-0-4-0": {
+      "baseline": "5.0.4",
+      "port-version": 0
+    },
     "jack2-1-9-12-0": {
       "baseline": "1.9.12",
       "port-version": 0
