@@ -23720,6 +23720,10 @@
       "baseline": "4.1.1-5",
       "port-version": 0
     },
+    "opencv4-4-1-1-6-0": {
+      "baseline": "4.1.1-6",
+      "port-version": 0
+    },
     "opendnp3-2-3-2-0": {
       "baseline": "2.3.2",
       "port-version": 0
