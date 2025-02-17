@@ -1,0 +1,6 @@
+old = "libvpx"
+new = "libvpx-1-13-1-4"
+
+[deps]
+vcpkg-cmake-get-vars-2024-09-22-0 = "vcpkg-cmake-get-vars"
+vcpkg-msbuild-2023-08-08-0 = "vcpkg-msbuild"
