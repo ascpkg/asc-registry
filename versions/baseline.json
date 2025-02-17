@@ -30304,6 +30304,10 @@
       "baseline": "5.0.1",
       "port-version": 1
     },
+    "harfbuzz-5-0-1-2": {
+      "baseline": "5.0.1",
+      "port-version": 2
+    },
     "hash-library-8-0": {
       "baseline": "8",
       "port-version": 0
