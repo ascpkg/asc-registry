@@ -1,0 +1,5 @@
+old = "stx"
+new = "stx-1-0-1-0"
+
+[deps]
+abseil-2020-03-03-7 = "abseil"
