@@ -18764,6 +18764,10 @@
       "baseline": "1.51",
       "port-version": 0
     },
+    "geographiclib-1-52-0": {
+      "baseline": "1.52",
+      "port-version": 0
+    },
     "geos-3-5-0-0": {
       "baseline": "3.5.0",
       "port-version": 0
