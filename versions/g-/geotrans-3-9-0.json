@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/geotrans-3-9-0",
+      "version": "3.9",
+      "port-version": 0
+    }
+  ]
+}
