@@ -8676,6 +8676,10 @@
       "baseline": "20170908-18498f620f0f6d4076981ea16eb5760fe4d28dc2-2",
       "port-version": 0
     },
+    "zeromq-2018-03-14-0": {
+      "baseline": "2018-03-14",
+      "port-version": 0
+    },
     "zeromq-4-2-0-0": {
       "baseline": "4.2.0",
       "port-version": 0
