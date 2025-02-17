@@ -24264,6 +24264,10 @@
       "baseline": "69.1",
       "port-version": 14
     },
+    "icu-69-1-15": {
+      "baseline": "69.1",
+      "port-version": 15
+    },
     "icu-69-1-8": {
       "baseline": "69.1",
       "port-version": 8
