@@ -54264,6 +54264,10 @@
       "baseline": "8.13.17",
       "port-version": 0
     },
+    "libphonenumber-8-13-23-0": {
+      "baseline": "8.13.23",
+      "port-version": 0
+    },
     "libphonenumber-8-13-7-0": {
       "baseline": "8.13.7",
       "port-version": 0
