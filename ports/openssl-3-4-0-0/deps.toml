@@ -1,0 +1,7 @@
+old = "openssl"
+new = "openssl-3-4-0-0"
+
+[deps]
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
+vcpkg-cmake-get-vars-2024-09-22-0 = "vcpkg-cmake-get-vars"
