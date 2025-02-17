@@ -106228,6 +106228,10 @@
       "baseline": "7.0.5",
       "port-version": 0
     },
+    "scotch-7-0-5-1": {
+      "baseline": "7.0.5",
+      "port-version": 1
+    },
     "scottt-debugbreak-1-0-0": {
       "baseline": "1.0",
       "port-version": 0
