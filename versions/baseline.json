@@ -26752,6 +26752,10 @@
       "baseline": "6.2.0",
       "port-version": 0
     },
+    "sdl1-1-2-15-10-0": {
+      "baseline": "1.2.15-10",
+      "port-version": 0
+    },
     "sdl1-1-2-15-3-0": {
       "baseline": "1.2.15-3",
       "port-version": 0
