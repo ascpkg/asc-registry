@@ -36744,6 +36744,10 @@
       "baseline": "2.40.0",
       "port-version": 0
     },
+    "realsense2-2-40-0-1": {
+      "baseline": "2.40.0",
+      "port-version": 1
+    },
     "realsense2-2-8-1-0": {
       "baseline": "2.8.1",
       "port-version": 0
