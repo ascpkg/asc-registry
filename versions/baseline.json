@@ -74500,6 +74500,10 @@
       "baseline": "1.20",
       "port-version": 1
     },
+    "openturns-1-20-2": {
+      "baseline": "1.20",
+      "port-version": 2
+    },
     "openvdb-10-0-0-0": {
       "baseline": "10.0.0",
       "port-version": 0
