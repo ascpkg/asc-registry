@@ -34832,6 +34832,10 @@
       "baseline": "19.0.6.00-5",
       "port-version": 0
     },
+    "portaudio-19-7-0": {
+      "baseline": "19.7",
+      "port-version": 0
+    },
     "portaudio-2019-09-30-0": {
       "baseline": "2019-09-30",
       "port-version": 0
