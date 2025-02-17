@@ -1,0 +1,10 @@
+old = "xeus"
+new = "xeus-0-20-0-1-0"
+
+[deps]
+cppzmq-4-4-1-0 = "cppzmq"
+libuuid-1-0-3-3-0 = "libuuid"
+nlohmann-json-3-7-3-0 = "nlohmann-json"
+openssl-1-0 = "openssl"
+xtl-0-6-5-0 = "xtl"
+zeromq-2019-09-20-0 = "zeromq"
