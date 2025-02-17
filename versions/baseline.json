@@ -6104,6 +6104,10 @@
       "baseline": "beta_2021-01-02",
       "port-version": 0
     },
+    "blingfire-0-1-8-1-0": {
+      "baseline": "0.1.8.1",
+      "port-version": 0
+    },
     "blitz-2019-09-26-0": {
       "baseline": "2019-09-26",
       "port-version": 0
