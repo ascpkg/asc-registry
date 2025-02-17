@@ -39244,6 +39244,10 @@
       "baseline": "2.2.2",
       "port-version": 8
     },
+    "gflags-2-2-2-9": {
+      "baseline": "2.2.2",
+      "port-version": 9
+    },
     "ghc-filesystem-1-5-10-0": {
       "baseline": "1.5.10",
       "port-version": 0
