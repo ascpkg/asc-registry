@@ -1384,6 +1384,10 @@
       "baseline": "2019-08-20.1-1",
       "port-version": 0
     },
+    "azure-c-shared-utility-2019-10-07-1-1-0": {
+      "baseline": "2019-10-07.1-1",
+      "port-version": 0
+    },
     "azure-iot-sdk-c-1-0-0-pre-release-1-0-9-0": {
       "baseline": "1.0.0-pre-release-1.0.9",
       "port-version": 0
@@ -1448,6 +1452,10 @@
       "baseline": "2019-08-20.1",
       "port-version": 0
     },
+    "azure-iot-sdk-c-2019-10-07-1-0": {
+      "baseline": "2019-10-07.1",
+      "port-version": 0
+    },
     "azure-macro-utils-c-2019-04-11-1-0": {
       "baseline": "2019-04-11-1",
       "port-version": 0
@@ -1462,6 +1470,10 @@
     },
     "azure-macro-utils-c-2019-08-20-1-0": {
       "baseline": "2019-08-20.1",
+      "port-version": 0
+    },
+    "azure-macro-utils-c-2019-10-07-1-0": {
+      "baseline": "2019-10-07.1",
       "port-version": 0
     },
     "azure-storage-cpp-2-5-0-0": {
@@ -1596,6 +1608,10 @@
       "baseline": "2019-08-20.1",
       "port-version": 0
     },
+    "azure-uamqp-c-2019-10-07-1-0": {
+      "baseline": "2019-10-07.1",
+      "port-version": 0
+    },
     "azure-uhttp-c-1-1-10-1-0": {
       "baseline": "1.1.10-1",
       "port-version": 0
@@ -1634,6 +1650,10 @@
     },
     "azure-uhttp-c-2019-08-20-1-0": {
       "baseline": "2019-08-20.1",
+      "port-version": 0
+    },
+    "azure-uhttp-c-2019-10-07-1-0": {
+      "baseline": "2019-10-07.1",
       "port-version": 0
     },
     "azure-uhttp-c-lts-01-2018-ref01-0": {
@@ -1694,6 +1714,10 @@
     },
     "azure-umqtt-c-2019-08-20-1-0": {
       "baseline": "2019-08-20.1",
+      "port-version": 0
+    },
+    "azure-umqtt-c-2019-10-07-1-0": {
+      "baseline": "2019-10-07.1",
       "port-version": 0
     },
     "basisu-0-0-1-0": {
@@ -26254,6 +26278,10 @@
     },
     "umock-c-2019-08-20-1-0": {
       "baseline": "2019-08-20.1",
+      "port-version": 0
+    },
+    "umock-c-2019-10-07-1-0": {
+      "baseline": "2019-10-07.1",
       "port-version": 0
     },
     "unicorn-2017-12-06-bc34c36eaeca0f4fc672015d24ce3efbcc81d6e4-0": {
