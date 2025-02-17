@@ -34164,6 +34164,10 @@
       "baseline": "2.4.0",
       "port-version": 0
     },
+    "winreg-3-0-1-0": {
+      "baseline": "3.0.1",
+      "port-version": 0
+    },
     "winsock2-0-0-0": {
       "baseline": "0.0",
       "port-version": 0
