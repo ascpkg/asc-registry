@@ -46924,6 +46924,10 @@
       "baseline": "10.3.0",
       "port-version": 0
     },
+    "idyntree-12-1-0-0": {
+      "baseline": "12.1.0",
+      "port-version": 0
+    },
     "idyntree-8-1-0-0": {
       "baseline": "8.1.0",
       "port-version": 0
