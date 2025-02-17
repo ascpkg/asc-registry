@@ -1,0 +1,5 @@
+old = "rbdl"
+new = "rbdl-2-6-0-0"
+
+[deps]
+eigen3-3-3-7-7 = "eigen3"
