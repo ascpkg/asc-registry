@@ -1,0 +1,12 @@
+{
+  "name": "qtserialport-6-5-3-0",
+  "version": "6.5.3",
+  "description": "Qt Serial Port support",
+  "homepage": "https://www.qt.io/",
+  "dependencies": [
+    {
+      "name": "qtbase",
+      "default-features": false
+    }
+  ]
+}
