@@ -13024,6 +13024,10 @@
       "baseline": "0.8.8-alpha-1",
       "port-version": 0
     },
+    "vulkan-memory-allocator-2-1-0-1-0": {
+      "baseline": "2.1.0-1",
+      "port-version": 0
+    },
     "vxl-20180414-7a130cf-0": {
       "baseline": "20180414-7a130cf",
       "port-version": 0
