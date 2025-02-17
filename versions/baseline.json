@@ -4240,6 +4240,10 @@
       "baseline": "1.8.0-2",
       "port-version": 0
     },
+    "devil-1-8-0-3-0": {
+      "baseline": "1.8.0-3",
+      "port-version": 0
+    },
     "dimcli-1-0-3-0": {
       "baseline": "1.0.3",
       "port-version": 0
