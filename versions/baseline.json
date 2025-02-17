@@ -26644,6 +26644,10 @@
       "baseline": "2.10.18",
       "port-version": 3
     },
+    "cpprestsdk-2-10-18-4": {
+      "baseline": "2.10.18",
+      "port-version": 4
+    },
     "cpprestsdk-2-10-2-0": {
       "baseline": "2.10.2",
       "port-version": 0
@@ -60355,6 +60359,10 @@
     "microsoft-signalr-0-1-0-alpha4-7": {
       "baseline": "0.1.0-alpha4",
       "port-version": 7
+    },
+    "microsoft-signalr-0-1-0-alpha4-8": {
+      "baseline": "0.1.0-alpha4",
+      "port-version": 8
     },
     "mikktspace-2020-10-06-0": {
       "baseline": "2020-10-06",
