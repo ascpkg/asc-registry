@@ -20652,6 +20652,10 @@
       "baseline": "2020-10-30",
       "port-version": 0
     },
+    "influxdb-cxx-0-6-6-0": {
+      "baseline": "0.6.6",
+      "port-version": 0
+    },
     "infoware-0-5-3-0": {
       "baseline": "0.5.3",
       "port-version": 0

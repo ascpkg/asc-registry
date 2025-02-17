@@ -1,0 +1,8 @@
+old = "influxdb-cxx"
+new = "influxdb-cxx-0-6-6-0"
+
+[deps]
+boost-asio-1-75-0-1 = "boost-asio"
+boost-conversion-1-75-0-0 = "boost-conversion"
+boost-property-tree-1-75-0-0 = "boost-property-tree"
+curl-7-74-0-3 = "curl"
