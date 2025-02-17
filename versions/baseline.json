@@ -15668,6 +15668,10 @@
       "baseline": "3.4.0",
       "port-version": 0
     },
+    "comms-3-4-0-1": {
+      "baseline": "3.4.0",
+      "port-version": 1
+    },
     "comms-ublox-0-19-1-0": {
       "baseline": "0.19.1",
       "port-version": 0
