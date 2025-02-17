@@ -61440,6 +61440,10 @@
       "baseline": "23.1.0",
       "port-version": 1
     },
+    "poppler-23-1-0-2": {
+      "baseline": "23.1.0",
+      "port-version": 2
+    },
     "popsift-0-9-0": {
       "baseline": "0.9",
       "port-version": 0
