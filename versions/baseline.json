@@ -27236,6 +27236,10 @@
       "baseline": "1.0.0",
       "port-version": 2
     },
+    "dbow3-1-0-0-3": {
+      "baseline": "1.0.0",
+      "port-version": 3
+    },
     "dbus-1-13-18-0": {
       "baseline": "1.13.18",
       "port-version": 0
