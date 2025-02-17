@@ -14608,6 +14608,10 @@
       "baseline": "1.0.1-1",
       "port-version": 0
     },
+    "dxsdk-d3dx-9-29-952-8-0": {
+      "baseline": "9.29.952.8",
+      "port-version": 0
+    },
     "dxut-11-14-0": {
       "baseline": "11.14",
       "port-version": 0
