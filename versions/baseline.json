@@ -80716,6 +80716,10 @@
       "baseline": "0.24.43",
       "port-version": 1
     },
+    "shader-slang-0-27-20-0": {
+      "baseline": "0.27.20",
+      "port-version": 0
+    },
     "shaderc-12fb656ab20ea9aa06e7084a74e5ff832b7ce2da-0": {
       "baseline": "12fb656ab20ea9aa06e7084a74e5ff832b7ce2da",
       "port-version": 0
