@@ -1,0 +1,7 @@
+old = "websocketpp"
+new = "websocketpp-0-8-1-1-0"
+
+[deps]
+boost-asio-1-70-0-1-0 = "boost-asio"
+openssl-0-0 = "openssl"
+zlib-1-2-11-5-0 = "zlib"
