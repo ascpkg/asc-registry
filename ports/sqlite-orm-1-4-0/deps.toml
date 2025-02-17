@@ -1,0 +1,5 @@
+old = "sqlite-orm"
+new = "sqlite-orm-1-4-0"
+
+[deps]
+sqlite3-3-29-0-1-0 = "sqlite3"
