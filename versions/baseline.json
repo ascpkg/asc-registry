@@ -16508,6 +16508,10 @@
       "baseline": "1.77",
       "port-version": 0
     },
+    "imgui-1-77-1": {
+      "baseline": "1.77",
+      "port-version": 1
+    },
     "imgui-sfml-2-0-2-0": {
       "baseline": "2.0.2",
       "port-version": 0
