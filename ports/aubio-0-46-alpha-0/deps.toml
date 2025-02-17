@@ -1,0 +1,6 @@
+old = "aubio"
+new = "aubio-0-46-alpha-0"
+
+[deps]
+ffmpeg-3-2-4-3-0 = "ffmpeg"
+libsndfile-libsndfile-1-0-29-6830c42-0 = "libsndfile"
