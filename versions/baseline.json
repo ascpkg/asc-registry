@@ -16936,6 +16936,10 @@
       "baseline": "0.3.0",
       "port-version": 0
     },
+    "functions-framework-cpp-0-3-0-1": {
+      "baseline": "0.3.0",
+      "port-version": 1
+    },
     "fuzzylite-6-0-0": {
       "baseline": "6.0",
       "port-version": 0
