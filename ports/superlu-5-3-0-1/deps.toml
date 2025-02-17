@@ -1,0 +1,7 @@
+old = "superlu"
+new = "superlu-5-3-0-1"
+
+[deps]
+blas-1-1 = "blas"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
