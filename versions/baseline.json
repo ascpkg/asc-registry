@@ -108232,6 +108232,10 @@
       "baseline": "2.8.2",
       "port-version": 2
     },
+    "sdl2-image-2-8-4-0": {
+      "baseline": "2.8.4",
+      "port-version": 0
+    },
     "sdl2-mixer-2-0-1-0": {
       "baseline": "2.0.1",
       "port-version": 0
