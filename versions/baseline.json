@@ -52528,6 +52528,10 @@
       "baseline": "1.3.0",
       "port-version": 0
     },
+    "libenvpp-1-4-0-0": {
+      "baseline": "1.4.0",
+      "port-version": 0
+    },
     "libepoxy-1-4-0-2432daf-0": {
       "baseline": "1.4.0-2432daf",
       "port-version": 0
