@@ -552,6 +552,10 @@
       "baseline": "0.2.0",
       "port-version": 0
     },
+    "anyrpc-2017-12-01-0": {
+      "baseline": "2017-12-01",
+      "port-version": 0
+    },
     "apr-1-5-2-0": {
       "baseline": "1.5.2",
       "port-version": 0
