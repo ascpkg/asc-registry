@@ -72196,6 +72196,10 @@
       "baseline": "2.10.0",
       "port-version": 0
     },
+    "tensorflow-common-2-10-0-1": {
+      "baseline": "2.10.0",
+      "port-version": 1
+    },
     "tensorflow-common-2-3-1-0": {
       "baseline": "2.3.1",
       "port-version": 0
