@@ -85800,6 +85800,10 @@
       "baseline": "2.3.7",
       "port-version": 1
     },
+    "qca-2-3-7-2": {
+      "baseline": "2.3.7",
+      "port-version": 2
+    },
     "qcoro-0-10-0-0": {
       "baseline": "0.10.0",
       "port-version": 0
