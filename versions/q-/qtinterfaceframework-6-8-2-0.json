@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qtinterfaceframework-6-8-2-0",
+      "version": "6.8.2",
+      "port-version": 0
+    }
+  ]
+}
