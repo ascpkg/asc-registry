@@ -102652,6 +102652,10 @@
       "baseline": "2022-12-12",
       "port-version": 0
     },
+    "ztd-static-containers-2022-12-12-1": {
+      "baseline": "2022-12-12",
+      "port-version": 1
+    },
     "ztd-text-2022-03-21-0": {
       "baseline": "2022-03-21",
       "port-version": 0
