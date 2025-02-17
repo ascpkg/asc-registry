@@ -112036,6 +112036,10 @@
       "baseline": "20.62.0",
       "port-version": 0
     },
+    "uwebsockets-20-65-0-0": {
+      "baseline": "20.65.0",
+      "port-version": 0
+    },
     "uwebsockets-20-8-0-0": {
       "baseline": "20.8.0",
       "port-version": 0
