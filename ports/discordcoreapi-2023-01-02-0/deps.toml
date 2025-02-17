@@ -1,0 +1,11 @@
+old = "discordcoreapi"
+new = "discordcoreapi-2023-01-02-0"
+
+[deps]
+ffmpeg-5-0-2-1 = "ffmpeg"
+libsodium-1-0-18-8 = "libsodium"
+openssl-3-0-7-2 = "openssl"
+opus-1-3-1-9 = "opus"
+simdjson-3-0-1-0 = "simdjson"
+vcpkg-cmake-2022-11-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
