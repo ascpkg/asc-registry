@@ -3,3 +3,4 @@ new = "globjects-1-0-0-0"
 
 [deps]
 glbinding-2-1-1-0 = "glbinding"
+glm-0-9-8-1-0 = "glm"
