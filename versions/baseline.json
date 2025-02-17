@@ -81668,6 +81668,10 @@
       "baseline": "9.3.0",
       "port-version": 1
     },
+    "octave-9-3-0-2": {
+      "baseline": "9.3.0",
+      "port-version": 2
+    },
     "octomap-1-10-0-0": {
       "baseline": "1.10.0",
       "port-version": 0
