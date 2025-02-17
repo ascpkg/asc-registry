@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libtcod-1-16-7-2",
+      "version-semver": "1.16.7",
+      "port-version": 2
+    }
+  ]
+}
