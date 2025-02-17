@@ -2004,6 +2004,10 @@
       "baseline": "8.400.0-1",
       "port-version": 0
     },
+    "arpack-ng-3-9-0-0": {
+      "baseline": "3.9.0",
+      "port-version": 0
+    },
     "arrayfire-3-7-3-0": {
       "baseline": "3.7.3",
       "port-version": 0
