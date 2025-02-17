@@ -93192,6 +93192,10 @@
       "baseline": "2.3.7",
       "port-version": 2
     },
+    "qca-2-3-7-3": {
+      "baseline": "2.3.7",
+      "port-version": 3
+    },
     "qcoro-0-10-0-0": {
       "baseline": "0.10.0",
       "port-version": 0

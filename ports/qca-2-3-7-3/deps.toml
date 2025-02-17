@@ -1,0 +1,10 @@
+old = "qca"
+new = "qca-2-3-7-3"
+
+[deps]
+botan-3-6-1-0 = "botan"
+openssl-3-4-1-0 = "openssl"
+qt5compat-6-8-2-0 = "qt5compat"
+qtbase-6-8-2-1 = "qtbase"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
