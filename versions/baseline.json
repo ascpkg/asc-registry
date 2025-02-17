@@ -88412,6 +88412,10 @@
       "baseline": "1.0.1",
       "port-version": 0
     },
+    "tinyexr-1-0-5-0": {
+      "baseline": "1.0.5",
+      "port-version": 0
+    },
     "tinyexr-2020-03-15-0": {
       "baseline": "2020-03-15",
       "port-version": 0
