@@ -1,0 +1,6 @@
+old = "qt5-networkauth"
+new = "qt5-networkauth-5-12-1-0"
+
+[deps]
+qt5-base-5-12-1-0 = "qt5-base"
+qt5-modularscripts-2019-02-02-0 = "qt5-modularscripts"
