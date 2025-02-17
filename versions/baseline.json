@@ -56348,6 +56348,10 @@
       "baseline": "0.8.9.0",
       "port-version": 10
     },
+    "libmodplug-0-8-9-0-11": {
+      "baseline": "0.8.9.0",
+      "port-version": 11
+    },
     "libmodplug-0-8-9-0-4-0": {
       "baseline": "0.8.9.0-4",
       "port-version": 0

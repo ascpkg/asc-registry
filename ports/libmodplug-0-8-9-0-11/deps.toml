@@ -1,0 +1,5 @@
+old = "libmodplug"
+new = "libmodplug-0-8-9-0-11"
+
+[deps]
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
