@@ -31500,6 +31500,10 @@
       "baseline": "2024-03-22",
       "port-version": 0
     },
+    "directx-dxc-2024-03-29-0": {
+      "baseline": "2024-03-29",
+      "port-version": 0
+    },
     "directx-headers-1-0-0": {
       "baseline": "1.0",
       "port-version": 0
