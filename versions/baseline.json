@@ -56972,6 +56972,10 @@
       "baseline": "3.7.2",
       "port-version": 1
     },
+    "seal-3-7-2-2": {
+      "baseline": "3.7.2",
+      "port-version": 2
+    },
     "secp256k1--0": {
       "baseline": "",
       "port-version": 0
