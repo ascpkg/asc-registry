@@ -1,0 +1,7 @@
+old = "azure-core-cpp"
+new = "azure-core-cpp-1-0-0-beta-6-0"
+
+[deps]
+azure-core-cpp-1-0-0-beta-6-0 = "azure-core-cpp"
+curl-7-74-0-3 = "curl"
+openssl-1-1-1i-0 = "openssl"
