@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/argumentum-0-3-2-0",
+      "version": "0.3.2",
+      "port-version": 0
+    }
+  ]
+}
