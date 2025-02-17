@@ -1068,6 +1068,10 @@
       "baseline": "1.2.8",
       "port-version": 0
     },
+    "alsa-1-2-8-1": {
+      "baseline": "1.2.8",
+      "port-version": 1
+    },
     "amd-amf-1-4-26-0": {
       "baseline": "1.4.26",
       "port-version": 0
