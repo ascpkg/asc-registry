@@ -27320,6 +27320,10 @@
       "baseline": "3.5.2",
       "port-version": 0
     },
+    "libarchive-3-5-2-1": {
+      "baseline": "3.5.2",
+      "port-version": 1
+    },
     "libass-0-14-0-0": {
       "baseline": "0.14.0",
       "port-version": 0
@@ -33611,6 +33615,10 @@
     "lz4-1-9-3-2": {
       "baseline": "1.9.3",
       "port-version": 2
+    },
+    "lz4-1-9-3-3": {
+      "baseline": "1.9.3",
+      "port-version": 3
     },
     "lzfse-1-0-0": {
       "baseline": "1.0",
