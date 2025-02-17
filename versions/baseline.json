@@ -38948,6 +38948,10 @@
       "baseline": "0.9.10",
       "port-version": 2
     },
+    "libunistring-0-9-10-3": {
+      "baseline": "0.9.10",
+      "port-version": 3
+    },
     "liburing-2-0-0": {
       "baseline": "2.0",
       "port-version": 0
