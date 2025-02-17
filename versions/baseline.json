@@ -104208,6 +104208,10 @@
       "baseline": "3.10.0",
       "port-version": 0
     },
+    "simdjson-3-10-1-0": {
+      "baseline": "3.10.1",
+      "port-version": 0
+    },
     "simdjson-3-2-0-0": {
       "baseline": "3.2.0",
       "port-version": 0
