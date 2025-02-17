@@ -17676,6 +17676,10 @@
       "baseline": "4.1.1",
       "port-version": 0
     },
+    "cppgraphqlgen-4-2-0-0": {
+      "baseline": "4.2.0",
+      "port-version": 0
+    },
     "cppitertools-2-0-0": {
       "baseline": "2.0",
       "port-version": 0
