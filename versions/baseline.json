@@ -10600,6 +10600,10 @@
       "baseline": "0.9",
       "port-version": 0
     },
+    "shiva-1-0-0": {
+      "baseline": "1.0",
+      "port-version": 0
+    },
     "shiva-sfml-0-7-0": {
       "baseline": "0.7",
       "port-version": 0
@@ -10610,6 +10614,10 @@
     },
     "shiva-sfml-0-9-0": {
       "baseline": "0.9",
+      "port-version": 0
+    },
+    "shiva-sfml-1-0-0": {
+      "baseline": "1.0",
       "port-version": 0
     },
     "shogun-6-1-3-0": {
