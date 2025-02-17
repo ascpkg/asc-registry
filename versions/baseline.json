@@ -70888,6 +70888,10 @@
       "baseline": "4.4.36",
       "port-version": 1
     },
+    "libxcrypt-4-4-36-2": {
+      "baseline": "4.4.36",
+      "port-version": 2
+    },
     "libxcvt-0-1-2-0": {
       "baseline": "0.1.2",
       "port-version": 0
