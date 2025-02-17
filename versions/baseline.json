@@ -26956,6 +26956,10 @@
       "baseline": "1.41.0",
       "port-version": 0
     },
+    "grpc-1-44-0-0": {
+      "baseline": "1.44.0",
+      "port-version": 0
+    },
     "grpc-1-6-0-0": {
       "baseline": "1.6.0",
       "port-version": 0
