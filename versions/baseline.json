@@ -44564,6 +44564,10 @@
       "baseline": "0.8.0",
       "port-version": 1
     },
+    "immer-0-8-1-0": {
+      "baseline": "0.8.1",
+      "port-version": 0
+    },
     "immer-2019-06-07-0": {
       "baseline": "2019-06-07",
       "port-version": 0
