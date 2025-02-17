@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gdk-pixbuf-2-42-12-0",
+      "version": "2.42.12",
+      "port-version": 0
+    }
+  ]
+}
