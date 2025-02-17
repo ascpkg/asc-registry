@@ -19276,6 +19276,10 @@
       "baseline": "4.1.0",
       "port-version": 0
     },
+    "continuable-4-2-0-0": {
+      "baseline": "4.2.0",
+      "port-version": 0
+    },
     "convectionkernels-2022-06-08-0": {
       "baseline": "2022-06-08",
       "port-version": 0
