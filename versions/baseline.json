@@ -51100,6 +51100,10 @@
       "baseline": "1.5.0",
       "port-version": 5
     },
+    "libmesh-1-5-0-6": {
+      "baseline": "1.5.0",
+      "port-version": 6
+    },
     "libmicrodns-0-2-0-0": {
       "baseline": "0.2.0",
       "port-version": 0
