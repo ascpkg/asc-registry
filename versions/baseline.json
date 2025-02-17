@@ -111028,6 +111028,10 @@
       "baseline": "5.6.0",
       "port-version": 0
     },
+    "simdutf-6-1-1-0": {
+      "baseline": "6.1.1",
+      "port-version": 0
+    },
     "simonbrunel-qtpromise-0-7-0-0": {
       "baseline": "0.7.0",
       "port-version": 0
