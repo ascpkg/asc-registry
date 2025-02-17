@@ -59540,6 +59540,10 @@
       "baseline": "0.2.2",
       "port-version": 2
     },
+    "lely-core-2-3-5-0": {
+      "baseline": "2.3.5",
+      "port-version": 0
+    },
     "lemon--0": {
       "baseline": "",
       "port-version": 0
