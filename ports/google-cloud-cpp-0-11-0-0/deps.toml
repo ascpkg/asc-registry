@@ -1,0 +1,7 @@
+old = "google-cloud-cpp"
+new = "google-cloud-cpp-0-11-0-0"
+
+[deps]
+crc32c-1-0-7-1-0 = "crc32c"
+curl-7-65-0-3-0 = "curl"
+grpc-1-21-1-1-0 = "grpc"
