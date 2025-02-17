@@ -89140,6 +89140,10 @@
       "baseline": "2.6.3",
       "port-version": 1
     },
+    "sdl2-mixer-ext-2-6-0-0": {
+      "baseline": "2.6.0",
+      "port-version": 0
+    },
     "sdl2-mixer-ext-2023-05-04-0": {
       "baseline": "2023-05-04",
       "port-version": 0
