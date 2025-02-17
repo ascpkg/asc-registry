@@ -1,0 +1,12 @@
+old = "sfml"
+new = "sfml-2-5-1-11"
+
+[deps]
+freetype-2-11-0-2 = "freetype"
+libflac-1-3-3-7 = "libflac"
+libogg-1-3-5-0 = "libogg"
+libvorbis-1-3-7-1 = "libvorbis"
+openal-soft-1-21-1-4 = "openal-soft"
+stb-2020-09-14-1 = "stb"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"
