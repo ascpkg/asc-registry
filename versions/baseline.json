@@ -94112,6 +94112,10 @@
       "baseline": "2021.10.0",
       "port-version": 3
     },
+    "tbb-2021-11-0-0": {
+      "baseline": "2021.11.0",
+      "port-version": 0
+    },
     "tbb-2021-5-0-0": {
       "baseline": "2021.5.0",
       "port-version": 0
