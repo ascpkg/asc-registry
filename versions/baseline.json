@@ -59632,6 +59632,10 @@
       "baseline": "2.1",
       "port-version": 5
     },
+    "miniupnpc-2-2-5-0": {
+      "baseline": "2.2.5",
+      "port-version": 0
+    },
     "miniz-2-0-8-0": {
       "baseline": "2.0.8",
       "port-version": 0
