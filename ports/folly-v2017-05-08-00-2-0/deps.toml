@@ -1,0 +1,14 @@
+old = "folly"
+new = "folly-v2017-05-08-00-2-0"
+
+[deps]
+boost-1-64-2-0 = "boost"
+double-conversion-2-0-1-0 = "double-conversion"
+gflags-2-2-0-3-0 = "gflags"
+glog-0-3-4-0472b91-1-0 = "glog"
+libevent-2-1-8-1-0 = "libevent"
+liblzma-5-2-3-1-0 = "liblzma"
+lz4-1-7-5-0 = "lz4"
+openssl-1-0-2k-2-0 = "openssl"
+snappy-1-1-4-1-0 = "snappy"
+zlib-1-2-11-0 = "zlib"
