@@ -24668,6 +24668,10 @@
       "baseline": "11.30",
       "port-version": 0
     },
+    "dxut-11-30-1": {
+      "baseline": "11.30",
+      "port-version": 1
+    },
     "eabase-2-09-10-0": {
       "baseline": "2.09.10",
       "port-version": 0
@@ -25191,6 +25195,10 @@
     "effects11-11-29-0": {
       "baseline": "11.29",
       "port-version": 0
+    },
+    "effects11-11-29-1": {
+      "baseline": "11.29",
+      "port-version": 1
     },
     "effolkronium-random-1-2-0-0": {
       "baseline": "1.2.0",
