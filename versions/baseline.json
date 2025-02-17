@@ -52708,6 +52708,10 @@
       "baseline": "1.3.0",
       "port-version": 1
     },
+    "string-view-lite-1-6-0-0": {
+      "baseline": "1.6.0",
+      "port-version": 0
+    },
     "strtk-2017-01-02-1e2960f-0": {
       "baseline": "2017.01.02-1e2960f",
       "port-version": 0
