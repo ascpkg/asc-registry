@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/azure-umqtt-c-2019-03-18-0",
+      "version": "2019-03-18",
+      "port-version": 0
+    }
+  ]
+}
