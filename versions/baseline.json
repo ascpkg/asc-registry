@@ -23556,6 +23556,10 @@
       "baseline": "11.28",
       "port-version": 0
     },
+    "dxut-11-29-0": {
+      "baseline": "11.29",
+      "port-version": 0
+    },
     "eabase-2-09-10-0": {
       "baseline": "2.09.10",
       "port-version": 0
