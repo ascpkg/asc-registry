@@ -22396,6 +22396,10 @@
       "baseline": "5.12.5-7",
       "port-version": 0
     },
+    "qt5-base-5-12-5-8-0": {
+      "baseline": "5.12.5-8",
+      "port-version": 0
+    },
     "qt5-base-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -22690,6 +22694,10 @@
     },
     "qt5-imageformats-5-12-5-1-0": {
       "baseline": "5.12.5-1",
+      "port-version": 0
+    },
+    "qt5-imageformats-5-12-5-2-0": {
+      "baseline": "5.12.5-2",
       "port-version": 0
     },
     "qt5-imageformats-5-9-2-0-0": {
@@ -23276,6 +23284,10 @@
       "baseline": "5.12.5-2",
       "port-version": 0
     },
+    "qt5-tools-5-12-5-3-0": {
+      "baseline": "5.12.5-3",
+      "port-version": 0
+    },
     "qt5-tools-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -23474,6 +23486,10 @@
     },
     "qt5-xmlpatterns-5-12-5-0": {
       "baseline": "5.12.5",
+      "port-version": 0
+    },
+    "qt5-xmlpatterns-5-12-5-1-0": {
+      "baseline": "5.12.5-1",
       "port-version": 0
     },
     "qt5-xmlpatterns-5-9-2-0-0": {
