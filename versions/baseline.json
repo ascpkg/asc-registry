@@ -20748,6 +20748,10 @@
       "baseline": "1.1.0",
       "port-version": 0
     },
+    "libu2f-server-1-1-0-2": {
+      "baseline": "1.1.0",
+      "port-version": 2
+    },
     "libudis86-2018-01-28-56ff6c87-0": {
       "baseline": "2018-01-28-56ff6c87",
       "port-version": 0
