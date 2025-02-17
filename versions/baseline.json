@@ -13864,6 +13864,10 @@
       "baseline": "cares-1_15_0",
       "port-version": 0
     },
+    "c-dbg-macro-2020-02-29-0": {
+      "baseline": "2020-02-29",
+      "port-version": 0
+    },
     "c4core-2020-04-12-0": {
       "baseline": "2020-04-12",
       "port-version": 0
