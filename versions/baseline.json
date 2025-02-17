@@ -78768,6 +78768,10 @@
       "baseline": "1.3.7",
       "port-version": 0
     },
+    "redis-plus-plus-1-3-8-0": {
+      "baseline": "1.3.8",
+      "port-version": 0
+    },
     "redshell-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
