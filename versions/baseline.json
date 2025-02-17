@@ -69960,6 +69960,10 @@
       "baseline": "3.4.18",
       "port-version": 12
     },
+    "opencv3-3-4-18-13": {
+      "baseline": "3.4.18",
+      "port-version": 13
+    },
     "opencv3-3-4-18-2": {
       "baseline": "3.4.18",
       "port-version": 2
@@ -70263,6 +70267,10 @@
     "opencv4-4-8-0-14": {
       "baseline": "4.8.0",
       "port-version": 14
+    },
+    "opencv4-4-8-0-15": {
+      "baseline": "4.8.0",
+      "port-version": 15
     },
     "opencv4-4-8-0-2": {
       "baseline": "4.8.0",
