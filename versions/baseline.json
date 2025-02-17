@@ -29576,6 +29576,10 @@
       "baseline": "5.89.0",
       "port-version": 0
     },
+    "kf5windowsystem-5-89-0-1": {
+      "baseline": "5.89.0",
+      "port-version": 1
+    },
     "kf5xmlgui-5-84-0-0": {
       "baseline": "5.84.0",
       "port-version": 0
