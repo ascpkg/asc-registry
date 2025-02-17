@@ -43248,6 +43248,10 @@
       "baseline": "1.48.0",
       "port-version": 0
     },
+    "pango-1-48-10-0": {
+      "baseline": "1.48.10",
+      "port-version": 0
+    },
     "pango-1-48-4-0": {
       "baseline": "1.48.4",
       "port-version": 0
