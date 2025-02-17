@@ -42884,6 +42884,10 @@
       "baseline": "2.3.6",
       "port-version": 0
     },
+    "fluidsynth-2-3-7-0": {
+      "baseline": "2.3.7",
+      "port-version": 0
+    },
     "flux-2023-08-25-0": {
       "baseline": "2023-08-25",
       "port-version": 0
