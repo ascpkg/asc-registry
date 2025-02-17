@@ -39408,6 +39408,10 @@
       "baseline": "2.4.0",
       "port-version": 2
     },
+    "fakeit-2-4-0-3": {
+      "baseline": "2.4.0",
+      "port-version": 3
+    },
     "fameta-counter-2021-02-13-0": {
       "baseline": "2021-02-13",
       "port-version": 0
