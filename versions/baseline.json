@@ -30068,6 +30068,10 @@
       "baseline": "2022-12-12",
       "port-version": 0
     },
+    "directxmath-2023-12-31-0": {
+      "baseline": "2023-12-31",
+      "port-version": 0
+    },
     "directxmath-3-1-6-0": {
       "baseline": "3.1.6",
       "port-version": 0
@@ -30134,6 +30138,10 @@
     },
     "directxmesh-2023-10-28-0": {
       "baseline": "2023-10-28",
+      "port-version": 0
+    },
+    "directxmesh-2023-12-31-0": {
+      "baseline": "2023-12-31",
       "port-version": 0
     },
     "directxmesh-apr2018-0": {
@@ -30368,6 +30376,10 @@
       "baseline": "2023-10-28",
       "port-version": 0
     },
+    "directxtex-2023-12-31-0": {
+      "baseline": "2023-12-31",
+      "port-version": 0
+    },
     "directxtex-apr2018-0": {
       "baseline": "apr2018",
       "port-version": 0
@@ -30574,6 +30586,10 @@
     },
     "directxtk-2023-10-28-0": {
       "baseline": "2023-10-28",
+      "port-version": 0
+    },
+    "directxtk-2023-12-31-0": {
+      "baseline": "2023-12-31",
       "port-version": 0
     },
     "directxtk-apr2018-0": {
@@ -30794,6 +30810,10 @@
     },
     "directxtk12-2023-10-28-0": {
       "baseline": "2023-10-28",
+      "port-version": 0
+    },
+    "directxtk12-2023-12-31-0": {
+      "baseline": "2023-12-31",
       "port-version": 0
     },
     "directxtk12-apr2021-0": {
@@ -70100,6 +70120,10 @@
       "baseline": "3.1.8",
       "port-version": 0
     },
+    "openexr-3-1-8-1": {
+      "baseline": "3.1.8",
+      "port-version": 1
+    },
     "openfbx-2022-07-18-0": {
       "baseline": "2022-07-18",
       "port-version": 0
@@ -99390,6 +99414,10 @@
     },
     "uvatlas-2023-10-31-0": {
       "baseline": "2023-10-31",
+      "port-version": 0
+    },
+    "uvatlas-2023-12-31-0": {
+      "baseline": "2023-12-31",
       "port-version": 0
     },
     "uvatlas-apr2019-0": {
