@@ -11740,6 +11740,10 @@
       "baseline": "0.1.31",
       "port-version": 0
     },
+    "glad-0-1-33-0": {
+      "baseline": "0.1.33",
+      "port-version": 0
+    },
     "glbinding-2-1-1-0": {
       "baseline": "2.1.1",
       "port-version": 0
