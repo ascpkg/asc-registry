@@ -52236,6 +52236,10 @@
       "baseline": "3.11.0",
       "port-version": 4
     },
+    "lapack-reference-3-11-0-5": {
+      "baseline": "3.11.0",
+      "port-version": 5
+    },
     "lapack-reference-3-8-0-0": {
       "baseline": "3.8.0",
       "port-version": 0
@@ -73624,6 +73628,10 @@
       "baseline": "4.8.0",
       "port-version": 15
     },
+    "opencv4-4-8-0-16": {
+      "baseline": "4.8.0",
+      "port-version": 16
+    },
     "opencv4-4-8-0-2": {
       "baseline": "4.8.0",
       "port-version": 2
@@ -74551,6 +74559,10 @@
     "openmvs-2-1-0-2": {
       "baseline": "2.1.0",
       "port-version": 2
+    },
+    "openmvs-2-1-0-3": {
+      "baseline": "2.1.0",
+      "port-version": 3
     },
     "openni2-2-2-0-33-0": {
       "baseline": "2.2.0.33",
