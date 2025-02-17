@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/kdbindings-1-0-3-0",
+      "version": "1.0.3",
+      "port-version": 0
+    }
+  ]
+}

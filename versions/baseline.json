@@ -46260,6 +46260,10 @@
       "baseline": "1.0.0",
       "port-version": 0
     },
+    "kdbindings-1-0-3-0": {
+      "baseline": "1.0.3",
+      "port-version": 0
+    },
     "kddockwidgets-1-5-0-0": {
       "baseline": "1.5.0",
       "port-version": 0
