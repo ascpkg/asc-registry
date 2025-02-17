@@ -1,0 +1,5 @@
+old = "openssl"
+new = "openssl-1-0-2h-0"
+
+[deps]
+zlib-1-2-8-0 = "zlib"

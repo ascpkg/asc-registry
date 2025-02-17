@@ -1,0 +1,22 @@
+include(vcpkg_common_functions)
+vcpkg_download_distfile(ARCHIVE_FILE
+    URLS "https://zlib.net/fossils/zlib-1.2.8.tar.gz"
+    FILENAME "zlib128.zip"
+    SHA512 ece209d4c7ec0cb58ede791444dc754e0d10811cbbdebe3df61c0fd9f9f9867c1c3ccd5f1827f847c005e24eef34fb5bf87b5d3f894d75da04f1797538290e4a
+)
+vcpkg_extract_source_archive(${ARCHIVE_FILE})
+
+vcpkg_configure_cmake(
+    SOURCE_PATH ${CURRENT_BUILDTREES_DIR}/src/zlib-1.2.8
+    OPTIONS
+        -DSKIP_INSTALL_FILES=ON
+    OPTIONS_DEBUG
+        -DSKIP_INSTALL_HEADERS=ON
+)
+
+vcpkg_build_cmake()
+vcpkg_install_cmake()
+
+file(REMOVE ${CURRENT_PACKAGES_DIR}/lib/zlibstatic.lib ${CURRENT_PACKAGES_DIR}/debug/lib/zlibstaticd.lib)
+file(INSTALL ${CMAKE_CURRENT_LIST_DIR}/LICENSE DESTINATION ${CURRENT_PACKAGES_DIR}/share/${PORT} RENAME copyright)
+vcpkg_copy_pdbs()
