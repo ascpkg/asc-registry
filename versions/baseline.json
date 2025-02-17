@@ -16476,6 +16476,10 @@
       "baseline": "0.3",
       "port-version": 0
     },
+    "flashlight-cpu-0-3-1": {
+      "baseline": "0.3",
+      "port-version": 1
+    },
     "flashlight-cpu-20210111-0": {
       "baseline": "20210111",
       "port-version": 0
