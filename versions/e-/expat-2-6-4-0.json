@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/expat-2-6-4-0",
+      "version": "2.6.4",
+      "port-version": 0
+    }
+  ]
+}
