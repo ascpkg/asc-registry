@@ -25348,6 +25348,10 @@
       "baseline": "5.6",
       "port-version": 0
     },
+    "cgal-5-6-1": {
+      "baseline": "5.6",
+      "port-version": 1
+    },
     "cgicc--0": {
       "baseline": "",
       "port-version": 0
