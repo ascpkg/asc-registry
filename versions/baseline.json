@@ -28360,6 +28360,10 @@
       "baseline": "5.1.2",
       "port-version": 3
     },
+    "ffmpeg-5-1-2-4": {
+      "baseline": "5.1.2",
+      "port-version": 4
+    },
     "ffnvcodec-10-0-26-0-0": {
       "baseline": "10.0.26.0",
       "port-version": 0
