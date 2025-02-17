@@ -30028,6 +30028,10 @@
       "baseline": "1.0.8",
       "port-version": 1
     },
+    "libde265-1-0-8-2": {
+      "baseline": "1.0.8",
+      "port-version": 2
+    },
     "libdisasm-0-23-0": {
       "baseline": "0.23",
       "port-version": 0
@@ -30935,6 +30939,10 @@
     "libheif-1-12-0-0": {
       "baseline": "1.12.0",
       "port-version": 0
+    },
+    "libheif-1-12-0-1": {
+      "baseline": "1.12.0",
+      "port-version": 1
     },
     "libheif-1-7-0-0": {
       "baseline": "1.7.0",
