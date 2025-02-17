@@ -1,0 +1,5 @@
+old = "itpp"
+new = "itpp-4-3-1-12"
+
+[deps]
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
