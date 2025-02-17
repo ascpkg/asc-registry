@@ -15756,6 +15756,10 @@
       "baseline": "1.5.16",
       "port-version": 0
     },
+    "matplotlib-cpp-2019-09-24-0": {
+      "baseline": "2019-09-24",
+      "port-version": 0
+    },
     "matroska-1-4-8-0": {
       "baseline": "1.4.8",
       "port-version": 0
