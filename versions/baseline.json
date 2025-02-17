@@ -41080,6 +41080,10 @@
       "baseline": "2.2.0",
       "port-version": 0
     },
+    "tomlplusplus-2-3-0-0": {
+      "baseline": "2.3.0",
+      "port-version": 0
+    },
     "tool-meson-0-52-0-0": {
       "baseline": "0.52.0",
       "port-version": 0
