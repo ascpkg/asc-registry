@@ -1,0 +1,18 @@
+old = "boost-flyweight"
+new = "boost-flyweight-1-82-0-1"
+
+[deps]
+boost-assert-1-82-0-1 = "boost-assert"
+boost-config-1-82-0-1 = "boost-config"
+boost-container-hash-1-82-0-1 = "boost-container-hash"
+boost-core-1-82-0-1 = "boost-core"
+boost-detail-1-82-0-1 = "boost-detail"
+boost-interprocess-1-82-0-1 = "boost-interprocess"
+boost-mpl-1-82-0-1 = "boost-mpl"
+boost-multi-index-1-82-0-1 = "boost-multi-index"
+boost-parameter-1-82-0-1 = "boost-parameter"
+boost-preprocessor-1-82-0-1 = "boost-preprocessor"
+boost-smart-ptr-1-82-0-1 = "boost-smart-ptr"
+boost-throw-exception-1-82-0-1 = "boost-throw-exception"
+boost-type-traits-1-82-0-1 = "boost-type-traits"
+boost-vcpkg-helpers-1-82-0-1 = "boost-vcpkg-helpers"

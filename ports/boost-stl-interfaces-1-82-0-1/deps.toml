@@ -1,0 +1,8 @@
+old = "boost-stl-interfaces"
+new = "boost-stl-interfaces-1-82-0-1"
+
+[deps]
+boost-assert-1-82-0-1 = "boost-assert"
+boost-config-1-82-0-1 = "boost-config"
+boost-type-traits-1-82-0-1 = "boost-type-traits"
+boost-vcpkg-helpers-1-82-0-1 = "boost-vcpkg-helpers"
