@@ -41044,6 +41044,10 @@
       "baseline": "2019-08-28",
       "port-version": 1
     },
+    "nativefiledialog-2022-01-20-0": {
+      "baseline": "2022-01-20",
+      "port-version": 0
+    },
     "nayuki-qr-code-generator-1-7-0-0": {
       "baseline": "1.7.0",
       "port-version": 0
