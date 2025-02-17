@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libzip-1-7-3-2",
+      "version-semver": "1.7.3",
+      "port-version": 2
+    }
+  ]
+}
