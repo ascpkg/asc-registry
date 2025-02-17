@@ -101032,6 +101032,10 @@
       "baseline": "1.4.2",
       "port-version": 1
     },
+    "snap7-1-4-2-2": {
+      "baseline": "1.4.2",
+      "port-version": 2
+    },
     "snappy-1-1-10-0": {
       "baseline": "1.1.10",
       "port-version": 0
