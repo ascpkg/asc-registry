@@ -1,0 +1,6 @@
+old = "boost-disjoint-sets"
+new = "boost-disjoint-sets-1-72-0-0"
+
+[deps]
+boost-graph-1-72-0-0 = "boost-graph"
+boost-vcpkg-helpers-7-0 = "boost-vcpkg-helpers"

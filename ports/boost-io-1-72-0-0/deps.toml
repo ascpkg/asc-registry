@@ -1,0 +1,6 @@
+old = "boost-io"
+new = "boost-io-1-72-0-0"
+
+[deps]
+boost-detail-1-72-0-0 = "boost-detail"
+boost-vcpkg-helpers-7-0 = "boost-vcpkg-helpers"
