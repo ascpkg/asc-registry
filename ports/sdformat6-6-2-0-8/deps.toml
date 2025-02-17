@@ -1,0 +1,11 @@
+old = "sdformat6"
+new = "sdformat6-6-2-0-8"
+
+[deps]
+boost-any-1-85-0-1 = "boost-any"
+boost-variant-1-85-0-1 = "boost-variant"
+ignition-math4-4-0-0-3 = "ignition-math4"
+tinyxml-2-6-2-10 = "tinyxml"
+urdfdom-3-1-1-0 = "urdfdom"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
