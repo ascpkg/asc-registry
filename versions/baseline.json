@@ -2704,6 +2704,10 @@
       "baseline": "0.4.56",
       "port-version": 2
     },
+    "aws-c-common-0-6-20-0": {
+      "baseline": "0.6.20",
+      "port-version": 0
+    },
     "aws-c-common-0-6-9-0": {
       "baseline": "0.6.9",
       "port-version": 0
@@ -2767,6 +2771,10 @@
     "aws-c-http-0-6-5-2": {
       "baseline": "0.6.5",
       "port-version": 2
+    },
+    "aws-c-io-0-10-22-0": {
+      "baseline": "0.10.22",
+      "port-version": 0
     },
     "aws-c-io-0-10-7-0": {
       "baseline": "0.10.7",
