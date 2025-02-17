@@ -17528,6 +17528,10 @@
       "baseline": "2020-07-21",
       "port-version": 0
     },
+    "josuttis-jthread-2020-07-21-1": {
+      "baseline": "2020-07-21",
+      "port-version": 1
+    },
     "jsmn-2019-04-27-0": {
       "baseline": "2019-04-27",
       "port-version": 0
