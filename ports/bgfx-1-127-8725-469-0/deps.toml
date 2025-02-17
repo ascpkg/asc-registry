@@ -1,0 +1,10 @@
+old = "bgfx"
+new = "bgfx-1-127-8725-469-0"
+
+[deps]
+bgfx-1-127-8725-469-0 = "bgfx"
+libsquish-1-15-13 = "libsquish"
+miniz-3-0-2-0 = "miniz"
+tinyexr-1-0-8-0 = "tinyexr"
+vcpkg-cmake-2024-04-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
