@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/zstd-1-5-2-2",
+      "version": "1.5.2",
+      "port-version": 2
+    }
+  ]
+}
