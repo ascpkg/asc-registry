@@ -1,0 +1,8 @@
+old = "libgeotiff"
+new = "libgeotiff-1-4-2-10-0"
+
+[deps]
+libjpeg-turbo-2-0-3-0 = "libjpeg-turbo"
+proj4-6-1-1-1-0 = "proj4"
+tiff-4-0-10-7-0 = "tiff"
+zlib-1-2-11-5-0 = "zlib"
