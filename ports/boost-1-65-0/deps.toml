@@ -1,0 +1,6 @@
+old = "boost"
+new = "boost-1-65-0"
+
+[deps]
+bzip2-1-0-6-1-0 = "bzip2"
+zlib-1-2-11-0 = "zlib"
