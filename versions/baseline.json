@@ -29772,6 +29772,10 @@
       "baseline": "2.2.1-1",
       "port-version": 0
     },
+    "qca-2-3-1-0": {
+      "baseline": "2.3.1",
+      "port-version": 0
+    },
     "qcustomplot-2-0-1-1-0": {
       "baseline": "2.0.1-1",
       "port-version": 0
