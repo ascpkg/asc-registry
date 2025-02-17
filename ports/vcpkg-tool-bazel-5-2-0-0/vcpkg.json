@@ -1,0 +1,8 @@
+{
+  "name": "vcpkg-tool-bazel-5-2-0-0",
+  "version": "5.2.0",
+  "description": "Bazel build system",
+  "homepage": "https://github.com/bazelbuild/bazel",
+  "license": "Apache-2.0",
+  "supports": "native"
+}
