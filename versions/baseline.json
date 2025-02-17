@@ -476,6 +476,10 @@
       "baseline": "2.7.1",
       "port-version": 0
     },
+    "http-parser-2-7-1-1-0": {
+      "baseline": "2.7.1-1",
+      "port-version": 0
+    },
     "icu-58-1-0": {
       "baseline": "58.1",
       "port-version": 0
