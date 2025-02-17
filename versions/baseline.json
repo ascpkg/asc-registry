@@ -20992,6 +20992,10 @@
       "baseline": "2018.05.07",
       "port-version": 0
     },
+    "nlohmann-fifo-map-2018-05-07-1-0": {
+      "baseline": "2018.05.07-1",
+      "port-version": 0
+    },
     "nlohmann-json-2-1-1-0": {
       "baseline": "2.1.1",
       "port-version": 0
