@@ -14972,6 +14972,10 @@
       "baseline": "1.74",
       "port-version": 0
     },
+    "imgui-1-74-1-0": {
+      "baseline": "1.74-1",
+      "port-version": 0
+    },
     "imgui-sfml-2-0-2-0": {
       "baseline": "2.0.2",
       "port-version": 0
@@ -16826,6 +16830,10 @@
     },
     "libigl-2-1-0-1-0": {
       "baseline": "2.1.0-1",
+      "port-version": 0
+    },
+    "libigl-2-1-0-2-0": {
+      "baseline": "2.1.0-2",
       "port-version": 0
     },
     "libimobiledevice-1-2-1-215-1-0": {

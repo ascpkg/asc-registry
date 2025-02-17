@@ -1,0 +1,9 @@
+old = "imgui"
+new = "imgui-1-74-1-0"
+
+[deps]
+allegro5-5-2-5-0-0 = "allegro5"
+freeglut-3-0-0-9-0 = "freeglut"
+glfw3-3-3-2-0 = "glfw3"
+opengl-0-0-5-0 = "opengl"
+sdl1-1-2-15-10-0 = "sdl1"
