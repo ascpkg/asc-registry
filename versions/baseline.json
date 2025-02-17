@@ -83244,6 +83244,10 @@
       "baseline": "4.4.6",
       "port-version": 2
     },
+    "scintilla-4-4-6-3": {
+      "baseline": "4.4.6",
+      "port-version": 3
+    },
     "sciplot-0-2-2-0": {
       "baseline": "0.2.2",
       "port-version": 0
