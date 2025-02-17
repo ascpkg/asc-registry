@@ -82708,6 +82708,10 @@
       "baseline": "2019-10-10-1",
       "port-version": 0
     },
+    "openimageio-3-0-0-3-0": {
+      "baseline": "3.0.0.3",
+      "port-version": 0
+    },
     "openimageio-release-1-8-12-0": {
       "baseline": "release-1.8.12",
       "port-version": 0
@@ -113083,6 +113087,10 @@
     "theia-0-8-11": {
       "baseline": "0.8",
       "port-version": 11
+    },
+    "theia-0-8-12": {
+      "baseline": "0.8",
+      "port-version": 12
     },
     "theia-0-8-2-0": {
       "baseline": "0.8-2",
