@@ -92860,6 +92860,10 @@
       "baseline": "2023-08-10",
       "port-version": 0
     },
+    "qoixx-0-1-7-0": {
+      "baseline": "0.1.7",
+      "port-version": 0
+    },
     "qoixx-2022-12-07-0": {
       "baseline": "2022-12-07",
       "port-version": 0
