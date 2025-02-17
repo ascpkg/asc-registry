@@ -39876,6 +39876,10 @@
       "baseline": "1.2.0",
       "port-version": 7
     },
+    "speex-1-2-0-8": {
+      "baseline": "1.2.0",
+      "port-version": 8
+    },
     "speex-2017-06-28-cae5026cfd88782c7051af6e685059223578b7e9-0": {
       "baseline": "2017-06-28-cae5026cfd88782c7051af6e685059223578b7e9",
       "port-version": 0
