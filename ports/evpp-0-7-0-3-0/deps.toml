@@ -1,0 +1,9 @@
+old = "evpp"
+new = "evpp-0-7-0-3-0"
+
+[deps]
+boost-lockfree-1-73-0-0 = "boost-lockfree"
+concurrentqueue-1-0-1-0 = "concurrentqueue"
+glog-0-4-0-3-0 = "glog"
+libevent-2-1-11-5-0 = "libevent"
+rapidjson-2020-02-08-0 = "rapidjson"
