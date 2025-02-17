@@ -26312,6 +26312,10 @@
       "baseline": "3.0.14",
       "port-version": 0
     },
+    "cld3-3-0-14-1": {
+      "baseline": "3.0.14",
+      "port-version": 1
+    },
     "clfft-2-12-2-0": {
       "baseline": "2.12.2",
       "port-version": 0
