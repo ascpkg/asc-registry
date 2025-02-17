@@ -67488,6 +67488,10 @@
       "baseline": "6.4.2",
       "port-version": 0
     },
+    "qttools-6-4-2-1": {
+      "baseline": "6.4.2",
+      "port-version": 1
+    },
     "qttranslations-6-1-0-0": {
       "baseline": "6.1.0",
       "port-version": 0
