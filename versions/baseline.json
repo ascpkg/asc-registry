@@ -164,6 +164,10 @@
       "baseline": "0.6.0",
       "port-version": 0
     },
+    "arrow-0-6-0-1-0": {
+      "baseline": "0.6.0-1",
+      "port-version": 0
+    },
     "arrow-apache-arrow-0-4-0-0": {
       "baseline": "apache-arrow-0.4.0",
       "port-version": 0
@@ -332,6 +336,10 @@
       "baseline": "3.0.0-4",
       "port-version": 0
     },
+    "beast-0-0": {
+      "baseline": "0",
+      "port-version": 0
+    },
     "beast-1-0-0-b30-0": {
       "baseline": "1.0.0-b30",
       "port-version": 0
@@ -428,6 +436,10 @@
       "baseline": "3.2-2",
       "port-version": 0
     },
+    "blaze-3-2-3-0": {
+      "baseline": "3.2-3",
+      "port-version": 0
+    },
     "blosc-1-12-1-0": {
       "baseline": "1.12.1",
       "port-version": 0
@@ -454,6 +466,10 @@
     },
     "bond-7-0-2-0": {
       "baseline": "7.0.2",
+      "port-version": 0
+    },
+    "bond-7-0-2-1-0": {
+      "baseline": "7.0.2-1",
       "port-version": 0
     },
     "boost-1-60-0": {
@@ -1400,6 +1416,10 @@
       "baseline": "4.11",
       "port-version": 0
     },
+    "cgal-4-11-1-0": {
+      "baseline": "4.11-1",
+      "port-version": 0
+    },
     "chakracore-1-2-0-0-0": {
       "baseline": "1.2.0.0",
       "port-version": 0
@@ -1542,6 +1562,10 @@
     },
     "cpprestsdk-2-10-1-0": {
       "baseline": "2.10.1",
+      "port-version": 0
+    },
+    "cpprestsdk-2-10-1-1-0": {
+      "baseline": "2.10.1-1",
       "port-version": 0
     },
     "cpprestsdk-2-8-0": {
@@ -2242,6 +2266,10 @@
     },
     "folly-2017-11-27-00-0": {
       "baseline": "2017.11.27.00",
+      "port-version": 0
+    },
+    "folly-2017-11-27-00-1-0": {
+      "baseline": "2017.11.27.00-1",
       "port-version": 0
     },
     "folly-v2017-05-08-00-0": {
@@ -3032,6 +3060,10 @@
       "baseline": "1.0.0-5",
       "port-version": 0
     },
+    "hpx-1-0-0-6-0": {
+      "baseline": "1.0.0-6",
+      "port-version": 0
+    },
     "http-parser-2-7-1-0": {
       "baseline": "2.7.1",
       "port-version": 0
@@ -3512,6 +3544,10 @@
       "baseline": "1.3.0-1",
       "port-version": 0
     },
+    "libkml-1-3-0-2-0": {
+      "baseline": "1.3.0-2",
+      "port-version": 0
+    },
     "liblzma-5-2-2-0": {
       "baseline": "5.2.2",
       "port-version": 0
@@ -3890,6 +3926,10 @@
     },
     "libtorrent-1-1-5-0": {
       "baseline": "1.1.5",
+      "port-version": 0
+    },
+    "libtorrent-1-1-5-1-0": {
+      "baseline": "1.1.5-1",
       "port-version": 0
     },
     "libunibreak-4-0-0": {
@@ -4404,6 +4444,10 @@
       "baseline": "3.1.1-1",
       "port-version": 0
     },
+    "mongo-cxx-driver-3-1-1-2-0": {
+      "baseline": "3.1.1-2",
+      "port-version": 0
+    },
     "mozjpeg-3-2-0": {
       "baseline": "3.2",
       "port-version": 0
@@ -4792,6 +4836,10 @@
       "baseline": "1.7.15-1",
       "port-version": 0
     },
+    "openimageio-1-7-15-2-0": {
+      "baseline": "1.7.15-2",
+      "port-version": 0
+    },
     "openjpeg--0": {
       "baseline": "",
       "port-version": 0
@@ -4914,6 +4962,10 @@
     },
     "openvdb-5-0-0-0": {
       "baseline": "5.0.0",
+      "port-version": 0
+    },
+    "openvdb-5-0-0-1-0": {
+      "baseline": "5.0.0-1",
       "port-version": 0
     },
     "openvr-1-0-5-0": {
@@ -5078,6 +5130,10 @@
     },
     "pcl-1-8-1-8-0": {
       "baseline": "1.8.1-8",
+      "port-version": 0
+    },
+    "pcl-1-8-1-9-0": {
+      "baseline": "1.8.1-9",
       "port-version": 0
     },
     "pcl-1-8-1rc1-0": {
@@ -6392,6 +6448,10 @@
       "baseline": "20172805-72ca60debae1d9fb35d9f0085118873669006d7f-1",
       "port-version": 0
     },
+    "thrift-20172805-72ca60debae1d9fb35d9f0085118873669006d7f-2-0": {
+      "baseline": "20172805-72ca60debae1d9fb35d9f0085118873669006d7f-2",
+      "port-version": 0
+    },
     "thrift-latest-0": {
       "baseline": "latest",
       "port-version": 0
@@ -6726,6 +6786,10 @@
     },
     "wt-3-3-7-2-0": {
       "baseline": "3.3.7-2",
+      "port-version": 0
+    },
+    "wt-3-3-7-4-0": {
+      "baseline": "3.3.7-4",
       "port-version": 0
     },
     "wtl-9-1-0": {
