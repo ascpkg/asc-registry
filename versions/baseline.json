@@ -640,6 +640,10 @@
       "baseline": "0.13.0-3",
       "port-version": 0
     },
+    "arrow-0-13-0-4-0": {
+      "baseline": "0.13.0-4",
+      "port-version": 0
+    },
     "arrow-0-6-0-0": {
       "baseline": "0.6.0",
       "port-version": 0
