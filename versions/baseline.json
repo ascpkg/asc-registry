@@ -50508,6 +50508,10 @@
       "baseline": "3.0.5",
       "port-version": 2
     },
+    "openssl-3-0-5-3": {
+      "baseline": "3.0.5",
+      "port-version": 3
+    },
     "openssl-microsoft-1-0-2-winrt-stable-0": {
       "baseline": "1.0.2-winrt-stable",
       "port-version": 0
