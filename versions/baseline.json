@@ -16596,6 +16596,10 @@
       "baseline": "rel-1-5-2",
       "port-version": 0
     },
+    "libzip-rel-1-5-2-1-0": {
+      "baseline": "rel-1-5-2--1",
+      "port-version": 0
+    },
     "libzip-rel-1-5-3-0": {
       "baseline": "rel-1-5-3",
       "port-version": 0
