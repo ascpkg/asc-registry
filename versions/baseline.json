@@ -21504,6 +21504,10 @@
       "baseline": "1.2.10",
       "port-version": 0
     },
+    "libtorrent-1-2-10-1": {
+      "baseline": "1.2.10",
+      "port-version": 1
+    },
     "libtorrent-1-2-2-0": {
       "baseline": "1.2.2",
       "port-version": 0
