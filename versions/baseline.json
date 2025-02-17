@@ -14948,6 +14948,10 @@
       "baseline": "3.0.0-7",
       "port-version": 0
     },
+    "mpmcqueue-2019-07-26-0": {
+      "baseline": "2019-07-26",
+      "port-version": 0
+    },
     "ms-angle-2018-04-18-0": {
       "baseline": "2018-04-18",
       "port-version": 0
@@ -20966,6 +20970,10 @@
     },
     "sprout-2019-06-20-0": {
       "baseline": "2019-06-20",
+      "port-version": 0
+    },
+    "spscqueue-2019-07-26-0": {
+      "baseline": "2019-07-26",
       "port-version": 0
     },
     "sqlite-modern-cpp-2-4-0": {
