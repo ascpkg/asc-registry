@@ -1,0 +1,7 @@
+old = "google-cloud-cpp-common"
+new = "google-cloud-cpp-common-0-25-0-0"
+
+[deps]
+googleapis-0-7-0-0 = "googleapis"
+grpc-1-27-3-0 = "grpc"
+gtest-2019-10-09-1-0 = "gtest"
