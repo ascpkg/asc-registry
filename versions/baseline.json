@@ -21360,6 +21360,10 @@
       "baseline": "2.2.2",
       "port-version": 3
     },
+    "gflags-2-2-2-4": {
+      "baseline": "2.2.2",
+      "port-version": 4
+    },
     "ghc-filesystem-1-5-4-0": {
       "baseline": "1.5.4",
       "port-version": 0
