@@ -96100,6 +96100,10 @@
       "baseline": "0.36.5",
       "port-version": 1
     },
+    "tinyorm-0-36-5-2": {
+      "baseline": "0.36.5",
+      "port-version": 2
+    },
     "tinyply-2-3-4-0": {
       "baseline": "2.3.4",
       "port-version": 0
