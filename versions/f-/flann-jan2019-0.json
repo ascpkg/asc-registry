@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/flann-jan2019-0",
+      "version": "jan2019",
+      "port-version": 0
+    }
+  ]
+}
