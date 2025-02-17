@@ -2496,6 +2496,10 @@
       "baseline": "0.13.0",
       "port-version": 0
     },
+    "speex--0": {
+      "baseline": "",
+      "port-version": 0
+    },
     "spirv-tools--0": {
       "baseline": "",
       "port-version": 0
