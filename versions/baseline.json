@@ -21448,6 +21448,10 @@
       "baseline": "2.2.2",
       "port-version": 0
     },
+    "riffcpp-2-2-4-0": {
+      "baseline": "2.2.4",
+      "port-version": 0
+    },
     "ring-span-lite-0-3-0-0": {
       "baseline": "0.3.0",
       "port-version": 0
