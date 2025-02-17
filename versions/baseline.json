@@ -332,6 +332,10 @@
       "baseline": "3.9.5-1",
       "port-version": 0
     },
+    "activemq-cpp-3-9-5-2-0": {
+      "baseline": "3.9.5-2",
+      "port-version": 0
+    },
     "ade-0-1-1d-0": {
       "baseline": "0.1.1d",
       "port-version": 0
@@ -2302,6 +2306,10 @@
     },
     "berkeleydb-4-8-30-3-0": {
       "baseline": "4.8.30-3",
+      "port-version": 0
+    },
+    "berkeleydb-4-8-30-4-0": {
+      "baseline": "4.8.30-4",
       "port-version": 0
     },
     "bfgroup-lyra-1-1-0": {
@@ -9222,6 +9230,10 @@
     },
     "cppcms-1-2-1-0": {
       "baseline": "1.2.1",
+      "port-version": 0
+    },
+    "cppcms-1-2-1-1-0": {
+      "baseline": "1.2.1-1",
       "port-version": 0
     },
     "cppcodec-0-2-0": {
@@ -19594,6 +19606,10 @@
     },
     "libusbmuxd-1-2-185-0": {
       "baseline": "1.2.185",
+      "port-version": 0
+    },
+    "libusbmuxd-1-2-185-1-0": {
+      "baseline": "1.2.185-1",
       "port-version": 0
     },
     "libusbmuxd-1-2-77-0": {
