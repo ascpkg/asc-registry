@@ -6060,6 +6060,10 @@
       "baseline": "3.2.1-10",
       "port-version": 0
     },
+    "clapack-3-2-1-11-0": {
+      "baseline": "3.2.1-11",
+      "port-version": 0
+    },
     "clapack-3-2-1-2-0": {
       "baseline": "3.2.1-2",
       "port-version": 0
