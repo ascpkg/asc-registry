@@ -12784,6 +12784,10 @@
       "baseline": "0.4.1",
       "port-version": 0
     },
+    "cpu-features-0-6-0-0": {
+      "baseline": "0.6.0",
+      "port-version": 0
+    },
     "cpuid-0-4-1-0": {
       "baseline": "0.4.1",
       "port-version": 0
