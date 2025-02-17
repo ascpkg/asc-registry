@@ -5092,6 +5092,10 @@
       "baseline": "jun2017-3",
       "port-version": 0
     },
+    "cpp-netlib-0-13-0-rc3-0": {
+      "baseline": "0.13.0-rc3",
+      "port-version": 0
+    },
     "cpp-redis-3-5-1-0": {
       "baseline": "3.5.1",
       "port-version": 0
