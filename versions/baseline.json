@@ -16808,6 +16808,10 @@
       "baseline": "0.6.2",
       "port-version": 0
     },
+    "magic-enum-0-6-3-0": {
+      "baseline": "0.6.3",
+      "port-version": 0
+    },
     "magic-enum-2019-06-07-0": {
       "baseline": "2019-06-07",
       "port-version": 0
