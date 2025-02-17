@@ -1,0 +1,11 @@
+old = "podofo"
+new = "podofo-0-9-6-5-0"
+
+[deps]
+fontconfig-2-12-4-7-0 = "fontconfig"
+freetype-2-9-1-1-0 = "freetype"
+libjpeg-turbo-1-5-3-2-0 = "libjpeg-turbo"
+libpng-1-6-36-1-0 = "libpng"
+openssl-0-0 = "openssl"
+tiff-4-0-10-2-0 = "tiff"
+zlib-1-2-11-5-0 = "zlib"

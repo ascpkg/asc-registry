@@ -1,0 +1,9 @@
+old = "ogre"
+new = "ogre-1-11-3-4-0"
+
+[deps]
+freeimage-3-18-0-3-0 = "freeimage"
+freetype-2-9-1-1-0 = "freetype"
+python3-3-6-4-5-0 = "python3"
+zlib-1-2-11-5-0 = "zlib"
+zziplib-0-13-69-0 = "zziplib"
