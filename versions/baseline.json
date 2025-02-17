@@ -17204,6 +17204,10 @@
       "baseline": "67",
       "port-version": 0
     },
+    "cspice-67-1": {
+      "baseline": "67",
+      "port-version": 1
+    },
     "ctbignum-2019-08-02-0": {
       "baseline": "2019-08-02",
       "port-version": 0
