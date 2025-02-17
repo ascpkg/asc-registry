@@ -29508,6 +29508,10 @@
       "baseline": "3.0.1",
       "port-version": 1
     },
+    "minizip-ng-3-0-2-0": {
+      "baseline": "3.0.2",
+      "port-version": 0
+    },
     "mio-2018-10-18-1-0": {
       "baseline": "2018-10-18-1",
       "port-version": 0
