@@ -7276,6 +7276,10 @@
       "baseline": "2019-4-28-1",
       "port-version": 0
     },
+    "duilib-2019-4-28-2-0": {
+      "baseline": "2019-4-28-2",
+      "port-version": 0
+    },
     "duktape-2-0-3-1-0": {
       "baseline": "2.0.3-1",
       "port-version": 0
@@ -14784,6 +14788,10 @@
       "baseline": "msixcoreinstaller-preview",
       "port-version": 0
     },
+    "msix-msixcoreinstaller-preview-1-0": {
+      "baseline": "msixcoreinstaller-preview-1",
+      "port-version": 0
+    },
     "msmpi-10-0-0": {
       "baseline": "10.0",
       "port-version": 0
@@ -21200,6 +21208,10 @@
       "baseline": "2019-05-07-1",
       "port-version": 0
     },
+    "thrift-2019-05-07-2-0": {
+      "baseline": "2019-05-07-2",
+      "port-version": 0
+    },
     "thrift-latest-0": {
       "baseline": "latest",
       "port-version": 0
@@ -21218,6 +21230,10 @@
     },
     "tidy-html5-5-6-0-0": {
       "baseline": "5.6.0",
+      "port-version": 0
+    },
+    "tidy-html5-5-6-0-1-0": {
+      "baseline": "5.6.0-1",
       "port-version": 0
     },
     "tiff-4-0-10-0": {
