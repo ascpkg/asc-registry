@@ -17808,6 +17808,10 @@
       "baseline": "2019-03-05-2",
       "port-version": 0
     },
+    "robin-hood-hashing-3-2-13-0": {
+      "baseline": "3.2.13",
+      "port-version": 0
+    },
     "robin-map-0-2-0-0": {
       "baseline": "0.2.0",
       "port-version": 0
