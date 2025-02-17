@@ -17432,6 +17432,10 @@
       "baseline": "2021-04-04",
       "port-version": 0
     },
+    "cpuinfo-2022-04-02-0": {
+      "baseline": "2022-04-02",
+      "port-version": 0
+    },
     "cr-2020-04-26-0": {
       "baseline": "2020-04-26",
       "port-version": 0
@@ -21879,6 +21883,10 @@
     "fbgemm-2021-03-18-3": {
       "baseline": "2021-03-18",
       "port-version": 3
+    },
+    "fbgemm-2021-03-18-4": {
+      "baseline": "2021-03-18",
+      "port-version": 4
     },
     "fbthrift-2019-11-11-00-0": {
       "baseline": "2019.11.11.00",
@@ -44088,6 +44096,10 @@
       "baseline": "2021-02-21",
       "port-version": 2
     },
+    "nnpack-2021-02-21-3": {
+      "baseline": "2021-02-21",
+      "port-version": 3
+    },
     "nonius-2019-04-20-0": {
       "baseline": "2019-04-20",
       "port-version": 0
@@ -51411,6 +51423,10 @@
     "qnnpack-2021-02-26-1": {
       "baseline": "2021-02-26",
       "port-version": 1
+    },
+    "qnnpack-2021-02-26-2": {
+      "baseline": "2021-02-26",
+      "port-version": 2
     },
     "qpid-proton-0-18-1-0": {
       "baseline": "0.18.1",
@@ -67327,6 +67343,10 @@
     "xnnpack-2021-05-17-1": {
       "baseline": "2021-05-17",
       "port-version": 1
+    },
+    "xnnpack-2021-05-17-2": {
+      "baseline": "2021-05-17",
+      "port-version": 2
     },
     "xorstr-2019-08-10-0": {
       "baseline": "2019-08-10",

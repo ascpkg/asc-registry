@@ -1,0 +1,10 @@
+old = "xnnpack"
+new = "xnnpack-2021-05-17-2"
+
+[deps]
+cpuinfo-2022-04-02-0 = "cpuinfo"
+fp16-2021-02-21-0 = "fp16"
+fxdiv-2021-02-21-0 = "fxdiv"
+pthreadpool-2020-04-10-1 = "pthreadpool"
+vcpkg-cmake-2022-04-07-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"

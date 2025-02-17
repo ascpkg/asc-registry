@@ -1,0 +1,8 @@
+old = "fbgemm"
+new = "fbgemm-2021-03-18-4"
+
+[deps]
+asmjit-2021-10-26-1 = "asmjit"
+cpuinfo-2022-04-02-0 = "cpuinfo"
+vcpkg-cmake-2022-04-07-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"
