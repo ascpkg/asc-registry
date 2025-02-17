@@ -93168,6 +93168,10 @@
       "baseline": "2023-02-14",
       "port-version": 0
     },
+    "socket-io-client-2023-11-11-0": {
+      "baseline": "2023-11-11",
+      "port-version": 0
+    },
     "socket-io-client-3-0-0-0": {
       "baseline": "3.0.0",
       "port-version": 0
