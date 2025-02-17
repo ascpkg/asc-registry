@@ -2,4 +2,4 @@ old = "highfive"
 new = "highfive-2-0-0"
 
 [deps]
-hdf5-1-10-5-5-0 = "hdf5"
+hdf5-1-10-5-6-0 = "hdf5"

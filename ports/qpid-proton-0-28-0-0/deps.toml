@@ -3,5 +3,5 @@ new = "qpid-proton-0-28-0-0"
 
 [deps]
 jsoncpp-1-8-4-1-0 = "jsoncpp"
-libuv-1-29-0-0 = "libuv"
+libuv-1-29-1-0 = "libuv"
 openssl-0-0 = "openssl"

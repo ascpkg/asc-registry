@@ -2,7 +2,7 @@ old = "rocksdb"
 new = "rocksdb-6-0-2-0"
 
 [deps]
-lz4-1-9-1-0 = "lz4"
+lz4-1-9-1-2-0 = "lz4"
 snappy-1-1-7-2-0 = "snappy"
-tbb-2019-u6-0 = "tbb"
+tbb-2019-u7-0 = "tbb"
 zlib-1-2-11-5-0 = "zlib"

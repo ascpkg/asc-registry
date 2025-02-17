@@ -2,4 +2,4 @@ old = "pybind11"
 new = "pybind11-2-2-4-0"
 
 [deps]
-python3-3-6-4-2-0 = "python3"
+python3-3-7-3-0 = "python3"

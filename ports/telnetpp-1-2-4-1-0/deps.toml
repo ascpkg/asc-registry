@@ -2,6 +2,6 @@ old = "telnetpp"
 new = "telnetpp-1-2-4-1-0"
 
 [deps]
-boost-1-69-0-0 = "boost"
+boost-1-70-0-0 = "boost"
 gtest-2019-01-04-2-0 = "gtest"
 zlib-1-2-11-5-0 = "zlib"

@@ -2,4 +2,4 @@ old = "xerces-c"
 new = "xerces-c-3-2-2-9-0"
 
 [deps]
-icu-61-1-6-0 = "icu"
+icu-61-1-7-0 = "icu"

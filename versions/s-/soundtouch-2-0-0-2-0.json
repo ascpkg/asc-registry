@@ -4,11 +4,6 @@
       "path": "$/ports/soundtouch-2-0-0-2-0",
       "version": "2.0.0-2",
       "port-version": 0
-    },
-    {
-      "path": "$/ports/soundtouch-2-0-0-2-0",
-      "version": "2.0.0.2",
-      "port-version": 0
     }
   ]
 }

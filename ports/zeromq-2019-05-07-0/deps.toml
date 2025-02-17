@@ -2,4 +2,4 @@ old = "zeromq"
 new = "zeromq-2019-05-07-0"
 
 [deps]
-libsodium-1-0-17-2-0 = "libsodium"
+libsodium-1-0-17-3-0 = "libsodium"

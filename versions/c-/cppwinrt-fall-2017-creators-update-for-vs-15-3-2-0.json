@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cppwinrt-fall-2017-creators-update-for-vs-15-3-2-0",
+      "version": "fall_2017_creators_update_for_vs_15.3-2",
+      "port-version": 0
+    }
+  ]
+}

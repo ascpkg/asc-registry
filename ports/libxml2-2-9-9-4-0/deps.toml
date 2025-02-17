@@ -3,5 +3,5 @@ new = "libxml2-2-9-9-4-0"
 
 [deps]
 libiconv-1-15-5-0 = "libiconv"
-liblzma-5-2-4-0 = "liblzma"
+liblzma-5-2-4-2-0 = "liblzma"
 zlib-1-2-11-5-0 = "zlib"

@@ -3,9 +3,9 @@ new = "gtk-3-22-19-3-0"
 
 [deps]
 atk-2-24-0-3-0 = "atk"
-cairo-1-16-0-0 = "cairo"
-gdk-pixbuf-2-36-9-2-0 = "gdk-pixbuf"
+cairo-1-16-0-1-0 = "cairo"
+gdk-pixbuf-2-36-9-3-0 = "gdk-pixbuf"
 gettext-0-19-10-0 = "gettext"
-glib-2-52-3-14-1-0 = "glib"
+glib-2-52-3-14-2-0 = "glib"
 libepoxy-1-5-3-0 = "libepoxy"
 pango-1-40-11-4-0 = "pango"

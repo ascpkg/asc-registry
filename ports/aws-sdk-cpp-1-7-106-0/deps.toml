@@ -3,5 +3,5 @@ new = "aws-sdk-cpp-1-7-106-0"
 
 [deps]
 aws-c-event-stream-0-1-1-0 = "aws-c-event-stream"
-curl-7-61-1-7-0 = "curl"
+curl-7-65-0-1-0 = "curl"
 openssl-0-0 = "openssl"

@@ -2,4 +2,4 @@ old = "lz4"
 new = "lz4-1-9-1-2-0"
 
 [deps]
-xxhash-0-6-4-1-0 = "xxhash"
+xxhash-0-7-0-0 = "xxhash"
