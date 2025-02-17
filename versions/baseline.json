@@ -40640,6 +40640,10 @@
       "baseline": "1.15",
       "port-version": 11
     },
+    "libsquish-1-15-12": {
+      "baseline": "1.15",
+      "port-version": 12
+    },
     "libsquish-1-15-2-0": {
       "baseline": "1.15-2",
       "port-version": 0
