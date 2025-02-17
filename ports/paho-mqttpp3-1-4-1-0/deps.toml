@@ -1,0 +1,8 @@
+old = "paho-mqttpp3"
+new = "paho-mqttpp3-1-4-1-0"
+
+[deps]
+openssl-3-3-1-1 = "openssl"
+paho-mqtt-1-3-13-1 = "paho-mqtt"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
