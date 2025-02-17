@@ -2108,6 +2108,10 @@
       "baseline": "2021-03-04",
       "port-version": 0
     },
+    "argparse-3-0-0": {
+      "baseline": "3.0",
+      "port-version": 0
+    },
     "args-2018-02-23-0": {
       "baseline": "2018-02-23",
       "port-version": 0
