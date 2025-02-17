@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/unicorn-lib-2018-07-30-0",
+      "version": "2018-07-30",
+      "port-version": 0
+    }
+  ]
+}
