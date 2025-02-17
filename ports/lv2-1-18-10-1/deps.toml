@@ -1,0 +1,5 @@
+old = "lv2"
+new = "lv2-1-18-10-1"
+
+[deps]
+vcpkg-tool-meson-1-6-0-0 = "vcpkg-tool-meson"
