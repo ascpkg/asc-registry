@@ -16480,6 +16480,10 @@
       "baseline": "1.1.33-4",
       "port-version": 0
     },
+    "libxslt-1-1-33-5-0": {
+      "baseline": "1.1.33-5",
+      "port-version": 0
+    },
     "libyaml-0-2-1-1-0": {
       "baseline": "0.2.1-1",
       "port-version": 0
@@ -21406,6 +21410,10 @@
     },
     "python3-3-7-3-0": {
       "baseline": "3.7.3",
+      "port-version": 0
+    },
+    "python3-3-7-4-0": {
+      "baseline": "3.7.4",
       "port-version": 0
     },
     "qca-2-2-0-0": {
