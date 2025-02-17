@@ -31896,6 +31896,10 @@
       "baseline": "2023.05.15.00",
       "port-version": 0
     },
+    "fbthrift-2023-07-03-00-0": {
+      "baseline": "2023.07.03.00",
+      "port-version": 0
+    },
     "fcl-0-5-0-1-0": {
       "baseline": "0.5.0-1",
       "port-version": 0
@@ -32782,6 +32786,10 @@
     },
     "fizz-2023-05-15-00-0": {
       "baseline": "2023.05.15.00",
+      "port-version": 0
+    },
+    "fizz-2023-07-03-00-0": {
+      "baseline": "2023.07.03.00",
       "port-version": 0
     },
     "flann-1-9-1-0": {
@@ -33863,6 +33871,10 @@
     "folly-2023-05-22-00-1": {
       "baseline": "2023.05.22.00",
       "port-version": 1
+    },
+    "folly-2023-07-03-00-0": {
+      "baseline": "2023.07.03.00",
+      "port-version": 0
     },
     "folly-v2017-05-08-00-0": {
       "baseline": "v2017.05.08.00",
@@ -70428,6 +70440,10 @@
       "baseline": "2023.05.15.00",
       "port-version": 0
     },
+    "proxygen-2023-07-03-00-0": {
+      "baseline": "2023.07.03.00",
+      "port-version": 0
+    },
     "proxywrapper-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
@@ -92634,6 +92650,10 @@
     },
     "wangle-2023-05-15-00-0": {
       "baseline": "2023.05.15.00",
+      "port-version": 0
+    },
+    "wangle-2023-07-03-00-0": {
+      "baseline": "2023.07.03.00",
       "port-version": 0
     },
     "wangle-v2018-07-30-00-1-0": {
