@@ -46228,6 +46228,10 @@
       "baseline": "2019-11-2",
       "port-version": 2
     },
+    "hjson-cpp-2-4-1-0": {
+      "baseline": "2.4.1",
+      "port-version": 0
+    },
     "hnswlib-0-7-0-0": {
       "baseline": "0.7.0",
       "port-version": 0
