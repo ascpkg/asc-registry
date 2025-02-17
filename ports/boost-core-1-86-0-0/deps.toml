@@ -1,0 +1,10 @@
+old = "boost-core"
+new = "boost-core-1-86-0-0"
+
+[deps]
+boost-assert-1-86-0-0 = "boost-assert"
+boost-cmake-1-86-0-0 = "boost-cmake"
+boost-config-1-86-0-0 = "boost-config"
+boost-headers-1-86-0-0 = "boost-headers"
+boost-static-assert-1-86-0-0 = "boost-static-assert"
+boost-throw-exception-1-86-0-0 = "boost-throw-exception"

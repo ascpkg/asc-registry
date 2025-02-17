@@ -1,0 +1,9 @@
+old = "boost-coroutine2"
+new = "boost-coroutine2-1-86-0-0"
+
+[deps]
+boost-assert-1-86-0-0 = "boost-assert"
+boost-cmake-1-86-0-0 = "boost-cmake"
+boost-config-1-86-0-0 = "boost-config"
+boost-context-1-86-0-0 = "boost-context"
+boost-headers-1-86-0-0 = "boost-headers"
