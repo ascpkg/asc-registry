@@ -46044,6 +46044,10 @@
       "baseline": "2022-07-14",
       "port-version": 0
     },
+    "live555-2022-12-01-0": {
+      "baseline": "2022-12-01",
+      "port-version": 0
+    },
     "live555-latest-0": {
       "baseline": "latest",
       "port-version": 0
