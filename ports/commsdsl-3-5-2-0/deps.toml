@@ -1,0 +1,7 @@
+old = "commsdsl"
+new = "commsdsl-3-5-2-0"
+
+[deps]
+boost-1-73-0-4 = "boost"
+comms-3-1-1-0 = "comms"
+libxml2-2-9-10-0 = "libxml2"
