@@ -30008,6 +30008,10 @@
       "baseline": "21.03",
       "port-version": 0
     },
+    "libmediainfo-21-03-1": {
+      "baseline": "21.03",
+      "port-version": 1
+    },
     "libmesh-1-5-0-0": {
       "baseline": "1.5.0",
       "port-version": 0
