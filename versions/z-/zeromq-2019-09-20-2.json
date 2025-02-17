@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/zeromq-2019-09-20-2",
+      "version": "2019-09-20",
+      "port-version": 2
+    }
+  ]
+}

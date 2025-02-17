@@ -42120,6 +42120,10 @@
       "baseline": "2019-09-20",
       "port-version": 1
     },
+    "zeromq-2019-09-20-2": {
+      "baseline": "2019-09-20",
+      "port-version": 2
+    },
     "zeromq-4-2-0-0": {
       "baseline": "4.2.0",
       "port-version": 0
