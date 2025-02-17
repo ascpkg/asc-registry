@@ -52,6 +52,10 @@
       "baseline": "2.8",
       "port-version": 0
     },
+    "cppwinrt-1-010-0-14393-0-0": {
+      "baseline": "1.010.0.14393.0",
+      "port-version": 0
+    },
     "curl-7-48-0-0": {
       "baseline": "7.48.0",
       "port-version": 0
