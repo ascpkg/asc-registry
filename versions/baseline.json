@@ -24,6 +24,10 @@
       "baseline": "1.7.1-2",
       "port-version": 0
     },
+    "alembic-1-7-1-3-0": {
+      "baseline": "1.7.1-3",
+      "port-version": 0
+    },
     "allegro5-5-2-1-0-0": {
       "baseline": "5.2.1.0",
       "port-version": 0
