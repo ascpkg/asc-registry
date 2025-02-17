@@ -29320,6 +29320,10 @@
       "baseline": "2.0.33",
       "port-version": 2
     },
+    "jasper-2-0-33-3": {
+      "baseline": "2.0.33",
+      "port-version": 3
+    },
     "jbig2dec-0-13-0": {
       "baseline": "0.13",
       "port-version": 0
