@@ -55496,6 +55496,10 @@
       "baseline": "4.2.3",
       "port-version": 2
     },
+    "libremidi-4-2-4-0": {
+      "baseline": "4.2.4",
+      "port-version": 0
+    },
     "libressl-2-9-1-0": {
       "baseline": "2.9.1",
       "port-version": 0
