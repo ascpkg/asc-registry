@@ -20984,6 +20984,10 @@
       "baseline": "1.13.18",
       "port-version": 1
     },
+    "dbus-1-13-18-2": {
+      "baseline": "1.13.18",
+      "port-version": 2
+    },
     "dcmtk-3-6-3-0": {
       "baseline": "3.6.3",
       "port-version": 0
