@@ -54364,6 +54364,10 @@
       "baseline": "3.0.0",
       "port-version": 1
     },
+    "luasocket-3-1-0-0": {
+      "baseline": "3.1.0",
+      "port-version": 0
+    },
     "luminoengine-0-10-1-0": {
       "baseline": "0.10.1",
       "port-version": 0
