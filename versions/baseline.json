@@ -9316,6 +9316,10 @@
       "baseline": "2.5.0-3",
       "port-version": 0
     },
+    "colmap-3-6-0": {
+      "baseline": "3.6",
+      "port-version": 0
+    },
     "concurrentqueue-1-0-0-beta-0": {
       "baseline": "1.0.0-beta",
       "port-version": 0
