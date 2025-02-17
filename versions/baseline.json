@@ -92948,6 +92948,10 @@
       "baseline": "2023-11-06",
       "port-version": 0
     },
+    "status-code-2023-11-06-1": {
+      "baseline": "2023-11-06",
+      "port-version": 1
+    },
     "status-value-lite-1-1-0-0": {
       "baseline": "1.1.0",
       "port-version": 0
