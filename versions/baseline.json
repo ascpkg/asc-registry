@@ -62192,6 +62192,10 @@
       "baseline": "39",
       "port-version": 0
     },
+    "ngspice-39-1": {
+      "baseline": "39",
+      "port-version": 1
+    },
     "ngtcp2-0-11-0-0": {
       "baseline": "0.11.0",
       "port-version": 0
