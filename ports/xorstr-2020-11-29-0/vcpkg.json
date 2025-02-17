@@ -1,0 +1,6 @@
+{
+  "name": "xorstr-2020-11-29-0",
+  "version-date": "2020-11-29",
+  "description": "Heavily vectorized c++17 compile time string encryption",
+  "homepage": "https://github.com/JustasMasiulis/xorstr"
+}
