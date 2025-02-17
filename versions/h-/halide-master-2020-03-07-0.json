@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/halide-master-2020-03-07-0",
+      "version": "master_2020_03_07",
+      "port-version": 0
+    }
+  ]
+}

@@ -14284,6 +14284,10 @@
       "baseline": "3.6.3",
       "port-version": 0
     },
+    "halide-master-2020-03-07-0": {
+      "baseline": "master_2020_03_07",
+      "port-version": 0
+    },
     "halide-release-2017-10-30-0": {
       "baseline": "release_2017_10_30",
       "port-version": 0
@@ -19254,6 +19258,10 @@
     },
     "llgl-2019-08-15-0": {
       "baseline": "2019-08-15",
+      "port-version": 0
+    },
+    "llvm-10-0-0-0": {
+      "baseline": "10.0.0",
       "port-version": 0
     },
     "llvm-4-0-0-0": {
