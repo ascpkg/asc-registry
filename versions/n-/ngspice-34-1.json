@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ngspice-34-1",
+      "version": "34",
+      "port-version": 1
+    }
+  ]
+}
