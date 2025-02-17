@@ -11284,6 +11284,10 @@
       "baseline": "oct2019",
       "port-version": 0
     },
+    "directxtex-sept2020-0": {
+      "baseline": "sept2020",
+      "port-version": 0
+    },
     "directxtk-2019-12-31-0": {
       "baseline": "2019-12-31",
       "port-version": 0
@@ -11384,6 +11388,10 @@
       "baseline": "oct2019",
       "port-version": 0
     },
+    "directxtk-sept2020-0": {
+      "baseline": "sept2020",
+      "port-version": 0
+    },
     "directxtk12-aug2019-0": {
       "baseline": "aug2019",
       "port-version": 0
@@ -11426,6 +11434,10 @@
     },
     "directxtk12-oct2019-0": {
       "baseline": "oct2019",
+      "port-version": 0
+    },
+    "directxtk12-sept2020-0": {
+      "baseline": "sept2020",
       "port-version": 0
     },
     "dirent-1-23-1-0": {
