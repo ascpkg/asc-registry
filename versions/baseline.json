@@ -80,6 +80,10 @@
       "baseline": "2018-06-12-1",
       "port-version": 0
     },
+    "abseil-2018-06-15-0": {
+      "baseline": "2018-06-15",
+      "port-version": 0
+    },
     "abseil-2018-2-23-0": {
       "baseline": "2018-2-23",
       "port-version": 0
@@ -534,6 +538,10 @@
     },
     "aws-sdk-cpp-1-4-65-0": {
       "baseline": "1.4.65",
+      "port-version": 0
+    },
+    "aws-sdk-cpp-1-4-69-0": {
+      "baseline": "1.4.69",
       "port-version": 0
     },
     "azmq-1-0-2-0": {
@@ -2648,6 +2656,10 @@
       "baseline": "1.8.4",
       "port-version": 0
     },
+    "chakracore-1-8-5-0": {
+      "baseline": "1.8.5",
+      "port-version": 0
+    },
     "charls-2-0-0-0": {
       "baseline": "2.0.0",
       "port-version": 0
@@ -4104,6 +4116,10 @@
       "baseline": "8.0.1",
       "port-version": 0
     },
+    "forest-8-1-1-0": {
+      "baseline": "8.1.1",
+      "port-version": 0
+    },
     "freeglut-3-0-0-0": {
       "baseline": "3.0.0",
       "port-version": 0
@@ -5024,6 +5040,10 @@
       "baseline": "1.8.0",
       "port-version": 0
     },
+    "harfbuzz-1-8-1-0": {
+      "baseline": "1.8.1",
+      "port-version": 0
+    },
     "hdf5-1-10-0-patch1-0": {
       "baseline": "1.10.0-patch1",
       "port-version": 0
@@ -5354,6 +5374,10 @@
     },
     "jsonnet-2018-06-12-0": {
       "baseline": "2018-06-12",
+      "port-version": 0
+    },
+    "jsonnet-2018-06-15-0": {
+      "baseline": "2018-06-15",
       "port-version": 0
     },
     "jxrlib-1-1-0": {
@@ -7248,6 +7272,10 @@
       "baseline": "2018-06-12",
       "port-version": 0
     },
+    "ms-gsl-2018-06-15-0": {
+      "baseline": "2018-06-15",
+      "port-version": 0
+    },
     "msgpack-2-1-1-0": {
       "baseline": "2.1.1",
       "port-version": 0
@@ -7304,6 +7332,10 @@
       "baseline": "2018-06-12",
       "port-version": 0
     },
+    "mujs-2018-06-15-0": {
+      "baseline": "2018-06-15",
+      "port-version": 0
+    },
     "mujs-25821e6d74fab5fcc200fe5e818362e03e114428-0": {
       "baseline": "25821e6d74fab5fcc200fe5e818362e03e114428",
       "port-version": 0
@@ -7338,6 +7370,10 @@
     },
     "nana-1-5-5-0": {
       "baseline": "1.5.5",
+      "port-version": 0
+    },
+    "nana-1-5-6-0": {
+      "baseline": "1.5.6",
       "port-version": 0
     },
     "nanodbc-2-12-4-0": {
@@ -8258,6 +8294,10 @@
     },
     "picosha2-2018-02-25-0": {
       "baseline": "2018-02-25",
+      "port-version": 0
+    },
+    "picosha2-2018-06-15-0": {
+      "baseline": "2018-06-15",
       "port-version": 0
     },
     "piex-2017-09-01-473434f2dd974978b-0": {
@@ -9286,6 +9326,10 @@
     },
     "rs-core-lib-2018-05-17-0": {
       "baseline": "2018-05-17",
+      "port-version": 0
+    },
+    "rs-core-lib-2018-06-15-0": {
+      "baseline": "2018-06-15",
       "port-version": 0
     },
     "rs-core-lib-commit-1ed2dadbda3977b13e5e83cc1f3eeca76b36ebe5-0": {
@@ -10340,6 +10384,10 @@
       "baseline": "2018-05-17",
       "port-version": 0
     },
+    "thrift-2018-06-15-0": {
+      "baseline": "2018-06-15",
+      "port-version": 0
+    },
     "thrift-latest-0": {
       "baseline": "latest",
       "port-version": 0
@@ -10546,6 +10594,10 @@
     },
     "unicorn-lib-2018-05-17-0": {
       "baseline": "2018-05-17",
+      "port-version": 0
+    },
+    "unicorn-lib-2018-06-15-0": {
+      "baseline": "2018-06-15",
       "port-version": 0
     },
     "unicorn-lib-commit-3ffa7fe69a1d0c37fb52a4af61380c5fd84fa5aa-0": {
@@ -11062,6 +11114,10 @@
     },
     "zeromq-2018-05-17-0": {
       "baseline": "2018-05-17",
+      "port-version": 0
+    },
+    "zeromq-2018-06-15-0": {
+      "baseline": "2018-06-15",
       "port-version": 0
     },
     "zeromq-4-2-0-0": {
