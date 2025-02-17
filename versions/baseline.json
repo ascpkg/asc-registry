@@ -24668,6 +24668,10 @@
       "baseline": "5.84.0",
       "port-version": 1
     },
+    "kf5globalaccel-5-84-0-0": {
+      "baseline": "5.84.0",
+      "port-version": 0
+    },
     "kf5guiaddons-5-64-0-0": {
       "baseline": "5.64.0",
       "port-version": 0
