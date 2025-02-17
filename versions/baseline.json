@@ -43460,6 +43460,10 @@
       "baseline": "2.0.7",
       "port-version": 0
     },
+    "libtorrent-2-0-8-0": {
+      "baseline": "2.0.8",
+      "port-version": 0
+    },
     "libtorrent-2019-04-19-0": {
       "baseline": "2019-04-19",
       "port-version": 0
