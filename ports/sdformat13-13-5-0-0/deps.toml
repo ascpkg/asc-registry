@@ -1,0 +1,11 @@
+old = "sdformat13"
+new = "sdformat13-13-5-0-0"
+
+[deps]
+gz-math7-7-0-2-1 = "gz-math7"
+gz-tools2-2-0-0-1 = "gz-tools2"
+gz-utils2-2-0-0-0 = "gz-utils2"
+tinyxml2-9-0-0-2 = "tinyxml2"
+urdfdom-3-1-1-0 = "urdfdom"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
