@@ -17744,6 +17744,26 @@
       "baseline": "5.64.0-1",
       "port-version": 0
     },
+    "kf5completion-5-64-0-0": {
+      "baseline": "5.64.0",
+      "port-version": 0
+    },
+    "kf5config-5-64-0-0": {
+      "baseline": "5.64.0",
+      "port-version": 0
+    },
+    "kf5coreaddons-5-64-0-0": {
+      "baseline": "5.64.0",
+      "port-version": 0
+    },
+    "kf5crash-5-64-0-0": {
+      "baseline": "5.64.0",
+      "port-version": 0
+    },
+    "kf5guiaddons-5-64-0-0": {
+      "baseline": "5.64.0",
+      "port-version": 0
+    },
     "kf5holidays-5-50-0-0": {
       "baseline": "5.50.0",
       "port-version": 0
@@ -17758,6 +17778,18 @@
     },
     "kf5holidays-5-64-0-1-0": {
       "baseline": "5.64.0-1",
+      "port-version": 0
+    },
+    "kf5i18n-5-64-0-0": {
+      "baseline": "5.64.0",
+      "port-version": 0
+    },
+    "kf5itemmodels-5-64-0-0": {
+      "baseline": "5.64.0",
+      "port-version": 0
+    },
+    "kf5itemviews-5-64-0-0": {
+      "baseline": "5.64.0",
       "port-version": 0
     },
     "kf5plotting-5-37-0-0": {
@@ -17786,6 +17818,14 @@
     },
     "kf5syntaxhighlighting-5-64-0-1-0": {
       "baseline": "5.64.0-1",
+      "port-version": 0
+    },
+    "kf5widgetsaddons-5-64-0-0": {
+      "baseline": "5.64.0",
+      "port-version": 0
+    },
+    "kf5windowsystem-5-64-0-0": {
+      "baseline": "5.64.0",
       "port-version": 0
     },
     "kfr-2020-06-15-0": {
@@ -18306,6 +18346,10 @@
     },
     "libdatrie-0-2-10-3-0": {
       "baseline": "0.2.10-3",
+      "port-version": 0
+    },
+    "libde265-1-0-5-0": {
+      "baseline": "1.0.5",
       "port-version": 0
     },
     "libdisasm-0-23-0": {
@@ -18846,6 +18890,10 @@
     },
     "libhdfs3-2019-11-05-0": {
       "baseline": "2019-11-05",
+      "port-version": 0
+    },
+    "libheif-1-7-0-0": {
+      "baseline": "1.7.0",
       "port-version": 0
     },
     "libhydrogen-2019-08-11-0": {
@@ -30460,6 +30508,10 @@
       "baseline": "1.0.0",
       "port-version": 0
     },
+    "quazip-0-9-1-0": {
+      "baseline": "0.9.1",
+      "port-version": 0
+    },
     "quickfast-1-5-0": {
       "baseline": "1.5",
       "port-version": 0
@@ -35926,6 +35978,10 @@
     },
     "variant-lite-1-2-2-0": {
       "baseline": "1.2.2",
+      "port-version": 0
+    },
+    "vc-1-4-1-0": {
+      "baseline": "1.4.1",
       "port-version": 0
     },
     "vcglib-1-0-1-0": {
