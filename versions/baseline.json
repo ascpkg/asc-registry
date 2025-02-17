@@ -13360,6 +13360,10 @@
       "baseline": "5.9.2-0",
       "port-version": 0
     },
+    "qt5-webview-5-12-1-0": {
+      "baseline": "5.12.1",
+      "port-version": 0
+    },
     "qt5-winextras-5-11-1-0": {
       "baseline": "5.11.1",
       "port-version": 0
