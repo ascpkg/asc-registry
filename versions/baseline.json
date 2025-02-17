@@ -26328,6 +26328,10 @@
       "baseline": "2020-09-14",
       "port-version": 1
     },
+    "guetzli-2020-09-14-2": {
+      "baseline": "2020-09-14",
+      "port-version": 2
+    },
     "guilite-2021-07-31-0": {
       "baseline": "2021-07-31",
       "port-version": 0
