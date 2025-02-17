@@ -37272,6 +37272,10 @@
       "baseline": "2.0.12",
       "port-version": 2
     },
+    "mosquitto-2-0-12-3": {
+      "baseline": "2.0.12",
+      "port-version": 3
+    },
     "mozjpeg-2020-06-02-0": {
       "baseline": "2020-06-02",
       "port-version": 0
