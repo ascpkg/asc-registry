@@ -1,0 +1,11 @@
+old = "msdfgen"
+new = "msdfgen-1-10-0-1"
+
+[deps]
+freetype-2-12-1-3 = "freetype"
+libpng-1-6-39-1 = "libpng"
+msdfgen-1-10-0-1 = "msdfgen"
+skia-0-36-0-9 = "skia"
+tinyxml2-9-0-0-2 = "tinyxml2"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

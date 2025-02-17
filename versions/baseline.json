@@ -61220,6 +61220,10 @@
       "baseline": "1.10.0",
       "port-version": 0
     },
+    "msdfgen-1-10-0-1": {
+      "baseline": "1.10.0",
+      "port-version": 1
+    },
     "msdfgen-1-8-0": {
       "baseline": "1.8",
       "port-version": 0
