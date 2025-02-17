@@ -72808,6 +72808,10 @@
       "baseline": "3.2.0",
       "port-version": 1
     },
+    "wxwidgets-3-2-0-2": {
+      "baseline": "3.2.0",
+      "port-version": 2
+    },
     "x-plane-3-0-1-0": {
       "baseline": "3.0.1",
       "port-version": 0
