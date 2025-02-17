@@ -1,0 +1,13 @@
+old = "freerdp"
+new = "freerdp-2-10-0-0"
+
+[deps]
+ffmpeg-5-1-2-7 = "ffmpeg"
+glib-2-76-3-2 = "glib"
+libusb-1-0-26-11791-1 = "libusb"
+openssl-3-1-1-1 = "openssl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+wayland-1-21-0-1 = "wayland"
+xcb-1-14-1 = "xcb"
+zlib-1-2-13-0 = "zlib"
