@@ -31516,6 +31516,10 @@
       "baseline": "0.16.0",
       "port-version": 0
     },
+    "libdatachannel-0-16-4-0": {
+      "baseline": "0.16.4",
+      "port-version": 0
+    },
     "libdatachannel-v0-10-1-0": {
       "baseline": "v0.10.1",
       "port-version": 0
@@ -32962,6 +32966,10 @@
     },
     "libjuice-0-9-1-0": {
       "baseline": "0.9.1",
+      "port-version": 0
+    },
+    "libjuice-0-9-6-0": {
+      "baseline": "0.9.6",
       "port-version": 0
     },
     "libjxl-0-6-1-0": {
