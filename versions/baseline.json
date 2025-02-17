@@ -61984,6 +61984,10 @@
       "baseline": "5.7.28",
       "port-version": 4
     },
+    "tidy-html5-5-7-28-5": {
+      "baseline": "5.7.28",
+      "port-version": 5
+    },
     "tiff-4-0-10-0": {
       "baseline": "4.0.10",
       "port-version": 0
