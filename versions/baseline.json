@@ -35308,6 +35308,10 @@
       "baseline": "2.6.0",
       "port-version": 0
     },
+    "expat-2-6-1-0": {
+      "baseline": "2.6.1",
+      "port-version": 0
+    },
     "expat-2020-08-18-0": {
       "baseline": "2020-08-18",
       "port-version": 0
