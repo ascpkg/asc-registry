@@ -15128,6 +15128,10 @@
       "baseline": "0.147.0",
       "port-version": 0
     },
+    "jsoncons-0-148-0-0": {
+      "baseline": "0.148.0",
+      "port-version": 0
+    },
     "jsoncons-v0-122-0-0": {
       "baseline": "v0.122.0",
       "port-version": 0
