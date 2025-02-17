@@ -46580,6 +46580,10 @@
       "baseline": "8.13.7",
       "port-version": 0
     },
+    "libphonenumber-8-13-9-0": {
+      "baseline": "8.13.9",
+      "port-version": 0
+    },
     "libplist-1-2-137-0": {
       "baseline": "1.2.137",
       "port-version": 0
