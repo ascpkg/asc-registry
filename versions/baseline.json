@@ -25456,6 +25456,10 @@
       "baseline": "21.3.2",
       "port-version": 0
     },
+    "gmmlib-21-3-2-1": {
+      "baseline": "21.3.2",
+      "port-version": 1
+    },
     "gmp-6-2-0-0": {
       "baseline": "6.2.0",
       "port-version": 0
