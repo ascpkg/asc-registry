@@ -27316,6 +27316,10 @@
       "baseline": "2.0-1",
       "port-version": 0
     },
+    "ryu-2-0-2-0": {
+      "baseline": "2.0-2",
+      "port-version": 0
+    },
     "safeint-3-19-2-0": {
       "baseline": "3.19.2",
       "port-version": 0
