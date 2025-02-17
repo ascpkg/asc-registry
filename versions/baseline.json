@@ -15148,6 +15148,10 @@
       "baseline": "2020-09-14",
       "port-version": 0
     },
+    "exprtk-2021-01-01-0": {
+      "baseline": "2021-01-01",
+      "port-version": 0
+    },
     "ezc3d-1-3-7-0": {
       "baseline": "1.3.7",
       "port-version": 0
