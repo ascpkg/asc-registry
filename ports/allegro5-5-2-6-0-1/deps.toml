@@ -1,0 +1,17 @@
+old = "allegro5"
+new = "allegro5-5-2-6-0-1"
+
+[deps]
+bzip2-1-0-8-1 = "bzip2"
+freetype-2-10-4-0 = "freetype"
+libflac-1-3-3-5 = "libflac"
+libogg-1-3-4-3 = "libogg"
+libpng-1-6-37-14 = "libpng"
+libtheora-1-2-0alpha1-20170719-2 = "libtheora"
+libvorbis-1-3-7-1 = "libvorbis"
+openal-soft-1-21-1-0 = "openal-soft"
+opengl-0-0-8 = "opengl"
+opus-1-3-1-5 = "opus"
+opusfile-0-12-0 = "opusfile"
+physfs-3-0-2-4 = "physfs"
+zlib-1-2-11-10 = "zlib"

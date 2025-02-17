@@ -672,6 +672,10 @@
       "baseline": "5.2.6.0",
       "port-version": 0
     },
+    "allegro5-5-2-6-0-1": {
+      "baseline": "5.2.6.0",
+      "port-version": 1
+    },
     "ampl-asl-2020-11-11-0": {
       "baseline": "2020-11-11",
       "port-version": 0
