@@ -112032,6 +112032,10 @@
       "baseline": "3.7",
       "port-version": 0
     },
+    "sleef-3-8-0": {
+      "baseline": "3.8",
+      "port-version": 0
+    },
     "sleepy-discord-2021-07-07-0": {
       "baseline": "2021-07-07",
       "port-version": 0
