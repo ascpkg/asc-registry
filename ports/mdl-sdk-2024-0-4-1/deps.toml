@@ -1,0 +1,14 @@
+old = "mdl-sdk"
+new = "mdl-sdk-2024-0-4-1"
+
+[deps]
+boost-algorithm-1-86-0-0 = "boost-algorithm"
+boost-core-1-86-0-0 = "boost-core"
+boost-dynamic-bitset-1-86-0-0 = "boost-dynamic-bitset"
+boost-functional-1-86-0-0 = "boost-functional"
+boost-intrusive-1-86-0-0 = "boost-intrusive"
+boost-tokenizer-1-86-0-0 = "boost-tokenizer"
+boost-unordered-1-86-0-0 = "boost-unordered"
+openimageio-3-0-0-3-2 = "openimageio"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
