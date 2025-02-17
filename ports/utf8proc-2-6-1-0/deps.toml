@@ -1,0 +1,6 @@
+old = "utf8proc"
+new = "utf8proc-2-6-1-0"
+
+[deps]
+vcpkg-cmake-2021-06-25-4 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-0 = "vcpkg-cmake-config"
