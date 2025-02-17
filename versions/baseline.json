@@ -66240,6 +66240,10 @@
       "baseline": "1.16",
       "port-version": 17
     },
+    "libpopt-1-16-18": {
+      "baseline": "1.16",
+      "port-version": 18
+    },
     "libpq-12-0-0": {
       "baseline": "12.0",
       "port-version": 0
