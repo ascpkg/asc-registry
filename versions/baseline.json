@@ -27372,6 +27372,10 @@
       "baseline": "2019.07.08.00",
       "port-version": 0
     },
+    "wangle-2019-07-08-00-1-0": {
+      "baseline": "2019.07.08.00-1",
+      "port-version": 0
+    },
     "wangle-v2018-07-30-00-1-0": {
       "baseline": "v2018.07.30.00-1",
       "port-version": 0
