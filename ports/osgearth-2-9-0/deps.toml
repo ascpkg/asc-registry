@@ -2,4 +2,4 @@ old = "osgearth"
 new = "osgearth-2-9-0"
 
 [deps]
-osg-3-5-6-2-0 = "osg"
+osg-3-6-2-rc3-0 = "osg"
