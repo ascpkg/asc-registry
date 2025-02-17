@@ -1,0 +1,14 @@
+old = "saucer"
+new = "saucer-1-0-1-2"
+
+[deps]
+ereignis-1-1-0 = "ereignis"
+fmt-9-0-0-0 = "fmt"
+lockpp-1-0-2-0 = "lockpp"
+nlohmann-json-3-11-2-0 = "nlohmann-json"
+qt5-webchannel-5-15-6-0 = "qt5-webchannel"
+qt5-webengine-5-15-6-1 = "qt5-webengine"
+tl-expected-1-0-0-2 = "tl-expected"
+vcpkg-cmake-2022-07-18-0 = "vcpkg-cmake"
+webview2-1-0-1210-39-0 = "webview2"
+wil-2021-12-25-0 = "wil"
