@@ -50528,6 +50528,10 @@
       "baseline": "5.19.0",
       "port-version": 2
     },
+    "libsbml-5-20-0-0": {
+      "baseline": "5.20.0",
+      "port-version": 0
+    },
     "libsbsms-2-3-0-0": {
       "baseline": "2.3.0",
       "port-version": 0
