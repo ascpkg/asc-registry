@@ -58768,6 +58768,10 @@
       "baseline": "2.11.5",
       "port-version": 1
     },
+    "libxml2-2-11-6-0": {
+      "baseline": "2.11.6",
+      "port-version": 0
+    },
     "libxml2-2-9-10-0": {
       "baseline": "2.9.10",
       "port-version": 0
