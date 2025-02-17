@@ -1360,6 +1360,10 @@
       "baseline": "1.67.0",
       "port-version": 0
     },
+    "boost-hana-msvc-1-67-0-0": {
+      "baseline": "1.67.0",
+      "port-version": 0
+    },
     "boost-heap-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
