@@ -3720,6 +3720,10 @@
       "baseline": "0.7.12",
       "port-version": 0
     },
+    "aws-c-http-0-7-13-0": {
+      "baseline": "0.7.13",
+      "port-version": 0
+    },
     "aws-c-http-0-7-3-0": {
       "baseline": "0.7.3",
       "port-version": 0
