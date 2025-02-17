@@ -1,0 +1,7 @@
+old = "python3"
+new = "python3-3-9-0-0"
+
+[deps]
+libffi-3-3-6 = "libffi"
+openssl-1-1-1h-2 = "openssl"
+zlib-1-2-11-9 = "zlib"
