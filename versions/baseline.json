@@ -60,6 +60,10 @@
       "baseline": "2018-04-05",
       "port-version": 0
     },
+    "abseil-2018-04-09-0": {
+      "baseline": "2018-04-09",
+      "port-version": 0
+    },
     "abseil-2018-2-23-0": {
       "baseline": "2018-2-23",
       "port-version": 0
@@ -470,6 +474,10 @@
     },
     "aws-sdk-cpp-1-4-31-1-0": {
       "baseline": "1.4.31-1",
+      "port-version": 0
+    },
+    "aws-sdk-cpp-1-4-32-0": {
+      "baseline": "1.4.32",
       "port-version": 0
     },
     "azmq-1-0-2-0": {
@@ -2792,6 +2800,10 @@
       "baseline": "2018-04-06",
       "port-version": 0
     },
+    "exiv2-2018-04-09-0": {
+      "baseline": "2018-04-09",
+      "port-version": 0
+    },
     "exiv2-327b3f6c4de4ffda82818367fc870640d2ae8820-0": {
       "baseline": "327b3f6c4de4ffda82818367fc870640d2ae8820",
       "port-version": 0
@@ -3162,6 +3174,10 @@
     },
     "forest-7-0-3-0": {
       "baseline": "7.0.3",
+      "port-version": 0
+    },
+    "forest-7-0-6-0": {
+      "baseline": "7.0.6",
       "port-version": 0
     },
     "freeglut-3-0-0-0": {
@@ -4314,6 +4330,10 @@
     },
     "jsonnet-2018-03-17-0": {
       "baseline": "2018-03-17",
+      "port-version": 0
+    },
+    "jsonnet-2018-04-09-0": {
+      "baseline": "2018-04-09",
       "port-version": 0
     },
     "jxrlib-1-1-0": {
@@ -7852,6 +7872,10 @@
       "baseline": "2018-04-06",
       "port-version": 0
     },
+    "rs-core-lib-2018-04-09-0": {
+      "baseline": "2018-04-09",
+      "port-version": 0
+    },
     "rs-core-lib-commit-1ed2dadbda3977b13e5e83cc1f3eeca76b36ebe5-0": {
       "baseline": "commit-1ed2dadbda3977b13e5e83cc1f3eeca76b36ebe5",
       "port-version": 0
@@ -8780,6 +8804,10 @@
       "baseline": "2018-04-06",
       "port-version": 0
     },
+    "thrift-2018-04-09-0": {
+      "baseline": "2018-04-09",
+      "port-version": 0
+    },
     "thrift-latest-0": {
       "baseline": "latest",
       "port-version": 0
@@ -8958,6 +8986,10 @@
     },
     "unicorn-lib-2018-03-13-0": {
       "baseline": "2018-03-13",
+      "port-version": 0
+    },
+    "unicorn-lib-2018-04-09-0": {
+      "baseline": "2018-04-09",
       "port-version": 0
     },
     "unicorn-lib-commit-3ffa7fe69a1d0c37fb52a4af61380c5fd84fa5aa-0": {
