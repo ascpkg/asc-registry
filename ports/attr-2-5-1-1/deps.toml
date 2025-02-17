@@ -1,0 +1,5 @@
+old = "attr"
+new = "attr-2-5-1-1"
+
+[deps]
+gettext-0-21-1-2 = "gettext"

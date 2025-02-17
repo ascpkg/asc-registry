@@ -3124,6 +3124,10 @@
       "baseline": "2.5.1",
       "port-version": 0
     },
+    "attr-2-5-1-1": {
+      "baseline": "2.5.1",
+      "port-version": 1
+    },
     "aubio-0-4-6-0": {
       "baseline": "0.4.6",
       "port-version": 0
