@@ -32972,6 +32972,10 @@
       "baseline": "2.0",
       "port-version": 20210421
     },
+    "llfio-2-0-20210922-0": {
+      "baseline": "2.0-20210922",
+      "port-version": 0
+    },
     "llfio-2-0-a74411ed-0": {
       "baseline": "2.0-a74411ed",
       "port-version": 0
@@ -36231,6 +36235,10 @@
     "ned14-internal-quickcpplib-0-0-0-7cb75d4e-1": {
       "baseline": "0.0.0-7cb75d4e",
       "port-version": 1
+    },
+    "ned14-internal-quickcpplib-0-0-0-e691a6dc-0": {
+      "baseline": "0.0.0-e691a6dc",
+      "port-version": 0
     },
     "neon2sse-2021-09-16-0": {
       "baseline": "2021-09-16",
@@ -39891,6 +39899,10 @@
     "outcome-2-2-0-release-1": {
       "baseline": "2.2.0-release",
       "port-version": 1
+    },
+    "outcome-2-2-2-20210922-0": {
+      "baseline": "2.2.2-20210922",
+      "port-version": 0
     },
     "p-ranav-csv-2019-07-11-0": {
       "baseline": "2019-07-11",
