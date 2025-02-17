@@ -1,0 +1,6 @@
+old = "ankurvdev-embedresource"
+new = "ankurvdev-embedresource-0-0-10-0"
+
+[deps]
+ankurvdev-embedresource-0-0-10-0 = "ankurvdev-embedresource"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
