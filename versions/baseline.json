@@ -7552,6 +7552,10 @@
       "baseline": "3.2.0.0",
       "port-version": 5
     },
+    "bde-4-14-0-0-0": {
+      "baseline": "4.14.0.0",
+      "port-version": 0
+    },
     "bde-4-8-0-0-0": {
       "baseline": "4.8.0.0",
       "port-version": 0
