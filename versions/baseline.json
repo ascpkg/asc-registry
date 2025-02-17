@@ -1780,6 +1780,10 @@
       "baseline": "2.0.0",
       "port-version": 0
     },
+    "snappy-1-1-4-0": {
+      "baseline": "1.1.4",
+      "port-version": 0
+    },
     "soci-2016-10-22-0": {
       "baseline": "2016.10.22",
       "port-version": 0
