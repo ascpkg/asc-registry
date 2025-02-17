@@ -69368,6 +69368,10 @@
       "baseline": "2.1.2",
       "port-version": 1
     },
+    "libtorch-2-1-2-10": {
+      "baseline": "2.1.2",
+      "port-version": 10
+    },
     "libtorch-2-1-2-2": {
       "baseline": "2.1.2",
       "port-version": 2
