@@ -1352,6 +1352,10 @@
       "baseline": "4.0.0",
       "port-version": 0
     },
+    "arrow-4-0-0-1": {
+      "baseline": "4.0.0",
+      "port-version": 1
+    },
     "arrow-apache-arrow-0-4-0-0": {
       "baseline": "apache-arrow-0.4.0",
       "port-version": 0
