@@ -7892,6 +7892,10 @@
       "baseline": "2.1.5",
       "port-version": 0
     },
+    "bddisasm-2-2-0-0": {
+      "baseline": "2.2.0",
+      "port-version": 0
+    },
     "bde-3-117-0-0-0": {
       "baseline": "3.117.0.0",
       "port-version": 0
