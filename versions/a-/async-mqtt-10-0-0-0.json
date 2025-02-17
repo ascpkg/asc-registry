@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/async-mqtt-10-0-0-0",
+      "version": "10.0.0",
+      "port-version": 0
+    }
+  ]
+}
