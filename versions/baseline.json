@@ -18300,6 +18300,10 @@
       "baseline": "3.18.00",
       "port-version": 0
     },
+    "eastl-3-18-00-1": {
+      "baseline": "3.18.00",
+      "port-version": 1
+    },
     "easycl-0-3-0": {
       "baseline": "0.3",
       "port-version": 0
