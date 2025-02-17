@@ -476,6 +476,10 @@
       "baseline": "2.8",
       "port-version": 0
     },
+    "libarchive-3-2-2-0": {
+      "baseline": "3.2.2",
+      "port-version": 0
+    },
     "libbson-1-4-2-0": {
       "baseline": "1.4.2",
       "port-version": 0
