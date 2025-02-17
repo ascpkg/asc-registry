@@ -1,0 +1,5 @@
+old = "scintilla"
+new = "scintilla-5-5-0-0"
+
+[deps]
+vcpkg-msbuild-2023-08-08-0 = "vcpkg-msbuild"
