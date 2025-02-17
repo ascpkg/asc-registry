@@ -46424,6 +46424,10 @@
       "baseline": "1.1.1n",
       "port-version": 0
     },
+    "openssl-1-1-1n-1": {
+      "baseline": "1.1.1n",
+      "port-version": 1
+    },
     "openssl-microsoft-1-0-2-winrt-stable-0": {
       "baseline": "1.0.2-winrt-stable",
       "port-version": 0
