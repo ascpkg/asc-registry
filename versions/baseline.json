@@ -5480,6 +5480,10 @@
       "baseline": "1.68.0",
       "port-version": 0
     },
+    "boost-signals-1-68-0-1-0": {
+      "baseline": "1.68.0-1",
+      "port-version": 0
+    },
     "boost-signals2-1-66-0-0": {
       "baseline": "1.66.0",
       "port-version": 0
@@ -13282,6 +13286,10 @@
     },
     "gtest-2019-10-09-0": {
       "baseline": "2019-10-09",
+      "port-version": 0
+    },
+    "gtest-2019-10-09-1-0": {
+      "baseline": "2019-10-09-1",
       "port-version": 0
     },
     "gtk-3-22-11-0": {
@@ -21796,6 +21804,10 @@
       "baseline": "1.9.1-1",
       "port-version": 0
     },
+    "pcl-1-9-1-10-0": {
+      "baseline": "1.9.1-10",
+      "port-version": 0
+    },
     "pcl-1-9-1-2-0": {
       "baseline": "1.9.1-2",
       "port-version": 0
@@ -26180,6 +26192,10 @@
       "baseline": "2.5.1-5",
       "port-version": 0
     },
+    "sfml-2-5-1-6-0": {
+      "baseline": "2.5.1-6",
+      "port-version": 0
+    },
     "shaderc-12fb656ab20ea9aa06e7084a74e5ff832b7ce2da-0": {
       "baseline": "12fb656ab20ea9aa06e7084a74e5ff832b7ce2da",
       "port-version": 0
@@ -26606,6 +26622,10 @@
     },
     "soil2-release-1-11-0": {
       "baseline": "release-1.11",
+      "port-version": 0
+    },
+    "soil2-release-1-11-1-0": {
+      "baseline": "release-1.11-1",
       "port-version": 0
     },
     "sokol-2019-09-09-0": {
@@ -28384,6 +28404,10 @@
       "baseline": "2.1.0-2",
       "port-version": 0
     },
+    "tmxparser-2-1-0-3-0": {
+      "baseline": "2.1.0-3",
+      "port-version": 0
+    },
     "tool-meson-0-52-0-0": {
       "baseline": "0.52.0",
       "port-version": 0
@@ -29718,6 +29742,10 @@
     },
     "xerces-c-3-2-2-11-0": {
       "baseline": "3.2.2-11",
+      "port-version": 0
+    },
+    "xerces-c-3-2-2-12-0": {
+      "baseline": "3.2.2-12",
       "port-version": 0
     },
     "xerces-c-3-2-2-4-0": {

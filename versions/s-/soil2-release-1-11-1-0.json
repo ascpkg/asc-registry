@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/soil2-release-1-11-1-0",
+      "version": "release-1.11-1",
+      "port-version": 0
+    }
+  ]
+}
