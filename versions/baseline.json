@@ -42048,6 +42048,10 @@
       "baseline": "2020-10-30",
       "port-version": 0
     },
+    "indirect-value-2023-06-01-0": {
+      "baseline": "2023-06-01",
+      "port-version": 0
+    },
     "influxdb-cxx-0-6-6-0": {
       "baseline": "0.6.6",
       "port-version": 0
