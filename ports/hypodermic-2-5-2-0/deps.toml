@@ -1,0 +1,11 @@
+old = "hypodermic"
+new = "hypodermic-2-5-2-0"
+
+[deps]
+boost-algorithm-1-75-0-0 = "boost-algorithm"
+boost-config-1-75-0-0 = "boost-config"
+boost-format-1-75-0-0 = "boost-format"
+boost-range-1-75-0-0 = "boost-range"
+boost-signals2-1-75-0-0 = "boost-signals2"
+boost-system-1-75-0-1 = "boost-system"
+boost-test-1-75-0-1 = "boost-test"
