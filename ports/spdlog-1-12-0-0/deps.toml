@@ -1,0 +1,8 @@
+old = "spdlog"
+new = "spdlog-1-12-0-0"
+
+[deps]
+benchmark-1-8-0-0 = "benchmark"
+fmt-10-0-0-0 = "fmt"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

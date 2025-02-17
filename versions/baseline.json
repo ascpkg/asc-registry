@@ -85432,6 +85432,10 @@
       "baseline": "1.11.0",
       "port-version": 1
     },
+    "spdlog-1-12-0-0": {
+      "baseline": "1.12.0",
+      "port-version": 0
+    },
     "spdlog-1-2-0-0": {
       "baseline": "1.2.0",
       "port-version": 0
