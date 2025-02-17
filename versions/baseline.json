@@ -3868,6 +3868,10 @@
       "baseline": "0.10",
       "port-version": 2
     },
+    "bitserializer-0-44-0": {
+      "baseline": "0.44",
+      "port-version": 0
+    },
     "bitserializer-0-7-0": {
       "baseline": "0.7",
       "port-version": 0
@@ -3935,6 +3939,10 @@
     "bitserializer-rapidyaml-alias-1": {
       "baseline": "alias",
       "port-version": 1
+    },
+    "bitserializer-rapidyaml-alias-2": {
+      "baseline": "alias",
+      "port-version": 2
     },
     "bitsery-4-6-0-0": {
       "baseline": "4.6.0",
