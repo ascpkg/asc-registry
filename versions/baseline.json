@@ -36512,6 +36512,10 @@
       "baseline": "5.0.1",
       "port-version": 2
     },
+    "libspatialite-5-0-1-3": {
+      "baseline": "5.0.1",
+      "port-version": 3
+    },
     "libspnav-0-2-3-0": {
       "baseline": "0.2.3",
       "port-version": 0
@@ -59320,6 +59324,10 @@
       "baseline": "3.37.1",
       "port-version": 0
     },
+    "sqlite3-3-37-2-1": {
+      "baseline": "3.37.2",
+      "port-version": 1
+    },
     "sqlite3-3120200-0": {
       "baseline": "3120200",
       "port-version": 0
@@ -63378,6 +63386,10 @@
     },
     "vcpkg-pkgconfig-get-modules-2022-01-10-0": {
       "baseline": "2022-01-10",
+      "port-version": 0
+    },
+    "vcpkg-pkgconfig-get-modules-2022-02-10-0": {
+      "baseline": "2022-02-10",
       "port-version": 0
     },
     "vcpkg-qmake-2021-10-23-0": {
