@@ -30796,6 +30796,10 @@
       "baseline": "2.8.0",
       "port-version": 0
     },
+    "pegtl-2020-12-07-0": {
+      "baseline": "2020-12-07",
+      "port-version": 0
+    },
     "pegtl-3-0-0-pre-0": {
       "baseline": "3.0.0-pre",
       "port-version": 0
