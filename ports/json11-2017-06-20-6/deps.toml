@@ -1,0 +1,5 @@
+old = "json11"
+new = "json11-2017-06-20-6"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

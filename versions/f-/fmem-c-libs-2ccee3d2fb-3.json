@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/fmem-c-libs-2ccee3d2fb-3",
+      "version-string": "c-libs-2ccee3d2fb",
+      "port-version": 3
+    }
+  ]
+}

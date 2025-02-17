@@ -1,0 +1,7 @@
+old = "lapack"
+new = "lapack-2022-02-22-2"
+
+[deps]
+clapack-3-2-1-21 = "clapack"
+lapack-reference-3-11-0-1 = "lapack-reference"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gloo-20201203-2",
+      "version": "20201203",
+      "port-version": 2
+    }
+  ]
+}

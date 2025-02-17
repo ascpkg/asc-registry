@@ -1,0 +1,10 @@
+old = "json-spirit"
+new = "json-spirit-4-1-0-4"
+
+[deps]
+boost-config-1-82-0-1 = "boost-config"
+boost-integer-1-82-0-1 = "boost-integer"
+boost-smart-ptr-1-82-0-1 = "boost-smart-ptr"
+boost-spirit-1-82-0-1 = "boost-spirit"
+boost-variant-1-82-0-1 = "boost-variant"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
