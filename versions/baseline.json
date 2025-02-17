@@ -47436,6 +47436,10 @@
       "baseline": "0.4.0",
       "port-version": 2
     },
+    "gsasl-2-2-1-0": {
+      "baseline": "2.2.1",
+      "port-version": 0
+    },
     "gsl-0-fd5ad87bf-0": {
       "baseline": "0-fd5ad87bf",
       "port-version": 0
