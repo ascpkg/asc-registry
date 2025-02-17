@@ -12492,6 +12492,10 @@
       "baseline": "2020-06-08",
       "port-version": 0
     },
+    "efsw-2020-06-08-1": {
+      "baseline": "2020-06-08",
+      "port-version": 1
+    },
     "egl-registry-2018-06-30-0": {
       "baseline": "2018-06-30",
       "port-version": 0
