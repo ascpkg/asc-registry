@@ -18888,6 +18888,10 @@
       "baseline": "5.2.5",
       "port-version": 0
     },
+    "liblzma-5-2-5-1": {
+      "baseline": "5.2.5",
+      "port-version": 1
+    },
     "libmad-0-15-1-0": {
       "baseline": "0.15.1",
       "port-version": 0
