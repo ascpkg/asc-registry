@@ -113228,6 +113228,10 @@
       "baseline": "1.4.0",
       "port-version": 0
     },
+    "via-httplib-1-9-0-0": {
+      "baseline": "1.9.0",
+      "port-version": 0
+    },
     "vili-1-0-0-20221123-0": {
       "baseline": "1.0.0+20221123",
       "port-version": 0
