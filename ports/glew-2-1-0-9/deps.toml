@@ -1,0 +1,5 @@
+old = "glew"
+new = "glew-2-1-0-9"
+
+[deps]
+opengl-0-0-7-0 = "opengl"
