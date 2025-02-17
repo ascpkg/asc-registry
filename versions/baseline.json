@@ -59656,6 +59656,10 @@
       "baseline": "1.2.0",
       "port-version": 0
     },
+    "nanomsg-1-2-0-1": {
+      "baseline": "1.2.0",
+      "port-version": 1
+    },
     "nanopb-0-4-5-0": {
       "baseline": "0.4.5",
       "port-version": 0
