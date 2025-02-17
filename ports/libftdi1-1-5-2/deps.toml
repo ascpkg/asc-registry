@@ -1,0 +1,8 @@
+old = "libftdi1"
+new = "libftdi1-1-5-2"
+
+[deps]
+libconfuse-2019-07-14-2 = "libconfuse"
+libusb-1-0-24-6 = "libusb"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"
