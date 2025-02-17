@@ -54880,6 +54880,10 @@
       "baseline": "1.2.15",
       "port-version": 14
     },
+    "sdl1-1-2-15-15": {
+      "baseline": "1.2.15",
+      "port-version": 15
+    },
     "sdl1-1-2-15-3-0": {
       "baseline": "1.2.15-3",
       "port-version": 0
