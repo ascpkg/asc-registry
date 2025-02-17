@@ -1,0 +1,5 @@
+old = "cimg"
+new = "cimg-2-9-9-0"
+
+[deps]
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
