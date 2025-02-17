@@ -31844,6 +31844,10 @@
       "baseline": "2.10.19",
       "port-version": 1
     },
+    "cpprestsdk-2-10-19-2": {
+      "baseline": "2.10.19",
+      "port-version": 2
+    },
     "cpprestsdk-2-10-2-0": {
       "baseline": "2.10.2",
       "port-version": 0
@@ -75840,6 +75844,10 @@
       "baseline": "1.5.0",
       "port-version": 0
     },
+    "nghttp3-1-5-0-1": {
+      "baseline": "1.5.0",
+      "port-version": 1
+    },
     "ngspice-32-0": {
       "baseline": "32",
       "port-version": 0
@@ -75967,6 +75975,10 @@
     "ngtcp2-1-7-0-0": {
       "baseline": "1.7.0",
       "port-version": 0
+    },
+    "ngtcp2-1-7-0-1": {
+      "baseline": "1.7.0",
+      "port-version": 1
     },
     "nifly-1-0-0-0": {
       "baseline": "1.0.0",
