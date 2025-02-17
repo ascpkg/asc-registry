@@ -45620,6 +45620,14 @@
       "baseline": "6.28",
       "port-version": 0
     },
+    "plf-colony-6-33-0": {
+      "baseline": "6.33",
+      "port-version": 0
+    },
+    "plf-hive-2021-12-11-0": {
+      "baseline": "2021-12-11",
+      "port-version": 0
+    },
     "plf-list-2019-08-10-0": {
       "baseline": "2019-08-10",
       "port-version": 0
