@@ -49176,6 +49176,10 @@
       "baseline": "3.7.0",
       "port-version": 0
     },
+    "openvpn3-3-7-0-1": {
+      "baseline": "3.7.0",
+      "port-version": 1
+    },
     "openvr-1-0-12-0": {
       "baseline": "1.0.12",
       "port-version": 0
