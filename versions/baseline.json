@@ -7532,6 +7532,10 @@
       "baseline": "0.5.4-rc-2",
       "port-version": 0
     },
+    "yara-e3439e4ead4ed5d3b75a0b46eaf15ddda2110bb9-0": {
+      "baseline": "e3439e4ead4ed5d3b75a0b46eaf15ddda2110bb9",
+      "port-version": 0
+    },
     "yoga-1-7-0-0": {
       "baseline": "1.7.0",
       "port-version": 0
