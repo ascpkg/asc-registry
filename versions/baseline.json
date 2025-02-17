@@ -71640,6 +71640,10 @@
       "baseline": "0.2.0",
       "port-version": 0
     },
+    "minio-cpp-0-3-0-0": {
+      "baseline": "0.3.0",
+      "port-version": 0
+    },
     "minio-cpp-2022-01-03-0": {
       "baseline": "2022-01-03",
       "port-version": 0
