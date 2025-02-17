@@ -15056,6 +15056,10 @@
       "baseline": "0.4.0-87a6c31",
       "port-version": 0
     },
+    "range-v3-0-5-0-0": {
+      "baseline": "0.5.0",
+      "port-version": 0
+    },
     "range-v3-20150729-vcpkg2-0": {
       "baseline": "20150729-vcpkg2",
       "port-version": 0
