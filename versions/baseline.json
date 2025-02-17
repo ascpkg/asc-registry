@@ -85284,6 +85284,10 @@
       "baseline": "2021.9.0",
       "port-version": 1
     },
+    "tbb-2021-9-0-2": {
+      "baseline": "2021.9.0",
+      "port-version": 2
+    },
     "tcb-span-2021-12-15-0": {
       "baseline": "2021-12-15",
       "port-version": 0
@@ -88535,6 +88539,10 @@
     "usd-23-5-0": {
       "baseline": "23.5",
       "port-version": 0
+    },
+    "usd-23-5-1": {
+      "baseline": "23.5",
+      "port-version": 1
     },
     "usockets-0-1-2-0": {
       "baseline": "0.1.2",
