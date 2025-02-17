@@ -17260,6 +17260,10 @@
       "baseline": "3.4.0",
       "port-version": 1
     },
+    "comms-4-0-0-0": {
+      "baseline": "4.0.0",
+      "port-version": 0
+    },
     "comms-ublox-0-19-1-0": {
       "baseline": "0.19.1",
       "port-version": 0
@@ -17278,6 +17282,10 @@
     },
     "comms-ublox-0-20-2-0": {
       "baseline": "0.20.2",
+      "port-version": 0
+    },
+    "comms-ublox-1-0-0-0": {
+      "baseline": "1.0.0",
       "port-version": 0
     },
     "commsdsl-3-5-2-0": {
@@ -17319,6 +17327,10 @@
     "commsdsl-3-6-4-1": {
       "baseline": "3.6.4",
       "port-version": 1
+    },
+    "commsdsl-4-0-0-0": {
+      "baseline": "4.0.0",
+      "port-version": 0
     },
     "compoundfilereader-0-1-0-0": {
       "baseline": "0.1.0",
