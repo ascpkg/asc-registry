@@ -54484,6 +54484,10 @@
       "baseline": "0.3.1",
       "port-version": 0
     },
+    "json-rpc-cxx-0-3-2-0": {
+      "baseline": "0.3.2",
+      "port-version": 0
+    },
     "json-schema-validator-2-1-0-0": {
       "baseline": "2.1.0",
       "port-version": 0
