@@ -1,0 +1,16 @@
+old = "qt5-webengine"
+new = "qt5-webengine-5-15-16-1"
+
+[deps]
+atl-0-0 = "atl"
+dbus-1-15-8-5 = "dbus"
+ffmpeg-7-1-2 = "ffmpeg"
+icu-74-2-4 = "icu"
+qt5-base-5-15-16-0 = "qt5-base"
+qt5-declarative-5-15-16-0 = "qt5-declarative"
+qt5-location-5-15-16-0 = "qt5-location"
+qt5-quickcontrols-5-15-16-0 = "qt5-quickcontrols"
+qt5-quickcontrols2-5-15-16-0 = "qt5-quickcontrols2"
+qt5-tools-5-15-16-0 = "qt5-tools"
+qt5-webchannel-5-15-16-0 = "qt5-webchannel"
+vcpkg-tool-nodejs-16-18-0-1 = "vcpkg-tool-nodejs"
