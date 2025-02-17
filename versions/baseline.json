@@ -30196,6 +30196,10 @@
       "baseline": "2020-06-02",
       "port-version": 0
     },
+    "p-ranav-csv2-2020-12-14-0": {
+      "baseline": "2020-12-14",
+      "port-version": 0
+    },
     "paho-mqtt-1-2-0-0": {
       "baseline": "1.2.0",
       "port-version": 0
