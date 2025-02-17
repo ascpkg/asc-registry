@@ -68872,6 +68872,10 @@
       "baseline": "2.1.2",
       "port-version": 7
     },
+    "libtorch-2-1-2-8": {
+      "baseline": "2.1.2",
+      "port-version": 8
+    },
     "libtorrent-1-1-4-0": {
       "baseline": "1.1.4",
       "port-version": 0
