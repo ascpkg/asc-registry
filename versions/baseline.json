@@ -18888,6 +18888,10 @@
       "baseline": "2020-02-20",
       "port-version": 1
     },
+    "egl-registry-2021-11-23-0": {
+      "baseline": "2021-11-23",
+      "port-version": 0
+    },
     "eigen-3-2-9-0": {
       "baseline": "3.2.9",
       "port-version": 0
@@ -23311,6 +23315,10 @@
     "glad-0-1-34-1": {
       "baseline": "0.1.34",
       "port-version": 1
+    },
+    "glad-0-1-34-3": {
+      "baseline": "0.1.34",
+      "port-version": 3
     },
     "glbinding-2-1-1-0": {
       "baseline": "2.1.1",
@@ -41363,6 +41371,10 @@
     "opengl-registry-2020-03-25-1": {
       "baseline": "2020-03-25",
       "port-version": 1
+    },
+    "opengl-registry-2021-11-17-0": {
+      "baseline": "2021-11-17",
+      "port-version": 0
     },
     "openh264-2021-03-16-0": {
       "baseline": "2021-03-16",
