@@ -1,2 +1,6 @@
 old = "soci"
 new = "soci-2016-10-22-1-0"
+
+[deps]
+boost-date-time-1-67-0-0 = "boost-date-time"
+sqlite3-3-23-1-1-0 = "sqlite3"
