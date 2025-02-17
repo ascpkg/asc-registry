@@ -9360,6 +9360,10 @@
       "baseline": "1.5.0",
       "port-version": 0
     },
+    "coroutine-1-5-0-1": {
+      "baseline": "1.5.0",
+      "port-version": 1
+    },
     "coroutine-2020-01-13-0": {
       "baseline": "2020-01-13",
       "port-version": 0
