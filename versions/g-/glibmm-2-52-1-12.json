@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/glibmm-2-52-1-12",
+      "version": "2.52.1",
+      "port-version": 12
+    }
+  ]
+}

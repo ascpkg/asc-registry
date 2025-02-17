@@ -1,0 +1,8 @@
+old = "gmime"
+new = "gmime-3-2-6-1"
+
+[deps]
+glib-2-52-3-23 = "glib"
+libiconv-1-16-6 = "libiconv"
+libidn2-2-3-0-1 = "libidn2"
+zlib-1-2-11-9 = "zlib"
