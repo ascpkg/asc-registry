@@ -7768,6 +7768,10 @@
       "baseline": "8.2.0",
       "port-version": 0
     },
+    "cspice-66-1-0": {
+      "baseline": "66-1",
+      "port-version": 0
+    },
     "ctbignum-2019-08-02-0": {
       "baseline": "2019-08-02",
       "port-version": 0
