@@ -38424,6 +38424,10 @@
       "baseline": "2019-04-28",
       "port-version": 5
     },
+    "duilib-2019-04-28-6": {
+      "baseline": "2019-04-28",
+      "port-version": 6
+    },
     "duilib-2019-4-28-0": {
       "baseline": "2019-4-28",
       "port-version": 0
