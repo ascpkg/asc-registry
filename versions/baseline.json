@@ -5048,6 +5048,10 @@
       "baseline": "0.44",
       "port-version": 1
     },
+    "bitserializer-0-44-2": {
+      "baseline": "0.44",
+      "port-version": 2
+    },
     "bitserializer-0-7-0": {
       "baseline": "0.7",
       "port-version": 0
@@ -5119,6 +5123,10 @@
     "bitserializer-rapidyaml-alias-2": {
       "baseline": "alias",
       "port-version": 2
+    },
+    "bitserializer-rapidyaml-alias-3": {
+      "baseline": "alias",
+      "port-version": 3
     },
     "bitsery-4-6-0-0": {
       "baseline": "4.6.0",
@@ -15775,6 +15783,10 @@
     "c4core-0-1-9-0": {
       "baseline": "0.1.9",
       "port-version": 0
+    },
+    "c4core-0-1-9-1": {
+      "baseline": "0.1.9",
+      "port-version": 1
     },
     "c4core-2020-04-12-0": {
       "baseline": "2020-04-12",
