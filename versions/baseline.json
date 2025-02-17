@@ -64748,6 +64748,10 @@
       "baseline": "2.4.0",
       "port-version": 12
     },
+    "libodb-sqlite-2-4-0-13": {
+      "baseline": "2.4.0",
+      "port-version": 13
+    },
     "libodb-sqlite-2-4-0-2-0": {
       "baseline": "2.4.0-2",
       "port-version": 0
