@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/socket-io-client-2023-02-14-0",
+      "version-date": "2023-02-14",
+      "port-version": 0
+    }
+  ]
+}
