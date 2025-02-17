@@ -34112,6 +34112,10 @@
       "baseline": "5.1.2",
       "port-version": 1
     },
+    "ffmpeg-5-1-2-10": {
+      "baseline": "5.1.2",
+      "port-version": 10
+    },
     "ffmpeg-5-1-2-2": {
       "baseline": "5.1.2",
       "port-version": 2
