@@ -109908,6 +109908,10 @@
       "baseline": "3.0.1",
       "port-version": 4
     },
+    "vulkan-memory-allocator-3-1-0-0": {
+      "baseline": "3.1.0",
+      "port-version": 0
+    },
     "vulkan-memory-allocator-hpp-3-0-1-0": {
       "baseline": "3.0.1",
       "port-version": 0
