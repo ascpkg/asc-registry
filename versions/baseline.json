@@ -2156,6 +2156,10 @@
       "baseline": "0.10.0",
       "port-version": 0
     },
+    "thrift-latest-0": {
+      "baseline": "latest",
+      "port-version": 0
+    },
     "tiff-4-0-6-0": {
       "baseline": "4.0.6",
       "port-version": 0

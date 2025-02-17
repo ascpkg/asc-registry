@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/thrift-latest-0",
+      "version": "latest",
+      "port-version": 0
+    }
+  ]
+}
