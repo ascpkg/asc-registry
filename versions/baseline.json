@@ -11020,6 +11020,10 @@
       "baseline": "3.49",
       "port-version": 0
     },
+    "cfitsio-3-49-1": {
+      "baseline": "3.49",
+      "port-version": 1
+    },
     "cgal-4-11-0": {
       "baseline": "4.11",
       "port-version": 0
