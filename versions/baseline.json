@@ -30112,6 +30112,10 @@
       "baseline": "0.10.3",
       "port-version": 0
     },
+    "cyclonedds-0-10-4-0": {
+      "baseline": "0.10.4",
+      "port-version": 0
+    },
     "cyclonedds-cxx-0-10-2-0": {
       "baseline": "0.10.2",
       "port-version": 0
@@ -30119,6 +30123,10 @@
     "cyclonedds-cxx-0-10-2-1": {
       "baseline": "0.10.2",
       "port-version": 1
+    },
+    "cyclonedds-cxx-0-10-4-0": {
+      "baseline": "0.10.4",
+      "port-version": 0
     },
     "czmq-2019-06-10-0": {
       "baseline": "2019-06-10",
