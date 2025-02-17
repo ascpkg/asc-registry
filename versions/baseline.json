@@ -43452,6 +43452,10 @@
       "baseline": "0.10.4",
       "port-version": 0
     },
+    "libssh-0-10-4-20221123-0": {
+      "baseline": "0.10.4+20221123",
+      "port-version": 0
+    },
     "libssh-0-7-5-0": {
       "baseline": "0.7.5",
       "port-version": 0
