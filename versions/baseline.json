@@ -27196,6 +27196,10 @@
       "baseline": "1.7.0",
       "port-version": 6
     },
+    "hunspell-1-7-0-7": {
+      "baseline": "1.7.0",
+      "port-version": 7
+    },
     "hwloc-1-11-7-0": {
       "baseline": "1.11.7",
       "port-version": 0
