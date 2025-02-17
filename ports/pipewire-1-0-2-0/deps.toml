@@ -1,0 +1,6 @@
+old = "pipewire"
+new = "pipewire-1-0-2-0"
+
+[deps]
+glib-2-78-1-0 = "glib"
+vcpkg-tool-meson-0-63-2 = "vcpkg-tool-meson"
