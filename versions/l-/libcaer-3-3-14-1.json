@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libcaer-3-3-14-1",
+      "version": "3.3.14",
+      "port-version": 1
+    }
+  ]
+}
