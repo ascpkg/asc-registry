@@ -22712,6 +22712,10 @@
       "baseline": "2.0.5",
       "port-version": 2
     },
+    "libjpeg-turbo-2-0-5-3": {
+      "baseline": "2.0.5",
+      "port-version": 3
+    },
     "libjuice-0-5-2-0": {
       "baseline": "0.5.2",
       "port-version": 0
@@ -27563,6 +27567,10 @@
     "mozjpeg-2020-06-02-1-0": {
       "baseline": "2020-06-02-1",
       "port-version": 0
+    },
+    "mozjpeg-2020-06-02-2": {
+      "baseline": "2020-06-02",
+      "port-version": 2
     },
     "mozjpeg-3-2-0": {
       "baseline": "3.2",
