@@ -75500,6 +75500,10 @@
       "baseline": "1.0.0",
       "port-version": 1
     },
+    "tinyexr-1-0-1-0": {
+      "baseline": "1.0.1",
+      "port-version": 0
+    },
     "tinyexr-2020-03-15-0": {
       "baseline": "2020-03-15",
       "port-version": 0
