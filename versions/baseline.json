@@ -26380,6 +26380,10 @@
       "baseline": "3.3.10",
       "port-version": 4
     },
+    "fftw3-3-3-10-5": {
+      "baseline": "3.3.10",
+      "port-version": 5
+    },
     "fftw3-3-3-6-p11-0": {
       "baseline": "3.3.6-p11",
       "port-version": 0
