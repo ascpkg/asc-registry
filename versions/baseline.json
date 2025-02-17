@@ -39788,6 +39788,10 @@
       "baseline": "3.3.8",
       "port-version": 2
     },
+    "glfw3-3-3-8-3": {
+      "baseline": "3.3.8",
+      "port-version": 3
+    },
     "gli-0-8-2-0": {
       "baseline": "0.8.2",
       "port-version": 0
