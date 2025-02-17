@@ -24260,6 +24260,10 @@
       "baseline": "0.5.1",
       "port-version": 0
     },
+    "jwt-cpp-0-5-1-1": {
+      "baseline": "0.5.1",
+      "port-version": 1
+    },
     "jwt-cpp-2019-05-07-0": {
       "baseline": "2019-05-07",
       "port-version": 0
