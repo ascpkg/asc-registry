@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/comms-ublox-0-20-2-0",
+      "version-semver": "0.20.2",
+      "port-version": 0
+    }
+  ]
+}

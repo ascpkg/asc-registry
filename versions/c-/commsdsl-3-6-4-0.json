@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/commsdsl-3-6-4-0",
+      "version-semver": "3.6.4",
+      "port-version": 0
+    }
+  ]
+}
