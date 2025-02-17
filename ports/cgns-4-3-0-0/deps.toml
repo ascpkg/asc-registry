@@ -1,0 +1,8 @@
+old = "cgns"
+new = "cgns-4-3-0-0"
+
+[deps]
+cgns-4-3-0-0 = "cgns"
+hdf5-1-12-1-4 = "hdf5"
+vcpkg-cmake-2022-05-06-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"
