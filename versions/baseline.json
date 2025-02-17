@@ -69516,6 +69516,10 @@
       "baseline": "0.8.1",
       "port-version": 0
     },
+    "tracy-0-8-2-0": {
+      "baseline": "0.8.2",
+      "port-version": 0
+    },
     "transwarp-2-2-2-0": {
       "baseline": "2.2.2",
       "port-version": 0
