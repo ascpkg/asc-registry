@@ -10124,6 +10124,10 @@
       "baseline": "1.79.0",
       "port-version": 7
     },
+    "boost-modular-build-helper-1-79-0-8": {
+      "baseline": "1.79.0",
+      "port-version": 8
+    },
     "boost-modular-build-helper-2-0": {
       "baseline": "2",
       "port-version": 0
