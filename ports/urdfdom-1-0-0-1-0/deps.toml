@@ -1,0 +1,6 @@
+old = "urdfdom"
+new = "urdfdom-1-0-0-1-0"
+
+[deps]
+console_bridge-0-3-2-1-0 = "console_bridge"
+urdfdom_headers-1-0-0-1-0 = "urdfdom_headers"
