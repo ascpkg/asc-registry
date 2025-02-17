@@ -69248,6 +69248,10 @@
       "baseline": "2.5.4",
       "port-version": 1
     },
+    "ls-qpack-2-5-4-2": {
+      "baseline": "2.5.4",
+      "port-version": 2
+    },
     "ltla-aarand-2023-03-19-0": {
       "baseline": "2023-03-19",
       "port-version": 0
