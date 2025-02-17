@@ -21860,6 +21860,10 @@
       "baseline": "0.8.0",
       "port-version": 0
     },
+    "spectra-0-8-1-0": {
+      "baseline": "0.8.1",
+      "port-version": 0
+    },
     "speex--0": {
       "baseline": "",
       "port-version": 0
