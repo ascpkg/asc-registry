@@ -91484,6 +91484,10 @@
       "baseline": "3.0.0",
       "port-version": 1
     },
+    "uvw-3-2-0-0": {
+      "baseline": "3.2.0",
+      "port-version": 0
+    },
     "uwebsockets-0-12-0-0": {
       "baseline": "0.12.0",
       "port-version": 0
