@@ -32872,6 +32872,10 @@
       "baseline": "2.2.10.0",
       "port-version": 0
     },
+    "openimageio-2-2-10-0-1": {
+      "baseline": "2.2.10.0",
+      "port-version": 1
+    },
     "openimageio-2019-08-08-0": {
       "baseline": "2019-08-08",
       "port-version": 0
