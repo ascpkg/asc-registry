@@ -58992,6 +58992,10 @@
       "baseline": "8.0.2",
       "port-version": 3
     },
+    "qhull-8-0-2-4": {
+      "baseline": "8.0.2",
+      "port-version": 4
+    },
     "qnnpack-2021-02-26-0": {
       "baseline": "2021-02-26",
       "port-version": 0
