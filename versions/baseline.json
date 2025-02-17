@@ -4552,6 +4552,10 @@
       "baseline": "1.6.0-639",
       "port-version": 0
     },
+    "bento4-1-6-0-639-1": {
+      "baseline": "1.6.0-639",
+      "port-version": 1
+    },
     "berkeleydb-4-8-30-0": {
       "baseline": "4.8.30",
       "port-version": 0
