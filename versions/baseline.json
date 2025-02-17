@@ -57808,6 +57808,10 @@
       "baseline": "3.0.2",
       "port-version": 1
     },
+    "libosdp-3-0-5-0": {
+      "baseline": "3.0.5",
+      "port-version": 0
+    },
     "libosip2-5-1-0-0": {
       "baseline": "5.1.0",
       "port-version": 0
