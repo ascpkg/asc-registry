@@ -16168,6 +16168,10 @@
       "baseline": "1767ab87cffe",
       "port-version": 2
     },
+    "dartsim-6-11-0-1": {
+      "baseline": "6.11.0",
+      "port-version": 1
+    },
     "dartsim-6-9-4-0": {
       "baseline": "6.9.4",
       "port-version": 0
