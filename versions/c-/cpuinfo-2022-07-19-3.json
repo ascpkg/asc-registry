@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cpuinfo-2022-07-19-3",
+      "version-date": "2022-07-19",
+      "port-version": 3
+    }
+  ]
+}
