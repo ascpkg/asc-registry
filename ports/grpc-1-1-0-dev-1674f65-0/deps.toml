@@ -2,6 +2,6 @@ old = "grpc"
 new = "grpc-1-1-0-dev-1674f65-0"
 
 [deps]
-openssl-1-0-2h-1-0 = "openssl"
+openssl-1-0-2j-0 = "openssl"
 protobuf-3-0-2-0 = "protobuf"
 zlib-1-2-8-0 = "zlib"
