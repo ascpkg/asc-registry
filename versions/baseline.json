@@ -12472,6 +12472,10 @@
       "baseline": "20180219-1",
       "port-version": 0
     },
+    "tinyutf8-2-1-1-1-0": {
+      "baseline": "2.1.1-1",
+      "port-version": 0
+    },
     "tinyxml-2-6-2-1-0": {
       "baseline": "2.6.2-1",
       "port-version": 0
