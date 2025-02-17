@@ -22804,6 +22804,10 @@
       "baseline": "5.81.0",
       "port-version": 0
     },
+    "kf5auth-5-81-0-0": {
+      "baseline": "5.81.0",
+      "port-version": 0
+    },
     "kf5completion-5-64-0-0": {
       "baseline": "5.64.0",
       "port-version": 0
