@@ -5516,6 +5516,10 @@
       "baseline": "2.0.1",
       "port-version": 0
     },
+    "dpdk-19-02-0": {
+      "baseline": "19.02",
+      "port-version": 0
+    },
     "draco-0-10-0-0": {
       "baseline": "0.10.0",
       "port-version": 0
