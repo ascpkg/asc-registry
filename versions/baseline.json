@@ -48272,6 +48272,10 @@
       "baseline": "0.0.7",
       "port-version": 0
     },
+    "rsm-binary-io-2-0-2-0": {
+      "baseline": "2.0.2",
+      "port-version": 0
+    },
     "rsm-bsa-2-0-3-0": {
       "baseline": "2.0.3",
       "port-version": 0
