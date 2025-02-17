@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/msmpi-10-1-12498-4",
+      "version": "10.1.12498",
+      "port-version": 4
+    }
+  ]
+}
