@@ -63820,6 +63820,10 @@
       "baseline": "2.3.0",
       "port-version": 4
     },
+    "librdkafka-2-3-0-5": {
+      "baseline": "2.3.0",
+      "port-version": 5
+    },
     "librdkafka-2019-04-16-0": {
       "baseline": "2019-04-16",
       "port-version": 0
