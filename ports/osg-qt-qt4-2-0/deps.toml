@@ -1,0 +1,7 @@
+old = "osg-qt"
+new = "osg-qt-qt4-2-0"
+
+[deps]
+osg-3-6-4-3-0 = "osg"
+protobuf-3-12-3-0 = "protobuf"
+qt5-base-5-15-0-0 = "qt5-base"

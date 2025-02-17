@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qscintilla-2-11-4-2-0",
+      "version": "2.11.4-2",
+      "port-version": 0
+    }
+  ]
+}
