@@ -15184,6 +15184,10 @@
       "baseline": "3.22.19-3",
       "port-version": 0
     },
+    "gtk-3-22-19-4-0": {
+      "baseline": "3.22.19-4",
+      "port-version": 0
+    },
     "gtk-3-22-8-0": {
       "baseline": "3.22.8",
       "port-version": 0
