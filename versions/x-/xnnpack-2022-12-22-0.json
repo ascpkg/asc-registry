@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/xnnpack-2022-12-22-0",
+      "version-date": "2022-12-22",
+      "port-version": 0
+    }
+  ]
+}
