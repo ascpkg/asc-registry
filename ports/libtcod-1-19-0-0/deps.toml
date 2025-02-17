@@ -1,0 +1,12 @@
+old = "libtcod"
+new = "libtcod-1-19-0-0"
+
+[deps]
+glad-0-1-34-1 = "glad"
+lodepng-c-2021-03-01-1 = "lodepng-c"
+sdl2-2-0-16-2 = "sdl2"
+stb-2020-09-14-1 = "stb"
+utf8proc-2-6-1-0 = "utf8proc"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-11-01-0 = "vcpkg-cmake-config"
+zlib-1-2-11-13 = "zlib"
