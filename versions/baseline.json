@@ -32688,6 +32688,10 @@
       "baseline": "5.9.2-0",
       "port-version": 0
     },
+    "qtkeychain-0-11-1-0": {
+      "baseline": "0.11.1",
+      "port-version": 0
+    },
     "qtkeychain-v0-9-1-0": {
       "baseline": "v0.9.1",
       "port-version": 0
