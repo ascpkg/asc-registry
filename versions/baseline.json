@@ -67224,6 +67224,10 @@
       "baseline": "1.1.0",
       "port-version": 0
     },
+    "lpeg-1-1-0-1": {
+      "baseline": "1.1.0",
+      "port-version": 1
+    },
     "ltla-aarand-2023-03-19-0": {
       "baseline": "2023-03-19",
       "port-version": 0
