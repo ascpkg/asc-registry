@@ -21612,6 +21612,10 @@
       "baseline": "2.6.1-1",
       "port-version": 0
     },
+    "nlopt-2-6-2-0": {
+      "baseline": "2.6.2",
+      "port-version": 0
+    },
     "nmap-7-70-0": {
       "baseline": "7.70",
       "port-version": 0
