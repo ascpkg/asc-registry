@@ -2,4 +2,4 @@ old = "mpfr"
 new = "mpfr-3-1-6-2-0"
 
 [deps]
-mpir-3-0-0-3-0 = "mpir"
+mpir-3-0-0-7-0 = "mpir"
