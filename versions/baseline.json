@@ -53568,6 +53568,10 @@
       "baseline": "2020-04-30",
       "port-version": 2
     },
+    "nifticlib-2020-04-30-3": {
+      "baseline": "2020-04-30",
+      "port-version": 3
+    },
     "nlohmann-fifo-map-2018-05-07-0": {
       "baseline": "2018.05.07",
       "port-version": 0
