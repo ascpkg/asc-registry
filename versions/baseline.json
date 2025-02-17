@@ -8,6 +8,10 @@
       "baseline": "1.61",
       "port-version": 0
     },
+    "constexpr-1-0-0": {
+      "baseline": "1.0",
+      "port-version": 0
+    },
     "cpprestsdk-2-8-0": {
       "baseline": "2.8",
       "port-version": 0
