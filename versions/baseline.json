@@ -1364,6 +1364,10 @@
       "baseline": "3.5.0",
       "port-version": 0
     },
+    "aom-3-5-0-1": {
+      "baseline": "3.5.0",
+      "port-version": 1
+    },
     "approval-tests-cpp-10-10-0-0": {
       "baseline": "10.10.0",
       "port-version": 0
