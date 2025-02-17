@@ -53896,6 +53896,10 @@
       "baseline": "1.0.8",
       "port-version": 0
     },
+    "libfs-1-0-9-0": {
+      "baseline": "1.0.9",
+      "port-version": 0
+    },
     "libftdi-0-20-0": {
       "baseline": "0.20",
       "port-version": 0
