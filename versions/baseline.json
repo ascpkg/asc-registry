@@ -45884,6 +45884,10 @@
       "baseline": "1.11-9",
       "port-version": 0
     },
+    "xaudio2redist-1-2-6-0": {
+      "baseline": "1.2.6",
+      "port-version": 0
+    },
     "xbyak-5-911-0": {
       "baseline": "5.911",
       "port-version": 0
