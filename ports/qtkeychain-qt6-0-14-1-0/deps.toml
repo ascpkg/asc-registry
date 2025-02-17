@@ -1,0 +1,8 @@
+old = "qtkeychain-qt6"
+new = "qtkeychain-qt6-0-14-1-0"
+
+[deps]
+libsecret-0-20-4-2 = "libsecret"
+qttools-6-5-2-0 = "qttools"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
