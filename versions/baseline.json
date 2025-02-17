@@ -10400,6 +10400,10 @@
       "baseline": "spring_2017_creators_update_for_vs_15.3",
       "port-version": 0
     },
+    "cppwinrt-windows-sdk-0": {
+      "baseline": "windows-sdk",
+      "port-version": 0
+    },
     "cppzmq-0-0-0-1-0": {
       "baseline": "0.0.0-1",
       "port-version": 0
