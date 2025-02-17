@@ -5716,6 +5716,10 @@
       "baseline": "2.11.0",
       "port-version": 0
     },
+    "botan-2-12-1-0": {
+      "baseline": "2.12.1",
+      "port-version": 0
+    },
     "botan-2-3-0-0": {
       "baseline": "2.3.0",
       "port-version": 0
