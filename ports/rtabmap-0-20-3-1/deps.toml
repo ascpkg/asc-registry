@@ -4,4 +4,5 @@ new = "rtabmap-0-20-3-1"
 [deps]
 opencv-4-3-0-0 = "opencv"
 pcl-1-11-1-0 = "pcl"
+yaml-cpp-0-6-3-0 = "yaml-cpp"
 zlib-1-2-11-9 = "zlib"
