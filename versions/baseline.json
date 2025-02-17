@@ -5564,6 +5564,10 @@
       "baseline": "2.2.3",
       "port-version": 0
     },
+    "doctest-2-3-1-0": {
+      "baseline": "2.3.1",
+      "port-version": 0
+    },
     "double-conversion-2-0-1-0": {
       "baseline": "2.0.1",
       "port-version": 0
