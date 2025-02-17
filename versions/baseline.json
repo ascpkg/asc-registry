@@ -17812,6 +17812,10 @@
       "baseline": "4.2.2",
       "port-version": 0
     },
+    "kangaru-4-2-4-0": {
+      "baseline": "4.2.4",
+      "port-version": 0
+    },
     "kcp-2019-09-20-0": {
       "baseline": "2019-09-20",
       "port-version": 0
