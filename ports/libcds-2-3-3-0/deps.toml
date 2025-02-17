@@ -2,5 +2,5 @@ old = "libcds"
 new = "libcds-2-3-3-0"
 
 [deps]
-boost-system-1-73-0-0 = "boost-system"
-boost-thread-1-73-0-0 = "boost-thread"
+boost-system-1-75-0-0 = "boost-system"
+boost-thread-1-75-0-0 = "boost-thread"
