@@ -1,0 +1,6 @@
+old = "aws-c-event-stream"
+new = "aws-c-event-stream-0-1-6-0"
+
+[deps]
+aws-c-common-0-4-56-0 = "aws-c-common"
+aws-checksums-0-1-9-0 = "aws-checksums"

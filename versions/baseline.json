@@ -1536,12 +1536,20 @@
       "baseline": "0.4.15",
       "port-version": 0
     },
+    "aws-c-common-0-4-56-0": {
+      "baseline": "0.4.56",
+      "port-version": 0
+    },
     "aws-c-event-stream-0-1-1-0": {
       "baseline": "0.1.1",
       "port-version": 0
     },
     "aws-c-event-stream-0-1-4-0": {
       "baseline": "0.1.4",
+      "port-version": 0
+    },
+    "aws-c-event-stream-0-1-6-0": {
+      "baseline": "0.1.6",
       "port-version": 0
     },
     "aws-checksums-0-1-2-0": {
@@ -1554,6 +1562,10 @@
     },
     "aws-checksums-0-1-5-0": {
       "baseline": "0.1.5",
+      "port-version": 0
+    },
+    "aws-checksums-0-1-9-0": {
+      "baseline": "0.1.9",
       "port-version": 0
     },
     "aws-lambda-cpp-0-1-0-0": {

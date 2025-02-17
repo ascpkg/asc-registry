@@ -1,0 +1,5 @@
+old = "aws-checksums"
+new = "aws-checksums-0-1-9-0"
+
+[deps]
+aws-c-common-0-4-56-0 = "aws-c-common"
