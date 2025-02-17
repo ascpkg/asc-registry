@@ -16508,6 +16508,10 @@
       "baseline": "2019-01-30",
       "port-version": 0
     },
+    "thrift-2019-03-29-0": {
+      "baseline": "2019-03-29",
+      "port-version": 0
+    },
     "thrift-latest-0": {
       "baseline": "latest",
       "port-version": 0
