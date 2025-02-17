@@ -26104,6 +26104,10 @@
       "baseline": "9.0.0",
       "port-version": 0
     },
+    "fmt-9-1-0-0": {
+      "baseline": "9.1.0",
+      "port-version": 0
+    },
     "folly-2017-10-02-00-0": {
       "baseline": "2017.10.02.00",
       "port-version": 0
