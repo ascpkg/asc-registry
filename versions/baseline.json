@@ -24648,6 +24648,10 @@
       "baseline": "0.15.2",
       "port-version": 4
     },
+    "check-0-15-2-5": {
+      "baseline": "0.15.2",
+      "port-version": 5
+    },
     "chipmunk-7-0-2-0": {
       "baseline": "7.0.2",
       "port-version": 0
@@ -55639,6 +55643,10 @@
     "libsbml-5-20-0-1": {
       "baseline": "5.20.0",
       "port-version": 1
+    },
+    "libsbml-5-20-2-0": {
+      "baseline": "5.20.2",
+      "port-version": 0
     },
     "libsbsms-2-3-0-0": {
       "baseline": "2.3.0",
