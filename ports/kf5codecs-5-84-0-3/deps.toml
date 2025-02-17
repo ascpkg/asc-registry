@@ -1,0 +1,10 @@
+old = "kf5codecs"
+new = "kf5codecs-5-84-0-3"
+
+[deps]
+ecm-5-84-0-2 = "ecm"
+gperf-3-1-2 = "gperf"
+qt5-base-5-15-2-11 = "qt5-base"
+qt5-tools-5-15-2-1 = "qt5-tools"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"
