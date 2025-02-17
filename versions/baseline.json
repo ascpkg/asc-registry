@@ -56508,6 +56508,10 @@
       "baseline": "1.0.1",
       "port-version": 0
     },
+    "libmicrohttpd-1-0-1-1": {
+      "baseline": "1.0.1",
+      "port-version": 1
+    },
     "libmikmod--0": {
       "baseline": "",
       "port-version": 0
@@ -60844,6 +60848,10 @@
       "baseline": "1.0.27",
       "port-version": 0
     },
+    "libusb-1-0-27-1": {
+      "baseline": "1.0.27",
+      "port-version": 1
+    },
     "libusb-win32-1-2-6-0-0": {
       "baseline": "1.2.6.0",
       "port-version": 0
@@ -61335,6 +61343,10 @@
     "libvpx-1-13-1-2": {
       "baseline": "1.13.1",
       "port-version": 2
+    },
+    "libvpx-1-13-1-3": {
+      "baseline": "1.13.1",
+      "port-version": 3
     },
     "libvpx-1-6-1-1-0": {
       "baseline": "1.6.1-1",
@@ -66995,6 +67007,10 @@
     "mp3lame-3-100-11": {
       "baseline": "3.100",
       "port-version": 11
+    },
+    "mp3lame-3-100-12": {
+      "baseline": "3.100",
+      "port-version": 12
     },
     "mp3lame-3-100-3-0": {
       "baseline": "3.100-3",
@@ -92855,6 +92871,10 @@
     "sdl1-1-2-15-19": {
       "baseline": "1.2.15",
       "port-version": 19
+    },
+    "sdl1-1-2-15-20": {
+      "baseline": "1.2.15",
+      "port-version": 20
     },
     "sdl1-1-2-15-3-0": {
       "baseline": "1.2.15-3",
