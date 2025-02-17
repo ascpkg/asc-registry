@@ -29780,6 +29780,10 @@
       "baseline": "0.9.5-d16ea6-1",
       "port-version": 0
     },
+    "tinyexr-2020-03-15-0": {
+      "baseline": "2020-03-15",
+      "port-version": 0
+    },
     "tinyexr-v0-9-5-d16ea6-0": {
       "baseline": "v0.9.5-d16ea6",
       "port-version": 0
