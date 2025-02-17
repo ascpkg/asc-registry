@@ -2952,6 +2952,10 @@
       "baseline": "1.9.220",
       "port-version": 0
     },
+    "aws-sdk-cpp-1-9-220-1": {
+      "baseline": "1.9.220",
+      "port-version": 1
+    },
     "aws-sdk-cpp-1-9-96-0": {
       "baseline": "1.9.96",
       "port-version": 0
@@ -3123,6 +3127,10 @@
     "azure-c-shared-utility-2022-01-21-2": {
       "baseline": "2022-01-21",
       "port-version": 2
+    },
+    "azure-c-shared-utility-2022-01-21-3": {
+      "baseline": "2022-01-21",
+      "port-version": 3
     },
     "azure-core-cpp-1-0-0-0": {
       "baseline": "1.0.0",
@@ -28820,6 +28828,10 @@
       "baseline": "1.0.12",
       "port-version": 6
     },
+    "idevicerestore-1-0-12-7": {
+      "baseline": "1.0.12",
+      "port-version": 7
+    },
     "if97-2-1-0-0": {
       "baseline": "2.1.0",
       "port-version": 0
@@ -33124,6 +33136,10 @@
       "baseline": "0.16.4",
       "port-version": 0
     },
+    "libdatachannel-0-16-4-1": {
+      "baseline": "0.16.4",
+      "port-version": 1
+    },
     "libdatachannel-v0-10-1-0": {
       "baseline": "v0.10.1",
       "port-version": 0
@@ -35568,6 +35584,10 @@
       "baseline": "8.0.20",
       "port-version": 5
     },
+    "libmysql-8-0-20-6": {
+      "baseline": "8.0.20",
+      "port-version": 6
+    },
     "libmysql-8-0-4-0": {
       "baseline": "8.0.4",
       "port-version": 0
@@ -36636,6 +36656,10 @@
       "baseline": "0.11.0",
       "port-version": 0
     },
+    "librabbitmq-0-11-0-1": {
+      "baseline": "0.11.0",
+      "port-version": 1
+    },
     "librabbitmq-0-8-0-0": {
       "baseline": "0.8.0",
       "port-version": 0
@@ -36959,6 +36983,10 @@
     "librtmp-2019-11-11-2": {
       "baseline": "2019-11-11",
       "port-version": 2
+    },
+    "librtmp-2019-11-11-3": {
+      "baseline": "2019-11-11",
+      "port-version": 3
     },
     "librttopo-1-1-0-2-0": {
       "baseline": "1.1.0-2",
@@ -37532,6 +37560,10 @@
       "baseline": "1.10.0",
       "port-version": 3
     },
+    "libssh2-1-10-0-4": {
+      "baseline": "1.10.0",
+      "port-version": 4
+    },
     "libssh2-1-8-0-0": {
       "baseline": "1.8.0",
       "port-version": 0
@@ -37875,6 +37907,10 @@
     "libu2f-server-1-1-0-3": {
       "baseline": "1.1.0",
       "port-version": 3
+    },
+    "libu2f-server-1-1-0-4": {
+      "baseline": "1.1.0",
+      "port-version": 4
     },
     "libudis86-2018-01-28-56ff6c87-0": {
       "baseline": "2018-01-28-56ff6c87",
@@ -38815,6 +38851,10 @@
     "libwebsockets-4-3-0-2": {
       "baseline": "4.3.0",
       "port-version": 2
+    },
+    "libwebsockets-4-3-0-3": {
+      "baseline": "4.3.0",
+      "port-version": 3
     },
     "libxdiff-0-23-0": {
       "baseline": "0.23",
@@ -40027,6 +40067,10 @@
     "luasec-1-0-1-0": {
       "baseline": "1.0.1",
       "port-version": 0
+    },
+    "luasec-1-0-1-1": {
+      "baseline": "1.0.1",
+      "port-version": 1
     },
     "luasocket-2017-05-25-5a17f79b0301f0a1b4c7f1c73388757a7e2ed309-0": {
       "baseline": "2017.05.25.5a17f79b0301f0a1b4c7f1c73388757a7e2ed309",
@@ -44916,6 +44960,10 @@
       "baseline": "1.2.3",
       "port-version": 0
     },
+    "open62541-1-2-3-1": {
+      "baseline": "1.2.3",
+      "port-version": 1
+    },
     "openal-soft-1-17-2-0": {
       "baseline": "1.17.2",
       "port-version": 0
@@ -46671,6 +46719,10 @@
     "openssl-1-1-1n-1": {
       "baseline": "1.1.1n",
       "port-version": 1
+    },
+    "openssl-3-0-2-0": {
+      "baseline": "3.0.2",
+      "port-version": 0
     },
     "openssl-microsoft-1-0-2-winrt-stable-0": {
       "baseline": "1.0.2-winrt-stable",
@@ -51187,6 +51239,10 @@
     "qpid-proton-0-32-0-3": {
       "baseline": "0.32.0",
       "port-version": 3
+    },
+    "qpid-proton-0-32-0-4": {
+      "baseline": "0.32.0",
+      "port-version": 4
     },
     "qscintilla-2-10-0": {
       "baseline": "2.10",
@@ -64671,6 +64727,10 @@
     "uthenticode-1-0-6-1": {
       "baseline": "1.0.6",
       "port-version": 1
+    },
+    "uthenticode-1-0-6-2": {
+      "baseline": "1.0.6",
+      "port-version": 2
     },
     "uvatlas-2021-11-08-0": {
       "baseline": "2021-11-08",
