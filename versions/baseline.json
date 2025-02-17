@@ -1480,6 +1480,10 @@
       "baseline": "4.2.0",
       "port-version": 0
     },
+    "zeromq-4-2-2-0": {
+      "baseline": "4.2.2",
+      "port-version": 0
+    },
     "zeromq-4-2-x-1a02b1b3f2-0": {
       "baseline": "4.2.x.1a02b1b3f2",
       "port-version": 0
