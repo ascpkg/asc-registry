@@ -23444,6 +23444,10 @@
       "baseline": "2.13.94",
       "port-version": 6
     },
+    "fontconfig-2-14-0-0": {
+      "baseline": "2.14.0",
+      "port-version": 0
+    },
     "foonathan-memory-2019-07-21-0": {
       "baseline": "2019-07-21",
       "port-version": 0
