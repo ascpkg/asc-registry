@@ -22212,6 +22212,10 @@
       "baseline": "22.03",
       "port-version": 3
     },
+    "dpdk-22-07-0": {
+      "baseline": "22.07",
+      "port-version": 0
+    },
     "dpp-10-0-15-0": {
       "baseline": "10.0.15",
       "port-version": 0
