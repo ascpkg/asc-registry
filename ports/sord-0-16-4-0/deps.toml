@@ -1,0 +1,5 @@
+old = "sord"
+new = "sord-0-16-4-0"
+
+[deps]
+serd-0-30-4-0 = "serd"
