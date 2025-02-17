@@ -16448,6 +16448,10 @@
       "baseline": "1.2.5",
       "port-version": 0
     },
+    "cwalk-1-2-6-0": {
+      "baseline": "1.2.6",
+      "port-version": 0
+    },
     "cxxopts-1-3-0-0": {
       "baseline": "1.3.0",
       "port-version": 0
