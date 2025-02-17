@@ -14108,6 +14108,10 @@
       "baseline": "2019.10.21.00",
       "port-version": 4
     },
+    "folly-2019-10-21-00-5": {
+      "baseline": "2019.10.21.00",
+      "port-version": 5
+    },
     "folly-v2017-05-08-00-0": {
       "baseline": "v2017.05.08.00",
       "port-version": 0
@@ -26960,9 +26964,17 @@
       "baseline": "2.4.13.7-2",
       "port-version": 0
     },
+    "opencv2-2-4-13-7-3": {
+      "baseline": "2.4.13.7",
+      "port-version": 3
+    },
     "opencv3-3-4-10-0": {
       "baseline": "3.4.10",
       "port-version": 0
+    },
+    "opencv3-3-4-10-1": {
+      "baseline": "3.4.10",
+      "port-version": 1
     },
     "opencv3-3-4-3-10-0": {
       "baseline": "3.4.3-10",
@@ -29283,6 +29295,10 @@
     "plplot-5-13-0-8-0": {
       "baseline": "5.13.0-8",
       "port-version": 0
+    },
+    "plplot-5-13-0-9": {
+      "baseline": "5.13.0",
+      "port-version": 9
     },
     "plustache-0-4-0-1-0": {
       "baseline": "0.4.0-1",
