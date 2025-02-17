@@ -1,0 +1,11 @@
+old = "libgit2"
+new = "libgit2-1-1-0-0"
+
+[deps]
+http-parser-2-9-4-0 = "http-parser"
+libssh2-1-9-0-0 = "libssh2"
+mbedtls-2-24-0-1 = "mbedtls"
+openssl-1-1-1g-1 = "openssl"
+pcre-8-44-7 = "pcre"
+pcre2-10-35-2 = "pcre2"
+zlib-1-2-11-9 = "zlib"
