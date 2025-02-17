@@ -8672,6 +8672,10 @@
       "baseline": "3.2.1-12",
       "port-version": 0
     },
+    "clapack-3-2-1-13-0": {
+      "baseline": "3.2.1-13",
+      "port-version": 0
+    },
     "clapack-3-2-1-2-0": {
       "baseline": "3.2.1-2",
       "port-version": 0
