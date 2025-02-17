@@ -62848,6 +62848,10 @@
       "baseline": "9.1.3",
       "port-version": 0
     },
+    "llhttp-9-2-0-0": {
+      "baseline": "9.2.0",
+      "port-version": 0
+    },
     "llvm-10-0-0-0": {
       "baseline": "10.0.0",
       "port-version": 0
