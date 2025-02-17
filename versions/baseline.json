@@ -41288,6 +41288,10 @@
       "baseline": "7.4.8",
       "port-version": 0
     },
+    "xsimd-7-4-9-0": {
+      "baseline": "7.4.9",
+      "port-version": 0
+    },
     "xtensor-0-19-3-0": {
       "baseline": "0.19.3",
       "port-version": 0
@@ -41322,6 +41326,10 @@
     },
     "xtensor-0-21-6-0": {
       "baseline": "0.21.6",
+      "port-version": 0
+    },
+    "xtensor-0-21-9-0": {
+      "baseline": "0.21.9",
       "port-version": 0
     },
     "xtensor-2019-01-20-0": {
@@ -41378,6 +41386,10 @@
     },
     "xtl-0-6-18-0": {
       "baseline": "0.6.18",
+      "port-version": 0
+    },
+    "xtl-0-6-21-0": {
+      "baseline": "0.6.21",
       "port-version": 0
     },
     "xtl-0-6-4-0": {
