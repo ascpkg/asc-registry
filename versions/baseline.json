@@ -17468,6 +17468,10 @@
       "baseline": "4.4",
       "port-version": 11
     },
+    "ffmpeg-4-4-12": {
+      "baseline": "4.4",
+      "port-version": 12
+    },
     "ffmpeg-4-4-2": {
       "baseline": "4.4",
       "port-version": 2
@@ -48751,6 +48755,10 @@
     "vcpkg-cmake-2021-06-25-5": {
       "baseline": "2021-06-25",
       "port-version": 5
+    },
+    "vcpkg-cmake-2021-07-26-0": {
+      "baseline": "2021-07-26",
+      "port-version": 0
     },
     "vcpkg-cmake-config-2021-02-26-0": {
       "baseline": "2021-02-26",
