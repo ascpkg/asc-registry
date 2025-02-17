@@ -1,0 +1,14 @@
+old = "grpc"
+new = "grpc-1-44-0-1"
+
+[deps]
+abseil-20211102-1-0 = "abseil"
+c-ares-1-18-1-1 = "c-ares"
+grpc-1-44-0-1 = "grpc"
+openssl-3-0-3-2 = "openssl"
+protobuf-3-19-4-0 = "protobuf"
+re2-2021-11-01-0 = "re2"
+upb-2021-10-19-0 = "upb"
+vcpkg-cmake-2022-05-10-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"
+zlib-1-2-12-1 = "zlib"
