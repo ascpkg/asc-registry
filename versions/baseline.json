@@ -30972,6 +30972,10 @@
       "baseline": "2.6",
       "port-version": 0
     },
+    "levmar-2-6-1": {
+      "baseline": "2.6",
+      "port-version": 1
+    },
     "libaaplus-2-1-0-0": {
       "baseline": "2.1.0",
       "port-version": 0
