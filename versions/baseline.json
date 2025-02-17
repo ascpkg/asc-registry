@@ -16112,6 +16112,10 @@
       "baseline": "4.3.2",
       "port-version": 5
     },
+    "ffmpeg-4-3-2-6": {
+      "baseline": "4.3.2",
+      "port-version": 6
+    },
     "ffnvcodec-10-0-26-0-0": {
       "baseline": "10.0.26.0",
       "port-version": 0
