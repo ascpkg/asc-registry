@@ -28788,6 +28788,10 @@
       "baseline": "1.7-2",
       "port-version": 0
     },
+    "msix-1-7-3": {
+      "baseline": "1.7",
+      "port-version": 3
+    },
     "msix-msixcoreinstaller-preview-0": {
       "baseline": "msixcoreinstaller-preview",
       "port-version": 0
