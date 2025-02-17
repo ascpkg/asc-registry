@@ -716,6 +716,10 @@
       "baseline": "2.5.1",
       "port-version": 0
     },
+    "ada-url-2-6-0-0": {
+      "baseline": "2.6.0",
+      "port-version": 0
+    },
     "ade-0-1-1d-0": {
       "baseline": "0.1.1d",
       "port-version": 0
