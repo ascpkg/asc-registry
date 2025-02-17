@@ -28304,6 +28304,10 @@
       "baseline": "1.0.0",
       "port-version": 0
     },
+    "kddockwidgets-1-5-0-0": {
+      "baseline": "1.5.0",
+      "port-version": 0
+    },
     "kealib-1-4-11-0": {
       "baseline": "1.4.11",
       "port-version": 0
