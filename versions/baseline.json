@@ -10472,6 +10472,10 @@
       "baseline": "3.1.2",
       "port-version": 0
     },
+    "comms-ublox-0-19-1-0": {
+      "baseline": "0.19.1",
+      "port-version": 0
+    },
     "commsdsl-3-5-2-0": {
       "baseline": "3.5.2",
       "port-version": 0
