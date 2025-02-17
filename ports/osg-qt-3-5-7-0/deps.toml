@@ -3,4 +3,5 @@ new = "osg-qt-3-5-7-0"
 
 [deps]
 osg-3-6-2-rc3-0 = "osg"
-protobuf-3-5-1-5-0 = "protobuf"
+protobuf-3-6-0-1-0 = "protobuf"
+qt5-base-5-9-2-7-0 = "qt5-base"
