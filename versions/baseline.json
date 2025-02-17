@@ -27892,6 +27892,10 @@
       "baseline": "3.12.3",
       "port-version": 1
     },
+    "protobuf-3-12-3-2": {
+      "baseline": "3.12.3",
+      "port-version": 2
+    },
     "protobuf-3-2-0-0": {
       "baseline": "3.2.0",
       "port-version": 0
