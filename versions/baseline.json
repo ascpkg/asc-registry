@@ -13148,6 +13148,10 @@
       "baseline": "3.2.3-1",
       "port-version": 0
     },
+    "gmime-3-2-6-0": {
+      "baseline": "3.2.6",
+      "port-version": 0
+    },
     "gmmlib-18-3-pre2-1-0": {
       "baseline": "18.3.pre2-1",
       "port-version": 0
