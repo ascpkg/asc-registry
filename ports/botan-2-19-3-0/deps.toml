@@ -1,0 +1,7 @@
+old = "botan"
+new = "botan-2-19-3-0"
+
+[deps]
+vcpkg-cmake-get-vars-2022-09-04-0 = "vcpkg-cmake-get-vars"
+vcpkg-pkgconfig-get-modules-2022-02-10-1 = "vcpkg-pkgconfig-get-modules"
+zlib-1-2-13-0 = "zlib"
