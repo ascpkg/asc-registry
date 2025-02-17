@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/shaderwriter-2020-10-15-0",
+      "version-string": "2020-10-15",
+      "port-version": 0
+    }
+  ]
+}
