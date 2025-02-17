@@ -60904,6 +60904,10 @@
       "baseline": "1.22",
       "port-version": 0
     },
+    "libdeflate-1-23-0": {
+      "baseline": "1.23",
+      "port-version": 0
+    },
     "libdisasm-0-23-0": {
       "baseline": "0.23",
       "port-version": 0
