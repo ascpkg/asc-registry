@@ -94236,6 +94236,10 @@
       "baseline": "1.10.1-1",
       "port-version": 0
     },
+    "shiftmedia-libgcrypt-1-10-3-1-0": {
+      "baseline": "1.10.3-1",
+      "port-version": 0
+    },
     "shiftmedia-libgnutls-3-7-6-0": {
       "baseline": "3.7.6",
       "port-version": 0
