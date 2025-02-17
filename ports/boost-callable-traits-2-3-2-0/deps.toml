@@ -1,0 +1,5 @@
+old = "boost-callable-traits"
+new = "boost-callable-traits-2-3-2-0"
+
+[deps]
+boost-vcpkg-helpers-5-0 = "boost-vcpkg-helpers"
