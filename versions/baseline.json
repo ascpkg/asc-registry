@@ -40632,6 +40632,10 @@
       "baseline": "3.3.11.1",
       "port-version": 10
     },
+    "libmikmod-3-3-11-1-11": {
+      "baseline": "3.3.11.1",
+      "port-version": 11
+    },
     "libmikmod-3-3-11-1-2-0": {
       "baseline": "3.3.11.1-2",
       "port-version": 0
