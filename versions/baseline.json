@@ -52052,6 +52052,10 @@
       "baseline": "6.3",
       "port-version": 4
     },
+    "ncurses-6-4-0": {
+      "baseline": "6.4",
+      "port-version": 0
+    },
     "neargye-semver-0-2-2-0": {
       "baseline": "0.2.2",
       "port-version": 0
