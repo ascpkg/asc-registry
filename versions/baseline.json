@@ -41536,6 +41536,10 @@
       "baseline": "4.5.4",
       "port-version": 0
     },
+    "opencv-4-5-4-1": {
+      "baseline": "4.5.4",
+      "port-version": 1
+    },
     "opencv2-2-4-13-7-0": {
       "baseline": "2.4.13.7",
       "port-version": 0
@@ -41575,6 +41579,10 @@
     "opencv2-2-4-13-7-8": {
       "baseline": "2.4.13.7",
       "port-version": 8
+    },
+    "opencv2-2-4-13-7-9": {
+      "baseline": "2.4.13.7",
+      "port-version": 9
     },
     "opencv3-3-4-10-0": {
       "baseline": "3.4.10",
@@ -41639,6 +41647,10 @@
     "opencv3-3-4-16-0": {
       "baseline": "3.4.16",
       "port-version": 0
+    },
+    "opencv3-3-4-16-1": {
+      "baseline": "3.4.16",
+      "port-version": 1
     },
     "opencv3-3-4-3-10-0": {
       "baseline": "3.4.3-10",
@@ -41763,6 +41775,10 @@
     "opencv4-4-5-4-0": {
       "baseline": "4.5.4",
       "port-version": 0
+    },
+    "opencv4-4-5-4-1": {
+      "baseline": "4.5.4",
+      "port-version": 1
     },
     "opendnp3-2-3-2-0": {
       "baseline": "2.3.2",
