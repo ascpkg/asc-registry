@@ -54448,6 +54448,10 @@
       "baseline": "1.0.26.11791",
       "port-version": 1
     },
+    "libusb-1-0-26-11791-2": {
+      "baseline": "1.0.26.11791",
+      "port-version": 2
+    },
     "libusb-1-0-26-2": {
       "baseline": "1.0.26",
       "port-version": 2
