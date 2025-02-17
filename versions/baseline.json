@@ -16,6 +16,10 @@
       "baseline": "7.48.0",
       "port-version": 0
     },
+    "doctest-1-1-0-0": {
+      "baseline": "1.1.0",
+      "port-version": 0
+    },
     "eigen-3-2-9-0": {
       "baseline": "3.2.9",
       "port-version": 0
