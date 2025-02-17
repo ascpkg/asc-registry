@@ -12328,6 +12328,10 @@
       "baseline": "3.3.8-6",
       "port-version": 0
     },
+    "fftw3-3-3-8-7-0": {
+      "baseline": "3.3.8-7",
+      "port-version": 0
+    },
     "fftwpp-2-05-0": {
       "baseline": "2.05",
       "port-version": 0
