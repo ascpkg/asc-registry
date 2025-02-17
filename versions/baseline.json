@@ -49668,6 +49668,10 @@
       "baseline": "0.6.0",
       "port-version": 1
     },
+    "litehtml-0-6-0-2": {
+      "baseline": "0.6.0",
+      "port-version": 2
+    },
     "live555-2017-06-04-0": {
       "baseline": "2017.06.04",
       "port-version": 0
