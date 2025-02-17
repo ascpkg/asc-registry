@@ -13308,6 +13308,10 @@
       "baseline": "2.13.7",
       "port-version": 2
     },
+    "catch2-2-13-8-0": {
+      "baseline": "2.13.8",
+      "port-version": 0
+    },
     "catch2-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
