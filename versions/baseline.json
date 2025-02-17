@@ -48560,6 +48560,10 @@
       "baseline": "1.2.8",
       "port-version": 0
     },
+    "zlib-ng-2-0-3-0": {
+      "baseline": "2.0.3",
+      "port-version": 0
+    },
     "zookeeper-3-5-5-0": {
       "baseline": "3.5.5",
       "port-version": 0
