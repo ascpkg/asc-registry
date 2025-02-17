@@ -51668,6 +51668,10 @@
       "baseline": "0.7.1",
       "port-version": 0
     },
+    "nghttp3-0-8-0-0": {
+      "baseline": "0.8.0",
+      "port-version": 0
+    },
     "ngspice-32-0": {
       "baseline": "32",
       "port-version": 0
