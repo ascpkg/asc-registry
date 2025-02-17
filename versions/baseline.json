@@ -23256,6 +23256,10 @@
       "baseline": "7.0.3",
       "port-version": 5
     },
+    "chipmunk-7-0-3-6": {
+      "baseline": "7.0.3",
+      "port-version": 6
+    },
     "chmlib-0-40-0": {
       "baseline": "0.40",
       "port-version": 0
