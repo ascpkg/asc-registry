@@ -1736,6 +1736,10 @@
       "baseline": "2018-03-07",
       "port-version": 0
     },
+    "clblas-2-12-1-0": {
+      "baseline": "2.12-1",
+      "port-version": 0
+    },
     "clfft-2-12-2-0": {
       "baseline": "2.12.2",
       "port-version": 0
