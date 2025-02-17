@@ -10540,6 +10540,10 @@
       "baseline": "0.2",
       "port-version": 0
     },
+    "pixel-0-3-0": {
+      "baseline": "0.3",
+      "port-version": 0
+    },
     "pixman-0-34-0-0": {
       "baseline": "0.34.0",
       "port-version": 0
