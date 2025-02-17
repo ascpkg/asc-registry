@@ -25280,6 +25280,10 @@
       "baseline": "4.6.4",
       "port-version": 2
     },
+    "octomap-1-9-5-0": {
+      "baseline": "1.9.5",
+      "port-version": 0
+    },
     "octomap-2017-03-11-7-0": {
       "baseline": "2017-03-11-7",
       "port-version": 0
