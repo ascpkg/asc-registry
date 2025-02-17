@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/zeroc-ice-3-7-9-4",
+      "version": "3.7.9",
+      "port-version": 4
+    }
+  ]
+}
