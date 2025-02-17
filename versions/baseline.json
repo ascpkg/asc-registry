@@ -45932,6 +45932,10 @@
       "baseline": "5.15.2",
       "port-version": 13
     },
+    "qt5-base-5-15-2-14": {
+      "baseline": "5.15.2",
+      "port-version": 14
+    },
     "qt5-base-5-15-2-2": {
       "baseline": "5.15.2",
       "port-version": 2
@@ -48215,6 +48219,10 @@
     "qtbase-6-2-1-0": {
       "baseline": "6.2.1",
       "port-version": 0
+    },
+    "qtbase-6-2-1-1": {
+      "baseline": "6.2.1",
+      "port-version": 1
     },
     "qtcharts-6-1-0-0": {
       "baseline": "6.1.0",
