@@ -260,6 +260,10 @@
       "baseline": "2018-02-23",
       "port-version": 0
     },
+    "args-2018-05-17-0": {
+      "baseline": "2018-05-17",
+      "port-version": 0
+    },
     "args-d8905de-0": {
       "baseline": "d8905de",
       "port-version": 0
@@ -510,6 +514,10 @@
     },
     "aws-sdk-cpp-1-4-40-0": {
       "baseline": "1.4.40",
+      "port-version": 0
+    },
+    "aws-sdk-cpp-1-4-52-0": {
+      "baseline": "1.4.52",
       "port-version": 0
     },
     "azmq-1-0-2-0": {
@@ -2568,6 +2576,10 @@
       "baseline": "1.8.3",
       "port-version": 0
     },
+    "chakracore-1-8-4-0": {
+      "baseline": "1.8.4",
+      "port-version": 0
+    },
     "charls-2-0-0-0": {
       "baseline": "2.0.0",
       "port-version": 0
@@ -2598,6 +2610,10 @@
     },
     "cimg-2-2-2-0": {
       "baseline": "2.2.2",
+      "port-version": 0
+    },
+    "cimg-2-2-3-0": {
+      "baseline": "2.2.3",
       "port-version": 0
     },
     "cimg-220-0": {
@@ -3064,6 +3080,10 @@
       "baseline": "feb2018-eb751e0b631b05aa25c36c08e7d6bbf09f5e94a9",
       "port-version": 0
     },
+    "directxmesh-may2018-0": {
+      "baseline": "may2018",
+      "port-version": 0
+    },
     "directxmesh-oct2016-0": {
       "baseline": "oct2016",
       "port-version": 0
@@ -3084,6 +3104,10 @@
       "baseline": "feb2018b",
       "port-version": 0
     },
+    "directxtex-may2018-0": {
+      "baseline": "may2018",
+      "port-version": 0
+    },
     "directxtk-apr2018-0": {
       "baseline": "apr2018",
       "port-version": 0
@@ -3102,6 +3126,10 @@
     },
     "directxtk-feb2018-0": {
       "baseline": "feb2018",
+      "port-version": 0
+    },
+    "directxtk-may2018-0": {
+      "baseline": "may2018",
       "port-version": 0
     },
     "directxtk-oct2016-0": {
@@ -3234,6 +3262,10 @@
     },
     "doctest-1-2-8-0": {
       "baseline": "1.2.8",
+      "port-version": 0
+    },
+    "doctest-1-2-9-0": {
+      "baseline": "1.2.9",
       "port-version": 0
     },
     "double-conversion-2-0-1-0": {
@@ -3436,6 +3468,10 @@
       "baseline": "2.4.2-1",
       "port-version": 0
     },
+    "entt-2-5-0-0": {
+      "baseline": "2.5.0",
+      "port-version": 0
+    },
     "epsilon-0-9-2-0": {
       "baseline": "0.9.2",
       "port-version": 0
@@ -3506,6 +3542,10 @@
     },
     "exiv2-2018-04-25-0": {
       "baseline": "2018-04-25",
+      "port-version": 0
+    },
+    "exiv2-2018-05-17-0": {
+      "baseline": "2018-05-17",
       "port-version": 0
     },
     "exiv2-327b3f6c4de4ffda82818367fc870640d2ae8820-0": {
@@ -3606,6 +3646,10 @@
     },
     "fdk-aac-2018-03-07-0": {
       "baseline": "2018-03-07",
+      "port-version": 0
+    },
+    "fdk-aac-2018-05-17-0": {
+      "baseline": "2018-05-17",
       "port-version": 0
     },
     "ffmpeg-3-2-4-0": {
@@ -3910,6 +3954,10 @@
     },
     "forest-7-0-6-0": {
       "baseline": "7.0.6",
+      "port-version": 0
+    },
+    "forest-7-0-7-0": {
+      "baseline": "7.0.7",
       "port-version": 0
     },
     "freeglut-3-0-0-0": {
@@ -5128,6 +5176,10 @@
       "baseline": "2018-05-01",
       "port-version": 0
     },
+    "jsonnet-2018-05-17-0": {
+      "baseline": "2018-05-17",
+      "port-version": 0
+    },
     "jxrlib-1-1-0": {
       "baseline": "1.1",
       "port-version": 0
@@ -6180,6 +6232,10 @@
       "baseline": "1.20.2",
       "port-version": 0
     },
+    "libuv-1-20-3-0": {
+      "baseline": "1.20.3",
+      "port-version": 0
+    },
     "libuv-1-9-1-0": {
       "baseline": "1.9.1",
       "port-version": 0
@@ -6278,6 +6334,10 @@
     },
     "libwebsockets-2-4-2-0": {
       "baseline": "2.4.2",
+      "port-version": 0
+    },
+    "libwebsockets-3-0-0-0": {
+      "baseline": "3.0.0",
       "port-version": 0
     },
     "libxml2-2-9-4-0": {
@@ -6434,6 +6494,10 @@
     },
     "lodepng-2018-02-25-0": {
       "baseline": "2018-02-25",
+      "port-version": 0
+    },
+    "lodepng-2018-05-17-0": {
+      "baseline": "2018-05-17",
       "port-version": 0
     },
     "log4cplus-1-1-3-rc7-0": {
@@ -6952,6 +7016,10 @@
       "baseline": "2018-05-01",
       "port-version": 0
     },
+    "ms-gsl-2018-05-17-0": {
+      "baseline": "2018-05-17",
+      "port-version": 0
+    },
     "msgpack-2-1-1-0": {
       "baseline": "2.1.1",
       "port-version": 0
@@ -6998,6 +7066,10 @@
     },
     "mujs-2018-05-01-0": {
       "baseline": "2018-05-01",
+      "port-version": 0
+    },
+    "mujs-2018-05-17-0": {
+      "baseline": "2018-05-17",
       "port-version": 0
     },
     "mujs-25821e6d74fab5fcc200fe5e818362e03e114428-0": {
@@ -7174,6 +7246,10 @@
     },
     "nuklear-2018-04-25-0": {
       "baseline": "2018-04-25",
+      "port-version": 0
+    },
+    "nuklear-2018-05-17-0": {
+      "baseline": "2018-05-17",
       "port-version": 0
     },
     "nvml-1-3-0-0": {
@@ -7770,6 +7846,10 @@
     },
     "parson-2018-04-17-0": {
       "baseline": "2018-04-17",
+      "port-version": 0
+    },
+    "parson-2018-05-17-0": {
+      "baseline": "2018-05-17",
       "port-version": 0
     },
     "pcl-1-8-0-0": {
@@ -8700,6 +8780,10 @@
       "baseline": "2018-05-01",
       "port-version": 0
     },
+    "re2-2018-05-17-0": {
+      "baseline": "2018-05-17",
+      "port-version": 0
+    },
     "readosm-1-1-0-0": {
       "baseline": "1.1.0",
       "port-version": 0
@@ -8836,6 +8920,10 @@
       "baseline": "5.12.4",
       "port-version": 0
     },
+    "rocksdb-5-13-1-0": {
+      "baseline": "5.13.1",
+      "port-version": 0
+    },
     "rocksdb-5-4-6-0": {
       "baseline": "5.4.6",
       "port-version": 0
@@ -8890,6 +8978,10 @@
     },
     "rs-core-lib-2018-05-01-0": {
       "baseline": "2018-05-01",
+      "port-version": 0
+    },
+    "rs-core-lib-2018-05-17-0": {
+      "baseline": "2018-05-17",
       "port-version": 0
     },
     "rs-core-lib-commit-1ed2dadbda3977b13e5e83cc1f3eeca76b36ebe5-0": {
@@ -9872,6 +9964,10 @@
       "baseline": "2018-05-01",
       "port-version": 0
     },
+    "thrift-2018-05-17-0": {
+      "baseline": "2018-05-17",
+      "port-version": 0
+    },
     "thrift-latest-0": {
       "baseline": "latest",
       "port-version": 0
@@ -10052,6 +10148,10 @@
       "baseline": "2018-04-25",
       "port-version": 0
     },
+    "unicorn-2018-05-17-0": {
+      "baseline": "2018-05-17",
+      "port-version": 0
+    },
     "unicorn-lib-2018-02-25-0": {
       "baseline": "2018-02-25",
       "port-version": 0
@@ -10066,6 +10166,10 @@
     },
     "unicorn-lib-2018-05-01-0": {
       "baseline": "2018-05-01",
+      "port-version": 0
+    },
+    "unicorn-lib-2018-05-17-0": {
+      "baseline": "2018-05-17",
       "port-version": 0
     },
     "unicorn-lib-commit-3ffa7fe69a1d0c37fb52a4af61380c5fd84fa5aa-0": {
@@ -10570,6 +10674,10 @@
     },
     "zeromq-2018-05-01-0": {
       "baseline": "2018-05-01",
+      "port-version": 0
+    },
+    "zeromq-2018-05-17-0": {
+      "baseline": "2018-05-17",
       "port-version": 0
     },
     "zeromq-4-2-0-0": {
