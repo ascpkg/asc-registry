@@ -1,0 +1,13 @@
+old = "hypodermic"
+new = "hypodermic-2023-03-03-0"
+
+[deps]
+boost-algorithm-1-85-0-1 = "boost-algorithm"
+boost-config-1-85-0-1 = "boost-config"
+boost-format-1-85-0-1 = "boost-format"
+boost-range-1-85-0-1 = "boost-range"
+boost-signals2-1-85-0-1 = "boost-signals2"
+boost-system-1-85-0-1 = "boost-system"
+boost-test-1-85-0-1 = "boost-test"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
