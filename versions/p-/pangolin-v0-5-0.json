@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/pangolin-v0-5-0",
+      "version": "v0.5",
+      "port-version": 0
+    }
+  ]
+}
