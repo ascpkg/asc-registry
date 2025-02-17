@@ -41544,6 +41544,10 @@
       "baseline": "1.22.5",
       "port-version": 1
     },
+    "gstreamer-1-22-5-2": {
+      "baseline": "1.22.5",
+      "port-version": 2
+    },
     "gtest-1-10-0-0": {
       "baseline": "1.10.0",
       "port-version": 0
