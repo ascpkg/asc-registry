@@ -49288,6 +49288,10 @@
       "baseline": "2.3.0",
       "port-version": 1
     },
+    "json-schema-validator-2-3-0-2": {
+      "baseline": "2.3.0",
+      "port-version": 2
+    },
     "json-spirit-4-1-0-0": {
       "baseline": "4.1.0",
       "port-version": 0
