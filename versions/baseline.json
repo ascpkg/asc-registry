@@ -99872,6 +99872,10 @@
       "baseline": "5.1",
       "port-version": 1
     },
+    "rmlui-6-0-0": {
+      "baseline": "6.0",
+      "port-version": 0
+    },
     "rmqcpp-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
