@@ -46856,6 +46856,10 @@
       "baseline": "3.7.2",
       "port-version": 0
     },
+    "qt-advanced-docking-system-3-8-0-0": {
+      "baseline": "3.8.0",
+      "port-version": 0
+    },
     "qt5-3d-5-11-1-0": {
       "baseline": "5.11.1",
       "port-version": 0
