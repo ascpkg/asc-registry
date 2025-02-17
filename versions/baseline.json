@@ -57600,6 +57600,10 @@
       "baseline": "0.7",
       "port-version": 2
     },
+    "sockpp-2022-01-24-0": {
+      "baseline": "2022-01-24",
+      "port-version": 0
+    },
     "soem-1-4-0-0": {
       "baseline": "1.4.0",
       "port-version": 0
