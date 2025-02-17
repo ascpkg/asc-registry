@@ -59548,6 +59548,10 @@
       "baseline": "2.70",
       "port-version": 0
     },
+    "libcap-2-71-0": {
+      "baseline": "2.71",
+      "port-version": 0
+    },
     "libcbor-0-10-2-0": {
       "baseline": "0.10.2",
       "port-version": 0
