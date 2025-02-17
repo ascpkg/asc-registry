@@ -1,0 +1,9 @@
+old = "libxpm"
+new = "libxpm-3-5-11-1"
+
+[deps]
+gettext-0-21-9 = "gettext"
+libx11-1-7-3-1-1 = "libx11"
+vcpkg-cmake-2022-07-18-0 = "vcpkg-cmake"
+xorg-macros-1-19-3-0 = "xorg-macros"
+xproto-2021-5-0 = "xproto"
