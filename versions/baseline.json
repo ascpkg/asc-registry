@@ -1204,6 +1204,10 @@
       "baseline": "2.18.1",
       "port-version": 1
     },
+    "arb-2-21-1-0": {
+      "baseline": "2.21.1",
+      "port-version": 0
+    },
     "arcus-4-10-0-0": {
       "baseline": "4.10.0",
       "port-version": 0
@@ -20456,6 +20460,10 @@
       "baseline": "2.5.2",
       "port-version": 5
     },
+    "flint-2-8-0-0": {
+      "baseline": "2.8.0",
+      "port-version": 0
+    },
     "fltk-1-3-4-1-0": {
       "baseline": "1.3.4-1",
       "port-version": 0
@@ -22643,6 +22651,10 @@
     "getdns-1-6-0-2": {
       "baseline": "1.6.0",
       "port-version": 2
+    },
+    "getdns-1-7-0-0": {
+      "baseline": "1.7.0",
+      "port-version": 0
     },
     "getopt-0-0": {
       "baseline": "0",
