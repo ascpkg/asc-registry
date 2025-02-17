@@ -101892,6 +101892,10 @@
       "baseline": "2023-08-12",
       "port-version": 0
     },
+    "zoe-3-0-0": {
+      "baseline": "3.0",
+      "port-version": 0
+    },
     "zookeeper-3-5-5-0": {
       "baseline": "3.5.5",
       "port-version": 0
