@@ -1,0 +1,10 @@
+{
+  "name": "xcb-util-errors-1-0-1-0",
+  "version": "1.0.1",
+  "description": "XCB utility library that gives human readable names to error, event, & request codes.",
+  "homepage": "https://xcb.freedesktop.org/",
+  "dependencies": [
+    "xcb",
+    "xcb-util"
+  ]
+}

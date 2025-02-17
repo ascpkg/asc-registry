@@ -1,0 +1,8 @@
+old = "xcb-util-wm"
+new = "xcb-util-wm-0-4-2-0"
+
+[deps]
+bzip2-1-0-8-3 = "bzip2"
+xcb-1-14-0 = "xcb"
+xorg-macros-1-19-3-0 = "xorg-macros"
+xproto-2021-5-0 = "xproto"
