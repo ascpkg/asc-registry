@@ -1,0 +1,11 @@
+old = "wasmedge"
+new = "wasmedge-0-12-0-alpha-1-1"
+
+[deps]
+boost-algorithm-1-82-0-1 = "boost-algorithm"
+boost-align-1-82-0-1 = "boost-align"
+boost-predef-1-82-0-1 = "boost-predef"
+llvm-15-0-7-2 = "llvm"
+spdlog-1-11-0-0 = "spdlog"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
