@@ -26516,6 +26516,10 @@
       "baseline": "5.6.0",
       "port-version": 0
     },
+    "libharu-2017-08-15-10": {
+      "baseline": "2017-08-15",
+      "port-version": 10
+    },
     "libharu-2017-08-15-8-0": {
       "baseline": "2017-08-15-8",
       "port-version": 0
