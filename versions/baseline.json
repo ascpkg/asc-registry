@@ -12956,6 +12956,10 @@
       "baseline": "4.0-3",
       "port-version": 0
     },
+    "libtins-4-2-0": {
+      "baseline": "4.2",
+      "port-version": 0
+    },
     "libtorrent-1-1-4-0": {
       "baseline": "1.1.4",
       "port-version": 0
