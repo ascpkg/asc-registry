@@ -50684,6 +50684,10 @@
       "baseline": "0.32.0",
       "port-version": 2
     },
+    "qpid-proton-0-32-0-3": {
+      "baseline": "0.32.0",
+      "port-version": 3
+    },
     "qscintilla-2-10-0": {
       "baseline": "2.10",
       "port-version": 0
