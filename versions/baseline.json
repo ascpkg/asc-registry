@@ -32376,6 +32376,10 @@
       "baseline": "3.9.0",
       "port-version": 0
     },
+    "python3-3-9-0-1": {
+      "baseline": "3.9.0",
+      "port-version": 1
+    },
     "qca-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
