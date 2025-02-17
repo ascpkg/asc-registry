@@ -1,0 +1,5 @@
+{
+  "name": "ignition-modularscripts-2022-05-11-0",
+  "version-date": "2022-05-11",
+  "description": "Vcpkg helpers to package ignition libraries"
+}

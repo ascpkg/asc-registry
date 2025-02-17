@@ -1,0 +1,12 @@
+old = "ignition-transport9"
+new = "ignition-transport9-9-0-0-4"
+
+[deps]
+cppzmq-4-8-1-0 = "cppzmq"
+ignition-cmake2-2-5-0-2 = "ignition-cmake2"
+ignition-modularscripts-2022-05-11-0 = "ignition-modularscripts"
+ignition-msgs6-6-0-0-4 = "ignition-msgs6"
+libuuid-1-0-3-11 = "libuuid"
+protobuf-3-19-4-0 = "protobuf"
+sqlite3-3-37-2-1 = "sqlite3"
+zeromq-4-3-4-5 = "zeromq"
