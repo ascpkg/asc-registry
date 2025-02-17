@@ -67956,6 +67956,10 @@
       "baseline": "3.1.5",
       "port-version": 1
     },
+    "wxwidgets-3-1-5-10": {
+      "baseline": "3.1.5",
+      "port-version": 10
+    },
     "wxwidgets-3-1-5-2": {
       "baseline": "3.1.5",
       "port-version": 2
