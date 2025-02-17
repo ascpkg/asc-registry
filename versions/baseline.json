@@ -2776,6 +2776,10 @@
       "baseline": "16.1.0",
       "port-version": 0
     },
+    "arrow-16-1-0-1": {
+      "baseline": "16.1.0",
+      "port-version": 1
+    },
     "arrow-3-0-0-0": {
       "baseline": "3.0.0",
       "port-version": 0
@@ -30019,6 +30023,10 @@
     "concurrencpp-0-1-7-0": {
       "baseline": "0.1.7",
       "port-version": 0
+    },
+    "concurrencpp-0-1-7-1": {
+      "baseline": "0.1.7",
+      "port-version": 1
     },
     "concurrentqueue-1-0-0-beta-0": {
       "baseline": "1.0.0-beta",
@@ -94395,6 +94403,10 @@
     "qtwebengine-6-7-0-2": {
       "baseline": "6.7.0",
       "port-version": 2
+    },
+    "qtwebengine-6-7-0-3": {
+      "baseline": "6.7.0",
+      "port-version": 3
     },
     "qtwebsockets-6-2-0-0": {
       "baseline": "6.2.0",
