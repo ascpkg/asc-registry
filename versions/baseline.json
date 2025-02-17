@@ -17756,6 +17756,10 @@
       "baseline": "1.9.0-3",
       "port-version": 0
     },
+    "flatbuffers-2-0-0-0": {
+      "baseline": "2.0.0",
+      "port-version": 0
+    },
     "flint-2-5-2-0": {
       "baseline": "2.5.2",
       "port-version": 0
@@ -31279,6 +31283,10 @@
     "mnn-1-1-0-0": {
       "baseline": "1.1.0",
       "port-version": 0
+    },
+    "mnn-1-1-0-1": {
+      "baseline": "1.1.0",
+      "port-version": 1
     },
     "modp-base64--0": {
       "baseline": "",
