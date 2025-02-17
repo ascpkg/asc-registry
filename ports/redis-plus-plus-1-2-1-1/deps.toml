@@ -1,0 +1,5 @@
+old = "redis-plus-plus"
+new = "redis-plus-plus-1-2-1-1"
+
+[deps]
+hiredis-1-0-0-0 = "hiredis"
