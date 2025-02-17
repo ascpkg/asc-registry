@@ -26216,6 +26216,10 @@
       "baseline": "0.103.0",
       "port-version": 4
     },
+    "clamav-0-103-11-0": {
+      "baseline": "0.103.11",
+      "port-version": 0
+    },
     "clap-cleveraudio-1-1-10-0": {
       "baseline": "1.1.10",
       "port-version": 0
@@ -48207,6 +48211,10 @@
     "json-c-2022-06-26-3": {
       "baseline": "2022-06-26",
       "port-version": 3
+    },
+    "json-c-2023-08-12-0": {
+      "baseline": "2023-08-12",
+      "port-version": 0
     },
     "json-dto-0-2-10-0": {
       "baseline": "0.2.10",
