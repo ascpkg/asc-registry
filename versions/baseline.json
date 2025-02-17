@@ -40488,6 +40488,10 @@
       "baseline": "13.0.0",
       "port-version": 2
     },
+    "glslang-13-1-1-0": {
+      "baseline": "13.1.1",
+      "port-version": 0
+    },
     "glslang-1c573fbcfba6b3d631008b1babc838501ca925d3-0": {
       "baseline": "1c573fbcfba6b3d631008b1babc838501ca925d3",
       "port-version": 0
@@ -90579,6 +90583,10 @@
     "shaderc-2021-1-4": {
       "baseline": "2021.1",
       "port-version": 4
+    },
+    "shaderc-2023-7-0": {
+      "baseline": "2023.7",
+      "port-version": 0
     },
     "shaderc-2df47b51d83ad83cbc2e7f8ff2b56776293e8958-0": {
       "baseline": "2df47b51d83ad83cbc2e7f8ff2b56776293e8958",
