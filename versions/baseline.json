@@ -6048,6 +6048,10 @@
       "baseline": "4.0.0-beta.4",
       "port-version": 1
     },
+    "azure-security-keyvault-administration-cpp-4-0-0-beta-5-0": {
+      "baseline": "4.0.0-beta.5",
+      "port-version": 0
+    },
     "azure-security-keyvault-certificates-cpp-4-0-0-0": {
       "baseline": "4.0.0",
       "port-version": 0
