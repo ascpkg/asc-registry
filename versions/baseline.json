@@ -81412,6 +81412,10 @@
       "baseline": "2.14.1",
       "port-version": 0
     },
+    "qscintilla-2-14-1-1": {
+      "baseline": "2.14.1",
+      "port-version": 1
+    },
     "qt-6-1-0-0": {
       "baseline": "6.1.0",
       "port-version": 0
