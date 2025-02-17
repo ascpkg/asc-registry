@@ -24248,6 +24248,10 @@
       "baseline": "0.3.1",
       "port-version": 5
     },
+    "cppkafka-0-4-0-0": {
+      "baseline": "0.4.0",
+      "port-version": 0
+    },
     "cppmicroservices-3-4-0-1-0": {
       "baseline": "3.4.0-1",
       "port-version": 0
