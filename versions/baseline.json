@@ -42444,6 +42444,10 @@
       "baseline": "12.2.72.0",
       "port-version": 0
     },
+    "ffnvcodec-12-2-72-0-1": {
+      "baseline": "12.2.72.0",
+      "port-version": 1
+    },
     "ffnvcodec-9-1-23-0-0": {
       "baseline": "9.1.23.0",
       "port-version": 0
