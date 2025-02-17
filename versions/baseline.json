@@ -30324,6 +30324,10 @@
       "baseline": "1.48.0",
       "port-version": 1
     },
+    "grpc-1-48-0-2": {
+      "baseline": "1.48.0",
+      "port-version": 2
+    },
     "grpc-1-6-0-0": {
       "baseline": "1.6.0",
       "port-version": 0
