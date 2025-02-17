@@ -112248,6 +112248,10 @@
       "baseline": "0.8.0",
       "port-version": 0
     },
+    "yyjson-0-9-0-0": {
+      "baseline": "0.9.0",
+      "port-version": 0
+    },
     "yyjson-2021-04-12-0": {
       "baseline": "2021-04-12",
       "port-version": 0
