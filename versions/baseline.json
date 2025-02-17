@@ -104188,6 +104188,10 @@
       "baseline": "20151130-vcpkg5",
       "port-version": 3
     },
+    "range-v3-vs2015-20151130-vcpkg5-4": {
+      "baseline": "20151130-vcpkg5",
+      "port-version": 4
+    },
     "rapidcheck-2018-11-05-1-0": {
       "baseline": "2018-11-05-1",
       "port-version": 0
