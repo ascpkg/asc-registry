@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/re2-2020-06-01-0",
+      "version": "2020-06-01",
+      "port-version": 0
+    }
+  ]
+}
