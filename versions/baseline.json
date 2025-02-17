@@ -41312,6 +41312,10 @@
       "baseline": "2024-07-05",
       "port-version": 0
     },
+    "fastio-2024-12-05-0": {
+      "baseline": "2024-12-05",
+      "port-version": 0
+    },
     "fastlz-1-0-0": {
       "baseline": "1.0",
       "port-version": 0
