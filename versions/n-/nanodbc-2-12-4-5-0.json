@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/nanodbc-2-12-4-5-0",
+      "version": "2.12.4-5",
+      "port-version": 0
+    }
+  ]
+}
