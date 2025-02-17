@@ -1744,6 +1744,10 @@
       "baseline": "2018-03-07",
       "port-version": 0
     },
+    "clara-2018-03-11-0": {
+      "baseline": "2018-03-11",
+      "port-version": 0
+    },
     "clblas-2-12-1-0": {
       "baseline": "2.12-1",
       "port-version": 0
@@ -3886,6 +3890,10 @@
     },
     "jsonnet-2018-03-07-0": {
       "baseline": "2018-03-07",
+      "port-version": 0
+    },
+    "jsonnet-2018-03-11-0": {
+      "baseline": "2018-03-11",
       "port-version": 0
     },
     "jxrlib-1-1-0": {
@@ -7124,6 +7132,10 @@
       "baseline": "2018-03-07",
       "port-version": 0
     },
+    "rs-core-lib-2018-03-11-0": {
+      "baseline": "2018-03-11",
+      "port-version": 0
+    },
     "rs-core-lib-commit-1ed2dadbda3977b13e5e83cc1f3eeca76b36ebe5-0": {
       "baseline": "commit-1ed2dadbda3977b13e5e83cc1f3eeca76b36ebe5",
       "port-version": 0
@@ -7946,6 +7958,10 @@
     },
     "thrift-2018-03-07-0": {
       "baseline": "2018-03-07",
+      "port-version": 0
+    },
+    "thrift-2018-03-11-0": {
+      "baseline": "2018-03-11",
       "port-version": 0
     },
     "thrift-latest-0": {
