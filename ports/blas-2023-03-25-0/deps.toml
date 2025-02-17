@@ -1,0 +1,6 @@
+old = "blas"
+new = "blas-2023-03-25-0"
+
+[deps]
+openblas-0-3-21-1 = "openblas"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
