@@ -24960,6 +24960,10 @@
       "baseline": "0.9.63",
       "port-version": 5
     },
+    "libmicrohttpd-0-9-63-6": {
+      "baseline": "0.9.63",
+      "port-version": 6
+    },
     "libmikmod--0": {
       "baseline": "",
       "port-version": 0
