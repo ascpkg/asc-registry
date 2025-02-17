@@ -1,0 +1,18 @@
+old = "openvdb"
+new = "openvdb-6-2-1-0"
+
+[deps]
+blosc-1-17-0-1-0 = "blosc"
+boost-any-1-71-0-0 = "boost-any"
+boost-date-time-1-71-0-0 = "boost-date-time"
+boost-interprocess-1-71-0-0 = "boost-interprocess"
+boost-iostreams-1-71-0-0 = "boost-iostreams"
+boost-ptr-container-1-71-0-0 = "boost-ptr-container"
+boost-system-1-71-0-0 = "boost-system"
+boost-thread-1-71-0-0 = "boost-thread"
+boost-uuid-1-71-0-0 = "boost-uuid"
+glew-2-1-0-6-0 = "glew"
+glfw3-3-3-3-0 = "glfw3"
+ilmbase-2-3-0-0 = "ilmbase"
+openexr-2-3-0-4-0 = "openexr"
+tbb-2019-u8-2-0 = "tbb"
