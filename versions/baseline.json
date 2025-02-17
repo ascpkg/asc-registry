@@ -51092,6 +51092,10 @@
       "baseline": "7.8.2",
       "port-version": 5
     },
+    "span-lite-0-10-3-0": {
+      "baseline": "0.10.3",
+      "port-version": 0
+    },
     "span-lite-0-5-0-0": {
       "baseline": "0.5.0",
       "port-version": 0
