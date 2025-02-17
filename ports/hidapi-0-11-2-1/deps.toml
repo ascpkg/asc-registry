@@ -1,0 +1,7 @@
+old = "hidapi"
+new = "hidapi-0-11-2-1"
+
+[deps]
+libusb-1-0-24-7 = "libusb"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"
