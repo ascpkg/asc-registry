@@ -52940,6 +52940,10 @@
       "baseline": "0.10",
       "port-version": 0
     },
+    "libcoro-0-11-1-0": {
+      "baseline": "0.11.1",
+      "port-version": 0
+    },
     "libcoro-0-9-0": {
       "baseline": "0.9",
       "port-version": 0
