@@ -40328,6 +40328,10 @@
       "baseline": "6.2.0-1",
       "port-version": 0
     },
+    "sdformat6-6-2-0-2": {
+      "baseline": "6.2.0",
+      "port-version": 2
+    },
     "sdformat9-9-2-0-0": {
       "baseline": "9.2.0",
       "port-version": 0
