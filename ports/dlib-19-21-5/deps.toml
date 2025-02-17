@@ -1,0 +1,12 @@
+old = "dlib"
+new = "dlib-19-21-5"
+
+[deps]
+blas-1-0 = "blas"
+cuda-10-1-7 = "cuda"
+cudnn-7-6-5-4 = "cudnn"
+fftw3-3-3-8-7-0 = "fftw3"
+lapack-3-1 = "lapack"
+libjpeg-turbo-2-0-6-0 = "libjpeg-turbo"
+libpng-1-6-37-15 = "libpng"
+sqlite3-3-35-5-0 = "sqlite3"

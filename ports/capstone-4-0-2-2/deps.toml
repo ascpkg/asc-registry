@@ -1,0 +1,5 @@
+old = "capstone"
+new = "capstone-4-0-2-2"
+
+[deps]
+capstone-4-0-2-2 = "capstone"

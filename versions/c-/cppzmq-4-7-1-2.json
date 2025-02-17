@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cppzmq-4-7-1-2",
+      "version": "4.7.1",
+      "port-version": 2
+    }
+  ]
+}

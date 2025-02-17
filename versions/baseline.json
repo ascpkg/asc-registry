@@ -980,6 +980,10 @@
       "baseline": "1.7.0",
       "port-version": 3
     },
+    "apr-1-7-0-4": {
+      "baseline": "1.7.0",
+      "port-version": 4
+    },
     "apr-util-1-6-0-0": {
       "baseline": "1.6.0",
       "port-version": 0
@@ -2448,6 +2452,10 @@
       "baseline": "2020-12-09",
       "port-version": 0
     },
+    "azure-iot-sdk-c-2020-12-09-1": {
+      "baseline": "2020-12-09",
+      "port-version": 1
+    },
     "azure-kinect-sensor-sdk-1-4-0-alpha-0-0": {
       "baseline": "1.4.0-alpha.0",
       "port-version": 0
@@ -2479,6 +2487,10 @@
     "azure-kinect-sensor-sdk-1-4-1-0": {
       "baseline": "1.4.1",
       "port-version": 0
+    },
+    "azure-kinect-sensor-sdk-1-4-1-1": {
+      "baseline": "1.4.1",
+      "port-version": 1
     },
     "azure-macro-utils-c-2019-04-11-1-0": {
       "baseline": "2019-04-11-1",
@@ -3336,6 +3348,10 @@
       "baseline": "0.10",
       "port-version": 0
     },
+    "bitserializer-0-10-1": {
+      "baseline": "0.10",
+      "port-version": 1
+    },
     "bitserializer-0-7-0": {
       "baseline": "0.7",
       "port-version": 0
@@ -3647,6 +3663,10 @@
     "bond-9-0-3-1": {
       "baseline": "9.0.3",
       "port-version": 1
+    },
+    "bond-9-0-3-2": {
+      "baseline": "9.0.3",
+      "port-version": 2
     },
     "boolinq-2019-07-22-0": {
       "baseline": "2019-07-22",
@@ -10596,6 +10616,10 @@
       "baseline": "2.16.0",
       "port-version": 1
     },
+    "botan-2-16-0-2": {
+      "baseline": "2.16.0",
+      "port-version": 2
+    },
     "botan-2-3-0-0": {
       "baseline": "2.3.0",
       "port-version": 0
@@ -11272,6 +11296,10 @@
       "baseline": "4.0.2",
       "port-version": 1
     },
+    "capstone-4-0-2-2": {
+      "baseline": "4.0.2",
+      "port-version": 2
+    },
     "cartographer-0-3-0-3-0": {
       "baseline": "0.3.0-3",
       "port-version": 0
@@ -11764,6 +11792,10 @@
       "baseline": "2.0.0",
       "port-version": 4
     },
+    "ceres-2-0-0-5": {
+      "baseline": "2.0.0",
+      "port-version": 5
+    },
     "ceres-solver-1-12-0-0": {
       "baseline": "1.12.0",
       "port-version": 0
@@ -11899,6 +11931,10 @@
     "cgal-5-2-2-0": {
       "baseline": "5.2.2",
       "port-version": 0
+    },
+    "cgal-5-2-2-1": {
+      "baseline": "5.2.2",
+      "port-version": 1
     },
     "cgal-5-2-3": {
       "baseline": "5.2",
@@ -12304,6 +12340,10 @@
       "baseline": "1.13",
       "port-version": 1
     },
+    "civetweb-1-13-2": {
+      "baseline": "1.13",
+      "port-version": 2
+    },
     "civetweb-2019-07-05-0": {
       "baseline": "2019-07-05",
       "port-version": 0
@@ -12327,6 +12367,10 @@
     "cjson-2019-11-30-1-0": {
       "baseline": "2019-11-30-1",
       "port-version": 0
+    },
+    "cjson-2019-11-30-2": {
+      "baseline": "2019-11-30",
+      "port-version": 2
     },
     "clamav-0-103-0-0": {
       "baseline": "0.103.0",
@@ -12607,6 +12651,10 @@
     "clue-1-0-0-alpha-7-0": {
       "baseline": "1.0.0-alpha.7",
       "port-version": 0
+    },
+    "clue-1-0-0-alpha-7-1": {
+      "baseline": "1.0.0-alpha.7",
+      "port-version": 1
     },
     "cmark-0-28-3-1-0": {
       "baseline": "0.28.3-1",
@@ -13536,6 +13584,10 @@
       "baseline": "4.7.1",
       "port-version": 1
     },
+    "cppzmq-4-7-1-2": {
+      "baseline": "4.7.1",
+      "port-version": 2
+    },
     "cpr-1-3-0-0": {
       "baseline": "1.3.0",
       "port-version": 0
@@ -13615,6 +13667,10 @@
     "crashrpt-1-4-3-0": {
       "baseline": "1.4.3",
       "port-version": 0
+    },
+    "crashrpt-1-4-3-1": {
+      "baseline": "1.4.3",
+      "port-version": 1
     },
     "crc32c-1-0-5-0": {
       "baseline": "1.0.5",
@@ -15268,6 +15324,10 @@
       "baseline": "19.21",
       "port-version": 4
     },
+    "dlib-19-21-5": {
+      "baseline": "19.21",
+      "port-version": 5
+    },
     "dlib-19-4-0": {
       "baseline": "19.4",
       "port-version": 0
@@ -15331,6 +15391,10 @@
     "dmlc-2019-08-12-5": {
       "baseline": "2019-08-12",
       "port-version": 5
+    },
+    "dmlc-2019-08-12-6": {
+      "baseline": "2019-08-12",
+      "port-version": 6
     },
     "docopt-2018-04-16-2-0": {
       "baseline": "2018-04-16-2",
@@ -48287,6 +48351,10 @@
     "vcpkg-cmake-2021-06-25-4": {
       "baseline": "2021-06-25",
       "port-version": 4
+    },
+    "vcpkg-cmake-2021-06-25-5": {
+      "baseline": "2021-06-25",
+      "port-version": 5
     },
     "vcpkg-cmake-config-2021-02-26-0": {
       "baseline": "2021-02-26",
