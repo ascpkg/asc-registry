@@ -10348,6 +10348,10 @@
       "baseline": "19.0.6.00-2",
       "port-version": 0
     },
+    "portaudio-19-0-6-00-3-0": {
+      "baseline": "19.0.6.00-3",
+      "port-version": 0
+    },
     "portmidi-0-217-1-0": {
       "baseline": "0.217.1",
       "port-version": 0
