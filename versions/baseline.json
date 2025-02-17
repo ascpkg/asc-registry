@@ -34924,6 +34924,10 @@
       "baseline": "1.11",
       "port-version": 1
     },
+    "enkits-1-11-2": {
+      "baseline": "1.11",
+      "port-version": 2
+    },
     "ensmallen-1-14-0-0": {
       "baseline": "1.14.0",
       "port-version": 0
