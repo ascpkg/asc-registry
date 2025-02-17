@@ -1168,6 +1168,10 @@
       "baseline": "chromium_4472",
       "port-version": 3
     },
+    "angle-chromium-4472-4": {
+      "baseline": "chromium_4472",
+      "port-version": 4
+    },
     "antlr4-4-10-1-0": {
       "baseline": "4.10.1",
       "port-version": 0
