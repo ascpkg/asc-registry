@@ -5820,6 +5820,10 @@
       "baseline": "1.0.0-beta.8",
       "port-version": 0
     },
+    "azure-messaging-eventhubs-cpp-1-0-0-beta-9-0": {
+      "baseline": "1.0.0-beta.9",
+      "port-version": 0
+    },
     "azure-security-attestation-cpp-1-0-0-0": {
       "baseline": "1.0.0",
       "port-version": 0
