@@ -35332,6 +35332,10 @@
       "baseline": "0.21.1",
       "port-version": 0
     },
+    "gettext-0-21-1-1": {
+      "baseline": "0.21.1",
+      "port-version": 1
+    },
     "gettext-0-21-2": {
       "baseline": "0.21",
       "port-version": 2
@@ -35363,6 +35367,10 @@
     "gettext-0-21-9": {
       "baseline": "0.21",
       "port-version": 9
+    },
+    "gettext-libintl-0-21-1-0": {
+      "baseline": "0.21.1",
+      "port-version": 0
     },
     "gettimeofday-2017-10-14-1-0": {
       "baseline": "2017-10-14-1",
@@ -55831,6 +55839,10 @@
     "mchehab-zbar-0-23-90-3": {
       "baseline": "0.23.90",
       "port-version": 3
+    },
+    "mchehab-zbar-0-23-90-4": {
+      "baseline": "0.23.90",
+      "port-version": 4
     },
     "mcpp-2-7-2-14-0": {
       "baseline": "2.7.2.14",
