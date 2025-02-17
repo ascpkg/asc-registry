@@ -50952,6 +50952,10 @@
       "baseline": "1.8.0",
       "port-version": 2
     },
+    "pkgconf-1-8-0-3": {
+      "baseline": "1.8.0",
+      "port-version": 3
+    },
     "platform-folders-4-0-0-4-0": {
       "baseline": "4.0.0-4",
       "port-version": 0
