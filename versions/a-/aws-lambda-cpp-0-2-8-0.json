@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/aws-lambda-cpp-0-2-8-0",
+      "version": "0.2.8",
+      "port-version": 0
+    }
+  ]
+}
