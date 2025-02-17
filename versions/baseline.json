@@ -27328,6 +27328,10 @@
       "baseline": "1.10-1",
       "port-version": 0
     },
+    "pugixml-1-10-2": {
+      "baseline": "1.10",
+      "port-version": 2
+    },
     "pugixml-1-8-1-0": {
       "baseline": "1.8.1",
       "port-version": 0
