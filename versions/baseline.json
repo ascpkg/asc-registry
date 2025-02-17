@@ -61980,6 +61980,10 @@
       "baseline": "3.1.5",
       "port-version": 1
     },
+    "openexr-3-1-7-0": {
+      "baseline": "3.1.7",
+      "port-version": 0
+    },
     "openfbx-2022-07-18-0": {
       "baseline": "2022-07-18",
       "port-version": 0
