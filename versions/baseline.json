@@ -16444,6 +16444,10 @@
       "baseline": "v2.rc.08",
       "port-version": 0
     },
+    "cpp-httplib-0-10-3-0": {
+      "baseline": "0.10.3",
+      "port-version": 0
+    },
     "cpp-httplib-0-2-0-0": {
       "baseline": "0.2.0",
       "port-version": 0
