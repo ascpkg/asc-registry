@@ -1,0 +1,14 @@
+old = "libpq"
+new = "libpq-12-2-11"
+
+[deps]
+gettext-0-21-0 = "gettext"
+icu-67-1-8 = "icu"
+libxml2-2-9-10-2 = "libxml2"
+libxslt-1-1-33-9 = "libxslt"
+llvm-11-0-0-0 = "llvm"
+openssl-1-1-1i-0 = "openssl"
+python3-3-9-0-3 = "python3"
+readline-0-0 = "readline"
+tcl-core-9-0-a1-1 = "tcl"
+zlib-1-2-11-9 = "zlib"
