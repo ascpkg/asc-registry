@@ -51480,6 +51480,10 @@
       "baseline": "8.1.70",
       "port-version": 2
     },
+    "libalkimia-8-1-72-0": {
+      "baseline": "8.1.72",
+      "port-version": 0
+    },
     "libao-1-2-2-3": {
       "baseline": "1.2.2",
       "port-version": 3
