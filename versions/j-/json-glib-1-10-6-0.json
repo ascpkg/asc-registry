@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/json-glib-1-10-6-0",
+      "version": "1.10.6",
+      "port-version": 0
+    }
+  ]
+}
