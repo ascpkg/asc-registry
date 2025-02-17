@@ -42596,6 +42596,10 @@
       "baseline": "2022-07-25",
       "port-version": 3
     },
+    "libcaer-2022-07-25-4": {
+      "baseline": "2022-07-25",
+      "port-version": 4
+    },
     "libcaer-3-3-14-0": {
       "baseline": "3.3.14",
       "port-version": 0
@@ -44687,6 +44691,10 @@
     "libimobiledevice-1-3-17-2": {
       "baseline": "1.3.17",
       "port-version": 2
+    },
+    "libimobiledevice-1-3-17-3": {
+      "baseline": "1.3.17",
+      "port-version": 3
     },
     "libimobiledevice-1-3-6-0": {
       "baseline": "1.3.6",
@@ -59847,6 +59855,10 @@
     "openssl-3-1-0-0": {
       "baseline": "3.1.0",
       "port-version": 0
+    },
+    "openssl-3-1-0-1": {
+      "baseline": "3.1.0",
+      "port-version": 1
     },
     "openssl-microsoft-1-0-2-winrt-stable-0": {
       "baseline": "1.0.2-winrt-stable",
