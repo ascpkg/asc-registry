@@ -20448,6 +20448,10 @@
       "baseline": "0.4.1",
       "port-version": 0
     },
+    "xproperty-0-8-1-0": {
+      "baseline": "0.8.1",
+      "port-version": 0
+    },
     "xsimd-7-1-2-0": {
       "baseline": "7.1.2",
       "port-version": 0
