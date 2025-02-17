@@ -1,0 +1,13 @@
+old = "qt5"
+new = "qt5-5-8-5-0"
+
+[deps]
+double-conversion-3-0-0-0 = "double-conversion"
+freetype-2-8-0 = "freetype"
+harfbuzz-1-4-6-1-0 = "harfbuzz"
+libjpeg-turbo-1-5-2-0 = "libjpeg-turbo"
+libpng-1-6-32-0 = "libpng"
+libpq-9-6-1-0 = "libpq"
+pcre-8-41-0 = "pcre"
+sqlite3-3-19-1-1-0 = "sqlite3"
+zlib-1-2-11-0 = "zlib"
