@@ -1,0 +1,7 @@
+old = "cuda-api-wrappers"
+new = "cuda-api-wrappers-0-6-6-0"
+
+[deps]
+cuda-10-1-13 = "cuda"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

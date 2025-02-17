@@ -28328,6 +28328,10 @@
       "baseline": "9.0",
       "port-version": 0
     },
+    "cuda-api-wrappers-0-6-6-0": {
+      "baseline": "0.6.6",
+      "port-version": 0
+    },
     "cudnn-7-6-0": {
       "baseline": "7.6",
       "port-version": 0
