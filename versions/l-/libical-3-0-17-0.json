@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libical-3-0-17-0",
+      "version": "3.0.17",
+      "port-version": 0
+    }
+  ]
+}
