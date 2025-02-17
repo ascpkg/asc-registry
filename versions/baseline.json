@@ -25512,6 +25512,10 @@
       "baseline": "2019_u8-1",
       "port-version": 0
     },
+    "tcl-8-6-10-2-0": {
+      "baseline": "8.6.10-2",
+      "port-version": 0
+    },
     "tcl-8-6-5-0": {
       "baseline": "8.6.5",
       "port-version": 0
