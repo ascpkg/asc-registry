@@ -31944,6 +31944,10 @@
       "baseline": "4.6.2",
       "port-version": 2
     },
+    "gtk-4-6-8-0": {
+      "baseline": "4.6.8",
+      "port-version": 0
+    },
     "gtk3-3-24-34-0": {
       "baseline": "3.24.34",
       "port-version": 0
