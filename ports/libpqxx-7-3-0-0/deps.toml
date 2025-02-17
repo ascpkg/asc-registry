@@ -1,0 +1,5 @@
+old = "libpqxx"
+new = "libpqxx-7-3-0-0"
+
+[deps]
+libpq-12-2-9 = "libpq"
