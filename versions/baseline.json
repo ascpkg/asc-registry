@@ -43488,6 +43488,10 @@
       "baseline": "4.1.0",
       "port-version": 1
     },
+    "tiff-4-1-0-2": {
+      "baseline": "4.1.0",
+      "port-version": 2
+    },
     "tinkerforge-2-1-25-0": {
       "baseline": "2.1.25",
       "port-version": 0
