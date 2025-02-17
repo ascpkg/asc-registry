@@ -54396,6 +54396,10 @@
       "baseline": "1.17.6",
       "port-version": 0
     },
+    "libheif-1-17-6-1": {
+      "baseline": "1.17.6",
+      "port-version": 1
+    },
     "libheif-1-7-0-0": {
       "baseline": "1.7.0",
       "port-version": 0
