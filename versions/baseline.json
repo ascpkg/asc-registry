@@ -10144,6 +10144,10 @@
       "baseline": "3.3.7-3",
       "port-version": 0
     },
+    "eigen3-3-3-7-4-0": {
+      "baseline": "3.3.7-4",
+      "port-version": 0
+    },
     "embree-2-16-4-1-0": {
       "baseline": "2.16.4-1",
       "port-version": 0
