@@ -20,6 +20,10 @@
       "baseline": "2.6.2-3",
       "port-version": 0
     },
+    "3fd-2-6-3-0": {
+      "baseline": "2.6.3",
+      "port-version": 0
+    },
     "7zip-19-00-0": {
       "baseline": "19.00",
       "port-version": 0
