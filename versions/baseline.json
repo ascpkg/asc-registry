@@ -24508,6 +24508,10 @@
       "baseline": "0.10.1",
       "port-version": 2
     },
+    "hidapi-0-11-0-0": {
+      "baseline": "0.11.0",
+      "port-version": 0
+    },
     "hidapi-2019-08-30-0": {
       "baseline": "2019-08-30",
       "port-version": 0
