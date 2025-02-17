@@ -2184,6 +2184,10 @@
       "baseline": "1.11-3",
       "port-version": 0
     },
+    "basisu-1-11-4-0": {
+      "baseline": "1.11-4",
+      "port-version": 0
+    },
     "bde-3-2-0-0-0": {
       "baseline": "3.2.0.0",
       "port-version": 0
@@ -12664,6 +12668,10 @@
       "baseline": "2019.10.21.00-1",
       "port-version": 0
     },
+    "folly-2019-10-21-00-2-0": {
+      "baseline": "2019.10.21.00-2",
+      "port-version": 0
+    },
     "folly-v2017-05-08-00-0": {
       "baseline": "v2017.05.08.00",
       "port-version": 0
@@ -14514,6 +14522,10 @@
     },
     "gppanel-2018-04-06-0": {
       "baseline": "2018-04-06",
+      "port-version": 0
+    },
+    "gppanel-2020-05-20-0": {
+      "baseline": "2020-05-20",
       "port-version": 0
     },
     "graphicsmagick-1-3-25-0": {
@@ -22016,6 +22028,10 @@
       "baseline": "0.0.10",
       "port-version": 0
     },
+    "msgpack11-0-0-10-1-0": {
+      "baseline": "0.0.10-1",
+      "port-version": 0
+    },
     "msinttypes-2017-06-26-f9e7c5758ed9e3b9f4b2394de1881c704dd79de0-0": {
       "baseline": "2017-06-26-f9e7c5758ed9e3b9f4b2394de1881c704dd79de0",
       "port-version": 0
@@ -22206,6 +22222,10 @@
     },
     "nana-1-7-2-2-0": {
       "baseline": "1.7.2-2",
+      "port-version": 0
+    },
+    "nana-1-7-2-3-0": {
+      "baseline": "1.7.2-3",
       "port-version": 0
     },
     "nano-signal-slot-2-0-1-0": {
@@ -28350,6 +28370,10 @@
     },
     "rapidcheck-2018-11-05-1-0": {
       "baseline": "2018-11-05-1",
+      "port-version": 0
+    },
+    "rapidcheck-2018-11-05-2-0": {
+      "baseline": "2018-11-05-2",
       "port-version": 0
     },
     "rapidjson-1-0-2-1-0": {
