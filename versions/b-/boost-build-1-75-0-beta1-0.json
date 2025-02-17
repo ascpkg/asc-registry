@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/boost-build-1-75-0-beta1-0",
+      "version": "1.75.0.beta1",
+      "port-version": 0
+    }
+  ]
+}
