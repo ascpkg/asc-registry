@@ -1,0 +1,6 @@
+old = "libxlsxwriter"
+new = "libxlsxwriter-1-1-4-0"
+
+[deps]
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+zlib-1-2-11-13 = "zlib"
