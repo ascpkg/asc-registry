@@ -9388,6 +9388,10 @@
       "baseline": "2.4.1-5",
       "port-version": 0
     },
+    "gdal-2-4-1-7-0": {
+      "baseline": "2.4.1-7",
+      "port-version": 0
+    },
     "gdcm-3-0-0-0": {
       "baseline": "3.0.0",
       "port-version": 0
