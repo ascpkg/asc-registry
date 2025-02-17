@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/kissfft-131-1-0-0",
+      "version": "131.1.0",
+      "port-version": 0
+    }
+  ]
+}

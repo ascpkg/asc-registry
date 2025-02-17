@@ -1,0 +1,7 @@
+old = "kissfft"
+new = "kissfft-131-1-0-0"
+
+[deps]
+libpng-1-6-39-1 = "libpng"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
