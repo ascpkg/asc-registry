@@ -28564,6 +28564,10 @@
       "baseline": "0.30",
       "port-version": 0
     },
+    "libcanberra-0-30-1": {
+      "baseline": "0.30",
+      "port-version": 1
+    },
     "libcbor-0-8-0-0": {
       "baseline": "0.8.0",
       "port-version": 0
