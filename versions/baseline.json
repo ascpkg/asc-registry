@@ -12128,6 +12128,10 @@
       "baseline": "2019-07-21",
       "port-version": 0
     },
+    "crfsuite-2019-07-21-1": {
+      "baseline": "2019-07-21",
+      "port-version": 1
+    },
     "croncpp-2020-09-04-1": {
       "baseline": "2020-09-04",
       "port-version": 1
