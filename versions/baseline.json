@@ -25840,6 +25840,10 @@
       "baseline": "69.1",
       "port-version": 15
     },
+    "icu-69-1-16": {
+      "baseline": "69.1",
+      "port-version": 16
+    },
     "icu-69-1-8": {
       "baseline": "69.1",
       "port-version": 8
