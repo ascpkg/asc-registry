@@ -32716,6 +32716,10 @@
       "baseline": "1.3.3",
       "port-version": 0
     },
+    "ctbench-1-3-4-0": {
+      "baseline": "1.3.4",
+      "port-version": 0
+    },
     "ctbignum-2019-08-02-0": {
       "baseline": "2019-08-02",
       "port-version": 0
