@@ -1,0 +1,10 @@
+old = "libideviceactivation"
+new = "libideviceactivation-2023-05-01-0"
+
+[deps]
+curl-8-2-1-0 = "curl"
+libimobiledevice-2023-07-05-0 = "libimobiledevice"
+libplist-2023-06-15-0 = "libplist"
+libxml2-2-11-5-0 = "libxml2"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

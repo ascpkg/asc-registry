@@ -1,0 +1,11 @@
+old = "usbmuxd"
+new = "usbmuxd-2023-07-21-0"
+
+[deps]
+dirent-1-23-2-3 = "dirent"
+getopt-0-3 = "getopt"
+libimobiledevice-2023-07-05-0 = "libimobiledevice"
+libimobiledevice-glue-2023-05-13-0 = "libimobiledevice-glue"
+libusb-1-0-26-11791-3 = "libusb"
+pthreads-3-0-0-14 = "pthreads"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

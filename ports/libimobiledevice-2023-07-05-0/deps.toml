@@ -1,0 +1,11 @@
+old = "libimobiledevice"
+new = "libimobiledevice-2023-07-05-0"
+
+[deps]
+dirent-1-23-2-3 = "dirent"
+libimobiledevice-glue-2023-05-13-0 = "libimobiledevice-glue"
+libplist-2023-06-15-0 = "libplist"
+libusbmuxd-2023-06-21-0 = "libusbmuxd"
+openssl-3-1-2-3 = "openssl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
