@@ -87708,6 +87708,10 @@
       "baseline": "1.2.6",
       "port-version": 0
     },
+    "pipewire-1-2-7-0": {
+      "baseline": "1.2.7",
+      "port-version": 0
+    },
     "pistache-2019-08-05-0": {
       "baseline": "2019-08-05",
       "port-version": 0
