@@ -14812,6 +14812,10 @@
       "baseline": "1.0.12-3",
       "port-version": 0
     },
+    "idevicerestore-1-0-12-4-0": {
+      "baseline": "1.0.12-4",
+      "port-version": 0
+    },
     "if97-2-1-0-0": {
       "baseline": "2.1.0",
       "port-version": 0
