@@ -1,0 +1,11 @@
+old = "mvfst"
+new = "mvfst-0-1-0"
+
+[deps]
+boost-1-77-0-2 = "boost"
+fizz-2021-06-14-00-0 = "fizz"
+fmt-8-0-1-0 = "fmt"
+folly-2021-06-14-00-3 = "folly"
+glog-0-4-0-4 = "glog"
+vcpkg-cmake-2021-12-05-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-01-0 = "vcpkg-cmake-config"
