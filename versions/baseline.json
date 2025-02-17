@@ -34220,6 +34220,10 @@
       "baseline": "765.30.11",
       "port-version": 4
     },
+    "mdnsresponder-878-270-2-0": {
+      "baseline": "878.270.2",
+      "port-version": 0
+    },
     "mecab-0-996-0": {
       "baseline": "0.996",
       "port-version": 0
