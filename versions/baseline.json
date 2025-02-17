@@ -19760,6 +19760,10 @@
       "baseline": "3.3.3-2",
       "port-version": 0
     },
+    "zxing-cpp-3-3-3-3-0": {
+      "baseline": "3.3.3-3",
+      "port-version": 0
+    },
     "zziplib-0-13-62-0": {
       "baseline": "0.13.62",
       "port-version": 0
