@@ -1,0 +1,7 @@
+old = "ideviceinstaller"
+new = "ideviceinstaller-1-1-2-23-7"
+
+[deps]
+libimobiledevice-1-3-17-4 = "libimobiledevice"
+libzip-1-9-2-2 = "libzip"
+vcpkg-msbuild-2023-08-08-0 = "vcpkg-msbuild"
