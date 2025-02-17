@@ -24984,6 +24984,10 @@
       "baseline": "4.1.18",
       "port-version": 0
     },
+    "ktx-4-0-0-0": {
+      "baseline": "4.0.0",
+      "port-version": 0
+    },
     "ktx-4-0-0-beta5-1": {
       "baseline": "4.0.0-beta5",
       "port-version": 1
