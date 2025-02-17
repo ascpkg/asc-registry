@@ -1,0 +1,5 @@
+old = "log4cplus"
+new = "log4cplus-rel-2-0-0-rc2-0"
+
+[deps]
+catch-2-0-1-1-0 = "catch"
