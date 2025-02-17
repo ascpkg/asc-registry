@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libwebsockets-4-2-2-4",
+      "version-semver": "4.2.2",
+      "port-version": 4
+    }
+  ]
+}
