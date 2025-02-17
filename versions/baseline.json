@@ -26460,6 +26460,10 @@
       "baseline": "0.11.0",
       "port-version": 1
     },
+    "log4cxx-0-11-0-2": {
+      "baseline": "0.11.0",
+      "port-version": 2
+    },
     "loguru-2-1-0-1-0": {
       "baseline": "2.1.0-1",
       "port-version": 0

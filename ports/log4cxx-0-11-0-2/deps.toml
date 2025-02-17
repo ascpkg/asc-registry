@@ -1,0 +1,7 @@
+old = "log4cxx"
+new = "log4cxx-0-11-0-2"
+
+[deps]
+apr-1-7-0-3 = "apr"
+apr-util-1-6-1-3 = "apr-util"
+expat-2020-08-18-0 = "expat"
