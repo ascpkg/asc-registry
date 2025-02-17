@@ -48084,6 +48084,10 @@
       "baseline": "2021-08-26",
       "port-version": 0
     },
+    "opencensus-cpp-2021-08-26-1": {
+      "baseline": "2021-08-26",
+      "port-version": 1
+    },
     "opencl-2-2-2-0": {
       "baseline": "2.2-2",
       "port-version": 0
