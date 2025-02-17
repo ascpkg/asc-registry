@@ -14252,6 +14252,10 @@
       "baseline": "4.2.1",
       "port-version": 0
     },
+    "d3d12-memory-allocator-2021-05-05-0": {
+      "baseline": "2021-05-05",
+      "port-version": 0
+    },
     "d3dx12-may2020-0": {
       "baseline": "may2020",
       "port-version": 0
