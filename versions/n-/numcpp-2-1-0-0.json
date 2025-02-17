@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/numcpp-2-1-0-0",
+      "version-string": "2.1.0",
+      "port-version": 0
+    }
+  ]
+}
