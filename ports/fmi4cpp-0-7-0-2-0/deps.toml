@@ -1,0 +1,9 @@
+old = "fmi4cpp"
+new = "fmi4cpp-0-7-0-2-0"
+
+[deps]
+boost-odeint-1-70-0-0 = "boost-odeint"
+boost-property-tree-1-70-0-0 = "boost-property-tree"
+boost-ublas-1-70-0-0 = "boost-ublas"
+curl-7-65-2-1-0 = "curl"
+libzip-rel-1-5-2-0 = "libzip"

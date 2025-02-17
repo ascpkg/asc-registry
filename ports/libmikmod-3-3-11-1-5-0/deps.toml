@@ -1,0 +1,5 @@
+old = "libmikmod"
+new = "libmikmod-3-3-11-1-5-0"
+
+[deps]
+openal-soft-1-19-1-2-0 = "openal-soft"
