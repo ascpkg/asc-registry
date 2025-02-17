@@ -6892,6 +6892,10 @@
       "baseline": "2019-06-10-2",
       "port-version": 0
     },
+    "czmq-2019-06-10-3-0": {
+      "baseline": "2019-06-10-3",
+      "port-version": 0
+    },
     "darknet-0-2-5-0": {
       "baseline": "0.2.5",
       "port-version": 0
@@ -17614,6 +17618,10 @@
     },
     "pcl-1-9-1-7-0": {
       "baseline": "1.9.1-7",
+      "port-version": 0
+    },
+    "pcl-1-9-1-8-0": {
+      "baseline": "1.9.1-8",
       "port-version": 0
     },
     "pcre-8-38-0": {
