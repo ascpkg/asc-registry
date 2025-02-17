@@ -10408,6 +10408,10 @@
       "baseline": "1.0.4-2",
       "port-version": 0
     },
+    "freexl-1-0-4-5-0": {
+      "baseline": "1.0.4-5",
+      "port-version": 0
+    },
     "fribidi-1-0-5-0": {
       "baseline": "1.0.5",
       "port-version": 0
@@ -14546,6 +14550,10 @@
     },
     "libosip2-5-1-0-0": {
       "baseline": "5.1.0",
+      "port-version": 0
+    },
+    "libosip2-5-1-0-1-0": {
+      "baseline": "5.1.0-1",
       "port-version": 0
     },
     "libp7-baical-4-1-0": {
@@ -26498,6 +26506,10 @@
     },
     "x264-157-303c484ec828ed0-2-0": {
       "baseline": "157-303c484ec828ed0-2",
+      "port-version": 0
+    },
+    "x264-157-303c484ec828ed0-3-0": {
+      "baseline": "157-303c484ec828ed0-3",
       "port-version": 0
     },
     "x265-2-7-0": {
