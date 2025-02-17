@@ -54108,6 +54108,10 @@
       "baseline": "1.0.0",
       "port-version": 6
     },
+    "json5-parser-1-0-0-7": {
+      "baseline": "1.0.0",
+      "port-version": 7
+    },
     "jsoncons-0-125-0-0": {
       "baseline": "0.125.0",
       "port-version": 0
