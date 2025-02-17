@@ -87156,6 +87156,10 @@
       "baseline": "4.19",
       "port-version": 0
     },
+    "simsimd-1-4-0-0": {
+      "baseline": "1.4.0",
+      "port-version": 0
+    },
     "sjpeg-2021-10-31-0": {
       "baseline": "2021-10-31",
       "port-version": 0
