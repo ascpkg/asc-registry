@@ -14272,6 +14272,10 @@
       "baseline": "1.5.3",
       "port-version": 2
     },
+    "camport3-1-6-2-0": {
+      "baseline": "1.6.2",
+      "port-version": 0
+    },
     "capnproto-0-7-0-0": {
       "baseline": "0.7.0",
       "port-version": 0
