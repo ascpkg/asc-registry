@@ -33660,6 +33660,10 @@
       "baseline": "0.9.6",
       "port-version": 0
     },
+    "libssh-0-9-6-1": {
+      "baseline": "0.9.6",
+      "port-version": 1
+    },
     "libssh2-1-10-0-0": {
       "baseline": "1.10.0",
       "port-version": 0
