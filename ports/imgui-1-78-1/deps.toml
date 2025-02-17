@@ -1,0 +1,14 @@
+old = "imgui"
+new = "imgui-1-78-1"
+
+[deps]
+allegro5-5-2-6-0-0 = "allegro5"
+freeglut-3-2-1-4-0 = "freeglut"
+freetype-2-10-2-2 = "freetype"
+gl3w-2018-05-31-2-0 = "gl3w"
+glad-0-1-33-1-0 = "glad"
+glbinding-3-1-0-2-0 = "glbinding"
+glew-2-1-0-8-0 = "glew"
+glfw3-3-3-2-0 = "glfw3"
+sdl2-2-0-12-3 = "sdl2"
+vulkan-1-1-82-1-1-0 = "vulkan"
