@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/moos-essential-10-0-1-4",
+      "version-string": "10.0.1",
+      "port-version": 4
+    }
+  ]
+}

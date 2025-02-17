@@ -1,0 +1,6 @@
+old = "portable-snippets"
+new = "portable-snippets-2019-09-20-3"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

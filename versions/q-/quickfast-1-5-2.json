@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/quickfast-1-5-2",
+      "version-string": "1.5",
+      "port-version": 2
+    }
+  ]
+}

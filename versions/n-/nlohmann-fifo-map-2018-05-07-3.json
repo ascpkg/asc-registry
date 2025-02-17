@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/nlohmann-fifo-map-2018-05-07-3",
+      "version-string": "2018.05.07",
+      "port-version": 3
+    }
+  ]
+}

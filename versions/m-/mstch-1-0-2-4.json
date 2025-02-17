@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/mstch-1-0-2-4",
+      "version-string": "1.0.2",
+      "port-version": 4
+    }
+  ]
+}
