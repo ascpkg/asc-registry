@@ -41516,6 +41516,10 @@
       "baseline": "2024.06.24.00",
       "port-version": 0
     },
+    "folly-2024-06-24-00-1": {
+      "baseline": "2024.06.24.00",
+      "port-version": 1
+    },
     "folly-v2017-05-08-00-0": {
       "baseline": "v2017.05.08.00",
       "port-version": 0
@@ -56103,6 +56107,10 @@
     "libaiff-5-0-9": {
       "baseline": "5.0",
       "port-version": 9
+    },
+    "libaio-0-3-113-0": {
+      "baseline": "0.3.113",
+      "port-version": 0
     },
     "libalkimia-8-1-70-0": {
       "baseline": "8.1.70",
