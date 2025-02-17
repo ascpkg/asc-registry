@@ -72728,6 +72728,10 @@
       "baseline": "0.20.23",
       "port-version": 1
     },
+    "rtabmap-0-20-23-2": {
+      "baseline": "0.20.23",
+      "port-version": 2
+    },
     "rtabmap-0-20-3-0": {
       "baseline": "0.20.3",
       "port-version": 0
