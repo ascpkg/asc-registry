@@ -58968,6 +58968,10 @@
       "baseline": "2.14",
       "port-version": 0
     },
+    "lcms-2-16-0": {
+      "baseline": "2.16",
+      "port-version": 0
+    },
     "lcms-2-8-0": {
       "baseline": "2.8",
       "port-version": 0

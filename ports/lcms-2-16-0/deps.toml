@@ -1,0 +1,7 @@
+old = "lcms"
+new = "lcms-2-16-0"
+
+[deps]
+libjpeg-turbo-3-0-4-0 = "libjpeg-turbo"
+tiff-4-7-0-0 = "tiff"
+vcpkg-tool-meson-1-6-0-0 = "vcpkg-tool-meson"
