@@ -1,0 +1,5 @@
+old = "cutelyst2"
+new = "cutelyst2-2-8-0-0"
+
+[deps]
+qt5-base-5-12-3-3-0 = "qt5-base"

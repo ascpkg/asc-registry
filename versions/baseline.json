@@ -6676,6 +6676,10 @@
       "baseline": "2.7.0",
       "port-version": 0
     },
+    "cutelyst2-2-8-0-0": {
+      "baseline": "2.8.0",
+      "port-version": 0
+    },
     "cxxopts-1-3-0-0": {
       "baseline": "1.3.0",
       "port-version": 0
