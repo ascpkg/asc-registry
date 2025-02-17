@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/brigand-1-3-0-2",
+      "version-string": "1.3.0",
+      "port-version": 2
+    }
+  ]
+}
