@@ -56236,6 +56236,10 @@
       "baseline": "0.4.3",
       "port-version": 2
     },
+    "wildmidi-0-4-4-0": {
+      "baseline": "0.4.4",
+      "port-version": 0
+    },
     "wincrypt-0-0-0": {
       "baseline": "0.0",
       "port-version": 0
