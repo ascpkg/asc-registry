@@ -24632,6 +24632,10 @@
       "baseline": "v1.18.0-4",
       "port-version": 0
     },
+    "wampcc-2019-09-04-0": {
+      "baseline": "2019-09-04",
+      "port-version": 0
+    },
     "wangle-2018-07-30-00-2-0": {
       "baseline": "2018.07.30.00-2",
       "port-version": 0
