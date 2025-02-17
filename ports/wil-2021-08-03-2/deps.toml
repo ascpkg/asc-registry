@@ -1,0 +1,6 @@
+old = "wil"
+new = "wil-2021-08-03-2"
+
+[deps]
+vcpkg-cmake-2021-12-05-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-01-0 = "vcpkg-cmake-config"
