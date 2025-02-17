@@ -84756,6 +84756,10 @@
       "baseline": "0.16.0",
       "port-version": 0
     },
+    "thrift-0-16-0-1": {
+      "baseline": "0.16.0",
+      "port-version": 1
+    },
     "thrift-20172805-72ca60debae1d9fb35d9f0085118873669006d7f-0": {
       "baseline": "20172805-72ca60debae1d9fb35d9f0085118873669006d7f",
       "port-version": 0
@@ -91679,6 +91683,10 @@
     "zeromq-2023-01-31-2": {
       "baseline": "2023-01-31",
       "port-version": 2
+    },
+    "zeromq-2023-01-31-3": {
+      "baseline": "2023-01-31",
+      "port-version": 3
     },
     "zeromq-4-2-0-0": {
       "baseline": "4.2.0",

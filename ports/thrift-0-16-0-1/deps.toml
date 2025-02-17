@@ -1,0 +1,14 @@
+old = "thrift"
+new = "thrift-0-16-0-1"
+
+[deps]
+boost-date-time-1-82-0-1 = "boost-date-time"
+boost-locale-1-82-0-1 = "boost-locale"
+boost-range-1-82-0-1 = "boost-range"
+boost-scope-exit-1-82-0-1 = "boost-scope-exit"
+boost-smart-ptr-1-82-0-1 = "boost-smart-ptr"
+libevent-2-1-12-20230128-0 = "libevent"
+openssl-3-1-0-2 = "openssl"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-2-13-0 = "zlib"
