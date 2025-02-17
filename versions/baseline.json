@@ -27960,6 +27960,10 @@
       "baseline": "0.16.5",
       "port-version": 0
     },
+    "uwebsockets-0-17-0a4-0": {
+      "baseline": "0.17.0a4",
+      "port-version": 0
+    },
     "valijson-2018-11-17-0": {
       "baseline": "2018-11-17",
       "port-version": 0
