@@ -1972,6 +1972,10 @@
       "baseline": "19.8",
       "port-version": 0
     },
+    "dlib-19-9-0": {
+      "baseline": "19.9",
+      "port-version": 0
+    },
     "doctest-1-1-0-0": {
       "baseline": "1.1.0",
       "port-version": 0
