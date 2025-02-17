@@ -31844,6 +31844,10 @@
       "baseline": "2.101.0",
       "port-version": 0
     },
+    "daw-header-libraries-2-106-0-0": {
+      "baseline": "2.106.0",
+      "port-version": 0
+    },
     "daw-header-libraries-2-46-0-0": {
       "baseline": "2.46.0",
       "port-version": 0
