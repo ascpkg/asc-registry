@@ -1196,6 +1196,10 @@
       "baseline": "1.0.0",
       "port-version": 0
     },
+    "alpaka-1-1-0-0": {
+      "baseline": "1.1.0",
+      "port-version": 0
+    },
     "alsa-1-2-10-0": {
       "baseline": "1.2.10",
       "port-version": 0
