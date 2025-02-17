@@ -84240,6 +84240,10 @@
       "baseline": "3.5.0",
       "port-version": 0
     },
+    "taskflow-3-6-0-0": {
+      "baseline": "3.6.0",
+      "port-version": 0
+    },
     "tbb-20160916-0": {
       "baseline": "20160916",
       "port-version": 0
