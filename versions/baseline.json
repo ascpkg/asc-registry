@@ -96556,6 +96556,10 @@
       "baseline": "123",
       "port-version": 1
     },
+    "skia-124-0": {
+      "baseline": "124",
+      "port-version": 0
+    },
     "skia-2020-02-15-0": {
       "baseline": "2020-02-15",
       "port-version": 0
