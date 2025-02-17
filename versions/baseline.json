@@ -57900,6 +57900,10 @@
       "baseline": "4.3.0",
       "port-version": 2
     },
+    "tiff-4-3-0-3": {
+      "baseline": "4.3.0",
+      "port-version": 3
+    },
     "tinkerforge-2-1-25-0": {
       "baseline": "2.1.25",
       "port-version": 0
