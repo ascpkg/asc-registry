@@ -36756,6 +36756,10 @@
       "baseline": "5.911",
       "port-version": 0
     },
+    "xbyak-5-93-0": {
+      "baseline": "5.93",
+      "port-version": 0
+    },
     "xerces-c-3-1-4-0": {
       "baseline": "3.1.4",
       "port-version": 0
