@@ -2,5 +2,5 @@ old = "alembic"
 new = "alembic-1-7-10-0"
 
 [deps]
-hdf5-1-10-1-1-0 = "hdf5"
-ilmbase-2-2-1-1-0 = "ilmbase"
+hdf5-1-10-5-1-0 = "hdf5"
+ilmbase-2-3-0-0 = "ilmbase"

@@ -2,4 +2,4 @@ old = "xalan-c"
 new = "xalan-c-1-11-5-0"
 
 [deps]
-xerces-c-3-2-2-6-0 = "xerces-c"
+xerces-c-3-2-2-7-0 = "xerces-c"
