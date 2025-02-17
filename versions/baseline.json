@@ -2168,12 +2168,20 @@
       "baseline": "1.0.0-beta.7",
       "port-version": 0
     },
+    "azure-core-cpp-1-0-0-beta-8-0": {
+      "baseline": "1.0.0-beta.8",
+      "port-version": 0
+    },
     "azure-identity-cpp-1-0-0-beta-3-0": {
       "baseline": "1.0.0-beta.3",
       "port-version": 0
     },
     "azure-identity-cpp-1-0-0-beta-4-0": {
       "baseline": "1.0.0-beta.4",
+      "port-version": 0
+    },
+    "azure-identity-cpp-1-0-0-beta-5-0": {
+      "baseline": "1.0.0-beta.5",
       "port-version": 0
     },
     "azure-iot-sdk-c-1-0-0-pre-release-1-0-9-0": {
@@ -2376,6 +2384,10 @@
       "baseline": "2020-06-17",
       "port-version": 2
     },
+    "azure-storage-blobs-cpp-12-0-0-beta-10-0": {
+      "baseline": "12.0.0-beta.10",
+      "port-version": 0
+    },
     "azure-storage-blobs-cpp-12-0-0-beta-7-0": {
       "baseline": "12.0.0-beta.7",
       "port-version": 0
@@ -2386,6 +2398,10 @@
     },
     "azure-storage-blobs-cpp-12-0-0-beta-9-0": {
       "baseline": "12.0.0-beta.9",
+      "port-version": 0
+    },
+    "azure-storage-common-cpp-12-0-0-beta-10-0": {
+      "baseline": "12.0.0-beta.10",
       "port-version": 0
     },
     "azure-storage-common-cpp-12-0-0-beta-7-0": {
@@ -2508,6 +2524,10 @@
       "baseline": "7.5.0",
       "port-version": 0
     },
+    "azure-storage-files-datalake-cpp-12-0-0-beta-10-0": {
+      "baseline": "12.0.0-beta.10",
+      "port-version": 0
+    },
     "azure-storage-files-datalake-cpp-12-0-0-beta-7-0": {
       "baseline": "12.0.0-beta.7",
       "port-version": 0
@@ -2518,6 +2538,10 @@
     },
     "azure-storage-files-datalake-cpp-12-0-0-beta-9-0": {
       "baseline": "12.0.0-beta.9",
+      "port-version": 0
+    },
+    "azure-storage-files-shares-cpp-12-0-0-beta-10-0": {
+      "baseline": "12.0.0-beta.10",
       "port-version": 0
     },
     "azure-storage-files-shares-cpp-12-0-0-beta-7-0": {
