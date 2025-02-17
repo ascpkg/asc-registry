@@ -5100,6 +5100,10 @@
       "baseline": "3.1.1-2",
       "port-version": 0
     },
+    "monkeys-audio-4-3-3-0": {
+      "baseline": "4.3.3",
+      "port-version": 0
+    },
     "mozjpeg-3-2-0": {
       "baseline": "3.2",
       "port-version": 0
