@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/poco-1-12-5-0",
+      "version": "1.12.5",
+      "port-version": 0
+    }
+  ]
+}
