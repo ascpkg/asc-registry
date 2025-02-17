@@ -1,0 +1,6 @@
+old = "pmdk"
+new = "pmdk-1-12-0-1"
+
+[deps]
+getopt-0-3 = "getopt"
+vcpkg-msbuild-2023-08-08-0 = "vcpkg-msbuild"
