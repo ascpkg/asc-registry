@@ -35108,6 +35108,10 @@
       "baseline": "0.14",
       "port-version": 2
     },
+    "meshoptimizer-0-16-0": {
+      "baseline": "0.16",
+      "port-version": 0
+    },
     "metis-5-1-0-0": {
       "baseline": "5.1.0",
       "port-version": 0
