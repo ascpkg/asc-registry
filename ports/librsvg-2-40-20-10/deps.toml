@@ -1,0 +1,12 @@
+old = "librsvg"
+new = "librsvg-2-40-20-10"
+
+[deps]
+cairo-1-17-8-4 = "cairo"
+fontconfig-2-14-2-0 = "fontconfig"
+gdk-pixbuf-2-42-10-2 = "gdk-pixbuf"
+glib-2-76-5-0 = "glib"
+libcroco-0-6-13-6 = "libcroco"
+libxml2-2-11-5-1 = "libxml2"
+pango-1-50-14-4 = "pango"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
