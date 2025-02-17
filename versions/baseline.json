@@ -20700,6 +20700,10 @@
       "baseline": "3.0.0-pre-697aaa0",
       "port-version": 0
     },
+    "pfring-2019-10-17-0": {
+      "baseline": "2019-10-17",
+      "port-version": 0
+    },
     "pfultz2-linq-2018-02-08-0": {
       "baseline": "2018-02-08",
       "port-version": 0
