@@ -13380,6 +13380,10 @@
       "baseline": "0.2.8-2",
       "port-version": 0
     },
+    "json-dto-0-2-9-0": {
+      "baseline": "0.2.9",
+      "port-version": 0
+    },
     "json-spirit-4-1-0-0": {
       "baseline": "4.1.0",
       "port-version": 0
