@@ -43408,6 +43408,10 @@
       "baseline": "3.10.5",
       "port-version": 1
     },
+    "nlohmann-json-3-10-5-2": {
+      "baseline": "3.10.5",
+      "port-version": 2
+    },
     "nlohmann-json-3-2-0-0": {
       "baseline": "3.2.0",
       "port-version": 0
