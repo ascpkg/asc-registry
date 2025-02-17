@@ -60260,6 +60260,10 @@
       "baseline": "2023-11-08",
       "port-version": 0
     },
+    "live555-2023-11-30-0": {
+      "baseline": "2023-11-30",
+      "port-version": 0
+    },
     "live555-latest-0": {
       "baseline": "latest",
       "port-version": 0
