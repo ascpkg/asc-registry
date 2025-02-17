@@ -8016,6 +8016,10 @@
       "baseline": "2019-08-05",
       "port-version": 0
     },
+    "dbow3-1-0-0-0": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
     "dcmtk-3-6-3-0": {
       "baseline": "3.6.3",
       "port-version": 0
