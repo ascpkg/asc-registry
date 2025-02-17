@@ -10496,6 +10496,10 @@
       "baseline": "jun2020",
       "port-version": 0
     },
+    "directxtex-jun2020b-0": {
+      "baseline": "jun2020b",
+      "port-version": 0
+    },
     "directxtex-may2018-0": {
       "baseline": "may2018",
       "port-version": 0
@@ -10630,6 +10634,10 @@
     },
     "directxtk12-jun2020-0": {
       "baseline": "jun2020",
+      "port-version": 0
+    },
+    "directxtk12-jun2020b-0": {
+      "baseline": "jun2020b",
       "port-version": 0
     },
     "directxtk12-oct2016-0": {
