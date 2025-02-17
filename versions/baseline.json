@@ -17740,6 +17740,10 @@
       "baseline": "2.0.1",
       "port-version": 0
     },
+    "cli-2-0-2-0": {
+      "baseline": "2.0.2",
+      "port-version": 0
+    },
     "cli-2019-03-21-0": {
       "baseline": "2019-03-21",
       "port-version": 0
