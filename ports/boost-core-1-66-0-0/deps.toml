@@ -4,4 +4,4 @@ new = "boost-core-1-66-0-0"
 [deps]
 boost-assert-1-66-0-0 = "boost-assert"
 boost-config-1-66-0-0 = "boost-config"
-boost-vcpkg-helpers-1-0 = "boost-vcpkg-helpers"
+boost-vcpkg-helpers-4-0 = "boost-vcpkg-helpers"

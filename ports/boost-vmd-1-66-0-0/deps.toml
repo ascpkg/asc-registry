@@ -3,4 +3,4 @@ new = "boost-vmd-1-66-0-0"
 
 [deps]
 boost-preprocessor-1-66-0-0 = "boost-preprocessor"
-boost-vcpkg-helpers-1-0 = "boost-vcpkg-helpers"
+boost-vcpkg-helpers-4-0 = "boost-vcpkg-helpers"

@@ -4,4 +4,4 @@ new = "boost-mp11-1-66-0-0"
 [deps]
 boost-config-1-66-0-0 = "boost-config"
 boost-detail-1-66-0-0 = "boost-detail"
-boost-vcpkg-helpers-1-0 = "boost-vcpkg-helpers"
+boost-vcpkg-helpers-4-0 = "boost-vcpkg-helpers"
