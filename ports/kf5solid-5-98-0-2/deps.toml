@@ -1,0 +1,13 @@
+old = "kf5solid"
+new = "kf5solid-5-98-0-2"
+
+[deps]
+ecm-5-98-0-0 = "ecm"
+kf5solid-5-98-0-2 = "kf5solid"
+libimobiledevice-2023-07-05-0 = "libimobiledevice"
+libmount-2-38-2 = "libmount"
+libplist-2023-06-15-1 = "libplist"
+qt5-base-5-15-10-5 = "qt5-base"
+qt5-tools-5-15-10-1 = "qt5-tools"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
