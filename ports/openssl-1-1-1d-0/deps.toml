@@ -2,6 +2,6 @@ old = "openssl"
 new = "openssl-1-1-1d-0"
 
 [deps]
-openssl-unix-1-1-1d-1-0 = "openssl-unix"
-openssl-uwp-1-1-1d-0 = "openssl-uwp"
-openssl-windows-1-1-1d-0 = "openssl-windows"
+openssl-unix-1-1-1d-2-0 = "openssl-unix"
+openssl-uwp-1-1-1d-1-0 = "openssl-uwp"
+openssl-windows-1-1-1d-1-0 = "openssl-windows"
