@@ -52892,6 +52892,10 @@
       "baseline": "5.0",
       "port-version": 3
     },
+    "readline-win32-5-0-4": {
+      "baseline": "5.0",
+      "port-version": 4
+    },
     "readosm-1-1-0-0": {
       "baseline": "1.1.0",
       "port-version": 0
