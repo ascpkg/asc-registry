@@ -1,0 +1,5 @@
+old = "nng"
+new = "nng-1-4-0-0"
+
+[deps]
+mbedtls-2-24-0-2 = "mbedtls"
