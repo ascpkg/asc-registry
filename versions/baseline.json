@@ -100,6 +100,10 @@
       "baseline": "1.0.0-b30",
       "port-version": 0
     },
+    "beast-v40-0": {
+      "baseline": "v40",
+      "port-version": 0
+    },
     "benchmark-1-1-0-0": {
       "baseline": "1.1.0",
       "port-version": 0
