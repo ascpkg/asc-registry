@@ -1,2 +1,5 @@
 old = "nng"
 new = "nng-1-0-1-0"
+
+[deps]
+mbedtls-2-12-0-0 = "mbedtls"
