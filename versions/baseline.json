@@ -36052,6 +36052,10 @@
       "baseline": "2.0-20210922",
       "port-version": 0
     },
+    "llfio-2-0-20211208-0": {
+      "baseline": "2.0-20211208",
+      "port-version": 0
+    },
     "llfio-2-0-a74411ed-0": {
       "baseline": "2.0-a74411ed",
       "port-version": 0
@@ -39535,6 +39539,10 @@
     "ned14-internal-quickcpplib-0-0-0-7cb75d4e-1": {
       "baseline": "0.0.0-7cb75d4e",
       "port-version": 1
+    },
+    "ned14-internal-quickcpplib-0-0-0-8089a948-0": {
+      "baseline": "0.0.0-8089a948",
+      "port-version": 0
     },
     "ned14-internal-quickcpplib-0-0-0-e691a6dc-0": {
       "baseline": "0.0.0-e691a6dc",
@@ -43510,6 +43518,10 @@
     },
     "outcome-2-2-2-20210922-0": {
       "baseline": "2.2.2-20210922",
+      "port-version": 0
+    },
+    "outcome-2-2-2-20211208-0": {
+      "baseline": "2.2.2-20211208",
       "port-version": 0
     },
     "p-ranav-csv-2019-07-11-0": {
@@ -55647,6 +55659,10 @@
     "starlink-ast-9-2-4-2": {
       "baseline": "9.2.4",
       "port-version": 2
+    },
+    "status-code-1-0-0-20211208-1": {
+      "baseline": "1.0.0-20211208",
+      "port-version": 1
     },
     "status-code-1-0-0-ab3cd821-0": {
       "baseline": "1.0.0-ab3cd821",
