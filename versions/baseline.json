@@ -54248,6 +54248,10 @@
       "baseline": "1.6",
       "port-version": 1
     },
+    "sqlite-orm-1-7-0": {
+      "baseline": "1.7",
+      "port-version": 0
+    },
     "sqlite3-3-15-0-0": {
       "baseline": "3.15.0",
       "port-version": 0
