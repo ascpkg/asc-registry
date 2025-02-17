@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/taglib-1-13-0-2",
+      "version-semver": "1.13.0",
+      "port-version": 2
+    }
+  ]
+}
