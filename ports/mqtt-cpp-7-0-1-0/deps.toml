@@ -2,5 +2,7 @@ old = "mqtt-cpp"
 new = "mqtt-cpp-7-0-1-0"
 
 [deps]
+boost-any-1-72-0-0 = "boost-any"
 boost-asio-1-72-0-0 = "boost-asio"
-boost-timer-1-72-0-0 = "boost-timer"
+boost-multi-index-1-72-0-0 = "boost-multi-index"
+boost-type-erasure-1-72-0-0 = "boost-type-erasure"
