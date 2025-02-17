@@ -1,0 +1,10 @@
+{
+  "name": "dukglue-2022-11-08-0",
+  "version-date": "2022-11-08",
+  "description": "A C++ binding/wrapper library for the Duktape JavaScript interpreter.",
+  "homepage": "https://github.com/Aloshi/dukglue",
+  "license": "MIT",
+  "dependencies": [
+    "duktape"
+  ]
+}
