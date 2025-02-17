@@ -1,0 +1,5 @@
+old = "vamp-sdk"
+new = "vamp-sdk-2-10-1"
+
+[deps]
+libsndfile-1-0-31-0 = "libsndfile"
