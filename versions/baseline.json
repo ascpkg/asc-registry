@@ -51440,6 +51440,10 @@
       "baseline": "2019-07-11",
       "port-version": 2
     },
+    "pipewire-0-3-52-0": {
+      "baseline": "0.3.52",
+      "port-version": 0
+    },
     "pistache-2019-08-05-0": {
       "baseline": "2019-08-05",
       "port-version": 0
