@@ -52016,6 +52016,10 @@
       "baseline": "20220729",
       "port-version": 0
     },
+    "ncnn-20221128-0": {
+      "baseline": "20221128",
+      "port-version": 0
+    },
     "ncurses-6-2-0": {
       "baseline": "6.2",
       "port-version": 0
