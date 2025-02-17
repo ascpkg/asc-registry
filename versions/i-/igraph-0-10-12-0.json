@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/igraph-0-10-12-0",
+      "version": "0.10.12",
+      "port-version": 0
+    }
+  ]
+}
