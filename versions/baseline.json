@@ -28492,6 +28492,10 @@
       "baseline": "0.26",
       "port-version": 0
     },
+    "sqlpp11-connector-mysql-0-29-0": {
+      "baseline": "0.29",
+      "port-version": 0
+    },
     "sqlpp11-connector-sqlite3-0-29-0": {
       "baseline": "0.29",
       "port-version": 0
