@@ -73460,6 +73460,10 @@
       "baseline": "2022-08-18",
       "port-version": 0
     },
+    "vcpkg-cmake-2022-09-13-0": {
+      "baseline": "2022-09-13",
+      "port-version": 0
+    },
     "vcpkg-cmake-config-2021-02-26-0": {
       "baseline": "2021-02-26",
       "port-version": 0
