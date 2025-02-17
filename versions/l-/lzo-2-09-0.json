@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/lzo-2-09-0",
+      "version": "2.09",
+      "port-version": 0
+    }
+  ]
+}

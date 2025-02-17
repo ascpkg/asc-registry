@@ -728,6 +728,10 @@
       "baseline": "1.7.4.2",
       "port-version": 0
     },
+    "lzo-2-09-0": {
+      "baseline": "2.09",
+      "port-version": 0
+    },
     "metis-5-1-0-0": {
       "baseline": "5.1.0",
       "port-version": 0
