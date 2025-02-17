@@ -43812,6 +43812,10 @@
       "baseline": "5.98.0",
       "port-version": 0
     },
+    "kf5parts-5-98-0-0": {
+      "baseline": "5.98.0",
+      "port-version": 0
+    },
     "kf5plotting-5-37-0-0": {
       "baseline": "5.37.0",
       "port-version": 0
