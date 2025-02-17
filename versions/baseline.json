@@ -35428,6 +35428,10 @@
       "baseline": "3.0.0",
       "port-version": 8
     },
+    "pthreads-3-0-0-9": {
+      "baseline": "3.0.0",
+      "port-version": 9
+    },
     "pugixml-1-10-0": {
       "baseline": "1.10",
       "port-version": 0
