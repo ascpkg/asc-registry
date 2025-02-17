@@ -6904,6 +6904,10 @@
       "baseline": "1.8.3",
       "port-version": 1
     },
+    "benchmark-1-8-3-2": {
+      "baseline": "1.8.3",
+      "port-version": 2
+    },
     "bento4-1-5-1-628-0": {
       "baseline": "1.5.1-628",
       "port-version": 0
