@@ -1,0 +1,13 @@
+old = "octave"
+new = "octave-9-3-0-1"
+
+[deps]
+blas-2023-04-14-2 = "blas"
+fftw3-3-3-10-9 = "fftw3"
+glpk-5-0-3 = "glpk"
+lapack-2023-06-10-2 = "lapack"
+libsndfile-1-2-2-0 = "libsndfile"
+opengl-2022-12-04-3 = "opengl"
+pcre2-10-43-0 = "pcre2"
+readline-0-5 = "readline"
+zlib-1-3-1-0 = "zlib"
