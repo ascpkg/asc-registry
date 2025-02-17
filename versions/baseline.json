@@ -12112,6 +12112,10 @@
       "baseline": "0.19.2",
       "port-version": 0
     },
+    "libraw-201903-0": {
+      "baseline": "201903",
+      "port-version": 0
+    },
     "librdkafka-2019-04-16-0": {
       "baseline": "2019-04-16",
       "port-version": 0
