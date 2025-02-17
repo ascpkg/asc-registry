@@ -1,0 +1,9 @@
+old = "boost-outcome"
+new = "boost-outcome-1-83-0-0"
+
+[deps]
+boost-config-1-83-0-0 = "boost-config"
+boost-exception-1-83-0-0 = "boost-exception"
+boost-system-1-83-0-0 = "boost-system"
+boost-throw-exception-1-83-0-0 = "boost-throw-exception"
+boost-vcpkg-helpers-1-83-0-0 = "boost-vcpkg-helpers"

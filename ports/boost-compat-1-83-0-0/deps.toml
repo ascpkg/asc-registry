@@ -1,0 +1,8 @@
+old = "boost-compat"
+new = "boost-compat-1-83-0-0"
+
+[deps]
+boost-assert-1-83-0-0 = "boost-assert"
+boost-config-1-83-0-0 = "boost-config"
+boost-throw-exception-1-83-0-0 = "boost-throw-exception"
+boost-vcpkg-helpers-1-83-0-0 = "boost-vcpkg-helpers"

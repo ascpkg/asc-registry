@@ -1,0 +1,13 @@
+old = "boost-poly-collection"
+new = "boost-poly-collection-1-83-0-0"
+
+[deps]
+boost-assert-1-83-0-0 = "boost-assert"
+boost-config-1-83-0-0 = "boost-config"
+boost-core-1-83-0-0 = "boost-core"
+boost-iterator-1-83-0-0 = "boost-iterator"
+boost-mp11-1-83-0-0 = "boost-mp11"
+boost-mpl-1-83-0-0 = "boost-mpl"
+boost-type-erasure-1-83-0-0 = "boost-type-erasure"
+boost-type-traits-1-83-0-0 = "boost-type-traits"
+boost-vcpkg-helpers-1-83-0-0 = "boost-vcpkg-helpers"
