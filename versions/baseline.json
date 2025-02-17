@@ -51444,6 +51444,10 @@
       "baseline": "8.13.13",
       "port-version": 0
     },
+    "libphonenumber-8-13-13-1": {
+      "baseline": "8.13.13",
+      "port-version": 1
+    },
     "libphonenumber-8-13-7-0": {
       "baseline": "8.13.7",
       "port-version": 0
@@ -80454,6 +80458,10 @@
     },
     "re2-2023-02-01-0": {
       "baseline": "2023-02-01",
+      "port-version": 0
+    },
+    "re2-2023-07-01-0": {
+      "baseline": "2023-07-01",
       "port-version": 0
     },
     "reactiveplusplus-0-2-2-0": {
