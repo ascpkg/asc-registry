@@ -1,0 +1,7 @@
+old = "boost-winapi"
+new = "boost-winapi-1-81-0-2"
+
+[deps]
+boost-config-1-81-0-2 = "boost-config"
+boost-predef-1-81-0-2 = "boost-predef"
+boost-vcpkg-helpers-1-81-0-3 = "boost-vcpkg-helpers"

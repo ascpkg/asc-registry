@@ -1,0 +1,5 @@
+old = "boost-lambda2"
+new = "boost-lambda2-1-81-0-2"
+
+[deps]
+boost-vcpkg-helpers-1-81-0-3 = "boost-vcpkg-helpers"
