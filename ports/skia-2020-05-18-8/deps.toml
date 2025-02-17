@@ -1,0 +1,13 @@
+old = "skia"
+new = "skia-2020-05-18-8"
+
+[deps]
+expat-2-4-1-0 = "expat"
+freetype-2-11-1-0 = "freetype"
+harfbuzz-3-2-0-1 = "harfbuzz"
+icu-69-1-18 = "icu"
+libjpeg-turbo-2-1-2-0 = "libjpeg-turbo"
+libpng-1-6-37-16 = "libpng"
+libwebp-1-2-1-0 = "libwebp"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"
+zlib-1-2-11-13 = "zlib"
