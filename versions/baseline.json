@@ -30332,6 +30332,10 @@
       "baseline": "2023-10-01",
       "port-version": 1
     },
+    "colmap-3-10-0": {
+      "baseline": "3.10",
+      "port-version": 0
+    },
     "colmap-3-6-0": {
       "baseline": "3.6",
       "port-version": 0
