@@ -25244,6 +25244,10 @@
       "baseline": "3.3",
       "port-version": 9
     },
+    "libffi-3-4-2-0": {
+      "baseline": "3.4.2",
+      "port-version": 0
+    },
     "libfido2-1-7-0-0": {
       "baseline": "1.7.0",
       "port-version": 0
