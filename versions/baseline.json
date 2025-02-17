@@ -72384,6 +72384,10 @@
       "baseline": "6.4.3",
       "port-version": 0
     },
+    "qt5compat-6-4-3-1": {
+      "baseline": "6.4.3",
+      "port-version": 1
+    },
     "qt5datavis3d-5-9-2-0-0": {
       "baseline": "5.9.2-0",
       "port-version": 0
@@ -72735,6 +72739,10 @@
     "qtbase-6-4-3-2": {
       "baseline": "6.4.3",
       "port-version": 2
+    },
+    "qtbase-6-4-3-3": {
+      "baseline": "6.4.3",
+      "port-version": 3
     },
     "qtcharts-6-1-0-0": {
       "baseline": "6.1.0",
