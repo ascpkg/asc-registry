@@ -1,0 +1,7 @@
+old = "libxml2"
+new = "libxml2-2-9-10-2"
+
+[deps]
+libiconv-1-16-6 = "libiconv"
+liblzma-5-2-5-2 = "liblzma"
+zlib-1-2-11-9 = "zlib"

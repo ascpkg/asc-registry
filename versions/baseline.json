@@ -24500,6 +24500,10 @@
       "baseline": "2.9.10",
       "port-version": 1
     },
+    "libxml2-2-9-10-2": {
+      "baseline": "2.9.10",
+      "port-version": 2
+    },
     "libxml2-2-9-4-0": {
       "baseline": "2.9.4",
       "port-version": 0
