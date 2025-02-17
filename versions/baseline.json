@@ -6448,6 +6448,10 @@
       "baseline": "4.8.30",
       "port-version": 9
     },
+    "better-enums-0-11-3-0": {
+      "baseline": "0.11.3",
+      "port-version": 0
+    },
     "bext-di-1-2-0-0": {
       "baseline": "1.2.0",
       "port-version": 0
