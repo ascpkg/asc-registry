@@ -1,0 +1,10 @@
+old = "freetype"
+new = "freetype-2-12-1-2"
+
+[deps]
+brotli-1-0-9-3 = "brotli"
+bzip2-1-0-8-2 = "bzip2"
+libpng-1-6-37-18 = "libpng"
+vcpkg-cmake-2022-07-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-2-12-1 = "zlib"
