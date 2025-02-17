@@ -60704,6 +60704,10 @@
       "baseline": "9.4.0",
       "port-version": 5
     },
+    "sdformat9-9-4-0-6": {
+      "baseline": "9.4.0",
+      "port-version": 6
+    },
     "sdl1-1-2-15-10-0": {
       "baseline": "1.2.15-10",
       "port-version": 0
