@@ -7588,6 +7588,10 @@
       "baseline": "5.58.0",
       "port-version": 0
     },
+    "ecm-5-60-0-0": {
+      "baseline": "5.60.0",
+      "port-version": 0
+    },
     "ecsutil-0-9-0-0-0": {
       "baseline": "0.9.0.0",
       "port-version": 0
