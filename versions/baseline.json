@@ -89608,6 +89608,10 @@
       "baseline": "23.5",
       "port-version": 1
     },
+    "usd-23-5-2": {
+      "baseline": "23.5",
+      "port-version": 2
+    },
     "usockets-0-1-2-0": {
       "baseline": "0.1.2",
       "port-version": 0
