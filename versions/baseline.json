@@ -23768,6 +23768,10 @@
       "baseline": "6.4.3",
       "port-version": 2
     },
+    "coolprop-6-4-3-3": {
+      "baseline": "6.4.3",
+      "port-version": 3
+    },
     "coroutine-1-4-0-0": {
       "baseline": "1.4.0",
       "port-version": 0
@@ -40159,6 +40163,10 @@
     "if97-2-1-3-0": {
       "baseline": "2.1.3",
       "port-version": 0
+    },
+    "if97-2-1-3-1": {
+      "baseline": "2.1.3",
+      "port-version": 1
     },
     "igloo-1-1-1-0": {
       "baseline": "1.1.1",
@@ -58239,6 +58247,10 @@
     "msgpack-6-0-0-0": {
       "baseline": "6.0.0",
       "port-version": 0
+    },
+    "msgpack-6-0-0-1": {
+      "baseline": "6.0.0",
+      "port-version": 1
     },
     "msgpack-c-6-0-0-0": {
       "baseline": "6.0.0",
@@ -78083,6 +78095,10 @@
     "refprop-headers-2019-04-14-2": {
       "baseline": "2019-04-14",
       "port-version": 2
+    },
+    "refprop-headers-2022-12-07-0": {
+      "baseline": "2022-12-07",
+      "port-version": 0
     },
     "rendergraph-1-0-0-0": {
       "baseline": "1.0.0",
