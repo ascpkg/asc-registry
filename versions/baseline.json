@@ -79460,6 +79460,10 @@
       "baseline": "1.1.0",
       "port-version": 0
     },
+    "prometheus-cpp-1-2-4-0": {
+      "baseline": "1.2.4",
+      "port-version": 0
+    },
     "promise-cpp-2-1-2-0": {
       "baseline": "2.1.2",
       "port-version": 0
