@@ -49660,6 +49660,10 @@
       "baseline": "6.3",
       "port-version": 2
     },
+    "ncurses-6-3-3": {
+      "baseline": "6.3",
+      "port-version": 3
+    },
     "neargye-semver-0-2-2-0": {
       "baseline": "0.2.2",
       "port-version": 0
