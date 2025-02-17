@@ -67484,6 +67484,10 @@
       "baseline": "0.8.0",
       "port-version": 3
     },
+    "tre-0-8-0-4": {
+      "baseline": "0.8.0",
+      "port-version": 4
+    },
     "treehh-3-16-0": {
       "baseline": "3.16",
       "port-version": 0
