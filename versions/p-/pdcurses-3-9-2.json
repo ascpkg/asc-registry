@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/pdcurses-3-9-2",
+      "version-string": "3.9",
+      "port-version": 2
+    }
+  ]
+}

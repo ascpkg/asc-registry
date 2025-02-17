@@ -40680,6 +40680,10 @@
       "baseline": "3.9",
       "port-version": 1
     },
+    "pdcurses-3-9-2": {
+      "baseline": "3.9",
+      "port-version": 2
+    },
     "pdqsort-2019-07-30-0": {
       "baseline": "2019-07-30",
       "port-version": 0
