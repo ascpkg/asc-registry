@@ -61760,6 +61760,10 @@
       "baseline": "1.2.0",
       "port-version": 0
     },
+    "tmx-1-2-0-1": {
+      "baseline": "1.2.0",
+      "port-version": 1
+    },
     "tmxlite-1-3-0-0": {
       "baseline": "1.3.0",
       "port-version": 0
@@ -63430,6 +63434,10 @@
     },
     "vcpkg-cmake-config-2022-01-30-0": {
       "baseline": "2022-01-30",
+      "port-version": 0
+    },
+    "vcpkg-cmake-config-2022-02-06-0": {
+      "baseline": "2022-02-06",
       "port-version": 0
     },
     "vcpkg-gfortran-1-0": {
