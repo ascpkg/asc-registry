@@ -66900,6 +66900,10 @@
       "baseline": "3.1.1",
       "port-version": 0
     },
+    "onednn-3-3-0": {
+      "baseline": "3.3",
+      "port-version": 0
+    },
     "oniguruma-2019-02-26-0": {
       "baseline": "2019-02-26",
       "port-version": 0
