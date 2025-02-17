@@ -17380,6 +17380,10 @@
       "baseline": "7.80.0",
       "port-version": 0
     },
+    "curl-7-81-0-0": {
+      "baseline": "7.81.0",
+      "port-version": 0
+    },
     "curlpp-2018-06-15-0": {
       "baseline": "2018-06-15",
       "port-version": 0
@@ -32767,6 +32771,10 @@
     "libidn2-2-3-0-4": {
       "baseline": "2.3.0",
       "port-version": 4
+    },
+    "libidn2-2-3-0-5": {
+      "baseline": "2.3.0",
+      "port-version": 5
     },
     "libigl-2-1-0-1-0": {
       "baseline": "2.1.0-1",
