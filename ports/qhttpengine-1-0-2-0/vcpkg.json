@@ -1,0 +1,17 @@
+{
+  "name": "qhttpengine-1-0-2-0",
+  "version": "1.0.2",
+  "description": "HTTP server for Qt applications",
+  "supports": "!uwp",
+  "dependencies": [
+    "qt5-base",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
