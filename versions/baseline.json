@@ -25568,6 +25568,10 @@
       "baseline": "0.0.4-2",
       "port-version": 0
     },
+    "plibsys-0-0-4-3-0": {
+      "baseline": "0.0.4-3",
+      "port-version": 0
+    },
     "plog-1-1-3-0": {
       "baseline": "1.1.3",
       "port-version": 0
