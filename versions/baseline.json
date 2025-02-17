@@ -89848,6 +89848,10 @@
       "baseline": "6.6.1",
       "port-version": 4
     },
+    "qtwebengine-6-6-1-5": {
+      "baseline": "6.6.1",
+      "port-version": 5
+    },
     "qtwebsockets-6-2-0-0": {
       "baseline": "6.2.0",
       "port-version": 0
