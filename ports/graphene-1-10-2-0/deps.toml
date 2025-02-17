@@ -1,0 +1,6 @@
+old = "graphene"
+new = "graphene-1-10-2-0"
+
+[deps]
+gettext-0-21-0 = "gettext"
+glib-2-52-3-25 = "glib"
