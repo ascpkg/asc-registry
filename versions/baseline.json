@@ -29900,6 +29900,10 @@
       "baseline": "2023-02-01",
       "port-version": 0
     },
+    "coin-or-cbc-2024-06-04-0": {
+      "baseline": "2024-06-04",
+      "port-version": 0
+    },
     "coin-or-cgl-2023-02-01-0": {
       "baseline": "2023-02-01",
       "port-version": 0
@@ -29914,6 +29918,10 @@
     },
     "coin-or-osi-2023-02-01-0": {
       "baseline": "2023-02-01",
+      "port-version": 0
+    },
+    "coin-or-osi-2024-04-16-0": {
+      "baseline": "2024-04-16",
       "port-version": 0
     },
     "coinutils-2-10-14-0-0": {
@@ -29951,6 +29959,10 @@
     "coinutils-2023-02-02-1": {
       "baseline": "2023-02-02",
       "port-version": 1
+    },
+    "coinutils-2024-04-08-0": {
+      "baseline": "2024-04-08",
+      "port-version": 0
     },
     "collada-dom-2-5-0-0": {
       "baseline": "2.5.0",
