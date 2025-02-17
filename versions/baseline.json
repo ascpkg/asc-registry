@@ -26516,6 +26516,10 @@
       "baseline": "4.2.6.9-2",
       "port-version": 0
     },
+    "sciter-4-4-0-7-0": {
+      "baseline": "4.4.0.7",
+      "port-version": 0
+    },
     "scnlib-0-1-2-0": {
       "baseline": "0.1.2",
       "port-version": 0
