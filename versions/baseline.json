@@ -53532,6 +53532,10 @@
       "baseline": "0.9.0",
       "port-version": 1
     },
+    "spectra-1-0-0-0": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
     "speex--0": {
       "baseline": "",
       "port-version": 0
