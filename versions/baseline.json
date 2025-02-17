@@ -22504,6 +22504,10 @@
       "baseline": "4.0.1",
       "port-version": 0
     },
+    "libwebsockets-4-1-2-0": {
+      "baseline": "4.1.2",
+      "port-version": 0
+    },
     "libxdiff-0-23-0": {
       "baseline": "0.23",
       "port-version": 0
