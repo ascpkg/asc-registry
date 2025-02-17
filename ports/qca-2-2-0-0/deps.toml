@@ -1,2 +1,5 @@
 old = "qca"
 new = "qca-2-2-0-0"
+
+[deps]
+qt5-5-7-1-0 = "qt5"
