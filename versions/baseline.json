@@ -58804,6 +58804,10 @@
       "baseline": "1.6.43",
       "port-version": 0
     },
+    "libpng-1-6-43-1": {
+      "baseline": "1.6.43",
+      "port-version": 1
+    },
     "libpng-apng-1-6-34-2-0": {
       "baseline": "1.6.34-2",
       "port-version": 0
