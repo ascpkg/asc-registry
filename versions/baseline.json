@@ -14792,6 +14792,10 @@
       "baseline": "2.1.0-3",
       "port-version": 0
     },
+    "nvtt-2-1-1-0": {
+      "baseline": "2.1.1",
+      "port-version": 0
+    },
     "observer-ptr-lite-0-3-0-0": {
       "baseline": "0.3.0",
       "port-version": 0
