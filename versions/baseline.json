@@ -99472,6 +99472,10 @@
       "baseline": "4.4.3",
       "port-version": 0
     },
+    "tinyutf8-4-4-3-1": {
+      "baseline": "4.4.3",
+      "port-version": 1
+    },
     "tinyxml-2-6-2-1-0": {
       "baseline": "2.6.2-1",
       "port-version": 0
