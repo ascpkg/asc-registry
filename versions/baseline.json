@@ -3204,6 +3204,10 @@
       "baseline": "3.1.0",
       "port-version": 0
     },
+    "asio-grpc-3-2-0-0": {
+      "baseline": "3.2.0",
+      "port-version": 0
+    },
     "asiochan-2022-11-25-0": {
       "baseline": "2022-11-25",
       "port-version": 0
