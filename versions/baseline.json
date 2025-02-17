@@ -11840,6 +11840,10 @@
       "baseline": "3.1.4",
       "port-version": 0
     },
+    "comms-3-2-0-0": {
+      "baseline": "3.2.0",
+      "port-version": 0
+    },
     "comms-ublox-0-19-1-0": {
       "baseline": "0.19.1",
       "port-version": 0
@@ -11874,6 +11878,10 @@
     },
     "commsdsl-3-6-1-0": {
       "baseline": "3.6.1",
+      "port-version": 0
+    },
+    "commsdsl-3-6-2-0": {
+      "baseline": "3.6.2",
       "port-version": 0
     },
     "concurrentqueue-1-0-0-beta-0": {
