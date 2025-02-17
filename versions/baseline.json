@@ -97196,6 +97196,10 @@
       "baseline": "0.7.2",
       "port-version": 0
     },
+    "wg21-linear-algebra-0-7-3-0": {
+      "baseline": "0.7.3",
+      "port-version": 0
+    },
     "wg21-sg14-2019-08-13-0": {
       "baseline": "2019-08-13",
       "port-version": 0
