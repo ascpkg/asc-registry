@@ -42760,6 +42760,10 @@
       "baseline": "2020-12-25",
       "port-version": 1
     },
+    "minimp3-2021-11-30-0": {
+      "baseline": "2021-11-30",
+      "port-version": 0
+    },
     "minio-cpp-2022-01-03-0": {
       "baseline": "2022-01-03",
       "port-version": 0
