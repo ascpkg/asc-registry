@@ -12980,6 +12980,10 @@
       "baseline": "0.8.9.0-4",
       "port-version": 0
     },
+    "libmorton-0-2-0": {
+      "baseline": "0.2",
+      "port-version": 0
+    },
     "libmorton-2018-19-07-0": {
       "baseline": "2018-19-07",
       "port-version": 0
