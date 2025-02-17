@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/dimcli-5-0-2-3",
+      "version-semver": "5.0.2",
+      "port-version": 3
+    }
+  ]
+}
