@@ -79272,6 +79272,10 @@
       "baseline": "9.3.1",
       "port-version": 0
     },
+    "proj-9-4-0-0": {
+      "baseline": "9.4.0",
+      "port-version": 0
+    },
     "proj4-4-9-3-0": {
       "baseline": "4.9.3",
       "port-version": 0
@@ -92775,6 +92779,10 @@
     "rtabmap-0-21-4-0": {
       "baseline": "0.21.4",
       "port-version": 0
+    },
+    "rtabmap-0-21-4-1": {
+      "baseline": "0.21.4",
+      "port-version": 1
     },
     "rtaudio-2021-01-25-0": {
       "baseline": "2021-01-25",
