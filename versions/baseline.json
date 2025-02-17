@@ -10968,6 +10968,10 @@
       "baseline": "2.1.0",
       "port-version": 0
     },
+    "inja-2-1-0-1-0": {
+      "baseline": "2.1.0-1",
+      "port-version": 0
+    },
     "intel-ipsec-0-52-0": {
       "baseline": "0.52",
       "port-version": 0
