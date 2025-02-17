@@ -14772,6 +14772,10 @@
       "baseline": "0.15.1-4",
       "port-version": 0
     },
+    "libmad-0-15-1-5-0": {
+      "baseline": "0.15.1-5",
+      "port-version": 0
+    },
     "libmariadb-2-3-1-0": {
       "baseline": "2.3.1",
       "port-version": 0
