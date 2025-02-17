@@ -1,0 +1,10 @@
+old = "shiva"
+new = "shiva-0-3-0"
+
+[deps]
+boost-dll-1-67-0-0 = "boost-dll"
+boost-filesystem-1-67-0-0 = "boost-filesystem"
+boost-function-1-67-0-0 = "boost-function"
+boost-stacktrace-1-67-0-0 = "boost-stacktrace"
+eastl-3-09-00-0 = "eastl"
+entt-2-6-1-0 = "entt"
