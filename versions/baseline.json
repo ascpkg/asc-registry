@@ -83320,6 +83320,10 @@
       "baseline": "3.2.0",
       "port-version": 4
     },
+    "rbdl-3-3-0-5": {
+      "baseline": "3.3.0",
+      "port-version": 5
+    },
     "rbdl-orb-3-0-0-0": {
       "baseline": "3.0.0",
       "port-version": 0
