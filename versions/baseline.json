@@ -50020,6 +50020,10 @@
       "baseline": "6.2.0",
       "port-version": 0
     },
+    "qwt-6-2-0-1": {
+      "baseline": "6.2.0",
+      "port-version": 1
+    },
     "qwt-qt6-6-2-0-0": {
       "baseline": "6.2.0",
       "port-version": 0
