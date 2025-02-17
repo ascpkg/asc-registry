@@ -1,0 +1,7 @@
+old = "gpgme"
+new = "gpgme-1-14-0-2"
+
+[deps]
+libassuan-2-5-3-3 = "libassuan"
+libgpg-error-1-42-2 = "libgpg-error"
+vcpkg-cmake-config-2021-11-01-0 = "vcpkg-cmake-config"
