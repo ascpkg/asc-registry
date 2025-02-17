@@ -29688,6 +29688,10 @@
       "baseline": "1.12.2",
       "port-version": 0
     },
+    "hdf5-1-12-2-1": {
+      "baseline": "1.12.2",
+      "port-version": 1
+    },
     "hdf5-1-8-18-0": {
       "baseline": "1.8.18",
       "port-version": 0
