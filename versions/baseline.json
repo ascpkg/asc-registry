@@ -41524,6 +41524,10 @@
       "baseline": "8.0.0",
       "port-version": 0
     },
+    "fast-float-8-0-0-1": {
+      "baseline": "8.0.0",
+      "port-version": 1
+    },
     "fastcdr-1-0-10-0": {
       "baseline": "1.0.10",
       "port-version": 0
