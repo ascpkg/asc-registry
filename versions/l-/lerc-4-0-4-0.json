@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/lerc-4-0-4-0",
+      "version": "4.0.4",
+      "port-version": 0
+    }
+  ]
+}
