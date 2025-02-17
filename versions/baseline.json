@@ -56680,6 +56680,10 @@
       "baseline": "2024.1.1",
       "port-version": 0
     },
+    "kerbal-2024-11-1-0": {
+      "baseline": "2024.11.1",
+      "port-version": 0
+    },
     "kerbal-2024-2-1-0": {
       "baseline": "2024.2.1",
       "port-version": 0
