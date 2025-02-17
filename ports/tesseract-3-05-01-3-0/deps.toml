@@ -2,5 +2,5 @@ old = "tesseract"
 new = "tesseract-3-05-01-3-0"
 
 [deps]
-icu-59-1-1-0 = "icu"
+icu-61-1-1-0 = "icu"
 leptonica-1-74-4-3-0 = "leptonica"
