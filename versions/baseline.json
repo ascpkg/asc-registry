@@ -236,6 +236,10 @@
       "baseline": "374664b",
       "port-version": 0
     },
+    "brotli-0-6-0-0": {
+      "baseline": "0.6.0",
+      "port-version": 0
+    },
     "bullet3-2-83-7-0": {
       "baseline": "2.83.7",
       "port-version": 0
