@@ -5028,6 +5028,10 @@
       "baseline": "1.13",
       "port-version": 0
     },
+    "re2-2017-12-01-0": {
+      "baseline": "2017-12-01",
+      "port-version": 0
+    },
     "readosm-1-1-0-0": {
       "baseline": "1.1.0",
       "port-version": 0
