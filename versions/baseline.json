@@ -22752,6 +22752,10 @@
       "baseline": "4.0.9-6",
       "port-version": 0
     },
+    "tinkerforge-2-1-25-0": {
+      "baseline": "2.1.25",
+      "port-version": 0
+    },
     "tiny-aes-c-2019-07-31-0": {
       "baseline": "2019-07-31",
       "port-version": 0
