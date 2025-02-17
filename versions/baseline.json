@@ -6244,6 +6244,10 @@
       "baseline": "1.20.3-1",
       "port-version": 0
     },
+    "libuv-1-20-3-2-0": {
+      "baseline": "1.20.3-2",
+      "port-version": 0
+    },
     "libuv-1-9-1-0": {
       "baseline": "1.9.1",
       "port-version": 0
@@ -10326,6 +10330,10 @@
     },
     "uwebsockets-0-14-8-1-0": {
       "baseline": "0.14.8-1",
+      "port-version": 0
+    },
+    "uwebsockets-0-14-8-2-0": {
+      "baseline": "0.14.8-2",
       "port-version": 0
     },
     "vlpp-0-9-3-1-0": {
