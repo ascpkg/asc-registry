@@ -39288,6 +39288,10 @@
       "baseline": "4.4.6",
       "port-version": 0
     },
+    "sciplot-0-2-2-0": {
+      "baseline": "0.2.2",
+      "port-version": 0
+    },
     "sciter-4-0-0-7-0": {
       "baseline": "4.0.0.7",
       "port-version": 0
