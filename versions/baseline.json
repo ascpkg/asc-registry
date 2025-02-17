@@ -74612,6 +74612,10 @@
       "baseline": "2.12.1",
       "port-version": 1
     },
+    "numcpp-2-12-1-2": {
+      "baseline": "2.12.1",
+      "port-version": 2
+    },
     "numcpp-2-6-0-0": {
       "baseline": "2.6.0",
       "port-version": 0
