@@ -32556,6 +32556,10 @@
       "baseline": "2022.10.31.00",
       "port-version": 5
     },
+    "folly-2022-10-31-00-6": {
+      "baseline": "2022.10.31.00",
+      "port-version": 6
+    },
     "folly-v2017-05-08-00-0": {
       "baseline": "v2017.05.08.00",
       "port-version": 0
@@ -88811,6 +88815,10 @@
     "wangle-2022-03-21-00-0": {
       "baseline": "2022.03.21.00",
       "port-version": 0
+    },
+    "wangle-2022-03-21-00-1": {
+      "baseline": "2022.03.21.00",
+      "port-version": 1
     },
     "wangle-v2018-07-30-00-1-0": {
       "baseline": "v2018.07.30.00-1",
