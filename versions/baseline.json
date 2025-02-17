@@ -1512,6 +1512,10 @@
       "baseline": "2.24.2",
       "port-version": 3
     },
+    "atkmm-2-24-2-4": {
+      "baseline": "2.24.2",
+      "port-version": 4
+    },
     "atlmfc-0-0": {
       "baseline": "0",
       "port-version": 0
@@ -17596,6 +17600,10 @@
       "baseline": "2.52.3",
       "port-version": 23
     },
+    "glib-2-52-3-24": {
+      "baseline": "2.52.3",
+      "port-version": 24
+    },
     "glib-2-52-3-9-0": {
       "baseline": "2.52.3-9",
       "port-version": 0
@@ -17615,6 +17623,10 @@
     "glibmm-2-52-1-12": {
       "baseline": "2.52.1",
       "port-version": 12
+    },
+    "glibmm-2-52-1-13": {
+      "baseline": "2.52.1",
+      "port-version": 13
     },
     "glibmm-2-52-1-7-0": {
       "baseline": "2.52.1-7",
@@ -24148,6 +24160,10 @@
       "baseline": "2.10-3",
       "port-version": 0
     },
+    "libsigcpp-2-10-3-1": {
+      "baseline": "2.10-3",
+      "port-version": 1
+    },
     "libsigcpp-2-99-0": {
       "baseline": "2.99",
       "port-version": 0
@@ -25359,6 +25375,10 @@
     "libxmlpp-2-40-1-6": {
       "baseline": "2.40.1",
       "port-version": 6
+    },
+    "libxmlpp-2-40-1-7": {
+      "baseline": "2.40.1",
+      "port-version": 7
     },
     "libxmp-lite-4-4-1-0": {
       "baseline": "4.4.1",
