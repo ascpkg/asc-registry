@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/matio-1-5-23-2",
+      "version": "1.5.23",
+      "port-version": 2
+    }
+  ]
+}
