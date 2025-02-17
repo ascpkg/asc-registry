@@ -8364,6 +8364,10 @@
       "baseline": "3.20.2",
       "port-version": 0
     },
+    "blpapi-3-24-6-0": {
+      "baseline": "3.24.6",
+      "port-version": 0
+    },
     "boinc-7-18-1-0": {
       "baseline": "7.18.1",
       "port-version": 0
