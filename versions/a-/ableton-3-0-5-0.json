@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ableton-3-0-5-0",
+      "version": "3.0.5",
+      "port-version": 0
+    }
+  ]
+}
