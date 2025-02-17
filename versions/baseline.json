@@ -26580,6 +26580,10 @@
       "baseline": "3.100",
       "port-version": 5
     },
+    "mp3lame-3-100-6": {
+      "baseline": "3.100",
+      "port-version": 6
+    },
     "mpark-variant-1-3-0-0": {
       "baseline": "1.3.0",
       "port-version": 0
