@@ -1,0 +1,8 @@
+old = "blosc"
+new = "blosc-1-18-1-1-0"
+
+[deps]
+lz4-1-9-2-0 = "lz4"
+snappy-1-1-8-0 = "snappy"
+zlib-1-2-11-6-0 = "zlib"
+zstd-1-4-4-0 = "zstd"
