@@ -28008,6 +28008,10 @@
       "baseline": "1.34.2",
       "port-version": 0
     },
+    "c-ares-1-34-3-0": {
+      "baseline": "1.34.3",
+      "port-version": 0
+    },
     "c-ares-2019-5-2-0": {
       "baseline": "2019-5-2",
       "port-version": 0
