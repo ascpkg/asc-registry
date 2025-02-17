@@ -27044,6 +27044,10 @@
       "baseline": "1.11.0",
       "port-version": 0
     },
+    "pcl-1-11-0-1": {
+      "baseline": "1.11.0",
+      "port-version": 1
+    },
     "pcl-1-8-0-0": {
       "baseline": "1.8.0",
       "port-version": 0
