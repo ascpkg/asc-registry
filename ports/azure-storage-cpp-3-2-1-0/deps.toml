@@ -3,9 +3,9 @@ new = "azure-storage-cpp-3-2-1-0"
 
 [deps]
 atlmfc-0-0 = "atlmfc"
-boost-locale-1-66-0-0 = "boost-locale"
-boost-log-1-66-0-0 = "boost-log"
+boost-locale-1-67-0-0 = "boost-locale"
+boost-log-1-67-0-0 = "boost-log"
 cpprestsdk-2-10-2-1-0 = "cpprestsdk"
 glibmm-2-52-1-7-0 = "glibmm"
 libuuid-1-0-3-1-0 = "libuuid"
-libxmlpp-2-40-1-1-0 = "libxmlpp"
+libxmlpp-2-40-1-2-0 = "libxmlpp"
