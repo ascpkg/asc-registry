@@ -1,0 +1,16 @@
+{
+  "name": "ignition-modularscripts-2023-05-05-0",
+  "version-date": "2023-05-05",
+  "description": "Vcpkg helpers to package ignition libraries",
+  "supports": "native",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}
