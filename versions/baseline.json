@@ -6648,6 +6648,10 @@
       "baseline": "2023-11-24",
       "port-version": 1
     },
+    "baresip-libre-3-10-0-0": {
+      "baseline": "3.10.0",
+      "port-version": 0
+    },
     "baresip-libre-3-2-0-0": {
       "baseline": "3.2.0",
       "port-version": 0
