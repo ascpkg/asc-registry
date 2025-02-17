@@ -101680,6 +101680,10 @@
       "baseline": "2.1.2",
       "port-version": 0
     },
+    "sese-2-2-0-0": {
+      "baseline": "2.2.0",
+      "port-version": 0
+    },
     "sf2cute-0-2-0-0": {
       "baseline": "0.2.0",
       "port-version": 0
