@@ -37640,6 +37640,10 @@
       "baseline": "2.1.12",
       "port-version": 6
     },
+    "libevent-2-1-12-7": {
+      "baseline": "2.1.12",
+      "port-version": 7
+    },
     "libevent-2-1-8-0": {
       "baseline": "2.1.8",
       "port-version": 0
