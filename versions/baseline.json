@@ -34816,6 +34816,10 @@
       "baseline": "2.23.0",
       "port-version": 0
     },
+    "iceoryx-2-0-2-0": {
+      "baseline": "2.0.2",
+      "port-version": 0
+    },
     "icu-58-1-0": {
       "baseline": "58.1",
       "port-version": 0
