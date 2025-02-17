@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/fastcdr-1-0-15-1",
+      "version-semver": "1.0.15",
+      "port-version": 1
+    }
+  ]
+}
