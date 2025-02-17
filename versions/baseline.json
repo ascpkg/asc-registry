@@ -31860,6 +31860,10 @@
       "baseline": "1.0.2",
       "port-version": 0
     },
+    "uthenticode-1-0-3-0": {
+      "baseline": "1.0.3",
+      "port-version": 0
+    },
     "uvatlas-apr2019-0": {
       "baseline": "apr2019",
       "port-version": 0
