@@ -55204,6 +55204,10 @@
       "baseline": "0.4.7",
       "port-version": 0
     },
+    "nanopb-0-4-7-1": {
+      "baseline": "0.4.7",
+      "port-version": 1
+    },
     "nanopb-2019-02-12-1-0": {
       "baseline": "2019-02-12-1",
       "port-version": 0
