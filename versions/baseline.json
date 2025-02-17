@@ -92556,6 +92556,10 @@
       "baseline": "2023-01-13",
       "port-version": 0
     },
+    "rapidcheck-2023-12-14-0": {
+      "baseline": "2023-12-14",
+      "port-version": 0
+    },
     "rapidcsv-8-50-0": {
       "baseline": "8.50",
       "port-version": 0
