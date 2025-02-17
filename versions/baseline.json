@@ -50540,6 +50540,10 @@
       "baseline": "1.0.11",
       "port-version": 2
     },
+    "libde265-1-0-12-0": {
+      "baseline": "1.0.12",
+      "port-version": 0
+    },
     "libde265-1-0-5-0": {
       "baseline": "1.0.5",
       "port-version": 0
