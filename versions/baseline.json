@@ -1744,6 +1744,10 @@
       "baseline": "2021-05-06",
       "port-version": 0
     },
+    "avcpp-2021-05-06-1": {
+      "baseline": "2021-05-06",
+      "port-version": 1
+    },
     "avisynthplus-3-5-0-0": {
       "baseline": "3.5.0",
       "port-version": 0
@@ -16467,6 +16471,10 @@
     "ffmpeg-4-4-2": {
       "baseline": "4.4",
       "port-version": 2
+    },
+    "ffmpeg-4-4-3": {
+      "baseline": "4.4",
+      "port-version": 3
     },
     "ffnvcodec-10-0-26-0-0": {
       "baseline": "10.0.26.0",
@@ -46563,6 +46571,10 @@
     "vcpkg-pkgconfig-get-modules-2021-04-02-0": {
       "baseline": "2021-04-02",
       "port-version": 0
+    },
+    "vcpkg-pkgconfig-get-modules-2021-04-02-1": {
+      "baseline": "2021-04-02",
+      "port-version": 1
     },
     "vectorclass-2-00-01-0": {
       "baseline": "2.00.01",
