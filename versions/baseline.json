@@ -38400,6 +38400,10 @@
       "baseline": "0.16.0",
       "port-version": 0
     },
+    "libdmx-1-1-4-0": {
+      "baseline": "1.1.4",
+      "port-version": 0
+    },
     "libdshowcapture-0-6-0-0": {
       "baseline": "0.6.0",
       "port-version": 0
@@ -44594,6 +44598,10 @@
     },
     "libxcomposite-0-4-5-0": {
       "baseline": "0.4.5",
+      "port-version": 0
+    },
+    "libxcvt-0-1-2-0": {
+      "baseline": "0.1.2",
       "port-version": 0
     },
     "libxdamage-1-1-5-0": {
@@ -76766,6 +76774,10 @@
     },
     "xaudio2redist-1-2-9-0": {
       "baseline": "1.2.9",
+      "port-version": 0
+    },
+    "xbitmaps-1-1-2-0": {
+      "baseline": "1.1.2",
       "port-version": 0
     },
     "xbyak-5-911-0": {
