@@ -10348,6 +10348,10 @@
       "baseline": "1.0.8",
       "port-version": 1
     },
+    "bzip2-1-0-8-2": {
+      "baseline": "1.0.8",
+      "port-version": 2
+    },
     "c-ares-1-12-1-dev-40eb41f-0": {
       "baseline": "1.12.1-dev-40eb41f",
       "port-version": 0
