@@ -26176,6 +26176,10 @@
       "baseline": "5.84.0",
       "port-version": 2
     },
+    "kf5iconthemes-5-84-0-0": {
+      "baseline": "5.84.0",
+      "port-version": 0
+    },
     "kf5itemmodels-5-64-0-0": {
       "baseline": "5.64.0",
       "port-version": 0
