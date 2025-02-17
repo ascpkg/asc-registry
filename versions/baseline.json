@@ -11296,6 +11296,10 @@
       "baseline": "aug2020",
       "port-version": 0
     },
+    "directxmesh-aug2020-1": {
+      "baseline": "aug2020",
+      "port-version": 1
+    },
     "directxmesh-dec2017-0": {
       "baseline": "dec2017",
       "port-version": 0
