@@ -1,0 +1,8 @@
+old = "thrift"
+new = "thrift-20172805-72ca60debae1d9fb35d9f0085118873669006d7f-0"
+
+[deps]
+boost-1-64-4-0 = "boost"
+libevent-2-1-8-1-0 = "libevent"
+openssl-1-0-2k-2-0 = "openssl"
+zlib-1-2-11-0 = "zlib"
