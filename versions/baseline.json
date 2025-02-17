@@ -26256,6 +26256,10 @@
       "baseline": "0.16.0-2",
       "port-version": 0
     },
+    "seal-3-4-5-0": {
+      "baseline": "3.4.5",
+      "port-version": 0
+    },
     "secp256k1--0": {
       "baseline": "",
       "port-version": 0
