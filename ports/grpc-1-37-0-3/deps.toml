@@ -1,0 +1,12 @@
+old = "grpc"
+new = "grpc-1-37-0-3"
+
+[deps]
+abseil-2021-03-24-1 = "abseil"
+c-ares-1-17-1-1 = "c-ares"
+grpc-1-37-0-3 = "grpc"
+openssl-1-1-1k-8 = "openssl"
+protobuf-3-15-8-3 = "protobuf"
+re2-2020-10-01-0 = "re2"
+upb-2020-12-19-1 = "upb"
+zlib-1-2-11-11 = "zlib"
