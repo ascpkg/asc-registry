@@ -81944,6 +81944,10 @@
       "baseline": "2.12.0",
       "port-version": 0
     },
+    "pybind11-2-12-0-1": {
+      "baseline": "2.12.0",
+      "port-version": 1
+    },
     "pybind11-2-2-0-0": {
       "baseline": "2.2.0",
       "port-version": 0
@@ -82275,6 +82279,10 @@
     "python3-3-11-8-1": {
       "baseline": "3.11.8",
       "port-version": 1
+    },
+    "python3-3-11-8-2": {
+      "baseline": "3.11.8",
+      "port-version": 2
     },
     "python3-3-6-1-0": {
       "baseline": "3.6.1",
