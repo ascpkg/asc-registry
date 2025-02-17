@@ -30156,6 +30156,10 @@
       "baseline": "3.1.1",
       "port-version": 0
     },
+    "cxxopts-3-2-0-0": {
+      "baseline": "3.2.0",
+      "port-version": 0
+    },
     "cyclonedds-0-10-2-0": {
       "baseline": "0.10.2",
       "port-version": 0
