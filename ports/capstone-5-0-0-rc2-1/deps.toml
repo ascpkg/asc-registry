@@ -1,0 +1,7 @@
+old = "capstone"
+new = "capstone-5-0-0-rc2-1"
+
+[deps]
+capstone-5-0-0-rc2-1 = "capstone"
+vcpkg-cmake-2022-04-12-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"

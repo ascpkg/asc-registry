@@ -14372,6 +14372,10 @@
       "baseline": "5.0.0-rc2",
       "port-version": 0
     },
+    "capstone-5-0-0-rc2-1": {
+      "baseline": "5.0.0-rc2",
+      "port-version": 1
+    },
     "cargs-1-0-3-0": {
       "baseline": "1.0.3",
       "port-version": 0
@@ -64279,6 +64283,10 @@
     "tracy-0-8-0-0": {
       "baseline": "0.8.0",
       "port-version": 0
+    },
+    "tracy-0-8-0-1": {
+      "baseline": "0.8.0",
+      "port-version": 1
     },
     "transwarp-2-2-2-0": {
       "baseline": "2.2.2",
