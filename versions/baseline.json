@@ -113056,6 +113056,10 @@
       "baseline": "2018-11-15",
       "port-version": 8
     },
+    "stxxl-2018-11-15-9": {
+      "baseline": "2018-11-15",
+      "port-version": 9
+    },
     "suitesparse-4-5-4-0": {
       "baseline": "4.5.4",
       "port-version": 0
