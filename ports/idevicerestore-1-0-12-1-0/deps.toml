@@ -1,0 +1,8 @@
+old = "idevicerestore"
+new = "idevicerestore-1-0-12-1-0"
+
+[deps]
+curl-7-61-0-0 = "curl"
+libimobiledevice-1-2-1-215-1-0 = "libimobiledevice"
+libirecovery-1-0-25-1-0 = "libirecovery"
+libzip-rel-1-5-1-vcpkg1-0 = "libzip"
