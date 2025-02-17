@@ -29616,6 +29616,10 @@
       "baseline": "2023-09-01",
       "port-version": 0
     },
+    "directxtk-2023-09-01-1": {
+      "baseline": "2023-09-01",
+      "port-version": 1
+    },
     "directxtk-apr2018-0": {
       "baseline": "apr2018",
       "port-version": 0
@@ -29827,6 +29831,10 @@
     "directxtk12-2023-09-01-0": {
       "baseline": "2023-09-01",
       "port-version": 0
+    },
+    "directxtk12-2023-09-01-1": {
+      "baseline": "2023-09-01",
+      "port-version": 1
     },
     "directxtk12-apr2021-0": {
       "baseline": "apr2021",
