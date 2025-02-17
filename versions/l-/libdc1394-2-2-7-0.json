@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libdc1394-2-2-7-0",
+      "version": "2.2.7",
+      "port-version": 0
+    }
+  ]
+}
