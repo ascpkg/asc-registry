@@ -63620,6 +63620,10 @@
       "baseline": "1.0.20",
       "port-version": 2
     },
+    "libsodium-1-0-20-3": {
+      "baseline": "1.0.20",
+      "port-version": 3
+    },
     "libsonic-0-2-0-0": {
       "baseline": "0.2.0",
       "port-version": 0
