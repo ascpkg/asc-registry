@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/protobuf-3-14-0-3",
+      "version-string": "3.14.0",
+      "port-version": 3
+    }
+  ]
+}
