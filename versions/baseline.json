@@ -104740,6 +104740,10 @@
       "baseline": "1.3.279",
       "port-version": 0
     },
+    "vk-bootstrap-1-3-279-1": {
+      "baseline": "1.3.279",
+      "port-version": 1
+    },
     "vkfft-1-2-17-0": {
       "baseline": "1.2.17",
       "port-version": 0
