@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qt5-webengine-5-15-8-1",
+      "version": "5.15.8",
+      "port-version": 1
+    }
+  ]
+}
