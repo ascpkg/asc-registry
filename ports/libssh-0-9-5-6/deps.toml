@@ -1,0 +1,8 @@
+old = "libssh"
+new = "libssh-0-9-5-6"
+
+[deps]
+libssh-0-9-5-6 = "libssh"
+mbedtls-2-24-0-3 = "mbedtls"
+openssl-1-1-1l-1 = "openssl"
+zlib-1-2-11-12 = "zlib"

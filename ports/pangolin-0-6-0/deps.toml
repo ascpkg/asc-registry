@@ -1,0 +1,11 @@
+old = "pangolin"
+new = "pangolin-0-6-0"
+
+[deps]
+eigen3-3-3-9-0 = "eigen3"
+ffmpeg-4-4-14 = "ffmpeg"
+glew-2-1-0-11 = "glew"
+libjpeg-turbo-2-0-6-0 = "libjpeg-turbo"
+libpng-1-6-37-15 = "libpng"
+vcpkg-cmake-2021-07-30-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"

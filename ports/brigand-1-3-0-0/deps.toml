@@ -1,0 +1,5 @@
+old = "brigand"
+new = "brigand-1-3-0-0"
+
+[deps]
+boost-1-73-0-3 = "boost"

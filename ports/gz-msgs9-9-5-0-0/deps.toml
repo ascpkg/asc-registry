@@ -1,0 +1,9 @@
+old = "gz-msgs9"
+new = "gz-msgs9-9-5-0-0"
+
+[deps]
+gz-cmake3-3-0-1-0 = "gz-cmake3"
+gz-math7-7-0-2-1 = "gz-math7"
+ignition-modularscripts-2023-05-05-0 = "ignition-modularscripts"
+protobuf-3-21-12-0 = "protobuf"
+tinyxml2-9-0-0-2 = "tinyxml2"

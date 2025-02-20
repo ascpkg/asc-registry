@@ -1,0 +1,7 @@
+old = "spdk"
+new = "spdk-19-01-1-2"
+
+[deps]
+spdk-dpdk-20181124-1 = "spdk-dpdk"
+spdk-ipsec-20180711-1 = "spdk-ipsec"
+spdk-isal-20181006-1 = "spdk-isal"

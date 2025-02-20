@@ -1,0 +1,5 @@
+old = "ms-angle"
+new = "ms-angle-alias-1"
+
+[deps]
+angle-chromium-4472-1 = "angle"

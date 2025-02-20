@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/monkeys-audio-5-70-3",
+      "version": "5.70",
+      "port-version": 3
+    }
+  ]
+}

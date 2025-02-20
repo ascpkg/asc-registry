@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/wincrypt-0-0-4",
+      "version": "0.0",
+      "port-version": 4
+    }
+  ]
+}

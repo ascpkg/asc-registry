@@ -1,0 +1,12 @@
+old = "mysql-connector-cpp"
+new = "mysql-connector-cpp-8-0-32-0"
+
+[deps]
+libmysql-8-0-32-5 = "libmysql"
+lz4-1-9-4-1 = "lz4"
+openssl-3-1-1-0 = "openssl"
+protobuf-3-21-12-0 = "protobuf"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-2-13-0 = "zlib"
+zstd-1-5-5-0 = "zstd"

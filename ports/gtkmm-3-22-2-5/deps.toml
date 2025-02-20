@@ -1,0 +1,16 @@
+old = "gtkmm"
+new = "gtkmm-3-22-2-5"
+
+[deps]
+atk-2-24-0-5-2 = "atk"
+atkmm-2-24-2-5 = "atkmm"
+cairo-1-16-0-8 = "cairo"
+cairomm-1-15-3-5 = "cairomm"
+gdk-pixbuf-2-36-9-5-7 = "gdk-pixbuf"
+gettext-0-21-0 = "gettext"
+glib-2-52-3-24 = "glib"
+glibmm-2-52-1-14 = "glibmm"
+gtk-3-22-19-4-0 = "gtk"
+libepoxy-1-5-4-2 = "libepoxy"
+pango-1-40-11-8 = "pango"
+pangomm-2-40-1-4 = "pangomm"

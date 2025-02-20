@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/jsonnet-2017-09-02-11cf9fa9f2fe8acbb14b096316006082564ca580-0",
+      "version": "2017-09-02-11cf9fa9f2fe8acbb14b096316006082564ca580",
+      "port-version": 0
+    }
+  ]
+}

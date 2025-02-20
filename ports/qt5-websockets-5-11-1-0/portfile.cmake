@@ -1,0 +1,5 @@
+include(vcpkg_common_functions)
+
+include(${CURRENT_INSTALLED_DIR}/share/qt5modularscripts/qt_modular_library.cmake)
+
+qt_modular_library(qtwebsockets 01eb3fabfa0f46c6ecedc3cd9a05e504fef91926ffeab1f534557e50c15d7fd284edaa553f545d8363343a32c0c3187e77e3e5d6edea8331e9234c05c0e318fc)

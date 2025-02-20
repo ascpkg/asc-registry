@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/openssl-uwp-1-1-1d-1-0",
+      "version": "1.1.1d-1",
+      "port-version": 0
+    }
+  ]
+}

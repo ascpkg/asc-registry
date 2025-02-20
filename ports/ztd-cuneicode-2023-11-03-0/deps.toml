@@ -1,0 +1,7 @@
+old = "ztd-cuneicode"
+new = "ztd-cuneicode-2023-11-03-0"
+
+[deps]
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+ztd-encoding-tables-2023-06-10-0 = "ztd-encoding-tables"

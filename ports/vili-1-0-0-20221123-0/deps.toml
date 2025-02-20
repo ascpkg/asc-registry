@@ -1,0 +1,9 @@
+old = "vili"
+new = "vili-1-0-0-20221123-0"
+
+[deps]
+fmt-9-1-0-0 = "fmt"
+nlohmann-fifo-map-2018-05-07-2 = "nlohmann-fifo-map"
+pegtl-3-2-6-0 = "pegtl"
+vcpkg-cmake-2022-10-30-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/thrift-2019-05-07-4-0",
+      "version": "2019-05-07-4",
+      "port-version": 0
+    }
+  ]
+}

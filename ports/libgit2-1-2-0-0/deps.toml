@@ -1,0 +1,13 @@
+old = "libgit2"
+new = "libgit2-1-2-0-0"
+
+[deps]
+http-parser-2-9-4-0 = "http-parser"
+libgit2-1-2-0-0 = "libgit2"
+libssh2-1-9-0-0 = "libssh2"
+mbedtls-2-24-0-2 = "mbedtls"
+openssl-1-1-1l-1 = "openssl"
+pcre-8-45-0 = "pcre"
+pcre2-10-37-0 = "pcre2"
+vcpkg-cmake-2021-07-30-0 = "vcpkg-cmake"
+zlib-1-2-11-12 = "zlib"

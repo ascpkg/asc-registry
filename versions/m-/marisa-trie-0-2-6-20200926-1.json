@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/marisa-trie-0-2-6-20200926-1",
+      "version": "0.2.6+20200926",
+      "port-version": 1
+    }
+  ]
+}

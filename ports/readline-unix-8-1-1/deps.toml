@@ -1,0 +1,5 @@
+old = "readline-unix"
+new = "readline-unix-8-1-1"
+
+[deps]
+ncurses-6-3-0 = "ncurses"

@@ -1,0 +1,7 @@
+old = "proj4"
+new = "proj4-7-2-1-2"
+
+[deps]
+curl-7-74-0-3 = "curl"
+sqlite3-3-35-2-0 = "sqlite3"
+tiff-4-1-0-1 = "tiff"

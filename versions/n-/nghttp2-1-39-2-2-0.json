@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/nghttp2-1-39-2-2-0",
+      "version": "1.39.2-2",
+      "port-version": 0
+    }
+  ]
+}

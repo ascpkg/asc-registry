@@ -1,0 +1,7 @@
+old = "ensmallen"
+new = "ensmallen-2-14-2-0"
+
+[deps]
+armadillo-10-1-0-0 = "armadillo"
+blas-1-0 = "blas"
+lapack-3-1 = "lapack"

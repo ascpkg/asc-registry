@@ -1,0 +1,6 @@
+old = "libxmlpp"
+new = "libxmlpp-5-0-0-0"
+
+[deps]
+glibmm-2-68-0-0 = "glibmm"
+libxml2-2-9-10-6 = "libxml2"

@@ -1,0 +1,9 @@
+old = "avro-c"
+new = "avro-c-1-11-0-3"
+
+[deps]
+jansson-2-13-1-2 = "jansson"
+liblzma-5-2-5-5 = "liblzma"
+snappy-1-1-9-1 = "snappy"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+zlib-1-2-11-13 = "zlib"

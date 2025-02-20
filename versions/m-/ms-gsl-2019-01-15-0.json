@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ms-gsl-2019-01-15-0",
+      "version": "2019-01-15",
+      "port-version": 0
+    }
+  ]
+}

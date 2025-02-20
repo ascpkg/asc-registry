@@ -1,0 +1,5 @@
+old = "treehopper"
+new = "treehopper-1-11-3-3-0"
+
+[deps]
+libusb-1-0-22-3-0 = "libusb"

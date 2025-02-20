@@ -1,0 +1,13 @@
+old = "boost-lexical-cast"
+new = "boost-lexical-cast-1-84-0-1"
+
+[deps]
+boost-cmake-1-84-0-0 = "boost-cmake"
+boost-config-1-84-0-1 = "boost-config"
+boost-container-1-84-0-1 = "boost-container"
+boost-core-1-84-0-1 = "boost-core"
+boost-headers-1-84-0-0 = "boost-headers"
+boost-integer-1-84-0-1 = "boost-integer"
+boost-numeric-conversion-1-84-0-1 = "boost-numeric-conversion"
+boost-throw-exception-1-84-0-1 = "boost-throw-exception"
+boost-type-traits-1-84-0-1 = "boost-type-traits"

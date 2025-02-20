@@ -1,0 +1,5 @@
+old = "rbdl-orb"
+new = "rbdl-orb-3-2-0-2"
+
+[deps]
+rbdl-3-2-0-4 = "rbdl"

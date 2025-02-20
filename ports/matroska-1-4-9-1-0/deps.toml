@@ -1,0 +1,5 @@
+old = "matroska"
+new = "matroska-1-4-9-1-0"
+
+[deps]
+ebml-1-3-7-0 = "ebml"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/restc-cpp-1-0-0-0",
+      "version-semver": "1.0.0",
+      "port-version": 0
+    }
+  ]
+}

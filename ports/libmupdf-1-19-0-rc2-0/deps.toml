@@ -1,0 +1,14 @@
+old = "libmupdf"
+new = "libmupdf-1-19-0-rc2-0"
+
+[deps]
+curl-7-79-1-0 = "curl"
+freetype-2-11-0-2 = "freetype"
+glfw3-3-3-4-0 = "glfw3"
+gumbo-0-10-1-4 = "gumbo"
+harfbuzz-3-0-0-0 = "harfbuzz"
+jbig2dec-0-19-1 = "jbig2dec"
+libjpeg-turbo-2-0-6-2 = "libjpeg-turbo"
+openjpeg-2-4-0-0 = "openjpeg"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+zlib-1-2-11-13 = "zlib"

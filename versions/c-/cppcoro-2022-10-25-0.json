@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cppcoro-2022-10-25-0",
+      "version-date": "2022-10-25",
+      "port-version": 0
+    }
+  ]
+}

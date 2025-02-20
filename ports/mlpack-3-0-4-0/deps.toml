@@ -1,0 +1,8 @@
+old = "mlpack"
+new = "mlpack-3-0-4-0"
+
+[deps]
+armadillo-8-400-0-1-0 = "armadillo"
+boost-1-69-0-0 = "boost"
+clapack-3-2-1-1-0 = "clapack"
+openblas-0-3-5-0 = "openblas"

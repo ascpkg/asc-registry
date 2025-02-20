@@ -1,0 +1,6 @@
+old = "msix"
+new = "msix-1-0-0"
+
+[deps]
+xerces-c-3-1-4-3-0 = "xerces-c"
+zlib-1-2-11-3-0 = "zlib"

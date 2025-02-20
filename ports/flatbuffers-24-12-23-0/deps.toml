@@ -1,0 +1,7 @@
+old = "flatbuffers"
+new = "flatbuffers-24-12-23-0"
+
+[deps]
+flatbuffers-24-12-23-0 = "flatbuffers"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

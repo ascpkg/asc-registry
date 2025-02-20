@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libpopt-1-16-14",
+      "version-string": "1.16",
+      "port-version": 14
+    }
+  ]
+}

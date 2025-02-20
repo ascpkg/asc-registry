@@ -1,0 +1,5 @@
+old = "apr"
+new = "apr-1-7-0-7"
+
+[deps]
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"

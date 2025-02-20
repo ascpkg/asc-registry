@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/levmar-2-6-2",
+      "version": "2.6",
+      "port-version": 2
+    }
+  ]
+}

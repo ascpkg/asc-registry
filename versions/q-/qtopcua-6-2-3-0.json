@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qtopcua-6-2-3-0",
+      "version": "6.2.3",
+      "port-version": 0
+    }
+  ]
+}

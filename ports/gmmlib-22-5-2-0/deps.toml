@@ -1,0 +1,5 @@
+old = "gmmlib"
+new = "gmmlib-22-5-2-0"
+
+[deps]
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"

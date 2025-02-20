@@ -1,0 +1,6 @@
+old = "highfive"
+new = "highfive-1-3-0"
+
+[deps]
+boost-1-65-0 = "boost"
+hdf5-1-10-0-patch1-1-0 = "hdf5"

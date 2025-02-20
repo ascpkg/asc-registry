@@ -1,0 +1,8 @@
+old = "rbdl"
+new = "rbdl-3-3-0-6"
+
+[deps]
+eigen3-3-4-0-4 = "eigen3"
+lua-5-4-6-0 = "lua"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

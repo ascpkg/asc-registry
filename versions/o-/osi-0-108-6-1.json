@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/osi-0-108-6-1",
+      "version-string": "0.108.6",
+      "port-version": 1
+    }
+  ]
+}

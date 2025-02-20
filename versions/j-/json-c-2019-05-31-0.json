@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/json-c-2019-05-31-0",
+      "version": "2019-05-31",
+      "port-version": 0
+    }
+  ]
+}

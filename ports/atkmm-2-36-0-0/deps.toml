@@ -1,0 +1,8 @@
+old = "atkmm"
+new = "atkmm-2-36-0-0"
+
+[deps]
+atk-2-36-0-0 = "atk"
+gettext-0-21-1 = "gettext"
+glib-2-66-4-0 = "glib"
+glibmm-2-68-0-0 = "glibmm"

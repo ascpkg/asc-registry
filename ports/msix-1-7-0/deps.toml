@@ -1,0 +1,8 @@
+old = "msix"
+new = "msix-1-7-0"
+
+[deps]
+catch2-2-11-0-0 = "catch2"
+openssl-1-0 = "openssl"
+xerces-c-3-2-2-11-0 = "xerces-c"
+zlib-1-2-11-5-0 = "zlib"

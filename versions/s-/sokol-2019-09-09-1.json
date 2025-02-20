@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/sokol-2019-09-09-1",
+      "version-string": "2019-09-09",
+      "port-version": 1
+    }
+  ]
+}

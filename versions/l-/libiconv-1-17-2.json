@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libiconv-1-17-2",
+      "version": "1.17",
+      "port-version": 2
+    }
+  ]
+}

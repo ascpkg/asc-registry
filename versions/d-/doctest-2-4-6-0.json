@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/doctest-2-4-6-0",
+      "version": "2.4.6",
+      "port-version": 0
+    }
+  ]
+}

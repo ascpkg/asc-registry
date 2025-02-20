@@ -1,0 +1,7 @@
+old = "libtins"
+new = "libtins-4-3-1"
+
+[deps]
+boost-any-1-76-0-0 = "boost-any"
+boost-icl-1-76-0-0 = "boost-icl"
+winpcap-4-1-3-5 = "winpcap"

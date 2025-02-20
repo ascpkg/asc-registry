@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libnice-0-1-15-6",
+      "version": "0.1.15",
+      "port-version": 6
+    }
+  ]
+}

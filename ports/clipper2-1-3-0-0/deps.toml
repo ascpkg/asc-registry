@@ -1,0 +1,5 @@
+old = "clipper2"
+new = "clipper2-1-3-0-0"
+
+[deps]
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

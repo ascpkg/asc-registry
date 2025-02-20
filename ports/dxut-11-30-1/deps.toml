@@ -1,0 +1,8 @@
+old = "dxut"
+new = "dxut-11-30-1"
+
+[deps]
+directxmath-2022-12-12-0 = "directxmath"
+directxtk-2022-12-15-0 = "directxtk"
+vcpkg-cmake-2022-10-30-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

@@ -1,0 +1,5 @@
+old = "libvpx"
+new = "libvpx-1-9-0-3"
+
+[deps]
+yasm-tool-helper-2020-10-12-0 = "yasm-tool-helper"

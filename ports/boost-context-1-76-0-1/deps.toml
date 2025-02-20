@@ -1,0 +1,15 @@
+old = "boost-context"
+new = "boost-context-1-76-0-1"
+
+[deps]
+boost-assert-1-76-0-0 = "boost-assert"
+boost-build-1-75-0-0 = "boost-build"
+boost-config-1-76-0-0 = "boost-config"
+boost-core-1-76-0-0 = "boost-core"
+boost-detail-1-76-0-0 = "boost-detail"
+boost-modular-build-helper-1-76-0-1 = "boost-modular-build-helper"
+boost-pool-1-76-0-0 = "boost-pool"
+boost-predef-1-76-0-0 = "boost-predef"
+boost-smart-ptr-1-76-0-0 = "boost-smart-ptr"
+boost-thread-1-76-0-0 = "boost-thread"
+boost-vcpkg-helpers-7-2 = "boost-vcpkg-helpers"

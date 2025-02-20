@@ -1,0 +1,14 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/sobjectizer-5-5-19-2-0",
+      "version": "5.5.19.2",
+      "port-version": 0
+    },
+    {
+      "path": "$/ports/sobjectizer-5-5-19-2-0",
+      "version": "5.5.19-2",
+      "port-version": 0
+    }
+  ]
+}

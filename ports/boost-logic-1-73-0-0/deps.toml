@@ -1,0 +1,8 @@
+old = "boost-logic"
+new = "boost-logic-1-73-0-0"
+
+[deps]
+boost-config-1-73-0-0 = "boost-config"
+boost-core-1-73-0-0 = "boost-core"
+boost-detail-1-73-0-0 = "boost-detail"
+boost-vcpkg-helpers-7-0 = "boost-vcpkg-helpers"

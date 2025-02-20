@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ijg-libjpeg-9e-2",
+      "version-string": "9e",
+      "port-version": 2
+    }
+  ]
+}

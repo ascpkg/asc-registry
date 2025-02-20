@@ -1,0 +1,5 @@
+old = "boringssl"
+new = "boringssl-2021-06-23-3"
+
+[deps]
+vcpkg-cmake-2022-09-13-0 = "vcpkg-cmake"

@@ -1,0 +1,18 @@
+old = "boost-property-map-parallel"
+new = "boost-property-map-parallel-1-81-0-2"
+
+[deps]
+boost-assert-1-81-0-2 = "boost-assert"
+boost-concept-check-1-81-0-2 = "boost-concept-check"
+boost-config-1-81-0-2 = "boost-config"
+boost-function-1-81-0-2 = "boost-function"
+boost-mpi-1-81-0-2 = "boost-mpi"
+boost-mpl-1-81-0-2 = "boost-mpl"
+boost-multi-index-1-81-0-2 = "boost-multi-index"
+boost-optional-1-81-0-2 = "boost-optional"
+boost-property-map-1-81-0-2 = "boost-property-map"
+boost-serialization-1-81-0-2 = "boost-serialization"
+boost-smart-ptr-1-81-0-2 = "boost-smart-ptr"
+boost-static-assert-1-81-0-2 = "boost-static-assert"
+boost-type-traits-1-81-0-2 = "boost-type-traits"
+boost-vcpkg-helpers-1-81-0-3 = "boost-vcpkg-helpers"

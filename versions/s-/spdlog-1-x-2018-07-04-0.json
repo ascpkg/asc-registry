@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/spdlog-1-x-2018-07-04-0",
+      "version": "1.x-2018-07.04",
+      "port-version": 0
+    }
+  ]
+}

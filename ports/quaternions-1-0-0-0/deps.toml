@@ -1,0 +1,5 @@
+old = "quaternions"
+new = "quaternions-1-0-0-0"
+
+[deps]
+boost-mpl-1-72-0-0 = "boost-mpl"

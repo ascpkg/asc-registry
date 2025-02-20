@@ -1,0 +1,9 @@
+old = "libcaer"
+new = "libcaer-3-3-15-2"
+
+[deps]
+libusb-1-0-27-2 = "libusb"
+opencv4-4-10-0-5 = "opencv4"
+pkgconf-2-3-0-0 = "pkgconf"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

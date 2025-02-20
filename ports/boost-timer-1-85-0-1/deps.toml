@@ -1,0 +1,9 @@
+old = "boost-timer"
+new = "boost-timer-1-85-0-1"
+
+[deps]
+boost-cmake-1-85-0-1 = "boost-cmake"
+boost-config-1-85-0-1 = "boost-config"
+boost-headers-1-85-0-1 = "boost-headers"
+boost-io-1-85-0-1 = "boost-io"
+boost-predef-1-85-0-1 = "boost-predef"

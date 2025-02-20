@@ -1,0 +1,12 @@
+old = "libigl"
+new = "libigl-2-2-0-6"
+
+[deps]
+eigen3-3-3-9-1 = "eigen3"
+embree3-3-12-2-2 = "embree3"
+glad-0-1-34-1 = "glad"
+glfw3-3-3-4-0 = "glfw3"
+imgui-1-84-2-0 = "imgui"
+libigl-2-2-0-6 = "libigl"
+opengl-0-0-9 = "opengl"
+tinyxml2-8-0-0-2 = "tinyxml2"

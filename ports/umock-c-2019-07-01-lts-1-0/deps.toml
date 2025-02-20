@@ -1,0 +1,5 @@
+old = "umock-c"
+new = "umock-c-2019-07-01-lts-1-0"
+
+[deps]
+azure-macro-utils-c-2019-07-01-lts-1-0 = "azure-macro-utils-c"

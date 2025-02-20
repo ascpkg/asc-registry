@@ -1,0 +1,10 @@
+old = "darknet"
+new = "darknet-0-2-5-1-0"
+
+[deps]
+cuda-10-1-0 = "cuda"
+darknet-0-2-5-1-0 = "darknet"
+opencv-4-1-1-1-0 = "opencv"
+opencv3-3-4-7-1-0 = "opencv3"
+pthreads-3-0-0-3-0 = "pthreads"
+stb-2019-07-11-0 = "stb"

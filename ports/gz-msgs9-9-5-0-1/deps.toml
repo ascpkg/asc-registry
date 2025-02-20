@@ -1,0 +1,5 @@
+old = "gz-msgs9"
+new = "gz-msgs9-9-5-0-1"
+
+[deps]
+gz-msgs-9-5-0-0 = "gz-msgs"

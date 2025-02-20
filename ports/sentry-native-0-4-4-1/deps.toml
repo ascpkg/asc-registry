@@ -1,0 +1,5 @@
+old = "sentry-native"
+new = "sentry-native-0-4-4-1"
+
+[deps]
+curl-7-74-0-0 = "curl"

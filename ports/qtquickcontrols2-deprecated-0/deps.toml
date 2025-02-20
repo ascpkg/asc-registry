@@ -1,0 +1,5 @@
+old = "qtquickcontrols2"
+new = "qtquickcontrols2-deprecated-0"
+
+[deps]
+qtdeclarative-6-3-1-0 = "qtdeclarative"

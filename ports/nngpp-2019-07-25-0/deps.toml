@@ -1,0 +1,5 @@
+old = "nngpp"
+new = "nngpp-2019-07-25-0"
+
+[deps]
+nng-2019-02-27-0 = "nng"

@@ -1,0 +1,5 @@
+old = "gz-cmake3"
+new = "gz-cmake3-3-4-1-6"
+
+[deps]
+gz-cmake-3-4-1-0 = "gz-cmake"

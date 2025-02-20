@@ -1,0 +1,5 @@
+old = "continuable"
+new = "continuable-4-1-0-0"
+
+[deps]
+function2-4-1-0-0 = "function2"

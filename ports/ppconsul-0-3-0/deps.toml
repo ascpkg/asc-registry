@@ -1,0 +1,7 @@
+old = "ppconsul"
+new = "ppconsul-0-3-0"
+
+[deps]
+boost-core-1-70-0-0 = "boost-core"
+boost-variant-1-69-0-0 = "boost-variant"
+curl-7-65-0-1-0 = "curl"

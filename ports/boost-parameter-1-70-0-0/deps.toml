@@ -1,0 +1,12 @@
+old = "boost-parameter"
+new = "boost-parameter-1-70-0-0"
+
+[deps]
+boost-config-1-70-0-0 = "boost-config"
+boost-detail-1-70-0-0 = "boost-detail"
+boost-mpl-1-70-0-0 = "boost-mpl"
+boost-optional-1-70-0-0 = "boost-optional"
+boost-preprocessor-1-70-0-0 = "boost-preprocessor"
+boost-type-traits-1-70-0-1-0 = "boost-type-traits"
+boost-utility-1-70-0-0 = "boost-utility"
+boost-vcpkg-helpers-5-0 = "boost-vcpkg-helpers"

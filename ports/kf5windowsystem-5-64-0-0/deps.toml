@@ -1,0 +1,7 @@
+old = "kf5windowsystem"
+new = "kf5windowsystem-5-64-0-0"
+
+[deps]
+ecm-5-66-0-0 = "ecm"
+qt5-tools-5-15-0-0 = "qt5-tools"
+qt5-winextras-5-15-0-0 = "qt5-winextras"

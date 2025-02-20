@@ -1,0 +1,9 @@
+old = "kf5sonnet"
+new = "kf5sonnet-5-84-0-1"
+
+[deps]
+ecm-5-84-0-0 = "ecm"
+qt5-base-5-15-2-9 = "qt5-base"
+qt5-tools-5-15-2-0 = "qt5-tools"
+vcpkg-cmake-2021-07-30-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"

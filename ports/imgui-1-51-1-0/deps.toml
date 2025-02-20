@@ -1,0 +1,5 @@
+old = "imgui"
+new = "imgui-1-51-1-0"
+
+[deps]
+stb-20170724-9d9f75e-0 = "stb"

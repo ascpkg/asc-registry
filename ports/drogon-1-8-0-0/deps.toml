@@ -1,0 +1,16 @@
+old = "drogon"
+new = "drogon-1-8-0-0"
+
+[deps]
+brotli-1-0-9-3 = "brotli"
+drogon-1-8-0-0 = "drogon"
+hiredis-1-0-2-4 = "hiredis"
+jsoncpp-1-9-5-0 = "jsoncpp"
+libmariadb-3-3-1-0 = "libmariadb"
+libpq-14-4-0 = "libpq"
+libuuid-1-0-3-11 = "libuuid"
+sqlite3-3-39-2-0 = "sqlite3"
+trantor-1-5-6-0 = "trantor"
+vcpkg-cmake-2022-07-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-2-12-1 = "zlib"

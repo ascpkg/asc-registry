@@ -1,0 +1,10 @@
+old = "libsoup"
+new = "libsoup-3-6-0-0"
+
+[deps]
+glib-2-80-0-0 = "glib"
+glib-networking-2-78-0-0 = "glib-networking"
+libpsl-0-21-5-1 = "libpsl"
+nghttp2-1-62-1-0 = "nghttp2"
+sqlite3-3-46-1-0 = "sqlite3"
+vcpkg-tool-meson-1-5-2-0 = "vcpkg-tool-meson"

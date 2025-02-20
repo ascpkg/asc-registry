@@ -1,0 +1,10 @@
+old = "quazip"
+new = "quazip-1-4-1"
+
+[deps]
+bzip2-1-0-8-4 = "bzip2"
+qt5compat-6-5-1-0 = "qt5compat"
+qtbase-6-5-1-2 = "qtbase"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-2-13-0 = "zlib"

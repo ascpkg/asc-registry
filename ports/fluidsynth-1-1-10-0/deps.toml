@@ -1,0 +1,5 @@
+old = "fluidsynth"
+new = "fluidsynth-1-1-10-0"
+
+[deps]
+glib-2-52-3-9-0 = "glib"

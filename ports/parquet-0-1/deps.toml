@@ -1,0 +1,5 @@
+old = "parquet"
+new = "parquet-0-1"
+
+[deps]
+arrow-5-0-0-0 = "arrow"

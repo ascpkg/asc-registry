@@ -1,0 +1,5 @@
+old = "embree3"
+new = "embree3-3-6-1-1-0"
+
+[deps]
+tbb-2019-u8-3-0 = "tbb"

@@ -1,0 +1,7 @@
+old = "freeglut"
+new = "freeglut-3-6-0-0"
+
+[deps]
+opengl-2022-12-04-3 = "opengl"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

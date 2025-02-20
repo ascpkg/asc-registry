@@ -1,0 +1,10 @@
+old = "pagmo2"
+new = "pagmo2-2-16-1-0"
+
+[deps]
+boost-any-1-75-0-0 = "boost-any"
+boost-graph-1-75-0-0 = "boost-graph"
+boost-serialization-1-75-0-0 = "boost-serialization"
+eigen3-3-3-9-0 = "eigen3"
+nlopt-2-7-0-0 = "nlopt"
+tbb-2020-u3-3 = "tbb"

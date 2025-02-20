@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/itk-5-2-1-2",
+      "version": "5.2.1",
+      "port-version": 2
+    }
+  ]
+}

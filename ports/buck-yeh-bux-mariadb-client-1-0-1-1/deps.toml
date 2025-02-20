@@ -1,0 +1,8 @@
+old = "buck-yeh-bux-mariadb-client"
+new = "buck-yeh-bux-mariadb-client-1-0-1-1"
+
+[deps]
+buck-yeh-bux-1-6-3-1 = "buck-yeh-bux"
+fmt-8-1-0-0 = "fmt"
+libmariadb-3-1-15-0 = "libmariadb"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"

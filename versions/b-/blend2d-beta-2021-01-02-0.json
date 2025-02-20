@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/blend2d-beta-2021-01-02-0",
+      "version-string": "beta_2021-01-02",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+old = "lapack-reference"
+new = "lapack-reference-3-11-0-4"
+
+[deps]
+blas-2023-04-14-0 = "blas"
+lapack-reference-3-11-0-4 = "lapack-reference"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+vcpkg-gfortran-3-3 = "vcpkg-gfortran"

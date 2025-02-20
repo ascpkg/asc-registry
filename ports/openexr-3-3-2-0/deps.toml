@@ -1,0 +1,8 @@
+old = "openexr"
+new = "openexr-3-3-2-0"
+
+[deps]
+imath-3-1-12-0 = "imath"
+libdeflate-1-23-0 = "libdeflate"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

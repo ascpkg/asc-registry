@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/imgui-sfml-2-5-4",
+      "version": "2.5",
+      "port-version": 4
+    }
+  ]
+}

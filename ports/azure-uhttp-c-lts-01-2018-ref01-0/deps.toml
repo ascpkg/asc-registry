@@ -1,0 +1,5 @@
+old = "azure-uhttp-c"
+new = "azure-uhttp-c-lts-01-2018-ref01-0"
+
+[deps]
+azure-c-shared-utility-1-1-5-0 = "azure-c-shared-utility"

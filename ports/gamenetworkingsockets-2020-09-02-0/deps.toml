@@ -1,0 +1,6 @@
+old = "gamenetworkingsockets"
+new = "gamenetworkingsockets-2020-09-02-0"
+
+[deps]
+openssl-1-1-1i-0 = "openssl"
+protobuf-3-14-0-1 = "protobuf"

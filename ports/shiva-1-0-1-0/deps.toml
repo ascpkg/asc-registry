@@ -1,0 +1,14 @@
+old = "shiva"
+new = "shiva-1-0-1-0"
+
+[deps]
+boost-dll-1-70-0-0 = "boost-dll"
+boost-filesystem-1-70-0-0 = "boost-filesystem"
+boost-stacktrace-1-70-0-0 = "boost-stacktrace"
+entt-3-0-0-0 = "entt"
+lua-5-3-5-1-0 = "lua"
+luafilesystem-1-7-0-2-0 = "luafilesystem"
+nlohmann-json-3-6-1-0 = "nlohmann-json"
+pybind11-2-2-4-0 = "pybind11"
+sol2-2-20-6-0 = "sol2"
+spdlog-1-3-1-0 = "spdlog"

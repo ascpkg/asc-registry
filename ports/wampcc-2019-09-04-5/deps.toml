@@ -1,0 +1,8 @@
+old = "wampcc"
+new = "wampcc-2019-09-04-5"
+
+[deps]
+jansson-2-14-1 = "jansson"
+libuv-1-45-0-0 = "libuv"
+openssl-3-1-1-1 = "openssl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

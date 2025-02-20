@@ -1,0 +1,6 @@
+old = "cairomm"
+new = "cairomm-1-15-3-3-0"
+
+[deps]
+cairo-1-16-0-1-0 = "cairo"
+libsigcpp-2-10-1-0 = "libsigcpp"

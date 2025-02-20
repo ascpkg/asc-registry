@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/lua-5-4-7-0",
+      "version": "5.4.7",
+      "port-version": 0
+    }
+  ]
+}

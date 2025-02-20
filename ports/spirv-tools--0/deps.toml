@@ -1,0 +1,2 @@
+old = "spirv-tools"
+new = "spirv-tools--0"

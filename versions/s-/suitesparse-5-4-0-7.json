@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/suitesparse-5-4-0-7",
+      "version": "5.4.0",
+      "port-version": 7
+    }
+  ]
+}

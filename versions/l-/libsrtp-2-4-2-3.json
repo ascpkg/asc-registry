@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libsrtp-2-4-2-3",
+      "version": "2.4.2",
+      "port-version": 3
+    }
+  ]
+}

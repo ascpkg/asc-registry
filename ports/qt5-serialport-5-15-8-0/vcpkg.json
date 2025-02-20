@@ -1,0 +1,11 @@
+{
+  "name": "qt5-serialport",
+  "version": "5.15.8",
+  "description": "Qt5 Serial Port - provides access to hardware and virtual serial ports",
+  "dependencies": [
+    {
+      "name": "qt5-base",
+      "default-features": false
+    }
+  ]
+}

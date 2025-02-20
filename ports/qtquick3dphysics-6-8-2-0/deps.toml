@@ -1,0 +1,5 @@
+old = "qtquick3dphysics"
+new = "qtquick3dphysics-6-8-2-0"
+
+[deps]
+qtquick3d-6-8-2-0 = "qtquick3d"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/restbed-4-7-0",
+      "version-string": "4.7",
+      "port-version": 0
+    }
+  ]
+}

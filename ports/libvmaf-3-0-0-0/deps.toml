@@ -1,0 +1,5 @@
+old = "libvmaf"
+new = "libvmaf-3-0-0-0"
+
+[deps]
+vcpkg-tool-meson-1-5-2-0 = "vcpkg-tool-meson"

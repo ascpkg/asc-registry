@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/fmilib-2-0-3-4",
+      "version-string": "2.0.3",
+      "port-version": 4
+    }
+  ]
+}

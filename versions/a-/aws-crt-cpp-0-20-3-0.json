@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/aws-crt-cpp-0-20-3-0",
+      "version": "0.20.3",
+      "port-version": 0
+    }
+  ]
+}

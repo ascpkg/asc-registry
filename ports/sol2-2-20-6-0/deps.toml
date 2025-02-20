@@ -1,0 +1,5 @@
+old = "sol2"
+new = "sol2-2-20-6-0"
+
+[deps]
+lua-5-3-5-1-0 = "lua"

@@ -1,0 +1,6 @@
+old = "oatpp-sqlite"
+new = "oatpp-sqlite-1-2-5-0"
+
+[deps]
+oatpp-1-2-5-0 = "oatpp"
+sqlite3-3-35-4-0 = "sqlite3"

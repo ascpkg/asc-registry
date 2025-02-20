@@ -1,0 +1,12 @@
+old = "boost-format"
+new = "boost-format-1-82-0-0"
+
+[deps]
+boost-assert-1-82-0-0 = "boost-assert"
+boost-config-1-82-0-0 = "boost-config"
+boost-core-1-82-0-0 = "boost-core"
+boost-optional-1-82-0-0 = "boost-optional"
+boost-smart-ptr-1-82-0-0 = "boost-smart-ptr"
+boost-throw-exception-1-82-0-0 = "boost-throw-exception"
+boost-utility-1-82-0-0 = "boost-utility"
+boost-vcpkg-helpers-1-82-0-0 = "boost-vcpkg-helpers"

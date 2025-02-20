@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/unixodbc-2-3-7-3",
+      "version-string": "2.3.7",
+      "port-version": 3
+    }
+  ]
+}

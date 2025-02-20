@@ -1,0 +1,6 @@
+old = "trantor"
+new = "trantor-1-2-0-0"
+
+[deps]
+c-ares-1-17-1-0 = "c-ares"
+openssl-1-1-1i-0 = "openssl"

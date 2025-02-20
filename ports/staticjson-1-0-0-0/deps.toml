@@ -1,0 +1,7 @@
+old = "staticjson"
+new = "staticjson-1-0-0-0"
+
+[deps]
+rapidjson-2022-06-28-3 = "rapidjson"
+vcpkg-cmake-2022-10-30-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

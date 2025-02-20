@@ -1,0 +1,12 @@
+old = "devil"
+new = "devil-1-8-0-13"
+
+[deps]
+jasper-4-2-1-0 = "jasper"
+lcms-2-14-0 = "lcms"
+libjpeg-turbo-3-0-2-0 = "libjpeg-turbo"
+libpng-1-6-43-1 = "libpng"
+openexr-3-2-3-1 = "openexr"
+tiff-4-6-0-4 = "tiff"
+vcpkg-cmake-2024-04-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

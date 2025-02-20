@@ -1,0 +1,13 @@
+old = "azure-storage-cpp"
+new = "azure-storage-cpp-7-5-0-7"
+
+[deps]
+atlmfc-0-3 = "atlmfc"
+boost-locale-1-87-0-0 = "boost-locale"
+boost-log-1-87-0-0 = "boost-log"
+cpprestsdk-2-10-19-3 = "cpprestsdk"
+gettext-0-22-5-1 = "gettext"
+libuuid-1-0-3-14 = "libuuid"
+libxml2-2-13-5-1 = "libxml2"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

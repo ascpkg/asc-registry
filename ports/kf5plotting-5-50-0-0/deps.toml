@@ -1,0 +1,6 @@
+old = "kf5plotting"
+new = "kf5plotting-5-50-0-0"
+
+[deps]
+ecm-5-50-0-0 = "ecm"
+qt5-base-5-9-2-7-0 = "qt5-base"

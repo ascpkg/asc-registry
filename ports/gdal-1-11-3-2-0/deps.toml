@@ -1,0 +1,7 @@
+old = "gdal"
+new = "gdal-1-11-3-2-0"
+
+[deps]
+geos-3-5-0-0 = "geos"
+libpng-1-6-28-1-0 = "libpng"
+proj-4-9-3-0 = "proj"

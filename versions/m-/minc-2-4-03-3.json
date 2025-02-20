@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/minc-2-4-03-3",
+      "version-string": "2.4.03",
+      "port-version": 3
+    }
+  ]
+}

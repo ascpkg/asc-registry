@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/tinytoml-20180219-1-0",
+      "version": "20180219-1",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/azure-uhttp-c-2018-02-09-0",
+      "version": "2018-02-09",
+      "port-version": 0
+    }
+  ]
+}

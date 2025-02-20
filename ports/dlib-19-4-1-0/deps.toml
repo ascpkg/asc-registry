@@ -1,0 +1,8 @@
+old = "dlib"
+new = "dlib-19-4-1-0"
+
+[deps]
+fftw3-3-3-6-p11-0 = "fftw3"
+libjpeg-turbo-1-5-1-1-0 = "libjpeg-turbo"
+libpng-1-6-28-0 = "libpng"
+sqlite3-3-17-0-0 = "sqlite3"

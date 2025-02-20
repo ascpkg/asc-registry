@@ -1,0 +1,7 @@
+old = "plasma-wayland-protocols"
+new = "plasma-wayland-protocols-1-14-0-0"
+
+[deps]
+ecm-6-4-0-0 = "ecm"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

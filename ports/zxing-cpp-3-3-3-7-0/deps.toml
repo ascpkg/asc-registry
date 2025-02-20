@@ -1,0 +1,6 @@
+old = "zxing-cpp"
+new = "zxing-cpp-3-3-3-7-0"
+
+[deps]
+libiconv-1-16-3-0 = "libiconv"
+opencv-4-1-1-1-0 = "opencv"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/tesseract-3-05-02-0",
+      "version": "3.05.02",
+      "port-version": 0
+    }
+  ]
+}

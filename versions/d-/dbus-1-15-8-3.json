@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/dbus-1-15-8-3",
+      "version": "1.15.8",
+      "port-version": 3
+    }
+  ]
+}

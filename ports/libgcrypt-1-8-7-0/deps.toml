@@ -1,0 +1,5 @@
+old = "libgcrypt"
+new = "libgcrypt-1-8-7-0"
+
+[deps]
+libgpg-error-1-39-0 = "libgpg-error"

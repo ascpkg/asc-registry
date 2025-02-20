@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/yasm-tool-helper-2020-03-11-0",
+      "version-string": "2020-03-11",
+      "port-version": 0
+    }
+  ]
+}

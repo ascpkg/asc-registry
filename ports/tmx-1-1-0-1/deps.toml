@@ -1,0 +1,6 @@
+old = "tmx"
+new = "tmx-1-1-0-1"
+
+[deps]
+libxml2-2-9-12-4 = "libxml2"
+zlib-1-2-11-12 = "zlib"

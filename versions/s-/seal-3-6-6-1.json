@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/seal-3-6-6-1",
+      "version-semver": "3.6.6",
+      "port-version": 1
+    }
+  ]
+}

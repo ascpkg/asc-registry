@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/tinkerforge-2-1-25-1",
+      "version-string": "2.1.25",
+      "port-version": 1
+    }
+  ]
+}

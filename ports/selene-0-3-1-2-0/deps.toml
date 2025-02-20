@@ -1,0 +1,8 @@
+old = "selene"
+new = "selene-0-3-1-2-0"
+
+[deps]
+libjpeg-turbo-2-0-4-0 = "libjpeg-turbo"
+libpng-1-6-37-6-0 = "libpng"
+tiff-4-0-10-8-0 = "tiff"
+zlib-1-2-11-6-0 = "zlib"

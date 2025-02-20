@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/xcb-util-wm-0-4-2-0",
+      "version": "0.4.2",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+old = "fuzzylite"
+new = "fuzzylite-6-0-6"
+
+[deps]
+vcpkg-cmake-2022-06-07-0 = "vcpkg-cmake"

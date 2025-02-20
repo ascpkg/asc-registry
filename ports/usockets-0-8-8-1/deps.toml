@@ -1,0 +1,8 @@
+old = "usockets"
+new = "usockets-0-8-8-1"
+
+[deps]
+libuv-1-46-0-1 = "libuv"
+openssl-3-3-0-0 = "openssl"
+vcpkg-cmake-2024-04-18-0 = "vcpkg-cmake"
+winsock2-0-0-5 = "winsock2"

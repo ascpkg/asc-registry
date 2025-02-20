@@ -1,0 +1,10 @@
+old = "azure-core-amqp-cpp"
+new = "azure-core-amqp-cpp-1-0-0-beta-11-0"
+
+[deps]
+azure-c-shared-utility-2024-06-24-1 = "azure-c-shared-utility"
+azure-core-cpp-1-13-0-0 = "azure-core-cpp"
+azure-macro-utils-c-2022-01-21-1 = "azure-macro-utils-c"
+umock-c-2022-01-21-1 = "umock-c"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

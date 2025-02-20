@@ -1,0 +1,8 @@
+old = "ismrmrd"
+new = "ismrmrd-1-5-0-1"
+
+[deps]
+boost-1-76-0-0 = "boost"
+fftw3-3-3-9-0 = "fftw3"
+hdf5-1-12-0-4 = "hdf5"
+pugixml-1-11-4-1 = "pugixml"

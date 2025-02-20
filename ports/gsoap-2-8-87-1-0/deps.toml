@@ -1,0 +1,5 @@
+old = "gsoap"
+new = "gsoap-2-8-87-1-0"
+
+[deps]
+curl-7-65-0-2-0 = "curl"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cppmicroservices-4-0-0-pre1-0",
+      "version": "4.0.0-pre1",
+      "port-version": 0
+    }
+  ]
+}

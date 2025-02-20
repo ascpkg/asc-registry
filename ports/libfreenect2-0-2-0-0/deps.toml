@@ -1,0 +1,5 @@
+old = "libfreenect2"
+new = "libfreenect2-0-2-0-0"
+
+[deps]
+libusb-1-0-21-fc99620-0 = "libusb"

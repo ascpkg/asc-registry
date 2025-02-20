@@ -1,0 +1,5 @@
+old = "smpeg2"
+new = "smpeg2-2-0-0-7"
+
+[deps]
+sdl2-2-0-16-0 = "sdl2"

@@ -1,0 +1,6 @@
+old = "yara"
+new = "yara-4-1-1-0"
+
+[deps]
+jansson-2-13-1-0 = "jansson"
+openssl-1-1-1k-7 = "openssl"

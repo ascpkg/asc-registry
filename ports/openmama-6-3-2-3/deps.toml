@@ -1,0 +1,11 @@
+old = "openmama"
+new = "openmama-6-3-2-3"
+
+[deps]
+apr-1-7-2-1 = "apr"
+apr-util-1-6-1-10 = "apr-util"
+libevent-2-1-12-20230128-0 = "libevent"
+libuuid-1-0-3-13 = "libuuid"
+qpid-proton-0-38-0-0 = "qpid-proton"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

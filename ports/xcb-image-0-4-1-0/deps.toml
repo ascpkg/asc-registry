@@ -1,0 +1,6 @@
+old = "xcb-image"
+new = "xcb-image-0-4-1-0"
+
+[deps]
+xcb-1-14-0 = "xcb"
+xcb-util-0-4-0-0 = "xcb-util"

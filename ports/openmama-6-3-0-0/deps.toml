@@ -1,0 +1,7 @@
+old = "openmama"
+new = "openmama-6-3-0-0"
+
+[deps]
+apr-1-6-5-3-0 = "apr"
+libevent-2-1-11-5-0 = "libevent"
+qpid-proton-0-30-0-0 = "qpid-proton"

@@ -1,0 +1,6 @@
+old = "luasocket"
+new = "luasocket-3-1-0-0"
+
+[deps]
+lua-5-4-4-7 = "lua"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

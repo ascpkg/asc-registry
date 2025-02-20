@@ -1,0 +1,5 @@
+old = "workflow"
+new = "workflow-0-9-6-0"
+
+[deps]
+openssl-1-1-1k-8 = "openssl"

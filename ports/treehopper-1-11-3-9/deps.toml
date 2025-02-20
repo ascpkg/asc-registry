@@ -1,0 +1,7 @@
+old = "treehopper"
+new = "treehopper-1-11-3-9"
+
+[deps]
+libusb-1-0-26-11791-6 = "libusb"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

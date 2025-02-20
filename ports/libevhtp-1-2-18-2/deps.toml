@@ -1,0 +1,7 @@
+old = "libevhtp"
+new = "libevhtp-1-2-18-2"
+
+[deps]
+libevent-2-1-12-3 = "libevent"
+oniguruma-6-9-7-1-1 = "oniguruma"
+openssl-1-1-1l-3 = "openssl"

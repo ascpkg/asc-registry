@@ -1,0 +1,6 @@
+old = "qwt"
+new = "qwt-6-1-3-2-0"
+
+[deps]
+qt5base-5-9-2-0-0 = "qt5base"
+qt5svg-5-9-2-0-0 = "qt5svg"

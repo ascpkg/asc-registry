@@ -1,0 +1,7 @@
+old = "jsonnet"
+new = "jsonnet-0-20-0-1"
+
+[deps]
+nlohmann-json-3-11-3-1 = "nlohmann-json"
+ryml-0-7-2-0 = "ryml"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"

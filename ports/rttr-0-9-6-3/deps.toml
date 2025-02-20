@@ -1,0 +1,5 @@
+old = "rttr"
+new = "rttr-0-9-6-3"
+
+[deps]
+rapidjson-2020-09-14-1 = "rapidjson"

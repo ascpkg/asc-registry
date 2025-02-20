@@ -1,0 +1,7 @@
+old = "cppgraphqlgen"
+new = "cppgraphqlgen-2020-12-07-1"
+
+[deps]
+boost-program-options-1-75-0-0 = "boost-program-options"
+pegtl-3-1-0-0 = "pegtl"
+rapidjson-2020-09-14-0 = "rapidjson"

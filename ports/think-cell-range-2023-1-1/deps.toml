@@ -1,0 +1,15 @@
+old = "think-cell-range"
+new = "think-cell-range-2023-1-1"
+
+[deps]
+boost-filesystem-1-84-0-0 = "boost-filesystem"
+boost-fusion-1-84-0-0 = "boost-fusion"
+boost-integer-1-84-0-0 = "boost-integer"
+boost-intrusive-1-84-0-0 = "boost-intrusive"
+boost-lexical-cast-1-84-0-0 = "boost-lexical-cast"
+boost-mpl-1-84-0-0 = "boost-mpl"
+boost-multi-index-1-84-0-0 = "boost-multi-index"
+boost-predef-1-84-0-0 = "boost-predef"
+boost-preprocessor-1-84-0-0 = "boost-preprocessor"
+boost-range-1-84-0-0 = "boost-range"
+boost-spirit-1-84-0-0 = "boost-spirit"

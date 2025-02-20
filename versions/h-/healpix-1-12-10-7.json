@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/healpix-1-12-10-7",
+      "version": "1.12.10",
+      "port-version": 7
+    }
+  ]
+}

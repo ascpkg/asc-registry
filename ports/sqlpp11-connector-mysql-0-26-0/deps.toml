@@ -1,0 +1,7 @@
+old = "sqlpp11-connector-mysql"
+new = "sqlpp11-connector-mysql-0-26-0"
+
+[deps]
+date-2019-11-08-0 = "date"
+libmariadb-3-1-7-0 = "libmariadb"
+sqlpp11-0-58-3-0 = "sqlpp11"

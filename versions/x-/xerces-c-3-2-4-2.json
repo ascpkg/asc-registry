@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/xerces-c-3-2-4-2",
+      "version": "3.2.4",
+      "port-version": 2
+    }
+  ]
+}

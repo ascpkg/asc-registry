@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/jansson-v2-10-1-0",
+      "version": "v2.10-1",
+      "port-version": 0
+    }
+  ]
+}

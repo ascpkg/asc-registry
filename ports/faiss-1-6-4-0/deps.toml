@@ -1,0 +1,7 @@
+old = "faiss"
+new = "faiss-1-6-4-0"
+
+[deps]
+cuda-10-1-4 = "cuda"
+lapack-3-0 = "lapack"
+openblas-0-3-10-0 = "openblas"

@@ -1,0 +1,7 @@
+old = "libgpg-error"
+new = "libgpg-error-1-51-0"
+
+[deps]
+gettext-0-22-5-1 = "gettext"
+gettext-libintl-0-22-5-2 = "gettext-libintl"
+libgpg-error-1-51-0 = "libgpg-error"

@@ -1,0 +1,7 @@
+old = "nonius"
+new = "nonius-2019-04-20-2"
+
+[deps]
+boost-algorithm-1-76-0-0 = "boost-algorithm"
+boost-lexical-cast-1-76-0-0 = "boost-lexical-cast"
+boost-math-1-76-0-0 = "boost-math"

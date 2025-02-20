@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libp7-baical-replaced-1",
+      "version-string": "replaced",
+      "port-version": 1
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+old = "nowide"
+new = "nowide-alias-0"
+
+[deps]
+boost-nowide-1-73-0-0 = "boost-nowide"

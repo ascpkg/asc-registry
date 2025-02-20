@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/openvpn3-3-4-1-2",
+      "version-string": "3.4.1",
+      "port-version": 2
+    }
+  ]
+}

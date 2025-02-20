@@ -1,0 +1,8 @@
+old = "hiredis"
+new = "hiredis-2019-11-2-2"
+
+[deps]
+libevent-2-1-11-5-0 = "libevent"
+libuv-1-34-2-1-0 = "libuv"
+openssl-1-1-1g-0 = "openssl"
+pthread-3-0-0-0 = "pthread"

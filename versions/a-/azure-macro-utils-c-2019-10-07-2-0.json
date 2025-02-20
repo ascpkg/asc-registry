@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/azure-macro-utils-c-2019-10-07-2-0",
+      "version": "2019-10-07.2",
+      "port-version": 0
+    }
+  ]
+}

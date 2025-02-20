@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/stxxl-2018-11-15-2-0",
+      "version": "2018-11-15-2",
+      "port-version": 0
+    }
+  ]
+}

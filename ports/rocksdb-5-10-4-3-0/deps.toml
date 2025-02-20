@@ -1,0 +1,5 @@
+old = "rocksdb"
+new = "rocksdb-5-10-4-3-0"
+
+[deps]
+zlib-1-2-11-3-0 = "zlib"

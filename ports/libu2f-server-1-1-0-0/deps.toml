@@ -1,0 +1,6 @@
+old = "libu2f-server"
+new = "libu2f-server-1-1-0-0"
+
+[deps]
+json-c-2019-05-31-0 = "json-c"
+openssl-1-0 = "openssl"

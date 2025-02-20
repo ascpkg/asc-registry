@@ -1,0 +1,5 @@
+old = "qtmqtt"
+new = "qtmqtt-6-5-1-0"
+
+[deps]
+qtbase-6-5-1-0 = "qtbase"

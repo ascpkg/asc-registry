@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/colmap-3-7-0",
+      "version-string": "3.7",
+      "port-version": 0
+    }
+  ]
+}

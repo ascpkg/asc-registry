@@ -1,0 +1,5 @@
+old = "qtconnectivity"
+new = "qtconnectivity-6-7-2-1"
+
+[deps]
+qtbase-6-7-2-0 = "qtbase"

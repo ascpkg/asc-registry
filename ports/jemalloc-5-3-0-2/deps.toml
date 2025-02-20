@@ -1,0 +1,5 @@
+old = "jemalloc"
+new = "jemalloc-5-3-0-2"
+
+[deps]
+vcpkg-make-2023-05-15-0 = "vcpkg-make"

@@ -1,0 +1,6 @@
+old = "activemq-cpp"
+new = "activemq-cpp-3-9-5-6"
+
+[deps]
+apr-1-7-0-6 = "apr"
+libuuid-1-0-3-9 = "libuuid"

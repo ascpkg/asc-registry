@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libsamplerate-0-1-9-0-0",
+      "version": "0.1.9.0",
+      "port-version": 0
+    }
+  ]
+}

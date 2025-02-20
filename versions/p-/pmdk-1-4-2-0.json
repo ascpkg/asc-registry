@@ -1,0 +1,14 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/pmdk-1-4-2-0",
+      "version": "1.4.2",
+      "port-version": 0
+    },
+    {
+      "path": "$/ports/pmdk-1-4-2-0",
+      "version": "1.4-2",
+      "port-version": 0
+    }
+  ]
+}

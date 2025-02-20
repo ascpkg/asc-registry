@@ -1,0 +1,7 @@
+old = "opusfile"
+new = "opusfile-0-12-1"
+
+[deps]
+libogg-1-3-5-0 = "libogg"
+openssl-1-1-1l-1 = "openssl"
+opus-1-3-1-6 = "opus"

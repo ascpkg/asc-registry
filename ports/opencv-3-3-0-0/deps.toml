@@ -1,0 +1,12 @@
+old = "opencv"
+new = "opencv-3-3-0-0"
+
+[deps]
+ceres-1-13-0-0 = "ceres"
+ffmpeg-3-2-4-3-0 = "ffmpeg"
+libjpeg-turbo-1-5-2-0 = "libjpeg-turbo"
+libpng-1-6-31-0 = "libpng"
+protobuf-3-3-0-3-0 = "protobuf"
+tiff-4-0-8-0 = "tiff"
+vtk-8-0-0-1-0 = "vtk"
+zlib-1-2-11-0 = "zlib"

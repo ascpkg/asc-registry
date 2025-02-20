@@ -1,0 +1,5 @@
+old = "clapack"
+new = "clapack-3-2-1-13-0"
+
+[deps]
+openblas-0-3-9-1-0 = "openblas"

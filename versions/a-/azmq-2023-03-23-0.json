@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/azmq-2023-03-23-0",
+      "version-date": "2023-03-23",
+      "port-version": 0
+    }
+  ]
+}

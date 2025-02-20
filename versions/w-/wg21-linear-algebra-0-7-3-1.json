@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/wg21-linear-algebra-0-7-3-1",
+      "version": "0.7.3",
+      "port-version": 1
+    }
+  ]
+}

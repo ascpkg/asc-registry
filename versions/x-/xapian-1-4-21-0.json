@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/xapian-1-4-21-0",
+      "version": "1.4.21",
+      "port-version": 0
+    }
+  ]
+}

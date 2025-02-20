@@ -1,0 +1,10 @@
+old = "rocksdb"
+new = "rocksdb-6-14-6-0"
+
+[deps]
+bzip2-1-0-8-1 = "bzip2"
+lz4-1-9-2-2-0 = "lz4"
+snappy-1-1-8-0 = "snappy"
+tbb-2020-u3-2 = "tbb"
+zlib-1-2-11-9 = "zlib"
+zstd-1-4-5-1 = "zstd"

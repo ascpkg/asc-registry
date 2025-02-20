@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gobject-introspection-1-70-0-0",
+      "version": "1.70.0",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+old = "orc"
+new = "orc-1-5-9-0"
+
+[deps]
+gtest-2019-10-09-1-0 = "gtest"
+lz4-1-9-2-0 = "lz4"
+protobuf-3-11-3-0 = "protobuf"
+snappy-1-1-8-0 = "snappy"
+zlib-1-2-11-5-0 = "zlib"
+zstd-1-4-4-0 = "zstd"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/trantor-1-5-23-0",
+      "version-semver": "1.5.23",
+      "port-version": 0
+    }
+  ]
+}

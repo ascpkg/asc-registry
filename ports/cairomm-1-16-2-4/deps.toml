@@ -1,0 +1,7 @@
+old = "cairomm"
+new = "cairomm-1-16-2-4"
+
+[deps]
+cairo-1-17-8-1 = "cairo"
+libsigcpp-3-4-0-0 = "libsigcpp"
+vcpkg-tool-meson-0-63-0 = "vcpkg-tool-meson"

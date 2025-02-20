@@ -1,0 +1,7 @@
+old = "fizz"
+new = "fizz-2018-10-15-00-0"
+
+[deps]
+folly-2018-10-08-00-0 = "folly"
+libsodium-1-0-16-1-0 = "libsodium"
+openssl-0-0 = "openssl"

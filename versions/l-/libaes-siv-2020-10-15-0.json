@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libaes-siv-2020-10-15-0",
+      "version-date": "2020-10-15",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+old = "ecal"
+new = "ecal-5-12-0-0"
+
+[deps]
+asio-1-28-1-0 = "asio"
+hdf5-1-14-0-1 = "hdf5"
+protobuf-3-21-12-0 = "protobuf"
+simpleini-4-19-0 = "simpleini"
+tclap-1-2-5-0 = "tclap"
+tcp-pubsub-1-0-3-0 = "tcp-pubsub"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

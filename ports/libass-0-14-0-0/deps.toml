@@ -1,0 +1,8 @@
+old = "libass"
+new = "libass-0-14-0-0"
+
+[deps]
+dirent-1-23-1-0 = "dirent"
+freetype-2-8-1-4-0 = "freetype"
+fribidi-1-0-5-0 = "fribidi"
+harfbuzz-1-8-4-3-0 = "harfbuzz"

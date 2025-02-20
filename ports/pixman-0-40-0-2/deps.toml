@@ -1,0 +1,6 @@
+old = "pixman"
+new = "pixman-0-40-0-2"
+
+[deps]
+libpng-1-6-37-16 = "libpng"
+vcpkg-tool-meson-0-60-2-1 = "vcpkg-tool-meson"

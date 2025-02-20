@@ -1,0 +1,5 @@
+old = "libxcvt"
+new = "libxcvt-0-1-2-1"
+
+[deps]
+vcpkg-tool-meson-0-63-2 = "vcpkg-tool-meson"

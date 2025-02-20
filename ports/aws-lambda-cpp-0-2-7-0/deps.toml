@@ -1,0 +1,7 @@
+old = "aws-lambda-cpp"
+new = "aws-lambda-cpp-0-2-7-0"
+
+[deps]
+curl-7-79-1-0 = "curl"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"

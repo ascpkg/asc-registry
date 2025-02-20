@@ -1,0 +1,9 @@
+old = "libusbmuxd"
+new = "libusbmuxd-2023-06-21-1"
+
+[deps]
+getopt-0-3 = "getopt"
+libimobiledevice-glue-2023-05-13-0 = "libimobiledevice-glue"
+libplist-2023-06-15-1 = "libplist"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

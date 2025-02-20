@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/range-v3-20151130-vcpkg5-0",
+      "version": "20151130-vcpkg5",
+      "port-version": 0
+    }
+  ]
+}

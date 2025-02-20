@@ -1,0 +1,5 @@
+old = "glbinding"
+new = "glbinding-3-1-0-3"
+
+[deps]
+egl-registry-2020-02-20-0 = "egl-registry"

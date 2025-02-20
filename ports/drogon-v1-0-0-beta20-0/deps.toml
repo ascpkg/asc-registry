@@ -1,0 +1,11 @@
+old = "drogon"
+new = "drogon-v1-0-0-beta20-0"
+
+[deps]
+brotli-1-0-7-3 = "brotli"
+jsoncpp-1-9-2-0 = "jsoncpp"
+libmariadb-3-1-7-2 = "libmariadb"
+libpq-12-2-6 = "libpq"
+sqlite3-3-32-3-1 = "sqlite3"
+trantor-v1-0-0-rc16-0 = "trantor"
+zlib-1-2-11-9 = "zlib"

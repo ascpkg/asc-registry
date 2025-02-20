@@ -1,0 +1,10 @@
+old = "boost-parameter"
+new = "boost-parameter-1-68-0-0"
+
+[deps]
+boost-core-1-68-0-0 = "boost-core"
+boost-detail-1-68-0-0 = "boost-detail"
+boost-mpl-1-68-0-0 = "boost-mpl"
+boost-preprocessor-1-68-0-0 = "boost-preprocessor"
+boost-type-traits-1-68-0-0 = "boost-type-traits"
+boost-vcpkg-helpers-4-0 = "boost-vcpkg-helpers"

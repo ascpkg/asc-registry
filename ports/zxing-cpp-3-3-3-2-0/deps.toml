@@ -1,0 +1,5 @@
+old = "zxing-cpp"
+new = "zxing-cpp-3-3-3-2-0"
+
+[deps]
+opencv-3-4-3-4-0 = "opencv"

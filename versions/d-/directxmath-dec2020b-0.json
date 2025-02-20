@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/directxmath-dec2020b-0",
+      "version": "dec2020b",
+      "port-version": 0
+    }
+  ]
+}

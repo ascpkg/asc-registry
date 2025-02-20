@@ -1,0 +1,9 @@
+old = "g2o"
+new = "g2o-20170730-git-0"
+
+[deps]
+ceres-1-12-0-4-0 = "ceres"
+clapack-3-2-1-0 = "clapack"
+eigen3-3-3-4-0 = "eigen3"
+qt5-5-8-3-0 = "qt5"
+suitesparse-4-5-5-2-0 = "suitesparse"

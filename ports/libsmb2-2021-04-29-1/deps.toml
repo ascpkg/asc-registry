@@ -1,0 +1,6 @@
+old = "libsmb2"
+new = "libsmb2-2021-04-29-1"
+
+[deps]
+openssl-1-1-1m-1 = "openssl"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"

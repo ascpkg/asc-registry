@@ -1,0 +1,5 @@
+old = "tomlplusplus"
+new = "tomlplusplus-2-5-0-2"
+
+[deps]
+vcpkg-cmake-config-2021-11-01-0 = "vcpkg-cmake-config"

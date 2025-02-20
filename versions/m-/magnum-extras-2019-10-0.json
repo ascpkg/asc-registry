@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/magnum-extras-2019-10-0",
+      "version": "2019.10",
+      "port-version": 0
+    }
+  ]
+}

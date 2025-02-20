@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qtquick3dphysics-6-4-0-0",
+      "version": "6.4.0",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/intelrdfpmathlib-20u2-3",
+      "version-string": "20u2",
+      "port-version": 3
+    }
+  ]
+}

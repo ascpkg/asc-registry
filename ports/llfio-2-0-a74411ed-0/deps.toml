@@ -1,0 +1,5 @@
+old = "llfio"
+new = "llfio-2-0-a74411ed-0"
+
+[deps]
+outcome-2-2-0-b9e664fb-0 = "outcome"

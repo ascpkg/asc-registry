@@ -1,0 +1,7 @@
+old = "salome-med-fichier"
+new = "salome-med-fichier-4-1-1-3"
+
+[deps]
+hdf5-1-14-4-3-4 = "hdf5"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

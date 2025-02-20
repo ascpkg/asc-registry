@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/oatpp-openssl-1-2-5-0",
+      "version-semver": "1.2.5",
+      "port-version": 0
+    }
+  ]
+}

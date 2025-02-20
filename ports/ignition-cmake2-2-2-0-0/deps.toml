@@ -1,0 +1,5 @@
+old = "ignition-cmake2"
+new = "ignition-cmake2-2-2-0-0"
+
+[deps]
+ignition-modularscripts-2020-04-16-0 = "ignition-modularscripts"

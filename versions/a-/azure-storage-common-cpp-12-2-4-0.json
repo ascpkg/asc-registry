@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/azure-storage-common-cpp-12-2-4-0",
+      "version-semver": "12.2.4",
+      "port-version": 0
+    }
+  ]
+}

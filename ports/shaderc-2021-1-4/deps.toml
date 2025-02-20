@@ -1,0 +1,8 @@
+old = "shaderc"
+new = "shaderc-2021-1-4"
+
+[deps]
+glslang-12-2-0-0 = "glslang"
+spirv-tools-2022-4-1 = "spirv-tools"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

@@ -1,0 +1,14 @@
+old = "boost-multiprecision"
+new = "boost-multiprecision-1-83-0-0"
+
+[deps]
+boost-assert-1-83-0-0 = "boost-assert"
+boost-config-1-83-0-0 = "boost-config"
+boost-core-1-83-0-0 = "boost-core"
+boost-integer-1-83-0-0 = "boost-integer"
+boost-lexical-cast-1-83-0-0 = "boost-lexical-cast"
+boost-math-1-83-0-0 = "boost-math"
+boost-predef-1-83-0-0 = "boost-predef"
+boost-random-1-83-0-0 = "boost-random"
+boost-throw-exception-1-83-0-0 = "boost-throw-exception"
+boost-vcpkg-helpers-1-83-0-0 = "boost-vcpkg-helpers"

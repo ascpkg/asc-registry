@@ -1,0 +1,6 @@
+old = "shaderc"
+new = "shaderc-12fb656ab20ea9aa06e7084a74e5ff832b7ce2da-0"
+
+[deps]
+glslang-3a21c880500eac21cdf79bef5b80f970a55ac6af-0 = "glslang"
+spirv-tools-v2017-1-dev-7e2d26c77b606b21af839b37fd21381c4a669f23-0 = "spirv-tools"

@@ -1,0 +1,16 @@
+{
+  "name": "libbson",
+  "version": "1.22.2",
+  "description": "libbson is a library providing useful routines related to building, parsing, and iterating BSON documents.",
+  "homepage": "https://github.com/mongodb/mongo-c-driver/tree/master/src/libbson",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}

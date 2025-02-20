@@ -1,0 +1,16 @@
+old = "opencv"
+new = "opencv-3-3-1-7-0"
+
+[deps]
+cuda-8-0-1-0 = "cuda"
+eigen3-3-3-4-2-0 = "eigen3"
+gdcm2-2-8-3-0 = "gdcm2"
+gflags-2-2-0-5-0 = "gflags"
+glog-0-3-5-1-0 = "glog"
+libjpeg-turbo-1-5-2-2-0 = "libjpeg-turbo"
+libpng-1-6-34-2-0 = "libpng"
+protobuf-3-4-1-2-0 = "protobuf"
+qt5-5-8-6-0 = "qt5"
+tiff-4-0-8-1-0 = "tiff"
+vtk-8-0-1-5-0 = "vtk"
+zlib-1-2-11-3-0 = "zlib"

@@ -1,0 +1,5 @@
+old = "sdl2"
+new = "sdl2-2-0-10-1-0"
+
+[deps]
+vulkan-1-1-82-1-1-0 = "vulkan"

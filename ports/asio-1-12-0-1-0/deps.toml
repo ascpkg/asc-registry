@@ -1,0 +1,8 @@
+old = "asio"
+new = "asio-1-12-0-1-0"
+
+[deps]
+boost-config-1-66-0-0 = "boost-config"
+boost-date-time-1-66-0-0 = "boost-date-time"
+boost-throw-exception-1-66-0-0 = "boost-throw-exception"
+boost-utility-1-66-0-0 = "boost-utility"

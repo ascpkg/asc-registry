@@ -1,0 +1,5 @@
+old = "proj4"
+new = "proj4-6-1-1-1-0"
+
+[deps]
+sqlite3-3-30-1-1-0 = "sqlite3"

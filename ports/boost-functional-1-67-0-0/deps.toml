@@ -1,0 +1,10 @@
+old = "boost-functional"
+new = "boost-functional-1-67-0-0"
+
+[deps]
+boost-config-1-67-0-0 = "boost-config"
+boost-mpl-1-67-0-0 = "boost-mpl"
+boost-type-traits-1-67-0-0 = "boost-type-traits"
+boost-typeof-1-67-0-0 = "boost-typeof"
+boost-utility-1-67-0-0 = "boost-utility"
+boost-vcpkg-helpers-4-0 = "boost-vcpkg-helpers"

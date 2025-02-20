@@ -1,0 +1,5 @@
+old = "spectra"
+new = "spectra-0-8-1-0"
+
+[deps]
+eigen3-3-3-7-2-0 = "eigen3"

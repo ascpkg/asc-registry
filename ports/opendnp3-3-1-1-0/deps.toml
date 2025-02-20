@@ -1,0 +1,8 @@
+old = "opendnp3"
+new = "opendnp3-3-1-1-0"
+
+[deps]
+asio-1-20-0-0 = "asio"
+openssl-1-1-1l-4 = "openssl"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-11-01-0 = "vcpkg-cmake-config"

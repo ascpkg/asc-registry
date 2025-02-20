@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cpr-1-10-5-2",
+      "version-semver": "1.10.5",
+      "port-version": 2
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+old = "arg-router"
+new = "arg-router-1-4-0-0"
+
+[deps]
+boost-lexical-cast-1-82-0-2 = "boost-lexical-cast"
+boost-mp11-1-82-0-2 = "boost-mp11"
+boost-preprocessor-1-82-0-2 = "boost-preprocessor"
+span-lite-0-10-3-0 = "span-lite"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

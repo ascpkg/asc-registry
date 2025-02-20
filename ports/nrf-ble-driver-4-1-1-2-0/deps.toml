@@ -1,0 +1,6 @@
+old = "nrf-ble-driver"
+new = "nrf-ble-driver-4-1-1-2-0"
+
+[deps]
+asio-1-12-2-2-0 = "asio"
+catch2-2-9-2-0 = "catch2"

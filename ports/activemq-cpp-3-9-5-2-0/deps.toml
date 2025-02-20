@@ -1,0 +1,5 @@
+old = "activemq-cpp"
+new = "activemq-cpp-3-9-5-2-0"
+
+[deps]
+apr-1-7-0-0 = "apr"

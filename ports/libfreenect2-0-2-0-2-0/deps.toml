@@ -1,0 +1,6 @@
+old = "libfreenect2"
+new = "libfreenect2-0-2-0-2-0"
+
+[deps]
+libjpeg-turbo-2-0-2-0 = "libjpeg-turbo"
+libusb-1-0-22-3-0 = "libusb"

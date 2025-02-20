@@ -1,0 +1,9 @@
+old = "libhsplasma"
+new = "libhsplasma-2020-08-30-0"
+
+[deps]
+libjpeg-turbo-2-0-5-0 = "libjpeg-turbo"
+libpng-1-6-37-11 = "libpng"
+openssl-1-1-1g-1 = "openssl"
+string-theory-3-3-0 = "string-theory"
+zlib-1-2-11-9 = "zlib"

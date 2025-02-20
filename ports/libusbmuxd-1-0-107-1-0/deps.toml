@@ -1,0 +1,5 @@
+old = "libusbmuxd"
+new = "libusbmuxd-1-0-107-1-0"
+
+[deps]
+libplist-2-0-1-197-1-0 = "libplist"

@@ -1,0 +1,5 @@
+old = "libjuice"
+new = "libjuice-0-7-1-0"
+
+[deps]
+nettle-3-6-0 = "nettle"

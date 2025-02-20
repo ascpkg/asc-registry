@@ -1,0 +1,11 @@
+old = "exiv2"
+new = "exiv2-0-27-5-3"
+
+[deps]
+expat-2-5-0-1 = "expat"
+gettext-0-21-9 = "gettext"
+libiconv-1-17-0 = "libiconv"
+libpng-1-6-39-0 = "libpng"
+vcpkg-cmake-2022-10-30-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-2-13-0 = "zlib"

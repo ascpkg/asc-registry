@@ -1,0 +1,18 @@
+old = "flashlight-cuda"
+new = "flashlight-cuda-0-3-4"
+
+[deps]
+arrayfire-3-8-0-0 = "arrayfire"
+cereal-1-3-1-0 = "cereal"
+cub-1-16-0-0 = "cub"
+cuda-10-1-10 = "cuda"
+cudnn-7-6-5-5 = "cudnn"
+fftw3-3-3-10-3 = "fftw3"
+flashlight-cuda-0-3-4 = "flashlight-cuda"
+gflags-2-2-2-5 = "gflags"
+intel-mkl-2020-0-0-2 = "intel-mkl"
+kenlm-20200924-1 = "kenlm"
+libsndfile-1-1-0-0 = "libsndfile"
+nccl-2-4-6-2 = "nccl"
+openmpi-4-1-0-4 = "openmpi"
+stb-2020-09-14-2 = "stb"

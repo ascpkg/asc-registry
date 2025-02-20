@@ -1,0 +1,5 @@
+old = "libftdi1"
+new = "libftdi1-1-4-1-0"
+
+[deps]
+libusb-1-0-23-1-0 = "libusb"

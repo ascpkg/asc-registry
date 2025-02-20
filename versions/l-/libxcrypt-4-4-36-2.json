@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libxcrypt-4-4-36-2",
+      "version": "4.4.36",
+      "port-version": 2
+    }
+  ]
+}

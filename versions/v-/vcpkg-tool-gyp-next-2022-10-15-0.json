@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/vcpkg-tool-gyp-next-2022-10-15-0",
+      "version-date": "2022-10-15",
+      "port-version": 0
+    }
+  ]
+}

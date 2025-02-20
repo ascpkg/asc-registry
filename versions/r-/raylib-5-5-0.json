@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/raylib-5-5-0",
+      "version": "5.5",
+      "port-version": 0
+    }
+  ]
+}

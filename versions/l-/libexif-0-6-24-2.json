@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libexif-0-6-24-2",
+      "version": "0.6.24",
+      "port-version": 2
+    }
+  ]
+}

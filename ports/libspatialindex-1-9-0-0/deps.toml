@@ -1,0 +1,5 @@
+old = "libspatialindex"
+new = "libspatialindex-1-9-0-0"
+
+[deps]
+zlib-1-2-11-9 = "zlib"

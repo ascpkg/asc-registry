@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/capstone-5-0-0-rc2-2",
+      "version": "5.0.0-rc2",
+      "port-version": 2
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/chromium-base-86-0-4199-1-6",
+      "version": "86.0.4199.1",
+      "port-version": 6
+    }
+  ]
+}

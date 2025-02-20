@@ -1,0 +1,5 @@
+old = "openni2"
+new = "openni2-2-2-0-33-13"
+
+[deps]
+kinectsdk1-1-8-3 = "kinectsdk1"

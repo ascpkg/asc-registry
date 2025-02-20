@@ -1,0 +1,7 @@
+old = "mongoose"
+new = "mongoose-7-5-0"
+
+[deps]
+openssl-1-1-1m-0 = "openssl"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"

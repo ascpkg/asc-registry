@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/utf8-range-5-29-3-0",
+      "version": "5.29.3",
+      "port-version": 0
+    }
+  ]
+}

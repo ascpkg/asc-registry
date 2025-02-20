@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/bitserializer-cpprestjson-alias-1",
+      "version-string": "alias",
+      "port-version": 1
+    }
+  ]
+}

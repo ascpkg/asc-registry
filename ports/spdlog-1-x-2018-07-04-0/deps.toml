@@ -1,0 +1,5 @@
+old = "spdlog"
+new = "spdlog-1-x-2018-07-04-0"
+
+[deps]
+fmt-5-0-0-1-0 = "fmt"

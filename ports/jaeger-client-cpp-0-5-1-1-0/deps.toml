@@ -1,0 +1,8 @@
+old = "jaeger-client-cpp"
+new = "jaeger-client-cpp-0-5-1-1-0"
+
+[deps]
+nlohmann-json-3-7-3-0 = "nlohmann-json"
+opentracing-1-6-0-0 = "opentracing"
+thrift-2020-02-08-0 = "thrift"
+yaml-cpp-0-6-2-3-0 = "yaml-cpp"

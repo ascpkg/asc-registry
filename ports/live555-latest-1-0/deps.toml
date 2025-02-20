@@ -1,0 +1,5 @@
+old = "live555"
+new = "live555-latest-1-0"
+
+[deps]
+openssl-1-0 = "openssl"

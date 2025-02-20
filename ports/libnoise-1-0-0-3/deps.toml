@@ -1,0 +1,6 @@
+old = "libnoise"
+new = "libnoise-1-0-0-3"
+
+[deps]
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"

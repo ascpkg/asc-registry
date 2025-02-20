@@ -1,0 +1,15 @@
+old = "wangle"
+new = "wangle-2019-04-22-00-1-0"
+
+[deps]
+boost-context-1-70-0-0 = "boost-context"
+boost-filesystem-1-70-0-0 = "boost-filesystem"
+boost-regex-1-70-0-0 = "boost-regex"
+boost-system-1-70-0-0 = "boost-system"
+boost-thread-1-70-0-0 = "boost-thread"
+double-conversion-3-1-0-2-0 = "double-conversion"
+fizz-2019-04-15-00-1-0 = "fizz"
+folly-2019-04-15-00-2-0 = "folly"
+glog-0-4-0-0 = "glog"
+libevent-2-1-8-5-0 = "libevent"
+openssl-0-0 = "openssl"

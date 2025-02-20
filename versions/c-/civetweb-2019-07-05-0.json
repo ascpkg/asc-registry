@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/civetweb-2019-07-05-0",
+      "version": "2019-07-05",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+old = "graphicsmagick"
+new = "graphicsmagick-1-3-35-3"
+
+[deps]
+bzip2-1-0-8-1 = "bzip2"
+freetype-2-10-4-0 = "freetype"
+libjpeg-turbo-2-0-5-2 = "libjpeg-turbo"
+libpng-1-6-37-14 = "libpng"
+tiff-4-1-0-0 = "tiff"
+zlib-1-2-11-9 = "zlib"

@@ -1,0 +1,7 @@
+old = "boost-polygon"
+new = "boost-polygon-1-70-0-0"
+
+[deps]
+boost-config-1-70-0-0 = "boost-config"
+boost-integer-1-70-0-0 = "boost-integer"
+boost-vcpkg-helpers-5-0 = "boost-vcpkg-helpers"

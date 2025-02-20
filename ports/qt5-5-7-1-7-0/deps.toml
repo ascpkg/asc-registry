@@ -1,0 +1,7 @@
+old = "qt5"
+new = "qt5-5-7-1-7-0"
+
+[deps]
+double-conversion-2-0-1-0 = "double-conversion"
+libpq-9-6-1-0 = "libpq"
+sqlite3-3-17-0-0 = "sqlite3"

@@ -1,0 +1,6 @@
+old = "butteraugli"
+new = "butteraugli-2019-05-08-2"
+
+[deps]
+libjpeg-turbo-2-0-6-2 = "libjpeg-turbo"
+libpng-1-6-37-15 = "libpng"

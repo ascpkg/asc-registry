@@ -1,0 +1,8 @@
+old = "socket-io-client"
+new = "socket-io-client-3-1-0-0"
+
+[deps]
+asio-1-20-0-0 = "asio"
+rapidjson-2020-09-14-1 = "rapidjson"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+websocketpp-0-8-2-1 = "websocketpp"

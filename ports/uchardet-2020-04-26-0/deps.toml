@@ -1,0 +1,5 @@
+old = "uchardet"
+new = "uchardet-2020-04-26-0"
+
+[deps]
+getopt-0-0 = "getopt"

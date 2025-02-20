@@ -1,0 +1,8 @@
+old = "llvm"
+new = "llvm-12-0-0-0"
+
+[deps]
+libffi-3-3-9 = "libffi"
+libxml2-2-9-10-7 = "libxml2"
+llvm-12-0-0-0 = "llvm"
+zlib-1-2-11-10 = "zlib"

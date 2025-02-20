@@ -1,0 +1,5 @@
+old = "nvtt"
+new = "nvtt-2-1-2-1"
+
+[deps]
+libsquish-1-15-7-0 = "libsquish"

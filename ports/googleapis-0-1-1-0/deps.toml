@@ -1,0 +1,6 @@
+old = "googleapis"
+new = "googleapis-0-1-1-0"
+
+[deps]
+grpc-1-21-1-1-0 = "grpc"
+protobuf-3-9-0-0 = "protobuf"

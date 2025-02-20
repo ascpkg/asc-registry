@@ -1,0 +1,5 @@
+old = "cctz"
+new = "cctz-2-3-3"
+
+[deps]
+benchmark-1-5-5-0 = "benchmark"

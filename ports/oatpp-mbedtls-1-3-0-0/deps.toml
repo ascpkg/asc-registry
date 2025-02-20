@@ -1,0 +1,8 @@
+old = "oatpp-mbedtls"
+new = "oatpp-mbedtls-1-3-0-0"
+
+[deps]
+mbedtls-2-24-0-3 = "mbedtls"
+oatpp-1-3-0-0 = "oatpp"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"

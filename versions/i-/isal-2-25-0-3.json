@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/isal-2-25-0-3",
+      "version": "2.25.0",
+      "port-version": 3
+    }
+  ]
+}

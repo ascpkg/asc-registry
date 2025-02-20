@@ -1,0 +1,5 @@
+old = "json-dto"
+new = "json-dto-0-2-6-0"
+
+[deps]
+rapidjson-1-1-0-1-0 = "rapidjson"

@@ -1,0 +1,2 @@
+old = "libmysql"
+new = "libmysql-5-7-16-0"

@@ -1,0 +1,8 @@
+old = "ncnn"
+new = "ncnn-20241226-0"
+
+[deps]
+glslang-15-1-0-0 = "glslang"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
+vulkan-2023-12-17-0 = "vulkan"

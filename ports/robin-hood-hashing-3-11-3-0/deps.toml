@@ -1,0 +1,6 @@
+old = "robin-hood-hashing"
+new = "robin-hood-hashing-3-11-3-0"
+
+[deps]
+vcpkg-cmake-2021-06-25-5 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"

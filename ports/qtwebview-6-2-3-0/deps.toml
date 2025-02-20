@@ -1,0 +1,7 @@
+old = "qtwebview"
+new = "qtwebview-6-2-3-0"
+
+[deps]
+qtbase-6-2-3-0 = "qtbase"
+qtdeclarative-6-2-3-0 = "qtdeclarative"
+qtwebengine-6-2-3-0 = "qtwebengine"

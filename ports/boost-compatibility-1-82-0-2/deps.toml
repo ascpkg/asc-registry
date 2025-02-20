@@ -1,0 +1,5 @@
+old = "boost-compatibility"
+new = "boost-compatibility-1-82-0-2"
+
+[deps]
+boost-vcpkg-helpers-1-82-0-2 = "boost-vcpkg-helpers"

@@ -1,0 +1,6 @@
+old = "uchardet"
+new = "uchardet-2021-09-03-0"
+
+[deps]
+getopt-0-1 = "getopt"
+vcpkg-cmake-2021-07-30-0 = "vcpkg-cmake"

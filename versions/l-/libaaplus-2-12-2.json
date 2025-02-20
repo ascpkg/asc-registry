@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libaaplus-2-12-2",
+      "version-string": "2.12",
+      "port-version": 2
+    }
+  ]
+}

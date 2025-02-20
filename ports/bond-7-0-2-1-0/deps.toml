@@ -1,0 +1,8 @@
+old = "bond"
+new = "bond-7-0-2-1-0"
+
+[deps]
+boost-assign-1-66-0-0 = "boost-assign"
+boost-config-1-66-0-0 = "boost-config"
+boost-utility-1-66-0-0 = "boost-utility"
+rapidjson-1-1-0-0 = "rapidjson"

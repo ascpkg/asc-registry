@@ -1,0 +1,5 @@
+old = "gdcm2"
+new = "gdcm2-deprecated-1"
+
+[deps]
+gdcm-3-0-7-2 = "gdcm"

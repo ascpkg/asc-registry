@@ -1,0 +1,7 @@
+old = "cgl"
+new = "cgl-0-60-2-2-0"
+
+[deps]
+clp-1-17-3-0 = "clp"
+coinutils-2-11-2-2-0 = "coinutils"
+osi-0-108-4-2-0 = "osi"

@@ -1,0 +1,5 @@
+old = "oatpp-swagger"
+new = "oatpp-swagger-1-1-0-0"
+
+[deps]
+oatpp-1-1-0-0 = "oatpp"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/mman-git-f5ff813-3-0",
+      "version": "git-f5ff813-3",
+      "port-version": 0
+    }
+  ]
+}

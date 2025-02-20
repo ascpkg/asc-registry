@@ -1,0 +1,6 @@
+old = "xapian"
+new = "xapian-1-4-22-0"
+
+[deps]
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-2-13-0 = "zlib"

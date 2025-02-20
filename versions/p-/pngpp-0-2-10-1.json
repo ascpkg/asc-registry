@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/pngpp-0-2-10-1",
+      "version": "0.2.10",
+      "port-version": 1
+    }
+  ]
+}

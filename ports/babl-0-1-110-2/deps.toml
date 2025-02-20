@@ -1,0 +1,6 @@
+old = "babl"
+new = "babl-0-1-110-2"
+
+[deps]
+lcms-2-16-0 = "lcms"
+vcpkg-tool-meson-1-6-1-0 = "vcpkg-tool-meson"

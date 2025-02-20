@@ -1,0 +1,17 @@
+old = "coin"
+new = "coin-4-0-0-5"
+
+[deps]
+boost-assert-1-78-0-0 = "boost-assert"
+boost-config-1-78-0-0 = "boost-config"
+boost-lexical-cast-1-78-0-0 = "boost-lexical-cast"
+boost-math-1-78-0-0 = "boost-math"
+boost-smart-ptr-1-78-0-0 = "boost-smart-ptr"
+boost-static-assert-1-78-0-0 = "boost-static-assert"
+bzip2-1-0-8-2 = "bzip2"
+fontconfig-2-13-94-5 = "fontconfig"
+freetype-2-11-0-2 = "freetype"
+openal-soft-1-21-1-4 = "openal-soft"
+opengl-registry-2021-11-17-0 = "opengl-registry"
+simage-1-8-1-4 = "simage"
+zlib-1-2-11-13 = "zlib"

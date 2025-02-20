@@ -1,0 +1,7 @@
+old = "gexiv2"
+new = "gexiv2-0-14-3-0"
+
+[deps]
+exiv2-0-28-3-2 = "exiv2"
+glib-2-80-0-1 = "glib"
+vcpkg-tool-meson-1-6-1-0 = "vcpkg-tool-meson"

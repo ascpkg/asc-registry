@@ -1,0 +1,5 @@
+old = "eastl"
+new = "eastl-3-16-05-0"
+
+[deps]
+eabase-2-09-10-0 = "eabase"

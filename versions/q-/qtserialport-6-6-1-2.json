@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qtserialport-6-6-1-2",
+      "version": "6.6.1",
+      "port-version": 2
+    }
+  ]
+}

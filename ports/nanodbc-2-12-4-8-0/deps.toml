@@ -1,0 +1,5 @@
+old = "nanodbc"
+new = "nanodbc-2-12-4-8-0"
+
+[deps]
+unixodbc-2-3-7-1-0 = "unixodbc"

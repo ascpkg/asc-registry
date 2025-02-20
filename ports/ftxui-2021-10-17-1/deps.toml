@@ -1,0 +1,6 @@
+old = "ftxui"
+new = "ftxui-2021-10-17-1"
+
+[deps]
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"

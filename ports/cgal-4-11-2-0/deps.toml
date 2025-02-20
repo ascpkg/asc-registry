@@ -1,0 +1,15 @@
+old = "cgal"
+new = "cgal-4-11-2-0"
+
+[deps]
+boost-any-1-66-0-0 = "boost-any"
+boost-container-1-66-0-0 = "boost-container"
+boost-format-1-66-0-0 = "boost-format"
+boost-iterator-1-66-0-0 = "boost-iterator"
+boost-random-1-66-0-0 = "boost-random"
+boost-unordered-1-66-0-0 = "boost-unordered"
+boost-variant-1-66-0-0 = "boost-variant"
+mpfr-3-1-6-2-0 = "mpfr"
+mpir-3-0-0-4-0 = "mpir"
+qt5-5-8-6-0 = "qt5"
+zlib-1-2-11-3-0 = "zlib"

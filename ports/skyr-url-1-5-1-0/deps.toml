@@ -1,0 +1,5 @@
+old = "skyr-url"
+new = "skyr-url-1-5-1-0"
+
+[deps]
+tl-expected-1-0-0-1-0 = "tl-expected"

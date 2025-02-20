@@ -1,0 +1,12 @@
+{
+  "name": "qt5-graphicaleffects",
+  "version": "5.15.10",
+  "description": "Qt5 GraphicalEffects Module.",
+  "dependencies": [
+    {
+      "name": "qt5-base",
+      "default-features": false
+    },
+    "qt5-declarative"
+  ]
+}

@@ -1,0 +1,5 @@
+old = "cli"
+new = "cli-1-1-0"
+
+[deps]
+boost-asio-1-69-0-1-0 = "boost-asio"

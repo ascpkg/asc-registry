@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libqcow-20210419-0",
+      "version": "20210419",
+      "port-version": 0
+    }
+  ]
+}

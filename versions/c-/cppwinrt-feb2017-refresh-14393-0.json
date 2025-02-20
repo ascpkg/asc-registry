@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cppwinrt-feb2017-refresh-14393-0",
+      "version": "feb2017_refresh-14393",
+      "port-version": 0
+    }
+  ]
+}

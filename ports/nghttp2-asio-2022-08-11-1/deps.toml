@@ -1,0 +1,10 @@
+old = "nghttp2-asio"
+new = "nghttp2-asio-2022-08-11-1"
+
+[deps]
+boost-asio-1-81-0-2 = "boost-asio"
+boost-system-1-81-0-2 = "boost-system"
+boost-thread-1-81-0-2 = "boost-thread"
+nghttp2-1-51-0-1 = "nghttp2"
+openssl-3-1-0-0 = "openssl"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

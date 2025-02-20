@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/tree-sitter-0-26-0-0",
+      "version-semver": "0.26.0",
+      "port-version": 0
+    }
+  ]
+}

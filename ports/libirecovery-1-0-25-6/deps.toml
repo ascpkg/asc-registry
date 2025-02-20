@@ -1,0 +1,7 @@
+old = "libirecovery"
+new = "libirecovery-1-0-25-6"
+
+[deps]
+getopt-0-2 = "getopt"
+libusbmuxd-1-2-219-3 = "libusbmuxd"
+readline-0-3 = "readline"

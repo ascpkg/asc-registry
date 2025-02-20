@@ -1,0 +1,12 @@
+old = "coolprop"
+new = "coolprop-6-1-0-2-0"
+
+[deps]
+catch-2-0-1-1-0 = "catch"
+eigen3-3-3-4-2-0 = "eigen3"
+fmt-4-0-0-1-0 = "fmt"
+if97-2-1-0-0 = "if97"
+msgpack-2-1-5-1-0 = "msgpack"
+pybind11-2-2-0-0 = "pybind11"
+rapidjson-1-1-0-0 = "rapidjson"
+refprop-headers-2017-11-7-882aec454b2bc3d5323b8691736ff09c288f4ed6-0 = "refprop-headers"

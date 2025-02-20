@@ -1,0 +1,6 @@
+old = "libspatialindex"
+new = "libspatialindex-1-9-3-3"
+
+[deps]
+vcpkg-cmake-2022-10-30-0 = "vcpkg-cmake"
+zlib-1-2-13-0 = "zlib"

@@ -1,0 +1,5 @@
+old = "libmodman"
+new = "libmodman-2-0-1-2-0"
+
+[deps]
+zlib-1-2-11-7 = "zlib"

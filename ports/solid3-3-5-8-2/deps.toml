@@ -1,0 +1,6 @@
+old = "solid3"
+new = "solid3-3-5-8-2"
+
+[deps]
+vcpkg-cmake-2022-07-02-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

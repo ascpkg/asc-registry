@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cppwinrt-windows-sdk-0",
+      "version-string": "windows-sdk",
+      "port-version": 0
+    }
+  ]
+}

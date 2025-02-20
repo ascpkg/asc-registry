@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/easycl-0-3-2",
+      "version": "0.3",
+      "port-version": 2
+    }
+  ]
+}

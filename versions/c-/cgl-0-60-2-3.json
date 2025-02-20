@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cgl-0-60-2-3",
+      "version-string": "0.60.2",
+      "port-version": 3
+    }
+  ]
+}

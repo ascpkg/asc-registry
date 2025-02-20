@@ -1,0 +1,6 @@
+old = "catch2"
+new = "catch2-2-13-6-2"
+
+[deps]
+vcpkg-cmake-2021-07-30-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"

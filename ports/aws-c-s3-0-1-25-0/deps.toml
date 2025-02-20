@@ -1,0 +1,13 @@
+old = "aws-c-s3"
+new = "aws-c-s3-0-1-25-0"
+
+[deps]
+aws-c-auth-0-6-3-0 = "aws-c-auth"
+aws-c-cal-0-5-11-0 = "aws-c-cal"
+aws-c-common-0-6-9-0 = "aws-c-common"
+aws-c-compression-0-2-14-0 = "aws-c-compression"
+aws-c-http-0-6-5-0 = "aws-c-http"
+aws-c-io-0-10-7-0 = "aws-c-io"
+s2n-1-0-17-0 = "s2n"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"

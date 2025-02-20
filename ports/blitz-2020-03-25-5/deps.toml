@@ -1,0 +1,7 @@
+old = "blitz"
+new = "blitz-2020-03-25-5"
+
+[deps]
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"
+vcpkg-tool-python2-2-7-18-0 = "vcpkg-tool-python2"

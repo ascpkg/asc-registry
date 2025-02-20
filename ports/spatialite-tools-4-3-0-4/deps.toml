@@ -1,0 +1,12 @@
+old = "spatialite-tools"
+new = "spatialite-tools-4-3-0-4"
+
+[deps]
+expat-2020-08-18-0 = "expat"
+geos-3-8-1-0 = "geos"
+libiconv-1-16-5 = "libiconv"
+libspatialite-4-3-0a-5 = "libspatialite"
+proj4-6-3-1-2 = "proj4"
+readosm-1-1-0-3 = "readosm"
+sqlite3-3-32-3-1 = "sqlite3"
+zlib-1-2-11-9 = "zlib"

@@ -1,0 +1,6 @@
+old = "outcome"
+new = "outcome-2-2-2-20210922-0"
+
+[deps]
+ned14-internal-quickcpplib-0-0-0-e691a6dc-0 = "ned14-internal-quickcpplib"
+status-code-1-0-0-ab3cd821-1 = "status-code"

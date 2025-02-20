@@ -1,0 +1,8 @@
+old = "iceoryx"
+new = "iceoryx-2-0-5-0"
+
+[deps]
+acl-2-3-1-2 = "acl"
+cpptoml-0-1-1-4 = "cpptoml"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

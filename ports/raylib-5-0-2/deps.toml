@@ -1,0 +1,15 @@
+old = "raylib"
+new = "raylib-5-0-2"
+
+[deps]
+cgltf-1-14-0 = "cgltf"
+dirent-1-24-0 = "dirent"
+drlibs-2023-08-16-0 = "drlibs"
+glfw3-3-4-1 = "glfw3"
+miniaudio-0-11-21-0 = "miniaudio"
+mmx-2022-03-27-0 = "mmx"
+nanosvg-2023-12-29-0 = "nanosvg"
+qoi-2023-08-10-0 = "qoi"
+stb-2024-07-29-1 = "stb"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

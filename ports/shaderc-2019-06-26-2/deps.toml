@@ -1,0 +1,6 @@
+old = "shaderc"
+new = "shaderc-2019-06-26-2"
+
+[deps]
+glslang-2019-03-05-3 = "glslang"
+spirv-tools-2020-1-2 = "spirv-tools"

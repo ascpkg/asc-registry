@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libffi-3-4-7-0",
+      "version": "3.4.7",
+      "port-version": 0
+    }
+  ]
+}

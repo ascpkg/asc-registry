@@ -1,0 +1,5 @@
+old = "seal"
+new = "seal-3-4-5-1-0"
+
+[deps]
+zlib-1-2-11-6-0 = "zlib"

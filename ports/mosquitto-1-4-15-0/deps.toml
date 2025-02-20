@@ -1,0 +1,8 @@
+old = "mosquitto"
+new = "mosquitto-1-4-15-0"
+
+[deps]
+c-ares-cares-1-14-0-0 = "c-ares"
+libwebsockets-2-4-2-0 = "libwebsockets"
+openssl-1-0-2o-1-0 = "openssl"
+pthreads-2-9-1-2-0 = "pthreads"

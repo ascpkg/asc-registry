@@ -1,0 +1,11 @@
+old = "boost-regex"
+new = "boost-regex-1-87-0-0"
+
+[deps]
+boost-assert-1-87-0-0 = "boost-assert"
+boost-cmake-1-87-0-0 = "boost-cmake"
+boost-config-1-87-0-0 = "boost-config"
+boost-headers-1-87-0-0 = "boost-headers"
+boost-predef-1-87-0-0 = "boost-predef"
+boost-throw-exception-1-87-0-0 = "boost-throw-exception"
+icu-74-2-5 = "icu"

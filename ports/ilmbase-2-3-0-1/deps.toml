@@ -1,0 +1,5 @@
+old = "ilmbase"
+new = "ilmbase-2-3-0-1"
+
+[deps]
+openexr-2-5-0-3 = "openexr"

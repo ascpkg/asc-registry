@@ -1,0 +1,16 @@
+old = "boost-lambda"
+new = "boost-lambda-1-84-0-1"
+
+[deps]
+boost-bind-1-84-0-1 = "boost-bind"
+boost-cmake-1-84-0-0 = "boost-cmake"
+boost-config-1-84-0-1 = "boost-config"
+boost-core-1-84-0-1 = "boost-core"
+boost-detail-1-84-0-1 = "boost-detail"
+boost-headers-1-84-0-0 = "boost-headers"
+boost-iterator-1-84-0-1 = "boost-iterator"
+boost-mpl-1-84-0-1 = "boost-mpl"
+boost-preprocessor-1-84-0-1 = "boost-preprocessor"
+boost-tuple-1-84-0-1 = "boost-tuple"
+boost-type-traits-1-84-0-1 = "boost-type-traits"
+boost-utility-1-84-0-1 = "boost-utility"

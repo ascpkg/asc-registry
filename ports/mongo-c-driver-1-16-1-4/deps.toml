@@ -1,0 +1,9 @@
+old = "mongo-c-driver"
+new = "mongo-c-driver-1-16-1-4"
+
+[deps]
+icu-69-1-10 = "icu"
+libbson-1-16-1-2 = "libbson"
+openssl-1-1-1k-4 = "openssl"
+snappy-1-1-8-0 = "snappy"
+zlib-1-2-11-10 = "zlib"

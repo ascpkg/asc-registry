@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/popsift-0-9-1",
+      "version-string": "0.9",
+      "port-version": 1
+    }
+  ]
+}

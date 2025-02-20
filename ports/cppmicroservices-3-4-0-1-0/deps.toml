@@ -1,0 +1,5 @@
+old = "cppmicroservices"
+new = "cppmicroservices-3-4-0-1-0"
+
+[deps]
+gtest-2019-10-09-1-0 = "gtest"

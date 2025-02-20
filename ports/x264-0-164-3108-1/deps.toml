@@ -1,0 +1,5 @@
+old = "x264"
+new = "x264-0-164-3108-1"
+
+[deps]
+vcpkg-make-2023-05-15-0 = "vcpkg-make"

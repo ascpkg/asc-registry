@@ -1,0 +1,8 @@
+old = "ttauri"
+new = "ttauri-0-3-0-0"
+
+[deps]
+date-3-0-0-2 = "date"
+fmt-7-1-3-2 = "fmt"
+vulkan-1-1-82-1-1-0 = "vulkan"
+vulkan-memory-allocator-2-3-0-0 = "vulkan-memory-allocator"

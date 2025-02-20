@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libudis86-2018-01-28-3",
+      "version-date": "2018-01-28",
+      "port-version": 3
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+old = "freetype"
+new = "freetype-2-6-3-2-0"
+
+[deps]
+zlib-1-2-8-0 = "zlib"

@@ -1,0 +1,15 @@
+old = "google-cloud-cpp"
+new = "google-cloud-cpp-2-23-0-1"
+
+[deps]
+abseil-20240116-2-0 = "abseil"
+crc32c-1-1-2-2 = "crc32c"
+curl-8-7-1-2 = "curl"
+google-cloud-cpp-2-23-0-1 = "google-cloud-cpp"
+grpc-1-51-1-3 = "grpc"
+nlohmann-json-3-11-3-0 = "nlohmann-json"
+openssl-3-3-0-0 = "openssl"
+opentelemetry-cpp-1-14-2-1 = "opentelemetry-cpp"
+protobuf-3-21-12-2 = "protobuf"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

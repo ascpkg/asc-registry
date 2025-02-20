@@ -1,0 +1,6 @@
+old = "bitserializer-rapidyaml"
+new = "bitserializer-rapidyaml-0-9-0"
+
+[deps]
+bitserializer-0-9-0 = "bitserializer"
+ryml-2020-04-12-0 = "ryml"

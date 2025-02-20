@@ -1,0 +1,8 @@
+old = "kf5completion"
+new = "kf5completion-5-84-0-0"
+
+[deps]
+ecm-5-84-0-0 = "ecm"
+kf5config-5-84-0-0 = "kf5config"
+kf5widgetsaddons-5-84-0-0 = "kf5widgetsaddons"
+qt5-tools-5-15-2-0 = "qt5-tools"

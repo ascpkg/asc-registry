@@ -1,0 +1,15 @@
+{
+  "name": "gz-math7",
+  "version": "7.3.0",
+  "description": "Math API for robotic applications",
+  "homepage": "https://ignitionrobotics.org/libs/math",
+  "dependencies": [
+    "eigen3",
+    "gz-cmake3",
+    "gz-utils2",
+    {
+      "name": "ignition-modularscripts",
+      "host": true
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+old = "opencascade"
+new = "opencascade-7-8-1-1"
+
+[deps]
+angle-chromium-5414-9 = "angle"
+fontconfig-2-15-0-0 = "fontconfig"
+freeimage-3-18-0-27 = "freeimage"
+freetype-2-13-3-0 = "freetype"
+opengl-2022-12-04-3 = "opengl"
+rapidjson-2023-07-17-1 = "rapidjson"
+tbb-2021-13-0-0 = "tbb"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
+vtk-9-3-0-pv5-12-1-5 = "vtk"

@@ -1,0 +1,5 @@
+old = "libsoundio"
+new = "libsoundio-2-0-0-4"
+
+[deps]
+jack2-1-9-14-0 = "jack2"

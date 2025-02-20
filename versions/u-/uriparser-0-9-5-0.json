@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/uriparser-0-9-5-0",
+      "version-semver": "0.9.5",
+      "port-version": 0
+    }
+  ]
+}

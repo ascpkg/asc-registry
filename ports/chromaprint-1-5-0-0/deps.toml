@@ -1,0 +1,5 @@
+old = "chromaprint"
+new = "chromaprint-1-5-0-0"
+
+[deps]
+ffmpeg-4-3-1-10 = "ffmpeg"

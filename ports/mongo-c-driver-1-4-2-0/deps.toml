@@ -1,0 +1,5 @@
+old = "mongo-c-driver"
+new = "mongo-c-driver-1-4-2-0"
+
+[deps]
+libbson-1-4-2-0 = "libbson"

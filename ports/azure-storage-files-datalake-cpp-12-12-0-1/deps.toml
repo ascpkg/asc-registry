@@ -1,0 +1,7 @@
+old = "azure-storage-files-datalake-cpp"
+new = "azure-storage-files-datalake-cpp-12-12-0-1"
+
+[deps]
+azure-storage-blobs-cpp-12-13-0-1 = "azure-storage-blobs-cpp"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

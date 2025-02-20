@@ -1,0 +1,6 @@
+old = "libqrencode"
+new = "libqrencode-4-0-0-2-0"
+
+[deps]
+libiconv-1-15-4-0 = "libiconv"
+libpng-1-6-34-3-0 = "libpng"

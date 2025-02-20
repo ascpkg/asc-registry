@@ -1,0 +1,14 @@
+old = "opensubdiv"
+new = "opensubdiv-3-5-0-1"
+
+[deps]
+cuda-10-1-13 = "cuda"
+directxsdk-jun10-7 = "directxsdk"
+glew-2-2-0-3 = "glew"
+glfw3-3-3-9-0 = "glfw3"
+opencl-v2023-02-06-2 = "opencl"
+opengl-2022-12-04-3 = "opengl"
+ptex-2-3-2-4 = "ptex"
+tbb-2021-11-0-0 = "tbb"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

@@ -1,0 +1,5 @@
+old = "rapidcsv"
+new = "rapidcsv-8-50-0"
+
+[deps]
+vcpkg-cmake-2021-02-28-1 = "vcpkg-cmake"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/mbedtls-2-28-8-0",
+      "version": "2.28.8",
+      "port-version": 0
+    }
+  ]
+}

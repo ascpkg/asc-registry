@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/usockets-2021-1-19-0",
+      "version": "2021-1-19",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/google-cloud-cpp-spanner-1-1-0-0",
+      "version": "1.1.0",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+old = "liblas"
+new = "liblas-1-8-1-9"
+
+[deps]
+boost-detail-1-77-0-0 = "boost-detail"
+boost-filesystem-1-77-0-0 = "boost-filesystem"
+boost-interprocess-1-77-0-0 = "boost-interprocess"
+boost-iostreams-1-77-0-1 = "boost-iostreams"
+boost-lambda-1-77-0-0 = "boost-lambda"
+boost-multi-index-1-77-0-0 = "boost-multi-index"
+boost-program-options-1-77-0-0 = "boost-program-options"
+boost-system-1-77-0-0 = "boost-system"
+boost-thread-1-77-0-0 = "boost-thread"
+boost-uuid-1-77-0-0 = "boost-uuid"
+libgeotiff-1-7-0-0 = "libgeotiff"
+libjpeg-turbo-2-0-6-2 = "libjpeg-turbo"
+zlib-1-2-11-13 = "zlib"

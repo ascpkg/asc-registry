@@ -1,0 +1,10 @@
+old = "devil"
+new = "devil-1-8-0-6"
+
+[deps]
+jasper-2-0-20-0 = "jasper"
+lcms-2-11-0 = "lcms"
+libjpeg-turbo-2-0-5-0 = "libjpeg-turbo"
+libpng-1-6-37-11 = "libpng"
+openexr-2-5-0-1 = "openexr"
+tiff-4-1-0-0 = "tiff"

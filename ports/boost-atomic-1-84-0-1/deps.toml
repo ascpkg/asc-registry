@@ -1,0 +1,13 @@
+old = "boost-atomic"
+new = "boost-atomic-1-84-0-1"
+
+[deps]
+boost-align-1-84-0-1 = "boost-align"
+boost-assert-1-84-0-1 = "boost-assert"
+boost-cmake-1-84-0-0 = "boost-cmake"
+boost-config-1-84-0-1 = "boost-config"
+boost-headers-1-84-0-0 = "boost-headers"
+boost-predef-1-84-0-1 = "boost-predef"
+boost-preprocessor-1-84-0-1 = "boost-preprocessor"
+boost-type-traits-1-84-0-1 = "boost-type-traits"
+boost-winapi-1-84-0-1 = "boost-winapi"

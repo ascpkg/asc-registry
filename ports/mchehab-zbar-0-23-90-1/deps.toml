@@ -1,0 +1,5 @@
+old = "mchehab-zbar"
+new = "mchehab-zbar-0-23-90-1"
+
+[deps]
+libiconv-1-17-0 = "libiconv"

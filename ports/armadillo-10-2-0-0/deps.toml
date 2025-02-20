@@ -1,0 +1,6 @@
+old = "armadillo"
+new = "armadillo-10-2-0-0"
+
+[deps]
+blas-1-0 = "blas"
+lapack-3-1 = "lapack"

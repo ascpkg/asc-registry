@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/mimalloc-2019-06-25-0",
+      "version": "2019-06-25",
+      "port-version": 0
+    }
+  ]
+}

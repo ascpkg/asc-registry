@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/luabridge3-3-0-beta4-0",
+      "version": "3.0-beta4",
+      "port-version": 0
+    }
+  ]
+}

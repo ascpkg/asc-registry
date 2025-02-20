@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ignition-msgs6-6-0-0-2",
+      "version-string": "6.0.0",
+      "port-version": 2
+    }
+  ]
+}

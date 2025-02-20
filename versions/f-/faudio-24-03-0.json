@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/faudio-24-03-0",
+      "version-string": "24.03",
+      "port-version": 0
+    }
+  ]
+}

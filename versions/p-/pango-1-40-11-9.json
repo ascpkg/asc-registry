@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/pango-1-40-11-9",
+      "version": "1.40.11",
+      "port-version": 9
+    }
+  ]
+}

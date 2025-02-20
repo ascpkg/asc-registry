@@ -1,0 +1,8 @@
+old = "tiff"
+new = "tiff-4-1-0-2"
+
+[deps]
+libjpeg-turbo-2-0-6-0 = "libjpeg-turbo"
+liblzma-5-2-5-2 = "liblzma"
+zlib-1-2-11-10 = "zlib"
+zstd-1-4-9-0 = "zstd"

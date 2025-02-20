@@ -1,0 +1,8 @@
+old = "realsense2"
+new = "realsense2-2-42-0-1"
+
+[deps]
+glfw3-3-3-4-0 = "glfw3"
+libusb-1-0-24-4 = "libusb"
+opengl-0-0-8 = "opengl"
+openni2-2-2-0-33-11-0 = "openni2"

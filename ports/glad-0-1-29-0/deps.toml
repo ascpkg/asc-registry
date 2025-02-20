@@ -1,0 +1,6 @@
+old = "glad"
+new = "glad-0-1-29-0"
+
+[deps]
+egl-registry-2018-06-30-1-0 = "egl-registry"
+opengl-registry-2018-06-30-1-0 = "opengl-registry"

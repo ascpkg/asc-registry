@@ -1,0 +1,9 @@
+old = "boost-charconv"
+new = "boost-charconv-1-87-0-0"
+
+[deps]
+boost-assert-1-87-0-0 = "boost-assert"
+boost-cmake-1-87-0-0 = "boost-cmake"
+boost-config-1-87-0-0 = "boost-config"
+boost-core-1-87-0-0 = "boost-core"
+boost-headers-1-87-0-0 = "boost-headers"

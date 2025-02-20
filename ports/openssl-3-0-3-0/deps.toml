@@ -1,0 +1,5 @@
+old = "openssl"
+new = "openssl-3-0-3-0"
+
+[deps]
+vcpkg-cmake-2022-05-06-0 = "vcpkg-cmake"

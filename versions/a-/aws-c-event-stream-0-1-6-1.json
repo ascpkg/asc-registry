@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/aws-c-event-stream-0-1-6-1",
+      "version-string": "0.1.6",
+      "port-version": 1
+    }
+  ]
+}

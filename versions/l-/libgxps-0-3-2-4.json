@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libgxps-0-3-2-4",
+      "version": "0.3.2",
+      "port-version": 4
+    }
+  ]
+}

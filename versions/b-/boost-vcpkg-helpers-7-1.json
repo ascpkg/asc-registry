@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/boost-vcpkg-helpers-7-1",
+      "version": "7",
+      "port-version": 1
+    }
+  ]
+}

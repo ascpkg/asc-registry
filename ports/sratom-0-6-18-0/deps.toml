@@ -1,0 +1,8 @@
+old = "sratom"
+new = "sratom-0-6-18-0"
+
+[deps]
+lv2-1-18-10-1 = "lv2"
+serd-0-32-4-0 = "serd"
+sord-0-16-18-0 = "sord"
+vcpkg-tool-meson-1-6-1-0 = "vcpkg-tool-meson"

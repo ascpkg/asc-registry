@@ -1,0 +1,5 @@
+old = "cpp-redis"
+new = "cpp-redis-4-3-0-0"
+
+[deps]
+tacopie-2-4-1-2-0 = "tacopie"

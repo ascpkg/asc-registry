@@ -1,0 +1,7 @@
+old = "libcanberra"
+new = "libcanberra-0-30-1"
+
+[deps]
+gstreamer-1-19-2-1 = "gstreamer"
+libcanberra-0-30-1 = "libcanberra"
+libvorbis-1-3-7-1 = "libvorbis"

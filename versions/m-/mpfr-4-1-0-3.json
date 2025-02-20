@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/mpfr-4-1-0-3",
+      "version-string": "4.1.0",
+      "port-version": 3
+    }
+  ]
+}

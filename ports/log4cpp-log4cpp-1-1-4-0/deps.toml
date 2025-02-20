@@ -1,0 +1,5 @@
+old = "log4cpp-log4cpp"
+new = "log4cpp-log4cpp-1-1-4-0"
+
+[deps]
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

@@ -1,0 +1,13 @@
+old = "gz-fuel-tools"
+new = "gz-fuel-tools-10-0-0-0"
+
+[deps]
+curl-8-12-1-0 = "curl"
+gz-cmake-4-1-1-0 = "gz-cmake"
+gz-common-6-0-2-0 = "gz-common"
+gz-msgs-11-0-2-0 = "gz-msgs"
+ignition-modularscripts-2025-02-27-0 = "ignition-modularscripts"
+jsoncpp-1-9-6-0 = "jsoncpp"
+libyaml-0-2-5-5 = "libyaml"
+libzip-1-11-3-1 = "libzip"
+tinyxml2-10-0-0-0 = "tinyxml2"

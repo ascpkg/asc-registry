@@ -1,0 +1,6 @@
+old = "gamma"
+new = "gamma-gamma-2018-01-27-2"
+
+[deps]
+libsndfile-1-0-30-0 = "libsndfile"
+portaudio-2020-02-02-0 = "portaudio"

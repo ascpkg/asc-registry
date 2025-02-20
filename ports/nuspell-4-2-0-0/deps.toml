@@ -1,0 +1,5 @@
+old = "nuspell"
+new = "nuspell-4-2-0-0"
+
+[deps]
+icu-67-1-7 = "icu"

@@ -1,0 +1,8 @@
+old = "qttools"
+new = "qttools-6-1-0-0"
+
+[deps]
+llvm-11-1-0-0 = "llvm"
+qtbase-6-1-0-0 = "qtbase"
+qtdeclarative-6-1-0-0 = "qtdeclarative"
+qttools-6-1-0-0 = "qttools"

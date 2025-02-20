@@ -1,0 +1,12 @@
+old = "pango"
+new = "pango-1-50-12-1"
+
+[deps]
+cairo-1-17-6-4 = "cairo"
+fontconfig-2-14-1-1 = "fontconfig"
+freetype-2-12-1-3 = "freetype"
+fribidi-1-0-12-0 = "fribidi"
+gettext-0-21-9 = "gettext"
+glib-2-75-1-0 = "glib"
+harfbuzz-5-0-1-3 = "harfbuzz"
+vcpkg-tool-meson-0-63-0 = "vcpkg-tool-meson"

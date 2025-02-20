@@ -1,0 +1,7 @@
+old = "imgui-sfml"
+new = "imgui-sfml-2-1-2-0"
+
+[deps]
+imgui-1-78-1 = "imgui"
+opengl-0-0-7-0 = "opengl"
+sfml-2-5-1-9 = "sfml"

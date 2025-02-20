@@ -1,0 +1,6 @@
+old = "butteraugli"
+new = "butteraugli-2017-09-02-8c60a2aefa19adb-0"
+
+[deps]
+libjpeg-turbo-1-5-2-0 = "libjpeg-turbo"
+libpng-1-6-32-0 = "libpng"

@@ -1,0 +1,5 @@
+old = "aws-lambda-cpp"
+new = "aws-lambda-cpp-0-1-0-2-0"
+
+[deps]
+curl-7-65-2-1-0 = "curl"

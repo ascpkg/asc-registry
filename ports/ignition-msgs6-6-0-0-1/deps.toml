@@ -1,0 +1,9 @@
+old = "ignition-msgs6"
+new = "ignition-msgs6-6-0-0-1"
+
+[deps]
+ignition-cmake2-2-5-0-0 = "ignition-cmake2"
+ignition-math6-6-6-0-0 = "ignition-math6"
+ignition-modularscripts-2020-11-23-0 = "ignition-modularscripts"
+protobuf-3-13-0-2 = "protobuf"
+tinyxml2-8-0-0-1-0 = "tinyxml2"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/azure-core-cpp-1-10-2-3",
+      "version-semver": "1.10.2",
+      "port-version": 3
+    }
+  ]
+}

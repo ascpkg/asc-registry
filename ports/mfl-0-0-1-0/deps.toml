@@ -1,0 +1,10 @@
+old = "mfl"
+new = "mfl-0-0-1-0"
+
+[deps]
+cairo-1-16-0-9 = "cairo"
+doctest-2-4-5-0 = "doctest"
+fmt-7-1-3-2 = "fmt"
+freetype-2-10-4-0 = "freetype"
+harfbuzz-2-7-4-1 = "harfbuzz"
+range-v3-0-11-0-0 = "range-v3"

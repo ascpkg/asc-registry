@@ -1,0 +1,6 @@
+old = "qtquicktimeline"
+new = "qtquicktimeline-6-7-2-0"
+
+[deps]
+qtbase-6-7-2-0 = "qtbase"
+qtdeclarative-6-7-2-0 = "qtdeclarative"

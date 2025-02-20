@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libudns-0-4-5",
+      "version": "0.4",
+      "port-version": 5
+    }
+  ]
+}

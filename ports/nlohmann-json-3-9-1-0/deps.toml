@@ -1,0 +1,2 @@
+old = "nlohmann-json"
+new = "nlohmann-json-3-9-1-0"

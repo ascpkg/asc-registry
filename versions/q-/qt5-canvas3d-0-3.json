@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qt5-canvas3d-0-3",
+      "version": "0",
+      "port-version": 3
+    }
+  ]
+}

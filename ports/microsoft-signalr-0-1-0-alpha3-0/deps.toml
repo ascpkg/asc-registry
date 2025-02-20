@@ -1,0 +1,6 @@
+old = "microsoft-signalr"
+new = "microsoft-signalr-0-1-0-alpha3-0"
+
+[deps]
+microsoft-signalr-0-1-0-alpha3-0 = "microsoft-signalr"
+msgpack-3-3-0-0 = "msgpack"

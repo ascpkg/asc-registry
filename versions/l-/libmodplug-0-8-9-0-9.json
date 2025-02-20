@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libmodplug-0-8-9-0-9",
+      "version-string": "0.8.9.0",
+      "port-version": 9
+    }
+  ]
+}

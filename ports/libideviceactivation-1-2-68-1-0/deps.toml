@@ -1,0 +1,7 @@
+old = "libideviceactivation"
+new = "libideviceactivation-1-2-68-1-0"
+
+[deps]
+curl-7-65-0-2-0 = "curl"
+libimobiledevice-1-2-76-0 = "libimobiledevice"
+libxml2-2-9-9-4-0 = "libxml2"

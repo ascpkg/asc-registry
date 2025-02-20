@@ -1,0 +1,5 @@
+old = "librabbitmq"
+new = "librabbitmq-0-8-0-1-0"
+
+[deps]
+openssl-0-0 = "openssl"

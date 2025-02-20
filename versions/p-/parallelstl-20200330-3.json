@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/parallelstl-20200330-3",
+      "version": "20200330",
+      "port-version": 3
+    }
+  ]
+}

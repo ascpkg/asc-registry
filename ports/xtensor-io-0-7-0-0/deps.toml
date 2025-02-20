@@ -1,0 +1,6 @@
+old = "xtensor-io"
+new = "xtensor-io-0-7-0-0"
+
+[deps]
+xtensor-0-20-7-1-0 = "xtensor"
+xtl-0-6-4-0 = "xtl"

@@ -1,0 +1,5 @@
+old = "libraw"
+new = "libraw-0-18-2-1-0"
+
+[deps]
+libjpeg-turbo-1-5-1-1-0 = "libjpeg-turbo"

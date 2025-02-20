@@ -1,0 +1,5 @@
+old = "strtk"
+new = "strtk-2018-09-30-b887974-0"
+
+[deps]
+boost-1-68-0-0 = "boost"

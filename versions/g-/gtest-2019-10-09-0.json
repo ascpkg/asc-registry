@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gtest-2019-10-09-0",
+      "version": "2019-10-09",
+      "port-version": 0
+    }
+  ]
+}

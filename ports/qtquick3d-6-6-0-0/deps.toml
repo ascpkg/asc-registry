@@ -1,0 +1,10 @@
+old = "qtquick3d"
+new = "qtquick3d-6-6-0-0"
+
+[deps]
+assimp-5-3-1-2 = "assimp"
+qtbase-6-6-0-0 = "qtbase"
+qtdeclarative-6-6-0-0 = "qtdeclarative"
+qtquick3d-6-6-0-0 = "qtquick3d"
+qtquicktimeline-6-6-0-0 = "qtquicktimeline"
+qtshadertools-6-6-0-0 = "qtshadertools"

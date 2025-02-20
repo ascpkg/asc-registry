@@ -1,0 +1,5 @@
+old = "stlab"
+new = "stlab-1-5-2-1-0"
+
+[deps]
+boost-variant-1-73-0-0 = "boost-variant"

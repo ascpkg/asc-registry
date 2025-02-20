@@ -1,0 +1,10 @@
+old = "boost"
+new = "boost-1-70-0-0"
+
+[deps]
+boost-accumulators-1-70-0-0 = "boost-accumulators"
+boost-algorithm-1-70-0-0 = "boost-algorithm"
+boost-align-1-70-0-0 = "boost-align"
+boost-any-1-70-0-0 = "boost-any"
+boost-array-1-70-0-0 = "boost-array"
+boost-mpi-1-70-0-2-0 = "boost-mpi"

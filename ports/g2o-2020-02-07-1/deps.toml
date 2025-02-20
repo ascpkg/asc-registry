@@ -1,0 +1,8 @@
+old = "g2o"
+new = "g2o-2020-02-07-1"
+
+[deps]
+ceres-1-14-0-8 = "ceres"
+eigen3-3-3-7-6 = "eigen3"
+lapack-0-0 = "lapack"
+suitesparse-5-4-0-7 = "suitesparse"

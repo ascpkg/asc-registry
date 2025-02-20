@@ -1,0 +1,14 @@
+old = "kenlm"
+new = "kenlm-20200924-0"
+
+[deps]
+boost-interprocess-1-73-0-0 = "boost-interprocess"
+boost-program-options-1-73-0-0 = "boost-program-options"
+boost-ptr-container-1-73-0-0 = "boost-ptr-container"
+boost-system-1-73-0-0 = "boost-system"
+boost-test-1-73-0-1 = "boost-test"
+boost-thread-1-73-0-0 = "boost-thread"
+bzip2-1-0-8-1 = "bzip2"
+eigen3-3-3-7-7 = "eigen3"
+liblzma-5-2-5-1 = "liblzma"
+zlib-1-2-11-9 = "zlib"

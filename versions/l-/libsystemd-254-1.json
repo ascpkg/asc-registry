@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libsystemd-254-1",
+      "version": "254",
+      "port-version": 1
+    }
+  ]
+}

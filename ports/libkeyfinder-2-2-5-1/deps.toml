@@ -1,0 +1,8 @@
+old = "libkeyfinder"
+new = "libkeyfinder-2-2-5-1"
+
+[deps]
+catch2-2-13-7-1 = "catch2"
+fftw3-3-3-10-2 = "fftw3"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"

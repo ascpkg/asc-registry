@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/netcdf-c-4-7-4-3",
+      "version-string": "4.7.4",
+      "port-version": 3
+    }
+  ]
+}

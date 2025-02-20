@@ -1,0 +1,6 @@
+old = "atk"
+new = "atk-2-24-0-5-2"
+
+[deps]
+gettext-0-21-0 = "gettext"
+glib-2-52-3-24 = "glib"

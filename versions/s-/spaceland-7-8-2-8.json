@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/spaceland-7-8-2-8",
+      "version": "7.8.2",
+      "port-version": 8
+    }
+  ]
+}

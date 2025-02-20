@@ -1,0 +1,7 @@
+old = "ensmallen"
+new = "ensmallen-2-11-2-0"
+
+[deps]
+armadillo-2019-04-16-6-0 = "armadillo"
+clapack-3-2-1-12-0 = "clapack"
+openblas-0-3-7-0 = "openblas"

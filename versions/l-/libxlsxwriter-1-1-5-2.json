@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libxlsxwriter-1-1-5-2",
+      "version": "1.1.5",
+      "port-version": 2
+    }
+  ]
+}

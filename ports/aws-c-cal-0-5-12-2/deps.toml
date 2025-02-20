@@ -1,0 +1,7 @@
+old = "aws-c-cal"
+new = "aws-c-cal-0-5-12-2"
+
+[deps]
+aws-c-common-0-6-9-2 = "aws-c-common"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"

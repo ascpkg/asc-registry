@@ -1,0 +1,7 @@
+old = "qtcharts"
+new = "qtcharts-6-7-1-0"
+
+[deps]
+qtbase-6-7-1-0 = "qtbase"
+qtdeclarative-6-7-1-0 = "qtdeclarative"
+qttools-6-7-1-0 = "qttools"

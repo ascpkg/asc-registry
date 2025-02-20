@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/spdk-dpdk-20181124-0",
+      "version": "20181124",
+      "port-version": 0
+    }
+  ]
+}

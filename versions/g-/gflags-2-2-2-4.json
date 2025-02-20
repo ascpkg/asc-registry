@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gflags-2-2-2-4",
+      "version-string": "2.2.2",
+      "port-version": 4
+    }
+  ]
+}

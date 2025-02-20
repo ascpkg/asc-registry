@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/python3-3-9-7-0",
+      "version-semver": "3.9.7",
+      "port-version": 0
+    }
+  ]
+}

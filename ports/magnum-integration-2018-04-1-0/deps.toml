@@ -1,0 +1,7 @@
+old = "magnum-integration"
+new = "magnum-integration-2018-04-1-0"
+
+[deps]
+bullet3-2-87-0 = "bullet3"
+glm-0-9-9-0-0 = "glm"
+magnum-2018-04-1-0 = "magnum"

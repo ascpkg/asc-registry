@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/octomap-1-9-5-2",
+      "version-string": "1.9.5",
+      "port-version": 2
+    }
+  ]
+}

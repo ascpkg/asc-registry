@@ -1,0 +1,5 @@
+old = "uvw"
+new = "uvw-1-17-0-libuv-v1-29-1-0"
+
+[deps]
+libuv-1-29-1-0 = "libuv"

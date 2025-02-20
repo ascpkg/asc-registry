@@ -1,0 +1,10 @@
+old = "ignition-fuel-tools1"
+new = "ignition-fuel-tools1-1-2-0-2-0"
+
+[deps]
+curl-7-68-0-3-0 = "curl"
+ignition-cmake0-0-6-2-2-0 = "ignition-cmake0"
+ignition-common1-1-1-1-1-0 = "ignition-common1"
+jsoncpp-1-9-2-0 = "jsoncpp"
+libyaml-0-2-2-3-0 = "libyaml"
+libzip-rel-1-6-1-0 = "libzip"

@@ -1,0 +1,2 @@
+old = "aws-sdk-cpp"
+new = "aws-sdk-cpp-1-4-26-0"

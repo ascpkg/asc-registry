@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/bigint-2010-04-30-6",
+      "version": "2010.04.30",
+      "port-version": 6
+    }
+  ]
+}

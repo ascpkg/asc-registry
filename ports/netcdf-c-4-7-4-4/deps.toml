@@ -1,0 +1,8 @@
+old = "netcdf-c"
+new = "netcdf-c-4-7-4-4"
+
+[deps]
+curl-7-78-0-0 = "curl"
+hdf5-1-12-0-4 = "hdf5"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"

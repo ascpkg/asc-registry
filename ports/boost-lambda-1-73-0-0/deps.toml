@@ -1,0 +1,11 @@
+old = "boost-lambda"
+new = "boost-lambda-1-73-0-0"
+
+[deps]
+boost-bind-1-73-0-0 = "boost-bind"
+boost-config-1-73-0-0 = "boost-config"
+boost-detail-1-73-0-0 = "boost-detail"
+boost-mpl-1-73-0-0 = "boost-mpl"
+boost-type-traits-1-73-0-0 = "boost-type-traits"
+boost-utility-1-73-0-0 = "boost-utility"
+boost-vcpkg-helpers-7-0 = "boost-vcpkg-helpers"

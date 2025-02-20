@@ -1,0 +1,7 @@
+old = "restbed"
+new = "restbed-4-8-0"
+
+[deps]
+asio-1-20-0-0 = "asio"
+openssl-1-1-1l-4 = "openssl"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"

@@ -1,0 +1,8 @@
+old = "qtpositioning"
+new = "qtpositioning-6-5-0-1"
+
+[deps]
+poly2tri-2020-07-21-3 = "poly2tri"
+qtbase-6-5-0-2 = "qtbase"
+qtdeclarative-6-5-0-0 = "qtdeclarative"
+qtserialport-6-5-0-0 = "qtserialport"

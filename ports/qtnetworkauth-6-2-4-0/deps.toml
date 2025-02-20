@@ -1,0 +1,5 @@
+old = "qtnetworkauth"
+new = "qtnetworkauth-6-2-4-0"
+
+[deps]
+qtbase-6-2-4-0 = "qtbase"

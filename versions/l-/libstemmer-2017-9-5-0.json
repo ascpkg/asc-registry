@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libstemmer-2017-9-5-0",
+      "version": "2017-9-5",
+      "port-version": 0
+    }
+  ]
+}

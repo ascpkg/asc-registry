@@ -1,0 +1,6 @@
+old = "bsio"
+new = "bsio-1-0-0-0"
+
+[deps]
+asio-1-18-1-1 = "asio"
+vcpkg-cmake-2021-02-28-2 = "vcpkg-cmake"

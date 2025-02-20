@@ -1,0 +1,7 @@
+old = "vulkan-loader"
+new = "vulkan-loader-1-3-268-0-0"
+
+[deps]
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+vulkan-headers-1-3-268-0-0 = "vulkan-headers"

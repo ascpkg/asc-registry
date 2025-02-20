@@ -1,0 +1,6 @@
+old = "libxslt"
+new = "libxslt-1-1-34-4"
+
+[deps]
+liblzma-5-2-5-5 = "liblzma"
+libxml2-2-9-12-5 = "libxml2"
