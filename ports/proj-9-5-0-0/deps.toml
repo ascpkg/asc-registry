@@ -1,0 +1,10 @@
+old = "proj"
+new = "proj-9-5-0-0"
+
+[deps]
+curl-8-10-1-0 = "curl"
+nlohmann-json-3-11-3-1 = "nlohmann-json"
+sqlite3-3-46-1-0 = "sqlite3"
+tiff-4-7-0-0 = "tiff"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

@@ -1,0 +1,6 @@
+old = "angle"
+new = "angle-2020-05-15-0"
+
+[deps]
+egl-registry-2020-02-20-0 = "egl-registry"
+opengl-registry-2020-03-25-0 = "opengl-registry"

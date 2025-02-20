@@ -1,0 +1,5 @@
+old = "teemo"
+new = "teemo-2-2-1"
+
+[deps]
+curl-7-78-0-0 = "curl"

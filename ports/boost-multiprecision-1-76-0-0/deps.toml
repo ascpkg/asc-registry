@@ -1,0 +1,16 @@
+old = "boost-multiprecision"
+new = "boost-multiprecision-1-76-0-0"
+
+[deps]
+boost-array-1-76-0-0 = "boost-array"
+boost-assert-1-76-0-0 = "boost-assert"
+boost-config-1-76-0-0 = "boost-config"
+boost-container-hash-1-76-0-0 = "boost-container-hash"
+boost-core-1-76-0-0 = "boost-core"
+boost-functional-1-76-0-0 = "boost-functional"
+boost-integer-1-76-0-0 = "boost-integer"
+boost-lexical-cast-1-76-0-0 = "boost-lexical-cast"
+boost-predef-1-76-0-0 = "boost-predef"
+boost-rational-1-76-0-0 = "boost-rational"
+boost-throw-exception-1-76-0-0 = "boost-throw-exception"
+boost-vcpkg-helpers-7-2 = "boost-vcpkg-helpers"

@@ -1,0 +1,5 @@
+old = "chromium-base"
+new = "chromium-base-86-0-4199-1-4"
+
+[deps]
+vcpkg-tool-gn-2022-04-16-0 = "vcpkg-tool-gn"

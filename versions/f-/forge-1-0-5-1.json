@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/forge-1-0-5-1",
+      "version-semver": "1.0.5",
+      "port-version": 1
+    }
+  ]
+}

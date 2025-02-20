@@ -1,0 +1,10 @@
+old = "sfml"
+new = "sfml-2-5-1-7-0"
+
+[deps]
+freetype-2-10-1-6-0 = "freetype"
+libflac-1-3-3-0 = "libflac"
+libogg-1-3-4-0 = "libogg"
+libvorbis-1-3-6-4d963fe-0 = "libvorbis"
+openal-soft-1-20-1-1-0 = "openal-soft"
+stb-2020-02-08-0 = "stb"

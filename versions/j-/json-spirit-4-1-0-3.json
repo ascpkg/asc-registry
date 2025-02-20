@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/json-spirit-4-1-0-3",
+      "version": "4.1.0",
+      "port-version": 3
+    }
+  ]
+}

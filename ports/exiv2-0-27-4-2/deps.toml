@@ -1,0 +1,9 @@
+old = "exiv2"
+new = "exiv2-0-27-4-2"
+
+[deps]
+expat-2-4-1-0 = "expat"
+gettext-0-21-5 = "gettext"
+libiconv-1-16-11 = "libiconv"
+libpng-1-6-37-15 = "libpng"
+zlib-1-2-11-11 = "zlib"

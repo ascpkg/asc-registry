@@ -1,0 +1,10 @@
+old = "ngtcp2"
+new = "ngtcp2-1-9-0-0"
+
+[deps]
+libgnutls-3-8-7-1-0 = "libgnutls"
+libressl-4-0-0-1 = "libressl"
+shiftmedia-libgnutls-3-8-7-1 = "shiftmedia-libgnutls"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
+wolfssl-5-7-4-1 = "wolfssl"

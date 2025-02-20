@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/rdkafka-v1-0-0-rc8-test-deps13-0",
+      "version": "v1.0.0-rc8-test-deps13",
+      "port-version": 0
+    }
+  ]
+}

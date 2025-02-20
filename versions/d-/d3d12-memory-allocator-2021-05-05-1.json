@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/d3d12-memory-allocator-2021-05-05-1",
+      "version-date": "2021-05-05",
+      "port-version": 1
+    }
+  ]
+}

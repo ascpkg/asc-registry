@@ -1,0 +1,18 @@
+old = "boost-fusion"
+new = "boost-fusion-1-86-0-0"
+
+[deps]
+boost-cmake-1-86-0-0 = "boost-cmake"
+boost-config-1-86-0-0 = "boost-config"
+boost-container-hash-1-86-0-0 = "boost-container-hash"
+boost-core-1-86-0-0 = "boost-core"
+boost-function-types-1-86-0-0 = "boost-function-types"
+boost-functional-1-86-0-0 = "boost-functional"
+boost-headers-1-86-0-0 = "boost-headers"
+boost-mpl-1-86-0-0 = "boost-mpl"
+boost-preprocessor-1-86-0-0 = "boost-preprocessor"
+boost-static-assert-1-86-0-0 = "boost-static-assert"
+boost-tuple-1-86-0-0 = "boost-tuple"
+boost-type-traits-1-86-0-0 = "boost-type-traits"
+boost-typeof-1-86-0-0 = "boost-typeof"
+boost-utility-1-86-0-0 = "boost-utility"

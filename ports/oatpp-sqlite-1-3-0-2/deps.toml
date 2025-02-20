@@ -1,0 +1,8 @@
+old = "oatpp-sqlite"
+new = "oatpp-sqlite-1-3-0-2"
+
+[deps]
+oatpp-1-3-0-2 = "oatpp"
+sqlite3-3-43-2-0 = "sqlite3"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

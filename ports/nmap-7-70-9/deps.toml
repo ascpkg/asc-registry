@@ -1,0 +1,12 @@
+old = "nmap"
+new = "nmap-7-70-9"
+
+[deps]
+libpcap-1-10-1-3 = "libpcap"
+libssh2-1-10-0-4 = "libssh2"
+lua-5-4-4-6 = "lua"
+openssl-3-1-0-1 = "openssl"
+pcre-8-45-5 = "pcre"
+python2-2-7-18-6 = "python2"
+winpcap-4-1-3-9 = "winpcap"
+zlib-1-2-13-0 = "zlib"

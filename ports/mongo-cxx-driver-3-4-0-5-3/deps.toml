@@ -1,0 +1,9 @@
+old = "mongo-cxx-driver"
+new = "mongo-cxx-driver-3-4-0-5-3"
+
+[deps]
+boost-optional-1-76-0-0 = "boost-optional"
+boost-smart-ptr-1-76-0-0 = "boost-smart-ptr"
+boost-utility-1-76-0-0 = "boost-utility"
+libbson-1-16-1-3 = "libbson"
+mongo-c-driver-1-16-1-6 = "mongo-c-driver"

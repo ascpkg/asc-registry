@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/freexl-1-0-4-11",
+      "version": "1.0.4",
+      "port-version": 11
+    }
+  ]
+}

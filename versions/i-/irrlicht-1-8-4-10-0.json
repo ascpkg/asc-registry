@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/irrlicht-1-8-4-10-0",
+      "version": "1.8.4-10",
+      "port-version": 0
+    }
+  ]
+}

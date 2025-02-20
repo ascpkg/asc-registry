@@ -1,0 +1,10 @@
+old = "pcl"
+new = "pcl-1-8-1-0"
+
+[deps]
+boost-1-64-5-0 = "boost"
+eigen3-3-3-3-2-0 = "eigen3"
+flann-1-9-1-0 = "flann"
+qhull-1-0-0 = "qhull"
+qt5-5-8-3-0 = "qt5"
+vtk-7-1-0-0 = "vtk"

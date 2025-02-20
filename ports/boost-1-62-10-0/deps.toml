@@ -1,0 +1,5 @@
+old = "boost"
+new = "boost-1-62-10-0"
+
+[deps]
+zlib-1-2-8-0 = "zlib"

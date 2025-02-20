@@ -1,0 +1,5 @@
+old = "libebur128"
+new = "libebur128-1-2-6-1"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

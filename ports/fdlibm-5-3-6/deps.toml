@@ -1,0 +1,5 @@
+old = "fdlibm"
+new = "fdlibm-5-3-6"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

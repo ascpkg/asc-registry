@@ -1,0 +1,8 @@
+old = "elfutils"
+new = "elfutils-0-182-1"
+
+[deps]
+bzip2-1-0-8-2 = "bzip2"
+liblzma-5-2-5-3 = "liblzma"
+zlib-1-2-11-12 = "zlib"
+zstd-1-5-0-0 = "zstd"

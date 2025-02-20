@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/luafilesystem-1-8-0-4",
+      "version": "1.8.0",
+      "port-version": 4
+    }
+  ]
+}

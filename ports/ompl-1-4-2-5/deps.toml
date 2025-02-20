@@ -1,0 +1,17 @@
+old = "ompl"
+new = "ompl-1-4-2-5"
+
+[deps]
+assimp-5-0-1-0 = "assimp"
+boost-dynamic-bitset-1-73-0-0 = "boost-dynamic-bitset"
+boost-filesystem-1-73-0-0 = "boost-filesystem"
+boost-graph-1-73-0-0 = "boost-graph"
+boost-odeint-1-73-0-0 = "boost-odeint"
+boost-program-options-1-73-0-0 = "boost-program-options"
+boost-serialization-1-73-0-0 = "boost-serialization"
+boost-system-1-73-0-0 = "boost-system"
+boost-test-1-73-0-0 = "boost-test"
+boost-timer-1-73-0-0 = "boost-timer"
+boost-ublas-1-73-0-0 = "boost-ublas"
+eigen3-3-3-7-6 = "eigen3"
+fcl-0-6-0-1-0 = "fcl"

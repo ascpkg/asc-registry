@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/flashlight-cuda-20201120-1",
+      "version-string": "20201120",
+      "port-version": 1
+    }
+  ]
+}

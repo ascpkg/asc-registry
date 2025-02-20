@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/bde-4-8-0-0-1",
+      "version": "4.8.0.0",
+      "port-version": 1
+    }
+  ]
+}

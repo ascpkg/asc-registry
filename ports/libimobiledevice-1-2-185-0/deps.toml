@@ -1,0 +1,9 @@
+old = "libimobiledevice"
+new = "libimobiledevice-1-2-185-0"
+
+[deps]
+dirent-1-23-2-0 = "dirent"
+getopt-0-0 = "getopt"
+libplist-1-2-185-0 = "libplist"
+libusbmuxd-1-2-185-0 = "libusbmuxd"
+openssl-1-1-1d-0 = "openssl"

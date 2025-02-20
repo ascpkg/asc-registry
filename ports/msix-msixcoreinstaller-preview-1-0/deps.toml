@@ -1,0 +1,7 @@
+old = "msix"
+new = "msix-msixcoreinstaller-preview-1-0"
+
+[deps]
+openssl-1-0 = "openssl"
+xerces-c-3-2-2-10-0 = "xerces-c"
+zlib-1-2-11-5-0 = "zlib"

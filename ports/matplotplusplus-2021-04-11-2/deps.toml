@@ -1,0 +1,17 @@
+old = "matplotplusplus"
+new = "matplotplusplus-2021-04-11-2"
+
+[deps]
+blas-1-0 = "blas"
+cimg-2-9-4-0 = "cimg"
+fftw3-3-3-8-7-0 = "fftw3"
+glad-0-1-34-0 = "glad"
+glfw3-3-3-3-0 = "glfw3"
+lapack-3-1 = "lapack"
+libjpeg-turbo-2-0-6-0 = "libjpeg-turbo"
+libpng-1-6-37-14 = "libpng"
+opencv-4-5-1-0 = "opencv"
+opengl-0-0-8 = "opengl"
+vcpkg-cmake-2021-02-28-1 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-02-26-1 = "vcpkg-cmake-config"
+zlib-1-2-11-10 = "zlib"

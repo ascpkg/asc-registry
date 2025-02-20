@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/liburing-2-2-2",
+      "version": "2.2",
+      "port-version": 2
+    }
+  ]
+}

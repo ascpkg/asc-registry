@@ -1,0 +1,12 @@
+old = "boost-conversion"
+new = "boost-conversion-1-78-0-0"
+
+[deps]
+boost-assert-1-78-0-0 = "boost-assert"
+boost-config-1-78-0-0 = "boost-config"
+boost-core-1-78-0-0 = "boost-core"
+boost-smart-ptr-1-78-0-0 = "boost-smart-ptr"
+boost-throw-exception-1-78-0-0 = "boost-throw-exception"
+boost-type-traits-1-78-0-0 = "boost-type-traits"
+boost-typeof-1-78-0-0 = "boost-typeof"
+boost-vcpkg-helpers-1-78-0-0 = "boost-vcpkg-helpers"

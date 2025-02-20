@@ -1,0 +1,6 @@
+old = "opencsg"
+new = "opencsg-1-6-0-0"
+
+[deps]
+glew-2-2-0-3 = "glew"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

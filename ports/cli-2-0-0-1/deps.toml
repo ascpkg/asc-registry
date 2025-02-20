@@ -1,0 +1,7 @@
+old = "cli"
+new = "cli-2-0-0-1"
+
+[deps]
+boost-asio-1-77-0-0 = "boost-asio"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"

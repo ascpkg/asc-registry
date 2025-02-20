@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libodb-pgsql-2-4-0-6",
+      "version": "2.4.0",
+      "port-version": 6
+    }
+  ]
+}

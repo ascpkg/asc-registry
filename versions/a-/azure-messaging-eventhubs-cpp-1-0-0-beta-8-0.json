@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/azure-messaging-eventhubs-cpp-1-0-0-beta-8-0",
+      "version-semver": "1.0.0-beta.8",
+      "port-version": 0
+    }
+  ]
+}

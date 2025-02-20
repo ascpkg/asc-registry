@@ -1,0 +1,17 @@
+old = "shogun"
+new = "shogun-6-1-4-4"
+
+[deps]
+blas-1-0 = "blas"
+bzip2-1-0-8-1 = "bzip2"
+curl-7-73-0-2 = "curl"
+dirent-1-23-2-0 = "dirent"
+eigen3-3-3-7-8 = "eigen3"
+liblzma-5-2-5-1 = "liblzma"
+libxml2-2-9-10-1 = "libxml2"
+lzo-2-10-5-0 = "lzo"
+nlopt-2-6-2-1-0 = "nlopt"
+protobuf-3-13-0-2 = "protobuf"
+rxcpp-4-1-0-1-0 = "rxcpp"
+snappy-1-1-8-0 = "snappy"
+zlib-1-2-11-9 = "zlib"

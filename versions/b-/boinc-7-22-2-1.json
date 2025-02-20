@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/boinc-7-22-2-1",
+      "version": "7.22.2",
+      "port-version": 1
+    }
+  ]
+}

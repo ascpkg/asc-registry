@@ -1,0 +1,6 @@
+old = "libraw"
+new = "libraw-201903-4"
+
+[deps]
+jasper-2-0-33-0 = "jasper"
+lcms-2-12-1 = "lcms"

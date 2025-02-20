@@ -1,0 +1,7 @@
+old = "boost-vmd"
+new = "boost-vmd-1-84-0-0"
+
+[deps]
+boost-config-1-84-0-0 = "boost-config"
+boost-preprocessor-1-84-0-0 = "boost-preprocessor"
+boost-vcpkg-helpers-1-84-0-0 = "boost-vcpkg-helpers"

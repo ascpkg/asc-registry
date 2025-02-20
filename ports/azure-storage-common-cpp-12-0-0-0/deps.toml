@@ -1,0 +1,9 @@
+old = "azure-storage-common-cpp"
+new = "azure-storage-common-cpp-12-0-0-0"
+
+[deps]
+azure-core-cpp-1-0-0-0 = "azure-core-cpp"
+libxml2-2-9-10-7 = "libxml2"
+openssl-1-1-1k-5 = "openssl"
+vcpkg-cmake-2021-02-28-3 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-0 = "vcpkg-cmake-config"

@@ -1,0 +1,7 @@
+old = "qt-advanced-docking-system"
+new = "qt-advanced-docking-system-3-2-5-0"
+
+[deps]
+bzip2-1-0-6-5-0 = "bzip2"
+qt5-base-5-12-8-0 = "qt5-base"
+zlib-1-2-11-6-0 = "zlib"

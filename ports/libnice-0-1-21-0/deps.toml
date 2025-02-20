@@ -1,0 +1,6 @@
+old = "libnice"
+new = "libnice-0-1-21-0"
+
+[deps]
+glib-2-76-0-1 = "glib"
+openssl-3-1-0-1 = "openssl"

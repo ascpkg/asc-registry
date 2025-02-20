@@ -1,0 +1,10 @@
+old = "nana"
+new = "nana-1-7-4-5"
+
+[deps]
+fontconfig-2-14-2-1 = "fontconfig"
+freetype-2-12-1-4 = "freetype"
+libjpeg-turbo-3-0-1-0 = "libjpeg-turbo"
+libpng-1-6-40-0 = "libpng"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

@@ -1,0 +1,6 @@
+old = "uvatlas"
+new = "uvatlas-dec2020b-0"
+
+[deps]
+directxmesh-nov2020b-0 = "directxmesh"
+directxtex-nov2020b-0 = "directxtex"

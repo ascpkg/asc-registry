@@ -1,0 +1,8 @@
+old = "cppcms"
+new = "cppcms-1-1-0-2-0"
+
+[deps]
+icu-61-1-5-0 = "icu"
+openssl-0-0 = "openssl"
+pcre-8-41-2-0 = "pcre"
+zlib-1-2-11-5-0 = "zlib"

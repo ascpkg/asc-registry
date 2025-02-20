@@ -1,0 +1,6 @@
+old = "soqt"
+new = "soqt-1-6-0-0"
+
+[deps]
+coin-4-0-0-0 = "coin"
+qt5-base-5-12-8-2-0 = "qt5-base"

@@ -1,0 +1,5 @@
+old = "kinectsdk2"
+new = "kinectsdk2-2-0-6"
+
+[deps]
+vcpkg-tool-lessmsi-1-10-0-1 = "vcpkg-tool-lessmsi"

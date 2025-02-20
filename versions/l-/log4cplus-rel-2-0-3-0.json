@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/log4cplus-rel-2-0-3-0",
+      "version": "rel_2_0_3",
+      "port-version": 0
+    }
+  ]
+}

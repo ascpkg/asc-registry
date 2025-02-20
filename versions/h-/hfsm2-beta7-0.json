@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/hfsm2-beta7-0",
+      "version": "beta7",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libsquish-1-15-7-0",
+      "version": "1.15-7",
+      "port-version": 0
+    }
+  ]
+}

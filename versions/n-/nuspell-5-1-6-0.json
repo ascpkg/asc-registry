@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/nuspell-5-1-6-0",
+      "version-semver": "5.1.6",
+      "port-version": 0
+    }
+  ]
+}

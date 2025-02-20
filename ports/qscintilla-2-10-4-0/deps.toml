@@ -1,0 +1,5 @@
+old = "qscintilla"
+new = "qscintilla-2-10-4-0"
+
+[deps]
+qt5-base-5-9-2-1-0 = "qt5-base"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/vcpkg-pkgconfig-get-modules-2022-02-10-0",
+      "version-date": "2022-02-10",
+      "port-version": 0
+    }
+  ]
+}

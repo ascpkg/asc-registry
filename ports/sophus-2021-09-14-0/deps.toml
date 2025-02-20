@@ -1,0 +1,10 @@
+old = "sophus"
+new = "sophus-2021-09-14-0"
+
+[deps]
+ceres-2-0-0-5 = "ceres"
+eigen3-3-3-9-1 = "eigen3"
+fmt-8-1-0-0 = "fmt"
+suitesparse-5-8-0-1 = "suitesparse"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"

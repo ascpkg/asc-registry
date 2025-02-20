@@ -1,0 +1,5 @@
+old = "freerdp"
+new = "freerdp-2-0-0-rc4-2-0"
+
+[deps]
+openssl-1-0 = "openssl"

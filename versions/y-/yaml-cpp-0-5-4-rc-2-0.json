@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/yaml-cpp-0-5-4-rc-2-0",
+      "version": "0.5.4-rc-2",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+old = "tiff"
+new = "tiff-4-3-0-5"
+
+[deps]
+libjpeg-turbo-2-1-2-0 = "libjpeg-turbo"
+liblzma-5-2-5-4 = "liblzma"
+libwebp-1-2-1-0 = "libwebp"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+zlib-1-2-11-13 = "zlib"
+zstd-1-5-2-0 = "zstd"

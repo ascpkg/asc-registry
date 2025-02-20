@@ -1,0 +1,10 @@
+old = "pango"
+new = "pango-1-40-11-8"
+
+[deps]
+cairo-1-16-0-7 = "cairo"
+fontconfig-2-12-4-11 = "fontconfig"
+freetype-2-10-2-2 = "freetype"
+gettext-0-19-15-0 = "gettext"
+glib-2-52-3-14-7-0 = "glib"
+harfbuzz-2-6-6-0 = "harfbuzz"

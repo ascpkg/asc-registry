@@ -1,0 +1,6 @@
+old = "argtable2"
+new = "argtable2-2-13-10"
+
+[deps]
+getopt-0-2 = "getopt"
+vcpkg-cmake-2022-10-30-0 = "vcpkg-cmake"

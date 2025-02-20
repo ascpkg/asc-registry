@@ -1,0 +1,5 @@
+old = "tl-ranges"
+new = "tl-ranges-2021-12-02-0"
+
+[deps]
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"

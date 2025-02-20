@@ -1,0 +1,17 @@
+old = "ogre-next"
+new = "ogre-next-2019-10-20-2"
+
+[deps]
+boost-date-time-1-76-0-0 = "boost-date-time"
+boost-thread-1-76-0-0 = "boost-thread"
+freeimage-3-18-0-20 = "freeimage"
+freetype-2-11-0-0 = "freetype"
+openvr-1-16-8-1 = "openvr"
+poco-1-11-0-0 = "poco"
+python3-3-9-6-0 = "python3"
+rapidjson-2020-09-14-1 = "rapidjson"
+sdl2-2-0-16-0 = "sdl2"
+tbb-2020-u3-6 = "tbb"
+tinyxml-2-6-2-8 = "tinyxml"
+zlib-1-2-11-12 = "zlib"
+zziplib-0-13-71-2 = "zziplib"

@@ -1,0 +1,8 @@
+old = "uvatlas"
+new = "uvatlas-jun2021-0"
+
+[deps]
+directx-headers-1-4-9-0 = "directx-headers"
+directxmath-jan2021-0 = "directxmath"
+directxmesh-jun2021-0 = "directxmesh"
+directxtex-jun2021-0 = "directxtex"

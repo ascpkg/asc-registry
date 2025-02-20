@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qt5-base-5-15-9-3",
+      "version": "5.15.9",
+      "port-version": 3
+    }
+  ]
+}

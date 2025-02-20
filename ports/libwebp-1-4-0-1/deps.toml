@@ -1,0 +1,14 @@
+old = "libwebp"
+new = "libwebp-1-4-0-1"
+
+[deps]
+freeglut-3-4-0-1 = "freeglut"
+giflib-5-2-2-0 = "giflib"
+libjpeg-turbo-3-0-2-0 = "libjpeg-turbo"
+libpng-1-6-43-1 = "libpng"
+libwebp-1-4-0-1 = "libwebp"
+opengl-2022-12-04-3 = "opengl"
+sdl1-1-2-15-20 = "sdl1"
+tiff-4-6-0-4 = "tiff"
+vcpkg-cmake-2024-04-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

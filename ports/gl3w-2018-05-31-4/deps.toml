@@ -1,0 +1,8 @@
+old = "gl3w"
+new = "gl3w-2018-05-31-4"
+
+[deps]
+egl-registry-2021-11-23-0 = "egl-registry"
+opengl-registry-2021-11-17-0 = "opengl-registry"
+vcpkg-cmake-2021-12-05-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-01-0 = "vcpkg-cmake-config"

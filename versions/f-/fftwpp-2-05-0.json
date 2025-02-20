@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/fftwpp-2-05-0",
+      "version": "2.05",
+      "port-version": 0
+    }
+  ]
+}

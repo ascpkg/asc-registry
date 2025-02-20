@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libzippp-4-0-1-7-3-2",
+      "version": "4.0-1.7.3",
+      "port-version": 2
+    }
+  ]
+}

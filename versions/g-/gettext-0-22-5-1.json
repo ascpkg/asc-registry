@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gettext-0-22-5-1",
+      "version": "0.22.5",
+      "port-version": 1
+    }
+  ]
+}

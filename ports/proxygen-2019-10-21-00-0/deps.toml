@@ -1,0 +1,18 @@
+old = "proxygen"
+new = "proxygen-2019-10-21-00-0"
+
+[deps]
+boost-context-1-71-0-0 = "boost-context"
+boost-date-time-1-71-0-0 = "boost-date-time"
+boost-filesystem-1-71-0-0 = "boost-filesystem"
+boost-iostreams-1-71-0-0 = "boost-iostreams"
+boost-program-options-1-71-0-0 = "boost-program-options"
+boost-regex-1-71-0-0 = "boost-regex"
+boost-system-1-71-0-0 = "boost-system"
+boost-thread-1-71-0-0 = "boost-thread"
+fizz-2019-10-28-00-0 = "fizz"
+folly-2019-10-21-00-0 = "folly"
+openssl-1-0 = "openssl"
+wangle-2019-07-08-00-1-0 = "wangle"
+zlib-1-2-11-5-0 = "zlib"
+zstd-1-4-0-1-0 = "zstd"

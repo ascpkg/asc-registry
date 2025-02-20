@@ -1,0 +1,6 @@
+old = "x264"
+new = "x264-0-164-3095-3"
+
+[deps]
+vcpkg-cmake-get-vars-2023-03-02-0 = "vcpkg-cmake-get-vars"
+x264-0-164-3095-3 = "x264"

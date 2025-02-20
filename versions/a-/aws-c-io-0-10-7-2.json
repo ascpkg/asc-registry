@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/aws-c-io-0-10-7-2",
+      "version": "0.10.7",
+      "port-version": 2
+    }
+  ]
+}

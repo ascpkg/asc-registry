@@ -1,0 +1,6 @@
+old = "sophus"
+new = "sophus-1-0-0-1-0"
+
+[deps]
+ceres-1-13-0-1-0 = "ceres"
+eigen3-3-3-4-1-0 = "eigen3"

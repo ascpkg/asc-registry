@@ -1,0 +1,2 @@
+old = "vcpkg-ci-paraview"
+new = "vcpkg-ci-paraview-1-1"

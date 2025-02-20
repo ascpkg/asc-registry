@@ -1,0 +1,7 @@
+old = "comms-ublox"
+new = "comms-ublox-1-0-0-0"
+
+[deps]
+comms-4-0-0-0 = "comms"
+vcpkg-cmake-2022-05-10-1 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

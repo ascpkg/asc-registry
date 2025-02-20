@@ -1,0 +1,5 @@
+old = "clue"
+new = "clue-1-0-0-0"
+
+[deps]
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"

@@ -1,0 +1,5 @@
+old = "libpng"
+new = "libpng-1-6-32-1-0"
+
+[deps]
+zlib-1-2-11-1-0 = "zlib"

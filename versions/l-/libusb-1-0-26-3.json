@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libusb-1-0-26-3",
+      "version": "1.0.26",
+      "port-version": 3
+    }
+  ]
+}

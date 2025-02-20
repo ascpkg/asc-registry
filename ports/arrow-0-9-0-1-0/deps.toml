@@ -1,0 +1,16 @@
+old = "arrow"
+new = "arrow-0-9-0-1-0"
+
+[deps]
+boost-algorithm-1-67-0-0 = "boost-algorithm"
+boost-filesystem-1-67-0-0 = "boost-filesystem"
+boost-multiprecision-1-67-0-0 = "boost-multiprecision"
+boost-system-1-67-0-0 = "boost-system"
+brotli-1-0-2-3-0 = "brotli"
+flatbuffers-1-9-0-0 = "flatbuffers"
+gflags-2-2-1-3-0 = "gflags"
+lz4-1-8-2-0 = "lz4"
+rapidjson-1-1-0-1-0 = "rapidjson"
+snappy-1-1-7-2-0 = "snappy"
+zlib-1-2-11-3-0 = "zlib"
+zstd-1-3-4-0 = "zstd"

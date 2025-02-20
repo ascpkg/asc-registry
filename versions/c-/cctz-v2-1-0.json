@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cctz-v2-1-0",
+      "version": "v2.1",
+      "port-version": 0
+    }
+  ]
+}

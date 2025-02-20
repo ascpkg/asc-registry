@@ -1,0 +1,12 @@
+old = "poco"
+new = "poco-2-0-0-pre-0"
+
+[deps]
+expat-2-2-6-0 = "expat"
+libmariadb-3-0-2-1-0 = "libmariadb"
+libmysql-8-0-4-3-0 = "libmysql"
+libpq-9-6-1-5-0 = "libpq"
+libpqxx-6-0-0-1-0 = "libpqxx"
+pcre-8-41-1-0 = "pcre"
+sqlite3-3-26-0-0 = "sqlite3"
+zlib-1-2-11-5-0 = "zlib"

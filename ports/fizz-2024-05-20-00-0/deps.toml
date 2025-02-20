@@ -1,0 +1,16 @@
+old = "fizz"
+new = "fizz-2024-05-20-00-0"
+
+[deps]
+double-conversion-3-3-0-0 = "double-conversion"
+fmt-10-2-1-2 = "fmt"
+folly-2024-05-20-00-0 = "folly"
+gflags-2-2-2-9 = "gflags"
+glog-0-7-0-1 = "glog"
+gtest-1-14-0-1 = "gtest"
+libevent-2-1-12-20230128-0 = "libevent"
+libsodium-1-0-20-0 = "libsodium"
+openssl-3-3-0-1 = "openssl"
+vcpkg-cmake-2024-04-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zstd-1-5-6-0 = "zstd"

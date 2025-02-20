@@ -1,0 +1,7 @@
+old = "freealut"
+new = "freealut-1-1-0-1"
+
+[deps]
+openal-soft-1-21-1-2 = "openal-soft"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"

@@ -1,0 +1,5 @@
+old = "libassuan"
+new = "libassuan-2-5-3-2"
+
+[deps]
+libgpg-error-1-42-1 = "libgpg-error"

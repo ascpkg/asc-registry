@@ -1,0 +1,9 @@
+old = "vtk-m"
+new = "vtk-m-1-6-0-1"
+
+[deps]
+cuda-10-1-8 = "cuda"
+mpi-1-2 = "mpi"
+tbb-2020-u3-6 = "tbb"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-11-01-0 = "vcpkg-cmake-config"

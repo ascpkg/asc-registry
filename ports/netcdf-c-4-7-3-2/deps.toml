@@ -1,0 +1,7 @@
+old = "netcdf-c"
+new = "netcdf-c-4-7-3-2"
+
+[deps]
+curl-7-71-1-0 = "curl"
+embree3-3-8-0-0 = "embree3"
+hdf5-1-12-0-0 = "hdf5"

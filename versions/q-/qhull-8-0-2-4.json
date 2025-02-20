@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qhull-8-0-2-4",
+      "version": "8.0.2",
+      "port-version": 4
+    }
+  ]
+}

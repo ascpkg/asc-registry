@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ezfoundation-21-10-0",
+      "version": "21.10",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/azure-kinect-sensor-sdk-1-4-1-7",
+      "version": "1.4.1",
+      "port-version": 7
+    }
+  ]
+}

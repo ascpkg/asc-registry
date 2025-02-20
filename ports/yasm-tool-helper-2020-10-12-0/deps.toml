@@ -1,0 +1,5 @@
+old = "yasm-tool-helper"
+new = "yasm-tool-helper-2020-10-12-0"
+
+[deps]
+yasm-tool-2020-10-12-0 = "yasm-tool"

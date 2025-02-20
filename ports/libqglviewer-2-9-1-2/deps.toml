@@ -1,0 +1,6 @@
+old = "libqglviewer"
+new = "libqglviewer-2-9-1-2"
+
+[deps]
+qtbase-6-6-1-9 = "qtbase"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

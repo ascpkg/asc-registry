@@ -1,0 +1,7 @@
+old = "daw-utf-range"
+new = "daw-utf-range-2-2-4-0"
+
+[deps]
+daw-header-libraries-2-98-5-0 = "daw-header-libraries"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

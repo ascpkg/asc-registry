@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ideviceinstaller-1-1-2-23-4",
+      "version": "1.1.2.23",
+      "port-version": 4
+    }
+  ]
+}

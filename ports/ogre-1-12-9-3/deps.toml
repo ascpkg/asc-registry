@@ -1,0 +1,13 @@
+old = "ogre"
+new = "ogre-1-12-9-3"
+
+[deps]
+assimp-5-0-1-4 = "assimp"
+freeimage-3-18-0-17 = "freeimage"
+freetype-2-10-2-5 = "freetype"
+imgui-1-79-1 = "imgui"
+pugixml-1-10-2 = "pugixml"
+python3-3-8-3-2 = "python3"
+sdl2-2-0-12-7 = "sdl2"
+zlib-1-2-11-9 = "zlib"
+zziplib-0-13-71-0 = "zziplib"

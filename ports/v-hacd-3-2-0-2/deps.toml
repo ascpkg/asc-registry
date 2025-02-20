@@ -1,0 +1,5 @@
+old = "v-hacd"
+new = "v-hacd-3-2-0-2"
+
+[deps]
+opencl-2-2-8 = "opencl"

@@ -1,0 +1,14 @@
+old = "idevicerestore"
+new = "idevicerestore-2023-05-23-0"
+
+[deps]
+curl-8-2-1-0 = "curl"
+dirent-1-23-2-3 = "dirent"
+getopt-0-3 = "getopt"
+libimobiledevice-2023-07-05-0 = "libimobiledevice"
+libimobiledevice-glue-2023-05-13-0 = "libimobiledevice-glue"
+libirecovery-2023-05-13-0 = "libirecovery"
+libzip-1-9-2-2 = "libzip"
+openssl-3-1-2-3 = "openssl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+zlib-1-3-0 = "zlib"

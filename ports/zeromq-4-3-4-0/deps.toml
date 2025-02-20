@@ -1,0 +1,5 @@
+old = "zeromq"
+new = "zeromq-4-3-4-0"
+
+[deps]
+libsodium-1-0-18-4 = "libsodium"

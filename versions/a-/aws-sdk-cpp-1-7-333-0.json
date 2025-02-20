@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/aws-sdk-cpp-1-7-333-0",
+      "version": "1.7.333",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+old = "readline"
+new = "readline-0-2"
+
+[deps]
+readline-osx-8-1-0 = "readline-osx"
+readline-win32-5-0-3 = "readline-win32"

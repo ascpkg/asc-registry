@@ -1,0 +1,12 @@
+old = "mesa"
+new = "mesa-23-0-1-1"
+
+[deps]
+egl-registry-2022-09-20-0 = "egl-registry"
+llvm-15-0-7-2 = "llvm"
+mesa-23-0-1-1 = "mesa"
+opengl-2022-12-04-3 = "opengl"
+vcpkg-get-python-packages-2022-06-30-0 = "vcpkg-get-python-packages"
+vcpkg-tool-meson-0-63-0 = "vcpkg-tool-meson"
+zlib-1-2-13-0 = "zlib"
+zstd-1-5-4-2 = "zstd"

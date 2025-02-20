@@ -1,0 +1,5 @@
+old = "libexif"
+new = "libexif-0-6-24-0"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

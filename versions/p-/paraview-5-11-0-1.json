@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/paraview-5-11-0-1",
+      "version": "5.11.0",
+      "port-version": 1
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+old = "secp256k1"
+new = "secp256k1--0"

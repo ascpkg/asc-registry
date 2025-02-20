@@ -1,0 +1,5 @@
+old = "opencsg"
+new = "opencsg-1-4-2-2"
+
+[deps]
+glew-2-2-0-0 = "glew"

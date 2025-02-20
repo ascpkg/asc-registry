@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/azure-uhttp-c-lts-01-2018-ref01-0",
+      "version": "lts_01_2018_ref01",
+      "port-version": 0
+    }
+  ]
+}

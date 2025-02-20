@@ -1,0 +1,9 @@
+old = "microsoft-signalr"
+new = "microsoft-signalr-0-1-0-alpha4-8"
+
+[deps]
+cpprestsdk-2-10-18-4 = "cpprestsdk"
+jsoncpp-1-9-5-0 = "jsoncpp"
+msgpack-6-0-0-1 = "msgpack"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

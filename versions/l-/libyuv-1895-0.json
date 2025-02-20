@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libyuv-1895-0",
+      "version": "1895",
+      "port-version": 0
+    }
+  ]
+}

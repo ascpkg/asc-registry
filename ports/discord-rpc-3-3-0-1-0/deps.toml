@@ -1,0 +1,5 @@
+old = "discord-rpc"
+new = "discord-rpc-3-3-0-1-0"
+
+[deps]
+rapidjson-1-1-0-1-0 = "rapidjson"

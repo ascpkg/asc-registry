@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/node-api-headers-1-0-0-1",
+      "version": "1.0.0",
+      "port-version": 1
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+old = "librtmp"
+new = "librtmp-2019-11-11-1-0"
+
+[deps]
+openssl-1-0 = "openssl"
+zlib-1-2-11-5-0 = "zlib"

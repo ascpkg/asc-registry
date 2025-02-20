@@ -1,0 +1,7 @@
+old = "kf5crash"
+new = "kf5crash-5-64-0-0"
+
+[deps]
+ecm-5-66-0-0 = "ecm"
+kf5coreaddons-5-64-0-0 = "kf5coreaddons"
+kf5widgetsaddons-5-64-0-0 = "kf5widgetsaddons"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/pcre2-10-42-0",
+      "version": "10.42",
+      "port-version": 0
+    }
+  ]
+}

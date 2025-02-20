@@ -1,0 +1,8 @@
+old = "sqlite-orm"
+new = "sqlite-orm-1-9-1-0"
+
+[deps]
+catch2-3-8-0-0 = "catch2"
+sqlite3-3-48-0-0 = "sqlite3"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

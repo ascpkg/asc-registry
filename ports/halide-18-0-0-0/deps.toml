@@ -1,0 +1,8 @@
+old = "halide"
+new = "halide-18-0-0-0"
+
+[deps]
+halide-18-0-0-0 = "halide"
+llvm-18-1-6-1 = "llvm"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

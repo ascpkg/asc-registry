@@ -1,0 +1,2 @@
+old = "vcpkg-tool-mozbuild"
+new = "vcpkg-tool-mozbuild-4-0-2-0"

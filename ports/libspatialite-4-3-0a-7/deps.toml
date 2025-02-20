@@ -1,0 +1,11 @@
+old = "libspatialite"
+new = "libspatialite-4-3-0a-7"
+
+[deps]
+freexl-1-0-4-11 = "freexl"
+geos-3-8-1-1 = "geos"
+libiconv-1-16-6 = "libiconv"
+libxml2-2-9-10-1 = "libxml2"
+proj4-7-2-0-0 = "proj4"
+sqlite3-3-33-0-0 = "sqlite3"
+zlib-1-2-11-9 = "zlib"

@@ -1,0 +1,6 @@
+old = "oatpp-mbedtls"
+new = "oatpp-mbedtls-1-0-0-0"
+
+[deps]
+mbedtls-2-16-3-1-0 = "mbedtls"
+oatpp-1-0-0-0 = "oatpp"

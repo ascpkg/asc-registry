@@ -1,0 +1,8 @@
+old = "poco"
+new = "poco-1-7-8-1-0"
+
+[deps]
+expat-2-2-4-2-0 = "expat"
+pcre-8-41-1-0 = "pcre"
+sqlite3-3-19-1-2-0 = "sqlite3"
+zlib-1-2-11-1-0 = "zlib"

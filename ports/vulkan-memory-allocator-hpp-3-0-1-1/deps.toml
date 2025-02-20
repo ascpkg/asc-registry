@@ -1,0 +1,5 @@
+old = "vulkan-memory-allocator-hpp"
+new = "vulkan-memory-allocator-hpp-3-0-1-1"
+
+[deps]
+vulkan-1-1-82-1-5 = "vulkan"

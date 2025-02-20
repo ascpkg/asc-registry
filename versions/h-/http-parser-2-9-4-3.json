@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/http-parser-2-9-4-3",
+      "version": "2.9.4",
+      "port-version": 3
+    }
+  ]
+}

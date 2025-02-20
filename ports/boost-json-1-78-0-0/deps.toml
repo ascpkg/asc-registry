@@ -1,0 +1,17 @@
+old = "boost-json"
+new = "boost-json-1-78-0-0"
+
+[deps]
+boost-align-1-78-0-0 = "boost-align"
+boost-assert-1-78-0-0 = "boost-assert"
+boost-build-1-78-0-0 = "boost-build"
+boost-config-1-78-0-0 = "boost-config"
+boost-container-1-78-0-0 = "boost-container"
+boost-exception-1-78-0-0 = "boost-exception"
+boost-modular-build-helper-1-78-0-0 = "boost-modular-build-helper"
+boost-mp11-1-78-0-0 = "boost-mp11"
+boost-system-1-78-0-0 = "boost-system"
+boost-throw-exception-1-78-0-0 = "boost-throw-exception"
+boost-utility-1-78-0-0 = "boost-utility"
+boost-vcpkg-helpers-1-78-0-0 = "boost-vcpkg-helpers"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"

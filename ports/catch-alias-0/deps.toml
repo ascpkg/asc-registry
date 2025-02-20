@@ -1,0 +1,5 @@
+old = "catch"
+new = "catch-alias-0"
+
+[deps]
+catch2-2-1-1-0 = "catch2"

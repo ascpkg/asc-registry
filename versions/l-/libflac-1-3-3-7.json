@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libflac-1-3-3-7",
+      "version": "1.3.3",
+      "port-version": 7
+    }
+  ]
+}

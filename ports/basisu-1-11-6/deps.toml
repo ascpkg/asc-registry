@@ -1,0 +1,6 @@
+old = "basisu"
+new = "basisu-1-11-6"
+
+[deps]
+lodepng-2021-12-04-1 = "lodepng"
+vcpkg-cmake-2022-07-02-0 = "vcpkg-cmake"

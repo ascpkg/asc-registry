@@ -1,0 +1,8 @@
+old = "spirit-po"
+new = "spirit-po-1-1-2-4"
+
+[deps]
+boost-fusion-1-84-0-0 = "boost-fusion"
+boost-optional-1-84-0-0 = "boost-optional"
+boost-spirit-1-84-0-0 = "boost-spirit"
+boost-variant-1-84-0-0 = "boost-variant"

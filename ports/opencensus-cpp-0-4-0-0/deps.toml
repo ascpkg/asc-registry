@@ -1,0 +1,5 @@
+old = "opencensus-cpp"
+new = "opencensus-cpp-0-4-0-0"
+
+[deps]
+abseil-2019-05-08-1-0 = "abseil"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libcap-2-71-0",
+      "version": "2.71",
+      "port-version": 0
+    }
+  ]
+}

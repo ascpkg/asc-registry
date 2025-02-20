@@ -1,0 +1,8 @@
+old = "libirecovery"
+new = "libirecovery-1-0-25-8"
+
+[deps]
+getopt-0-3 = "getopt"
+libusbmuxd-1-2-219-3 = "libusbmuxd"
+readline-0-4 = "readline"
+vcpkg-msbuild-2023-08-08-0 = "vcpkg-msbuild"

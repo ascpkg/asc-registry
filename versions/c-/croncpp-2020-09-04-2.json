@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/croncpp-2020-09-04-2",
+      "version-string": "2020-09-04",
+      "port-version": 2
+    }
+  ]
+}

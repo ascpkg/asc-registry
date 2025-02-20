@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libdeflate-1-21-0",
+      "version": "1.21",
+      "port-version": 0
+    }
+  ]
+}

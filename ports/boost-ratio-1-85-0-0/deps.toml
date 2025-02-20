@@ -1,0 +1,7 @@
+old = "boost-ratio"
+new = "boost-ratio-1-85-0-0"
+
+[deps]
+boost-cmake-1-85-0-0 = "boost-cmake"
+boost-config-1-85-0-0 = "boost-config"
+boost-headers-1-85-0-0 = "boost-headers"

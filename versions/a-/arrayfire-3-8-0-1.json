@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/arrayfire-3-8-0-1",
+      "version-semver": "3.8.0",
+      "port-version": 1
+    }
+  ]
+}

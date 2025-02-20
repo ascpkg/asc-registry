@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/microsoft-signalr-0-1-0-alpha1-2",
+      "version": "0.1.0-alpha1",
+      "port-version": 2
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+old = "evpp"
+new = "evpp-0-7-0-0"
+
+[deps]
+glog-0-4-0-0 = "glog"
+libevent-2-1-8-5-0 = "libevent"
+rapidjson-1-1-0-3-0 = "rapidjson"

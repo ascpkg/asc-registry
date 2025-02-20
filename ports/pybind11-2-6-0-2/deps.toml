@@ -1,0 +1,5 @@
+old = "pybind11"
+new = "pybind11-2-6-0-2"
+
+[deps]
+python3-3-9-0-3 = "python3"

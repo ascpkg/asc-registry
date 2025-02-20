@@ -1,0 +1,7 @@
+old = "restinio"
+new = "restinio-0-6-9-0"
+
+[deps]
+asio-1-12-2-2-0 = "asio"
+fmt-7-0-3-0 = "fmt"
+http-parser-2-9-3-0 = "http-parser"

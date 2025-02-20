@@ -1,0 +1,5 @@
+old = "sqlite-modern-cpp"
+new = "sqlite-modern-cpp-3-2-936cd0c8-1"
+
+[deps]
+sqlite3-3-35-5-0 = "sqlite3"

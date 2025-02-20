@@ -1,0 +1,7 @@
+old = "arcus"
+new = "arcus-4-10-0-1"
+
+[deps]
+protobuf-3-18-0-0 = "protobuf"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"

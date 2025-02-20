@@ -1,0 +1,5 @@
+old = "vulkan-hpp"
+new = "vulkan-hpp-deprecated-0"
+
+[deps]
+vulkan-headers-1-3-260-0 = "vulkan-headers"

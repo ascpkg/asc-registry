@@ -1,0 +1,5 @@
+old = "xsimd"
+new = "xsimd-7-1-3-0"
+
+[deps]
+xtl-0-5-4-0 = "xtl"

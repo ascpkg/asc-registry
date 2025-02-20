@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/materialx-1-38-8-1",
+      "version": "1.38.8",
+      "port-version": 1
+    }
+  ]
+}

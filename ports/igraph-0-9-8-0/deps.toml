@@ -1,0 +1,8 @@
+old = "igraph"
+new = "igraph-0-9-8-0"
+
+[deps]
+libxml2-2-9-12-5 = "libxml2"
+suitesparse-5-8-0-1 = "suitesparse"
+vcpkg-cmake-2022-04-05-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"

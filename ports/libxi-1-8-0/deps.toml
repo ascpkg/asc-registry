@@ -1,0 +1,6 @@
+old = "libxi"
+new = "libxi-1-8-0"
+
+[deps]
+libxext-1-3-4-0 = "libxext"
+libxfixes-6-0-0-0 = "libxfixes"

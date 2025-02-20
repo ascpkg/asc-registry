@@ -1,0 +1,14 @@
+old = "poppler"
+new = "poppler-20-12-1-5"
+
+[deps]
+boost-container-1-75-0-1 = "boost-container"
+boost-move-1-75-0-0 = "boost-move"
+cairo-1-16-0-11 = "cairo"
+curl-7-74-0-4 = "curl"
+devil-1-8-0-7 = "devil"
+fontconfig-2-13-1-5 = "fontconfig"
+freetype-2-10-4-0 = "freetype"
+libiconv-1-16-8 = "libiconv"
+openjpeg-2-3-1-4 = "openjpeg"
+zlib-1-2-11-10 = "zlib"

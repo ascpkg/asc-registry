@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libuvc-0-0-7-1",
+      "version": "0.0.7",
+      "port-version": 1
+    }
+  ]
+}

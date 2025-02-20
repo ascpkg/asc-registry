@@ -1,0 +1,5 @@
+old = "dav1d"
+new = "dav1d-0-8-2-1"
+
+[deps]
+tool-meson-0-58-0-0 = "tool-meson"

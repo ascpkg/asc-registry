@@ -1,0 +1,5 @@
+old = "lcm"
+new = "lcm-1-4-0-1"
+
+[deps]
+glib-2-52-3-14-7-0 = "glib"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cpp-taskflow-2-6-0-1",
+      "version-string": "2.6.0",
+      "port-version": 1
+    }
+  ]
+}

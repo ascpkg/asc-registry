@@ -1,0 +1,11 @@
+old = "leptonica"
+new = "leptonica-1-80-0-3"
+
+[deps]
+giflib-5-2-1-0 = "giflib"
+libjpeg-turbo-2-0-6-2 = "libjpeg-turbo"
+libpng-1-6-37-15 = "libpng"
+libwebp-1-1-0-4 = "libwebp"
+openjpeg-2-3-1-4 = "openjpeg"
+tiff-4-3-0-1 = "tiff"
+zlib-1-2-11-12 = "zlib"

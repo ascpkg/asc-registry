@@ -1,0 +1,14 @@
+old = "poco"
+new = "poco-1-9-2-4"
+
+[deps]
+expat-2020-08-18-0 = "expat"
+libharu-2017-08-15-9-0 = "libharu"
+libmariadb-3-1-7-2 = "libmariadb"
+libmysql-8-0-20-0 = "libmysql"
+libpng-1-6-37-11 = "libpng"
+libpq-12-2-6 = "libpq"
+libpqxx-6-4-5-3-0 = "libpqxx"
+pcre-8-44-7 = "pcre"
+sqlite3-3-32-3-1 = "sqlite3"
+zlib-1-2-11-9 = "zlib"

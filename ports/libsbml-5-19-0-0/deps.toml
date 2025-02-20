@@ -1,0 +1,11 @@
+old = "libsbml"
+new = "libsbml-5-19-0-0"
+
+[deps]
+bzip2-1-0-8-2 = "bzip2"
+check-0-15-2-1 = "check"
+expat-2-4-1-0 = "expat"
+libxml2-2-9-12-4 = "libxml2"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"
+zlib-1-2-11-12 = "zlib"

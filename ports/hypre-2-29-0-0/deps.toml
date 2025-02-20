@@ -1,0 +1,9 @@
+old = "hypre"
+new = "hypre-2-29-0-0"
+
+[deps]
+blas-2023-03-25-0 = "blas"
+lapack-2022-02-22-2 = "lapack"
+mpi-1-4 = "mpi"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

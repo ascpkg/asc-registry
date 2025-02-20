@@ -1,0 +1,2 @@
+old = "libsoundio"
+new = "libsoundio-2-0-0-0"

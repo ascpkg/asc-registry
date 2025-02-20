@@ -1,0 +1,6 @@
+old = "fcl"
+new = "fcl-0-5-0-6-0"
+
+[deps]
+ccd-2-1-1-0 = "ccd"
+octomap-2017-03-11-7-0 = "octomap"

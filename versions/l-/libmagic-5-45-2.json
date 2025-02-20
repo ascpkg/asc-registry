@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libmagic-5-45-2",
+      "version": "5.45",
+      "port-version": 2
+    }
+  ]
+}

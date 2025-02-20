@@ -1,0 +1,9 @@
+old = "functions-framework-cpp"
+new = "functions-framework-cpp-1-1-0-0"
+
+[deps]
+abseil-20211102-1-0 = "abseil"
+boost-beast-1-78-0-0 = "boost-beast"
+boost-program-options-1-78-0-0 = "boost-program-options"
+boost-serialization-1-78-0-0 = "boost-serialization"
+nlohmann-json-3-10-5-0 = "nlohmann-json"

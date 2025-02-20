@@ -1,0 +1,32 @@
+set(OATPP_VERSION "1.1.0")
+
+vcpkg_check_linkage(ONLY_STATIC_LIBRARY)
+
+vcpkg_from_github(
+    OUT_SOURCE_PATH SOURCE_PATH
+    REPO oatpp/oatpp-consul
+    REF e8da386f8f21bc416329aa1f72507ba710ac8d94 # 1.1.0
+    SHA512 69d159a8fb3887fdc0654598d14b3320d04bb91baff7113f7cf95394f28e29a3e78014c42d135825c17ecbaab456784b36983527161f8f694ee8b6f62aefee4e
+    HEAD_REF master
+)
+
+if (VCPKG_LIBRARY_LINKAGE STREQUAL dynamic)
+    set(OATPP_BUILD_SHARED_LIBRARIES_OPTION "ON")
+else()
+    set(OATPP_BUILD_SHARED_LIBRARIES_OPTION "OFF")
+endif()
+
+vcpkg_configure_cmake(
+    SOURCE_PATH "${SOURCE_PATH}"
+    PREFER_NINJA
+    OPTIONS
+        "-DOATPP_BUILD_TESTS:BOOL=OFF"
+        "-DCMAKE_CXX_FLAGS=-D_CRT_SECURE_NO_WARNINGS"
+        "-DBUILD_SHARED_LIBS:BOOL=${OATPP_BUILD_SHARED_LIBRARIES_OPTION}"
+)
+vcpkg_install_cmake()
+vcpkg_fixup_cmake_targets(CONFIG_PATH lib/cmake/oatpp-consul-${OATPP_VERSION})
+vcpkg_copy_pdbs()
+
+file(REMOVE_RECURSE ${CURRENT_PACKAGES_DIR}/debug/include)
+file(INSTALL ${SOURCE_PATH}/LICENSE DESTINATION ${CURRENT_PACKAGES_DIR}/share/${PORT} RENAME copyright)

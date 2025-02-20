@@ -1,0 +1,9 @@
+old = "redis-plus-plus"
+new = "redis-plus-plus-1-3-12-0"
+
+[deps]
+hiredis-1-2-0-0 = "hiredis"
+libuv-1-46-0-1 = "libuv"
+redis-plus-plus-1-3-12-0 = "redis-plus-plus"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

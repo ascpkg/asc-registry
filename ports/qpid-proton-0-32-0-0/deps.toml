@@ -1,0 +1,7 @@
+old = "qpid-proton"
+new = "qpid-proton-0-32-0-0"
+
+[deps]
+jsoncpp-1-9-4-0 = "jsoncpp"
+libuv-1-39-0-0 = "libuv"
+openssl-1-1-1g-1 = "openssl"

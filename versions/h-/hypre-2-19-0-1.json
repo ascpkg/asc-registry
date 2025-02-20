@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/hypre-2-19-0-1",
+      "version-string": "2.19.0",
+      "port-version": 1
+    }
+  ]
+}

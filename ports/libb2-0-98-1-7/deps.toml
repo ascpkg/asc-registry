@@ -1,0 +1,5 @@
+old = "libb2"
+new = "libb2-0-98-1-7"
+
+[deps]
+vcpkg-make-2024-12-27-0 = "vcpkg-make"

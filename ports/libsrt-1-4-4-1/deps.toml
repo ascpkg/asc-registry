@@ -1,0 +1,6 @@
+old = "libsrt"
+new = "libsrt-1-4-4-1"
+
+[deps]
+openssl-1-1-1l-3 = "openssl"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"

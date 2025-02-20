@@ -1,0 +1,17 @@
+old = "saucer"
+new = "saucer-2-3-0-0"
+
+[deps]
+boost-callable-traits-1-85-0-1 = "boost-callable-traits"
+boost-preprocessor-1-85-0-1 = "boost-preprocessor"
+ereignis-2-3-0 = "ereignis"
+flagpp-2-1-0 = "flagpp"
+fmt-10-2-1-2 = "fmt"
+glaze-2-9-2-0 = "glaze"
+lockpp-2-6-0 = "lockpp"
+nlohmann-json-3-11-3-1 = "nlohmann-json"
+qtwebchannel-6-7-2-0 = "qtwebchannel"
+qtwebengine-6-7-2-0 = "qtwebengine"
+tl-expected-1-1-0-0 = "tl-expected"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+webview2-1-0-2277-86-0 = "webview2"

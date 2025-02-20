@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/rapidjson-2020-02-08-0",
+      "version": "2020-02-08",
+      "port-version": 0
+    }
+  ]
+}

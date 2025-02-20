@@ -1,0 +1,9 @@
+old = "steam-audio"
+new = "steam-audio-4-5-3-0"
+
+[deps]
+flatbuffers-24-12-23-0 = "flatbuffers"
+libmysofa-1-3-2-0 = "libmysofa"
+pffft-2021-10-09-1 = "pffft"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

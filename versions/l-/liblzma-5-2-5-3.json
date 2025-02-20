@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/liblzma-5-2-5-3",
+      "version-semver": "5.2.5",
+      "port-version": 3
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/starlink-ast-9-2-7-3",
+      "version": "9.2.7",
+      "port-version": 3
+    }
+  ]
+}

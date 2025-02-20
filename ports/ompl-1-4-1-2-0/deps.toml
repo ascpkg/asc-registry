@@ -1,0 +1,15 @@
+old = "ompl"
+new = "ompl-1-4-1-2-0"
+
+[deps]
+boost-disjoint-sets-1-69-0-0 = "boost-disjoint-sets"
+boost-dynamic-bitset-1-69-0-0 = "boost-dynamic-bitset"
+boost-filesystem-1-69-0-0 = "boost-filesystem"
+boost-graph-1-69-0-0 = "boost-graph"
+boost-odeint-1-69-0-0 = "boost-odeint"
+boost-program-options-1-69-0-0 = "boost-program-options"
+boost-serialization-1-69-0-0 = "boost-serialization"
+boost-system-1-69-0-0 = "boost-system"
+boost-test-1-69-0-2-0 = "boost-test"
+boost-ublas-1-69-0-0 = "boost-ublas"
+eigen3-3-3-7-0 = "eigen3"

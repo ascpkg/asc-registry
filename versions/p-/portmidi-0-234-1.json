@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/portmidi-0-234-1",
+      "version-string": "0.234",
+      "port-version": 1
+    }
+  ]
+}

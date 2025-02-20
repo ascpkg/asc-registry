@@ -1,0 +1,5 @@
+old = "easyhook"
+new = "easyhook-2-7-7097-0-8"
+
+[deps]
+vcpkg-msbuild-2023-08-08-0 = "vcpkg-msbuild"

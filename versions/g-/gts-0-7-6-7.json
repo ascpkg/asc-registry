@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gts-0-7-6-7",
+      "version": "0.7.6",
+      "port-version": 7
+    }
+  ]
+}

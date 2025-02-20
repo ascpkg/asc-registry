@@ -1,0 +1,6 @@
+old = "libtorrent"
+new = "libtorrent-1-1-5-0"
+
+[deps]
+boost-1-65-1-3-0 = "boost"
+openssl-1-0-2m-0 = "openssl"

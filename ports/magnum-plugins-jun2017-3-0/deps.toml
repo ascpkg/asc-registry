@@ -1,0 +1,6 @@
+old = "magnum-plugins"
+new = "magnum-plugins-jun2017-3-0"
+
+[deps]
+magnum-jun2017-4-0 = "magnum"
+stb-1-0-0 = "stb"

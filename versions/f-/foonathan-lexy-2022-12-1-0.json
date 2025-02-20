@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/foonathan-lexy-2022-12-1-0",
+      "version": "2022.12.1",
+      "port-version": 0
+    }
+  ]
+}

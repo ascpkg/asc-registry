@@ -1,0 +1,7 @@
+old = "aws-checksums"
+new = "aws-checksums-0-1-20-0"
+
+[deps]
+aws-c-common-0-9-28-0 = "aws-c-common"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

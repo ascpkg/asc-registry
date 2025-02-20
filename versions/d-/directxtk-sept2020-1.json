@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/directxtk-sept2020-1",
+      "version": "sept2020",
+      "port-version": 1
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/c4core-0-1-9-0",
+      "version": "0.1.9",
+      "port-version": 0
+    }
+  ]
+}

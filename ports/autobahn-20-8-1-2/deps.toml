@@ -1,0 +1,8 @@
+old = "autobahn"
+new = "autobahn-20-8-1-2"
+
+[deps]
+boost-asio-1-81-0-2 = "boost-asio"
+boost-thread-1-81-0-2 = "boost-thread"
+msgpack-6-0-0-0 = "msgpack"
+websocketpp-0-8-2-2 = "websocketpp"

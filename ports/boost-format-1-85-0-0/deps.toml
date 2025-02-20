@@ -1,0 +1,13 @@
+old = "boost-format"
+new = "boost-format-1-85-0-0"
+
+[deps]
+boost-assert-1-85-0-0 = "boost-assert"
+boost-cmake-1-85-0-0 = "boost-cmake"
+boost-config-1-85-0-0 = "boost-config"
+boost-core-1-85-0-0 = "boost-core"
+boost-headers-1-85-0-0 = "boost-headers"
+boost-optional-1-85-0-0 = "boost-optional"
+boost-smart-ptr-1-85-0-0 = "boost-smart-ptr"
+boost-throw-exception-1-85-0-0 = "boost-throw-exception"
+boost-utility-1-85-0-0 = "boost-utility"

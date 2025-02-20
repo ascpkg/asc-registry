@@ -1,0 +1,6 @@
+old = "blaze"
+new = "blaze-3-8-0"
+
+[deps]
+boost-exception-1-73-0-0 = "boost-exception"
+lapack-1-0 = "lapack"

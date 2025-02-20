@@ -1,0 +1,7 @@
+old = "sqlpp11-connector-sqlite3"
+new = "sqlpp11-connector-sqlite3-0-30-1"
+
+[deps]
+date-3-0-0-3 = "date"
+sqlite3-3-35-5-0 = "sqlite3"
+sqlpp11-0-60-1 = "sqlpp11"

@@ -1,0 +1,5 @@
+old = "nccl"
+new = "nccl-2-4-6-0"
+
+[deps]
+cuda-10-1-4 = "cuda"

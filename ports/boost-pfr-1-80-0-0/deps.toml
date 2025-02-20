@@ -1,0 +1,5 @@
+old = "boost-pfr"
+new = "boost-pfr-1-80-0-0"
+
+[deps]
+boost-vcpkg-helpers-1-80-0-0 = "boost-vcpkg-helpers"

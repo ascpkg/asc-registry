@@ -1,0 +1,10 @@
+old = "magnum"
+new = "magnum-2018-04-1-0"
+
+[deps]
+corrade-2018-04-1-0 = "corrade"
+freeglut-3-0-0-4-0 = "freeglut"
+glfw3-3-2-1-3-0 = "glfw3"
+magnum-2018-04-1-0 = "magnum"
+openal-soft-1-18-2-2-0 = "openal-soft"
+sdl2-2-0-8-1-0 = "sdl2"

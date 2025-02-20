@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cgns-4-4-0-0",
+      "version-semver": "4.4.0",
+      "port-version": 0
+    }
+  ]
+}

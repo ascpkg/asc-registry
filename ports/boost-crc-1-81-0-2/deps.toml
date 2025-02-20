@@ -1,0 +1,9 @@
+old = "boost-crc"
+new = "boost-crc-1-81-0-2"
+
+[deps]
+boost-array-1-81-0-2 = "boost-array"
+boost-config-1-81-0-2 = "boost-config"
+boost-integer-1-81-0-2 = "boost-integer"
+boost-type-traits-1-81-0-2 = "boost-type-traits"
+boost-vcpkg-helpers-1-81-0-3 = "boost-vcpkg-helpers"

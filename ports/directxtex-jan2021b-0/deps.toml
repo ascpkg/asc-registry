@@ -1,0 +1,7 @@
+old = "directxtex"
+new = "directxtex-jan2021b-0"
+
+[deps]
+directx-headers-1-0-1-0 = "directx-headers"
+directxmath-jan2021-0 = "directxmath"
+openexr-2-5-0-2 = "openexr"

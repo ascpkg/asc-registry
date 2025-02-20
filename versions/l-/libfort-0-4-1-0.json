@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libfort-0-4-1-0",
+      "version-string": "0.4.1",
+      "port-version": 0
+    }
+  ]
+}

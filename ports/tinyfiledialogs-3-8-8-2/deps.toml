@@ -1,0 +1,6 @@
+old = "tinyfiledialogs"
+new = "tinyfiledialogs-3-8-8-2"
+
+[deps]
+vcpkg-cmake-2021-07-30-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-08-11-0 = "vcpkg-cmake-config"

@@ -1,0 +1,8 @@
+old = "trantor"
+new = "trantor-1-5-22-0"
+
+[deps]
+c-ares-1-34-2-0 = "c-ares"
+openssl-3-4-0-0 = "openssl"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/mathgl-2-4-3-7",
+      "version-string": "2.4.3",
+      "port-version": 7
+    }
+  ]
+}

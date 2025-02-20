@@ -1,0 +1,6 @@
+old = "aws-sdk-cpp"
+new = "aws-sdk-cpp-1-6-12-1-0"
+
+[deps]
+curl-7-61-1-0 = "curl"
+openssl-0-0 = "openssl"

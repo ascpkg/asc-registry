@@ -1,0 +1,5 @@
+old = "libepoxy"
+new = "libepoxy-1-5-3-3-0"
+
+[deps]
+tool-meson-0-53-2-0 = "tool-meson"

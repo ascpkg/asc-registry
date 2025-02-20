@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/sqlite3-3-40-0-0",
+      "version": "3.40.0",
+      "port-version": 0
+    }
+  ]
+}

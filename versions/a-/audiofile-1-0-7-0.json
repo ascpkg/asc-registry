@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/audiofile-1-0-7-0",
+      "version-string": "1.0.7",
+      "port-version": 0
+    }
+  ]
+}

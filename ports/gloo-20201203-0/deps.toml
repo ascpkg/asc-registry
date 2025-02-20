@@ -1,0 +1,8 @@
+old = "gloo"
+new = "gloo-20201203-0"
+
+[deps]
+cuda-10-1-5 = "cuda"
+hiredis-1-0-0-0 = "hiredis"
+nccl-2-4-6-0 = "nccl"
+openmpi-4-0-3-3 = "openmpi"

@@ -1,0 +1,5 @@
+old = "talib"
+new = "talib-0-4-0-1"
+
+[deps]
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

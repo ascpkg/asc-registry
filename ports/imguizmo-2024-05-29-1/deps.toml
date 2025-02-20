@@ -1,0 +1,7 @@
+old = "imguizmo"
+new = "imguizmo-2024-05-29-1"
+
+[deps]
+imgui-1-91-0-0 = "imgui"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

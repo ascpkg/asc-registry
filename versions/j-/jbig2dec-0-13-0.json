@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/jbig2dec-0-13-0",
+      "version": "0.13",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/podofo-0-9-6-12",
+      "version": "0.9.6",
+      "port-version": 12
+    }
+  ]
+}

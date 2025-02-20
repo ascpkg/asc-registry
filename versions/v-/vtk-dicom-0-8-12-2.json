@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/vtk-dicom-0-8-12-2",
+      "version-string": "0.8.12",
+      "port-version": 2
+    }
+  ]
+}

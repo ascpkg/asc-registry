@@ -1,0 +1,6 @@
+old = "libcap"
+new = "libcap-2-69-1"
+
+[deps]
+libcap-2-69-1 = "libcap"
+vcpkg-cmake-get-vars-2023-03-02-0 = "vcpkg-cmake-get-vars"

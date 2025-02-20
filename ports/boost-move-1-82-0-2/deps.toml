@@ -1,0 +1,6 @@
+old = "boost-move"
+new = "boost-move-1-82-0-2"
+
+[deps]
+boost-config-1-82-0-2 = "boost-config"
+boost-vcpkg-helpers-1-82-0-2 = "boost-vcpkg-helpers"

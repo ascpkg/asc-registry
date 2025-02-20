@@ -1,0 +1,11 @@
+old = "graphviz"
+new = "graphviz-7-0-0-0"
+
+[deps]
+cairo-1-17-6-4 = "cairo"
+getopt-0-2 = "getopt"
+libgd-2-3-3-1 = "libgd"
+pango-1-50-11-0 = "pango"
+pkgconf-1-8-0-3 = "pkgconf"
+vcpkg-cmake-2022-10-30-0 = "vcpkg-cmake"
+zlib-1-2-13-0 = "zlib"

@@ -1,0 +1,5 @@
+old = "tinyexif"
+new = "tinyexif-1-0-1-1-0"
+
+[deps]
+tinyxml2-5-0-1-1-0 = "tinyxml2"

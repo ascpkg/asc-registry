@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cgal-5-6-1",
+      "version": "5.6",
+      "port-version": 1
+    }
+  ]
+}

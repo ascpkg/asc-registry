@@ -1,0 +1,10 @@
+old = "boost-hana"
+new = "boost-hana-1-82-0-0"
+
+[deps]
+boost-config-1-82-0-0 = "boost-config"
+boost-core-1-82-0-0 = "boost-core"
+boost-fusion-1-82-0-0 = "boost-fusion"
+boost-mpl-1-82-0-0 = "boost-mpl"
+boost-tuple-1-82-0-0 = "boost-tuple"
+boost-vcpkg-helpers-1-82-0-0 = "boost-vcpkg-helpers"

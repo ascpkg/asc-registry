@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/hazelcast-cpp-client-5-3-0-1",
+      "version": "5.3.0",
+      "port-version": 1
+    }
+  ]
+}

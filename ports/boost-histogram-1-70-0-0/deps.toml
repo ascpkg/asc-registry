@@ -1,0 +1,15 @@
+old = "boost-histogram"
+new = "boost-histogram-1-70-0-0"
+
+[deps]
+boost-assert-1-70-0-0 = "boost-assert"
+boost-callable-traits-1-70-0-0 = "boost-callable-traits"
+boost-config-1-70-0-0 = "boost-config"
+boost-core-1-70-0-0 = "boost-core"
+boost-integer-1-70-0-0 = "boost-integer"
+boost-iterator-1-70-0-0 = "boost-iterator"
+boost-mp11-1-70-0-0 = "boost-mp11"
+boost-serialization-1-70-0-0 = "boost-serialization"
+boost-throw-exception-1-70-0-0 = "boost-throw-exception"
+boost-variant-1-69-0-0 = "boost-variant"
+boost-vcpkg-helpers-5-0 = "boost-vcpkg-helpers"

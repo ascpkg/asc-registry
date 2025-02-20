@@ -1,0 +1,2 @@
+old = "hidapi"
+new = "hidapi-0-10-1-0"

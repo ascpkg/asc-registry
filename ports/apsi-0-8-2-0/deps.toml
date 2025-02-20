@@ -1,0 +1,12 @@
+old = "apsi"
+new = "apsi-0-8-2-0"
+
+[deps]
+cppzmq-4-8-1-0 = "cppzmq"
+flatbuffers-2-0-6-0 = "flatbuffers"
+jsoncpp-1-9-5-0 = "jsoncpp"
+kuku-2-1-1 = "kuku"
+log4cplus-2-0-7-1 = "log4cplus"
+seal-3-7-2-3 = "seal"
+vcpkg-cmake-2022-07-02-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

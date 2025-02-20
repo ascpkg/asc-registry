@@ -1,0 +1,5 @@
+old = "pcre"
+new = "pcre-8-38-0"
+
+[deps]
+zlib-1-2-8-0 = "zlib"

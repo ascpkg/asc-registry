@@ -1,0 +1,5 @@
+old = "easycl"
+new = "easycl-0-3-2"
+
+[deps]
+opencl-v2023-02-06-0 = "opencl"

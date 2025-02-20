@@ -1,0 +1,8 @@
+old = "xtensor"
+new = "xtensor-0-21-6-0"
+
+[deps]
+nlohmann-json-3-9-1-0 = "nlohmann-json"
+tbb-2020-u3-0 = "tbb"
+xsimd-7-4-8-0 = "xsimd"
+xtl-0-6-18-0 = "xtl"

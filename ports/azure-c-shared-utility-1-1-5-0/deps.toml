@@ -1,0 +1,6 @@
+old = "azure-c-shared-utility"
+new = "azure-c-shared-utility-1-1-5-0"
+
+[deps]
+curl-7-60-0-2-0 = "curl"
+openssl-1-0-2o-3-0 = "openssl"

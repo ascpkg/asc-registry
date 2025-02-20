@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libcaer-2022-07-25-2",
+      "version-date": "2022-07-25",
+      "port-version": 2
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+old = "directxtk"
+new = "directxtk-apr2021-0"
+
+[deps]
+directxmath-jan2021-0 = "directxmath"

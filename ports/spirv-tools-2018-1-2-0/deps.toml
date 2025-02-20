@@ -1,0 +1,5 @@
+old = "spirv-tools"
+new = "spirv-tools-2018-1-2-0"
+
+[deps]
+spirv-headers-2019-03-05-0 = "spirv-headers"

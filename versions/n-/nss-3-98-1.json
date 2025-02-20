@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/nss-3-98-1",
+      "version": "3.98",
+      "port-version": 1
+    }
+  ]
+}

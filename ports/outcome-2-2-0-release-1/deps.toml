@@ -1,0 +1,6 @@
+old = "outcome"
+new = "outcome-2-2-0-release-1"
+
+[deps]
+ned14-internal-quickcpplib-0-0-0-7cb75d4e-1 = "ned14-internal-quickcpplib"
+status-code-1-0-0-ab3cd821-1 = "status-code"

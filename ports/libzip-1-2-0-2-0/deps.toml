@@ -1,0 +1,5 @@
+old = "libzip"
+new = "libzip-1-2-0-2-0"
+
+[deps]
+zlib-1-2-11-3-0 = "zlib"

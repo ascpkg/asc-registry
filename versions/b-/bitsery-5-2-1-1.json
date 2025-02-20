@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/bitsery-5-2-1-1",
+      "version-string": "5.2.1",
+      "port-version": 1
+    }
+  ]
+}

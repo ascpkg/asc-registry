@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libtasn1-4-17-0-3",
+      "version": "4.17.0",
+      "port-version": 3
+    }
+  ]
+}

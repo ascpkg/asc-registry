@@ -1,0 +1,12 @@
+old = "boost-pool"
+new = "boost-pool-1-85-0-0"
+
+[deps]
+boost-assert-1-85-0-0 = "boost-assert"
+boost-cmake-1-85-0-0 = "boost-cmake"
+boost-config-1-85-0-0 = "boost-config"
+boost-headers-1-85-0-0 = "boost-headers"
+boost-integer-1-85-0-0 = "boost-integer"
+boost-throw-exception-1-85-0-0 = "boost-throw-exception"
+boost-type-traits-1-85-0-0 = "boost-type-traits"
+boost-winapi-1-85-0-0 = "boost-winapi"

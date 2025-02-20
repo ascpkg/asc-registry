@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gherkin-c-c-libs-e63e83104b-0",
+      "version": "c-libs-e63e83104b",
+      "port-version": 0
+    }
+  ]
+}

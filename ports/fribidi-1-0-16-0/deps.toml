@@ -1,0 +1,6 @@
+old = "fribidi"
+new = "fribidi-1-0-16-0"
+
+[deps]
+fribidi-1-0-16-0 = "fribidi"
+vcpkg-tool-meson-1-5-2-0 = "vcpkg-tool-meson"

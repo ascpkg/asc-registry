@@ -1,0 +1,8 @@
+old = "librdkafka"
+new = "librdkafka-1-5-0-0"
+
+[deps]
+lz4-1-9-2-2-0 = "lz4"
+openssl-1-1-1g-0 = "openssl"
+zlib-1-2-11-7 = "zlib"
+zstd-1-4-4-2 = "zstd"

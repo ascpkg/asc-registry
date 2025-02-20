@@ -1,0 +1,5 @@
+old = "sdl2-gfx"
+new = "sdl2-gfx-1-0-4-8"
+
+[deps]
+sdl2-2-0-16-0 = "sdl2"

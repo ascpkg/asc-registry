@@ -1,0 +1,7 @@
+old = "ignition-math6"
+new = "ignition-math6-6-14-0-0"
+
+[deps]
+eigen3-3-4-0-2 = "eigen3"
+ignition-cmake2-2-16-0-1 = "ignition-cmake2"
+ignition-modularscripts-2023-05-05-0 = "ignition-modularscripts"

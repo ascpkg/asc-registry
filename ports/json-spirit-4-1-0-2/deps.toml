@@ -1,0 +1,9 @@
+old = "json-spirit"
+new = "json-spirit-4-1-0-2"
+
+[deps]
+boost-config-1-76-0-0 = "boost-config"
+boost-integer-1-76-0-0 = "boost-integer"
+boost-smart-ptr-1-76-0-0 = "boost-smart-ptr"
+boost-spirit-1-76-0-0 = "boost-spirit"
+boost-variant-1-76-0-0 = "boost-variant"

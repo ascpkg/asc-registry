@@ -1,0 +1,7 @@
+old = "luasec"
+new = "luasec-1-0-1-0"
+
+[deps]
+lua-5-4-3-1 = "lua"
+luasocket-2020-09-14-0 = "luasocket"
+openssl-1-1-1k-4 = "openssl"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/dlib-19-10-0",
+      "version": "19.10",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/fdk-aac-2018-07-08-2-0",
+      "version": "2018-07-08-2",
+      "port-version": 0
+    }
+  ]
+}

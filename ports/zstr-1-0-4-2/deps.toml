@@ -1,0 +1,5 @@
+old = "zstr"
+new = "zstr-1-0-4-2"
+
+[deps]
+zlib-1-2-11-13 = "zlib"

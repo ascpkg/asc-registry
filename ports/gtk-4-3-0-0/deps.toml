@@ -1,0 +1,13 @@
+old = "gtk"
+new = "gtk-4-3-0-0"
+
+[deps]
+atk-2-36-0-0 = "atk"
+cairo-1-17-4-0 = "cairo"
+gdk-pixbuf-2-42-2-1 = "gdk-pixbuf"
+gettext-0-21-2 = "gettext"
+glib-2-66-4-0 = "glib"
+graphene-1-10-2-1 = "graphene"
+libepoxy-1-5-5-0 = "libepoxy"
+pango-1-48-0-0 = "pango"
+sassc-3-6-1-0 = "sassc"

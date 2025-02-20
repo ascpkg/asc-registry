@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/uvw-1-17-0-libuv-v1-29-0",
+      "version": "1.17.0_libuv-v1.29",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+old = "suitesparse-paru"
+new = "suitesparse-paru-1-0-0-0"
+
+[deps]
+suitesparse-cholmod-5-3-0-0 = "suitesparse-cholmod"
+suitesparse-config-7-8-3-0 = "suitesparse-config"
+suitesparse-umfpack-6-3-5-0 = "suitesparse-umfpack"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

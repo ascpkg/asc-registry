@@ -1,0 +1,8 @@
+old = "reflectcpp"
+new = "reflectcpp-0-13-0-0"
+
+[deps]
+ctre-3-9-0-0 = "ctre"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
+yyjson-0-10-0-0 = "yyjson"

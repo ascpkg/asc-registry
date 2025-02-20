@@ -1,0 +1,6 @@
+old = "libcroco"
+new = "libcroco-0-6-13-2"
+
+[deps]
+glib-2-52-3-23 = "glib"
+libxml2-2-9-10-1 = "libxml2"

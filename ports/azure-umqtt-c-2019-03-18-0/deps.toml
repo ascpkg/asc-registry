@@ -1,0 +1,5 @@
+old = "azure-umqtt-c"
+new = "azure-umqtt-c-2019-03-18-0"
+
+[deps]
+azure-c-shared-utility-2019-03-18-0 = "azure-c-shared-utility"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libtcod-1-16-6-0",
+      "version-string": "1.16.6",
+      "port-version": 0
+    }
+  ]
+}

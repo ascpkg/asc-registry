@@ -1,0 +1,10 @@
+old = "irrlicht"
+new = "irrlicht-1-8-4-11"
+
+[deps]
+bzip2-1-0-8-2 = "bzip2"
+libjpeg-turbo-2-0-6-0 = "libjpeg-turbo"
+libpng-1-6-37-15 = "libpng"
+vcpkg-cmake-2021-06-25-4 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-0 = "vcpkg-cmake-config"
+zlib-1-2-11-10 = "zlib"

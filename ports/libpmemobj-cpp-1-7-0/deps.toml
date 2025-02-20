@@ -1,0 +1,2 @@
+old = "libpmemobj-cpp"
+new = "libpmemobj-cpp-1-7-0"

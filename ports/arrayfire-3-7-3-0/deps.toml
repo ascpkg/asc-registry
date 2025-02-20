@@ -1,0 +1,15 @@
+old = "arrayfire"
+new = "arrayfire-3-7-3-0"
+
+[deps]
+boost-compute-1-74-0-0 = "boost-compute"
+boost-stacktrace-1-74-0-0 = "boost-stacktrace"
+cub-1-8-0-1-0 = "cub"
+cuda-10-1-4 = "cuda"
+cudnn-7-6-2 = "cudnn"
+forge-1-0-5-0 = "forge"
+freeimage-3-18-0-17 = "freeimage"
+glad-0-1-33-1-0 = "glad"
+intel-mkl-2020-0-0-0 = "intel-mkl"
+opencl-2-2-5 = "opencl"
+spdlog-1-8-0-1 = "spdlog"

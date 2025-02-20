@@ -1,0 +1,5 @@
+old = "so5extra"
+new = "so5extra-1-2-2-0"
+
+[deps]
+sobjectizer-5-5-24-0 = "sobjectizer"

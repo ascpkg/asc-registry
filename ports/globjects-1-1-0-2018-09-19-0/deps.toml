@@ -1,0 +1,6 @@
+old = "globjects"
+new = "globjects-1-1-0-2018-09-19-0"
+
+[deps]
+glbinding-3-0-2-3-0 = "glbinding"
+glm-0-9-9-2-0 = "glm"

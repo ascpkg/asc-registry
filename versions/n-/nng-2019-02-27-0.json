@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/nng-2019-02-27-0",
+      "version": "2019-02-27",
+      "port-version": 0
+    }
+  ]
+}

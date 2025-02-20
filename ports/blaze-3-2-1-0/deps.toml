@@ -1,0 +1,6 @@
+old = "blaze"
+new = "blaze-3-2-1-0"
+
+[deps]
+boost-1-65-1-2-0 = "boost"
+clapack-3-2-1-1-0 = "clapack"

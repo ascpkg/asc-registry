@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/flint-2-5-2-0",
+      "version": "2.5.2",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+old = "libraw"
+new = "libraw-0-18-2-4-0"
+
+[deps]
+jasper-2-0-14-1-0 = "jasper"
+lcms-2-8-3-0 = "lcms"

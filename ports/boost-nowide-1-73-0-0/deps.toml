@@ -1,0 +1,12 @@
+old = "boost-nowide"
+new = "boost-nowide-1-73-0-0"
+
+[deps]
+boost-build-1-73-0-0 = "boost-build"
+boost-config-1-73-0-0 = "boost-config"
+boost-filesystem-1-73-0-0 = "boost-filesystem"
+boost-integer-1-73-0-0 = "boost-integer"
+boost-modular-build-helper-1-73-0-0 = "boost-modular-build-helper"
+boost-smart-ptr-1-73-0-0 = "boost-smart-ptr"
+boost-static-assert-1-73-0-0 = "boost-static-assert"
+boost-vcpkg-helpers-7-0 = "boost-vcpkg-helpers"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qtquick3d-6-2-1-0",
+      "version-semver": "6.2.1",
+      "port-version": 0
+    }
+  ]
+}

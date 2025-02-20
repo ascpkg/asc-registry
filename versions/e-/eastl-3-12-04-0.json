@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/eastl-3-12-04-0",
+      "version": "3.12.04",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+old = "mp-units"
+new = "mp-units-0-6-0-0"
+
+[deps]
+fmt-7-0-3-2 = "fmt"
+ms-gsl-3-0-1-0 = "ms-gsl"

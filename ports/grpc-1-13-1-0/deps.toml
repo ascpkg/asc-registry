@@ -1,0 +1,8 @@
+old = "grpc"
+new = "grpc-1-13-1-0"
+
+[deps]
+c-ares-cares-1-14-0-0 = "c-ares"
+openssl-0-0 = "openssl"
+protobuf-3-6-1-0 = "protobuf"
+zlib-1-2-11-3-0 = "zlib"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qca-2-3-5-1",
+      "version": "2.3.5",
+      "port-version": 1
+    }
+  ]
+}

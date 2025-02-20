@@ -1,0 +1,11 @@
+old = "glibmm"
+new = "glibmm-2-52-1-7-0"
+
+[deps]
+gettext-0-19-4-0 = "gettext"
+glib-2-52-3-9-0 = "glib"
+libffi-3-1-1-0 = "libffi"
+libiconv-1-15-4-0 = "libiconv"
+libsigcpp-2-10-1-0 = "libsigcpp"
+pcre-8-41-1-0 = "pcre"
+zlib-1-2-11-3-0 = "zlib"

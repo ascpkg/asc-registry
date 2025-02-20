@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cctag-1-0-4-0",
+      "version-semver": "1.0.4",
+      "port-version": 0
+    }
+  ]
+}

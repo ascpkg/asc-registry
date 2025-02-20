@@ -1,0 +1,5 @@
+old = "civetweb"
+new = "civetweb-1-13-2"
+
+[deps]
+openssl-1-1-1k-7 = "openssl"

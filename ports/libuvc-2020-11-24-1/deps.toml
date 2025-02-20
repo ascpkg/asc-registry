@@ -1,0 +1,5 @@
+old = "libuvc"
+new = "libuvc-2020-11-24-1"
+
+[deps]
+libusb-1-0-24-4 = "libusb"

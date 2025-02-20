@@ -1,0 +1,8 @@
+old = "qtgrpc"
+new = "qtgrpc-6-6-1-1"
+
+[deps]
+grpc-1-51-1-1 = "grpc"
+protobuf-3-21-12-1 = "protobuf"
+qtbase-6-6-1-11 = "qtbase"
+qtgrpc-6-6-1-1 = "qtgrpc"

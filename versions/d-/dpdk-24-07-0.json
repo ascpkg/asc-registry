@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/dpdk-24-07-0",
+      "version-string": "24.07",
+      "port-version": 0
+    }
+  ]
+}

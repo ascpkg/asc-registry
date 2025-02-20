@@ -1,0 +1,9 @@
+old = "sdl2-image"
+new = "sdl2-image-2-0-5-2"
+
+[deps]
+libjpeg-turbo-2-0-6-2 = "libjpeg-turbo"
+libpng-1-6-37-15 = "libpng"
+libwebp-1-1-0-4 = "libwebp"
+sdl2-2-0-16-0 = "sdl2"
+tiff-4-3-0-1 = "tiff"

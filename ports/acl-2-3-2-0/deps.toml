@@ -1,0 +1,7 @@
+old = "acl"
+new = "acl-2-3-2-0"
+
+[deps]
+attr-2-5-2-0 = "attr"
+gettext-0-22-5-1 = "gettext"
+gettext-libintl-0-22-5-1 = "gettext-libintl"

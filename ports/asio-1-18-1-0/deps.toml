@@ -1,0 +1,7 @@
+old = "asio"
+new = "asio-1-18-1-0"
+
+[deps]
+boost-coroutine-1-75-0-0 = "boost-coroutine"
+boost-regex-1-75-0-0 = "boost-regex"
+openssl-1-1-1j-0 = "openssl"

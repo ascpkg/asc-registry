@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qt5-macextras-5-12-5-0",
+      "version": "5.12.5",
+      "port-version": 0
+    }
+  ]
+}

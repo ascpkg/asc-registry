@@ -1,0 +1,5 @@
+old = "nghttp2"
+new = "nghttp2-1-59-0-0"
+
+[deps]
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

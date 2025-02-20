@@ -1,0 +1,5 @@
+old = "hfsm2"
+new = "hfsm2-beta7-1"
+
+[deps]
+catch2-2-13-7-1 = "catch2"

@@ -1,0 +1,6 @@
+old = "oatpp-libressl"
+new = "oatpp-libressl-1-2-0-0"
+
+[deps]
+libressl-2-9-1-3 = "libressl"
+oatpp-1-2-0-0 = "oatpp"

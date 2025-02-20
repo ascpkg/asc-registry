@@ -1,0 +1,7 @@
+old = "harfbuzz"
+new = "harfbuzz-1-7-4-0"
+
+[deps]
+freetype-2-8-1-1-0 = "freetype"
+glib-2-52-3-1-0 = "glib"
+ragel-6-10-1-0 = "ragel"

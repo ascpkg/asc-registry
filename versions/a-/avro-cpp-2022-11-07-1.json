@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/avro-cpp-2022-11-07-1",
+      "version-date": "2022-11-07",
+      "port-version": 1
+    }
+  ]
+}

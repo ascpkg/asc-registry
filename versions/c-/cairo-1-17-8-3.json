@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cairo-1-17-8-3",
+      "version": "1.17.8",
+      "port-version": 3
+    }
+  ]
+}

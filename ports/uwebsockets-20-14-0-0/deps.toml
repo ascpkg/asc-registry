@@ -1,0 +1,6 @@
+old = "uwebsockets"
+new = "uwebsockets-20-14-0-0"
+
+[deps]
+usockets-0-8-1-1 = "usockets"
+zlib-1-2-12-1 = "zlib"

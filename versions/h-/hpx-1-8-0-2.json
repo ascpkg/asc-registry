@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/hpx-1-8-0-2",
+      "version": "1.8.0",
+      "port-version": 2
+    }
+  ]
+}

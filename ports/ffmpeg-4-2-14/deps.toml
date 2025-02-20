@@ -1,0 +1,15 @@
+old = "ffmpeg"
+new = "ffmpeg-4-2-14"
+
+[deps]
+avisynthplus-3-6-0-0 = "avisynthplus"
+bzip2-1-0-6-6-0 = "bzip2"
+cuda-10-1-2 = "cuda"
+ffmpeg-4-2-14 = "ffmpeg"
+ffnvcodec-9-1-23-1-1-0 = "ffnvcodec"
+liblzma-5-2-5-0 = "liblzma"
+libvpx-1-8-1-8 = "libvpx"
+opencl-2-2-2-1-0 = "opencl"
+openssl-1-1-1g-0 = "openssl"
+x264-157-303c484ec828ed0-8-0 = "x264"
+zlib-1-2-11-7 = "zlib"

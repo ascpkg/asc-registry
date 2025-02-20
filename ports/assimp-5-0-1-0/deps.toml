@@ -1,0 +1,7 @@
+old = "assimp"
+new = "assimp-5-0-1-0"
+
+[deps]
+minizip-1-2-11-6-0 = "minizip"
+rapidjson-2020-02-08-0 = "rapidjson"
+zlib-1-2-11-5-0 = "zlib"

@@ -1,0 +1,16 @@
+old = "coin"
+new = "coin-4-0-0-0"
+
+[deps]
+boost-assert-1-72-0-0 = "boost-assert"
+boost-config-1-72-0-0 = "boost-config"
+boost-lexical-cast-1-72-0-0 = "boost-lexical-cast"
+boost-math-1-72-0-0 = "boost-math"
+boost-smart-ptr-1-72-0-0 = "boost-smart-ptr"
+boost-static-assert-1-72-0-0 = "boost-static-assert"
+bzip2-1-0-6-5-0 = "bzip2"
+fontconfig-2-12-4-10-0 = "fontconfig"
+freetype-2-10-1-6-0 = "freetype"
+openal-soft-1-20-1-1-0 = "openal-soft"
+simage-1-8-0-0 = "simage"
+zlib-1-2-11-6-0 = "zlib"

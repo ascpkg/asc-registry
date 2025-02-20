@@ -1,0 +1,7 @@
+old = "kf5widgetsaddons"
+new = "kf5widgetsaddons-5-84-0-2"
+
+[deps]
+ecm-5-84-0-0 = "ecm"
+qt5-base-5-15-2-11 = "qt5-base"
+qt5-tools-5-15-2-1 = "qt5-tools"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/aws-c-sdkutils-0-2-1-0",
+      "version": "0.2.1",
+      "port-version": 0
+    }
+  ]
+}

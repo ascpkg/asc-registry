@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qtopcua-6-1-2-0",
+      "version-semver": "6.1.2",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/presentmon-1-7-0-1",
+      "version-semver": "1.7.0",
+      "port-version": 1
+    }
+  ]
+}

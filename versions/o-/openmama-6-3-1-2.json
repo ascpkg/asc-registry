@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/openmama-6-3-1-2",
+      "version-semver": "6.3.1",
+      "port-version": 2
+    }
+  ]
+}

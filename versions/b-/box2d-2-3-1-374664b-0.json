@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/box2d-2-3-1-374664b-0",
+      "version": "2.3.1-374664b",
+      "port-version": 0
+    }
+  ]
+}

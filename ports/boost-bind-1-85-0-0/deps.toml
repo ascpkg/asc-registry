@@ -1,0 +1,8 @@
+old = "boost-bind"
+new = "boost-bind-1-85-0-0"
+
+[deps]
+boost-cmake-1-85-0-0 = "boost-cmake"
+boost-config-1-85-0-0 = "boost-config"
+boost-core-1-85-0-0 = "boost-core"
+boost-headers-1-85-0-0 = "boost-headers"

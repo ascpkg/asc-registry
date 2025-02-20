@@ -1,0 +1,5 @@
+old = "fruit"
+new = "fruit-3-7-0-0"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

@@ -1,0 +1,8 @@
+old = "stduuid"
+new = "stduuid-1-2-2-0"
+
+[deps]
+libuuid-1-0-3-11 = "libuuid"
+ms-gsl-4-0-0-0 = "ms-gsl"
+vcpkg-cmake-2022-05-10-1 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

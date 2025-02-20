@@ -1,0 +1,13 @@
+old = "boost-container-hash"
+new = "boost-container-hash-1-72-0-0"
+
+[deps]
+boost-assert-1-72-0-0 = "boost-assert"
+boost-compatibility-1-72-0-0 = "boost-compatibility"
+boost-config-1-72-0-0 = "boost-config"
+boost-core-1-72-0-0 = "boost-core"
+boost-detail-1-72-0-0 = "boost-detail"
+boost-integer-1-72-0-0 = "boost-integer"
+boost-static-assert-1-72-0-0 = "boost-static-assert"
+boost-type-traits-1-72-0-0 = "boost-type-traits"
+boost-vcpkg-helpers-7-0 = "boost-vcpkg-helpers"

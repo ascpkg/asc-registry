@@ -1,0 +1,9 @@
+old = "boost-any"
+new = "boost-any-1-84-0-0"
+
+[deps]
+boost-assert-1-84-0-0 = "boost-assert"
+boost-config-1-84-0-0 = "boost-config"
+boost-throw-exception-1-84-0-0 = "boost-throw-exception"
+boost-type-index-1-84-0-0 = "boost-type-index"
+boost-vcpkg-helpers-1-84-0-0 = "boost-vcpkg-helpers"

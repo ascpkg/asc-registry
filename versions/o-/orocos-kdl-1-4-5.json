@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/orocos-kdl-1-4-5",
+      "version": "1.4",
+      "port-version": 5
+    }
+  ]
+}

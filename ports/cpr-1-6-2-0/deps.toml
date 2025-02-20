@@ -1,0 +1,5 @@
+old = "cpr"
+new = "cpr-1-6-2-0"
+
+[deps]
+curl-7-74-0-7 = "curl"

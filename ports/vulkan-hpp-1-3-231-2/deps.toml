@@ -1,0 +1,5 @@
+old = "vulkan-hpp"
+new = "vulkan-hpp-1-3-231-2"
+
+[deps]
+vulkan-1-1-82-1-5 = "vulkan"

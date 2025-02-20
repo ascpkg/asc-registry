@@ -1,0 +1,7 @@
+old = "onnx-optimizer"
+new = "onnx-optimizer-0-2-6-0"
+
+[deps]
+onnx-1-9-0-0 = "onnx"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"

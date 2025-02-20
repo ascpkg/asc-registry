@@ -1,0 +1,8 @@
+old = "wpilib"
+new = "wpilib-2020-3-2-2"
+
+[deps]
+eigen3-3-3-9-1 = "eigen3"
+libuv-1-43-0-0 = "libuv"
+opencv-4-5-4-1 = "opencv"
+wpilib-2020-3-2-2 = "wpilib"

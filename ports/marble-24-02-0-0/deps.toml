@@ -1,0 +1,10 @@
+old = "marble"
+new = "marble-24-02-0-0"
+
+[deps]
+qt5-base-5-15-12-2 = "qt5-base"
+qt5-quickcontrols-5-15-12-0 = "qt5-quickcontrols"
+qt5-svg-5-15-12-0 = "qt5-svg"
+qt5-webchannel-5-15-12-0 = "qt5-webchannel"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

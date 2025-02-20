@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/sndfile-1-0-29-cebfdf2-1-0",
+      "version": "1.0.29-cebfdf2-1",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libuv-1-48-0-1",
+      "version-semver": "1.48.0",
+      "port-version": 1
+    }
+  ]
+}

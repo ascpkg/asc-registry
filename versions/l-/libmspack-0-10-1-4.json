@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libmspack-0-10-1-4",
+      "version-string": "0.10.1",
+      "port-version": 4
+    }
+  ]
+}

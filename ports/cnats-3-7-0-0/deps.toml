@@ -1,0 +1,9 @@
+old = "cnats"
+new = "cnats-3-7-0-0"
+
+[deps]
+libsodium-1-0-18-9 = "libsodium"
+openssl-3-1-4-1 = "openssl"
+protobuf-c-1-4-1-1 = "protobuf-c"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

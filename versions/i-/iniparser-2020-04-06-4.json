@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/iniparser-2020-04-06-4",
+      "version-date": "2020-04-06",
+      "port-version": 4
+    }
+  ]
+}

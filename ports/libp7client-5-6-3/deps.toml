@@ -1,0 +1,5 @@
+old = "libp7client"
+new = "libp7client-5-6-3"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

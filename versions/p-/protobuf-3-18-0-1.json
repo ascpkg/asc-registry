@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/protobuf-3-18-0-1",
+      "version-semver": "3.18.0",
+      "port-version": 1
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+old = "clblast"
+new = "clblast-1-5-0-0"
+
+[deps]
+opencl-2-2-2017-07-18-0 = "opencl"

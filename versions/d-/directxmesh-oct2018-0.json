@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/directxmesh-oct2018-0",
+      "version": "oct2018",
+      "port-version": 0
+    }
+  ]
+}

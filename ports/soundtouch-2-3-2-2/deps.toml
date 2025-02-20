@@ -1,0 +1,7 @@
+old = "soundtouch"
+new = "soundtouch-2-3-2-2"
+
+[deps]
+atlmfc-0-3 = "atlmfc"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

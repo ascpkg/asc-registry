@@ -1,0 +1,9 @@
+old = "boost-container-hash"
+new = "boost-container-hash-1-85-0-0"
+
+[deps]
+boost-cmake-1-85-0-0 = "boost-cmake"
+boost-config-1-85-0-0 = "boost-config"
+boost-describe-1-85-0-0 = "boost-describe"
+boost-headers-1-85-0-0 = "boost-headers"
+boost-mp11-1-85-0-0 = "boost-mp11"

@@ -1,0 +1,11 @@
+old = "idyntree"
+new = "idyntree-12-4-0-0"
+
+[deps]
+assimp-5-4-2-0 = "assimp"
+eigen3-3-4-0-4 = "eigen3"
+glfw3-3-4-0 = "glfw3"
+irrlicht-1-8-5-0 = "irrlicht"
+libxml2-2-11-8-0 = "libxml2"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

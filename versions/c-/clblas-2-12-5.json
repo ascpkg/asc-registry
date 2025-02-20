@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/clblas-2-12-5",
+      "version-string": "2.12",
+      "port-version": 5
+    }
+  ]
+}

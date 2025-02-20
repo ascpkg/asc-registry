@@ -1,0 +1,5 @@
+old = "luasocket"
+new = "luasocket-2017-05-25-5a17f79b0301f0a1b4c7f1c73388757a7e2ed309-0"
+
+[deps]
+lua-5-3-4-4-0 = "lua"

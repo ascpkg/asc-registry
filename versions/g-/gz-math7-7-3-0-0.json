@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gz-math7-7-3-0-0",
+      "version": "7.3.0",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+old = "kf5holidays"
+new = "kf5holidays-5-58-0-0"
+
+[deps]
+ecm-5-58-0-0 = "ecm"
+qt5-base-5-12-3-0 = "qt5-base"
+qt5-declarative-5-12-3-0 = "qt5-declarative"
+qt5-tools-5-12-3-0 = "qt5-tools"

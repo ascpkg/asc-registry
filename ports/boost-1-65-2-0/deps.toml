@@ -1,0 +1,8 @@
+old = "boost"
+new = "boost-1-65-2-0"
+
+[deps]
+bzip2-1-0-6-1-0 = "bzip2"
+icu-59-1-1-0 = "icu"
+python3-3-6-1-0 = "python3"
+zlib-1-2-11-0 = "zlib"

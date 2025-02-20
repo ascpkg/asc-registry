@@ -1,0 +1,10 @@
+old = "kf5guiaddons"
+new = "kf5guiaddons-5-84-0-1"
+
+[deps]
+ecm-5-84-0-0 = "ecm"
+kf5guiaddons-5-84-0-1 = "kf5guiaddons"
+qt5-tools-5-15-2-0 = "qt5-tools"
+qt5-wayland-5-15-2-2 = "qt5-wayland"
+qt5-winextras-5-15-2-0 = "qt5-winextras"
+qt5-x11extras-5-15-2-0 = "qt5-x11extras"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/freeopcua-20190125-2-0",
+      "version": "20190125-2",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+old = "boost-type-traits"
+new = "boost-type-traits-1-69-0-1-0"
+
+[deps]
+boost-config-1-69-0-0 = "boost-config"
+boost-detail-1-69-0-0 = "boost-detail"
+boost-static-assert-1-69-0-0 = "boost-static-assert"
+boost-vcpkg-helpers-4-0 = "boost-vcpkg-helpers"

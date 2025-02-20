@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/triangle-1-6-1",
+      "version-string": "1.6",
+      "port-version": 1
+    }
+  ]
+}

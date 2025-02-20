@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/directx-headers-1-608-2-1",
+      "version": "1.608.2",
+      "port-version": 1
+    }
+  ]
+}

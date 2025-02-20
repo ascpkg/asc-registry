@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/msix-msixcoreinstaller-preview-1-0",
+      "version": "msixcoreinstaller-preview-1",
+      "port-version": 0
+    }
+  ]
+}

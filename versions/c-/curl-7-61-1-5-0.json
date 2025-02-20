@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/curl-7-61-1-5-0",
+      "version": "7.61.1-5",
+      "port-version": 0
+    }
+  ]
+}

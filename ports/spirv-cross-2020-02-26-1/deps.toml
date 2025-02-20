@@ -1,0 +1,5 @@
+old = "spirv-cross"
+new = "spirv-cross-2020-02-26-1"
+
+[deps]
+spirv-headers-1-5-1-0 = "spirv-headers"

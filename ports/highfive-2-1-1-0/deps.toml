@@ -1,0 +1,5 @@
+old = "highfive"
+new = "highfive-2-1-1-0"
+
+[deps]
+hdf5-1-10-5-10-0 = "hdf5"

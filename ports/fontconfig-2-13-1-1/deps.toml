@@ -1,0 +1,12 @@
+old = "fontconfig"
+new = "fontconfig-2-13-1-1"
+
+[deps]
+dirent-1-23-2-0 = "dirent"
+expat-2020-08-18-0 = "expat"
+freetype-2-10-2-5 = "freetype"
+gettext-0-21-0 = "gettext"
+json-c-2019-09-10-1 = "json-c"
+libiconv-1-16-6 = "libiconv"
+libuuid-1-0-3-7-0 = "libuuid"
+pthread-3-0-0-0 = "pthread"

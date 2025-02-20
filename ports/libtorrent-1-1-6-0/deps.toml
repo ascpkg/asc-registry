@@ -1,0 +1,12 @@
+old = "libtorrent"
+new = "libtorrent-1-1-6-0"
+
+[deps]
+boost-asio-1-66-0-0 = "boost-asio"
+boost-chrono-1-66-0-0 = "boost-chrono"
+boost-config-1-66-0-0 = "boost-config"
+boost-crc-1-66-0-0 = "boost-crc"
+boost-date-time-1-66-0-0 = "boost-date-time"
+boost-random-1-66-0-0 = "boost-random"
+boost-system-1-66-0-0 = "boost-system"
+openssl-1-0-2n-1-0 = "openssl"

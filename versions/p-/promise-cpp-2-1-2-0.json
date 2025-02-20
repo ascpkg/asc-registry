@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/promise-cpp-2-1-2-0",
+      "version": "2.1.2",
+      "port-version": 0
+    }
+  ]
+}

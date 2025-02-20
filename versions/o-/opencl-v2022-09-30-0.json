@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/opencl-v2022-09-30-0",
+      "version-string": "v2022.09.30",
+      "port-version": 0
+    }
+  ]
+}

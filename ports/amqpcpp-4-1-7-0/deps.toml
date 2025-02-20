@@ -1,0 +1,5 @@
+old = "amqpcpp"
+new = "amqpcpp-4-1-7-0"
+
+[deps]
+openssl-1-1-1d-0 = "openssl"

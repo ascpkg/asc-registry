@@ -1,0 +1,10 @@
+old = "cairo"
+new = "cairo-1-16-0-2-0"
+
+[deps]
+fontconfig-2-12-4-9-0 = "fontconfig"
+freetype-2-10-1-1-0 = "freetype"
+glib-2-52-3-14-3-0 = "glib"
+libpng-1-6-37-4-0 = "libpng"
+pixman-0-38-0-3-0 = "pixman"
+zlib-1-2-11-5-0 = "zlib"

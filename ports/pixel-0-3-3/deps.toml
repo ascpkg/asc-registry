@@ -1,0 +1,7 @@
+old = "pixel"
+new = "pixel-0-3-3"
+
+[deps]
+glew-2-2-0-0 = "glew"
+opengl-0-0-9 = "opengl"
+sdl2-2-0-16-2 = "sdl2"

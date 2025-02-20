@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/rexo-0-2-2-0",
+      "version-semver": "0.2.2",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+old = "highway"
+new = "highway-0-14-2-0"
+
+[deps]
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"

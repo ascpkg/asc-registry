@@ -1,0 +1,9 @@
+old = "libsbml"
+new = "libsbml-5-18-0-0"
+
+[deps]
+bzip2-1-0-8-1 = "bzip2"
+check-0-15-2-0 = "check"
+expat-2020-08-18-0 = "expat"
+libxml2-2-9-10-0 = "libxml2"
+zlib-1-2-11-9 = "zlib"

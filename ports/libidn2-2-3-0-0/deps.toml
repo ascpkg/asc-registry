@@ -1,0 +1,5 @@
+old = "libidn2"
+new = "libidn2-2-3-0-0"
+
+[deps]
+libiconv-1-16-5 = "libiconv"

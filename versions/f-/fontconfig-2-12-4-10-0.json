@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/fontconfig-2-12-4-10-0",
+      "version": "2.12.4-10",
+      "port-version": 0
+    }
+  ]
+}

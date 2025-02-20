@@ -1,0 +1,15 @@
+old = "freeopcua"
+new = "freeopcua-20190125-7"
+
+[deps]
+boost-asio-1-82-0-1 = "boost-asio"
+boost-date-time-1-82-0-1 = "boost-date-time"
+boost-filesystem-1-82-0-1 = "boost-filesystem"
+boost-foreach-1-82-0-1 = "boost-foreach"
+boost-format-1-82-0-1 = "boost-format"
+boost-program-options-1-82-0-1 = "boost-program-options"
+boost-property-tree-1-82-0-1 = "boost-property-tree"
+boost-system-1-82-0-1 = "boost-system"
+boost-thread-1-82-0-1 = "boost-thread"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

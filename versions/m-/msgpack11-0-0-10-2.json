@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/msgpack11-0-0-10-2",
+      "version": "0.0.10",
+      "port-version": 2
+    }
+  ]
+}

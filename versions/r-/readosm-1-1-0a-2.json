@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/readosm-1-1-0a-2",
+      "version-string": "1.1.0a",
+      "port-version": 2
+    }
+  ]
+}

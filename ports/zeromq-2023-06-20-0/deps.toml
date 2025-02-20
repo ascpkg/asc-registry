@@ -1,0 +1,9 @@
+old = "zeromq"
+new = "zeromq-2023-06-20-0"
+
+[deps]
+libgnutls-3-7-8-0 = "libgnutls"
+libsodium-1-0-18-8 = "libsodium"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zeromq-2023-06-20-0 = "zeromq"

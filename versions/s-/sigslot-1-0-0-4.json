@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/sigslot-1-0-0-4",
+      "version-string": "1.0.0",
+      "port-version": 4
+    }
+  ]
+}

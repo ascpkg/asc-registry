@@ -1,0 +1,6 @@
+old = "zug"
+new = "zug-2021-04-23-0"
+
+[deps]
+vcpkg-cmake-2021-07-30-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-08-11-0 = "vcpkg-cmake-config"

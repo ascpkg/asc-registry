@@ -1,0 +1,11 @@
+old = "azure-storage-cpp"
+new = "azure-storage-cpp-6-0-0-3-0"
+
+[deps]
+atlmfc-0-0 = "atlmfc"
+boost-locale-1-69-0-0 = "boost-locale"
+boost-log-1-69-0-0 = "boost-log"
+cpprestsdk-2-10-12-0 = "cpprestsdk"
+gettext-0-19-8-0 = "gettext"
+libuuid-1-0-3-2-0 = "libuuid"
+libxml2-2-9-9-4-0 = "libxml2"

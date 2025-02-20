@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/flecs-2-4-8-0",
+      "version": "2.4.8",
+      "port-version": 0
+    }
+  ]
+}

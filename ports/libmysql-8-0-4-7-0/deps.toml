@@ -1,0 +1,15 @@
+old = "libmysql"
+new = "libmysql-8-0-4-7-0"
+
+[deps]
+boost-algorithm-1-73-0-0 = "boost-algorithm"
+boost-functional-1-73-0-0 = "boost-functional"
+boost-geometry-1-73-0-0 = "boost-geometry"
+boost-graph-1-73-0-0 = "boost-graph"
+boost-optional-1-73-0-0 = "boost-optional"
+icu-65-1-4-0 = "icu"
+libevent-2-1-11-5-0 = "libevent"
+liblzma-5-2-4-5-0 = "liblzma"
+lz4-1-9-2-2-0 = "lz4"
+openssl-1-1-1d-0 = "openssl"
+zlib-1-2-11-6-0 = "zlib"

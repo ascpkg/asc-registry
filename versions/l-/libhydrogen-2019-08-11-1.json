@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libhydrogen-2019-08-11-1",
+      "version-string": "2019-08-11",
+      "port-version": 1
+    }
+  ]
+}

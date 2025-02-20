@@ -1,0 +1,8 @@
+old = "pdal"
+new = "pdal-1-7-1-2-0"
+
+[deps]
+gdal-2-3-0-1-0 = "gdal"
+geos-3-6-2-3-0 = "geos"
+jsoncpp-1-8-4-0 = "jsoncpp"
+libgeotiff-1-4-2-3-0 = "libgeotiff"

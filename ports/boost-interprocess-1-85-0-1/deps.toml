@@ -1,0 +1,15 @@
+old = "boost-interprocess"
+new = "boost-interprocess-1-85-0-1"
+
+[deps]
+boost-assert-1-85-0-0 = "boost-assert"
+boost-cmake-1-85-0-0 = "boost-cmake"
+boost-config-1-85-0-0 = "boost-config"
+boost-container-1-85-0-0 = "boost-container"
+boost-core-1-85-0-0 = "boost-core"
+boost-headers-1-85-0-0 = "boost-headers"
+boost-intrusive-1-85-0-0 = "boost-intrusive"
+boost-move-1-85-0-0 = "boost-move"
+boost-static-assert-1-85-0-0 = "boost-static-assert"
+boost-type-traits-1-85-0-0 = "boost-type-traits"
+boost-winapi-1-85-0-0 = "boost-winapi"

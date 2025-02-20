@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/google-cloud-cpp-1-23-0-0",
+      "version-string": "1.23.0",
+      "port-version": 0
+    }
+  ]
+}

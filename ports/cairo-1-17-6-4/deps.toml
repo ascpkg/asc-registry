@@ -1,0 +1,15 @@
+old = "cairo"
+new = "cairo-1-17-6-4"
+
+[deps]
+dirent-1-23-2-1 = "dirent"
+expat-2-4-8-1 = "expat"
+fontconfig-2-14-0-4 = "fontconfig"
+freetype-2-12-1-1 = "freetype"
+glib-2-72-3-1 = "glib"
+libpng-1-6-37-18 = "libpng"
+lzo-2-10-7 = "lzo"
+pixman-0-40-0-2 = "pixman"
+pthread-3-0-0-1 = "pthread"
+vcpkg-tool-meson-0-63-0 = "vcpkg-tool-meson"
+zlib-1-2-12-1 = "zlib"

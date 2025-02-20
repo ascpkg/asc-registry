@@ -1,0 +1,12 @@
+old = "soci"
+new = "soci-4-0-1-1"
+
+[deps]
+boost-date-time-1-75-0-0 = "boost-date-time"
+boost-fusion-1-75-0-0 = "boost-fusion"
+boost-optional-1-75-0-0 = "boost-optional"
+boost-preprocessor-1-75-0-0 = "boost-preprocessor"
+boost-tuple-1-75-0-0 = "boost-tuple"
+libmysql-8-0-20-1 = "libmysql"
+libpq-12-2-10 = "libpq"
+sqlite3-3-33-0-0 = "sqlite3"

@@ -1,0 +1,7 @@
+old = "libnice-gst"
+new = "libnice-gst-0-1-22-0"
+
+[deps]
+gstreamer-1-24-7-0 = "gstreamer"
+libnice-0-1-22-0 = "libnice"
+vcpkg-tool-meson-1-5-2-0 = "vcpkg-tool-meson"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libtorrent-1-2-14-1",
+      "version": "1.2.14",
+      "port-version": 1
+    }
+  ]
+}

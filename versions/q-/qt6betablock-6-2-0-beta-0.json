@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qt6betablock-6-2-0-beta-0",
+      "version-semver": "6.2.0-beta",
+      "port-version": 0
+    }
+  ]
+}

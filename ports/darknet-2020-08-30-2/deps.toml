@@ -1,0 +1,12 @@
+old = "darknet"
+new = "darknet-2020-08-30-2"
+
+[deps]
+cuda-10-1-5 = "cuda"
+cudnn-7-6-4 = "cudnn"
+darknet-2020-08-30-2 = "darknet"
+opencv-4-3-0-0 = "opencv"
+opencv2-2-4-13-7-4 = "opencv2"
+opencv3-3-4-10-4 = "opencv3"
+pthreads-3-0-0-6-0 = "pthreads"
+stb-2020-09-14-0 = "stb"

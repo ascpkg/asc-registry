@@ -1,0 +1,5 @@
+old = "libunistring"
+new = "libunistring-0-9-10-1"
+
+[deps]
+libiconv-1-16-9 = "libiconv"

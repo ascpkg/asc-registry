@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/anax-2-1-0-8",
+      "version": "2.1.0",
+      "port-version": 8
+    }
+  ]
+}

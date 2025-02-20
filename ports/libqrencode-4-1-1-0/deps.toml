@@ -1,0 +1,8 @@
+old = "libqrencode"
+new = "libqrencode-4-1-1-0"
+
+[deps]
+getopt-0-0 = "getopt"
+libiconv-1-16-11 = "libiconv"
+libpng-1-6-37-15 = "libpng"
+vcpkg-cmake-2021-07-30-0 = "vcpkg-cmake"

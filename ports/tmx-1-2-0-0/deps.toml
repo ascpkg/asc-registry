@@ -1,0 +1,8 @@
+old = "tmx"
+new = "tmx-1-2-0-0"
+
+[deps]
+libxml2-2-9-12-4 = "libxml2"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-11-01-0 = "vcpkg-cmake-config"
+zlib-1-2-11-13 = "zlib"

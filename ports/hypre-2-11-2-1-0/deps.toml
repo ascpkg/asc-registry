@@ -1,0 +1,5 @@
+old = "hypre"
+new = "hypre-2-11-2-1-0"
+
+[deps]
+msmpi-10-0-0 = "msmpi"

@@ -1,0 +1,5 @@
+old = "openssl-uwp"
+new = "openssl-uwp-1-1-1h-2"
+
+[deps]
+openssl-1-1-1l-1 = "openssl"

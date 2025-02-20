@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gsoap-2-8-102-0",
+      "version": "2.8.102",
+      "port-version": 0
+    }
+  ]
+}

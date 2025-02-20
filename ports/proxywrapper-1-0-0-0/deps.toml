@@ -1,0 +1,5 @@
+old = "proxywrapper"
+new = "proxywrapper-1-0-0-0"
+
+[deps]
+libproxy-0-4-15-1-0 = "libproxy"

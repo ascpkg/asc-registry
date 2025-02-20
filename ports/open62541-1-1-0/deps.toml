@@ -1,0 +1,6 @@
+old = "open62541"
+new = "open62541-1-1-0"
+
+[deps]
+mbedtls-2-16-3-1-0 = "mbedtls"
+openssl-1-1-1d-0 = "openssl"

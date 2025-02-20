@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/mozjpeg-2020-06-02-3",
+      "version-string": "2020-06-02",
+      "port-version": 3
+    }
+  ]
+}

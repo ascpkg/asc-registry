@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/oniguruma-6-9-3-0",
+      "version": "6.9.3",
+      "port-version": 0
+    }
+  ]
+}

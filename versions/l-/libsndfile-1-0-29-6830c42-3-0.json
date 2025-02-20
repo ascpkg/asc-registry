@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libsndfile-1-0-29-6830c42-3-0",
+      "version": "1.0.29-6830c42-3",
+      "port-version": 0
+    }
+  ]
+}

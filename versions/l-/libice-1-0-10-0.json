@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libice-1-0-10-0",
+      "version": "1.0.10",
+      "port-version": 0
+    }
+  ]
+}

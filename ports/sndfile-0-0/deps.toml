@@ -1,0 +1,5 @@
+old = "sndfile"
+new = "sndfile-0-0"
+
+[deps]
+libsndfile-1-0-29-8-0 = "libsndfile"

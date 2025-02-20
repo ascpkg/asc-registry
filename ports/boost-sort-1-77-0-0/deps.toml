@@ -1,0 +1,10 @@
+old = "boost-sort"
+new = "boost-sort-1-77-0-0"
+
+[deps]
+boost-config-1-77-0-0 = "boost-config"
+boost-core-1-77-0-0 = "boost-core"
+boost-range-1-77-0-0 = "boost-range"
+boost-static-assert-1-77-0-0 = "boost-static-assert"
+boost-type-traits-1-77-0-0 = "boost-type-traits"
+boost-vcpkg-helpers-1-77-0-0 = "boost-vcpkg-helpers"

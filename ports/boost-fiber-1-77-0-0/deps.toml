@@ -1,0 +1,18 @@
+old = "boost-fiber"
+new = "boost-fiber-1-77-0-0"
+
+[deps]
+boost-algorithm-1-77-0-0 = "boost-algorithm"
+boost-assert-1-77-0-0 = "boost-assert"
+boost-build-1-77-0-0 = "boost-build"
+boost-config-1-77-0-0 = "boost-config"
+boost-context-1-77-0-0 = "boost-context"
+boost-core-1-77-0-0 = "boost-core"
+boost-filesystem-1-77-0-0 = "boost-filesystem"
+boost-format-1-77-0-0 = "boost-format"
+boost-intrusive-1-77-0-0 = "boost-intrusive"
+boost-modular-build-helper-1-77-0-0 = "boost-modular-build-helper"
+boost-predef-1-77-0-0 = "boost-predef"
+boost-smart-ptr-1-77-0-0 = "boost-smart-ptr"
+boost-vcpkg-helpers-1-77-0-0 = "boost-vcpkg-helpers"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"

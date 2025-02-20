@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libzip-rel-1-5-1-vcpkg2-0",
+      "version": "rel-1-5-1-vcpkg2",
+      "port-version": 0
+    }
+  ]
+}

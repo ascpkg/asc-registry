@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/opentelemetry-cpp-contrib-version-2025-02-03-0",
+      "version-date": "2025-02-03",
+      "port-version": 0
+    }
+  ]
+}

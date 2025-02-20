@@ -1,0 +1,5 @@
+old = "qcustomplot"
+new = "qcustomplot-2-0-1-5"
+
+[deps]
+qt5-base-5-15-2-9 = "qt5-base"

@@ -1,0 +1,5 @@
+old = "abseil"
+new = "abseil-2017-11-10-1-0"
+
+[deps]
+cctz-2-1-0 = "cctz"

@@ -1,0 +1,5 @@
+old = "gli"
+new = "gli-0-8-2-1-0"
+
+[deps]
+glm-0-9-8-1-0 = "glm"

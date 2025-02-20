@@ -1,0 +1,6 @@
+old = "msgpack11"
+new = "msgpack11-0-0-10-4"
+
+[deps]
+gtest-1-13-0-0 = "gtest"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

@@ -1,0 +1,11 @@
+old = "suitesparse-spex"
+new = "suitesparse-spex-3-2-1-0"
+
+[deps]
+gmp-6-3-0-2 = "gmp"
+mpfr-4-2-1-0 = "mpfr"
+suitesparse-amd-3-3-3-0 = "suitesparse-amd"
+suitesparse-colamd-3-3-4-0 = "suitesparse-colamd"
+suitesparse-config-7-8-3-0 = "suitesparse-config"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

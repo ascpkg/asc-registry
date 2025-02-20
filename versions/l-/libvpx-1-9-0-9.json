@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libvpx-1-9-0-9",
+      "version-semver": "1.9.0",
+      "port-version": 9
+    }
+  ]
+}

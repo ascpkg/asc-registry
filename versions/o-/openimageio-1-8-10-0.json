@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/openimageio-1-8-10-0",
+      "version": "1.8.10",
+      "port-version": 0
+    }
+  ]
+}

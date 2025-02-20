@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/nano-signal-slot-commit-25aa2aa90d450d3c7550c535c7993a9e2ed0764a-0",
+      "version": "commit-25aa2aa90d450d3c7550c535c7993a9e2ed0764a",
+      "port-version": 0
+    }
+  ]
+}

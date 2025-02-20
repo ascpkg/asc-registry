@@ -1,0 +1,2 @@
+old = "vcpkg-gfortran"
+new = "vcpkg-gfortran-3-2"

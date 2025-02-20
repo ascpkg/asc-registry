@@ -1,0 +1,8 @@
+old = "fontconfig"
+new = "fontconfig-2-12-4-8-0"
+
+[deps]
+dirent-1-23-1-0 = "dirent"
+expat-2-2-6-0 = "expat"
+freetype-2-9-1-1-0 = "freetype"
+libiconv-1-15-5-0 = "libiconv"

@@ -1,0 +1,5 @@
+old = "lpeg"
+new = "lpeg-1-0-2-2"
+
+[deps]
+lua-5-4-3-3 = "lua"

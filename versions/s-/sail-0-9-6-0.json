@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/sail-0-9-6-0",
+      "version-semver": "0.9.6",
+      "port-version": 0
+    }
+  ]
+}

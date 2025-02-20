@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/hdr-histogram-0-11-8-0",
+      "version-semver": "0.11.8",
+      "port-version": 0
+    }
+  ]
+}

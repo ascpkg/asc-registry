@@ -1,0 +1,11 @@
+old = "curl"
+new = "curl-7-68-0-1-0"
+
+[deps]
+c-ares-2019-5-2-1-0 = "c-ares"
+curl-7-68-0-1-0 = "curl"
+libssh2-1-9-0-0 = "libssh2"
+mbedtls-2-16-3-0 = "mbedtls"
+nghttp2-1-39-2-1-0 = "nghttp2"
+openssl-1-1-1d-0 = "openssl"
+zlib-1-2-11-5-0 = "zlib"

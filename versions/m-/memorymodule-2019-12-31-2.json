@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/memorymodule-2019-12-31-2",
+      "version-string": "2019-12-31",
+      "port-version": 2
+    }
+  ]
+}

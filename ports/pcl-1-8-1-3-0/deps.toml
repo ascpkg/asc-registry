@@ -1,0 +1,11 @@
+old = "pcl"
+new = "pcl-1-8-1-3-0"
+
+[deps]
+boost-1-65-1-3-0 = "boost"
+eigen3-3-3-4-2-0 = "eigen3"
+flann-1-9-1-6-0 = "flann"
+openni2-2-2-0-33-4-0 = "openni2"
+qhull-2015-2-1-0 = "qhull"
+vtk-8-0-0-3-0 = "vtk"
+winpcap-4-1-3-1-0 = "winpcap"

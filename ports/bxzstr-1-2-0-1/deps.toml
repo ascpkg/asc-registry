@@ -1,0 +1,8 @@
+old = "bxzstr"
+new = "bxzstr-1-2-0-1"
+
+[deps]
+bzip2-1-0-8-4 = "bzip2"
+liblzma-5-4-3-0 = "liblzma"
+zlib-1-2-13-0 = "zlib"
+zstd-1-5-5-0 = "zstd"

@@ -1,0 +1,5 @@
+old = "libzip"
+new = "libzip-rel-1-5-1-vcpkg1-0"
+
+[deps]
+zlib-1-2-11-3-0 = "zlib"

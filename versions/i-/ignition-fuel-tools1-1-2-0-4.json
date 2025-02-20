@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ignition-fuel-tools1-1-2-0-4",
+      "version": "1.2.0",
+      "port-version": 4
+    }
+  ]
+}

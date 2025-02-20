@@ -1,0 +1,6 @@
+old = "ryu"
+new = "ryu-2-0-8"
+
+[deps]
+vcpkg-cmake-get-vars-2023-03-02-0 = "vcpkg-cmake-get-vars"
+vcpkg-tool-bazel-5-2-0-0 = "vcpkg-tool-bazel"

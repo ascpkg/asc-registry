@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/curlpp-2018-06-15-4",
+      "version-string": "2018-06-15",
+      "port-version": 4
+    }
+  ]
+}

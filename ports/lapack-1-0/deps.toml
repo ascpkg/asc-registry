@@ -1,0 +1,6 @@
+old = "lapack"
+new = "lapack-1-0"
+
+[deps]
+clapack-3-2-1-14 = "clapack"
+lapack-reference-3-8-0-0 = "lapack-reference"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/parquet-cpp-apache-parquet-cpp-1-1-0-0",
+      "version": "apache-parquet-cpp-1.1.0",
+      "port-version": 0
+    }
+  ]
+}

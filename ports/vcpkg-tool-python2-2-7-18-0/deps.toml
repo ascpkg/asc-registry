@@ -1,0 +1,5 @@
+old = "vcpkg-tool-python2"
+new = "vcpkg-tool-python2-2-7-18-0"
+
+[deps]
+vcpkg-tool-lessmsi-1-10-0-0 = "vcpkg-tool-lessmsi"

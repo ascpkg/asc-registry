@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/hdf5-1-12-1-4",
+      "version": "1.12.1",
+      "port-version": 4
+    }
+  ]
+}

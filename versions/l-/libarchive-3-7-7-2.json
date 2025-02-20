@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libarchive-3-7-7-2",
+      "version": "3.7.7",
+      "port-version": 2
+    }
+  ]
+}

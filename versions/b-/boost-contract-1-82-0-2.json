@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/boost-contract-1-82-0-2",
+      "version": "1.82.0",
+      "port-version": 2
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+old = "lapack-reference"
+new = "lapack-reference-3-8-0-5"
+
+[deps]
+blas-1-0 = "blas"
+vcpkg-gfortran-3-0 = "vcpkg-gfortran"

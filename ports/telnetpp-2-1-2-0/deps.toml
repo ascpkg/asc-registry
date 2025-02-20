@@ -1,0 +1,11 @@
+old = "telnetpp"
+new = "telnetpp-2-1-2-0"
+
+[deps]
+boost-container-1-75-0-0 = "boost-container"
+boost-exception-1-75-0-0 = "boost-exception"
+boost-range-1-75-0-0 = "boost-range"
+boost-signals2-1-75-0-0 = "boost-signals2"
+boost-variant-1-75-0-0 = "boost-variant"
+gsl-lite-0-37-0-0 = "gsl-lite"
+zlib-1-2-11-9 = "zlib"

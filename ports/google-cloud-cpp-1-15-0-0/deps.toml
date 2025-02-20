@@ -1,0 +1,8 @@
+old = "google-cloud-cpp"
+new = "google-cloud-cpp-1-15-0-0"
+
+[deps]
+abseil-2020-03-03-7 = "abseil"
+crc32c-1-1-0-0 = "crc32c"
+curl-7-68-0-3-0 = "curl"
+grpc-1-29-1-0 = "grpc"

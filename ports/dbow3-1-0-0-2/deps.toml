@@ -1,0 +1,7 @@
+old = "dbow3"
+new = "dbow3-1-0-0-2"
+
+[deps]
+opencv-4-6-0-0 = "opencv"
+vcpkg-cmake-2022-07-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

@@ -1,0 +1,6 @@
+old = "nanovg"
+new = "nanovg-2019-08-30-6"
+
+[deps]
+stb-2022-09-09-0 = "stb"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

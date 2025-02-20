@@ -1,0 +1,5 @@
+old = "ms-angle"
+new = "ms-angle-alias-0"
+
+[deps]
+angle-2020-05-15-0 = "angle"

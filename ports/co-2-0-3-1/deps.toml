@@ -1,0 +1,5 @@
+old = "co"
+new = "co-2-0-3-1"
+
+[deps]
+cocoyaxi-2-0-3-1 = "cocoyaxi"

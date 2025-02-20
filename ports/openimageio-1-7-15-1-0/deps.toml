@@ -1,0 +1,9 @@
+old = "openimageio"
+new = "openimageio-1-7-15-1-0"
+
+[deps]
+boost-1-65-1-0 = "boost"
+libjpeg-turbo-1-5-2-1-0 = "libjpeg-turbo"
+libpng-1-6-32-1-0 = "libpng"
+openexr-2-2-0-1-0 = "openexr"
+tiff-4-0-8-1-0 = "tiff"

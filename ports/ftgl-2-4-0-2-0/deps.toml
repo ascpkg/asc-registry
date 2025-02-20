@@ -1,0 +1,6 @@
+old = "ftgl"
+new = "ftgl-2-4-0-2-0"
+
+[deps]
+freetype-2-10-1-2-0 = "freetype"
+opengl-0-0-5-0 = "opengl"

@@ -1,0 +1,5 @@
+old = "corrade"
+new = "corrade-2018-02-1-0"
+
+[deps]
+corrade-2018-02-1-0 = "corrade"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/threadpool-0-2-5-3",
+      "version": "0.2.5",
+      "port-version": 3
+    }
+  ]
+}

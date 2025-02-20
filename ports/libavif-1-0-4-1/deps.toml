@@ -1,0 +1,9 @@
+old = "libavif"
+new = "libavif-1-0-4-1"
+
+[deps]
+aom-3-8-1-1 = "aom"
+dav1d-1-4-0-0 = "dav1d"
+libyuv-1857-0 = "libyuv"
+vcpkg-cmake-2024-04-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

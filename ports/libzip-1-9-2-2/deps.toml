@@ -1,0 +1,13 @@
+old = "libzip"
+new = "libzip-1-9-2-2"
+
+[deps]
+bzip2-1-0-8-5 = "bzip2"
+liblzma-5-4-3-1 = "liblzma"
+libzip-1-9-2-2 = "libzip"
+mbedtls-2-28-1-0 = "mbedtls"
+openssl-3-1-2-1 = "openssl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-2-13-0 = "zlib"
+zstd-1-5-5-0 = "zstd"

@@ -1,0 +1,12 @@
+old = "libwebp"
+new = "libwebp-1-1-0-4"
+
+[deps]
+freeglut-3-2-1-6 = "freeglut"
+giflib-5-2-1-0 = "giflib"
+libjpeg-turbo-2-0-6-2 = "libjpeg-turbo"
+libpng-1-6-37-15 = "libpng"
+libwebp-1-1-0-4 = "libwebp"
+opengl-0-0-9 = "opengl"
+sdl1-1-2-15-14 = "sdl1"
+tiff-4-3-0-1 = "tiff"

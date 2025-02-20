@@ -1,0 +1,5 @@
+old = "vcpkg-make"
+new = "vcpkg-make-2024-12-27-0"
+
+[deps]
+vcpkg-cmake-get-vars-2024-09-22-0 = "vcpkg-cmake-get-vars"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libideviceactivation-1-3-17-0",
+      "version": "1.3.17",
+      "port-version": 0
+    }
+  ]
+}

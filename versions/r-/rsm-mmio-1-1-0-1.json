@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/rsm-mmio-1-1-0-1",
+      "version-semver": "1.1.0",
+      "port-version": 1
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+old = "salome-configuration"
+new = "salome-configuration-9-10-0-0"
+
+[deps]
+hdf5-1-14-0-1 = "hdf5"

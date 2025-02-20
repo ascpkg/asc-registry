@@ -1,0 +1,6 @@
+old = "assimp"
+new = "assimp-4-1-0-8-0"
+
+[deps]
+rapidjson-d87b698-1-0 = "rapidjson"
+zlib-1-2-11-5-0 = "zlib"

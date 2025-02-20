@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libofx-0-10-8-0",
+      "version": "0.10.8",
+      "port-version": 0
+    }
+  ]
+}

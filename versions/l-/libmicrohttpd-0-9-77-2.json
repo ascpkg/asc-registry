@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libmicrohttpd-0-9-77-2",
+      "version": "0.9.77",
+      "port-version": 2
+    }
+  ]
+}

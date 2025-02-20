@@ -1,0 +1,6 @@
+old = "oatpp-curl"
+new = "oatpp-curl-1-0-0-0"
+
+[deps]
+curl-7-68-0-3-0 = "curl"
+oatpp-1-0-0-0 = "oatpp"

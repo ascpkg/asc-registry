@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libgta-1-0-8-4",
+      "version-string": "1.0.8",
+      "port-version": 4
+    }
+  ]
+}

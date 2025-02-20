@@ -1,0 +1,5 @@
+old = "json5-parser"
+new = "json5-parser-1-0-0-1-0"
+
+[deps]
+boost-spirit-1-71-0-0 = "boost-spirit"

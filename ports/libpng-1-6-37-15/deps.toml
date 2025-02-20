@@ -1,0 +1,7 @@
+old = "libpng"
+new = "libpng-1-6-37-15"
+
+[deps]
+vcpkg-cmake-2021-02-28-3 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-0 = "vcpkg-cmake-config"
+zlib-1-2-11-10 = "zlib"

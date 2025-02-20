@@ -1,0 +1,6 @@
+old = "tesseract"
+new = "tesseract-4-0-0-3-0"
+
+[deps]
+icu-61-1-7-0 = "icu"
+leptonica-1-76-0-1-0 = "leptonica"

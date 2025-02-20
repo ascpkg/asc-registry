@@ -1,0 +1,9 @@
+old = "libice"
+new = "libice-1-1-1-0"
+
+[deps]
+bzip2-1-0-8-6 = "bzip2"
+libx11-1-8-1-2 = "libx11"
+xorg-macros-1-19-3-1 = "xorg-macros"
+xproto-2021-5-0 = "xproto"
+xtrans-1-4-0-2 = "xtrans"

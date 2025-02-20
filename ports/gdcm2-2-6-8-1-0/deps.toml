@@ -1,0 +1,6 @@
+old = "gdcm2"
+new = "gdcm2-2-6-8-1-0"
+
+[deps]
+expat-2-2-4-2-0 = "expat"
+zlib-1-2-11-1-0 = "zlib"

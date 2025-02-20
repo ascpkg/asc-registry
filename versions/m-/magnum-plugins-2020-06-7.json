@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/magnum-plugins-2020-06-7",
+      "version-string": "2020.06",
+      "port-version": 7
+    }
+  ]
+}

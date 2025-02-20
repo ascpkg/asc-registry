@@ -1,0 +1,13 @@
+old = "vtk"
+new = "vtk-7-1-0-0"
+
+[deps]
+expat-2-1-1-0 = "expat"
+freetype-2-6-3-3-0 = "freetype"
+glew-2-0-0-0 = "glew"
+jsoncpp-1-7-7-0 = "jsoncpp"
+libpng-1-6-24-1-0 = "libpng"
+libxml2-2-9-4-0 = "libxml2"
+qt5-5-7-1-2-0 = "qt5"
+tiff-4-0-6-1-0 = "tiff"
+zlib-1-2-10-0 = "zlib"

@@ -1,0 +1,6 @@
+old = "teemo"
+new = "teemo-1-2-1-0"
+
+[deps]
+cpprestsdk-2-10-14-1-0 = "cpprestsdk"
+curl-7-68-0-0 = "curl"

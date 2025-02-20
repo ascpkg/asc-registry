@@ -1,0 +1,5 @@
+old = "osgearth"
+new = "osgearth-3-0-2"
+
+[deps]
+osg-3-6-5-2 = "osg"

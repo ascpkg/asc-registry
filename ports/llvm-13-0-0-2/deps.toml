@@ -1,0 +1,10 @@
+old = "llvm"
+new = "llvm-13-0-0-2"
+
+[deps]
+libffi-3-4-2-4 = "libffi"
+libxml2-2-9-12-5 = "libxml2"
+llvm-13-0-0-2 = "llvm"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"
+zlib-1-2-11-13 = "zlib"

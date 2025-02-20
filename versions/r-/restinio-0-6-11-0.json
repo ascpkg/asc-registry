@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/restinio-0-6-11-0",
+      "version-string": "0.6.11",
+      "port-version": 0
+    }
+  ]
+}

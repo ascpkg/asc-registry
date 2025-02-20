@@ -1,0 +1,8 @@
+old = "azure-iot-sdk-c"
+new = "azure-iot-sdk-c-1-0-0-pre-release-1-0-9-0"
+
+[deps]
+azure-c-shared-utility-1-0-0-pre-release-1-0-9-0 = "azure-c-shared-utility"
+azure-uamqp-c-1-0-0-pre-release-1-0-9-0 = "azure-uamqp-c"
+azure-umqtt-c-1-0-0-pre-release-1-0-9-0 = "azure-umqtt-c"
+parson-2018-03-23-0 = "parson"

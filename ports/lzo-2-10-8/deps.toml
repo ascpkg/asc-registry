@@ -1,0 +1,5 @@
+old = "lzo"
+new = "lzo-2-10-8"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

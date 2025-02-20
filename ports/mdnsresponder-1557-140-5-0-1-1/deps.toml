@@ -1,0 +1,5 @@
+old = "mdnsresponder"
+new = "mdnsresponder-1557-140-5-0-1-1"
+
+[deps]
+vcpkg-msbuild-2023-08-08-0 = "vcpkg-msbuild"

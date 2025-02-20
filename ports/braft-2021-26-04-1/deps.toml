@@ -1,0 +1,12 @@
+old = "braft"
+new = "braft-2021-26-04-1"
+
+[deps]
+brpc-1-4-0-0 = "brpc"
+gflags-2-2-2-7 = "gflags"
+glog-0-6-0-2 = "glog"
+leveldb-1-22-6 = "leveldb"
+protobuf-3-21-12-0 = "protobuf"
+thrift-0-16-0-1 = "thrift"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

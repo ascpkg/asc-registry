@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/frugally-deep-0-15-19-p0-0",
+      "version-semver": "0.15.19-p0",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+old = "avcpp"
+new = "avcpp-2021-05-06-0"
+
+[deps]
+ffmpeg-4-4-0 = "ffmpeg"
+vcpkg-cmake-2021-02-28-2 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-02-26-1 = "vcpkg-cmake-config"

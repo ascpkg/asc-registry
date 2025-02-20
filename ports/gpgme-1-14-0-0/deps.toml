@@ -1,0 +1,6 @@
+old = "gpgme"
+new = "gpgme-1-14-0-0"
+
+[deps]
+libassuan-2-5-3-0 = "libassuan"
+libgpg-error-1-39-0 = "libgpg-error"

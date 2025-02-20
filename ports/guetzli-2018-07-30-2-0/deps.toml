@@ -1,0 +1,6 @@
+old = "guetzli"
+new = "guetzli-2018-07-30-2-0"
+
+[deps]
+butteraugli-2019-05-08-0 = "butteraugli"
+libpng-1-6-37-1-0 = "libpng"

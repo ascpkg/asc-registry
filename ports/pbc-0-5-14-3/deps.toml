@@ -1,0 +1,6 @@
+old = "pbc"
+new = "pbc-0-5-14-3"
+
+[deps]
+gmp-6-2-0-2-0 = "gmp"
+mpir-3-0-0-9 = "mpir"

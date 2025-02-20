@@ -1,0 +1,8 @@
+old = "uwebsockets"
+new = "uwebsockets-0-14-2-0"
+
+[deps]
+boost-1-63-4-0 = "boost"
+libuv-1-10-1-2-0 = "libuv"
+openssl-1-0-2k-2-0 = "openssl"
+zlib-1-2-11-0 = "zlib"

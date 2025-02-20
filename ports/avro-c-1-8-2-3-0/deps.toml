@@ -1,0 +1,7 @@
+old = "avro-c"
+new = "avro-c-1-8-2-3-0"
+
+[deps]
+jansson-2-12-1-0 = "jansson"
+liblzma-5-2-4-2-0 = "liblzma"
+zlib-1-2-11-5-0 = "zlib"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/tinyxml-2-6-2-8",
+      "version-string": "2.6.2",
+      "port-version": 8
+    }
+  ]
+}
