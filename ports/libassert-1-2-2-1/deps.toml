@@ -1,0 +1,8 @@
+old = "libassert"
+new = "libassert-1-2-2-1"
+
+[deps]
+cpptrace-0-4-0-0 = "cpptrace"
+magic-enum-0-9-5-0 = "magic-enum"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

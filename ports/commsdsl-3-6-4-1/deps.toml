@@ -1,0 +1,8 @@
+old = "commsdsl"
+new = "commsdsl-3-6-4-1"
+
+[deps]
+boost-algorithm-1-78-0-0 = "boost-algorithm"
+boost-filesystem-1-78-0-0 = "boost-filesystem"
+boost-program-options-1-78-0-0 = "boost-program-options"
+libxml2-2-9-12-4 = "libxml2"

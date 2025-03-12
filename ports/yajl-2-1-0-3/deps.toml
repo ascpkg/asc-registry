@@ -1,0 +1,5 @@
+old = "yajl"
+new = "yajl-2-1-0-3"
+
+[deps]
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"

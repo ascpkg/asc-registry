@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libpng-1-6-40-0",
+      "version": "1.6.40",
+      "port-version": 0
+    }
+  ]
+}

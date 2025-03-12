@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/xmsh-0-5-2-2",
+      "version-string": "0.5.2",
+      "port-version": 2
+    }
+  ]
+}

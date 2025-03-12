@@ -1,0 +1,7 @@
+old = "libcurl-simple-https"
+new = "libcurl-simple-https-2022-02-14-0"
+
+[deps]
+curl-7-81-0-0 = "curl"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"

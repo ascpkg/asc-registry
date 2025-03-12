@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/liblinear-243-1",
+      "version": "243",
+      "port-version": 1
+    }
+  ]
+}

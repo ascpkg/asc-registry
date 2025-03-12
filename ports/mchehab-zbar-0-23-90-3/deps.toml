@@ -1,0 +1,6 @@
+old = "mchehab-zbar"
+new = "mchehab-zbar-0-23-90-3"
+
+[deps]
+gettext-0-21-1-0 = "gettext"
+libiconv-1-17-0 = "libiconv"

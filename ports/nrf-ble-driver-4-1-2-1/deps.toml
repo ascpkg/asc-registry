@@ -1,0 +1,8 @@
+old = "nrf-ble-driver"
+new = "nrf-ble-driver-4-1-2-1"
+
+[deps]
+asio-1-19-2-0 = "asio"
+catch2-2-13-7-1 = "catch2"
+cli11-2-0-0-0 = "cli11"
+spdlog-1-9-0-1 = "spdlog"

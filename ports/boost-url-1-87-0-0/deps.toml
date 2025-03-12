@@ -1,0 +1,17 @@
+old = "boost-url"
+new = "boost-url-1-87-0-0"
+
+[deps]
+boost-align-1-87-0-0 = "boost-align"
+boost-assert-1-87-0-0 = "boost-assert"
+boost-cmake-1-87-0-0 = "boost-cmake"
+boost-config-1-87-0-0 = "boost-config"
+boost-core-1-87-0-0 = "boost-core"
+boost-headers-1-87-0-0 = "boost-headers"
+boost-mp11-1-87-0-0 = "boost-mp11"
+boost-optional-1-87-0-0 = "boost-optional"
+boost-static-assert-1-87-0-0 = "boost-static-assert"
+boost-system-1-87-0-0 = "boost-system"
+boost-throw-exception-1-87-0-0 = "boost-throw-exception"
+boost-type-traits-1-87-0-0 = "boost-type-traits"
+boost-variant2-1-87-0-0 = "boost-variant2"

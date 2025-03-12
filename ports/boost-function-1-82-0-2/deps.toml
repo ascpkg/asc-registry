@@ -1,0 +1,13 @@
+old = "boost-function"
+new = "boost-function-1-82-0-2"
+
+[deps]
+boost-assert-1-82-0-2 = "boost-assert"
+boost-bind-1-82-0-2 = "boost-bind"
+boost-config-1-82-0-2 = "boost-config"
+boost-core-1-82-0-2 = "boost-core"
+boost-preprocessor-1-82-0-2 = "boost-preprocessor"
+boost-throw-exception-1-82-0-2 = "boost-throw-exception"
+boost-type-traits-1-82-0-2 = "boost-type-traits"
+boost-typeof-1-82-0-2 = "boost-typeof"
+boost-vcpkg-helpers-1-82-0-2 = "boost-vcpkg-helpers"

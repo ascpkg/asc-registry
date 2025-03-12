@@ -1,0 +1,7 @@
+old = "wabt"
+new = "wabt-1-0-36-0"
+
+[deps]
+picosha2-2018-07-30-2 = "picosha2"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

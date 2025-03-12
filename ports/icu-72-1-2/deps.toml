@@ -1,0 +1,5 @@
+old = "icu"
+new = "icu-72-1-2"
+
+[deps]
+icu-72-1-2 = "icu"

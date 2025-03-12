@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/liblemon-2019-06-13-4",
+      "version-string": "2019-06-13",
+      "port-version": 4
+    }
+  ]
+}

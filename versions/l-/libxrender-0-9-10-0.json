@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libxrender-0-9-10-0",
+      "version": "0.9.10",
+      "port-version": 0
+    }
+  ]
+}

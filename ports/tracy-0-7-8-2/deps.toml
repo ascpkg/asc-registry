@@ -1,0 +1,7 @@
+old = "tracy"
+new = "tracy-0-7-8-2"
+
+[deps]
+pthreads-3-0-0-10 = "pthreads"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"

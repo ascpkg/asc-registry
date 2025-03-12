@@ -1,0 +1,5 @@
+old = "munit"
+new = "munit-2019-04-06-4"
+
+[deps]
+vcpkg-tool-meson-0-60-2-0 = "vcpkg-tool-meson"

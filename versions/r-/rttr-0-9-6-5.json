@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/rttr-0-9-6-5",
+      "version": "0.9.6",
+      "port-version": 5
+    }
+  ]
+}

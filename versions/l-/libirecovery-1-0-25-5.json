@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libirecovery-1-0-25-5",
+      "version": "1.0.25",
+      "port-version": 5
+    }
+  ]
+}

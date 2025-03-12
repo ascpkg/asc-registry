@@ -1,0 +1,7 @@
+old = "webui"
+new = "webui-2-4-2-0"
+
+[deps]
+openssl-3-4-0-0 = "openssl"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

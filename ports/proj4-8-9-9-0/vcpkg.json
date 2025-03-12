@@ -1,0 +1,12 @@
+{
+  "name": "proj4",
+  "version-semver": "8.9.9",
+  "description": "A stub package that pulls in proj. Do not depend on this package.",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "proj",
+      "version>=": "9.0.0"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+old = "scylla-wrapper"
+new = "scylla-wrapper-2018-08-26-16e6f435-3"
+
+[deps]
+distorm-3-5-2b-0 = "distorm"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

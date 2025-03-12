@@ -1,0 +1,17 @@
+old = "liblas"
+new = "liblas-1-8-1-10"
+
+[deps]
+boost-detail-1-79-0-0 = "boost-detail"
+boost-filesystem-1-79-0-0 = "boost-filesystem"
+boost-interprocess-1-79-0-0 = "boost-interprocess"
+boost-iostreams-1-79-0-0 = "boost-iostreams"
+boost-lambda-1-79-0-0 = "boost-lambda"
+boost-multi-index-1-79-0-0 = "boost-multi-index"
+boost-program-options-1-79-0-0 = "boost-program-options"
+boost-system-1-79-0-0 = "boost-system"
+boost-thread-1-79-0-0 = "boost-thread"
+boost-uuid-1-79-0-0 = "boost-uuid"
+libgeotiff-1-7-1-1 = "libgeotiff"
+vcpkg-cmake-2022-07-02-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

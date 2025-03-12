@@ -1,0 +1,5 @@
+old = "lzfse"
+new = "lzfse-1-0-4"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

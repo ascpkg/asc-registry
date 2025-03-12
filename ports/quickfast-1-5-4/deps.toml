@@ -1,0 +1,9 @@
+old = "quickfast"
+new = "quickfast-1-5-4"
+
+[deps]
+boost-asio-1-84-0-0 = "boost-asio"
+boost-thread-1-84-0-0 = "boost-thread"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+xerces-c-3-2-5-0 = "xerces-c"

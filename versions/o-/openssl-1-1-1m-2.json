@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/openssl-1-1-1m-2",
+      "version-string": "1.1.1m",
+      "port-version": 2
+    }
+  ]
+}

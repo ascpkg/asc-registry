@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/tiny-dnn-2018-10-25-2",
+      "version-date": "2018-10-25",
+      "port-version": 2
+    }
+  ]
+}

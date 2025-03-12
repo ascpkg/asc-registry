@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cryptopp-8-5-0-1",
+      "version-string": "8.5.0",
+      "port-version": 1
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+old = "qt5-serialbus"
+new = "qt5-serialbus-5-15-6-0"
+
+[deps]
+qt5-base-5-15-6-0 = "qt5-base"
+qt5-serialport-5-15-6-0 = "qt5-serialport"

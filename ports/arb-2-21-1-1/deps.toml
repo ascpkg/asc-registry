@@ -1,0 +1,7 @@
+old = "arb"
+new = "arb-2-21-1-1"
+
+[deps]
+flint-2-8-0-1 = "flint"
+pthreads-3-0-0-10 = "pthreads"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"

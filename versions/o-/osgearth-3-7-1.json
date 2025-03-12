@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/osgearth-3-7-1",
+      "version": "3.7",
+      "port-version": 1
+    }
+  ]
+}

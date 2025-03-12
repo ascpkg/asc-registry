@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/superlu-2020-01-07-6",
+      "version-date": "2020-01-07",
+      "port-version": 6
+    }
+  ]
+}

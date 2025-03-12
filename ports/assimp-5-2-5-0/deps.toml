@@ -1,0 +1,15 @@
+old = "assimp"
+new = "assimp-5-2-5-0"
+
+[deps]
+draco-1-5-2-0 = "draco"
+kubazip-0-2-4-0 = "kubazip"
+minizip-1-2-11-11 = "minizip"
+poly2tri-2020-07-21-2 = "poly2tri"
+pugixml-1-12-1-1 = "pugixml"
+rapidjson-2022-06-28-3 = "rapidjson"
+stb-2021-09-10-1 = "stb"
+utfcpp-3-2-1-0 = "utfcpp"
+vcpkg-cmake-2022-07-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-2-12-1 = "zlib"

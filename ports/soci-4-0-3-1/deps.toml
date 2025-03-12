@@ -1,0 +1,14 @@
+old = "soci"
+new = "soci-4-0-3-1"
+
+[deps]
+boost-date-time-1-82-0-2 = "boost-date-time"
+boost-fusion-1-82-0-2 = "boost-fusion"
+boost-optional-1-82-0-2 = "boost-optional"
+boost-preprocessor-1-82-0-2 = "boost-preprocessor"
+boost-tuple-1-82-0-2 = "boost-tuple"
+libmysql-8-0-32-6 = "libmysql"
+libpq-15-3-2 = "libpq"
+sqlite3-3-42-0-1 = "sqlite3"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

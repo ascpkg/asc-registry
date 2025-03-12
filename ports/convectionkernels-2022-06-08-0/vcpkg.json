@@ -1,0 +1,16 @@
+{
+  "name": "convectionkernels",
+  "version-date": "2022-06-08",
+  "description": "Fast, high-quality texture compression library for many formats, also known as cvtt",
+  "homepage": "https://github.com/elasota/ConvectionKernels",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}

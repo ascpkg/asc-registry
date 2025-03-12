@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/mecab-2019-09-25-3",
+      "version-string": "2019-09-25",
+      "port-version": 3
+    }
+  ]
+}

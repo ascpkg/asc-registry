@@ -1,0 +1,7 @@
+old = "ace"
+new = "ace-7-0-6-2"
+
+[deps]
+openssl-1-1-1m-1 = "openssl"
+xerces-c-3-2-3-3 = "xerces-c"
+zlib-1-2-11-13 = "zlib"

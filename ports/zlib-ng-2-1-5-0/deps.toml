@@ -1,0 +1,5 @@
+old = "zlib-ng"
+new = "zlib-ng-2-1-5-0"
+
+[deps]
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

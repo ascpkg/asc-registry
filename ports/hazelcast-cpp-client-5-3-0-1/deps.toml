@@ -1,0 +1,17 @@
+old = "hazelcast-cpp-client"
+new = "hazelcast-cpp-client-5-3-0-1"
+
+[deps]
+boost-any-1-86-0-0 = "boost-any"
+boost-asio-1-86-0-0 = "boost-asio"
+boost-chrono-1-86-0-0 = "boost-chrono"
+boost-format-1-86-0-0 = "boost-format"
+boost-multiprecision-1-86-0-0 = "boost-multiprecision"
+boost-optional-1-86-0-0 = "boost-optional"
+boost-property-tree-1-86-0-0 = "boost-property-tree"
+boost-system-1-86-0-0 = "boost-system"
+boost-thread-1-86-0-0 = "boost-thread"
+boost-uuid-1-86-0-0 = "boost-uuid"
+openssl-3-3-2-1 = "openssl"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

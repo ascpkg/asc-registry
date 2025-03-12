@@ -1,0 +1,8 @@
+old = "bustache"
+new = "bustache-1-1-0-2"
+
+[deps]
+boost-unordered-1-79-0-0 = "boost-unordered"
+boost-utility-1-79-0-0 = "boost-utility"
+vcpkg-cmake-2022-05-06-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"

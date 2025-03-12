@@ -1,0 +1,7 @@
+old = "wolfssl"
+new = "wolfssl-5-7-2-0"
+
+[deps]
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
+vcpkg-cmake-get-vars-2023-12-31-0 = "vcpkg-cmake-get-vars"

@@ -1,0 +1,6 @@
+old = "ampl-mp"
+new = "ampl-mp-2020-11-11-3"
+
+[deps]
+ampl-asl-2020-11-11-3 = "ampl-asl"
+ampl-mp-2020-11-11-3 = "ampl-mp"

@@ -1,0 +1,11 @@
+old = "qtmultimedia"
+new = "qtmultimedia-6-7-0-0"
+
+[deps]
+egl-2022-12-04-0 = "egl"
+ffmpeg-6-1-1-3 = "ffmpeg"
+gstreamer-1-22-5-8 = "gstreamer"
+pulseaudio-17-0-0 = "pulseaudio"
+qtbase-6-7-0-0 = "qtbase"
+qtdeclarative-6-7-0-0 = "qtdeclarative"
+qtshadertools-6-7-0-0 = "qtshadertools"

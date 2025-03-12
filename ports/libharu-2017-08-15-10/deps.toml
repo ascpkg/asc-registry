@@ -1,0 +1,8 @@
+old = "libharu"
+new = "libharu-2017-08-15-10"
+
+[deps]
+libpng-1-6-37-15 = "libpng"
+tiff-4-3-0-1 = "tiff"
+vcpkg-cmake-2021-07-30-0 = "vcpkg-cmake"
+zlib-1-2-11-12 = "zlib"

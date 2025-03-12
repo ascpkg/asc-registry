@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/fftw3-3-3-10-5",
+      "version": "3.3.10",
+      "port-version": 5
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/pixel-0-3-2",
+      "version-string": "0.3",
+      "port-version": 2
+    }
+  ]
+}

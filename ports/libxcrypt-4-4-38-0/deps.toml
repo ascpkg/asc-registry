@@ -1,0 +1,5 @@
+old = "libxcrypt"
+new = "libxcrypt-4-4-38-0"
+
+[deps]
+vcpkg-make-2025-02-08-0 = "vcpkg-make"

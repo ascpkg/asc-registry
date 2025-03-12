@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/mpmcqueue-2019-07-26-1",
+      "version-string": "2019-07-26",
+      "port-version": 1
+    }
+  ]
+}

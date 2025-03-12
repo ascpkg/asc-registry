@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/argtable2-2-13-10",
+      "version": "2.13",
+      "port-version": 10
+    }
+  ]
+}

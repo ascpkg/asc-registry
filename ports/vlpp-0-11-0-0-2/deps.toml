@@ -1,0 +1,5 @@
+old = "vlpp"
+new = "vlpp-0-11-0-0-2"
+
+[deps]
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"

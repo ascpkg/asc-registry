@@ -1,0 +1,7 @@
+old = "hypre"
+new = "hypre-2-19-0-1"
+
+[deps]
+blas-1-1 = "blas"
+lapack-3-2 = "lapack"
+mpi-1-1 = "mpi"

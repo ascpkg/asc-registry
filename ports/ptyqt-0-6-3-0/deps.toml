@@ -1,0 +1,8 @@
+old = "ptyqt"
+new = "ptyqt-0-6-3-0"
+
+[deps]
+qt5-base-5-15-2-14 = "qt5-base"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-11-01-0 = "vcpkg-cmake-config"
+winpty-0-4-3-0 = "winpty"

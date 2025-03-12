@@ -1,0 +1,9 @@
+old = "libhdfs3"
+new = "libhdfs3-2019-11-05-5"
+
+[deps]
+boost-1-82-0-2 = "boost"
+libuuid-1-0-3-14 = "libuuid"
+libxml2-2-10-3-1 = "libxml2"
+protobuf-3-21-12-0 = "protobuf"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

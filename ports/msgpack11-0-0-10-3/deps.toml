@@ -1,0 +1,5 @@
+old = "msgpack11"
+new = "msgpack11-0-0-10-3"
+
+[deps]
+gtest-1-11-0-1 = "gtest"

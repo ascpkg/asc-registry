@@ -1,0 +1,32 @@
+{
+  "name": "lcms",
+  "version": "2.16",
+  "description": "Little CMS.",
+  "homepage": "https://github.com/mm2/Little-CMS",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "vcpkg-tool-meson",
+      "host": true
+    }
+  ],
+  "features": {
+    "fastfloat": {
+      "description": "Build the fast float plugin",
+      "supports": "!(x86 & windows)"
+    },
+    "threaded": {
+      "description": "Build the multi threaded plugin"
+    },
+    "tools": {
+      "description": "Build the utilities",
+      "dependencies": [
+        "libjpeg-turbo",
+        {
+          "name": "tiff",
+          "default-features": false
+        }
+      ]
+    }
+  }
+}

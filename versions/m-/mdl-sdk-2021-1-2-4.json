@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/mdl-sdk-2021-1-2-4",
+      "version": "2021.1.2",
+      "port-version": 4
+    }
+  ]
+}

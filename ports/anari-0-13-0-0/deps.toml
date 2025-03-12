@@ -1,0 +1,8 @@
+old = "anari"
+new = "anari-0-13-0-0"
+
+[deps]
+glm-1-0-1-3 = "glm"
+python3-3-11-11-0 = "python3"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

@@ -1,0 +1,5 @@
+old = "pthreads"
+new = "pthreads-3-0-0-14"
+
+[deps]
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

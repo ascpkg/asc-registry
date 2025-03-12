@@ -1,0 +1,7 @@
+old = "qca"
+new = "qca-2-3-1-4"
+
+[deps]
+qt5-base-5-15-2-11 = "qt5-base"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"

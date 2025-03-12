@@ -1,0 +1,7 @@
+old = "gst-rtsp-server"
+new = "gst-rtsp-server-1-20-4-0"
+
+[deps]
+glib-2-74-1-0 = "glib"
+gstreamer-1-20-4-0 = "gstreamer"
+vcpkg-tool-meson-0-63-0 = "vcpkg-tool-meson"

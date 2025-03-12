@@ -1,0 +1,5 @@
+old = "vcpkg-pkgconfig-get-modules"
+new = "vcpkg-pkgconfig-get-modules-2023-09-06-0"
+
+[deps]
+pkgconf-1-8-0-5 = "pkgconf"

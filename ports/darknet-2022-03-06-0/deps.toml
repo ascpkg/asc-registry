@@ -1,0 +1,14 @@
+old = "darknet"
+new = "darknet-2022-03-06-0"
+
+[deps]
+cuda-10-1-10 = "cuda"
+cudnn-7-6-5-5 = "cudnn"
+darknet-2022-03-06-0 = "darknet"
+opencv-4-5-5-0 = "opencv"
+opencv2-2-4-13-7-10 = "opencv2"
+opencv3-3-4-16-5 = "opencv3"
+pthreads-3-0-0-10 = "pthreads"
+stb-2020-09-14-1 = "stb"
+vcpkg-cmake-2022-02-14-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"

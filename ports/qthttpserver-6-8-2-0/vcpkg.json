@@ -1,0 +1,16 @@
+{
+  "name": "qthttpserver",
+  "version": "6.8.2",
+  "description": "Qt HTTP Server supports building HTTP server functionality into an application.",
+  "homepage": "https://www.qt.io/",
+  "dependencies": [
+    {
+      "name": "qtbase",
+      "default-features": false,
+      "features": [
+        "concurrent",
+        "network"
+      ]
+    }
+  ]
+}

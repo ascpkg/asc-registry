@@ -1,0 +1,11 @@
+old = "libshout"
+new = "libshout-2-4-6-0"
+
+[deps]
+libogg-1-3-5-1 = "libogg"
+libtheora-1-2-0alpha1-20170719-7 = "libtheora"
+libvorbis-1-3-7-3 = "libvorbis"
+openssl-3-4-0-2 = "openssl"
+pthread-3-0-0-2 = "pthread"
+speex-1-2-1-1 = "speex"
+vcpkg-make-2025-01-13-1 = "vcpkg-make"

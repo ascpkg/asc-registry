@@ -1,0 +1,8 @@
+old = "ismrmrd"
+new = "ismrmrd-1-13-7-0"
+
+[deps]
+hdf5-1-14-0-1 = "hdf5"
+pugixml-1-13-0-0 = "pugixml"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

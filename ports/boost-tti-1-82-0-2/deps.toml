@@ -1,0 +1,10 @@
+old = "boost-tti"
+new = "boost-tti-1-82-0-2"
+
+[deps]
+boost-config-1-82-0-2 = "boost-config"
+boost-function-types-1-82-0-2 = "boost-function-types"
+boost-mpl-1-82-0-2 = "boost-mpl"
+boost-preprocessor-1-82-0-2 = "boost-preprocessor"
+boost-type-traits-1-82-0-2 = "boost-type-traits"
+boost-vcpkg-helpers-1-82-0-2 = "boost-vcpkg-helpers"

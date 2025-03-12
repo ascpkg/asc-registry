@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/arpack-ng-3-9-0-1",
+      "version": "3.9.0",
+      "port-version": 1
+    }
+  ]
+}

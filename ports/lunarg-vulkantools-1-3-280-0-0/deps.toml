@@ -1,0 +1,12 @@
+old = "lunarg-vulkantools"
+new = "lunarg-vulkantools-1-3-280-0-0"
+
+[deps]
+jsoncpp-1-9-5-3 = "jsoncpp"
+qt5-base-5-15-13-1 = "qt5-base"
+valijson-1-0-1-0 = "valijson"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+vcpkg-get-python-packages-2024-01-24-0 = "vcpkg-get-python-packages"
+vulkan-loader-1-3-280-0-0 = "vulkan-loader"
+vulkan-utility-libraries-1-3-280-0-0 = "vulkan-utility-libraries"

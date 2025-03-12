@@ -1,0 +1,11 @@
+old = "librdkafka"
+new = "librdkafka-2-0-2-0"
+
+[deps]
+curl-7-87-0-1 = "curl"
+lz4-1-9-4-1 = "lz4"
+openssl-3-0-8-0 = "openssl"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-2-13-0 = "zlib"
+zstd-1-5-4-0 = "zstd"

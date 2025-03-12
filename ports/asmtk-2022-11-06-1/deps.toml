@@ -1,0 +1,7 @@
+old = "asmtk"
+new = "asmtk-2022-11-06-1"
+
+[deps]
+asmjit-2023-03-25-0 = "asmjit"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

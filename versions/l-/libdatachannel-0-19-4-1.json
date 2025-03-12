@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libdatachannel-0-19-4-1",
+      "version-semver": "0.19.4",
+      "port-version": 1
+    }
+  ]
+}

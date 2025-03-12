@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/blosc-1-21-3-0",
+      "version": "1.21.3",
+      "port-version": 0
+    }
+  ]
+}

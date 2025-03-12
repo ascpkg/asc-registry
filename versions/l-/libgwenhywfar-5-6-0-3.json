@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libgwenhywfar-5-6-0-3",
+      "version-semver": "5.6.0",
+      "port-version": 3
+    }
+  ]
+}

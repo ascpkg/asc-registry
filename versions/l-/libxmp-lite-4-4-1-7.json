@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libxmp-lite-4-4-1-7",
+      "version-string": "4.4.1",
+      "port-version": 7
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libnick-2024-8-3-0",
+      "version": "2024.8.3",
+      "port-version": 0
+    }
+  ]
+}

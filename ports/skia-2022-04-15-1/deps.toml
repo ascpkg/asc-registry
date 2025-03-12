@@ -1,0 +1,15 @@
+old = "skia"
+new = "skia-2022-04-15-1"
+
+[deps]
+expat-2-4-8-1 = "expat"
+fontconfig-2-14-0-2 = "fontconfig"
+freetype-2-12-1-0 = "freetype"
+harfbuzz-4-2-0-1 = "harfbuzz"
+icu-71-1-0 = "icu"
+libjpeg-turbo-2-1-3-3 = "libjpeg-turbo"
+libpng-1-6-37-18 = "libpng"
+libwebp-1-2-2-0 = "libwebp"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+vcpkg-tool-gn-2022-04-16-0 = "vcpkg-tool-gn"
+zlib-1-2-12-1 = "zlib"

@@ -1,0 +1,7 @@
+old = "xcb-util"
+new = "xcb-util-0-4-0-0"
+
+[deps]
+xcb-1-14-0 = "xcb"
+xcb-util-m4-2022-01-24-0 = "xcb-util-m4"
+xorg-macros-1-19-3-0 = "xorg-macros"

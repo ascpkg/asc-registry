@@ -1,0 +1,10 @@
+old = "restinio"
+new = "restinio-0-7-3-0"
+
+[deps]
+asio-1-32-0-0 = "asio"
+expected-lite-0-8-0-0 = "expected-lite"
+fmt-11-0-2-1 = "fmt"
+llhttp-9-2-1-0 = "llhttp"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

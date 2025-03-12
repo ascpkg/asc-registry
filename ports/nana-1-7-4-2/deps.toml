@@ -1,0 +1,8 @@
+old = "nana"
+new = "nana-1-7-4-2"
+
+[deps]
+fontconfig-2-13-1-7 = "fontconfig"
+freetype-2-10-4-0 = "freetype"
+libjpeg-turbo-2-0-6-0 = "libjpeg-turbo"
+libpng-1-6-37-15 = "libpng"

@@ -1,0 +1,9 @@
+old = "proj4"
+new = "proj4-8-1-1-0"
+
+[deps]
+curl-7-80-0-0 = "curl"
+sqlite3-3-37-0-0 = "sqlite3"
+tiff-4-3-0-2 = "tiff"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-01-0 = "vcpkg-cmake-config"

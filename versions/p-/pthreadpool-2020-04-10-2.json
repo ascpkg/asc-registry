@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/pthreadpool-2020-04-10-2",
+      "version-date": "2020-04-10",
+      "port-version": 2
+    }
+  ]
+}

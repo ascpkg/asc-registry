@@ -1,0 +1,11 @@
+old = "tensorpipe"
+new = "tensorpipe-2022-03-16-1"
+
+[deps]
+cuda-10-1-10 = "cuda"
+gtest-1-12-1-0 = "gtest"
+libnop-2021-03-01-0 = "libnop"
+libuv-1-44-1-0 = "libuv"
+pybind11-2-9-2-0 = "pybind11"
+vcpkg-cmake-2022-07-02-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

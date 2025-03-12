@@ -1,0 +1,9 @@
+old = "mesa"
+new = "mesa-21-2-0-0"
+
+[deps]
+llvm-12-0-1-0 = "llvm"
+mesa-21-2-0-0 = "mesa"
+tool-meson-0-58-1-0 = "tool-meson"
+zlib-1-2-11-11 = "zlib"
+zstd-1-5-0-0 = "zstd"

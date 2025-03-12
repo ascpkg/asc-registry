@@ -1,0 +1,5 @@
+old = "gz-gui7"
+new = "gz-gui7-7-2-1-1"
+
+[deps]
+gz-gui-7-2-1-0 = "gz-gui"

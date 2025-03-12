@@ -1,0 +1,7 @@
+old = "apr-util"
+new = "apr-util-1-6-1-4"
+
+[deps]
+apr-1-7-0-4 = "apr"
+expat-2-4-1-0 = "expat"
+openssl-1-1-1l-1 = "openssl"

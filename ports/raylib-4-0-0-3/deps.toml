@@ -1,0 +1,7 @@
+old = "raylib"
+new = "raylib-4-0-0-3"
+
+[deps]
+glfw3-3-3-6-0 = "glfw3"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"

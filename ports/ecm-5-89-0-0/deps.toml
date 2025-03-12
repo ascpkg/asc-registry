@@ -1,0 +1,5 @@
+old = "ecm"
+new = "ecm-5-89-0-0"
+
+[deps]
+vcpkg-cmake-2021-12-05-0 = "vcpkg-cmake"

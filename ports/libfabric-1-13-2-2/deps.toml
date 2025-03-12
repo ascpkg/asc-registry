@@ -1,0 +1,6 @@
+old = "libfabric"
+new = "libfabric-1-13-2-2"
+
+[deps]
+networkdirect-sdk-2-0-1-4 = "networkdirect-sdk"
+vcpkg-msbuild-2023-08-08-0 = "vcpkg-msbuild"

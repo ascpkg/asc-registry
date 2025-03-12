@@ -1,0 +1,18 @@
+old = "mdl-sdk"
+new = "mdl-sdk-2021-1-2-0"
+
+[deps]
+boost-algorithm-1-80-0-0 = "boost-algorithm"
+boost-any-1-80-0-0 = "boost-any"
+boost-bind-1-80-0-0 = "boost-bind"
+boost-core-1-80-0-0 = "boost-core"
+boost-function-1-80-0-0 = "boost-function"
+boost-functional-1-80-0-0 = "boost-functional"
+boost-smart-ptr-1-80-0-0 = "boost-smart-ptr"
+boost-tokenizer-1-80-0-0 = "boost-tokenizer"
+boost-unordered-1-80-0-0 = "boost-unordered"
+boost-uuid-1-80-0-0 = "boost-uuid"
+freeimage-3-18-0-24 = "freeimage"
+opengl-2022-03-14-1 = "opengl"
+vcpkg-cmake-2022-09-26-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

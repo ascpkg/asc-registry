@@ -1,0 +1,5 @@
+old = "libmicrohttpd"
+new = "libmicrohttpd-0-9-77-0"
+
+[deps]
+libgnutls-3-7-8-0 = "libgnutls"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/asmjit-2021-10-26-1",
+      "version-date": "2021-10-26",
+      "port-version": 1
+    }
+  ]
+}

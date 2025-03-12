@@ -1,0 +1,2 @@
+old = "egl-registry"
+new = "egl-registry-2022-09-20-0"

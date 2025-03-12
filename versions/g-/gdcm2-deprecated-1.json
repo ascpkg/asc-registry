@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gdcm2-deprecated-1",
+      "version-string": "deprecated",
+      "port-version": 1
+    }
+  ]
+}

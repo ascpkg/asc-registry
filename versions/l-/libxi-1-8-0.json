@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libxi-1-8-0",
+      "version": "1.8",
+      "port-version": 0
+    }
+  ]
+}

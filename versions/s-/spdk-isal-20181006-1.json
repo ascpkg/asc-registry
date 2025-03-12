@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/spdk-isal-20181006-1",
+      "version-string": "20181006",
+      "port-version": 1
+    }
+  ]
+}

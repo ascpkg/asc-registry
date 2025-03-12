@@ -1,0 +1,14 @@
+old = "daxa"
+new = "daxa-2-0-0-0"
+
+[deps]
+fmt-10-1-0-0 = "fmt"
+glslang-12-2-0-1 = "glslang"
+imgui-1-89-7-1 = "imgui"
+spirv-tools-2022-4-1 = "spirv-tools"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+vulkan-1-1-82-1-6 = "vulkan"
+vulkan-headers-1-3-260-0 = "vulkan-headers"
+vulkan-memory-allocator-3-0-1-3 = "vulkan-memory-allocator"
+wayland-1-21-0-1 = "wayland"

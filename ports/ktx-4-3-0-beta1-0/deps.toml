@@ -1,0 +1,7 @@
+old = "ktx"
+new = "ktx-4-3-0-beta1-0"
+
+[deps]
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zstd-1-5-5-2 = "zstd"

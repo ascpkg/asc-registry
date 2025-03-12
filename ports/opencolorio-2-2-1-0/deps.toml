@@ -1,0 +1,13 @@
+old = "opencolorio"
+new = "opencolorio-2-2-1-0"
+
+[deps]
+expat-2-5-0-3 = "expat"
+glew-2-2-0-3 = "glew"
+imath-3-1-9-1 = "imath"
+lcms-2-14-0 = "lcms"
+minizip-ng-4-0-0-2 = "minizip-ng"
+pystring-1-1-4-0 = "pystring"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+yaml-cpp-0-7-0-1 = "yaml-cpp"

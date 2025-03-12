@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/simbody-2023-01-10-1",
+      "version-date": "2023-01-10",
+      "port-version": 1
+    }
+  ]
+}

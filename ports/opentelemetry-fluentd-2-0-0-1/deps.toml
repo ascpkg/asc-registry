@@ -1,0 +1,9 @@
+old = "opentelemetry-fluentd"
+new = "opentelemetry-fluentd-2-0-0-1"
+
+[deps]
+curl-8-4-0-0 = "curl"
+nlohmann-json-3-11-2-0 = "nlohmann-json"
+opentelemetry-cpp-1-12-0-0 = "opentelemetry-cpp"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

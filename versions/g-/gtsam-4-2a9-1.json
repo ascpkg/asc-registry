@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gtsam-4-2a9-1",
+      "version-string": "4.2a9",
+      "port-version": 1
+    }
+  ]
+}

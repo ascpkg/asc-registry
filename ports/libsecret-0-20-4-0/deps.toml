@@ -1,0 +1,6 @@
+old = "libsecret"
+new = "libsecret-0-20-4-0"
+
+[deps]
+glib-2-66-4-1 = "glib"
+libgcrypt-1-9-4-0 = "libgcrypt"

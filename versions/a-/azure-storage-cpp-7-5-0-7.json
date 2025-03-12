@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/azure-storage-cpp-7-5-0-7",
+      "version": "7.5.0",
+      "port-version": 7
+    }
+  ]
+}

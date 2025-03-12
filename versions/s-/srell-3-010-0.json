@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/srell-3-010-0",
+      "version-string": "3.010",
+      "port-version": 0
+    }
+  ]
+}

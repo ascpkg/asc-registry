@@ -1,0 +1,12 @@
+old = "libfreenect2"
+new = "libfreenect2-0-2-0-10"
+
+[deps]
+glfw3-3-3-8-2 = "glfw3"
+libjpeg-turbo-2-1-5-1-1 = "libjpeg-turbo"
+libusb-1-0-26-11791-0 = "libusb"
+opencl-v2023-02-06-2 = "opencl"
+opengl-2022-12-04-3 = "opengl"
+openni2-2-2-0-33-14 = "openni2"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/jsonifier-0-9-95-0",
+      "version": "0.9.95",
+      "port-version": 0
+    }
+  ]
+}

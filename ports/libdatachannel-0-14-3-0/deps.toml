@@ -1,0 +1,9 @@
+old = "libdatachannel"
+new = "libdatachannel-0-14-3-0"
+
+[deps]
+libjuice-0-8-4-0 = "libjuice"
+libsrtp-2-2-0-0 = "libsrtp"
+openssl-1-1-1l-0 = "openssl"
+plog-1-1-5-0 = "plog"
+usrsctp-0db9691-0 = "usrsctp"

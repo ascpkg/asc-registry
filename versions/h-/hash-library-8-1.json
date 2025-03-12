@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/hash-library-8-1",
+      "version": "8",
+      "port-version": 1
+    }
+  ]
+}

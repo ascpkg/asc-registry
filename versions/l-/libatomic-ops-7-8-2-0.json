@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libatomic-ops-7-8-2-0",
+      "version": "7.8.2",
+      "port-version": 0
+    }
+  ]
+}

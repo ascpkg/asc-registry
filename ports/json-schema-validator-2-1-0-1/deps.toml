@@ -1,0 +1,5 @@
+old = "json-schema-validator"
+new = "json-schema-validator-2-1-0-1"
+
+[deps]
+nlohmann-json-3-10-2-0 = "nlohmann-json"

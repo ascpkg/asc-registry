@@ -1,0 +1,5 @@
+old = "gul14"
+new = "gul14-2-6-0"
+
+[deps]
+vcpkg-tool-meson-0-62-1-0 = "vcpkg-tool-meson"

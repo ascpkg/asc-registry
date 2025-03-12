@@ -1,0 +1,8 @@
+old = "qlementine"
+new = "qlementine-1-1-2-0"
+
+[deps]
+qtbase-6-8-2-1 = "qtbase"
+qtsvg-6-8-2-0 = "qtsvg"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

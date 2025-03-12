@@ -1,0 +1,7 @@
+old = "cblas"
+new = "cblas-2024-03-19-0"
+
+[deps]
+lapack-reference-3-11-0-3 = "lapack-reference"
+openblas-0-3-26-3 = "openblas"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

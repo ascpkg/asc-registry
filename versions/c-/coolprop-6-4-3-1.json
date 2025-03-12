@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/coolprop-6-4-3-1",
+      "version-semver": "6.4.3",
+      "port-version": 1
+    }
+  ]
+}

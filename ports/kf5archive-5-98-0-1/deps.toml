@@ -1,0 +1,12 @@
+old = "kf5archive"
+new = "kf5archive-5-98-0-1"
+
+[deps]
+bzip2-1-0-8-4 = "bzip2"
+ecm-5-98-0-0 = "ecm"
+liblzma-5-4-3-0 = "liblzma"
+qt5-base-5-15-10-1 = "qt5-base"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-2-13-0 = "zlib"
+zstd-1-5-5-0 = "zstd"

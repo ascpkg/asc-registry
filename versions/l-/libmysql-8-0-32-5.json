@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libmysql-8-0-32-5",
+      "version": "8.0.32",
+      "port-version": 5
+    }
+  ]
+}

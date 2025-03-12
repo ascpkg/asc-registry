@@ -1,0 +1,6 @@
+old = "cld3"
+new = "cld3-3-0-14-0"
+
+[deps]
+protobuf-3-21-12-0 = "protobuf"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

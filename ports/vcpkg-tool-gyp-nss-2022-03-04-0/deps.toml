@@ -1,0 +1,2 @@
+old = "vcpkg-tool-gyp-nss"
+new = "vcpkg-tool-gyp-nss-2022-03-04-0"

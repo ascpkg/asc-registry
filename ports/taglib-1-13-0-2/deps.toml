@@ -1,0 +1,6 @@
+old = "taglib"
+new = "taglib-1-13-0-2"
+
+[deps]
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+zlib-1-2-13-0 = "zlib"

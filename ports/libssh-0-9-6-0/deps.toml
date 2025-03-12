@@ -1,0 +1,10 @@
+old = "libssh"
+new = "libssh-0-9-6-0"
+
+[deps]
+libssh-0-9-6-0 = "libssh"
+mbedtls-2-24-0-3 = "mbedtls"
+openssl-1-1-1l-1 = "openssl"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"
+zlib-1-2-11-12 = "zlib"

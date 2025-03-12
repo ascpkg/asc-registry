@@ -1,0 +1,7 @@
+old = "vcpkg-msbuild"
+new = "vcpkg-msbuild-2023-08-08-0"
+
+[deps]
+pkgconf-1-8-0-5 = "pkgconf"
+vcpkg-cmake-get-vars-2023-03-02-0 = "vcpkg-cmake-get-vars"
+vcpkg-pkgconfig-get-modules-2023-02-25-0 = "vcpkg-pkgconfig-get-modules"

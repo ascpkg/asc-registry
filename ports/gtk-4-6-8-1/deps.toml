@@ -1,0 +1,15 @@
+old = "gtk"
+new = "gtk-4-6-8-1"
+
+[deps]
+atk-2-38-0-5 = "atk"
+cairo-1-17-6-4 = "cairo"
+gdk-pixbuf-2-42-9-5 = "gdk-pixbuf"
+gettext-0-21-9 = "gettext"
+glib-2-75-1-0 = "glib"
+gobject-introspection-1-72-0-1 = "gobject-introspection"
+graphene-1-10-8-1 = "graphene"
+libepoxy-1-5-10-1 = "libepoxy"
+pango-1-50-12-2 = "pango"
+sassc-3-6-2-0 = "sassc"
+vcpkg-tool-meson-0-63-0 = "vcpkg-tool-meson"

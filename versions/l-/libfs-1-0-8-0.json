@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libfs-1-0-8-0",
+      "version": "1.0.8",
+      "port-version": 0
+    }
+  ]
+}

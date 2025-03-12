@@ -1,0 +1,5 @@
+old = "pkgconf"
+new = "pkgconf-2-3-0-0"
+
+[deps]
+vcpkg-tool-meson-1-5-1-0 = "vcpkg-tool-meson"

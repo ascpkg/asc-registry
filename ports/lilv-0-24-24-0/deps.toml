@@ -1,0 +1,9 @@
+old = "lilv"
+new = "lilv-0-24-24-0"
+
+[deps]
+lv2-1-18-10-1 = "lv2"
+serd-0-32-2-0 = "serd"
+sord-0-16-16-0 = "sord"
+sratom-0-6-16-1 = "sratom"
+vcpkg-tool-meson-1-6-0-0 = "vcpkg-tool-meson"

@@ -1,0 +1,8 @@
+old = "xmlsec"
+new = "xmlsec-1-2-33-0"
+
+[deps]
+libxml2-2-9-12-5 = "libxml2"
+openssl-1-1-1n-0 = "openssl"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"

@@ -1,0 +1,6 @@
+old = "stormlib"
+new = "stormlib-2019-05-10-3"
+
+[deps]
+bzip2-1-0-8-2 = "bzip2"
+zlib-1-2-11-12 = "zlib"

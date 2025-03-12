@@ -1,0 +1,9 @@
+old = "luasec"
+new = "luasec-1-3-2-2"
+
+[deps]
+lua-5-4-6-0 = "lua"
+luasocket-3-1-0-1 = "luasocket"
+openssl-3-3-0-0 = "openssl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

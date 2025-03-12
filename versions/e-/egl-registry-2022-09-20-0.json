@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/egl-registry-2022-09-20-0",
+      "version-date": "2022-09-20",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/vamp-sdk-2-10-5",
+      "version": "2.10",
+      "port-version": 5
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+old = "blas"
+new = "blas-1-1"
+
+[deps]
+openblas-0-3-15-0 = "openblas"

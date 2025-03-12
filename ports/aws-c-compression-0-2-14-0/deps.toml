@@ -1,0 +1,7 @@
+old = "aws-c-compression"
+new = "aws-c-compression-0-2-14-0"
+
+[deps]
+aws-c-common-0-6-9-0 = "aws-c-common"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"

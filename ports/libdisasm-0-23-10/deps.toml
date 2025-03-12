@@ -1,0 +1,5 @@
+old = "libdisasm"
+new = "libdisasm-0-23-10"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

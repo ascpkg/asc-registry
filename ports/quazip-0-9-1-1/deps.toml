@@ -1,0 +1,6 @@
+old = "quazip"
+new = "quazip-0-9-1-1"
+
+[deps]
+qt5-base-5-15-2-10 = "qt5-base"
+zlib-1-2-11-12 = "zlib"

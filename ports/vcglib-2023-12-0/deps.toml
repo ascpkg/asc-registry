@@ -1,0 +1,5 @@
+old = "vcglib"
+new = "vcglib-2023-12-0"
+
+[deps]
+eigen3-3-4-0-4 = "eigen3"

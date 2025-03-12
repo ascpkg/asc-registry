@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qt5-modularscripts-deprecated-1",
+      "version-string": "deprecated",
+      "port-version": 1
+    }
+  ]
+}

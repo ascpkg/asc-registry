@@ -1,0 +1,5 @@
+old = "libpopt"
+new = "libpopt-1-16-15"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

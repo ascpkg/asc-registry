@@ -1,0 +1,8 @@
+old = "kf5syntaxhighlighting"
+new = "kf5syntaxhighlighting-5-84-0-0"
+
+[deps]
+ecm-5-84-0-0 = "ecm"
+qt5-base-5-15-2-9 = "qt5-base"
+qt5-tools-5-15-2-0 = "qt5-tools"
+qt5-xmlpatterns-5-15-2-0 = "qt5-xmlpatterns"

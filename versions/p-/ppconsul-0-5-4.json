@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ppconsul-0-5-4",
+      "version-string": "0.5",
+      "port-version": 4
+    }
+  ]
+}

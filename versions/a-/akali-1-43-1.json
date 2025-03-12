@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/akali-1-43-1",
+      "version": "1.43",
+      "port-version": 1
+    }
+  ]
+}

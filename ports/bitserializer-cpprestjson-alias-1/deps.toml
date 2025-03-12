@@ -1,0 +1,5 @@
+old = "bitserializer-cpprestjson"
+new = "bitserializer-cpprestjson-alias-1"
+
+[deps]
+bitserializer-0-10-1 = "bitserializer"

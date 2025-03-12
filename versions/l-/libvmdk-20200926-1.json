@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libvmdk-20200926-1",
+      "version-string": "20200926",
+      "port-version": 1
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+old = "aws-c-event-stream"
+new = "aws-c-event-stream-0-4-2-0"
+
+[deps]
+aws-c-common-0-9-12-0 = "aws-c-common"
+aws-c-io-0-14-3-0 = "aws-c-io"
+aws-checksums-0-1-18-0 = "aws-checksums"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

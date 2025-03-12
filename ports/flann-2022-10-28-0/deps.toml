@@ -1,0 +1,9 @@
+old = "flann"
+new = "flann-2022-10-28-0"
+
+[deps]
+cuda-10-1-13 = "cuda"
+hdf5-1-14-4-3-4 = "hdf5"
+lz4-1-10-0-0 = "lz4"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

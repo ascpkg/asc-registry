@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libwebp-1-1-0-4",
+      "version-string": "1.1.0",
+      "port-version": 4
+    }
+  ]
+}

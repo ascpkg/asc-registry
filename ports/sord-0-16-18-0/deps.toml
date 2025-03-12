@@ -1,0 +1,8 @@
+old = "sord"
+new = "sord-0-16-18-0"
+
+[deps]
+pcre2-10-43-0 = "pcre2"
+serd-0-32-4-0 = "serd"
+vcpkg-tool-meson-1-6-1-0 = "vcpkg-tool-meson"
+zix-0-6-2-0 = "zix"

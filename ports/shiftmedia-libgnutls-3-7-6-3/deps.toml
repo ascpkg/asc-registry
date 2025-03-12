@@ -1,0 +1,12 @@
+old = "shiftmedia-libgnutls"
+new = "shiftmedia-libgnutls-3-7-6-3"
+
+[deps]
+gettext-0-21-1-2 = "gettext"
+gmp-6-2-1-19 = "gmp"
+libidn2-2-3-4-2 = "libidn2"
+libtasn1-4-19-0-1 = "libtasn1"
+nettle-3-8-1-1 = "nettle"
+vs-yasm-0-5-0-2 = "vs-yasm"
+yasm-tool-helper-2020-03-11-1 = "yasm-tool-helper"
+zlib-1-2-13-0 = "zlib"

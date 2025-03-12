@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/tgui-1-7-0-0",
+      "version": "1.7.0",
+      "port-version": 0
+    }
+  ]
+}

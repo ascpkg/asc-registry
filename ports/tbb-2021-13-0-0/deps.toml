@@ -1,0 +1,7 @@
+old = "tbb"
+new = "tbb-2021-13-0-0"
+
+[deps]
+hwloc-2-10-0-1 = "hwloc"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

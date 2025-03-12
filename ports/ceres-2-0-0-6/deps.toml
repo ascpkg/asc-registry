@@ -1,0 +1,12 @@
+old = "ceres"
+new = "ceres-2-0-0-6"
+
+[deps]
+ceres-2-0-0-6 = "ceres"
+eigen3-3-3-9-1 = "eigen3"
+gflags-2-2-2-5 = "gflags"
+glog-0-4-0-4 = "glog"
+lapack-3-2 = "lapack"
+suitesparse-5-8-0-1 = "suitesparse"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-01-30-0 = "vcpkg-cmake-config"

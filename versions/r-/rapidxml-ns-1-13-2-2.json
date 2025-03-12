@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/rapidxml-ns-1-13-2-2",
+      "version": "1.13.2",
+      "port-version": 2
+    }
+  ]
+}

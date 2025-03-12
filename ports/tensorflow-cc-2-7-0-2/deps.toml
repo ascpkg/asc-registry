@@ -1,0 +1,5 @@
+old = "tensorflow-cc"
+new = "tensorflow-cc-2-7-0-2"
+
+[deps]
+tensorflow-common-2-7-0-2 = "tensorflow-common"

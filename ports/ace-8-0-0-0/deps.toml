@@ -1,0 +1,8 @@
+old = "ace"
+new = "ace-8-0-0-0"
+
+[deps]
+openssl-3-3-0-1 = "openssl"
+vcpkg-msbuild-2023-08-08-0 = "vcpkg-msbuild"
+xerces-c-3-2-5-0 = "xerces-c"
+zlib-1-3-1-0 = "zlib"

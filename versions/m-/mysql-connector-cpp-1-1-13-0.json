@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/mysql-connector-cpp-1-1-13-0",
+      "version": "1.1.13",
+      "port-version": 0
+    }
+  ]
+}

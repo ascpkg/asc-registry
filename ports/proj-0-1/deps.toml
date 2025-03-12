@@ -1,0 +1,5 @@
+old = "proj"
+new = "proj-0-1"
+
+[deps]
+proj4-7-2-1-5 = "proj4"

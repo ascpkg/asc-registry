@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/directxsdk-jun10-6",
+      "version-string": "jun10",
+      "port-version": 6
+    }
+  ]
+}

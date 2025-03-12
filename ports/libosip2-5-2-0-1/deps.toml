@@ -1,0 +1,5 @@
+old = "libosip2"
+new = "libosip2-5-2-0-1"
+
+[deps]
+pthread-3-0-0-1 = "pthread"

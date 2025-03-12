@@ -1,0 +1,14 @@
+old = "gz-physics"
+new = "gz-physics-6-5-1-0"
+
+[deps]
+bullet3-3-25-3 = "bullet3"
+dartsim-6-15-0-3 = "dartsim"
+eigen3-3-4-0-5 = "eigen3"
+gz-cmake-3-4-1-0 = "gz-cmake"
+gz-common-5-4-1-0 = "gz-common"
+gz-math-7-3-0-0 = "gz-math"
+gz-plugin-2-0-1-0 = "gz-plugin"
+gz-utils-2-0-0-0 = "gz-utils"
+ignition-modularscripts-2025-02-27-0 = "ignition-modularscripts"
+sdformat-13-6-0-0 = "sdformat"

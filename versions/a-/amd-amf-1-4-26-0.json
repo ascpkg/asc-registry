@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/amd-amf-1-4-26-0",
+      "version": "1.4.26",
+      "port-version": 0
+    }
+  ]
+}

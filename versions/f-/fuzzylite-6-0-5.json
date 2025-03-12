@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/fuzzylite-6-0-5",
+      "version": "6.0",
+      "port-version": 5
+    }
+  ]
+}

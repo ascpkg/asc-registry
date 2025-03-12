@@ -1,0 +1,14 @@
+old = "highfive"
+new = "highfive-2-10-1-0"
+
+[deps]
+boost-multi-array-1-86-0-0 = "boost-multi-array"
+boost-serialization-1-86-0-0 = "boost-serialization"
+boost-system-1-86-0-0 = "boost-system"
+boost-ublas-1-86-0-0 = "boost-ublas"
+catch2-3-8-0-0 = "catch2"
+eigen3-3-4-0-5 = "eigen3"
+hdf5-1-14-4-3-4 = "hdf5"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
+xtensor-0-25-0-0 = "xtensor"

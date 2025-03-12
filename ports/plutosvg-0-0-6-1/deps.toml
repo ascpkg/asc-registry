@@ -1,0 +1,8 @@
+old = "plutosvg"
+new = "plutosvg-0-0-6-1"
+
+[deps]
+freetype-2-13-3-0 = "freetype"
+plutovg-1-0-0-0 = "plutovg"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

@@ -1,0 +1,6 @@
+old = "sassc"
+new = "sassc-3-6-2-1"
+
+[deps]
+getopt-0-3 = "getopt"
+libsass-3-6-6-0 = "libsass"

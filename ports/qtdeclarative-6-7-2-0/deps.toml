@@ -1,0 +1,9 @@
+old = "qtdeclarative"
+new = "qtdeclarative-6-7-2-0"
+
+[deps]
+qtbase-6-7-2-0 = "qtbase"
+qtdeclarative-6-7-2-0 = "qtdeclarative"
+qtlanguageserver-6-7-2-0 = "qtlanguageserver"
+qtshadertools-6-7-2-0 = "qtshadertools"
+qtsvg-6-7-2-0 = "qtsvg"

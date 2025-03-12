@@ -1,0 +1,5 @@
+old = "libodb-boost"
+new = "libodb-boost-2-4-0-4"
+
+[deps]
+libodb-2-4-0-8 = "libodb"

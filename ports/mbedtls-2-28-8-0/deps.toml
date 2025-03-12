@@ -1,0 +1,7 @@
+old = "mbedtls"
+new = "mbedtls-2-28-8-0"
+
+[deps]
+pthreads-3-0-0-14 = "pthreads"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

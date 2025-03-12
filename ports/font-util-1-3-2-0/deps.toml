@@ -1,0 +1,5 @@
+old = "font-util"
+new = "font-util-1-3-2-0"
+
+[deps]
+xorg-macros-1-19-3-0 = "xorg-macros"

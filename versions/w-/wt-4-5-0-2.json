@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/wt-4-5-0-2",
+      "version-string": "4.5.0",
+      "port-version": 2
+    }
+  ]
+}

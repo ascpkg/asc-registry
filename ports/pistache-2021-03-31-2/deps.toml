@@ -1,0 +1,5 @@
+old = "pistache"
+new = "pistache-2021-03-31-2"
+
+[deps]
+rapidjson-2020-09-14-1 = "rapidjson"

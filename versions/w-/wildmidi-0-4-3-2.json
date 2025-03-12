@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/wildmidi-0-4-3-2",
+      "version-string": "0.4.3",
+      "port-version": 2
+    }
+  ]
+}

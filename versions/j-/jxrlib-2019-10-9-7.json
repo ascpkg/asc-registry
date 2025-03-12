@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/jxrlib-2019-10-9-7",
+      "version": "2019.10.9",
+      "port-version": 7
+    }
+  ]
+}

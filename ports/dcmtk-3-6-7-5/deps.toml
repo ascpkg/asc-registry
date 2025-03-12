@@ -1,0 +1,13 @@
+old = "dcmtk"
+new = "dcmtk-3-6-7-5"
+
+[deps]
+icu-73-1-0 = "icu"
+libiconv-1-17-1 = "libiconv"
+libpng-1-6-39-1 = "libpng"
+libxml2-2-10-3-1 = "libxml2"
+openssl-3-1-1-0 = "openssl"
+tiff-4-5-0-3 = "tiff"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-2-13-0 = "zlib"

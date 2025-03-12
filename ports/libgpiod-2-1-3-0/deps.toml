@@ -1,0 +1,5 @@
+old = "libgpiod"
+new = "libgpiod-2-1-3-0"
+
+[deps]
+vcpkg-cmake-get-vars-2024-09-22-0 = "vcpkg-cmake-get-vars"

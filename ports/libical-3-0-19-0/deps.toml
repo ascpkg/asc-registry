@@ -1,0 +1,7 @@
+old = "libical"
+new = "libical-3-0-19-0"
+
+[deps]
+icu-74-2-4 = "icu"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

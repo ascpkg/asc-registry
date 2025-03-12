@@ -1,0 +1,5 @@
+old = "dbow2"
+new = "dbow2-2019-08-05-1"
+
+[deps]
+opencv-4-5-3-0 = "opencv"

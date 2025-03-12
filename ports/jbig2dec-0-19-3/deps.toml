@@ -1,0 +1,5 @@
+old = "jbig2dec"
+new = "jbig2dec-0-19-3"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

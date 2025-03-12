@@ -1,0 +1,7 @@
+old = "cpp-httplib"
+new = "cpp-httplib-0-13-1-0"
+
+[deps]
+brotli-1-0-9-5 = "brotli"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

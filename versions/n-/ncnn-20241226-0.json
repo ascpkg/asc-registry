@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ncnn-20241226-0",
+      "version": "20241226",
+      "port-version": 0
+    }
+  ]
+}

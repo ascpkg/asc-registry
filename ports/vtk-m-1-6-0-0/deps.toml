@@ -1,0 +1,7 @@
+old = "vtk-m"
+new = "vtk-m-1-6-0-0"
+
+[deps]
+cuda-10-1-7 = "cuda"
+mpi-1-0 = "mpi"
+tbb-2020-u3-5 = "tbb"

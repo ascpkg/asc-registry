@@ -1,0 +1,5 @@
+old = "libffi"
+new = "libffi-3-4-7-1"
+
+[deps]
+vcpkg-cmake-get-vars-2024-09-22-0 = "vcpkg-cmake-get-vars"

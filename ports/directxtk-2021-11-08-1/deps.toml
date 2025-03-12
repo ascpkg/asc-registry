@@ -1,0 +1,8 @@
+old = "directxtk"
+new = "directxtk-2021-11-08-1"
+
+[deps]
+directxmath-jan2021-1 = "directxmath"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"
+xaudio2redist-1-2-8-1 = "xaudio2redist"

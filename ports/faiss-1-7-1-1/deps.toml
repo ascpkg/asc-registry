@@ -1,0 +1,9 @@
+old = "faiss"
+new = "faiss-1-7-1-1"
+
+[deps]
+cuda-10-1-8 = "cuda"
+lapack-3-2 = "lapack"
+openblas-0-3-19-0 = "openblas"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"

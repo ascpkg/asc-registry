@@ -1,0 +1,10 @@
+old = "ggml"
+new = "ggml-2025-02-12-0"
+
+[deps]
+blas-2023-04-14-2 = "blas"
+cuda-10-1-13 = "cuda"
+opencl-2024-10-24-0 = "opencl"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
+vulkan-sdk-components-1-4-304-1-0 = "vulkan-sdk-components"

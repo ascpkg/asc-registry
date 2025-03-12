@@ -1,0 +1,13 @@
+old = "graphicsmagick"
+new = "graphicsmagick-1-3-41-1"
+
+[deps]
+bzip2-1-0-8-5 = "bzip2"
+freetype-2-13-2-1 = "freetype"
+libjpeg-turbo-3-0-2-0 = "libjpeg-turbo"
+libpng-1-6-43-1 = "libpng"
+libwebp-1-4-0-1 = "libwebp"
+tiff-4-6-0-4 = "tiff"
+vcpkg-cmake-2024-04-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-3-1-0 = "zlib"

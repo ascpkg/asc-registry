@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ismrmrd-1-13-7-0",
+      "version": "1.13.7",
+      "port-version": 0
+    }
+  ]
+}

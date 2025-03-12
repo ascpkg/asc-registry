@@ -1,0 +1,5 @@
+old = "ableton"
+new = "ableton-3-0-6-2"
+
+[deps]
+ableton-link-3-0-6-0 = "ableton-link"

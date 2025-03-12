@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/aubio-0-4-9-7",
+      "version-semver": "0.4.9",
+      "port-version": 7
+    }
+  ]
+}

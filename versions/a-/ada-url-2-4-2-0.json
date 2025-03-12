@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ada-url-2-4-2-0",
+      "version": "2.4.2",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+old = "cccapstone"
+new = "cccapstone-9b4128ee1153e78288a1b5433e2c06a0d47a4c4e-2"
+
+[deps]
+capstone-4-0-2-2 = "capstone"

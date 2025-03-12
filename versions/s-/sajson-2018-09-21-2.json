@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/sajson-2018-09-21-2",
+      "version-string": "2018-09-21",
+      "port-version": 2
+    }
+  ]
+}

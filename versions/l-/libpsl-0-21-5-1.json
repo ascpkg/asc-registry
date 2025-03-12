@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libpsl-0-21-5-1",
+      "version": "0.21.5",
+      "port-version": 1
+    }
+  ]
+}

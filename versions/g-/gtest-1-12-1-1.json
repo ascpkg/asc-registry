@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gtest-1-12-1-1",
+      "version-semver": "1.12.1",
+      "port-version": 1
+    }
+  ]
+}

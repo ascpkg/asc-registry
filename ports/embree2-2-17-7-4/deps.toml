@@ -1,0 +1,6 @@
+old = "embree2"
+new = "embree2-2-17-7-4"
+
+[deps]
+tbb-2020-u3-7 = "tbb"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"

@@ -1,0 +1,15 @@
+{
+  "name": "qtmqtt",
+  "version": "6.8.2",
+  "description": "The Qt MQTT module provides a standard compliant implementation of the MQTT protocol specification.",
+  "homepage": "https://www.qt.io/",
+  "dependencies": [
+    {
+      "name": "qtbase",
+      "default-features": false,
+      "features": [
+        "network"
+      ]
+    }
+  ]
+}

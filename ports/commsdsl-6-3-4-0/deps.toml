@@ -1,0 +1,7 @@
+old = "commsdsl"
+new = "commsdsl-6-3-4-0"
+
+[deps]
+libxml2-2-11-9-0 = "libxml2"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

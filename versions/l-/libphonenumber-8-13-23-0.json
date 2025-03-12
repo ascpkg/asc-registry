@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libphonenumber-8-13-23-0",
+      "version": "8.13.23",
+      "port-version": 0
+    }
+  ]
+}

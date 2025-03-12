@@ -1,0 +1,8 @@
+old = "spix"
+new = "spix-0-3-0"
+
+[deps]
+anyrpc-2021-08-24-0 = "anyrpc"
+qt5-base-5-15-2-9 = "qt5-base"
+qt5-declarative-5-15-2-0 = "qt5-declarative"
+vcpkg-cmake-2021-07-30-0 = "vcpkg-cmake"

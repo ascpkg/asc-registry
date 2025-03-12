@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gz-transport12-12-2-0-0",
+      "version": "12.2.0",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+old = "gz-math7"
+new = "gz-math7-7-3-0-1"
+
+[deps]
+gz-math-7-3-0-0 = "gz-math"

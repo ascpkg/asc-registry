@@ -1,0 +1,10 @@
+old = "bond"
+new = "bond-9-0-3-1"
+
+[deps]
+boost-assign-1-76-0-0 = "boost-assign"
+boost-config-1-76-0-0 = "boost-config"
+boost-locale-1-76-0-0 = "boost-locale"
+boost-utility-1-76-0-0 = "boost-utility"
+grpc-1-37-0-2 = "grpc"
+rapidjson-2020-09-14-1 = "rapidjson"

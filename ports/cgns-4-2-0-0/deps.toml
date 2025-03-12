@@ -1,0 +1,6 @@
+old = "cgns"
+new = "cgns-4-2-0-0"
+
+[deps]
+cgns-4-2-0-0 = "cgns"
+hdf5-1-12-0-4 = "hdf5"

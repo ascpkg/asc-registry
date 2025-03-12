@@ -1,0 +1,7 @@
+old = "boinc"
+new = "boinc-7-18-1-5"
+
+[deps]
+openssl-1-1-1m-2 = "openssl"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-01-30-0 = "vcpkg-cmake-config"

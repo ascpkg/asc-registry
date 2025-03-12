@@ -1,0 +1,14 @@
+{
+  "name": "libmodplug",
+  "version": "0.8.9.0",
+  "port-version": 12,
+  "description": "The ModPlug mod file playing library.",
+  "homepage": "https://github.com/Konstanty/libmodplug",
+  "supports": "!uwp",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    }
+  ]
+}

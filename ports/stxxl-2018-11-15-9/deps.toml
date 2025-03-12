@@ -1,0 +1,6 @@
+old = "stxxl"
+new = "stxxl-2018-11-15-9"
+
+[deps]
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

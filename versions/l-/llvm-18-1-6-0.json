@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/llvm-18-1-6-0",
+      "version": "18.1.6",
+      "port-version": 0
+    }
+  ]
+}

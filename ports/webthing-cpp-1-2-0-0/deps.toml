@@ -1,0 +1,9 @@
+old = "webthing-cpp"
+new = "webthing-cpp-1-2-0-0"
+
+[deps]
+json-schema-validator-2-3-0-2 = "json-schema-validator"
+mdns-1-4-3-0 = "mdns"
+nlohmann-json-3-11-3-1 = "nlohmann-json"
+uwebsockets-20-74-0-0 = "uwebsockets"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"

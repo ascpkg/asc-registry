@@ -1,0 +1,5 @@
+old = "bitserializer-rapidjson"
+new = "bitserializer-rapidjson-alias-1"
+
+[deps]
+bitserializer-0-10-1 = "bitserializer"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cpprestsdk-2-10-19-3",
+      "version": "2.10.19",
+      "port-version": 3
+    }
+  ]
+}

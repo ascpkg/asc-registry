@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/freeglut-3-4-0-3",
+      "version": "3.4.0",
+      "port-version": 3
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/nu-book-zxing-cpp-2-3-0-0",
+      "version": "2.3.0",
+      "port-version": 0
+    }
+  ]
+}

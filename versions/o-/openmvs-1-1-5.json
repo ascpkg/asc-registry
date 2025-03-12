@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/openmvs-1-1-5",
+      "version-string": "1.1",
+      "port-version": 5
+    }
+  ]
+}

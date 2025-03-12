@@ -1,0 +1,10 @@
+old = "theia"
+new = "theia-0-8-4"
+
+[deps]
+cereal-1-3-0-1 = "cereal"
+ceres-2-0-0-5 = "ceres"
+flann-2019-04-07-2 = "flann"
+freeglut-3-2-1-6 = "freeglut"
+glew-2-2-0-0 = "glew"
+openimageio-2-3-7-2-0 = "openimageio"

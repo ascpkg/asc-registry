@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/xbyak-7-7-0",
+      "version": "7.7",
+      "port-version": 0
+    }
+  ]
+}

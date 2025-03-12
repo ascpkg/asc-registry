@@ -1,0 +1,7 @@
+old = "breakpad"
+new = "breakpad-2020-09-14-5"
+
+[deps]
+libdisasm-0-23-9 = "libdisasm"
+vcpkg-cmake-2021-12-05-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-01-0 = "vcpkg-cmake-config"

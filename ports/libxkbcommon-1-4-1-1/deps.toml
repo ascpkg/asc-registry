@@ -1,0 +1,10 @@
+old = "libxkbcommon"
+new = "libxkbcommon-1-4-1-1"
+
+[deps]
+getopt-0-3 = "getopt"
+libx11-1-8-1-1 = "libx11"
+vcpkg-tool-meson-0-63-0 = "vcpkg-tool-meson"
+wayland-1-21-0-1 = "wayland"
+xcb-1-14-1 = "xcb"
+xcb-render-util-0-3-10-0 = "xcb-render-util"

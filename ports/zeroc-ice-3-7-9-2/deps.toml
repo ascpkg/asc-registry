@@ -1,0 +1,12 @@
+old = "zeroc-ice"
+new = "zeroc-ice-3-7-9-2"
+
+[deps]
+bzip2-1-0-8-5 = "bzip2"
+expat-2-5-0-3 = "expat"
+lmdb-0-9-29-2 = "lmdb"
+mcpp-2-7-2-14-5 = "mcpp"
+openssl-3-1-2-1 = "openssl"
+vcpkg-msbuild-2023-08-08-0 = "vcpkg-msbuild"
+zeroc-ice-3-7-9-2 = "zeroc-ice"
+zlib-1-2-13-0 = "zlib"

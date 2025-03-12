@@ -1,0 +1,7 @@
+old = "urho3d"
+new = "urho3d-2021-03-01-5"
+
+[deps]
+readline-0-5 = "readline"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

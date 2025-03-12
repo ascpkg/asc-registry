@@ -1,0 +1,8 @@
+old = "libdwarf"
+new = "libdwarf-0-11-1-0"
+
+[deps]
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
+zlib-1-3-1-0 = "zlib"
+zstd-1-5-6-0 = "zstd"

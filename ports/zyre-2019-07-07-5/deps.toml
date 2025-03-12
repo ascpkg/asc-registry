@@ -1,0 +1,7 @@
+old = "zyre"
+new = "zyre-2019-07-07-5"
+
+[deps]
+czmq-4-2-1-1 = "czmq"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

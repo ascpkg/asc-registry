@@ -1,0 +1,9 @@
+old = "log4cxx"
+new = "log4cxx-0-12-1-0"
+
+[deps]
+apr-1-7-0-6 = "apr"
+apr-util-1-6-1-5 = "apr-util"
+expat-2-4-1-0 = "expat"
+vcpkg-cmake-2021-12-05-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-01-0 = "vcpkg-cmake-config"

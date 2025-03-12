@@ -1,0 +1,8 @@
+old = "boost-nowide"
+new = "boost-nowide-1-86-0-0"
+
+[deps]
+boost-cmake-1-86-0-0 = "boost-cmake"
+boost-config-1-86-0-0 = "boost-config"
+boost-filesystem-1-86-0-0 = "boost-filesystem"
+boost-headers-1-86-0-0 = "boost-headers"

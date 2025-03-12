@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libe57-1-1-332-1",
+      "version-semver": "1.1.332",
+      "port-version": 1
+    }
+  ]
+}

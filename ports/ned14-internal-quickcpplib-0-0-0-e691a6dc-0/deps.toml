@@ -1,0 +1,6 @@
+old = "ned14-internal-quickcpplib"
+new = "ned14-internal-quickcpplib-0-0-0-e691a6dc-0"
+
+[deps]
+byte-lite-0-2-0-1 = "byte-lite"
+gsl-lite-0-38-1-0 = "gsl-lite"

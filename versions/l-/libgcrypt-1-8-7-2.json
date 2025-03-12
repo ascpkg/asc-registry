@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libgcrypt-1-8-7-2",
+      "version-string": "1.8.7",
+      "port-version": 2
+    }
+  ]
+}

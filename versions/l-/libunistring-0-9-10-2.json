@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libunistring-0-9-10-2",
+      "version": "0.9.10",
+      "port-version": 2
+    }
+  ]
+}

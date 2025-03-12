@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/getdns-1-7-0-2",
+      "version": "1.7.0",
+      "port-version": 2
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+old = "duilib"
+new = "duilib-2019-04-28-5"
+
+[deps]
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"

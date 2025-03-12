@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/shapelib-1-5-0-4",
+      "version": "1.5.0",
+      "port-version": 4
+    }
+  ]
+}

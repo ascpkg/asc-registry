@@ -1,0 +1,7 @@
+old = "ntf-core"
+new = "ntf-core-2-1-0-1"
+
+[deps]
+bde-3-117-0-0-0 = "bde"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

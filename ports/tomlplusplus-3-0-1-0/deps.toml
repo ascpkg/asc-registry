@@ -1,0 +1,6 @@
+old = "tomlplusplus"
+new = "tomlplusplus-3-0-1-0"
+
+[deps]
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"
+vcpkg-tool-meson-0-60-2-2 = "vcpkg-tool-meson"

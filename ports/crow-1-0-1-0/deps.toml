@@ -1,0 +1,13 @@
+old = "crow"
+new = "crow-1-0-1-0"
+
+[deps]
+boost-algorithm-1-78-0-0 = "boost-algorithm"
+boost-array-1-78-0-0 = "boost-array"
+boost-asio-1-78-0-0 = "boost-asio"
+boost-date-time-1-78-0-0 = "boost-date-time"
+boost-functional-1-78-0-0 = "boost-functional"
+boost-lexical-cast-1-78-0-0 = "boost-lexical-cast"
+boost-optional-1-78-0-0 = "boost-optional"
+vcpkg-cmake-2022-02-14-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"

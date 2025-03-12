@@ -1,0 +1,6 @@
+old = "soem"
+new = "soem-2023-06-09-0"
+
+[deps]
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+winpcap-4-1-3-10 = "winpcap"

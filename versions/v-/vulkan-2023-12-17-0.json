@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/vulkan-2023-12-17-0",
+      "version-date": "2023-12-17",
+      "port-version": 0
+    }
+  ]
+}

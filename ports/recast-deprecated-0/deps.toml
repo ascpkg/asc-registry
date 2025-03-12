@@ -1,0 +1,5 @@
+old = "recast"
+new = "recast-deprecated-0"
+
+[deps]
+recastnavigation-1-6-0-0 = "recastnavigation"

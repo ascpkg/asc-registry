@@ -1,0 +1,7 @@
+old = "nanogui"
+new = "nanogui-2019-09-23-3"
+
+[deps]
+eigen3-3-3-9-1 = "eigen3"
+glfw3-3-3-6-0 = "glfw3"
+nanovg-2019-08-30-5 = "nanovg"

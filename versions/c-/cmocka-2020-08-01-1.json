@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cmocka-2020-08-01-1",
+      "version-string": "2020-08-01",
+      "port-version": 1
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+old = "shiva"
+new = "shiva-1-0-5"
+
+[deps]
+boost-dll-1-78-0-0 = "boost-dll"
+boost-filesystem-1-78-0-0 = "boost-filesystem"
+boost-stacktrace-1-78-0-0 = "boost-stacktrace"
+entt-3-9-0-0 = "entt"
+lua-5-4-4-1 = "lua"
+luafilesystem-1-8-0-2 = "luafilesystem"
+nlohmann-json-3-10-5-0 = "nlohmann-json"
+pybind11-2-9-1-1 = "pybind11"
+sol2-3-2-2-2 = "sol2"
+spdlog-1-9-2-0 = "spdlog"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"

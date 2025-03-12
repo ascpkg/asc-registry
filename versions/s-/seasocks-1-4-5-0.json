@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/seasocks-1-4-5-0",
+      "version": "1.4.5",
+      "port-version": 0
+    }
+  ]
+}

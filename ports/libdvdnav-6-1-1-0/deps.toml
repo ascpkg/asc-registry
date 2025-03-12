@@ -1,0 +1,5 @@
+old = "libdvdnav"
+new = "libdvdnav-6-1-1-0"
+
+[deps]
+libdvdread-6-1-3-0 = "libdvdread"

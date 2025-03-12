@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/vst3sdk-v3-7-12-build-20-2",
+      "version-string": "v3.7.12_build_20",
+      "port-version": 2
+    }
+  ]
+}

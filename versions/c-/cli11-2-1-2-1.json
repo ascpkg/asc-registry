@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cli11-2-1-2-1",
+      "version": "2.1.2",
+      "port-version": 1
+    }
+  ]
+}

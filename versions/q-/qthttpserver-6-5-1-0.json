@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qthttpserver-6-5-1-0",
+      "version": "6.5.1",
+      "port-version": 0
+    }
+  ]
+}

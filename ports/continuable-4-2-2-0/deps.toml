@@ -1,0 +1,7 @@
+old = "continuable"
+new = "continuable-4-2-2-0"
+
+[deps]
+function2-4-2-3-0 = "function2"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

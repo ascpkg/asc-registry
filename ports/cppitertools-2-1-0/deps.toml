@@ -1,0 +1,5 @@
+old = "cppitertools"
+new = "cppitertools-2-1-0"
+
+[deps]
+boost-optional-1-76-0-0 = "boost-optional"

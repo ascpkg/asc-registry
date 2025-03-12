@@ -1,0 +1,5 @@
+old = "casclib"
+new = "casclib-1-50b-2"
+
+[deps]
+zlib-1-2-11-12 = "zlib"

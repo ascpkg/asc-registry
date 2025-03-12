@@ -1,0 +1,5 @@
+old = "magic-get"
+new = "magic-get-2019-09-02-3"
+
+[deps]
+boost-pfr-1-81-0-2 = "boost-pfr"

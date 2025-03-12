@@ -1,0 +1,5 @@
+old = "epsilon"
+new = "epsilon-0-9-2-7"
+
+[deps]
+libpopt-1-16-14 = "libpopt"

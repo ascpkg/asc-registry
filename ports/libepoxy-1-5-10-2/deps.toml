@@ -1,0 +1,6 @@
+old = "libepoxy"
+new = "libepoxy-1-5-10-2"
+
+[deps]
+egl-registry-2022-09-20-0 = "egl-registry"
+vcpkg-tool-meson-0-63-0 = "vcpkg-tool-meson"

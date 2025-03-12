@@ -1,0 +1,10 @@
+old = "azure-c-shared-utility"
+new = "azure-c-shared-utility-2024-03-04-1"
+
+[deps]
+azure-macro-utils-c-2022-01-21-1 = "azure-macro-utils-c"
+curl-8-7-1-1 = "curl"
+openssl-3-3-0-0 = "openssl"
+umock-c-2022-01-21-1 = "umock-c"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

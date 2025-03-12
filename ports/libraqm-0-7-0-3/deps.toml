@@ -1,0 +1,7 @@
+old = "libraqm"
+new = "libraqm-0-7-0-3"
+
+[deps]
+freetype-2-11-0-0 = "freetype"
+fribidi-1-0-10-3 = "fribidi"
+harfbuzz-2-9-0-0 = "harfbuzz"

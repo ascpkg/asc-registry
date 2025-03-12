@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/boost-safe-numerics-1-82-0-1",
+      "version": "1.82.0",
+      "port-version": 1
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+old = "glui"
+new = "glui-2019-11-30-1"
+
+[deps]
+freeglut-3-2-1-6 = "freeglut"

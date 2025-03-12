@@ -1,0 +1,6 @@
+old = "minisat-master-keying"
+new = "minisat-master-keying-2-3-6-0"
+
+[deps]
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"

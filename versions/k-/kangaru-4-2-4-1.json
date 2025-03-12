@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/kangaru-4-2-4-1",
+      "version-string": "4.2.4",
+      "port-version": 1
+    }
+  ]
+}

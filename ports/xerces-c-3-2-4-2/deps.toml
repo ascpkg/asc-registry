@@ -1,0 +1,8 @@
+old = "xerces-c"
+new = "xerces-c-3-2-4-2"
+
+[deps]
+icu-72-1-2 = "icu"
+libiconv-1-17-0 = "libiconv"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

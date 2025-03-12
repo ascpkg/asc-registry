@@ -1,0 +1,6 @@
+old = "gz-utils2"
+new = "gz-utils2-2-0-0-0"
+
+[deps]
+gz-cmake3-3-0-1-0 = "gz-cmake3"
+ignition-modularscripts-2022-05-11-2 = "ignition-modularscripts"

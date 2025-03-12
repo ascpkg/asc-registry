@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/nowide-11-1-3-0",
+      "version": "11.1.3",
+      "port-version": 0
+    }
+  ]
+}

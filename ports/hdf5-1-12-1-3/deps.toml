@@ -1,0 +1,10 @@
+old = "hdf5"
+new = "hdf5-1-12-1-3"
+
+[deps]
+mpi-1-2 = "mpi"
+pthreads-3-0-0-10 = "pthreads"
+szip-2-1-1-7 = "szip"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"
+zlib-1-2-11-13 = "zlib"

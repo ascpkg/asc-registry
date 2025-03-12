@@ -1,0 +1,9 @@
+old = "geogram"
+new = "geogram-1-9-2-0"
+
+[deps]
+blas-2023-04-14-2 = "blas"
+glfw3-3-4-1 = "glfw3"
+lapack-2023-06-10-2 = "lapack"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

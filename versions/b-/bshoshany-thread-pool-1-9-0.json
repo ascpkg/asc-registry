@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/bshoshany-thread-pool-1-9-0",
+      "version": "1.9",
+      "port-version": 0
+    }
+  ]
+}

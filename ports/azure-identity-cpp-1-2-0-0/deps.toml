@@ -1,0 +1,7 @@
+old = "azure-identity-cpp"
+new = "azure-identity-cpp-1-2-0-0"
+
+[deps]
+azure-core-cpp-1-4-0-0 = "azure-core-cpp"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"

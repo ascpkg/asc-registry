@@ -1,0 +1,5 @@
+old = "thorvg"
+new = "thorvg-0-14-3-0"
+
+[deps]
+vcpkg-tool-meson-1-3-2-8 = "vcpkg-tool-meson"

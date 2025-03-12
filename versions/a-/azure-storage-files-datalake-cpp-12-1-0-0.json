@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/azure-storage-files-datalake-cpp-12-1-0-0",
+      "version-semver": "12.1.0",
+      "port-version": 0
+    }
+  ]
+}

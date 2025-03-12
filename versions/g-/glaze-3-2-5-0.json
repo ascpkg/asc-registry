@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/glaze-3-2-5-0",
+      "version": "3.2.5",
+      "port-version": 0
+    }
+  ]
+}

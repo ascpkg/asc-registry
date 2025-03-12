@@ -1,0 +1,5 @@
+old = "qtserialport"
+new = "qtserialport-6-6-1-2"
+
+[deps]
+qtbase-6-6-1-11 = "qtbase"

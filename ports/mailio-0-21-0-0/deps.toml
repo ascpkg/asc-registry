@@ -1,0 +1,10 @@
+old = "mailio"
+new = "mailio-0-21-0-0"
+
+[deps]
+boost-asio-1-78-0-0 = "boost-asio"
+boost-date-time-1-78-0-0 = "boost-date-time"
+boost-regex-1-78-0-0 = "boost-regex"
+boost-system-1-78-0-0 = "boost-system"
+openssl-1-1-1n-0 = "openssl"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"

@@ -1,0 +1,9 @@
+old = "libass"
+new = "libass-0-17-3-0"
+
+[deps]
+fontconfig-2-14-2-2 = "fontconfig"
+freetype-2-13-2-1 = "freetype"
+fribidi-1-0-13-0 = "fribidi"
+harfbuzz-9-0-0-0 = "harfbuzz"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"

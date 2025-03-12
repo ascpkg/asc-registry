@@ -1,0 +1,5 @@
+old = "cppp-reiconv"
+new = "cppp-reiconv-2-1-0-0"
+
+[deps]
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

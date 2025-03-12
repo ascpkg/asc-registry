@@ -1,0 +1,12 @@
+vcpkg_from_github(
+    OUT_SOURCE_PATH SOURCE_PATH
+    REPO Thalhammer/jwt-cpp
+    REF 60122bbd8e6b9009c4633c1a33ea94c5b682034a # v0.5.1
+    SHA512 d2c6e2174cd86c27b8866f6ea50a379a321788e91f97a0548e694d11469c05d93b0713e0c38b37a8f14a0aded4fc4635599dcfb50142e4496fb3c8b9f7e5f8cd
+    HEAD_REF master
+)
+
+# Copy the header files
+file(GLOB HEADER_FILES ${SOURCE_PATH}/include/jwt-cpp/*)
+file(COPY ${HEADER_FILES} DESTINATION ${CURRENT_PACKAGES_DIR}/include/jwt-cpp)
+file(INSTALL ${SOURCE_PATH}/LICENSE DESTINATION ${CURRENT_PACKAGES_DIR}/share/${PORT} RENAME copyright)

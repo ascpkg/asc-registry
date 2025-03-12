@@ -1,0 +1,5 @@
+old = "caffe2"
+new = "caffe2-0-8-1-8"
+
+[deps]
+libtorch-1-12-1-0 = "libtorch"

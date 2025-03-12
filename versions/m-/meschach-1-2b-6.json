@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/meschach-1-2b-6",
+      "version-string": "1.2b",
+      "port-version": 6
+    }
+  ]
+}

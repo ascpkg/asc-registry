@@ -1,0 +1,15 @@
+old = "seacas"
+new = "seacas-2022-11-22-5"
+
+[deps]
+cereal-1-3-2-1 = "cereal"
+cgns-4-3-0-4 = "cgns"
+fmt-10-0-0-0 = "fmt"
+hdf5-1-14-0-1 = "hdf5"
+matio-1-5-23-2 = "matio"
+metis-2022-07-27-0 = "metis"
+netcdf-c-4-8-1-3 = "netcdf-c"
+parmetis-2022-07-27-0 = "parmetis"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-2-13-0 = "zlib"

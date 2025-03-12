@@ -1,0 +1,11 @@
+old = "boost-parameter-python"
+new = "boost-parameter-python-1-85-0-1"
+
+[deps]
+boost-cmake-1-85-0-1 = "boost-cmake"
+boost-config-1-85-0-1 = "boost-config"
+boost-headers-1-85-0-1 = "boost-headers"
+boost-mpl-1-85-0-1 = "boost-mpl"
+boost-parameter-1-85-0-1 = "boost-parameter"
+boost-preprocessor-1-85-0-1 = "boost-preprocessor"
+boost-python-1-85-0-1 = "boost-python"

@@ -1,0 +1,5 @@
+old = "tsl-sparse-map"
+new = "tsl-sparse-map-0-6-2-2"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

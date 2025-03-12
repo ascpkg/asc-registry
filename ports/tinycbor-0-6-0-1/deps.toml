@@ -1,0 +1,5 @@
+old = "tinycbor"
+new = "tinycbor-0-6-0-1"
+
+[deps]
+vcpkg-cmake-2022-04-05-0 = "vcpkg-cmake"

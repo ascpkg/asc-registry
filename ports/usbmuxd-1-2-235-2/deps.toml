@@ -1,0 +1,8 @@
+old = "usbmuxd"
+new = "usbmuxd-1-2-235-2"
+
+[deps]
+libimobiledevice-1-3-17-1 = "libimobiledevice"
+libusb-1-0-26-2 = "libusb"
+libusb-win32-1-2-6-0-8 = "libusb-win32"
+pthreads-3-0-0-12 = "pthreads"

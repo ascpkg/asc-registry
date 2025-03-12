@@ -1,0 +1,5 @@
+old = "mypaint-brushes"
+new = "mypaint-brushes-1-3-1-0"
+
+[deps]
+vcpkg-make-2025-02-08-0 = "vcpkg-make"

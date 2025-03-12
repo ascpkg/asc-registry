@@ -1,0 +1,6 @@
+old = "benchmark"
+new = "benchmark-1-6-0-0"
+
+[deps]
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"

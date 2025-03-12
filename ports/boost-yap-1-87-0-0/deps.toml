@@ -1,0 +1,10 @@
+old = "boost-yap"
+new = "boost-yap-1-87-0-0"
+
+[deps]
+boost-cmake-1-87-0-0 = "boost-cmake"
+boost-config-1-87-0-0 = "boost-config"
+boost-hana-1-87-0-0 = "boost-hana"
+boost-headers-1-87-0-0 = "boost-headers"
+boost-preprocessor-1-87-0-0 = "boost-preprocessor"
+boost-type-index-1-87-0-0 = "boost-type-index"

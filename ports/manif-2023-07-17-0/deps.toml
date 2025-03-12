@@ -1,0 +1,8 @@
+old = "manif"
+new = "manif-2023-07-17-0"
+
+[deps]
+eigen3-3-4-0-2 = "eigen3"
+tl-optional-2021-05-02-0 = "tl-optional"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

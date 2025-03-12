@@ -1,0 +1,9 @@
+old = "luv"
+new = "luv-1-44-2-1"
+
+[deps]
+libuv-1-45-0-0 = "libuv"
+lua-compat53-0-10-0 = "lua-compat53"
+luajit-2023-01-04-1 = "luajit"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

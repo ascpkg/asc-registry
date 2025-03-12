@@ -1,0 +1,11 @@
+old = "mqtt-cpp"
+new = "mqtt-cpp-13-0-0-0"
+
+[deps]
+boost-any-1-79-0-0 = "boost-any"
+boost-asio-1-79-0-0 = "boost-asio"
+boost-multi-index-1-79-0-0 = "boost-multi-index"
+boost-program-options-1-79-0-0 = "boost-program-options"
+boost-type-erasure-1-79-0-0 = "boost-type-erasure"
+vcpkg-cmake-2022-05-10-1 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

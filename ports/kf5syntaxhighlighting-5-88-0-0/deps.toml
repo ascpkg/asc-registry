@@ -1,0 +1,10 @@
+old = "kf5syntaxhighlighting"
+new = "kf5syntaxhighlighting-5-88-0-0"
+
+[deps]
+ecm-5-88-0-0 = "ecm"
+qt5-base-5-15-2-16 = "qt5-base"
+qt5-tools-5-15-2-1 = "qt5-tools"
+qt5-xmlpatterns-5-15-2-1 = "qt5-xmlpatterns"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-11-01-0 = "vcpkg-cmake-config"

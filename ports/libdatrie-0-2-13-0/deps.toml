@@ -1,0 +1,6 @@
+old = "libdatrie"
+new = "libdatrie-0-2-13-0"
+
+[deps]
+libiconv-1-16-12 = "libiconv"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"

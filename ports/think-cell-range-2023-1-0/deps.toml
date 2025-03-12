@@ -1,0 +1,5 @@
+old = "think-cell-range"
+new = "think-cell-range-2023-1-0"
+
+[deps]
+boost-1-82-0-2 = "boost"

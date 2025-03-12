@@ -1,0 +1,15 @@
+old = "boost-optional"
+new = "boost-optional-1-81-0-2"
+
+[deps]
+boost-assert-1-81-0-2 = "boost-assert"
+boost-config-1-81-0-2 = "boost-config"
+boost-core-1-81-0-2 = "boost-core"
+boost-detail-1-81-0-2 = "boost-detail"
+boost-move-1-81-0-2 = "boost-move"
+boost-predef-1-81-0-2 = "boost-predef"
+boost-static-assert-1-81-0-2 = "boost-static-assert"
+boost-throw-exception-1-81-0-2 = "boost-throw-exception"
+boost-type-traits-1-81-0-2 = "boost-type-traits"
+boost-utility-1-81-0-2 = "boost-utility"
+boost-vcpkg-helpers-1-81-0-3 = "boost-vcpkg-helpers"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/nspr-4-35-4",
+      "version": "4.35",
+      "port-version": 4
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/tgbot-cpp-1-6-0",
+      "version": "1.6",
+      "port-version": 0
+    }
+  ]
+}

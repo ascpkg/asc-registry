@@ -1,0 +1,6 @@
+old = "mpi"
+new = "mpi-1-3"
+
+[deps]
+msmpi-10-1-12498-4 = "msmpi"
+openmpi-4-1-0-4 = "openmpi"

@@ -1,0 +1,17 @@
+old = "libmysql"
+new = "libmysql-8-0-32-5"
+
+[deps]
+boost-algorithm-1-82-0-2 = "boost-algorithm"
+boost-functional-1-82-0-2 = "boost-functional"
+boost-geometry-1-82-0-2 = "boost-geometry"
+boost-graph-1-82-0-2 = "boost-graph"
+boost-optional-1-82-0-2 = "boost-optional"
+icu-72-1-5 = "icu"
+libevent-2-1-12-20230128-0 = "libevent"
+lz4-1-9-4-1 = "lz4"
+ncurses-6-4-1 = "ncurses"
+openssl-3-1-1-0 = "openssl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-2-13-0 = "zlib"

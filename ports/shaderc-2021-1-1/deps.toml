@@ -1,0 +1,6 @@
+old = "shaderc"
+new = "shaderc-2021-1-1"
+
+[deps]
+glslang-11-5-0-0 = "glslang"
+spirv-tools-2021-1-0 = "spirv-tools"

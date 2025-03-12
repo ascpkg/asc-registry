@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/casclib-1-50b-2",
+      "version-string": "1.50b",
+      "port-version": 2
+    }
+  ]
+}

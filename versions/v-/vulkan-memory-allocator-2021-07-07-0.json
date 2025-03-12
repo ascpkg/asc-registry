@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/vulkan-memory-allocator-2021-07-07-0",
+      "version": "2021-07-07",
+      "port-version": 0
+    }
+  ]
+}

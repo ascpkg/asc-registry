@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libarchive-3-5-2-3",
+      "version-semver": "3.5.2",
+      "port-version": 3
+    }
+  ]
+}

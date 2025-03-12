@@ -1,0 +1,10 @@
+old = "prometheus-cpp"
+new = "prometheus-cpp-1-1-0-0"
+
+[deps]
+civetweb-1-15-2 = "civetweb"
+curl-7-84-0-2 = "curl"
+gtest-1-12-1-0 = "gtest"
+vcpkg-cmake-2022-10-30-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-2-13-0 = "zlib"

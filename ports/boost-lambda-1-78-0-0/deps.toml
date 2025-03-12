@@ -1,0 +1,15 @@
+old = "boost-lambda"
+new = "boost-lambda-1-78-0-0"
+
+[deps]
+boost-bind-1-78-0-0 = "boost-bind"
+boost-config-1-78-0-0 = "boost-config"
+boost-core-1-78-0-0 = "boost-core"
+boost-detail-1-78-0-0 = "boost-detail"
+boost-iterator-1-78-0-0 = "boost-iterator"
+boost-mpl-1-78-0-0 = "boost-mpl"
+boost-preprocessor-1-78-0-0 = "boost-preprocessor"
+boost-tuple-1-78-0-0 = "boost-tuple"
+boost-type-traits-1-78-0-0 = "boost-type-traits"
+boost-utility-1-78-0-0 = "boost-utility"
+boost-vcpkg-helpers-1-78-0-0 = "boost-vcpkg-helpers"

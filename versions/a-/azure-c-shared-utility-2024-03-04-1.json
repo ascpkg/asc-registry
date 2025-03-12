@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/azure-c-shared-utility-2024-03-04-1",
+      "version-date": "2024-03-04",
+      "port-version": 1
+    }
+  ]
+}

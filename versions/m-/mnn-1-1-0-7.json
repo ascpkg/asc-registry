@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/mnn-1-1-0-7",
+      "version": "1.1.0",
+      "port-version": 7
+    }
+  ]
+}

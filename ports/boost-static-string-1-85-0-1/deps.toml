@@ -1,0 +1,13 @@
+old = "boost-static-string"
+new = "boost-static-string-1-85-0-1"
+
+[deps]
+boost-assert-1-85-0-1 = "boost-assert"
+boost-cmake-1-85-0-1 = "boost-cmake"
+boost-config-1-85-0-1 = "boost-config"
+boost-container-hash-1-85-0-1 = "boost-container-hash"
+boost-core-1-85-0-1 = "boost-core"
+boost-headers-1-85-0-1 = "boost-headers"
+boost-static-assert-1-85-0-1 = "boost-static-assert"
+boost-throw-exception-1-85-0-1 = "boost-throw-exception"
+boost-utility-1-85-0-1 = "boost-utility"

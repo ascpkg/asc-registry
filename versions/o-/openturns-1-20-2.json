@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/openturns-1-20-2",
+      "version": "1.20",
+      "port-version": 2
+    }
+  ]
+}

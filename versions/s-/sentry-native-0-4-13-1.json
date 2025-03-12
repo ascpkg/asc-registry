@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/sentry-native-0-4-13-1",
+      "version-semver": "0.4.13",
+      "port-version": 1
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ixwebsocket-11-4-2-0",
+      "version-semver": "11.4.2",
+      "port-version": 0
+    }
+  ]
+}

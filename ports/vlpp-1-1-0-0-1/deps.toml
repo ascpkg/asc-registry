@@ -1,0 +1,7 @@
+old = "vlpp"
+new = "vlpp-1-1-0-0-1"
+
+[deps]
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+vlpp-1-1-0-0-1 = "vlpp"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/h5py-lzf-2019-12-04-2",
+      "version-date": "2019-12-04",
+      "port-version": 2
+    }
+  ]
+}

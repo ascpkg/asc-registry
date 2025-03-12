@@ -1,0 +1,6 @@
+old = "xcb-util-errors"
+new = "xcb-util-errors-1-0-1-0"
+
+[deps]
+xcb-1-14-0 = "xcb"
+xcb-util-0-4-0-0 = "xcb-util"

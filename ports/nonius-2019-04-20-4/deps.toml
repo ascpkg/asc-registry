@@ -1,0 +1,9 @@
+old = "nonius"
+new = "nonius-2019-04-20-4"
+
+[deps]
+boost-algorithm-1-81-0-2 = "boost-algorithm"
+boost-lexical-cast-1-81-0-2 = "boost-lexical-cast"
+boost-math-1-81-0-2 = "boost-math"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

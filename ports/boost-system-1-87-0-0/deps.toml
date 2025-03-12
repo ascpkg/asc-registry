@@ -1,0 +1,11 @@
+old = "boost-system"
+new = "boost-system-1-87-0-0"
+
+[deps]
+boost-assert-1-87-0-0 = "boost-assert"
+boost-cmake-1-87-0-0 = "boost-cmake"
+boost-config-1-87-0-0 = "boost-config"
+boost-headers-1-87-0-0 = "boost-headers"
+boost-throw-exception-1-87-0-0 = "boost-throw-exception"
+boost-variant2-1-87-0-0 = "boost-variant2"
+boost-winapi-1-87-0-0 = "boost-winapi"

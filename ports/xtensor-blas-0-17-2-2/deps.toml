@@ -1,0 +1,7 @@
+old = "xtensor-blas"
+new = "xtensor-blas-0-17-2-2"
+
+[deps]
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"
+xtensor-0-23-10-0 = "xtensor"

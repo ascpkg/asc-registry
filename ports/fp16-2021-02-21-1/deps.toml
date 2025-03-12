@@ -1,0 +1,6 @@
+old = "fp16"
+new = "fp16-2021-02-21-1"
+
+[deps]
+psimd-2021-02-21-2 = "psimd"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

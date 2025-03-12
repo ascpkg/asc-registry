@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/uwebsockets-20-71-0-0",
+      "version-semver": "20.71.0",
+      "port-version": 0
+    }
+  ]
+}

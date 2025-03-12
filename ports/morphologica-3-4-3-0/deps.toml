@@ -1,0 +1,15 @@
+old = "morphologica"
+new = "morphologica-3-4-3-0"
+
+[deps]
+armadillo-14-2-2-0 = "armadillo"
+egl-2022-12-04-0 = "egl"
+freeglut-3-4-0-3 = "freeglut"
+freetype-2-13-3-0 = "freetype"
+glfw3-3-4-1 = "glfw3"
+hdf5-1-14-4-3-4 = "hdf5"
+nlohmann-json-3-11-3-1 = "nlohmann-json"
+opengl-2022-12-04-3 = "opengl"
+rapidxml-1-13-7 = "rapidxml"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

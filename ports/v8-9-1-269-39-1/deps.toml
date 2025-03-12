@@ -1,0 +1,8 @@
+old = "v8"
+new = "v8-9-1-269-39-1"
+
+[deps]
+glib-2-66-4-0 = "glib"
+icu-69-1-15 = "icu"
+pthread-3-0-0-1 = "pthread"
+zlib-1-2-11-13 = "zlib"

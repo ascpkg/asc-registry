@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/atlmfc-0-2",
+      "version": "0",
+      "port-version": 2
+    }
+  ]
+}

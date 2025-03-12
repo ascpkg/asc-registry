@@ -1,0 +1,9 @@
+old = "imgui-sfml"
+new = "imgui-sfml-2-4-0"
+
+[deps]
+imgui-1-85-0 = "imgui"
+opengl-0-0-9 = "opengl"
+sfml-2-5-1-10 = "sfml"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-11-01-0 = "vcpkg-cmake-config"

@@ -1,0 +1,7 @@
+old = "workflow"
+new = "workflow-0-9-7-0"
+
+[deps]
+openssl-1-1-1l-3 = "openssl"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"

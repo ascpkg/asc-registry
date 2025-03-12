@@ -1,0 +1,7 @@
+old = "qtopcua"
+new = "qtopcua-6-4-1-0"
+
+[deps]
+open62541-1-2-3-1 = "open62541"
+qtbase-6-4-1-0 = "qtbase"
+qtdeclarative-6-4-1-0 = "qtdeclarative"

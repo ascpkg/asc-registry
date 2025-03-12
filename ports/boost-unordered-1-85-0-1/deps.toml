@@ -1,0 +1,13 @@
+old = "boost-unordered"
+new = "boost-unordered-1-85-0-1"
+
+[deps]
+boost-assert-1-85-0-1 = "boost-assert"
+boost-cmake-1-85-0-1 = "boost-cmake"
+boost-config-1-85-0-1 = "boost-config"
+boost-container-hash-1-85-0-1 = "boost-container-hash"
+boost-core-1-85-0-1 = "boost-core"
+boost-headers-1-85-0-1 = "boost-headers"
+boost-mp11-1-85-0-1 = "boost-mp11"
+boost-predef-1-85-0-1 = "boost-predef"
+boost-throw-exception-1-85-0-1 = "boost-throw-exception"

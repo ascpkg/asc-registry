@@ -1,0 +1,10 @@
+old = "qt-advanced-docking-system"
+new = "qt-advanced-docking-system-3-8-0-0"
+
+[deps]
+bzip2-1-0-8-2 = "bzip2"
+qt5-base-5-15-2-19 = "qt5-base"
+qt5-x11extras-5-15-2-1 = "qt5-x11extras"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"
+zlib-1-2-11-13 = "zlib"

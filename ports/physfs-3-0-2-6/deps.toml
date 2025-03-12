@@ -1,0 +1,6 @@
+old = "physfs"
+new = "physfs-3-0-2-6"
+
+[deps]
+vcpkg-cmake-2021-07-30-0 = "vcpkg-cmake"
+zlib-1-2-11-11 = "zlib"

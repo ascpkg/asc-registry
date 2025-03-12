@@ -1,0 +1,8 @@
+old = "magma"
+new = "magma-2-8-0-1"
+
+[deps]
+blas-2023-04-14-1 = "blas"
+cuda-10-1-13 = "cuda"
+lapack-2023-06-10-2 = "lapack"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"

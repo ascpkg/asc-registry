@@ -1,0 +1,11 @@
+old = "boost-container"
+new = "boost-container-1-84-0-1"
+
+[deps]
+boost-assert-1-84-0-1 = "boost-assert"
+boost-cmake-1-84-0-0 = "boost-cmake"
+boost-config-1-84-0-1 = "boost-config"
+boost-headers-1-84-0-0 = "boost-headers"
+boost-intrusive-1-84-0-1 = "boost-intrusive"
+boost-move-1-84-0-1 = "boost-move"
+boost-static-assert-1-84-0-1 = "boost-static-assert"

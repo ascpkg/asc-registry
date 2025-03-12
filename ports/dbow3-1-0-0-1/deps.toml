@@ -1,0 +1,5 @@
+old = "dbow3"
+new = "dbow3-1-0-0-1"
+
+[deps]
+opencv3-3-4-15-1 = "opencv3"

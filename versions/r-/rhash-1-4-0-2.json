@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/rhash-1-4-0-2",
+      "version": "1.4.0",
+      "port-version": 2
+    }
+  ]
+}

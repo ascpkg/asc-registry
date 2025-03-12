@@ -1,0 +1,13 @@
+old = "boost-container"
+new = "boost-container-1-83-0-0"
+
+[deps]
+boost-assert-1-83-0-0 = "boost-assert"
+boost-build-1-83-0-0 = "boost-build"
+boost-config-1-83-0-0 = "boost-config"
+boost-intrusive-1-83-0-0 = "boost-intrusive"
+boost-modular-build-helper-1-83-0-0 = "boost-modular-build-helper"
+boost-move-1-83-0-0 = "boost-move"
+boost-static-assert-1-83-0-0 = "boost-static-assert"
+boost-vcpkg-helpers-1-83-0-0 = "boost-vcpkg-helpers"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

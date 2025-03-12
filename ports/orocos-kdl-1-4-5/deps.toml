@@ -1,0 +1,5 @@
+old = "orocos-kdl"
+new = "orocos-kdl-1-4-5"
+
+[deps]
+eigen3-3-3-9-1 = "eigen3"

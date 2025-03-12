@@ -1,0 +1,5 @@
+old = "fmem"
+new = "fmem-c-libs-2ccee3d2fb-3"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/sratom-0-6-4-2",
+      "version": "0.6.4",
+      "port-version": 2
+    }
+  ]
+}

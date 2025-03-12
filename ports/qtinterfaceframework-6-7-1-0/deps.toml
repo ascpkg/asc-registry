@@ -1,0 +1,12 @@
+old = "qtinterfaceframework"
+new = "qtinterfaceframework-6-7-1-0"
+
+[deps]
+pkgconf-2-2-0-0 = "pkgconf"
+qtdeclarative-6-7-1-0 = "qtdeclarative"
+qtinterfaceframework-6-7-1-0 = "qtinterfaceframework"
+qtmultimedia-6-7-1-0 = "qtmultimedia"
+qtremoteobjects-6-7-1-0 = "qtremoteobjects"
+qttools-6-7-1-0 = "qttools"
+taglib-2-0-1 = "taglib"
+vcpkg-get-python-packages-2024-01-24-0 = "vcpkg-get-python-packages"

@@ -1,0 +1,7 @@
+old = "mygui"
+new = "mygui-2020-06-17-1"
+
+[deps]
+freetype-2-11-0-0 = "freetype"
+opengl-0-0-9 = "opengl"
+sdl2-image-2-0-5-2 = "sdl2-image"

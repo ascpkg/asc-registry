@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/tidy-html5-5-7-28-4",
+      "version-string": "5.7.28",
+      "port-version": 4
+    }
+  ]
+}

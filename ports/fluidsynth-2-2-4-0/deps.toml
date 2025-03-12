@@ -1,0 +1,7 @@
+old = "fluidsynth"
+new = "fluidsynth-2-2-4-0"
+
+[deps]
+fluidsynth-2-2-4-0 = "fluidsynth"
+glib-2-70-1-1 = "glib"
+vcpkg-cmake-2021-12-05-0 = "vcpkg-cmake"

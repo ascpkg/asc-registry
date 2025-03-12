@@ -1,0 +1,7 @@
+old = "libmypaint"
+new = "libmypaint-1-6-1-0"
+
+[deps]
+glib-2-80-0-1 = "glib"
+json-c-0-18-20240915-0 = "json-c"
+vcpkg-make-2025-02-08-0 = "vcpkg-make"

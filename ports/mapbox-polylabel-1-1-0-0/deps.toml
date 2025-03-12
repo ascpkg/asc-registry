@@ -1,0 +1,6 @@
+old = "mapbox-polylabel"
+new = "mapbox-polylabel-1-1-0-0"
+
+[deps]
+mapbox-geometry-2-0-3-0 = "mapbox-geometry"
+mapbox-variant-1-2-0-1 = "mapbox-variant"

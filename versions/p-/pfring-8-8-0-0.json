@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/pfring-8-8-0-0",
+      "version": "8.8.0",
+      "port-version": 0
+    }
+  ]
+}

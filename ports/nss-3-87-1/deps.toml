@@ -1,0 +1,8 @@
+old = "nss"
+new = "nss-3-87-1"
+
+[deps]
+nspr-4-35-3 = "nspr"
+sqlite3-3-40-1-2 = "sqlite3"
+vcpkg-tool-gyp-next-2022-10-15-0 = "vcpkg-tool-gyp-next"
+vcpkg-tool-mozbuild-4-0-2-0 = "vcpkg-tool-mozbuild"

@@ -1,0 +1,5 @@
+old = "liblsl"
+new = "liblsl-1-14-0-2"
+
+[deps]
+pugixml-1-11-4-1 = "pugixml"

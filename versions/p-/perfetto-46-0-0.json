@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/perfetto-46-0-0",
+      "version": "46.0",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+old = "jigson"
+new = "jigson-0-1-2-0"
+
+[deps]
+nlohmann-json-3-11-3-1 = "nlohmann-json"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"

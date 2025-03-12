@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/launch-darkly-server-2-8-6-2",
+      "version": "2.8.6",
+      "port-version": 2
+    }
+  ]
+}

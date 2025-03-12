@@ -1,0 +1,8 @@
+old = "milerius-sfml-imgui"
+new = "milerius-sfml-imgui-1-1-4"
+
+[deps]
+imgui-1-86-0 = "imgui"
+sfml-2-5-1-10 = "sfml"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"

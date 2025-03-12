@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/apsi-0-7-0-2",
+      "version-semver": "0.7.0",
+      "port-version": 2
+    }
+  ]
+}

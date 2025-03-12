@@ -1,0 +1,12 @@
+{
+  "name": "qt5-macextras",
+  "version": "5.15.12",
+  "description": "Qt5 Mac Extras Module. Provides platform-specific APIs for mac.",
+  "supports": "osx",
+  "dependencies": [
+    {
+      "name": "qt5-base",
+      "default-features": false
+    }
+  ]
+}

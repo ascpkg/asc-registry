@@ -1,0 +1,13 @@
+old = "gz-sensors7"
+new = "gz-sensors7-7-3-0-0"
+
+[deps]
+gz-cmake3-3-4-1-3 = "gz-cmake3"
+gz-common5-5-4-1-1 = "gz-common5"
+gz-math7-7-3-0-0 = "gz-math7"
+gz-msgs9-9-5-0-0 = "gz-msgs9"
+gz-rendering7-7-4-1-0 = "gz-rendering7"
+gz-transport12-12-2-0-0 = "gz-transport12"
+ignition-modularscripts-2023-05-05-0 = "ignition-modularscripts"
+protobuf-3-21-12-0 = "protobuf"
+sdformat13-13-5-0-1 = "sdformat13"

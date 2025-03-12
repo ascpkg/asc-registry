@@ -1,0 +1,8 @@
+old = "fmi4cpp"
+new = "fmi4cpp-0-8-0-0"
+
+[deps]
+boost-property-tree-1-77-0-0 = "boost-property-tree"
+libzip-1-7-3-2 = "libzip"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"

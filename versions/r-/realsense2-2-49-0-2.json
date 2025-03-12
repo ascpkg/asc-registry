@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/realsense2-2-49-0-2",
+      "version": "2.49.0",
+      "port-version": 2
+    }
+  ]
+}

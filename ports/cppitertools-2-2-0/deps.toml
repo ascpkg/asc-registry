@@ -1,0 +1,7 @@
+old = "cppitertools"
+new = "cppitertools-2-2-0"
+
+[deps]
+boost-optional-1-87-0-0 = "boost-optional"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

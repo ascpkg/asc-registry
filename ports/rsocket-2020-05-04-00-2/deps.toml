@@ -1,0 +1,17 @@
+old = "rsocket"
+new = "rsocket-2020-05-04-00-2"
+
+[deps]
+boost-context-1-76-0-1 = "boost-context"
+boost-filesystem-1-76-0-0 = "boost-filesystem"
+boost-program-options-1-76-0-0 = "boost-program-options"
+boost-regex-1-76-0-0 = "boost-regex"
+boost-system-1-76-0-0 = "boost-system"
+boost-thread-1-76-0-0 = "boost-thread"
+double-conversion-3-1-5-1 = "double-conversion"
+fmt-8-0-1-0 = "fmt"
+folly-2021-06-14-00-1 = "folly"
+gflags-2-2-2-3 = "gflags"
+glog-0-4-0-4 = "glog"
+openssl-1-1-1l-1 = "openssl"
+zlib-1-2-11-12 = "zlib"

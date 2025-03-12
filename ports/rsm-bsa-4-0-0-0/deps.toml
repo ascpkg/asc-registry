@@ -1,0 +1,12 @@
+old = "rsm-bsa"
+new = "rsm-bsa-4-0-0-0"
+
+[deps]
+directxtex-oct2021-0 = "directxtex"
+lz4-1-9-3-3 = "lz4"
+reproc-14-2-4-0 = "reproc"
+rsm-binary-io-2-0-4-0 = "rsm-binary-io"
+rsm-mmio-1-1-0-1 = "rsm-mmio"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"
+zlib-1-2-11-13 = "zlib"

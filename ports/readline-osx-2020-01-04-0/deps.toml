@@ -1,0 +1,5 @@
+old = "readline-osx"
+new = "readline-osx-2020-01-04-0"
+
+[deps]
+readline-unix-8-1-0 = "readline-unix"

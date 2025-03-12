@@ -1,0 +1,8 @@
+old = "libuvc"
+new = "libuvc-2020-11-24-4"
+
+[deps]
+libjpeg-turbo-2-1-5-1-0 = "libjpeg-turbo"
+libusb-1-0-26-11791-0 = "libusb"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

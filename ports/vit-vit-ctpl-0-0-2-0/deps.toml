@@ -1,0 +1,7 @@
+old = "vit-vit-ctpl"
+new = "vit-vit-ctpl-0-0-2-0"
+
+[deps]
+boost-lockfree-1-83-0-0 = "boost-lockfree"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

@@ -1,0 +1,28 @@
+opencl provides CMake targets:
+
+  # Khronos OpenCL Headers
+  find_package(OpenCLHeaders CONFIG REQUIRED)
+  target_link_libraries(main PRIVATE OpenCL::Headers)
+
+  # Khronos OpenCL C++ Headers
+  find_package(OpenCLHeadersCpp CONFIG REQUIRED)
+  target_link_libraries(main PRIVATE OpenCL::HeadersCpp)
+
+  # Khronos OpenCL ICD Loader
+  find_package(OpenCLICDLoader CONFIG REQUIRED)
+  target_link_libraries(main PRIVATE OpenCL::OpenCL)
+
+opencl provides pkg-config modules:
+
+  # Khronos OpenCL Headers
+  OpenCL-Headers
+
+  # Khronos OpenCL ICD Loader
+  OpenCL
+
+This package is only an OpenCL SDK. To actually run OpenCL code you also need to install an implementation.
+
+  Windows: Implementations typically ship with the drivers of you CPU/GPU vendors.
+  Linux:   Implementations may be installed from your distro's repo or manually.
+  Apple:   Consult your distribution vendor on the state of OpenCL support:
+           https://support.apple.com/en-us/HT202823

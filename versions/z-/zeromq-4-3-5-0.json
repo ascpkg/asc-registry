@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/zeromq-4-3-5-0",
+      "version": "4.3.5",
+      "port-version": 0
+    }
+  ]
+}

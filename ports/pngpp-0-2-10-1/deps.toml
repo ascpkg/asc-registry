@@ -1,0 +1,5 @@
+old = "pngpp"
+new = "pngpp-0-2-10-1"
+
+[deps]
+libpng-1-6-37-19 = "libpng"

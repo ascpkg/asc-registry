@@ -1,0 +1,5 @@
+old = "webview2"
+new = "webview2-1-0-2088-41-0"
+
+[deps]
+wil-2023-08-24-0 = "wil"

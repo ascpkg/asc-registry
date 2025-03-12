@@ -1,0 +1,10 @@
+old = "gloo"
+new = "gloo-20201203-3"
+
+[deps]
+cuda-10-1-13 = "cuda"
+hiredis-1-2-0-0 = "hiredis"
+nccl-2-4-6-2 = "nccl"
+openmpi-4-1-6-1 = "openmpi"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

@@ -1,0 +1,5 @@
+old = "modp-base64"
+new = "modp-base64-2020-09-26-2"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

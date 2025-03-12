@@ -1,0 +1,10 @@
+old = "harfbuzz"
+new = "harfbuzz-5-0-1-3"
+
+[deps]
+freetype-2-12-1-2 = "freetype"
+gettext-0-21-9 = "gettext"
+glib-2-74-1-0 = "glib"
+graphite2-1-3-14-3 = "graphite2"
+icu-71-1-0 = "icu"
+vcpkg-tool-meson-0-63-0 = "vcpkg-tool-meson"

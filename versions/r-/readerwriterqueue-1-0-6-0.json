@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/readerwriterqueue-1-0-6-0",
+      "version-semver": "1.0.6",
+      "port-version": 0
+    }
+  ]
+}

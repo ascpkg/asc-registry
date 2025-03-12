@@ -1,0 +1,12 @@
+old = "kf5guiaddons"
+new = "kf5guiaddons-5-89-0-1"
+
+[deps]
+ecm-5-89-0-0 = "ecm"
+kf5guiaddons-5-89-0-1 = "kf5guiaddons"
+qt5-tools-5-15-5-0 = "qt5-tools"
+qt5-wayland-5-15-5-0 = "qt5-wayland"
+qt5-winextras-5-15-5-0 = "qt5-winextras"
+qt5-x11extras-5-15-5-0 = "qt5-x11extras"
+vcpkg-cmake-2022-07-02-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

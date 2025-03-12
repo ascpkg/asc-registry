@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gettimeofday-2017-10-14-5",
+      "version-date": "2017-10-14",
+      "port-version": 5
+    }
+  ]
+}

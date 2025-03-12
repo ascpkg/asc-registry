@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qtdeclarative-6-6-0-1",
+      "version": "6.6.0",
+      "port-version": 1
+    }
+  ]
+}

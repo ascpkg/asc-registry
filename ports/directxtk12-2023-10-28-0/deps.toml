@@ -1,0 +1,11 @@
+old = "directxtk12"
+new = "directxtk12-2023-10-28-0"
+
+[deps]
+directx-dxc-2023-08-14-0 = "directx-dxc"
+directx-headers-1-610-2-0 = "directx-headers"
+directxmath-2022-12-12-0 = "directxmath"
+ms-gdkx-1-0-0-1 = "ms-gdkx"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+xaudio2redist-1-2-11-1 = "xaudio2redist"

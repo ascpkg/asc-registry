@@ -1,0 +1,25 @@
+{
+  "name": "opusfile",
+  "version": "0.12",
+  "port-version": 2,
+  "description": "Stand-alone decoder library for .opus streams",
+  "homepage": "https://github.com/xiph/opusfile",
+  "license": "BSD-3-Clause",
+  "supports": "!uwp",
+  "dependencies": [
+    "libogg",
+    "opus",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    }
+  ],
+  "features": {
+    "opusurl": {
+      "description": "Support decoding of http(s) streams",
+      "dependencies": [
+        "openssl"
+      ]
+    }
+  }
+}

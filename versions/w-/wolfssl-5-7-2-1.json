@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/wolfssl-5-7-2-1",
+      "version": "5.7.2",
+      "port-version": 1
+    }
+  ]
+}

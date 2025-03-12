@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/websocketpp-0-8-2-2",
+      "version": "0.8.2",
+      "port-version": 2
+    }
+  ]
+}

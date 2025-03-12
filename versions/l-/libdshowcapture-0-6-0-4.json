@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libdshowcapture-0-6-0-4",
+      "version": "0.6.0",
+      "port-version": 4
+    }
+  ]
+}

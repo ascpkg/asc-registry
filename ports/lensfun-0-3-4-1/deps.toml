@@ -1,0 +1,7 @@
+old = "lensfun"
+new = "lensfun-0-3-4-1"
+
+[deps]
+glib-2-78-0-0 = "glib"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

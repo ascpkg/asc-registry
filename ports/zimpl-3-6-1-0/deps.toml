@@ -1,0 +1,9 @@
+old = "zimpl"
+new = "zimpl-3-6-1-0"
+
+[deps]
+gmp-6-3-0-0 = "gmp"
+pcre2-10-43-0 = "pcre2"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
+zlib-1-3-1-0 = "zlib"

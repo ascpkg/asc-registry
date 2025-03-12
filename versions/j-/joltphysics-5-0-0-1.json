@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/joltphysics-5-0-0-1",
+      "version": "5.0.0",
+      "port-version": 1
+    }
+  ]
+}

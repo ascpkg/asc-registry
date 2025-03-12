@@ -1,0 +1,5 @@
+old = "antlr4"
+new = "antlr4-4-9-1-2"
+
+[deps]
+libuuid-1-0-3-10 = "libuuid"

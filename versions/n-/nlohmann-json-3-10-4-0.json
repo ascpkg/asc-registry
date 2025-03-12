@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/nlohmann-json-3-10-4-0",
+      "version-semver": "3.10.4",
+      "port-version": 0
+    }
+  ]
+}

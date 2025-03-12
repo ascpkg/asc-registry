@@ -1,0 +1,13 @@
+old = "coolprop"
+new = "coolprop-6-4-1-2"
+
+[deps]
+catch-alias-1 = "catch"
+eigen3-3-4-0-2 = "eigen3"
+fmt-9-0-0-0 = "fmt"
+if97-2-1-2-1 = "if97"
+msgpack-3-3-0-2 = "msgpack"
+pybind11-2-10-0-1 = "pybind11"
+rapidjson-2022-06-28-3 = "rapidjson"
+refprop-headers-2019-04-14-1 = "refprop-headers"
+vcpkg-cmake-2022-08-18-0 = "vcpkg-cmake"

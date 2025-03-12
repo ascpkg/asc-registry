@@ -1,0 +1,5 @@
+old = "qt5-canvas3d"
+new = "qt5-canvas3d-0-3"
+
+[deps]
+qt5-base-5-15-13-1 = "qt5-base"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/approval-tests-cpp-10-12-2-0",
+      "version": "10.12.2",
+      "port-version": 0
+    }
+  ]
+}

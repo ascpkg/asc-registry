@@ -1,0 +1,9 @@
+old = "caffe2"
+new = "caffe2-0-8-1-5"
+
+[deps]
+eigen3-3-3-9-1 = "eigen3"
+gflags-2-2-2-4 = "gflags"
+glog-0-4-0-4 = "glog"
+lmdb-0-9-24-1 = "lmdb"
+protobuf-3-18-0-0 = "protobuf"

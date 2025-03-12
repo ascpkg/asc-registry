@@ -1,0 +1,8 @@
+old = "apr-util"
+new = "apr-util-1-6-3-0"
+
+[deps]
+apr-1-7-4-0 = "apr"
+expat-2-5-0-3 = "expat"
+openssl-3-1-3-0 = "openssl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

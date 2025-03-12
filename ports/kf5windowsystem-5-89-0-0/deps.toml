@@ -1,0 +1,10 @@
+old = "kf5windowsystem"
+new = "kf5windowsystem-5-89-0-0"
+
+[deps]
+ecm-5-89-0-0 = "ecm"
+qt5-tools-5-15-2-1 = "qt5-tools"
+qt5-winextras-5-15-2-1 = "qt5-winextras"
+qt5-x11extras-5-15-2-1 = "qt5-x11extras"
+vcpkg-cmake-2021-12-05-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-01-0 = "vcpkg-cmake-config"

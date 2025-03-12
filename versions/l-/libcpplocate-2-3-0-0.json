@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libcpplocate-2-3-0-0",
+      "version-semver": "2.3.0",
+      "port-version": 0
+    }
+  ]
+}

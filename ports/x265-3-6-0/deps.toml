@@ -1,0 +1,5 @@
+old = "x265"
+new = "x265-3-6-0"
+
+[deps]
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"

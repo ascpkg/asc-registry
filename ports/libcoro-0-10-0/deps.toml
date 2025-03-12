@@ -1,0 +1,8 @@
+old = "libcoro"
+new = "libcoro-0-10-0"
+
+[deps]
+c-ares-1-19-1-0 = "c-ares"
+libcoro-0-10-0 = "libcoro"
+openssl-3-2-0-1 = "openssl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

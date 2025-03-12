@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/yalantinglibs-0-3-10-0",
+      "version": "0.3.10",
+      "port-version": 0
+    }
+  ]
+}

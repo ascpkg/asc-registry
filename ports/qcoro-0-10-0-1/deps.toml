@@ -1,0 +1,9 @@
+old = "qcoro"
+new = "qcoro-0-10-0-1"
+
+[deps]
+qtbase-6-7-0-2 = "qtbase"
+qtdeclarative-6-7-0-1 = "qtdeclarative"
+qtwebsockets-6-7-0-0 = "qtwebsockets"
+vcpkg-cmake-2024-04-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

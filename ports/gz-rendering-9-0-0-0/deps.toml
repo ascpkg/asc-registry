@@ -1,0 +1,13 @@
+old = "gz-rendering"
+new = "gz-rendering-9-0-0-0"
+
+[deps]
+freeimage-3-18-0-27 = "freeimage"
+gz-cmake-4-1-1-0 = "gz-cmake"
+gz-common-6-0-2-0 = "gz-common"
+gz-math-8-1-0-0 = "gz-math"
+gz-plugin-3-0-0-0 = "gz-plugin"
+gz-utils-3-1-0-0 = "gz-utils"
+ignition-modularscripts-2025-02-27-0 = "ignition-modularscripts"
+ogre-next-2-3-3-3 = "ogre-next"
+opengl-2022-12-04-3 = "opengl"

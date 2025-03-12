@@ -1,0 +1,13 @@
+old = "cpp-netlib"
+new = "cpp-netlib-0-13-0-9"
+
+[deps]
+boost-asio-1-83-0-0 = "boost-asio"
+boost-assign-1-83-0-0 = "boost-assign"
+boost-logic-1-83-0-0 = "boost-logic"
+boost-program-options-1-83-0-0 = "boost-program-options"
+boost-scope-exit-1-83-0-0 = "boost-scope-exit"
+boost-smart-ptr-1-83-0-0 = "boost-smart-ptr"
+boost-spirit-1-83-0-0 = "boost-spirit"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

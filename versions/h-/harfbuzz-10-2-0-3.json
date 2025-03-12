@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/harfbuzz-10-2-0-3",
+      "version": "10.2.0",
+      "port-version": 3
+    }
+  ]
+}

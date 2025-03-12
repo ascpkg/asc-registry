@@ -1,0 +1,5 @@
+old = "openldap"
+new = "openldap-2-5-17-0"
+
+[deps]
+openssl-3-2-1-2 = "openssl"

@@ -1,0 +1,9 @@
+old = "qpid-proton"
+new = "qpid-proton-0-32-0-2"
+
+[deps]
+jsoncpp-1-9-4-1 = "jsoncpp"
+libuv-1-42-0-2 = "libuv"
+openssl-1-1-1l-3 = "openssl"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"

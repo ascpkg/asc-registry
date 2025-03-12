@@ -1,0 +1,5 @@
+old = "dav1d"
+new = "dav1d-1-5-0-0"
+
+[deps]
+vcpkg-tool-meson-1-6-0-0 = "vcpkg-tool-meson"

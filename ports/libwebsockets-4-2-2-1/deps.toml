@@ -1,0 +1,10 @@
+old = "libwebsockets"
+new = "libwebsockets-4-2-2-1"
+
+[deps]
+libuv-1-42-0-1 = "libuv"
+openssl-1-1-1l-1 = "openssl"
+pthreads-3-0-0-10 = "pthreads"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"
+zlib-1-2-11-12 = "zlib"

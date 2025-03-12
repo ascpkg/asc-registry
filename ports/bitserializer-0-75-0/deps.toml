@@ -1,0 +1,10 @@
+old = "bitserializer"
+new = "bitserializer-0-75-0"
+
+[deps]
+cpprestsdk-2-10-19-3 = "cpprestsdk"
+pugixml-1-15-0 = "pugixml"
+rapidjson-2023-07-17-2 = "rapidjson"
+ryml-0-8-0-0 = "ryml"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

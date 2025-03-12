@@ -1,0 +1,14 @@
+old = "ogre-next"
+new = "ogre-next-2-3-3-2"
+
+[deps]
+freeimage-3-18-0-25 = "freeimage"
+freetype-2-12-1-4 = "freetype"
+glslang-13-1-1-1 = "glslang"
+rapidjson-2023-07-17-0 = "rapidjson"
+tinyxml-2-6-2-10 = "tinyxml"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+vulkan-2023-12-17-0 = "vulkan"
+zlib-1-3-0 = "zlib"
+zziplib-0-13-72-3 = "zziplib"

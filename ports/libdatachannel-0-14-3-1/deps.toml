@@ -1,0 +1,11 @@
+old = "libdatachannel"
+new = "libdatachannel-0-14-3-1"
+
+[deps]
+libjuice-0-8-4-0 = "libjuice"
+libsrtp-2-2-0-1 = "libsrtp"
+openssl-1-1-1l-1 = "openssl"
+plog-1-1-5-1 = "plog"
+usrsctp-0-9-5-0-0 = "usrsctp"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"

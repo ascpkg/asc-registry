@@ -1,0 +1,10 @@
+old = "mesa"
+new = "mesa-21-2-5-3"
+
+[deps]
+llvm-13-0-0-3 = "llvm"
+mesa-21-2-5-3 = "mesa"
+vcpkg-get-python-packages-2022-02-12-0 = "vcpkg-get-python-packages"
+vcpkg-tool-meson-0-60-2-2 = "vcpkg-tool-meson"
+zlib-1-2-12-0 = "zlib"
+zstd-1-5-2-1 = "zstd"

@@ -1,0 +1,11 @@
+old = "orc"
+new = "orc-1-7-6-0"
+
+[deps]
+gtest-1-12-1-0 = "gtest"
+lz4-1-9-3-4 = "lz4"
+protobuf-3-21-4-0 = "protobuf"
+snappy-1-1-9-2 = "snappy"
+vcpkg-cmake-2022-07-18-0 = "vcpkg-cmake"
+zlib-1-2-12-1 = "zlib"
+zstd-1-5-2-1 = "zstd"

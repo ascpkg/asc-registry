@@ -1,0 +1,6 @@
+old = "freetype-gl"
+new = "freetype-gl-2020-09-14-1"
+
+[deps]
+freetype-2-11-0-0 = "freetype"
+glew-2-2-0-0 = "glew"

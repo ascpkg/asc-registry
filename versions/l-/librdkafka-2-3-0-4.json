@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/librdkafka-2-3-0-4",
+      "version": "2.3.0",
+      "port-version": 4
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+old = "field3d"
+new = "field3d-1-7-3-3"
+
+[deps]
+boost-foreach-1-78-0-0 = "boost-foreach"
+boost-format-1-78-0-0 = "boost-format"
+boost-program-options-1-78-0-0 = "boost-program-options"
+boost-regex-1-78-0-0 = "boost-regex"
+boost-system-1-78-0-0 = "boost-system"
+boost-test-1-78-0-0 = "boost-test"
+boost-thread-1-78-0-0 = "boost-thread"
+boost-timer-1-78-0-0 = "boost-timer"
+hdf5-1-12-1-4 = "hdf5"
+openexr-2-5-0-3 = "openexr"

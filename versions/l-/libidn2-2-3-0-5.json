@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libidn2-2-3-0-5",
+      "version": "2.3.0",
+      "port-version": 5
+    }
+  ]
+}

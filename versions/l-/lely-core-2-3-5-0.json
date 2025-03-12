@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/lely-core-2-3-5-0",
+      "version": "2.3.5",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/kinectsdk2-2-0-7",
+      "version": "2.0",
+      "port-version": 7
+    }
+  ]
+}

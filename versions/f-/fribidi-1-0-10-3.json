@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/fribidi-1-0-10-3",
+      "version-string": "1.0.10",
+      "port-version": 3
+    }
+  ]
+}

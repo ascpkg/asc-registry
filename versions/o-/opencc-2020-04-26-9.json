@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/opencc-2020-04-26-9",
+      "version-string": "2020-04-26",
+      "port-version": 9
+    }
+  ]
+}

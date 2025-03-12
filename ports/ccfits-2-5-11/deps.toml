@@ -1,0 +1,6 @@
+old = "ccfits"
+new = "ccfits-2-5-11"
+
+[deps]
+cfitsio-3-49-3 = "cfitsio"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

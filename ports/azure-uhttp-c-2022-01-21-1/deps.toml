@@ -1,0 +1,9 @@
+old = "azure-uhttp-c"
+new = "azure-uhttp-c-2022-01-21-1"
+
+[deps]
+azure-c-shared-utility-2022-01-21-2 = "azure-c-shared-utility"
+azure-macro-utils-c-2022-01-21-0 = "azure-macro-utils-c"
+umock-c-2022-01-21-0 = "umock-c"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"

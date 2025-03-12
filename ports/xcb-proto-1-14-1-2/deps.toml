@@ -1,0 +1,7 @@
+old = "xcb-proto"
+new = "xcb-proto-1-14-1-2"
+
+[deps]
+bzip2-1-0-8-5 = "bzip2"
+libxml2-2-11-7-0 = "libxml2"
+xorg-macros-1-19-3-0 = "xorg-macros"

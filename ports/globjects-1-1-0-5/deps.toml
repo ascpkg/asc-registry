@@ -1,0 +1,8 @@
+old = "globjects"
+new = "globjects-1-1-0-5"
+
+[deps]
+glbinding-3-1-0-4 = "glbinding"
+glm-0-9-9-8-2 = "glm"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

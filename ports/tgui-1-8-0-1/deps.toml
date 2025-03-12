@@ -1,0 +1,14 @@
+old = "tgui"
+new = "tgui-1-8-0-1"
+
+[deps]
+opengl-2022-12-04-3 = "opengl"
+raylib-5-5-0 = "raylib"
+sdl2-2-32-2-1 = "sdl2"
+sdl2-ttf-2-24-0-0 = "sdl2-ttf"
+sdl3-3-2-8-0 = "sdl3"
+sdl3-ttf-3-1-0-0 = "sdl3-ttf"
+sfml-3-0-0-1 = "sfml"
+stb-2024-07-29-1 = "stb"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

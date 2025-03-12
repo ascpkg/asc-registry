@@ -1,0 +1,9 @@
+old = "sdbus-cpp"
+new = "sdbus-cpp-1-5-0-0"
+
+[deps]
+dbus-1-15-8-2 = "dbus"
+expat-2-6-2-0 = "expat"
+libsystemd-254-2 = "libsystemd"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

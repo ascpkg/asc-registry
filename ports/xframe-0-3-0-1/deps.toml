@@ -1,0 +1,6 @@
+old = "xframe"
+new = "xframe-0-3-0-1"
+
+[deps]
+xtensor-0-23-10-0 = "xtensor"
+xtl-0-7-2-0 = "xtl"

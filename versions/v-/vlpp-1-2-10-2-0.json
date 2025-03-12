@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/vlpp-1-2-10-2-0",
+      "version": "1.2.10.2",
+      "port-version": 0
+    }
+  ]
+}

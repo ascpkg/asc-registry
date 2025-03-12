@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libyaml-0-2-5-4",
+      "version": "0.2.5",
+      "port-version": 4
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+old = "civetweb"
+new = "civetweb-1-15-2"
+
+[deps]
+openssl-3-0-5-4 = "openssl"
+vcpkg-cmake-2022-07-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

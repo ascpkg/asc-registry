@@ -1,0 +1,5 @@
+old = "intel-mkl"
+new = "intel-mkl-2023-0-0-3"
+
+[deps]
+vcpkg-tool-lessmsi-1-10-0-1 = "vcpkg-tool-lessmsi"

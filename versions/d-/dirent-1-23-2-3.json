@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/dirent-1-23-2-3",
+      "version": "1.23.2",
+      "port-version": 3
+    }
+  ]
+}

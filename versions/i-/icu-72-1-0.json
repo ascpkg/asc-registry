@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/icu-72-1-0",
+      "version": "72.1",
+      "port-version": 0
+    }
+  ]
+}

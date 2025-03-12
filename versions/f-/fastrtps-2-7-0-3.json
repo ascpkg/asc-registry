@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/fastrtps-2-7-0-3",
+      "version": "2.7.0",
+      "port-version": 3
+    }
+  ]
+}

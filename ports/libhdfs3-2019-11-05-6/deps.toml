@@ -1,0 +1,13 @@
+old = "libhdfs3"
+new = "libhdfs3-2019-11-05-6"
+
+[deps]
+boost-atomic-1-84-0-0 = "boost-atomic"
+boost-chrono-1-84-0-0 = "boost-chrono"
+boost-iostreams-1-84-0-0 = "boost-iostreams"
+boost-system-1-84-0-0 = "boost-system"
+boost-thread-1-84-0-0 = "boost-thread"
+libuuid-1-0-3-14 = "libuuid"
+libxml2-2-11-7-0 = "libxml2"
+protobuf-3-21-12-2 = "protobuf"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

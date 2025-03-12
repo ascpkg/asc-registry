@@ -1,0 +1,7 @@
+old = "libsoundio"
+new = "libsoundio-2-0-0-7"
+
+[deps]
+jack2-1-9-21-0 = "jack2"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

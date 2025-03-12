@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/azure-security-attestation-cpp-1-1-0-5",
+      "version-semver": "1.1.0",
+      "port-version": 5
+    }
+  ]
+}

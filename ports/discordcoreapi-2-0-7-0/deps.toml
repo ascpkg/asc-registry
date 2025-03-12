@@ -1,0 +1,10 @@
+old = "discordcoreapi"
+new = "discordcoreapi-2-0-7-0"
+
+[deps]
+jsonifier-0-9-97-0 = "jsonifier"
+libsodium-1-0-20-3 = "libsodium"
+openssl-3-3-2-1 = "openssl"
+opus-1-5-2-0 = "opus"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

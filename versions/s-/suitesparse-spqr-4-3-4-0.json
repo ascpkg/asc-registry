@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/suitesparse-spqr-4-3-4-0",
+      "version-semver": "4.3.4",
+      "port-version": 0
+    }
+  ]
+}

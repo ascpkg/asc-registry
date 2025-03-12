@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/vcpkg-msbuild-2023-06-22-0",
+      "version-date": "2023-06-22",
+      "port-version": 0
+    }
+  ]
+}

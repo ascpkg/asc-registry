@@ -1,0 +1,5 @@
+old = "mapbox-geojson-vt-cpp"
+new = "mapbox-geojson-vt-cpp-6-6-5-0"
+
+[deps]
+mapbox-geometry-2-0-3-0 = "mapbox-geometry"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/coin-4-0-2-3",
+      "version": "4.0.2",
+      "port-version": 3
+    }
+  ]
+}

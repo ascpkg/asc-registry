@@ -1,0 +1,7 @@
+old = "amqpcpp"
+new = "amqpcpp-4-3-19-0"
+
+[deps]
+openssl-3-0-8-0 = "openssl"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

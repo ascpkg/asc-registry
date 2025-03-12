@@ -1,0 +1,6 @@
+old = "qt5-purchasing"
+new = "qt5-purchasing-5-15-13-1"
+
+[deps]
+qt5-base-5-15-13-1 = "qt5-base"
+qt5-declarative-5-15-13-1 = "qt5-declarative"

@@ -1,0 +1,18 @@
+old = "gz-gui7"
+new = "gz-gui7-7-2-1-0"
+
+[deps]
+gz-cmake3-3-4-1-4 = "gz-cmake3"
+gz-common5-5-4-1-1 = "gz-common5"
+gz-math7-7-3-0-0 = "gz-math7"
+gz-msgs9-9-5-0-0 = "gz-msgs9"
+gz-plugin2-2-0-1-0 = "gz-plugin2"
+gz-rendering7-7-4-1-0 = "gz-rendering7"
+gz-transport12-12-2-0-0 = "gz-transport12"
+gz-utils2-2-0-0-0 = "gz-utils2"
+ignition-modularscripts-2023-05-05-0 = "ignition-modularscripts"
+protobuf-3-21-12-0 = "protobuf"
+qt5-base-5-15-11-1 = "qt5-base"
+qt5-quickcontrols2-5-15-11-0 = "qt5-quickcontrols2"
+sdformat13-13-5-0-1 = "sdformat13"
+tinyxml2-9-0-0-2 = "tinyxml2"

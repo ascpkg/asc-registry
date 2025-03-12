@@ -1,0 +1,6 @@
+old = "fftw3"
+new = "fftw3-3-3-10-3"
+
+[deps]
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"

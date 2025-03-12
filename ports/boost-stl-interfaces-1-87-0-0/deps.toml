@@ -1,0 +1,9 @@
+old = "boost-stl-interfaces"
+new = "boost-stl-interfaces-1-87-0-0"
+
+[deps]
+boost-assert-1-87-0-0 = "boost-assert"
+boost-cmake-1-87-0-0 = "boost-cmake"
+boost-config-1-87-0-0 = "boost-config"
+boost-headers-1-87-0-0 = "boost-headers"
+boost-type-traits-1-87-0-0 = "boost-type-traits"

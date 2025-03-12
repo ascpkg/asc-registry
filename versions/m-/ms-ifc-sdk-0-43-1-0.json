@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ms-ifc-sdk-0-43-1-0",
+      "version": "0.43.1",
+      "port-version": 0
+    }
+  ]
+}

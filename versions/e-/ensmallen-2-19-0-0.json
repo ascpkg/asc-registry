@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ensmallen-2-19-0-0",
+      "version-semver": "2.19.0",
+      "port-version": 0
+    }
+  ]
+}

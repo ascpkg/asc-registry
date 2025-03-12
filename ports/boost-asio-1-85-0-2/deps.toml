@@ -1,0 +1,15 @@
+old = "boost-asio"
+new = "boost-asio-1-85-0-2"
+
+[deps]
+boost-align-1-85-0-1 = "boost-align"
+boost-assert-1-85-0-1 = "boost-assert"
+boost-cmake-1-85-0-1 = "boost-cmake"
+boost-config-1-85-0-1 = "boost-config"
+boost-context-1-85-0-1 = "boost-context"
+boost-coroutine-1-85-0-1 = "boost-coroutine"
+boost-date-time-1-85-0-1 = "boost-date-time"
+boost-headers-1-85-0-1 = "boost-headers"
+boost-system-1-85-0-1 = "boost-system"
+boost-throw-exception-1-85-0-1 = "boost-throw-exception"
+openssl-3-3-0-1 = "openssl"

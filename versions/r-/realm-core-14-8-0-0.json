@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/realm-core-14-8-0-0",
+      "version": "14.8.0",
+      "port-version": 0
+    }
+  ]
+}

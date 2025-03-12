@@ -1,0 +1,6 @@
+old = "boost-config"
+new = "boost-config-1-86-0-0"
+
+[deps]
+boost-cmake-1-86-0-0 = "boost-cmake"
+boost-headers-1-86-0-0 = "boost-headers"

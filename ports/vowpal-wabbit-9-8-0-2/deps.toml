@@ -1,0 +1,15 @@
+old = "vowpal-wabbit"
+new = "vowpal-wabbit-9-8-0-2"
+
+[deps]
+boost-math-1-81-0-2 = "boost-math"
+eigen3-3-4-0-2 = "eigen3"
+flatbuffers-23-3-3-0 = "flatbuffers"
+fmt-9-1-0-1 = "fmt"
+rapidjson-2022-06-28-3 = "rapidjson"
+spdlog-1-11-0-0 = "spdlog"
+sse2neon-1-5-1-1 = "sse2neon"
+string-view-lite-1-7-0-1 = "string-view-lite"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-2-13-0 = "zlib"

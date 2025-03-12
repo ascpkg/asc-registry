@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/rtabmap-0-20-13-1",
+      "version-string": "0.20.13",
+      "port-version": 1
+    }
+  ]
+}

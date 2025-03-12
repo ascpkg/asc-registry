@@ -1,0 +1,7 @@
+old = "qt5-declarative"
+new = "qt5-declarative-5-15-2-3"
+
+[deps]
+qt5-base-5-15-2-17 = "qt5-base"
+qt5-imageformats-5-15-2-1 = "qt5-imageformats"
+qt5-svg-5-15-2-2 = "qt5-svg"

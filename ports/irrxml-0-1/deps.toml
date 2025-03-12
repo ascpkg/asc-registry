@@ -1,0 +1,5 @@
+old = "irrxml"
+new = "irrxml-0-1"
+
+[deps]
+irrlicht-1-8-4-14 = "irrlicht"

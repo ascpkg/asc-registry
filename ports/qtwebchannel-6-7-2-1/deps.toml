@@ -1,0 +1,6 @@
+old = "qtwebchannel"
+new = "qtwebchannel-6-7-2-1"
+
+[deps]
+qtbase-6-7-2-0 = "qtbase"
+qtdeclarative-6-7-2-0 = "qtdeclarative"

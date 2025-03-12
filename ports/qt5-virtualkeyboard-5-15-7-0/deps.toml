@@ -1,0 +1,7 @@
+old = "qt5-virtualkeyboard"
+new = "qt5-virtualkeyboard-5-15-7-0"
+
+[deps]
+qt5-multimedia-5-15-7-0 = "qt5-multimedia"
+qt5-quickcontrols-5-15-7-0 = "qt5-quickcontrols"
+qt5-svg-5-15-7-0 = "qt5-svg"

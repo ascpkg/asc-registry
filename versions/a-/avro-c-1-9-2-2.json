@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/avro-c-1-9-2-2",
+      "version-string": "1.9.2",
+      "port-version": 2
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libcanberra-0-30-4",
+      "version": "0.30",
+      "port-version": 4
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+old = "crfsuite"
+new = "crfsuite-2020-08-27-1"
+
+[deps]
+liblbfgs-1-10-2 = "liblbfgs"
+vcpkg-cmake-2024-04-18-0 = "vcpkg-cmake"

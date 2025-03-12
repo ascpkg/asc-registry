@@ -1,0 +1,8 @@
+old = "aliyun-oss-c-sdk"
+new = "aliyun-oss-c-sdk-3-10-0-2"
+
+[deps]
+apr-util-1-6-1-10 = "apr-util"
+curl-7-88-1-1 = "curl"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

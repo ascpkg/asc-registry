@@ -1,0 +1,13 @@
+old = "sdl2-mixer"
+new = "sdl2-mixer-2-0-4-15"
+
+[deps]
+fluidsynth-2-2-1-1 = "fluidsynth"
+libflac-1-3-3-7 = "libflac"
+libmodplug-0-8-9-0-9 = "libmodplug"
+libvorbis-1-3-7-1 = "libvorbis"
+mpg123-1-29-2-0 = "mpg123"
+opusfile-0-12-1 = "opusfile"
+sdl2-2-0-16-3 = "sdl2"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-11-01-0 = "vcpkg-cmake-config"

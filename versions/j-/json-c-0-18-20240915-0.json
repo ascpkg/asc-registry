@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/json-c-0-18-20240915-0",
+      "version": "0.18-20240915",
+      "port-version": 0
+    }
+  ]
+}

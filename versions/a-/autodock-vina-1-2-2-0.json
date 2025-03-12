@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/autodock-vina-1-2-2-0",
+      "version-semver": "1.2.2",
+      "port-version": 0
+    }
+  ]
+}

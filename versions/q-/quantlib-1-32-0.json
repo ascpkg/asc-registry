@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/quantlib-1-32-0",
+      "version": "1.32",
+      "port-version": 0
+    }
+  ]
+}

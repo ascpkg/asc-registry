@@ -1,0 +1,10 @@
+old = "jasper"
+new = "jasper-4-2-0-0"
+
+[deps]
+freeglut-3-4-0-1 = "freeglut"
+jasper-4-2-0-0 = "jasper"
+libjpeg-turbo-3-0-2-0 = "libjpeg-turbo"
+opengl-2022-12-04-3 = "opengl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

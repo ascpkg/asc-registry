@@ -1,0 +1,13 @@
+old = "libspatialite"
+new = "libspatialite-5-0-1-7"
+
+[deps]
+freexl-1-0-6-1 = "freexl"
+geos-3-11-0-0 = "geos"
+libiconv-1-17-0 = "libiconv"
+librttopo-1-1-0-5 = "librttopo"
+libxml2-2-9-14-1 = "libxml2"
+proj-9-0-1-1 = "proj"
+sqlite3-3-39-1-0 = "sqlite3"
+vcpkg-pkgconfig-get-modules-2022-02-10-1 = "vcpkg-pkgconfig-get-modules"
+zlib-1-2-12-1 = "zlib"

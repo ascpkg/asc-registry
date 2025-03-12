@@ -1,0 +1,8 @@
+old = "qtvirtualkeyboard"
+new = "qtvirtualkeyboard-6-1-3-0"
+
+[deps]
+hunspell-1-7-0-5 = "hunspell"
+qtdeclarative-6-1-3-0 = "qtdeclarative"
+qtsvg-6-1-3-0 = "qtsvg"
+qttools-6-1-3-0 = "qttools"

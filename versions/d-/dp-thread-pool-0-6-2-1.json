@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/dp-thread-pool-0-6-2-1",
+      "version": "0.6.2",
+      "port-version": 1
+    }
+  ]
+}

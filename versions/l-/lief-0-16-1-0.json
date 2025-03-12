@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/lief-0-16-1-0",
+      "version-semver": "0.16.1",
+      "port-version": 0
+    }
+  ]
+}

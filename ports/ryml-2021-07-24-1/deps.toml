@@ -1,0 +1,7 @@
+old = "ryml"
+new = "ryml-2021-07-24-1"
+
+[deps]
+c4core-2021-07-18-1 = "c4core"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"

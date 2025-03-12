@@ -1,0 +1,5 @@
+old = "geotrans"
+new = "geotrans-3-9-0"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

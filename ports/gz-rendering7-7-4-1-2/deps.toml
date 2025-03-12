@@ -1,0 +1,5 @@
+old = "gz-rendering7"
+new = "gz-rendering7-7-4-1-2"
+
+[deps]
+gz-rendering-7-4-1-0 = "gz-rendering"

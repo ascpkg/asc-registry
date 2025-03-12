@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libjpeg-turbo-2-0-6-2",
+      "version": "2.0.6",
+      "port-version": 2
+    }
+  ]
+}

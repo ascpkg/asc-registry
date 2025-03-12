@@ -1,0 +1,2 @@
+old = "vcpkg-cmake-config"
+new = "vcpkg-cmake-config-2021-05-22-1"

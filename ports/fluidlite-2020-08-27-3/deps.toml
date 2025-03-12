@@ -1,0 +1,5 @@
+old = "fluidlite"
+new = "fluidlite-2020-08-27-3"
+
+[deps]
+vcpkg-cmake-2022-10-30-0 = "vcpkg-cmake"

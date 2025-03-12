@@ -1,0 +1,7 @@
+old = "omplapp"
+new = "omplapp-1-5-1-0"
+
+[deps]
+assimp-5-0-1-4 = "assimp"
+fcl-0-6-1-0 = "fcl"
+ompl-1-5-1-1 = "ompl"

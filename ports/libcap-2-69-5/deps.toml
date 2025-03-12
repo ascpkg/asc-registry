@@ -1,0 +1,5 @@
+old = "libcap"
+new = "libcap-2-69-5"
+
+[deps]
+libcap-2-69-5 = "libcap"

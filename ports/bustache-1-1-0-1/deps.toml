@@ -1,0 +1,6 @@
+old = "bustache"
+new = "bustache-1-1-0-1"
+
+[deps]
+boost-unordered-1-76-0-0 = "boost-unordered"
+boost-utility-1-76-0-0 = "boost-utility"

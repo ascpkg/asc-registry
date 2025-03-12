@@ -1,0 +1,13 @@
+old = "netgen"
+new = "netgen-6-2-2401-0"
+
+[deps]
+cgns-4-4-0-0 = "cgns"
+ffmpeg-6-1-1-0 = "ffmpeg"
+libjpeg-turbo-3-0-2-0 = "libjpeg-turbo"
+opencascade-7-8-0-0 = "opencascade"
+pybind11-2-11-1-0 = "pybind11"
+python3-3-11-5-4 = "python3"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-3-1-0 = "zlib"

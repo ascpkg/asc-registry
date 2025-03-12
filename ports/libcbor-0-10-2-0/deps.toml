@@ -1,0 +1,5 @@
+old = "libcbor"
+new = "libcbor-0-10-2-0"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

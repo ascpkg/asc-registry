@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/sciter-js-4-4-8-16-0",
+      "version-string": "4.4.8.16",
+      "port-version": 0
+    }
+  ]
+}

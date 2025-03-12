@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/armadillo-12-6-6-1",
+      "version": "12.6.6",
+      "port-version": 1
+    }
+  ]
+}

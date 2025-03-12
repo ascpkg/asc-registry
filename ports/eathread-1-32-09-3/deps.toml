@@ -1,0 +1,6 @@
+old = "eathread"
+new = "eathread-1-32-09-3"
+
+[deps]
+eabase-2-09-12-2 = "eabase"
+eastl-3-18-00-1 = "eastl"

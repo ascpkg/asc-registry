@@ -1,0 +1,8 @@
+old = "gl2ps"
+new = "gl2ps-1-4-2-4"
+
+[deps]
+libpng-1-6-40-0 = "libpng"
+opengl-2022-12-04-3 = "opengl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+zlib-1-3-0 = "zlib"

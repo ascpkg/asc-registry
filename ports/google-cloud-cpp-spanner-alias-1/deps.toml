@@ -1,0 +1,5 @@
+old = "google-cloud-cpp-spanner"
+new = "google-cloud-cpp-spanner-alias-1"
+
+[deps]
+google-cloud-cpp-1-31-1-0 = "google-cloud-cpp"

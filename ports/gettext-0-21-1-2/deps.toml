@@ -1,0 +1,6 @@
+old = "gettext"
+new = "gettext-0-21-1-2"
+
+[deps]
+gettext-libintl-0-21-1-1 = "gettext-libintl"
+libiconv-1-17-1 = "libiconv"

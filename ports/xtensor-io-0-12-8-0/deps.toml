@@ -1,0 +1,8 @@
+old = "xtensor-io"
+new = "xtensor-io-0-12-8-0"
+
+[deps]
+vcpkg-cmake-2021-07-30-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"
+xtensor-0-23-10-0 = "xtensor"
+xtl-0-7-2-0 = "xtl"

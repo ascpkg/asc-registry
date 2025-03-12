@@ -1,0 +1,6 @@
+old = "b64"
+new = "b64-2-0-0-1-2"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

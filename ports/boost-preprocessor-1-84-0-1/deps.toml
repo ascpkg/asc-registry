@@ -1,0 +1,7 @@
+old = "boost-preprocessor"
+new = "boost-preprocessor-1-84-0-1"
+
+[deps]
+boost-cmake-1-84-0-0 = "boost-cmake"
+boost-config-1-84-0-1 = "boost-config"
+boost-headers-1-84-0-0 = "boost-headers"

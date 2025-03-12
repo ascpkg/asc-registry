@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/fplus-0-2-23-0",
+      "version": "0.2.23",
+      "port-version": 0
+    }
+  ]
+}

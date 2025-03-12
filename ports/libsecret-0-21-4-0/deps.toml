@@ -1,0 +1,7 @@
+old = "libsecret"
+new = "libsecret-0-21-4-0"
+
+[deps]
+glib-2-78-4-0 = "glib"
+libgcrypt-1-10-2-0 = "libgcrypt"
+vcpkg-tool-meson-0-63-2 = "vcpkg-tool-meson"

@@ -1,0 +1,7 @@
+old = "nettle"
+new = "nettle-3-6-2"
+
+[deps]
+gmp-6-2-1-9 = "gmp"
+vs-yasm-0-5-0-1 = "vs-yasm"
+yasm-tool-helper-2020-03-11-1 = "yasm-tool-helper"

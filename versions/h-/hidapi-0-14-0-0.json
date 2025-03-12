@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/hidapi-0-14-0-0",
+      "version-semver": "0.14.0",
+      "port-version": 0
+    }
+  ]
+}

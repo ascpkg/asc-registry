@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/flatbuffers-23-1-21-2",
+      "version": "23.1.21",
+      "port-version": 2
+    }
+  ]
+}

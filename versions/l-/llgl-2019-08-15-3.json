@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/llgl-2019-08-15-3",
+      "version-string": "2019-08-15",
+      "port-version": 3
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+old = "flint"
+new = "flint-2-5-2-5"
+
+[deps]
+gettimeofday-2017-10-14-4 = "gettimeofday"
+mpfr-4-1-0-1 = "mpfr"
+mpir-3-0-0-10 = "mpir"
+pthreads-3-0-0-10 = "pthreads"

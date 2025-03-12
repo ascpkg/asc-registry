@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/sqlitecpp-3-1-1-2",
+      "version-string": "3.1.1",
+      "port-version": 2
+    }
+  ]
+}

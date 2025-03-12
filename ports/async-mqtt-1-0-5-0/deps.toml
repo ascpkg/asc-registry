@@ -1,0 +1,17 @@
+old = "async-mqtt"
+new = "async-mqtt-1-0-5-0"
+
+[deps]
+boost-any-1-82-0-2 = "boost-any"
+boost-asio-1-82-0-3 = "boost-asio"
+boost-assert-1-82-0-2 = "boost-assert"
+boost-beast-1-82-0-2 = "boost-beast"
+boost-container-1-82-0-2 = "boost-container"
+boost-container-hash-1-82-0-2 = "boost-container-hash"
+boost-endian-1-82-0-2 = "boost-endian"
+boost-log-1-82-0-2 = "boost-log"
+boost-multi-index-1-82-0-2 = "boost-multi-index"
+boost-numeric-conversion-1-82-0-2 = "boost-numeric-conversion"
+boost-system-1-82-0-2 = "boost-system"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

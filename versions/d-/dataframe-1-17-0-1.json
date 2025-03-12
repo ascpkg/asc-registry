@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/dataframe-1-17-0-1",
+      "version-string": "1.17.0",
+      "port-version": 1
+    }
+  ]
+}

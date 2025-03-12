@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gazebo-2022-01-20-4",
+      "version-date": "2022-01-20",
+      "port-version": 4
+    }
+  ]
+}

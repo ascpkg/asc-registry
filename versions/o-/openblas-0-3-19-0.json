@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/openblas-0-3-19-0",
+      "version": "0.3.19",
+      "port-version": 0
+    }
+  ]
+}

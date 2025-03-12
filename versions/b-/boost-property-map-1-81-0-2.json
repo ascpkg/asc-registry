@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/boost-property-map-1-81-0-2",
+      "version": "1.81.0",
+      "port-version": 2
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+old = "sleepy-discord"
+new = "sleepy-discord-2021-07-07-0"
+
+[deps]
+boost-random-1-76-0-0 = "boost-random"
+cpr-1-6-2-0 = "cpr"
+libsodium-1-0-18-5 = "libsodium"
+opus-1-3-1-5 = "opus"
+vcpkg-cmake-2021-06-25-4 = "vcpkg-cmake"
+websocketpp-0-8-2-1 = "websocketpp"
+zlib-1-2-11-10 = "zlib"

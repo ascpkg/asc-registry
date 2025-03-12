@@ -1,0 +1,17 @@
+old = "qwtw"
+new = "qwtw-3-1-0-1"
+
+[deps]
+boost-asio-1-76-0-0 = "boost-asio"
+boost-chrono-1-76-0-0 = "boost-chrono"
+boost-circular-buffer-1-76-0-0 = "boost-circular-buffer"
+boost-date-time-1-76-0-0 = "boost-date-time"
+boost-filesystem-1-76-0-0 = "boost-filesystem"
+boost-regex-1-76-0-0 = "boost-regex"
+boost-system-1-76-0-0 = "boost-system"
+boost-thread-1-76-0-0 = "boost-thread"
+marble-19-08-2-2 = "marble"
+qt5-base-5-15-2-10 = "qt5-base"
+qt5-networkauth-5-15-2-1 = "qt5-networkauth"
+qt5-svg-5-15-2-2 = "qt5-svg"
+qwt-6-2-0-0 = "qwt"

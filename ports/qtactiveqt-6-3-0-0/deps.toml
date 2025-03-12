@@ -1,0 +1,7 @@
+old = "qtactiveqt"
+new = "qtactiveqt-6-3-0-0"
+
+[deps]
+qtactiveqt-6-3-0-0 = "qtactiveqt"
+qtbase-6-3-0-0 = "qtbase"
+qtdeclarative-6-3-0-0 = "qtdeclarative"

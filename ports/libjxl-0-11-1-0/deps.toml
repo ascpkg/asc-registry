@@ -1,0 +1,12 @@
+old = "libjxl"
+new = "libjxl-0-11-1-0"
+
+[deps]
+brotli-1-1-0-1 = "brotli"
+giflib-5-2-2-0 = "giflib"
+highway-1-2-0-0 = "highway"
+lcms-2-14-0 = "lcms"
+libjpeg-turbo-3-0-4-0 = "libjpeg-turbo"
+libpng-1-6-44-0 = "libpng"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+zlib-1-3-1-0 = "zlib"

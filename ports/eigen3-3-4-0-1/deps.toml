@@ -1,0 +1,6 @@
+old = "eigen3"
+new = "eigen3-3-4-0-1"
+
+[deps]
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"

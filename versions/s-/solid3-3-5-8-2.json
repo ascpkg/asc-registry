@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/solid3-3-5-8-2",
+      "version": "3.5.8",
+      "port-version": 2
+    }
+  ]
+}

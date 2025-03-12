@@ -1,0 +1,12 @@
+old = "thrift"
+new = "thrift-0-13-0-1"
+
+[deps]
+boost-date-time-1-76-0-0 = "boost-date-time"
+boost-locale-1-76-0-0 = "boost-locale"
+boost-range-1-76-0-0 = "boost-range"
+boost-scope-exit-1-76-0-0 = "boost-scope-exit"
+boost-smart-ptr-1-76-0-0 = "boost-smart-ptr"
+libevent-2-1-12-2 = "libevent"
+openssl-1-1-1l-1 = "openssl"
+zlib-1-2-11-12 = "zlib"

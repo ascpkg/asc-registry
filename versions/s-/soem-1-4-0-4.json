@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/soem-1-4-0-4",
+      "version": "1.4.0",
+      "port-version": 4
+    }
+  ]
+}

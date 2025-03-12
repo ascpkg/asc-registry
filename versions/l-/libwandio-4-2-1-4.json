@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libwandio-4-2-1-4",
+      "version-string": "4.2.1",
+      "port-version": 4
+    }
+  ]
+}

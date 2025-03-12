@@ -1,0 +1,8 @@
+old = "libirecovery"
+new = "libirecovery-2023-05-13-0"
+
+[deps]
+libimobiledevice-glue-2023-05-13-0 = "libimobiledevice-glue"
+libusb-1-0-26-11791-3 = "libusb"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

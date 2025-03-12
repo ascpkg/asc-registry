@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/catch2-3-3-2-1",
+      "version-semver": "3.3.2",
+      "port-version": 1
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+old = "libxpm"
+new = "libxpm-3-5-17-0"
+
+[deps]
+gettext-0-22-5-1 = "gettext"
+gettext-libintl-0-22-5-2 = "gettext-libintl"
+libx11-1-8-1-2 = "libx11"
+xorg-macros-1-19-3-1 = "xorg-macros"
+xproto-2021-5-0 = "xproto"

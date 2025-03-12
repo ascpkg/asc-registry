@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/boost-modular-build-helper-1-79-0-8",
+      "version": "1.79.0",
+      "port-version": 8
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/robin-hood-hashing-3-11-4-0",
+      "version": "3.11.4",
+      "port-version": 0
+    }
+  ]
+}

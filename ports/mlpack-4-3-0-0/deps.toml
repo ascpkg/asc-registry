@@ -1,0 +1,8 @@
+old = "mlpack"
+new = "mlpack-4-3-0-0"
+
+[deps]
+armadillo-12-6-6-0 = "armadillo"
+cereal-1-3-2-1 = "cereal"
+ensmallen-2-19-1-0 = "ensmallen"
+stb-2023-04-11-1 = "stb"

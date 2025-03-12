@@ -1,0 +1,7 @@
+old = "boost-variant2"
+new = "boost-variant2-1-77-0-0"
+
+[deps]
+boost-config-1-77-0-0 = "boost-config"
+boost-mp11-1-77-0-0 = "boost-mp11"
+boost-vcpkg-helpers-1-77-0-0 = "boost-vcpkg-helpers"

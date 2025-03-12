@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gdcm-3-0-24-0",
+      "version": "3.0.24",
+      "port-version": 0
+    }
+  ]
+}

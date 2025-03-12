@@ -1,0 +1,5 @@
+old = "mbedtls"
+new = "mbedtls-2-24-0-4"
+
+[deps]
+pthreads-3-0-0-10 = "pthreads"

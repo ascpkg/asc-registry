@@ -1,0 +1,5 @@
+old = "xalan-c"
+new = "xalan-c-1-12-1"
+
+[deps]
+xerces-c-3-2-3-3 = "xerces-c"

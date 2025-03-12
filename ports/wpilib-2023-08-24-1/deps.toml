@@ -1,0 +1,12 @@
+old = "wpilib"
+new = "wpilib-2023-08-24-1"
+
+[deps]
+eigen3-3-4-0-4 = "eigen3"
+fmt-11-0-2-0 = "fmt"
+libuv-1-48-0-0 = "libuv"
+opencv-4-8-0-1 = "opencv"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
+vcpkg-get-python-packages-2024-01-24-0 = "vcpkg-get-python-packages"
+wpilib-2023-08-24-1 = "wpilib"

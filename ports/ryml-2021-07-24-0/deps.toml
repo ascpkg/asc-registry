@@ -1,0 +1,5 @@
+old = "ryml"
+new = "ryml-2021-07-24-0"
+
+[deps]
+c4core-2021-07-18-0 = "c4core"

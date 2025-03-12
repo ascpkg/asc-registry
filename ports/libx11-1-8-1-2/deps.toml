@@ -1,0 +1,10 @@
+old = "libx11"
+new = "libx11-1-8-1-2"
+
+[deps]
+bzip2-1-0-8-5 = "bzip2"
+libx11-1-8-1-2 = "libx11"
+libxslt-1-1-37-3 = "libxslt"
+xcb-1-14-1 = "xcb"
+xproto-2021-5-0 = "xproto"
+xtrans-1-4-0-1 = "xtrans"

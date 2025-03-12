@@ -1,0 +1,5 @@
+old = "piex"
+new = "piex-2019-07-11-2"
+
+[deps]
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"

@@ -1,0 +1,7 @@
+old = "fcl"
+new = "fcl-0-6-1-1"
+
+[deps]
+ccd-2-1-4-2 = "ccd"
+eigen3-3-3-9-1 = "eigen3"
+octomap-1-9-5-1 = "octomap"

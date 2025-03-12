@@ -1,0 +1,8 @@
+old = "lager"
+new = "lager-2022-02-21-0"
+
+[deps]
+boost-hana-1-78-0-0 = "boost-hana"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"
+zug-2021-04-23-0 = "zug"

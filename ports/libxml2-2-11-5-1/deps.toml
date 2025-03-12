@@ -1,0 +1,9 @@
+old = "libxml2"
+new = "libxml2-2-11-5-1"
+
+[deps]
+libiconv-1-17-1 = "libiconv"
+liblzma-5-4-3-1 = "liblzma"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-3-0 = "zlib"

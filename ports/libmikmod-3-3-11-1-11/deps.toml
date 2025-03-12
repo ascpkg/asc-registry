@@ -1,0 +1,6 @@
+old = "libmikmod"
+new = "libmikmod-3-3-11-1-11"
+
+[deps]
+openal-soft-1-22-2-4 = "openal-soft"
+vcpkg-cmake-2022-09-26-0 = "vcpkg-cmake"

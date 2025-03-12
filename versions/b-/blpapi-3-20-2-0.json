@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/blpapi-3-20-2-0",
+      "version": "3.20.2",
+      "port-version": 0
+    }
+  ]
+}

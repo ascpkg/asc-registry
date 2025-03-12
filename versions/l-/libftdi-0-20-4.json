@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libftdi-0-20-4",
+      "version-string": "0.20",
+      "port-version": 4
+    }
+  ]
+}

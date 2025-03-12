@@ -1,0 +1,5 @@
+old = "zkpp"
+new = "zkpp-0-2-3-2"
+
+[deps]
+zookeeper-3-5-5-2 = "zookeeper"

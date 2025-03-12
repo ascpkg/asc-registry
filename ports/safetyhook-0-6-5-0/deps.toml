@@ -1,0 +1,7 @@
+old = "safetyhook"
+new = "safetyhook-0-6-5-0"
+
+[deps]
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
+zydis-4-1-1-0 = "zydis"

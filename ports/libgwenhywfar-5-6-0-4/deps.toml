@@ -1,0 +1,9 @@
+old = "libgwenhywfar"
+new = "libgwenhywfar-5-6-0-4"
+
+[deps]
+libgcrypt-1-10-2-0 = "libgcrypt"
+libgnutls-3-8-1-0 = "libgnutls"
+libxml2-2-11-5-1 = "libxml2"
+qt5-base-5-15-10-7 = "qt5-base"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

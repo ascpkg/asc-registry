@@ -1,0 +1,7 @@
+old = "boost-polygon"
+new = "boost-polygon-1-87-0-0"
+
+[deps]
+boost-cmake-1-87-0-0 = "boost-cmake"
+boost-config-1-87-0-0 = "boost-config"
+boost-headers-1-87-0-0 = "boost-headers"

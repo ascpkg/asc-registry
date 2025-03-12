@@ -1,0 +1,9 @@
+old = "cgl"
+new = "cgl-0-60-3-0"
+
+[deps]
+clp-1-17-6-1 = "clp"
+coinutils-2-11-4-1 = "coinutils"
+osi-0-108-6-1 = "osi"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"

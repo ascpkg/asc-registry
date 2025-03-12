@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/aws-c-compression-0-2-16-0",
+      "version": "0.2.16",
+      "port-version": 0
+    }
+  ]
+}

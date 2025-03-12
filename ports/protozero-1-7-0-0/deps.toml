@@ -1,0 +1,5 @@
+old = "protozero"
+new = "protozero-1-7-0-0"
+
+[deps]
+protobuf-3-15-8-3 = "protobuf"

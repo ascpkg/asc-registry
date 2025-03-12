@@ -1,0 +1,5 @@
+old = "qt5-mqtt"
+new = "qt5-mqtt-5-15-4-0"
+
+[deps]
+qt5-base-5-15-4-0 = "qt5-base"

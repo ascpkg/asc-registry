@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libfreenect2-0-2-0-7",
+      "version-string": "0.2.0",
+      "port-version": 7
+    }
+  ]
+}

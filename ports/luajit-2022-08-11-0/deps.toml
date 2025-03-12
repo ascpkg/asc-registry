@@ -1,0 +1,2 @@
+old = "luajit"
+new = "luajit-2022-08-11-0"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/freeimage-3-18-0-20",
+      "version-string": "3.18.0",
+      "port-version": 20
+    }
+  ]
+}

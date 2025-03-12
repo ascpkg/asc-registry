@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libtins-4-3-1",
+      "version-string": "4.3",
+      "port-version": 1
+    }
+  ]
+}

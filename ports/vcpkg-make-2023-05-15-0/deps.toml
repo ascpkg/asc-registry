@@ -1,0 +1,6 @@
+old = "vcpkg-make"
+new = "vcpkg-make-2023-05-15-0"
+
+[deps]
+pkgconf-2-3-0-0 = "pkgconf"
+vcpkg-cmake-get-vars-2024-09-22-0 = "vcpkg-cmake-get-vars"

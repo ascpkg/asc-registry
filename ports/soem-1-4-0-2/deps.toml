@@ -1,0 +1,5 @@
+old = "soem"
+new = "soem-1-4-0-2"
+
+[deps]
+winpcap-4-1-3-4 = "winpcap"

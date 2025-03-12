@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/poppler-24-3-0-0",
+      "version": "24.3.0",
+      "port-version": 0
+    }
+  ]
+}

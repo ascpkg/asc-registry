@@ -1,0 +1,7 @@
+old = "bdwgc"
+new = "bdwgc-8-2-8-0"
+
+[deps]
+libatomic-ops-7-8-2-0 = "libatomic-ops"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

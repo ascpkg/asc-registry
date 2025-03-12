@@ -1,0 +1,7 @@
+old = "osmanip"
+new = "osmanip-4-6-1-0"
+
+[deps]
+arsenalgear-2-1-0-0 = "arsenalgear"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

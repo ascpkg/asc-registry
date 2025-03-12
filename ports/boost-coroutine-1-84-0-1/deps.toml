@@ -1,0 +1,16 @@
+old = "boost-coroutine"
+new = "boost-coroutine-1-84-0-1"
+
+[deps]
+boost-assert-1-84-0-1 = "boost-assert"
+boost-cmake-1-84-0-0 = "boost-cmake"
+boost-config-1-84-0-1 = "boost-config"
+boost-context-1-84-0-1 = "boost-context"
+boost-core-1-84-0-1 = "boost-core"
+boost-exception-1-84-0-1 = "boost-exception"
+boost-headers-1-84-0-0 = "boost-headers"
+boost-move-1-84-0-1 = "boost-move"
+boost-system-1-84-0-1 = "boost-system"
+boost-throw-exception-1-84-0-1 = "boost-throw-exception"
+boost-type-traits-1-84-0-1 = "boost-type-traits"
+boost-utility-1-84-0-1 = "boost-utility"

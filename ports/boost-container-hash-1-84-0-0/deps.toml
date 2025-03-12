@@ -1,0 +1,8 @@
+old = "boost-container-hash"
+new = "boost-container-hash-1-84-0-0"
+
+[deps]
+boost-config-1-84-0-0 = "boost-config"
+boost-describe-1-84-0-0 = "boost-describe"
+boost-mp11-1-84-0-0 = "boost-mp11"
+boost-vcpkg-helpers-1-84-0-0 = "boost-vcpkg-helpers"

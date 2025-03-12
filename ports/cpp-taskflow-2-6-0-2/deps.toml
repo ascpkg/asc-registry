@@ -1,0 +1,5 @@
+old = "cpp-taskflow"
+new = "cpp-taskflow-2-6-0-2"
+
+[deps]
+taskflow-3-5-0-0 = "taskflow"

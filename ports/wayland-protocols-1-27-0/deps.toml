@@ -1,0 +1,5 @@
+old = "wayland-protocols"
+new = "wayland-protocols-1-27-0"
+
+[deps]
+wayland-1-21-0-0 = "wayland"

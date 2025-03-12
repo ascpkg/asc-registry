@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/openssl-windows-deprecated-0",
+      "version-string": "deprecated",
+      "port-version": 0
+    }
+  ]
+}

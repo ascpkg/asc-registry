@@ -1,0 +1,12 @@
+old = "glib"
+new = "glib-2-70-1-0"
+
+[deps]
+dirent-1-23-2-1 = "dirent"
+gettext-0-21-7 = "gettext"
+libffi-3-4-2-2 = "libffi"
+libiconv-1-16-11 = "libiconv"
+libmount-2-37-2-0 = "libmount"
+pcre-8-45-2 = "pcre"
+tool-meson-0-58-1-0 = "tool-meson"
+zlib-1-2-11-13 = "zlib"

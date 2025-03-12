@@ -1,0 +1,7 @@
+old = "volk"
+new = "volk-1-3-233-0"
+
+[deps]
+vcpkg-cmake-2022-10-30-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+vulkan-1-1-82-1-2 = "vulkan"

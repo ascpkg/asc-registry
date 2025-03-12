@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libsvm-3-32-0",
+      "version": "3.32",
+      "port-version": 0
+    }
+  ]
+}

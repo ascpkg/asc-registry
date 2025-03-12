@@ -1,0 +1,7 @@
+old = "wampcc"
+new = "wampcc-2019-09-04-1"
+
+[deps]
+jansson-2-13-1-1 = "jansson"
+libuv-1-42-0-0 = "libuv"
+openssl-1-1-1l-1 = "openssl"

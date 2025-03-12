@@ -1,0 +1,5 @@
+old = "xtrans"
+new = "xtrans-1-4-0-1"
+
+[deps]
+xorg-macros-1-19-3-0 = "xorg-macros"

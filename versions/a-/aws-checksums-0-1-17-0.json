@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/aws-checksums-0-1-17-0",
+      "version": "0.1.17",
+      "port-version": 0
+    }
+  ]
+}

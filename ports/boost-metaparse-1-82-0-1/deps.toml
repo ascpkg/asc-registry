@@ -1,0 +1,11 @@
+old = "boost-metaparse"
+new = "boost-metaparse-1-82-0-1"
+
+[deps]
+boost-config-1-82-0-1 = "boost-config"
+boost-mpl-1-82-0-1 = "boost-mpl"
+boost-predef-1-82-0-1 = "boost-predef"
+boost-preprocessor-1-82-0-1 = "boost-preprocessor"
+boost-static-assert-1-82-0-1 = "boost-static-assert"
+boost-type-traits-1-82-0-1 = "boost-type-traits"
+boost-vcpkg-helpers-1-82-0-1 = "boost-vcpkg-helpers"

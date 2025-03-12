@@ -1,0 +1,7 @@
+old = "so5extra"
+new = "so5extra-1-5-0-0"
+
+[deps]
+sobjectizer-5-7-3-0 = "sobjectizer"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"

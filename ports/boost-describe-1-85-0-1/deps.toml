@@ -1,0 +1,8 @@
+old = "boost-describe"
+new = "boost-describe-1-85-0-1"
+
+[deps]
+boost-cmake-1-85-0-1 = "boost-cmake"
+boost-config-1-85-0-1 = "boost-config"
+boost-headers-1-85-0-1 = "boost-headers"
+boost-mp11-1-85-0-1 = "boost-mp11"

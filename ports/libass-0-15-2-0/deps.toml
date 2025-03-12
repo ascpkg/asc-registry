@@ -1,0 +1,9 @@
+old = "libass"
+new = "libass-0-15-2-0"
+
+[deps]
+dirent-1-23-2-1 = "dirent"
+fontconfig-2-13-94-0 = "fontconfig"
+freetype-2-11-0-0 = "freetype"
+fribidi-1-0-10-3 = "fribidi"
+harfbuzz-2-9-0-0 = "harfbuzz"

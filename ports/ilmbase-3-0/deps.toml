@@ -1,0 +1,5 @@
+old = "ilmbase"
+new = "ilmbase-3-0"
+
+[deps]
+imath-3-1-5-0 = "imath"

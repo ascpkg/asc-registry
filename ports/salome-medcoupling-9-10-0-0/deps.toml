@@ -1,0 +1,18 @@
+old = "salome-medcoupling"
+new = "salome-medcoupling-9-10-0-0"
+
+[deps]
+boost-chrono-1-82-0-2 = "boost-chrono"
+boost-date-time-1-82-0-2 = "boost-date-time"
+boost-filesystem-1-82-0-2 = "boost-filesystem"
+boost-regex-1-82-0-2 = "boost-regex"
+boost-serialization-1-82-0-2 = "boost-serialization"
+boost-system-1-82-0-2 = "boost-system"
+boost-thread-1-82-0-2 = "boost-thread"
+libxml2-2-10-3-1 = "libxml2"
+metis-2022-07-27-0 = "metis"
+salome-configuration-9-10-0-0 = "salome-configuration"
+salome-med-fichier-4-1-1-1 = "salome-med-fichier"
+scotch-7-0-3-0 = "scotch"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

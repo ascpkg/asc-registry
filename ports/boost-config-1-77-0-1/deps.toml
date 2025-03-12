@@ -1,0 +1,5 @@
+old = "boost-config"
+new = "boost-config-1-77-0-1"
+
+[deps]
+boost-vcpkg-helpers-1-77-0-0 = "boost-vcpkg-helpers"

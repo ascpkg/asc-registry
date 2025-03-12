@@ -1,0 +1,6 @@
+old = "buck-yeh-bux"
+new = "buck-yeh-bux-1-6-3-1"
+
+[deps]
+fmt-8-1-0-0 = "fmt"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"

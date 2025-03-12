@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ms-gltf-r1-9-5-4-0",
+      "version-string": "r1.9.5.4",
+      "port-version": 0
+    }
+  ]
+}

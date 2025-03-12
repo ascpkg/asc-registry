@@ -1,0 +1,6 @@
+old = "kwsys"
+new = "kwsys-2021-08-06-1"
+
+[deps]
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"

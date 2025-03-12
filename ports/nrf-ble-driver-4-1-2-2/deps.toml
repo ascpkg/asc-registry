@@ -1,0 +1,9 @@
+old = "nrf-ble-driver"
+new = "nrf-ble-driver-4-1-2-2"
+
+[deps]
+asio-1-22-1-0 = "asio"
+cli11-2-2-0-0 = "cli11"
+spdlog-1-10-0-1 = "spdlog"
+vcpkg-cmake-2022-07-02-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

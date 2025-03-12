@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/scintilla-4-4-6-3",
+      "version": "4.4.6",
+      "port-version": 3
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+old = "kf5texteditor"
+new = "kf5texteditor-5-98-0-2"
+
+[deps]
+ecm-6-7-0-0 = "ecm"
+gettext-0-22-5-1 = "gettext"
+gettext-libintl-0-22-5-2 = "gettext-libintl"
+kf5archive-5-98-0-1 = "kf5archive"
+kf5config-5-98-0-0 = "kf5config"
+kf5guiaddons-5-98-0-0 = "kf5guiaddons"
+kf5i18n-5-98-0-1 = "kf5i18n"
+kf5kio-5-98-0-1 = "kf5kio"
+kf5parts-5-98-0-1 = "kf5parts"
+kf5sonnet-5-98-0-0 = "kf5sonnet"
+kf5syntaxhighlighting-5-98-0-0 = "kf5syntaxhighlighting"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

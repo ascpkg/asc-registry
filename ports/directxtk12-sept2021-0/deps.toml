@@ -1,0 +1,6 @@
+old = "directxtk12"
+new = "directxtk12-sept2021-0"
+
+[deps]
+directx-headers-1-4-9-0 = "directx-headers"
+directxmath-jan2021-1 = "directxmath"

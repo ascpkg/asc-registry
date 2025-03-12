@@ -1,0 +1,5 @@
+old = "mpfr"
+new = "mpfr-4-1-0-7"
+
+[deps]
+gmp-6-2-1-13 = "gmp"

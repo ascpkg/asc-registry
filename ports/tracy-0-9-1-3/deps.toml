@@ -1,0 +1,12 @@
+old = "tracy"
+new = "tracy-0-9-1-3"
+
+[deps]
+capstone-5-0-0-rc2-2 = "capstone"
+dbus-1-15-2-0 = "dbus"
+freetype-2-12-1-3 = "freetype"
+glfw3-3-3-8-2 = "glfw3"
+pthreads-3-0-0-14 = "pthreads"
+tbb-2021-10-0-1 = "tbb"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

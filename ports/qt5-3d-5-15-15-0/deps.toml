@@ -1,0 +1,10 @@
+old = "qt5-3d"
+new = "qt5-3d-5-15-15-0"
+
+[deps]
+assimp-5-4-2-0 = "assimp"
+qt5-base-5-15-15-0 = "qt5-base"
+qt5-declarative-5-15-15-0 = "qt5-declarative"
+qt5-gamepad-5-15-15-0 = "qt5-gamepad"
+qt5-imageformats-5-15-15-0 = "qt5-imageformats"
+vcpkg-pkgconfig-get-modules-2024-04-03-0 = "vcpkg-pkgconfig-get-modules"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/simple-fft-2020-06-14-2",
+      "version-date": "2020-06-14",
+      "port-version": 2
+    }
+  ]
+}

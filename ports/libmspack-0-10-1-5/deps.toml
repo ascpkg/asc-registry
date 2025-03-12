@@ -1,0 +1,5 @@
+old = "libmspack"
+new = "libmspack-0-10-1-5"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

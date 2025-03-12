@@ -1,0 +1,11 @@
+old = "yomm2"
+new = "yomm2-1-3-1-0"
+
+[deps]
+boost-dynamic-bitset-1-82-0-1 = "boost-dynamic-bitset"
+boost-integer-1-82-0-1 = "boost-integer"
+boost-move-1-82-0-1 = "boost-move"
+boost-preprocessor-1-82-0-1 = "boost-preprocessor"
+boost-type-traits-1-82-0-1 = "boost-type-traits"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

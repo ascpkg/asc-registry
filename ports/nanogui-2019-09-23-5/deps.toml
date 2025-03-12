@@ -1,0 +1,9 @@
+old = "nanogui"
+new = "nanogui-2019-09-23-5"
+
+[deps]
+eigen3-3-4-0-2 = "eigen3"
+glad-0-1-36-0 = "glad"
+glfw3-3-3-8-0 = "glfw3"
+nanovg-2019-08-30-5 = "nanovg"
+vcpkg-cmake-2022-07-18-0 = "vcpkg-cmake"

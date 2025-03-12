@@ -1,0 +1,9 @@
+old = "boost-variant2"
+new = "boost-variant2-1-87-0-0"
+
+[deps]
+boost-assert-1-87-0-0 = "boost-assert"
+boost-cmake-1-87-0-0 = "boost-cmake"
+boost-config-1-87-0-0 = "boost-config"
+boost-headers-1-87-0-0 = "boost-headers"
+boost-mp11-1-87-0-0 = "boost-mp11"

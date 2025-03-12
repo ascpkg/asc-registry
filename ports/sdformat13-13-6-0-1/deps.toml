@@ -1,0 +1,5 @@
+old = "sdformat13"
+new = "sdformat13-13-6-0-1"
+
+[deps]
+sdformat-13-6-0-0 = "sdformat"

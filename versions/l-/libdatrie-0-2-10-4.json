@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libdatrie-0-2-10-4",
+      "version-string": "0.2.10",
+      "port-version": 4
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/vtk-m-1-6-0-1",
+      "version-semver": "1.6.0",
+      "port-version": 1
+    }
+  ]
+}

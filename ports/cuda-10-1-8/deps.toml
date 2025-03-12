@@ -1,0 +1,2 @@
+old = "cuda"
+new = "cuda-10-1-8"

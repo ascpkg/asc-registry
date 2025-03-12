@@ -1,0 +1,10 @@
+old = "ismrmrd"
+new = "ismrmrd-1-13-0-0"
+
+[deps]
+boost-1-80-0-2 = "boost"
+fftw3-3-3-10-4 = "fftw3"
+hdf5-1-12-2-3 = "hdf5"
+pugixml-1-13-0-0 = "pugixml"
+vcpkg-cmake-2022-10-30-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

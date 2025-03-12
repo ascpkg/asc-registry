@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/trompeloeil-48-0",
+      "version": "48",
+      "port-version": 0
+    }
+  ]
+}

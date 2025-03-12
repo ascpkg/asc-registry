@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/fdlibm-5-3-5",
+      "version-string": "5.3",
+      "port-version": 5
+    }
+  ]
+}

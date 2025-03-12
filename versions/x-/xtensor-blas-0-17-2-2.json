@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/xtensor-blas-0-17-2-2",
+      "version-string": "0.17.2",
+      "port-version": 2
+    }
+  ]
+}

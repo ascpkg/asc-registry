@@ -1,0 +1,17 @@
+old = "boost-convert"
+new = "boost-convert-1-87-0-0"
+
+[deps]
+boost-cmake-1-87-0-0 = "boost-cmake"
+boost-config-1-87-0-0 = "boost-config"
+boost-core-1-87-0-0 = "boost-core"
+boost-function-types-1-87-0-0 = "boost-function-types"
+boost-headers-1-87-0-0 = "boost-headers"
+boost-lexical-cast-1-87-0-0 = "boost-lexical-cast"
+boost-math-1-87-0-0 = "boost-math"
+boost-mpl-1-87-0-0 = "boost-mpl"
+boost-optional-1-87-0-0 = "boost-optional"
+boost-parameter-1-87-0-0 = "boost-parameter"
+boost-range-1-87-0-0 = "boost-range"
+boost-spirit-1-87-0-0 = "boost-spirit"
+boost-type-traits-1-87-0-0 = "boost-type-traits"

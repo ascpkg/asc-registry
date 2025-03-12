@@ -1,0 +1,5 @@
+old = "fftwpp"
+new = "fftwpp-2019-12-19-1"
+
+[deps]
+fftw3-3-3-9-0 = "fftw3"

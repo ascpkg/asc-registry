@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/rsm-binary-io-2-0-4-0",
+      "version-semver": "2.0.4",
+      "port-version": 0
+    }
+  ]
+}

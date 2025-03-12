@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/avisynthplus-3-7-0-2",
+      "version-semver": "3.7.0",
+      "port-version": 2
+    }
+  ]
+}

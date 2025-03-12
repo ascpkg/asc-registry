@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/eathread-1-32-09-4",
+      "version-string": "1.32.09",
+      "port-version": 4
+    }
+  ]
+}

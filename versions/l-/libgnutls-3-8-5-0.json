@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libgnutls-3-8-5-0",
+      "version": "3.8.5",
+      "port-version": 0
+    }
+  ]
+}

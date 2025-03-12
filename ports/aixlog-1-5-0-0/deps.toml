@@ -1,0 +1,5 @@
+old = "aixlog"
+new = "aixlog-1-5-0-0"
+
+[deps]
+vcpkg-cmake-2021-07-30-0 = "vcpkg-cmake"

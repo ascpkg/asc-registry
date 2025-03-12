@@ -1,0 +1,13 @@
+old = "leptonica"
+new = "leptonica-1-81-1-1"
+
+[deps]
+giflib-5-2-1-1 = "giflib"
+libjpeg-turbo-2-1-2-0 = "libjpeg-turbo"
+libpng-1-6-37-16 = "libpng"
+libwebp-1-2-1-0 = "libwebp"
+openjpeg-2-4-0-0 = "openjpeg"
+tiff-4-3-0-5 = "tiff"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"
+zlib-1-2-11-13 = "zlib"

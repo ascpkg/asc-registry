@@ -1,0 +1,11 @@
+old = "plplot"
+new = "plplot-5-15-0-3"
+
+[deps]
+cairo-1-18-2-0 = "cairo"
+freetype-2-13-3-0 = "freetype"
+libx11-1-8-1-2 = "libx11"
+pango-1-56-1-1 = "pango"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
+wxwidgets-3-2-6-0 = "wxwidgets"

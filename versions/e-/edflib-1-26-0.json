@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/edflib-1-26-0",
+      "version": "1.26",
+      "port-version": 0
+    }
+  ]
+}

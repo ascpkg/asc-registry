@@ -1,0 +1,10 @@
+old = "directxtex"
+new = "directxtex-2023-01-31-2"
+
+[deps]
+directx-headers-1-608-2-1 = "directx-headers"
+directxmath-2022-12-12-0 = "directxmath"
+ms-gdkx-1-0-0-0 = "ms-gdkx"
+openexr-3-1-5-0 = "openexr"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

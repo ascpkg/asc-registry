@@ -1,0 +1,6 @@
+old = "ecsutil"
+new = "ecsutil-1-0-7-15-5"
+
+[deps]
+atlmfc-0-2 = "atlmfc"
+vcpkg-msbuild-2023-08-08-0 = "vcpkg-msbuild"

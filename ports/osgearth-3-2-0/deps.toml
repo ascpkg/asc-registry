@@ -1,0 +1,15 @@
+old = "osgearth"
+new = "osgearth-3-2-0"
+
+[deps]
+basisu-1-11-5 = "basisu"
+draco-1-3-6-2 = "draco"
+geos-3-9-1-2 = "geos"
+glew-2-2-0-0 = "glew"
+libwebp-1-2-1-0 = "libwebp"
+libzip-1-7-3-2 = "libzip"
+opengl-0-0-9 = "opengl"
+osg-3-6-5-8 = "osg"
+protobuf-3-18-0-0 = "protobuf"
+sqlite3-3-36-0-1 = "sqlite3"
+tinyxml-2-6-2-8 = "tinyxml"

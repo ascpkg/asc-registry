@@ -1,0 +1,12 @@
+old = "uvatlas"
+new = "uvatlas-2021-11-08-0"
+
+[deps]
+directx-headers-1-4-9-0 = "directx-headers"
+directxmath-jan2021-1 = "directxmath"
+directxmesh-2021-11-08-0 = "directxmesh"
+directxtex-2021-11-08-0 = "directxtex"
+eigen3-3-3-9-1 = "eigen3"
+spectra-1-0-0-0 = "spectra"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-11-01-0 = "vcpkg-cmake-config"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/clue-1-0-0-alpha-7-1",
+      "version-string": "1.0.0-alpha.7",
+      "port-version": 1
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/skia-0-38-2-3",
+      "version": "0.38.2",
+      "port-version": 3
+    }
+  ]
+}

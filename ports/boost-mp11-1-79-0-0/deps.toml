@@ -1,0 +1,5 @@
+old = "boost-mp11"
+new = "boost-mp11-1-79-0-0"
+
+[deps]
+boost-vcpkg-helpers-1-79-0-0 = "boost-vcpkg-helpers"

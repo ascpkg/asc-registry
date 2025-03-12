@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/nlopt-2-7-0-1",
+      "version-string": "2.7.0",
+      "port-version": 1
+    }
+  ]
+}

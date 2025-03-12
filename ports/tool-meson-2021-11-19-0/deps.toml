@@ -1,0 +1,5 @@
+old = "tool-meson"
+new = "tool-meson-2021-11-19-0"
+
+[deps]
+vcpkg-tool-meson-0-60-2-0 = "vcpkg-tool-meson"

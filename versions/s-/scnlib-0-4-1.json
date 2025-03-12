@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/scnlib-0-4-1",
+      "version-string": "0.4",
+      "port-version": 1
+    }
+  ]
+}

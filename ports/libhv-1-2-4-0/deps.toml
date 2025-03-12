@@ -1,0 +1,5 @@
+old = "libhv"
+new = "libhv-1-2-4-0"
+
+[deps]
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"

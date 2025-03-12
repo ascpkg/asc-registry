@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/bark-0-3-0-0",
+      "version-semver": "0.3.0",
+      "port-version": 0
+    }
+  ]
+}

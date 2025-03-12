@@ -1,0 +1,6 @@
+old = "qtquickcontrols2"
+new = "qtquickcontrols2-6-1-2-0"
+
+[deps]
+qtbase-6-1-2-0 = "qtbase"
+qtdeclarative-6-1-2-0 = "qtdeclarative"

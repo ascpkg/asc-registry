@@ -1,0 +1,8 @@
+old = "stlab"
+new = "stlab-1-7-1-2"
+
+[deps]
+boost-optional-1-85-0-1 = "boost-optional"
+boost-variant-1-85-0-1 = "boost-variant"
+vcpkg-cmake-2024-04-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

@@ -1,0 +1,5 @@
+old = "ois"
+new = "ois-1-5-1-1"
+
+[deps]
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"

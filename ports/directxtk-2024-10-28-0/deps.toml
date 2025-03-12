@@ -1,0 +1,9 @@
+old = "directxtk"
+new = "directxtk-2024-10-28-0"
+
+[deps]
+directxmath-2024-10-15-0 = "directxmath"
+gameinput-0-2303-22621-3038-0 = "gameinput"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
+xaudio2redist-1-2-11-4 = "xaudio2redist"

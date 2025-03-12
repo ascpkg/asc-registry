@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/aravis-0-8-34-0",
+      "version": "0.8.34",
+      "port-version": 0
+    }
+  ]
+}

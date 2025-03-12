@@ -1,0 +1,7 @@
+old = "libtheora"
+new = "libtheora-1-2-0alpha1-20170719-8"
+
+[deps]
+libogg-1-3-5-2 = "libogg"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

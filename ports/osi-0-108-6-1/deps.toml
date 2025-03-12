@@ -1,0 +1,5 @@
+old = "osi"
+new = "osi-0-108-6-1"
+
+[deps]
+coinutils-2-11-4-1 = "coinutils"

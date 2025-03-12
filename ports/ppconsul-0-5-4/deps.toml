@@ -1,0 +1,12 @@
+old = "ppconsul"
+new = "ppconsul-0-5-4"
+
+[deps]
+boost-core-1-81-0-2 = "boost-core"
+boost-fusion-1-81-0-2 = "boost-fusion"
+boost-optional-1-81-0-2 = "boost-optional"
+boost-variant-1-81-0-2 = "boost-variant"
+curl-7-88-1-0 = "curl"
+json11-2017-06-20-4 = "json11"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

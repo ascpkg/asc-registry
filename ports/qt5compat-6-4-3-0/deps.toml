@@ -1,0 +1,8 @@
+old = "qt5compat"
+new = "qt5compat-6-4-3-0"
+
+[deps]
+libiconv-1-17-1 = "libiconv"
+qt5compat-6-4-3-0 = "qt5compat"
+qtbase-6-4-3-0 = "qtbase"
+qtdeclarative-6-4-3-0 = "qtdeclarative"

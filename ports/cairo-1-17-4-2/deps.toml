@@ -1,0 +1,14 @@
+old = "cairo"
+new = "cairo-1-17-4-2"
+
+[deps]
+dirent-1-23-2-0 = "dirent"
+expat-2-4-1-0 = "expat"
+fontconfig-2-13-1-7 = "fontconfig"
+freetype-2-10-4-0 = "freetype"
+glib-2-66-4-0 = "glib"
+libpng-1-6-37-15 = "libpng"
+lzo-2-10-6 = "lzo"
+pixman-0-40-0-0 = "pixman"
+pthread-3-0-0-0 = "pthread"
+zlib-1-2-11-10 = "zlib"

@@ -1,0 +1,5 @@
+old = "comms-ublox"
+new = "comms-ublox-0-20-2-0"
+
+[deps]
+comms-3-4-0-0 = "comms"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/picosha2-2018-07-30-1",
+      "version-string": "2018-07-30",
+      "port-version": 1
+    }
+  ]
+}

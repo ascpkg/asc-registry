@@ -1,0 +1,14 @@
+old = "cartographer"
+new = "cartographer-1-0-0-6"
+
+[deps]
+boost-iostreams-1-85-0-1 = "boost-iostreams"
+cairo-1-18-0-1 = "cairo"
+ceres-2-1-0-5 = "ceres"
+gflags-2-2-2-9 = "gflags"
+glog-0-7-1-0 = "glog"
+gtest-1-14-0-1 = "gtest"
+lua-5-4-6-0 = "lua"
+protobuf-4-25-1-0 = "protobuf"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

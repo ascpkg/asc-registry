@@ -1,0 +1,10 @@
+old = "openvpn3"
+new = "openvpn3-3-10-1"
+
+[deps]
+asio-1-30-2-0 = "asio"
+lz4-1-10-0-0 = "lz4"
+mbedtls-3-6-1-0 = "mbedtls"
+tap-windows6-9-21-2-0e30f5c-2 = "tap-windows6"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

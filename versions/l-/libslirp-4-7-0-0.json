@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libslirp-4-7-0-0",
+      "version-semver": "4.7.0",
+      "port-version": 0
+    }
+  ]
+}

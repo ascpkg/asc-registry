@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gdal-3-5-3-0",
+      "version-semver": "3.5.3",
+      "port-version": 0
+    }
+  ]
+}

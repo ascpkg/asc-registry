@@ -1,0 +1,7 @@
+old = "boost-compatibility"
+new = "boost-compatibility-1-85-0-1"
+
+[deps]
+boost-cmake-1-85-0-1 = "boost-cmake"
+boost-config-1-85-0-1 = "boost-config"
+boost-headers-1-85-0-1 = "boost-headers"

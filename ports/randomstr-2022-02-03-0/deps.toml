@@ -1,0 +1,6 @@
+old = "randomstr"
+new = "randomstr-2022-02-03-0"
+
+[deps]
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-01-30-0 = "vcpkg-cmake-config"

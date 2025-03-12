@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gstreamer-1-24-7-4",
+      "version": "1.24.7",
+      "port-version": 4
+    }
+  ]
+}

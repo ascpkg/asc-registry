@@ -1,0 +1,7 @@
+old = "sdl2"
+new = "sdl2-2-26-1-1"
+
+[deps]
+sdl2-2-26-1-1 = "sdl2"
+vcpkg-cmake-2022-10-30-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

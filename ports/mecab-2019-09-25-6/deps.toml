@@ -1,0 +1,6 @@
+old = "mecab"
+new = "mecab-2019-09-25-6"
+
+[deps]
+vcpkg-cmake-2024-04-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

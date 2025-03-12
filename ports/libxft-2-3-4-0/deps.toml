@@ -1,0 +1,11 @@
+old = "libxft"
+new = "libxft-2-3-4-0"
+
+[deps]
+bzip2-1-0-8-3 = "bzip2"
+fontconfig-2-14-0-4 = "fontconfig"
+freetype-2-12-1-2 = "freetype"
+libx11-1-7-3-1-1 = "libx11"
+libxrender-0-9-10-0 = "libxrender"
+xorg-macros-1-19-3-0 = "xorg-macros"
+xproto-2021-5-0 = "xproto"

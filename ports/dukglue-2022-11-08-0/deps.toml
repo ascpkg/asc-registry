@@ -1,0 +1,5 @@
+old = "dukglue"
+new = "dukglue-2022-11-08-0"
+
+[deps]
+duktape-2-5-0-4 = "duktape"

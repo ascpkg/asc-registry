@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/activemq-cpp-3-9-5-17",
+      "version-semver": "3.9.5",
+      "port-version": 17
+    }
+  ]
+}

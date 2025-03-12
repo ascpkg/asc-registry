@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/edlib-1-2-7-1",
+      "version": "1.2.7",
+      "port-version": 1
+    }
+  ]
+}

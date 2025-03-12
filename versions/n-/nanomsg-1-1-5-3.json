@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/nanomsg-1-1-5-3",
+      "version-string": "1.1.5",
+      "port-version": 3
+    }
+  ]
+}

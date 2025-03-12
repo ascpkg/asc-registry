@@ -1,0 +1,5 @@
+old = "lemon-parser-generator"
+new = "lemon-parser-generator-3-39-3-0"
+
+[deps]
+vcpkg-cmake-2022-08-18-0 = "vcpkg-cmake"

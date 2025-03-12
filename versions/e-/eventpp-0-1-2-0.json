@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/eventpp-0-1-2-0",
+      "version-semver": "0.1.2",
+      "port-version": 0
+    }
+  ]
+}

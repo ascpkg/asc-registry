@@ -1,0 +1,9 @@
+old = "frugally-deep"
+new = "frugally-deep-0-16-0-0"
+
+[deps]
+eigen3-3-4-0-4 = "eigen3"
+functionalplus-0-2-25-0 = "functionalplus"
+nlohmann-json-3-11-3-1 = "nlohmann-json"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

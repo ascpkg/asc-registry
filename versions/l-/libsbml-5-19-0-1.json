@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libsbml-5-19-0-1",
+      "version": "5.19.0",
+      "port-version": 1
+    }
+  ]
+}

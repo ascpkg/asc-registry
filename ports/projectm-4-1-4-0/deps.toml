@@ -1,0 +1,11 @@
+old = "projectm"
+new = "projectm-4-1-4-0"
+
+[deps]
+boost-filesystem-1-86-0-0 = "boost-filesystem"
+glew-2-2-0-4 = "glew"
+glm-1-0-1-3 = "glm"
+opengl-2022-12-04-3 = "opengl"
+projectm-eval-1-0-0-1 = "projectm-eval"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

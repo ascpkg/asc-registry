@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/rbdl-3-2-0-4",
+      "version": "3.2.0",
+      "port-version": 4
+    }
+  ]
+}

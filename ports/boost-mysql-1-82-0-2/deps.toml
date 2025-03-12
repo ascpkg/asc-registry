@@ -1,0 +1,15 @@
+old = "boost-mysql"
+new = "boost-mysql-1-82-0-2"
+
+[deps]
+boost-asio-1-82-0-2 = "boost-asio"
+boost-assert-1-82-0-2 = "boost-assert"
+boost-config-1-82-0-2 = "boost-config"
+boost-core-1-82-0-2 = "boost-core"
+boost-endian-1-82-0-2 = "boost-endian"
+boost-lexical-cast-1-82-0-2 = "boost-lexical-cast"
+boost-mp11-1-82-0-2 = "boost-mp11"
+boost-system-1-82-0-2 = "boost-system"
+boost-throw-exception-1-82-0-2 = "boost-throw-exception"
+boost-variant2-1-82-0-2 = "boost-variant2"
+boost-vcpkg-helpers-1-82-0-2 = "boost-vcpkg-helpers"

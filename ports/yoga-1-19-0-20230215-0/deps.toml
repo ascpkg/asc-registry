@@ -1,0 +1,6 @@
+old = "yoga"
+new = "yoga-1-19-0-20230215-0"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

@@ -1,0 +1,6 @@
+old = "libodb-mysql"
+new = "libodb-mysql-2-4-0-9"
+
+[deps]
+libmysql-8-0-20-2 = "libmysql"
+libodb-2-4-0-8 = "libodb"

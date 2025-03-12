@@ -1,0 +1,5 @@
+old = "krb5"
+new = "krb5-1-21-3-2"
+
+[deps]
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"

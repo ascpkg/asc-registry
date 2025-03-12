@@ -1,0 +1,7 @@
+old = "socket-io-client"
+new = "socket-io-client-3-0-0-1"
+
+[deps]
+asio-1-18-2-0 = "asio"
+rapidjson-2020-09-14-1 = "rapidjson"
+websocketpp-0-8-2-1 = "websocketpp"

@@ -1,0 +1,9 @@
+old = "kf5i18n"
+new = "kf5i18n-5-84-0-3"
+
+[deps]
+ecm-5-84-0-0 = "ecm"
+gettext-0-21-6 = "gettext"
+libiconv-1-16-11 = "libiconv"
+qt5-declarative-5-15-2-2 = "qt5-declarative"
+qt5-tools-5-15-2-1 = "qt5-tools"

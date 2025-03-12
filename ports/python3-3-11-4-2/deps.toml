@@ -1,0 +1,16 @@
+old = "python3"
+new = "python3-3-11-4-2"
+
+[deps]
+bzip2-1-0-8-5 = "bzip2"
+expat-2-5-0-3 = "expat"
+gettext-0-21-1-2 = "gettext"
+libffi-3-4-4-2 = "libffi"
+libiconv-1-17-1 = "libiconv"
+liblzma-5-4-3-1 = "liblzma"
+libuuid-1-0-3-14 = "libuuid"
+openssl-3-1-2-1 = "openssl"
+python3-3-11-4-2 = "python3"
+sqlite3-3-42-0-1 = "sqlite3"
+vcpkg-msbuild-2023-08-08-0 = "vcpkg-msbuild"
+zlib-1-2-13-0 = "zlib"

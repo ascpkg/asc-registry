@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/teemo-2-7-0",
+      "version": "2.7",
+      "port-version": 0
+    }
+  ]
+}

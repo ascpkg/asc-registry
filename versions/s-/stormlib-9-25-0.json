@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/stormlib-9-25-0",
+      "version": "9.25",
+      "port-version": 0
+    }
+  ]
+}

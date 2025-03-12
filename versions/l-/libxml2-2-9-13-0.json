@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libxml2-2-9-13-0",
+      "version-semver": "2.9.13",
+      "port-version": 0
+    }
+  ]
+}

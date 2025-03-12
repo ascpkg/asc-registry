@@ -1,0 +1,7 @@
+old = "d3d12-memory-allocator"
+new = "d3d12-memory-allocator-2021-05-05-1"
+
+[deps]
+directx-headers-1-610-2-0 = "directx-headers"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

@@ -1,0 +1,7 @@
+old = "qtlottie"
+new = "qtlottie-6-1-3-0"
+
+[deps]
+qtbase-6-1-3-0 = "qtbase"
+qtdeclarative-6-1-3-0 = "qtdeclarative"
+qttools-6-1-3-0 = "qttools"

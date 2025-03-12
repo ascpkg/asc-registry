@@ -1,0 +1,11 @@
+old = "evpp"
+new = "evpp-0-7-0-8"
+
+[deps]
+boost-lockfree-1-84-0-0 = "boost-lockfree"
+concurrentqueue-1-0-4-0 = "concurrentqueue"
+glog-0-7-0-0 = "glog"
+libevent-2-1-12-20230128-0 = "libevent"
+rapidjson-2023-07-17-1 = "rapidjson"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

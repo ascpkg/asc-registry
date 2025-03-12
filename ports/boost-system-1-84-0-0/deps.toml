@@ -1,0 +1,13 @@
+old = "boost-system"
+new = "boost-system-1-84-0-0"
+
+[deps]
+boost-assert-1-84-0-0 = "boost-assert"
+boost-build-1-84-0-0 = "boost-build"
+boost-config-1-84-0-0 = "boost-config"
+boost-modular-build-helper-1-84-0-0 = "boost-modular-build-helper"
+boost-throw-exception-1-84-0-0 = "boost-throw-exception"
+boost-variant2-1-84-0-0 = "boost-variant2"
+boost-vcpkg-helpers-1-84-0-0 = "boost-vcpkg-helpers"
+boost-winapi-1-84-0-0 = "boost-winapi"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

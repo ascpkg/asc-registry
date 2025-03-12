@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/folly-2025-01-27-00-0",
+      "version-string": "2025.01.27.00",
+      "port-version": 0
+    }
+  ]
+}

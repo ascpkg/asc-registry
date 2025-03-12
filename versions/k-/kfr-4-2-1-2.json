@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/kfr-4-2-1-2",
+      "version-semver": "4.2.1",
+      "port-version": 2
+    }
+  ]
+}

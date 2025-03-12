@@ -1,0 +1,5 @@
+old = "plib"
+new = "plib-1-8-5-7"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

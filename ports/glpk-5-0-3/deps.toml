@@ -1,0 +1,8 @@
+old = "glpk"
+new = "glpk-5-0-3"
+
+[deps]
+dlfcn-win32-1-4-1-0 = "dlfcn-win32"
+glpk-5-0-3 = "glpk"
+gmp-6-2-1-21 = "gmp"
+libmysql-8-0-34-1 = "libmysql"

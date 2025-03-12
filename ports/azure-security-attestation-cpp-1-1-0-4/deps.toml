@@ -1,0 +1,8 @@
+old = "azure-security-attestation-cpp"
+new = "azure-security-attestation-cpp-1-1-0-4"
+
+[deps]
+azure-core-cpp-1-13-0-0 = "azure-core-cpp"
+openssl-3-3-1-1 = "openssl"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

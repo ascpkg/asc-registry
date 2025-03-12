@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/flashlight-cpu-0-3-5",
+      "version": "0.3",
+      "port-version": 5
+    }
+  ]
+}

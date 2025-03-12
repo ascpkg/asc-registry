@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/pybind11-2-10-4-1",
+      "version": "2.10.4",
+      "port-version": 1
+    }
+  ]
+}

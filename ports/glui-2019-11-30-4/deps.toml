@@ -1,0 +1,8 @@
+old = "glui"
+new = "glui-2019-11-30-4"
+
+[deps]
+freeglut-3-4-0-1 = "freeglut"
+opengl-2022-12-04-3 = "opengl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

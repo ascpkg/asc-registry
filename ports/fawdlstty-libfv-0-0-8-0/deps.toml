@@ -1,0 +1,10 @@
+old = "fawdlstty-libfv"
+new = "fawdlstty-libfv-0-0-8-0"
+
+[deps]
+asio-1-23-0-0 = "asio"
+fmt-9-0-0-0 = "fmt"
+gzip-hpp-0-1-0-1 = "gzip-hpp"
+nlohmann-json-3-10-5-3 = "nlohmann-json"
+openssl-3-0-5-3 = "openssl"
+zlib-1-2-12-1 = "zlib"

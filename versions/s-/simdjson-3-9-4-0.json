@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/simdjson-3-9-4-0",
+      "version": "3.9.4",
+      "port-version": 0
+    }
+  ]
+}

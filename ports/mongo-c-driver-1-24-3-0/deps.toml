@@ -1,0 +1,14 @@
+old = "mongo-c-driver"
+new = "mongo-c-driver-1-24-3-0"
+
+[deps]
+icu-73-1-0 = "icu"
+libbson-1-24-3-0 = "libbson"
+mongo-c-driver-1-24-3-0 = "mongo-c-driver"
+openssl-3-1-2-1 = "openssl"
+pkgconf-1-8-0-5 = "pkgconf"
+snappy-1-1-10-0 = "snappy"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-2-13-0 = "zlib"
+zstd-1-5-5-0 = "zstd"

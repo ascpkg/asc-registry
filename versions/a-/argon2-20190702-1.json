@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/argon2-20190702-1",
+      "version": "20190702",
+      "port-version": 1
+    }
+  ]
+}

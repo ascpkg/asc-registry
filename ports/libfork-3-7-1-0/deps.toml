@@ -1,0 +1,8 @@
+old = "libfork"
+new = "libfork-3-7-1-0"
+
+[deps]
+boost-atomic-1-84-0-0 = "boost-atomic"
+hwloc-2-10-0-0 = "hwloc"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

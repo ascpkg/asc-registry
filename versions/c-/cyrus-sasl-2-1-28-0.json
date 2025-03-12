@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cyrus-sasl-2-1-28-0",
+      "version": "2.1.28",
+      "port-version": 0
+    }
+  ]
+}

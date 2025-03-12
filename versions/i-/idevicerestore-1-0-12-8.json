@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/idevicerestore-1-0-12-8",
+      "version": "1.0.12",
+      "port-version": 8
+    }
+  ]
+}

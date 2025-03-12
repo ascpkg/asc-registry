@@ -1,0 +1,15 @@
+old = "numcpp"
+new = "numcpp-2-6-0-0"
+
+[deps]
+boost-algorithm-1-77-0-0 = "boost-algorithm"
+boost-endian-1-77-0-0 = "boost-endian"
+boost-integer-1-77-0-0 = "boost-integer"
+boost-math-1-77-0-0 = "boost-math"
+boost-predef-1-77-0-0 = "boost-predef"
+boost-python-1-77-0-0 = "boost-python"
+boost-random-1-77-0-0 = "boost-random"
+boost-type-traits-1-77-0-0 = "boost-type-traits"
+pybind11-2-7-1-0 = "pybind11"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"

@@ -1,0 +1,7 @@
+old = "libqcow"
+new = "libqcow-20210419-2"
+
+[deps]
+gettext-0-21-9 = "gettext"
+openssl-1-1-1m-1 = "openssl"
+zlib-1-2-11-13 = "zlib"

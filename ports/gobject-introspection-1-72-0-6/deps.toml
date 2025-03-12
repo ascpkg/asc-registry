@@ -1,0 +1,10 @@
+old = "gobject-introspection"
+new = "gobject-introspection-1-72-0-6"
+
+[deps]
+cairo-1-17-8-4 = "cairo"
+glib-2-78-1-0 = "glib"
+gobject-introspection-1-72-0-6 = "gobject-introspection"
+libffi-3-4-4-6 = "libffi"
+python3-3-11-5-2 = "python3"
+vcpkg-tool-meson-0-63-0 = "vcpkg-tool-meson"

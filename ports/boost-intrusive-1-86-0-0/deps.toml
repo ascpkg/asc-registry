@@ -1,0 +1,9 @@
+old = "boost-intrusive"
+new = "boost-intrusive-1-86-0-0"
+
+[deps]
+boost-assert-1-86-0-0 = "boost-assert"
+boost-cmake-1-86-0-0 = "boost-cmake"
+boost-config-1-86-0-0 = "boost-config"
+boost-headers-1-86-0-0 = "boost-headers"
+boost-move-1-86-0-0 = "boost-move"

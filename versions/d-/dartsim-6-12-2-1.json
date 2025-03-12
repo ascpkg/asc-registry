@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/dartsim-6-12-2-1",
+      "version": "6.12.2",
+      "port-version": 1
+    }
+  ]
+}

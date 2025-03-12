@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/berkeleydb-4-8-30-7",
+      "version": "4.8.30",
+      "port-version": 7
+    }
+  ]
+}

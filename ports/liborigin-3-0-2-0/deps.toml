@@ -1,0 +1,5 @@
+old = "liborigin"
+new = "liborigin-3-0-2-0"
+
+[deps]
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

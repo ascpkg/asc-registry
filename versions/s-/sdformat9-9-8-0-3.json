@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/sdformat9-9-8-0-3",
+      "version": "9.8.0",
+      "port-version": 3
+    }
+  ]
+}

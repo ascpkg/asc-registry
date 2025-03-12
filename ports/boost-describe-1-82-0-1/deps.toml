@@ -1,0 +1,6 @@
+old = "boost-describe"
+new = "boost-describe-1-82-0-1"
+
+[deps]
+boost-mp11-1-82-0-1 = "boost-mp11"
+boost-vcpkg-helpers-1-82-0-1 = "boost-vcpkg-helpers"

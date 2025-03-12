@@ -1,0 +1,5 @@
+old = "wintoast"
+new = "wintoast-1-2-0-2"
+
+[deps]
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"

@@ -1,0 +1,5 @@
+old = "gettimeofday"
+new = "gettimeofday-2017-10-14-6"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

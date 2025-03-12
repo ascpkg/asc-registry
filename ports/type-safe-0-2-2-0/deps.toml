@@ -1,0 +1,7 @@
+old = "type-safe"
+new = "type-safe-0-2-2-0"
+
+[deps]
+debug-assert-1-3-3-0 = "debug-assert"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"

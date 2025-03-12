@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cgicc-3-2-19-5",
+      "version-string": "3.2.19",
+      "port-version": 5
+    }
+  ]
+}

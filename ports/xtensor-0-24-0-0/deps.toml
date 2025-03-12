@@ -1,0 +1,10 @@
+old = "xtensor"
+new = "xtensor-0-24-0-0"
+
+[deps]
+nlohmann-json-3-10-5-0 = "nlohmann-json"
+tbb-2020-u3-7 = "tbb"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"
+xsimd-8-0-3-0 = "xsimd"
+xtl-0-7-2-0 = "xtl"

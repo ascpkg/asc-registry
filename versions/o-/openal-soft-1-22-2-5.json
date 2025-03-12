@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/openal-soft-1-22-2-5",
+      "version-semver": "1.22.2",
+      "port-version": 5
+    }
+  ]
+}

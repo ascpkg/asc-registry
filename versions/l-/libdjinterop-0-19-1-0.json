@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libdjinterop-0-19-1-0",
+      "version": "0.19.1",
+      "port-version": 0
+    }
+  ]
+}

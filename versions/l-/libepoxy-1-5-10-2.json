@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libepoxy-1-5-10-2",
+      "version": "1.5.10",
+      "port-version": 2
+    }
+  ]
+}

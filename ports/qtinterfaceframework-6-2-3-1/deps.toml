@@ -1,0 +1,11 @@
+old = "qtinterfaceframework"
+new = "qtinterfaceframework-6-2-3-1"
+
+[deps]
+pkgconf-1-8-0-2 = "pkgconf"
+qtdeclarative-6-2-3-0 = "qtdeclarative"
+qtinterfaceframework-6-2-3-1 = "qtinterfaceframework"
+qtmultimedia-6-2-3-0 = "qtmultimedia"
+qtremoteobjects-6-2-3-0 = "qtremoteobjects"
+qttools-6-2-3-0 = "qttools"
+taglib-1-12-0-2 = "taglib"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/nanobind-1-9-2-0",
+      "version-semver": "1.9.2",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+old = "dlfcn-win32"
+new = "dlfcn-win32-1-1-1-6"
+
+[deps]
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/freerdp-2-4-0-0",
+      "version-semver": "2.4.0",
+      "port-version": 0
+    }
+  ]
+}

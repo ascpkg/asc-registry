@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/asio-1-28-0-1",
+      "version": "1.28.0",
+      "port-version": 1
+    }
+  ]
+}

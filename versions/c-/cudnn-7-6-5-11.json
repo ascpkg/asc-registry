@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cudnn-7-6-5-11",
+      "version": "7.6.5",
+      "port-version": 11
+    }
+  ]
+}

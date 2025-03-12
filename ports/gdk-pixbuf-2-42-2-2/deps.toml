@@ -1,0 +1,10 @@
+old = "gdk-pixbuf"
+new = "gdk-pixbuf-2-42-2-2"
+
+[deps]
+gettext-0-21-7 = "gettext"
+glib-2-70-1-1 = "glib"
+libpng-1-6-37-16 = "libpng"
+tiff-4-3-0-2 = "tiff"
+vcpkg-tool-meson-0-60-2-0 = "vcpkg-tool-meson"
+zlib-1-2-11-13 = "zlib"

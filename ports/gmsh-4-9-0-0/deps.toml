@@ -1,0 +1,15 @@
+old = "gmsh"
+new = "gmsh-4-9-0-0"
+
+[deps]
+blas-1-1 = "blas"
+caf-0-18-5-0 = "caf"
+freetype-2-11-0-2 = "freetype"
+libjpeg-turbo-2-0-6-2 = "libjpeg-turbo"
+libpng-1-6-37-16 = "libpng"
+opencascade-7-6-0-0 = "opencascade"
+opengl-0-0-9 = "opengl"
+openmpi-4-1-0-3 = "openmpi"
+tbb-2020-u3-6 = "tbb"
+vcpkg-cmake-2021-12-05-0 = "vcpkg-cmake"
+zlib-1-2-11-13 = "zlib"

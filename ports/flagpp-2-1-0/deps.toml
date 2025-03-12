@@ -1,0 +1,5 @@
+old = "flagpp"
+new = "flagpp-2-1-0"
+
+[deps]
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

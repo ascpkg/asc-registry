@@ -1,0 +1,7 @@
+old = "libxau"
+new = "libxau-1-0-9-0"
+
+[deps]
+bzip2-1-0-8-2 = "bzip2"
+xorg-macros-1-19-3-0 = "xorg-macros"
+xproto-2021-5-0 = "xproto"

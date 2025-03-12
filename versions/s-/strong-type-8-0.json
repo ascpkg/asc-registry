@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/strong-type-8-0",
+      "version": "8",
+      "port-version": 0
+    }
+  ]
+}

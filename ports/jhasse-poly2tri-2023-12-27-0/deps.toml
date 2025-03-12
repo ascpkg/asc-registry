@@ -1,0 +1,6 @@
+old = "jhasse-poly2tri"
+new = "jhasse-poly2tri-2023-12-27-0"
+
+[deps]
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/sfml-2-5-1-14",
+      "version": "2.5.1",
+      "port-version": 14
+    }
+  ]
+}

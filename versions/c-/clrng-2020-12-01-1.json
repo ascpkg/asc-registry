@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/clrng-2020-12-01-1",
+      "version-string": "2020-12-01",
+      "port-version": 1
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+old = "sse2neon"
+new = "sse2neon-1-5-1-0"

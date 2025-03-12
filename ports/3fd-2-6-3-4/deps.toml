@@ -1,0 +1,10 @@
+old = "3fd"
+new = "3fd-2-6-3-4"
+
+[deps]
+boost-lockfree-1-82-0-2 = "boost-lockfree"
+boost-regex-1-82-0-2 = "boost-regex"
+poco-1-12-4-4 = "poco"
+rapidxml-1-13-6 = "rapidxml"
+sqlite3-3-42-0-1 = "sqlite3"
+vcpkg-msbuild-2023-08-08-0 = "vcpkg-msbuild"

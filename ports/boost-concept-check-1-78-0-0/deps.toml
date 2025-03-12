@@ -1,0 +1,9 @@
+old = "boost-concept-check"
+new = "boost-concept-check-1-78-0-0"
+
+[deps]
+boost-config-1-78-0-0 = "boost-config"
+boost-preprocessor-1-78-0-0 = "boost-preprocessor"
+boost-static-assert-1-78-0-0 = "boost-static-assert"
+boost-type-traits-1-78-0-0 = "boost-type-traits"
+boost-vcpkg-helpers-1-78-0-0 = "boost-vcpkg-helpers"

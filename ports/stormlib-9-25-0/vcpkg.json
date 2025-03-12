@@ -1,0 +1,13 @@
+{
+  "name": "stormlib",
+  "version": "9.25",
+  "description": "StormLib is a library for opening and manipulating Blizzard MPQ files",
+  "dependencies": [
+    "bzip2",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    "zlib"
+  ]
+}

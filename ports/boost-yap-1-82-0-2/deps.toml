@@ -1,0 +1,8 @@
+old = "boost-yap"
+new = "boost-yap-1-82-0-2"
+
+[deps]
+boost-hana-1-82-0-2 = "boost-hana"
+boost-preprocessor-1-82-0-2 = "boost-preprocessor"
+boost-type-index-1-82-0-2 = "boost-type-index"
+boost-vcpkg-helpers-1-82-0-2 = "boost-vcpkg-helpers"

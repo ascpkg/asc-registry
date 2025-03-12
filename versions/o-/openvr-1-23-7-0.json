@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/openvr-1-23-7-0",
+      "version": "1.23.7",
+      "port-version": 0
+    }
+  ]
+}

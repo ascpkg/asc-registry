@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/munit-2019-04-06-4",
+      "version-string": "2019-04-06",
+      "port-version": 4
+    }
+  ]
+}

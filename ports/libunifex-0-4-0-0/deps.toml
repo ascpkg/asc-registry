@@ -1,0 +1,7 @@
+old = "libunifex"
+new = "libunifex-0-4-0-0"
+
+[deps]
+liburing-2-5-0 = "liburing"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

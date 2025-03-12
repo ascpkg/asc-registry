@@ -1,0 +1,2 @@
+old = "x86-simd-sort"
+new = "x86-simd-sort-5-0-0"

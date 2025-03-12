@@ -1,0 +1,9 @@
+old = "aws-c-auth"
+new = "aws-c-auth-0-6-3-0"
+
+[deps]
+aws-c-common-0-6-9-0 = "aws-c-common"
+aws-c-http-0-6-5-0 = "aws-c-http"
+s2n-1-0-17-0 = "s2n"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"

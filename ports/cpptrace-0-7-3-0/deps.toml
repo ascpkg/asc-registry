@@ -1,0 +1,7 @@
+old = "cpptrace"
+new = "cpptrace-0-7-3-0"
+
+[deps]
+libdwarf-0-11-0-0 = "libdwarf"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

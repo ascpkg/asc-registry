@@ -1,0 +1,8 @@
+old = "kf5i18n"
+new = "kf5i18n-5-81-0-2"
+
+[deps]
+ecm-5-81-0-0 = "ecm"
+gettext-0-21-4 = "gettext"
+qt5-declarative-5-15-2-0 = "qt5-declarative"
+qt5-tools-5-15-2-0 = "qt5-tools"

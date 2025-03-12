@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/secp256k1-2022-07-11-0",
+      "version-date": "2022-07-11",
+      "port-version": 0
+    }
+  ]
+}

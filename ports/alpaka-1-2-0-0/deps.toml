@@ -1,0 +1,8 @@
+old = "alpaka"
+new = "alpaka-1-2-0-0"
+
+[deps]
+boost-core-1-85-0-2 = "boost-core"
+boost-predef-1-85-0-1 = "boost-predef"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

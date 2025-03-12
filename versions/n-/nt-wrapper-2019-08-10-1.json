@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/nt-wrapper-2019-08-10-1",
+      "version-string": "2019-08-10",
+      "port-version": 1
+    }
+  ]
+}

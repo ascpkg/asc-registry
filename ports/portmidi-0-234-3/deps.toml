@@ -1,0 +1,5 @@
+old = "portmidi"
+new = "portmidi-0-234-3"
+
+[deps]
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"

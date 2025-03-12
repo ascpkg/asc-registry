@@ -1,0 +1,5 @@
+old = "rest-rpc"
+new = "rest-rpc-0-07-2"
+
+[deps]
+asio-1-19-2-0 = "asio"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/drogon-1-8-4-4",
+      "version": "1.8.4",
+      "port-version": 4
+    }
+  ]
+}

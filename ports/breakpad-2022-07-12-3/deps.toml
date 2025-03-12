@@ -1,0 +1,8 @@
+old = "breakpad"
+new = "breakpad-2022-07-12-3"
+
+[deps]
+atlmfc-0-1 = "atlmfc"
+libdisasm-0-23-9 = "libdisasm"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

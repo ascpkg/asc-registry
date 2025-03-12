@@ -1,0 +1,7 @@
+old = "libgcrypt"
+new = "libgcrypt-1-11-0-0"
+
+[deps]
+libgcrypt-1-11-0-0 = "libgcrypt"
+libgpg-error-1-51-0 = "libgpg-error"
+vcpkg-make-2024-12-27-0 = "vcpkg-make"

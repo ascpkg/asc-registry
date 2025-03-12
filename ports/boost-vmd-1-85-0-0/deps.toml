@@ -1,0 +1,8 @@
+old = "boost-vmd"
+new = "boost-vmd-1-85-0-0"
+
+[deps]
+boost-cmake-1-85-0-0 = "boost-cmake"
+boost-config-1-85-0-0 = "boost-config"
+boost-headers-1-85-0-0 = "boost-headers"
+boost-preprocessor-1-85-0-0 = "boost-preprocessor"

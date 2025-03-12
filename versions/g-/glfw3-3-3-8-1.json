@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/glfw3-3-3-8-1",
+      "version-semver": "3.3.8",
+      "port-version": 1
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+old = "signalrclient"
+new = "signalrclient-1-0-0-beta1-9-4"
+
+[deps]
+cpprestsdk-2-10-18-2 = "cpprestsdk"
+openssl-3-1-0-1 = "openssl"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

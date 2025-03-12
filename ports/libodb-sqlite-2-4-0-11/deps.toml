@@ -1,0 +1,7 @@
+old = "libodb-sqlite"
+new = "libodb-sqlite-2-4-0-11"
+
+[deps]
+libodb-2-4-0-10 = "libodb"
+sqlite3-3-40-1-1 = "sqlite3"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

@@ -1,0 +1,8 @@
+old = "libdjinterop"
+new = "libdjinterop-0-16-0-0"
+
+[deps]
+sqlite3-3-36-0-1 = "sqlite3"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"
+zlib-1-2-11-12 = "zlib"

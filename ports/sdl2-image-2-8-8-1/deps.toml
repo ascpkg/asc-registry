@@ -1,0 +1,12 @@
+old = "sdl2-image"
+new = "sdl2-image-2-8-8-1"
+
+[deps]
+libavif-1-1-1-1 = "libavif"
+libjpeg-turbo-3-1-0-1 = "libjpeg-turbo"
+libpng-1-6-46-0 = "libpng"
+libwebp-1-5-0-0 = "libwebp"
+sdl2-2-32-2-0 = "sdl2"
+tiff-4-7-0-0 = "tiff"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

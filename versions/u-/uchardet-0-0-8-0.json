@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/uchardet-0-0-8-0",
+      "version": "0.0.8",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+old = "fplus"
+new = "fplus-0-2-18-p0-0"
+
+[deps]
+vcpkg-cmake-2022-04-12-0 = "vcpkg-cmake"

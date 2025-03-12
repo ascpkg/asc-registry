@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/tsl-sparse-map-0-6-2-1",
+      "version-string": "0.6.2",
+      "port-version": 1
+    }
+  ]
+}

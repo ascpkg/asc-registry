@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/breakpad-2022-07-12-6",
+      "version-date": "2022-07-12",
+      "port-version": 6
+    }
+  ]
+}

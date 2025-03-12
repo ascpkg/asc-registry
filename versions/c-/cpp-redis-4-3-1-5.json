@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cpp-redis-4-3-1-5",
+      "version": "4.3.1",
+      "port-version": 5
+    }
+  ]
+}

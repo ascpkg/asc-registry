@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/onnx-1-17-0-0",
+      "version-semver": "1.17.0",
+      "port-version": 0
+    }
+  ]
+}

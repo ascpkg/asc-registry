@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/parallel-hashmap-1-36-0",
+      "version": "1.36",
+      "port-version": 0
+    }
+  ]
+}

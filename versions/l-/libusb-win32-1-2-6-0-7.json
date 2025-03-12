@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libusb-win32-1-2-6-0-7",
+      "version-string": "1.2.6.0",
+      "port-version": 7
+    }
+  ]
+}

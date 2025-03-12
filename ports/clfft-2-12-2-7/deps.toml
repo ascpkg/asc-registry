@@ -1,0 +1,7 @@
+old = "clfft"
+new = "clfft-2-12-2-7"
+
+[deps]
+opencl-v2023-02-06-2 = "opencl"
+vcpkg-cmake-2024-04-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

@@ -1,0 +1,6 @@
+old = "pistache"
+new = "pistache-2021-03-31-3"
+
+[deps]
+rapidjson-2020-09-14-2 = "rapidjson"
+vcpkg-tool-meson-0-60-2-0 = "vcpkg-tool-meson"

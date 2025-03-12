@@ -1,0 +1,6 @@
+old = "c-ares"
+new = "c-ares-1-17-2-1"
+
+[deps]
+vcpkg-cmake-2021-07-30-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"

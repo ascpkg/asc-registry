@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/xlsxio-0-2-34-0",
+      "version": "0.2.34",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/kf5diagram-2-8-0-1",
+      "version": "2.8.0",
+      "port-version": 1
+    }
+  ]
+}

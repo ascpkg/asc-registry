@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libusbmuxd-1-2-219-1",
+      "version-string": "1.2.219",
+      "port-version": 1
+    }
+  ]
+}

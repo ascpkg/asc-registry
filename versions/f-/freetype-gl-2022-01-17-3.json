@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/freetype-gl-2022-01-17-3",
+      "version-date": "2022-01-17",
+      "port-version": 3
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/glew-2-2-0-6",
+      "version": "2.2.0",
+      "port-version": 6
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+old = "nu-book-zxing-cpp"
+new = "nu-book-zxing-cpp-1-2-0-0"
+
+[deps]
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-01-30-0 = "vcpkg-cmake-config"

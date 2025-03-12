@@ -1,0 +1,9 @@
+old = "kddockwidgets"
+new = "kddockwidgets-2-1-0-1"
+
+[deps]
+kdbindings-1-1-0-0 = "kdbindings"
+nlohmann-json-3-11-3-1 = "nlohmann-json"
+qtbase-6-7-3-1 = "qtbase"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

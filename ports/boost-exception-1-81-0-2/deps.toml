@@ -1,0 +1,15 @@
+old = "boost-exception"
+new = "boost-exception-1-81-0-2"
+
+[deps]
+boost-assert-1-81-0-2 = "boost-assert"
+boost-build-1-81-0-3 = "boost-build"
+boost-config-1-81-0-2 = "boost-config"
+boost-core-1-81-0-2 = "boost-core"
+boost-modular-build-helper-1-81-0-4 = "boost-modular-build-helper"
+boost-smart-ptr-1-81-0-2 = "boost-smart-ptr"
+boost-throw-exception-1-81-0-2 = "boost-throw-exception"
+boost-tuple-1-81-0-2 = "boost-tuple"
+boost-type-traits-1-81-0-2 = "boost-type-traits"
+boost-vcpkg-helpers-1-81-0-3 = "boost-vcpkg-helpers"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

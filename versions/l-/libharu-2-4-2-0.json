@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libharu-2-4-2-0",
+      "version-semver": "2.4.2",
+      "port-version": 0
+    }
+  ]
+}

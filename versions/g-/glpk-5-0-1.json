@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/glpk-5-0-1",
+      "version": "5.0",
+      "port-version": 1
+    }
+  ]
+}

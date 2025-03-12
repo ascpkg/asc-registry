@@ -1,0 +1,18 @@
+old = "magnum-plugins"
+new = "magnum-plugins-2020-06-8"
+
+[deps]
+assimp-5-0-1-5 = "assimp"
+devil-1-8-0-8 = "devil"
+freetype-2-11-0-2 = "freetype"
+glslang-11-6-0-0 = "glslang"
+harfbuzz-3-0-0-0 = "harfbuzz"
+libjpeg-turbo-2-0-6-2 = "libjpeg-turbo"
+libpng-1-6-37-16 = "libpng"
+magnum-2020-06-7 = "magnum"
+magnum-plugins-2020-06-8 = "magnum-plugins"
+meshoptimizer-0-16-0 = "meshoptimizer"
+openexr-2-5-0-3 = "openexr"
+spirv-tools-2021-1-0 = "spirv-tools"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+zstd-1-5-0-1 = "zstd"

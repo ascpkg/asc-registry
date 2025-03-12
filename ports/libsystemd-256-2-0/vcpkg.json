@@ -1,0 +1,23 @@
+{
+  "name": "libsystemd",
+  "version": "256.2",
+  "description": "Libsystemd",
+  "homepage": "https://github.com/systemd/systemd",
+  "supports": "linux",
+  "dependencies": [
+    {
+      "name": "gperf",
+      "host": true
+    },
+    "libcap",
+    "liblzma",
+    "libmount",
+    "libxcrypt",
+    "lz4",
+    {
+      "name": "vcpkg-tool-meson",
+      "host": true
+    },
+    "zstd"
+  ]
+}

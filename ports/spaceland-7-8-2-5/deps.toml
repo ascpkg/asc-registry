@@ -1,0 +1,5 @@
+old = "spaceland"
+new = "spaceland-7-8-2-5"
+
+[deps]
+zlib-1-2-11-12 = "zlib"

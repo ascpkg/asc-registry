@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/angelscript-2-35-1-1",
+      "version": "2.35.1",
+      "port-version": 1
+    }
+  ]
+}

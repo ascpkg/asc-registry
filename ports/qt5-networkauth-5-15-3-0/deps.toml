@@ -1,0 +1,5 @@
+old = "qt5-networkauth"
+new = "qt5-networkauth-5-15-3-0"
+
+[deps]
+qt5-base-5-15-3-0 = "qt5-base"

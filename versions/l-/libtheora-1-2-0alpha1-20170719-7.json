@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libtheora-1-2-0alpha1-20170719-7",
+      "version-string": "1.2.0alpha1-20170719",
+      "port-version": 7
+    }
+  ]
+}

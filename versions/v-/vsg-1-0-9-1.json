@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/vsg-1-0-9-1",
+      "version": "1.0.9",
+      "port-version": 1
+    }
+  ]
+}

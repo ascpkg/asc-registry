@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/faiss-1-7-1-1",
+      "version-semver": "1.7.1",
+      "port-version": 1
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+old = "luajit"
+new = "luajit-2023-01-04-1"
+
+[deps]
+luajit-2023-01-04-1 = "luajit"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+vcpkg-cmake-get-vars-2023-03-02-0 = "vcpkg-cmake-get-vars"

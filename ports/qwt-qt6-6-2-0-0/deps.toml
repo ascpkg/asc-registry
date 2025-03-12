@@ -1,0 +1,8 @@
+old = "qwt-qt6"
+new = "qwt-qt6-6-2-0-0"
+
+[deps]
+qtbase-6-2-1-1 = "qtbase"
+qtsvg-6-2-1-0 = "qtsvg"
+qttools-6-2-1-0 = "qttools"
+vcpkg-qmake-2021-10-23-0 = "vcpkg-qmake"

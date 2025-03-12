@@ -1,0 +1,8 @@
+old = "nvidia-cutlass"
+new = "nvidia-cutlass-3-3-0-0"
+
+[deps]
+cuda-10-1-13 = "cuda"
+cudnn-7-6-5-12 = "cudnn"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

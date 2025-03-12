@@ -1,0 +1,18 @@
+old = "cpprestsdk"
+new = "cpprestsdk-2-10-19-3"
+
+[deps]
+boost-asio-1-87-0-0 = "boost-asio"
+boost-chrono-1-87-0-0 = "boost-chrono"
+boost-date-time-1-87-0-0 = "boost-date-time"
+boost-filesystem-1-87-0-0 = "boost-filesystem"
+boost-random-1-87-0-0 = "boost-random"
+boost-regex-1-87-0-0 = "boost-regex"
+boost-system-1-87-0-0 = "boost-system"
+boost-thread-1-87-0-0 = "boost-thread"
+brotli-1-1-0-1 = "brotli"
+cpprestsdk-2-10-19-3 = "cpprestsdk"
+openssl-3-4-1-0 = "openssl"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
+zlib-1-3-1-0 = "zlib"

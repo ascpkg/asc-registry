@@ -1,0 +1,10 @@
+old = "boost-intrusive"
+new = "boost-intrusive-1-82-0-1"
+
+[deps]
+boost-assert-1-82-0-1 = "boost-assert"
+boost-config-1-82-0-1 = "boost-config"
+boost-container-hash-1-82-0-1 = "boost-container-hash"
+boost-move-1-82-0-1 = "boost-move"
+boost-static-assert-1-82-0-1 = "boost-static-assert"
+boost-vcpkg-helpers-1-82-0-1 = "boost-vcpkg-helpers"

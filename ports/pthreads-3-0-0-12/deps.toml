@@ -1,0 +1,2 @@
+old = "pthreads"
+new = "pthreads-3-0-0-12"

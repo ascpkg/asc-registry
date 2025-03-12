@@ -1,0 +1,11 @@
+old = "magnum"
+new = "magnum-2020-06-11"
+
+[deps]
+corrade-2020-06-4 = "corrade"
+glfw3-3-3-8-0 = "glfw3"
+magnum-2020-06-11 = "magnum"
+openal-soft-1-22-2-3 = "openal-soft"
+sdl2-2-24-0-0 = "sdl2"
+vcpkg-cmake-2022-07-18-0 = "vcpkg-cmake"
+vulkan-1-1-82-1-2 = "vulkan"

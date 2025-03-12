@@ -1,0 +1,12 @@
+old = "symengine"
+new = "symengine-0-7-0-0"
+
+[deps]
+arb-2-18-1-0 = "arb"
+boost-math-1-76-0-0 = "boost-math"
+boost-multiprecision-1-76-0-0 = "boost-multiprecision"
+boost-random-1-76-0-0 = "boost-random"
+flint-2-5-2-4-0 = "flint"
+gmp-6-2-1-6 = "gmp"
+gperftools-2019-09-02-0 = "gperftools"
+mpfr-4-1-0-0 = "mpfr"

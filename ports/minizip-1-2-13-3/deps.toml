@@ -1,0 +1,9 @@
+old = "minizip"
+new = "minizip-1-2-13-3"
+
+[deps]
+bzip2-1-0-8-5 = "bzip2"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+vcpkg-cmake-get-vars-2023-03-02-0 = "vcpkg-cmake-get-vars"
+zlib-1-2-13-0 = "zlib"

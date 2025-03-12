@@ -1,0 +1,7 @@
+old = "co"
+new = "co-2-0-3-0"
+
+[deps]
+curl-7-80-0-0 = "curl"
+openssl-1-1-1l-4 = "openssl"
+vcpkg-cmake-2021-12-05-0 = "vcpkg-cmake"

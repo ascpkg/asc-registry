@@ -1,0 +1,6 @@
+old = "ignition-tools"
+new = "ignition-tools-1-5-0-0"
+
+[deps]
+vcpkg-cmake-2022-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

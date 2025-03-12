@@ -1,0 +1,15 @@
+old = "boost-locale"
+new = "boost-locale-1-86-0-0"
+
+[deps]
+boost-assert-1-86-0-0 = "boost-assert"
+boost-cmake-1-86-0-0 = "boost-cmake"
+boost-config-1-86-0-0 = "boost-config"
+boost-core-1-86-0-0 = "boost-core"
+boost-headers-1-86-0-0 = "boost-headers"
+boost-iterator-1-86-0-0 = "boost-iterator"
+boost-predef-1-86-0-0 = "boost-predef"
+boost-thread-1-86-0-0 = "boost-thread"
+boost-utility-1-86-0-0 = "boost-utility"
+icu-74-2-4 = "icu"
+libiconv-1-17-4 = "libiconv"

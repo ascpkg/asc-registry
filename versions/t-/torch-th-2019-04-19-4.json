@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/torch-th-2019-04-19-4",
+      "version-date": "2019-04-19",
+      "port-version": 4
+    }
+  ]
+}

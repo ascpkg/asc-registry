@@ -1,0 +1,5 @@
+old = "bdwgc"
+new = "bdwgc-8-2-0-2"
+
+[deps]
+libatomic-ops-7-7-0-0 = "libatomic-ops"

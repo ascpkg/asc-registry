@@ -1,0 +1,7 @@
+old = "glslang"
+new = "glslang-13-1-1-0"
+
+[deps]
+spirv-tools-2023-2-0 = "spirv-tools"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

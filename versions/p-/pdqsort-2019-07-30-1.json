@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/pdqsort-2019-07-30-1",
+      "version-string": "2019-07-30",
+      "port-version": 1
+    }
+  ]
+}

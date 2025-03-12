@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/vcglib-2022-02-0",
+      "version-string": "2022.02",
+      "port-version": 0
+    }
+  ]
+}

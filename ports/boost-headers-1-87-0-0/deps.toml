@@ -1,0 +1,5 @@
+old = "boost-headers"
+new = "boost-headers-1-87-0-0"
+
+[deps]
+boost-cmake-1-87-0-0 = "boost-cmake"

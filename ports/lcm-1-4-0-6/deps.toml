@@ -1,0 +1,7 @@
+old = "lcm"
+new = "lcm-1-4-0-6"
+
+[deps]
+glib-2-76-3-1 = "glib"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

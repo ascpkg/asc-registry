@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/xerces-c-3-2-5-0",
+      "version-semver": "3.2.5",
+      "port-version": 0
+    }
+  ]
+}

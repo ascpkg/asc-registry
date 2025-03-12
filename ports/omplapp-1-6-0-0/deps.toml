@@ -1,0 +1,17 @@
+old = "omplapp"
+new = "omplapp-1-6-0-0"
+
+[deps]
+assimp-5-4-3-0 = "assimp"
+boost-filesystem-1-86-0-0 = "boost-filesystem"
+boost-math-1-86-0-0 = "boost-math"
+boost-program-options-1-86-0-0 = "boost-program-options"
+boost-serialization-1-86-0-0 = "boost-serialization"
+boost-system-1-86-0-0 = "boost-system"
+ccd-2-1-4 = "ccd"
+eigen3-3-4-0-5 = "eigen3"
+fcl-0-7-0-3 = "fcl"
+ompl-1-6-0-4 = "ompl"
+opengl-2022-12-04-3 = "opengl"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

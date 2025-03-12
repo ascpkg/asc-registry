@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/jsmn-2019-04-27-1",
+      "version-string": "2019-04-27",
+      "port-version": 1
+    }
+  ]
+}

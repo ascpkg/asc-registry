@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/signalrclient-1-0-0-beta1-9-5",
+      "version": "1.0.0-beta1-9",
+      "port-version": 5
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libassuan-2-5-3-5",
+      "version": "2.5.3",
+      "port-version": 5
+    }
+  ]
+}

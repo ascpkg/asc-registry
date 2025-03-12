@@ -1,0 +1,9 @@
+old = "getdns"
+new = "getdns-1-7-3-0"
+
+[deps]
+libevent-2-1-12-20230128-0 = "libevent"
+libidn2-2-3-4-3 = "libidn2"
+libuv-1-46-0-1 = "libuv"
+openssl-3-1-4-1 = "openssl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

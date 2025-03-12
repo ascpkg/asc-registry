@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libodb-boost-2-4-0-5",
+      "version-string": "2.4.0",
+      "port-version": 5
+    }
+  ]
+}

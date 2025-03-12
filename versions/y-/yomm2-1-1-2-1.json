@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/yomm2-1-1-2-1",
+      "version-string": "1.1.2",
+      "port-version": 1
+    }
+  ]
+}

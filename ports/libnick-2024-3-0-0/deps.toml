@@ -1,0 +1,15 @@
+old = "libnick"
+new = "libnick-2024-3-0-0"
+
+[deps]
+boost-locale-1-84-0-0 = "boost-locale"
+curl-8-6-0-0 = "curl"
+gettext-libintl-0-22-4-1 = "gettext-libintl"
+glib-2-78-4-0 = "glib"
+jsoncpp-1-9-5-2 = "jsoncpp"
+libsecret-0-20-4-2 = "libsecret"
+libuuid-1-0-3-14 = "libuuid"
+maddy-1-3-0-0 = "maddy"
+openssl-3-2-1-0 = "openssl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

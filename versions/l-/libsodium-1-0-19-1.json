@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libsodium-1-0-19-1",
+      "version": "1.0.19",
+      "port-version": 1
+    }
+  ]
+}

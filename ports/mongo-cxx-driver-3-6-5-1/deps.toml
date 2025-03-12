@@ -1,0 +1,11 @@
+old = "mongo-cxx-driver"
+new = "mongo-cxx-driver-3-6-5-1"
+
+[deps]
+boost-optional-1-77-0-0 = "boost-optional"
+boost-smart-ptr-1-77-0-0 = "boost-smart-ptr"
+boost-utility-1-77-0-0 = "boost-utility"
+libbson-1-17-6-1 = "libbson"
+mongo-c-driver-1-17-6-1 = "mongo-c-driver"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"

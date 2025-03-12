@@ -1,0 +1,6 @@
+old = "readosm"
+new = "readosm-1-1-0a-1"
+
+[deps]
+expat-2-4-1-0 = "expat"
+zlib-1-2-11-12 = "zlib"

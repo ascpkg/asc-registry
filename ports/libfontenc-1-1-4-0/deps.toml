@@ -1,0 +1,8 @@
+old = "libfontenc"
+new = "libfontenc-1-1-4-0"
+
+[deps]
+font-util-1-3-2-0 = "font-util"
+xorg-macros-1-19-3-0 = "xorg-macros"
+xproto-2021-5-0 = "xproto"
+zlib-1-2-12-1 = "zlib"

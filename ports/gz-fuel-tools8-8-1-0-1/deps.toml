@@ -1,0 +1,5 @@
+old = "gz-fuel-tools8"
+new = "gz-fuel-tools8-8-1-0-1"
+
+[deps]
+gz-fuel-tools-8-1-0-0 = "gz-fuel-tools"

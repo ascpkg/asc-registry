@@ -1,0 +1,6 @@
+old = "gmp"
+new = "gmp-6-2-1-18"
+
+[deps]
+gmp-6-2-1-18 = "gmp"
+vcpkg-cmake-get-vars-2023-03-02-0 = "vcpkg-cmake-get-vars"

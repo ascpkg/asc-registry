@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/glslang-11-12-0-1",
+      "version": "11.12.0",
+      "port-version": 1
+    }
+  ]
+}

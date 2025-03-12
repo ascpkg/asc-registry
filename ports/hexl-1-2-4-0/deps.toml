@@ -1,0 +1,8 @@
+old = "hexl"
+new = "hexl-1-2-4-0"
+
+[deps]
+cpu-features-0-6-0-2 = "cpu-features"
+easyloggingpp-9-97-0-2 = "easyloggingpp"
+vcpkg-cmake-2022-05-10-1 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

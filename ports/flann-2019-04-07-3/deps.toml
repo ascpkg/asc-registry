@@ -1,0 +1,7 @@
+old = "flann"
+new = "flann-2019-04-07-3"
+
+[deps]
+cuda-10-1-8 = "cuda"
+hdf5-1-12-1-0 = "hdf5"
+lz4-1-9-3-3 = "lz4"

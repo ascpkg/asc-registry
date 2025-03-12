@@ -1,0 +1,8 @@
+old = "boost-typeof"
+new = "boost-typeof-1-79-0-0"
+
+[deps]
+boost-config-1-79-0-0 = "boost-config"
+boost-preprocessor-1-79-0-0 = "boost-preprocessor"
+boost-type-traits-1-79-0-0 = "boost-type-traits"
+boost-vcpkg-helpers-1-79-0-0 = "boost-vcpkg-helpers"

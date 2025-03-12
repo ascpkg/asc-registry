@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ffnvcodec-10-0-26-0-2",
+      "version-string": "10.0.26.0",
+      "port-version": 2
+    }
+  ]
+}

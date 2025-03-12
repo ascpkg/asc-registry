@@ -1,0 +1,11 @@
+old = "boost-scope-exit"
+new = "boost-scope-exit-1-85-0-1"
+
+[deps]
+boost-cmake-1-85-0-1 = "boost-cmake"
+boost-config-1-85-0-1 = "boost-config"
+boost-function-1-85-0-1 = "boost-function"
+boost-headers-1-85-0-1 = "boost-headers"
+boost-preprocessor-1-85-0-1 = "boost-preprocessor"
+boost-type-traits-1-85-0-1 = "boost-type-traits"
+boost-typeof-1-85-0-1 = "boost-typeof"

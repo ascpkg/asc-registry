@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/bdwgc-8-2-0-2",
+      "version": "8.2.0",
+      "port-version": 2
+    }
+  ]
+}

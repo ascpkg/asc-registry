@@ -1,0 +1,10 @@
+old = "guile"
+new = "guile-3-0-10-0"
+
+[deps]
+bdwgc-8-2-8-0 = "bdwgc"
+gettext-0-22-5-1 = "gettext"
+gmp-6-3-0-0 = "gmp"
+gperf-3-1-6 = "gperf"
+libffi-3-4-6-0 = "libffi"
+libunistring-1-2-0 = "libunistring"

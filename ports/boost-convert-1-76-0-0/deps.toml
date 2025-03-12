@@ -1,0 +1,16 @@
+old = "boost-convert"
+new = "boost-convert-1-76-0-0"
+
+[deps]
+boost-config-1-76-0-0 = "boost-config"
+boost-core-1-76-0-0 = "boost-core"
+boost-function-types-1-76-0-0 = "boost-function-types"
+boost-lexical-cast-1-76-0-0 = "boost-lexical-cast"
+boost-math-1-76-0-0 = "boost-math"
+boost-mpl-1-76-0-0 = "boost-mpl"
+boost-optional-1-76-0-0 = "boost-optional"
+boost-parameter-1-76-0-0 = "boost-parameter"
+boost-range-1-76-0-0 = "boost-range"
+boost-spirit-1-76-0-0 = "boost-spirit"
+boost-type-traits-1-76-0-0 = "boost-type-traits"
+boost-vcpkg-helpers-7-2 = "boost-vcpkg-helpers"

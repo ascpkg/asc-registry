@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/strict-variant-0-5-2",
+      "version": "0.5",
+      "port-version": 2
+    }
+  ]
+}

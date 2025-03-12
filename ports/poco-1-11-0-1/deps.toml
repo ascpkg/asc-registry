@@ -1,0 +1,15 @@
+old = "poco"
+new = "poco-1-11-0-1"
+
+[deps]
+expat-2-4-1-0 = "expat"
+libharu-2017-08-15-10 = "libharu"
+libmariadb-3-1-15-0 = "libmariadb"
+libmysql-8-0-20-3 = "libmysql"
+libpqxx-7-6-0-2 = "libpqxx"
+openssl-1-1-1l-3 = "openssl"
+pcre-8-45-1 = "pcre"
+sqlite3-3-36-0-1 = "sqlite3"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-11-01-0 = "vcpkg-cmake-config"
+zlib-1-2-11-13 = "zlib"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/dcmtk-3-6-8-6",
+      "version": "3.6.8",
+      "port-version": 6
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+old = "nvtt"
+new = "nvtt-2-1-2-8"
+
+[deps]
+cuda-10-1-11 = "cuda"
+libsquish-1-15-12 = "libsquish"
+vcpkg-cmake-2022-10-30-0 = "vcpkg-cmake"

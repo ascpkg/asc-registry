@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/kf5archive-5-98-0-1",
+      "version": "5.98.0",
+      "port-version": 1
+    }
+  ]
+}

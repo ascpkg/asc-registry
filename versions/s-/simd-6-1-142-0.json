@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/simd-6-1-142-0",
+      "version": "6.1.142",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/kubernetes-2022-01-19-0",
+      "version-date": "2022-01-19",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+old = "geogram"
+new = "geogram-1-7-6-3"
+
+[deps]
+blas-1-1 = "blas"
+glfw3-3-3-8-0 = "glfw3"
+lapack-2022-02-22-0 = "lapack"

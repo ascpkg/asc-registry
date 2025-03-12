@@ -1,0 +1,8 @@
+old = "ltla-cppkmeans"
+new = "ltla-cppkmeans-2023-03-20-0"
+
+[deps]
+ltla-aarand-2023-03-19-0 = "ltla-aarand"
+ltla-powerit-2023-03-19-0 = "ltla-powerit"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

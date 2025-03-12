@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/g2o-2020-02-07-3",
+      "version-date": "2020-02-07",
+      "port-version": 3
+    }
+  ]
+}

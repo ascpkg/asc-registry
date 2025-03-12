@@ -1,0 +1,8 @@
+old = "kf5crash"
+new = "kf5crash-5-84-0-0"
+
+[deps]
+ecm-5-84-0-0 = "ecm"
+kf5coreaddons-5-84-0-0 = "kf5coreaddons"
+kf5windowsystem-5-84-0-0 = "kf5windowsystem"
+qt5-x11extras-5-15-2-0 = "qt5-x11extras"

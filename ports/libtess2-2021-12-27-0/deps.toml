@@ -1,0 +1,6 @@
+old = "libtess2"
+new = "libtess2-2021-12-27-0"
+
+[deps]
+vcpkg-cmake-2021-12-05-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-01-0 = "vcpkg-cmake-config"

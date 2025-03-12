@@ -1,0 +1,9 @@
+old = "llfio"
+new = "llfio-2-0-20220112-0"
+
+[deps]
+llfio-2-0-20220112-0 = "llfio"
+ned14-internal-quickcpplib-0-0-0-cad832c8-0 = "ned14-internal-quickcpplib"
+outcome-2-2-2-20211208-0 = "outcome"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"

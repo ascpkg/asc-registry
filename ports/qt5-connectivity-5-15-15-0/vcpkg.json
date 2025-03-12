@@ -1,0 +1,11 @@
+{
+  "name": "qt5-connectivity",
+  "version": "5.15.15",
+  "description": "The Qt Connectivity module provides access to Bluetooth and NFC hardware.",
+  "dependencies": [
+    {
+      "name": "qt5-base",
+      "default-features": false
+    }
+  ]
+}
