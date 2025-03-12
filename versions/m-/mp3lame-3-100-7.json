@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/mp3lame-3-100-7",
+      "version-string": "3.100",
+      "port-version": 7
+    }
+  ]
+}

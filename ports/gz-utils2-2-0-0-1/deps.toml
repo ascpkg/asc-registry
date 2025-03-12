@@ -1,0 +1,5 @@
+old = "gz-utils2"
+new = "gz-utils2-2-0-0-1"
+
+[deps]
+gz-utils-2-0-0-0 = "gz-utils"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/string-theory-3-4-1",
+      "version-string": "3.4",
+      "port-version": 1
+    }
+  ]
+}

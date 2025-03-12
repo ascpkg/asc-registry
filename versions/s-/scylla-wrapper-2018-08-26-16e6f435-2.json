@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/scylla-wrapper-2018-08-26-16e6f435-2",
+      "version-string": "2018-08-26-16e6f435",
+      "port-version": 2
+    }
+  ]
+}

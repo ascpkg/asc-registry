@@ -1,0 +1,7 @@
+old = "libexif"
+new = "libexif-0-6-24-2"
+
+[deps]
+gettext-0-22-4-1 = "gettext"
+gettext-libintl-0-22-4-0 = "gettext-libintl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

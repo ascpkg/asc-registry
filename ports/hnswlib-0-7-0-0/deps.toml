@@ -1,0 +1,2 @@
+old = "hnswlib"
+new = "hnswlib-0-7-0-0"

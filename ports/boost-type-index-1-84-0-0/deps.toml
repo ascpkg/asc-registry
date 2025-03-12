@@ -1,0 +1,9 @@
+old = "boost-type-index"
+new = "boost-type-index-1-84-0-0"
+
+[deps]
+boost-config-1-84-0-0 = "boost-config"
+boost-container-hash-1-84-0-0 = "boost-container-hash"
+boost-core-1-84-0-0 = "boost-core"
+boost-throw-exception-1-84-0-0 = "boost-throw-exception"
+boost-vcpkg-helpers-1-84-0-0 = "boost-vcpkg-helpers"

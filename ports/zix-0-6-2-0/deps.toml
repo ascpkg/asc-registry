@@ -1,0 +1,5 @@
+old = "zix"
+new = "zix-0-6-2-0"
+
+[deps]
+vcpkg-tool-meson-1-6-1-0 = "vcpkg-tool-meson"

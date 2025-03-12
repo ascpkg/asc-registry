@@ -1,0 +1,12 @@
+old = "srpc"
+new = "srpc-0-9-3-0"
+
+[deps]
+lz4-1-9-3-0 = "lz4"
+openssl-1-1-1l-0 = "openssl"
+protobuf-3-15-8-4 = "protobuf"
+snappy-1-1-8-0 = "snappy"
+vcpkg-cmake-2021-07-30-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"
+workflow-0-9-6-0 = "workflow"
+zlib-1-2-11-11 = "zlib"

@@ -1,0 +1,7 @@
+old = "faudio"
+new = "faudio-24-03-0"
+
+[deps]
+sdl2-2-30-0-0 = "sdl2"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

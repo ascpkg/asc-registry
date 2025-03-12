@@ -1,0 +1,12 @@
+old = "theia"
+new = "theia-0-8-9"
+
+[deps]
+cereal-1-3-2-1 = "cereal"
+ceres-2-1-0-4 = "ceres"
+flann-2019-04-07-7 = "flann"
+freeglut-3-4-0-0 = "freeglut"
+glew-2-2-0-3 = "glew"
+openimageio-2-4-14-0-3 = "openimageio"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

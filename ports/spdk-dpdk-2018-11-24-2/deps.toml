@@ -1,0 +1,2 @@
+old = "spdk-dpdk"
+new = "spdk-dpdk-2018-11-24-2"

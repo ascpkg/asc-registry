@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/d3dx12-may2021-1",
+      "version-string": "may2021",
+      "port-version": 1
+    }
+  ]
+}

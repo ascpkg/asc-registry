@@ -1,0 +1,7 @@
+old = "qtwayland"
+new = "qtwayland-6-1-3-2"
+
+[deps]
+qtbase-6-1-3-0 = "qtbase"
+qtdeclarative-6-1-3-0 = "qtdeclarative"
+qtopcua-6-1-3-0 = "qtopcua"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/llama-cpp-4743-0",
+      "version": "4743",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/opentelemetry-cpp-1-16-0-2",
+      "version-semver": "1.16.0",
+      "port-version": 2
+    }
+  ]
+}

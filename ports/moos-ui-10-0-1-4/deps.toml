@@ -1,0 +1,6 @@
+old = "moos-ui"
+new = "moos-ui-10-0-1-4"
+
+[deps]
+moos-core-10-4-0-7 = "moos-core"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

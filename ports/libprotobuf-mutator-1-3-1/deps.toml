@@ -1,0 +1,9 @@
+old = "libprotobuf-mutator"
+new = "libprotobuf-mutator-1-3-1"
+
+[deps]
+liblzma-5-6-3-0 = "liblzma"
+protobuf-5-28-3-0 = "protobuf"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
+zlib-1-3-1-0 = "zlib"

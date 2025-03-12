@@ -1,0 +1,2 @@
+old = "onnxruntime-gpu"
+new = "onnxruntime-gpu-1-12-1-0"

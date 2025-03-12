@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/tinycthread-2019-08-06-2",
+      "version-string": "2019-08-06",
+      "port-version": 2
+    }
+  ]
+}

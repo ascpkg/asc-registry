@@ -1,0 +1,7 @@
+old = "fastgltf"
+new = "fastgltf-0-7-0-1"
+
+[deps]
+simdjson-3-6-2-0 = "simdjson"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

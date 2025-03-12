@@ -1,0 +1,9 @@
+old = "libheif"
+new = "libheif-1-12-0-1"
+
+[deps]
+gdk-pixbuf-2-42-2-1 = "gdk-pixbuf"
+libde265-1-0-8-2 = "libde265"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-11-01-0 = "vcpkg-cmake-config"
+x265-3-4-5 = "x265"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/daw-header-libraries-1-29-7-0",
+      "version-semver": "1.29.7",
+      "port-version": 0
+    }
+  ]
+}

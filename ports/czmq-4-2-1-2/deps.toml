@@ -1,0 +1,11 @@
+old = "czmq"
+new = "czmq-4-2-1-2"
+
+[deps]
+curl-8-1-2-0 = "curl"
+libmicrohttpd-0-9-77-0 = "libmicrohttpd"
+libuuid-1-0-3-13 = "libuuid"
+lz4-1-9-4-1 = "lz4"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zeromq-2023-01-31-5 = "zeromq"

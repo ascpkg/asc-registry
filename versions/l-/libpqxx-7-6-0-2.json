@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libpqxx-7-6-0-2",
+      "version-semver": "7.6.0",
+      "port-version": 2
+    }
+  ]
+}

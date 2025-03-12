@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/bitserializer-0-75-0",
+      "version": "0.75",
+      "port-version": 0
+    }
+  ]
+}

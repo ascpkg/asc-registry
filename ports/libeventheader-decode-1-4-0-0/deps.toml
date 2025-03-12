@@ -1,0 +1,8 @@
+old = "libeventheader-decode"
+new = "libeventheader-decode-1-4-0-0"
+
+[deps]
+libeventheader-tracepoint-1-4-0-0 = "libeventheader-tracepoint"
+libtracepoint-decode-1-4-0-0 = "libtracepoint-decode"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

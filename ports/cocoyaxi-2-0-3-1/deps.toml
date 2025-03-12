@@ -1,0 +1,7 @@
+old = "cocoyaxi"
+new = "cocoyaxi-2-0-3-1"
+
+[deps]
+curl-7-81-0-0 = "curl"
+openssl-1-1-1m-0 = "openssl"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"

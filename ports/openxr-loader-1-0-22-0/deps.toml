@@ -1,0 +1,8 @@
+old = "openxr-loader"
+new = "openxr-loader-1-0-22-0"
+
+[deps]
+jsoncpp-1-9-5-0 = "jsoncpp"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"
+vulkan-1-1-82-1-2 = "vulkan"

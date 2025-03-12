@@ -1,0 +1,7 @@
+old = "mozjpeg"
+new = "mozjpeg-2021-09-27-0"
+
+[deps]
+libpng-1-6-37-15 = "libpng"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"

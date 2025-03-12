@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/arrow-adbc-16-0",
+      "version": "16",
+      "port-version": 0
+    }
+  ]
+}

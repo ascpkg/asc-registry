@@ -1,0 +1,7 @@
+old = "matio"
+new = "matio-1-5-23-1"
+
+[deps]
+hdf5-1-12-2-5 = "hdf5"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+zlib-1-2-13-0 = "zlib"

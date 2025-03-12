@@ -1,0 +1,5 @@
+old = "gherkin-c"
+new = "gherkin-c-2019-10-07-3"
+
+[deps]
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"

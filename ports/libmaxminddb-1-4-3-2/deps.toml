@@ -1,0 +1,5 @@
+old = "libmaxminddb"
+new = "libmaxminddb-1-4-3-2"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"

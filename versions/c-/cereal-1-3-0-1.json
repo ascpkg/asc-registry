@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cereal-1-3-0-1",
+      "version-string": "1.3.0",
+      "port-version": 1
+    }
+  ]
+}

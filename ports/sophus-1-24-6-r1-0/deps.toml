@@ -1,0 +1,7 @@
+old = "sophus"
+new = "sophus-1-24-6-r1-0"
+
+[deps]
+eigen3-3-4-0-4 = "eigen3"
+vcpkg-cmake-2024-04-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cppad-20240000-2-0",
+      "version": "20240000.2",
+      "port-version": 0
+    }
+  ]
+}

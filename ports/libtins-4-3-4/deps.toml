@@ -1,0 +1,10 @@
+old = "libtins"
+new = "libtins-4-3-4"
+
+[deps]
+boost-any-1-77-0-0 = "boost-any"
+boost-icl-1-77-0-0 = "boost-icl"
+libpcap-1-10-1-1 = "libpcap"
+openssl-1-1-1l-4 = "openssl"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-11-01-0 = "vcpkg-cmake-config"

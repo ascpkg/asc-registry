@@ -1,0 +1,5 @@
+old = "gz-common5"
+new = "gz-common5-5-4-1-4"
+
+[deps]
+gz-common-5-4-1-0 = "gz-common"

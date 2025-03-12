@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libbson-1-22-2-0",
+      "version": "1.22.2",
+      "port-version": 0
+    }
+  ]
+}

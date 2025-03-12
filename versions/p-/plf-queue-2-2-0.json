@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/plf-queue-2-2-0",
+      "version": "2.2",
+      "port-version": 0
+    }
+  ]
+}

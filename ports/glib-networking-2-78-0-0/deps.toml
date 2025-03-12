@@ -1,0 +1,9 @@
+old = "glib-networking"
+new = "glib-networking-2-78-0-0"
+
+[deps]
+glib-2-78-4-0 = "glib"
+libgnutls-3-8-1-1 = "libgnutls"
+libproxy-0-4-18-3 = "libproxy"
+openssl-3-2-1-0 = "openssl"
+vcpkg-tool-meson-0-63-2 = "vcpkg-tool-meson"

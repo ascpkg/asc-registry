@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/linenoise-ng-4754bee2d8eb3-3",
+      "version-string": "4754bee2d8eb3",
+      "port-version": 3
+    }
+  ]
+}

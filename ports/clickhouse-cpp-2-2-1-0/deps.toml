@@ -1,0 +1,9 @@
+old = "clickhouse-cpp"
+new = "clickhouse-cpp-2-2-1-0"
+
+[deps]
+abseil-20220623-1-0 = "abseil"
+cityhash-2013-01-08-2 = "cityhash"
+lz4-1-9-3-4 = "lz4"
+openssl-3-0-5-5 = "openssl"
+vcpkg-cmake-2022-09-26-0 = "vcpkg-cmake"

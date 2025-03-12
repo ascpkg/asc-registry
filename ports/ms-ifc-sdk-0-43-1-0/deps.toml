@@ -1,0 +1,7 @@
+old = "ms-ifc-sdk"
+new = "ms-ifc-sdk-0-43-1-0"
+
+[deps]
+ms-gsl-4-0-0-1 = "ms-gsl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

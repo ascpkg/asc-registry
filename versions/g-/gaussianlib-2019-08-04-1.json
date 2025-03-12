@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gaussianlib-2019-08-04-1",
+      "version-string": "2019-08-04",
+      "port-version": 1
+    }
+  ]
+}

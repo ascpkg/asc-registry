@@ -1,0 +1,13 @@
+old = "boost-utility"
+new = "boost-utility-1-87-0-0"
+
+[deps]
+boost-assert-1-87-0-0 = "boost-assert"
+boost-cmake-1-87-0-0 = "boost-cmake"
+boost-config-1-87-0-0 = "boost-config"
+boost-core-1-87-0-0 = "boost-core"
+boost-headers-1-87-0-0 = "boost-headers"
+boost-io-1-87-0-0 = "boost-io"
+boost-preprocessor-1-87-0-0 = "boost-preprocessor"
+boost-throw-exception-1-87-0-0 = "boost-throw-exception"
+boost-type-traits-1-87-0-0 = "boost-type-traits"

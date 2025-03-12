@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/jbigkit-2-1-7",
+      "version": "2.1",
+      "port-version": 7
+    }
+  ]
+}

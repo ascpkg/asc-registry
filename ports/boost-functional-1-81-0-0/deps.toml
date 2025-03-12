@@ -1,0 +1,14 @@
+old = "boost-functional"
+new = "boost-functional-1-81-0-0"
+
+[deps]
+boost-config-1-81-0-0 = "boost-config"
+boost-core-1-81-0-0 = "boost-core"
+boost-function-1-81-0-0 = "boost-function"
+boost-function-types-1-81-0-0 = "boost-function-types"
+boost-mpl-1-81-0-0 = "boost-mpl"
+boost-preprocessor-1-81-0-0 = "boost-preprocessor"
+boost-type-traits-1-81-0-0 = "boost-type-traits"
+boost-typeof-1-81-0-0 = "boost-typeof"
+boost-utility-1-81-0-0 = "boost-utility"
+boost-vcpkg-helpers-1-81-0-0 = "boost-vcpkg-helpers"

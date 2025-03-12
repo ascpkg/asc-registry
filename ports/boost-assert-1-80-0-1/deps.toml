@@ -1,0 +1,6 @@
+old = "boost-assert"
+new = "boost-assert-1-80-0-1"
+
+[deps]
+boost-config-1-80-0-1 = "boost-config"
+boost-vcpkg-helpers-1-80-0-1 = "boost-vcpkg-helpers"

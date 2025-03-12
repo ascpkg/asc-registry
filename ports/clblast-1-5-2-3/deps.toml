@@ -1,0 +1,7 @@
+old = "clblast"
+new = "clblast-1-5-2-3"
+
+[deps]
+opencl-v2023-02-06-2 = "opencl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

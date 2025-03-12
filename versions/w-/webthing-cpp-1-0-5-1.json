@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/webthing-cpp-1-0-5-1",
+      "version": "1.0.5",
+      "port-version": 1
+    }
+  ]
+}

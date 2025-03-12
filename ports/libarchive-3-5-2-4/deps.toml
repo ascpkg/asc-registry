@@ -1,0 +1,13 @@
+old = "libarchive"
+new = "libarchive-3-5-2-4"
+
+[deps]
+bzip2-1-0-8-2 = "bzip2"
+liblzma-5-2-5-5 = "liblzma"
+libxml2-2-9-12-5 = "libxml2"
+lz4-1-9-3-3 = "lz4"
+lzo-2-10-7 = "lzo"
+openssl-1-1-1m-2 = "openssl"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+zlib-1-2-11-13 = "zlib"
+zstd-1-5-2-1 = "zstd"

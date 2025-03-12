@@ -1,0 +1,6 @@
+old = "tensorflow-cc"
+new = "tensorflow-cc-2-10-0-0"
+
+[deps]
+tensorflow-common-2-10-0-0 = "tensorflow-common"
+vcpkg-tool-bazel-5-2-0-0 = "vcpkg-tool-bazel"

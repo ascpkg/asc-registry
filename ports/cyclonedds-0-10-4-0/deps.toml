@@ -1,0 +1,9 @@
+old = "cyclonedds"
+new = "cyclonedds-0-10-4-0"
+
+[deps]
+cyclonedds-0-10-4-0 = "cyclonedds"
+iceoryx-2-0-3-0 = "iceoryx"
+openssl-3-2-1-0 = "openssl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

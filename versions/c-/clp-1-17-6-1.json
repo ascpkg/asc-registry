@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/clp-1-17-6-1",
+      "version-string": "1.17.6",
+      "port-version": 1
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+old = "matplotplusplus"
+new = "matplotplusplus-1-2-0-0"
+
+[deps]
+blas-2023-03-25-0 = "blas"
+cimg-2-9-9-0 = "cimg"
+fftw3-3-3-10-6 = "fftw3"
+glad-0-1-36-0 = "glad"
+glfw3-3-3-8-2 = "glfw3"
+lapack-2022-02-22-2 = "lapack"
+libjpeg-turbo-2-1-5-1-1 = "libjpeg-turbo"
+libpng-1-6-39-1 = "libpng"
+nodesoup-2023-06-12-0 = "nodesoup"
+opencv-4-7-0-1 = "opencv"
+opengl-2022-12-04-3 = "opengl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-2-13-0 = "zlib"

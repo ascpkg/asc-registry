@@ -1,0 +1,8 @@
+old = "libcroco"
+new = "libcroco-0-6-13-4"
+
+[deps]
+glib-2-75-3-0 = "glib"
+libxml2-2-10-3-0 = "libxml2"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

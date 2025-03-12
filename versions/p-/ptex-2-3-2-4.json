@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ptex-2-3-2-4",
+      "version": "2.3.2",
+      "port-version": 4
+    }
+  ]
+}

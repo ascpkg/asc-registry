@@ -1,0 +1,7 @@
+old = "brigand"
+new = "brigand-1-3-0-2"
+
+[deps]
+boost-fusion-1-77-0-0 = "boost-fusion"
+boost-variant-1-77-0-0 = "boost-variant"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"

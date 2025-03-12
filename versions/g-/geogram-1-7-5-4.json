@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/geogram-1-7-5-4",
+      "version-string": "1.7.5",
+      "port-version": 4
+    }
+  ]
+}

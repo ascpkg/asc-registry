@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/aom-3-5-0-1",
+      "version-semver": "3.5.0",
+      "port-version": 1
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+old = "curl"
+new = "curl-7-82-0-0"
+
+[deps]
+brotli-1-0-9-2 = "brotli"
+c-ares-1-17-2-2 = "c-ares"
+curl-7-82-0-0 = "curl"
+libidn2-2-3-1-0 = "libidn2"
+libssh2-1-10-0-2 = "libssh2"
+mbedtls-2-24-0-4 = "mbedtls"
+nghttp2-1-46-0-0 = "nghttp2"
+openssl-1-1-1n-0 = "openssl"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"
+zlib-1-2-11-13 = "zlib"

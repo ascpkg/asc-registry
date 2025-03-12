@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/pngwriter-0-7-0-5",
+      "version": "0.7.0",
+      "port-version": 5
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+old = "mosquitto"
+new = "mosquitto-2-0-18-0"
+
+[deps]
+c-ares-1-19-1-0 = "c-ares"
+libwebsockets-4-3-2-0 = "libwebsockets"
+openssl-3-1-3-0 = "openssl"
+pthreads-3-0-0-14 = "pthreads"
+uthash-2-3-0-0 = "uthash"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

@@ -1,0 +1,7 @@
+old = "libvorbis"
+new = "libvorbis-1-3-7-3"
+
+[deps]
+libogg-1-3-5-1 = "libogg"
+vcpkg-cmake-2024-04-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

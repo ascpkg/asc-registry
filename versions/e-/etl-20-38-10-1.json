@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/etl-20-38-10-1",
+      "version": "20.38.10",
+      "port-version": 1
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+old = "guetzli"
+new = "guetzli-2020-09-14-2"
+
+[deps]
+butteraugli-2019-05-08-2 = "butteraugli"
+libpng-1-6-37-16 = "libpng"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"

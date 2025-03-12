@@ -1,0 +1,5 @@
+old = "taglib"
+new = "taglib-1-12-0-1"
+
+[deps]
+zlib-1-2-11-13 = "zlib"

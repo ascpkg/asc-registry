@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/openni2-2-2-0-33-14",
+      "version": "2.2.0.33",
+      "port-version": 14
+    }
+  ]
+}

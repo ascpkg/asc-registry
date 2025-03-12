@@ -1,0 +1,8 @@
+old = "msh3"
+new = "msh3-0-8-0-0"
+
+[deps]
+ls-qpack-2-6-0-0 = "ls-qpack"
+msquic-2-4-7-1 = "msquic"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

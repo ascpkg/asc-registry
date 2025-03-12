@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qtwayland-6-1-2-2",
+      "version-semver": "6.1.2",
+      "port-version": 2
+    }
+  ]
+}

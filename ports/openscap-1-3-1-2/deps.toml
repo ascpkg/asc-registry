@@ -1,0 +1,15 @@
+old = "openscap"
+new = "openscap-1-3-1-2"
+
+[deps]
+curl-7-84-0-0 = "curl"
+getopt-win32-0-1-4 = "getopt-win32"
+glib-2-70-5-2 = "glib"
+libpopt-1-16-14 = "libpopt"
+libxml2-2-9-14-1 = "libxml2"
+libxslt-1-1-35-1 = "libxslt"
+libzip-1-9-0-0 = "libzip"
+openssl-3-0-4-0 = "openssl"
+pcre2-10-40-0 = "pcre2"
+pthread-3-0-0-1 = "pthread"
+zlib-1-2-12-1 = "zlib"

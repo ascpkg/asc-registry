@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/dv-processing-1-7-8-1",
+      "version": "1.7.8",
+      "port-version": 1
+    }
+  ]
+}

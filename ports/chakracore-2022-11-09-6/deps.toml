@@ -1,0 +1,7 @@
+old = "chakracore"
+new = "chakracore-2022-11-09-6"
+
+[deps]
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+vcpkg-msbuild-2023-08-08-0 = "vcpkg-msbuild"

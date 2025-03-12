@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/urho3d-2021-03-01-2",
+      "version-date": "2021-03-01",
+      "port-version": 2
+    }
+  ]
+}

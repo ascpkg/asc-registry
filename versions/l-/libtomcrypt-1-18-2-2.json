@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libtomcrypt-1-18-2-2",
+      "version-string": "1.18.2",
+      "port-version": 2
+    }
+  ]
+}

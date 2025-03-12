@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/pipewire-1-2-7-0",
+      "version": "1.2.7",
+      "port-version": 0
+    }
+  ]
+}

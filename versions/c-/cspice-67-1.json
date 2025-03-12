@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/cspice-67-1",
+      "version": "67",
+      "port-version": 1
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libodb-mysql-2-4-0-9",
+      "version": "2.4.0",
+      "port-version": 9
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/mapbox-geojson-vt-cpp-6-6-5-0",
+      "version-semver": "6.6.5",
+      "port-version": 0
+    }
+  ]
+}

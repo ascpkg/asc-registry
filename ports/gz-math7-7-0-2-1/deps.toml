@@ -1,0 +1,8 @@
+old = "gz-math7"
+new = "gz-math7-7-0-2-1"
+
+[deps]
+eigen3-3-4-0-2 = "eigen3"
+gz-cmake3-3-0-1-0 = "gz-cmake3"
+gz-utils2-2-0-0-0 = "gz-utils2"
+ignition-modularscripts-2023-05-05-0 = "ignition-modularscripts"

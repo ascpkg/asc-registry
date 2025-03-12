@@ -1,0 +1,6 @@
+old = "json-glib"
+new = "json-glib-1-10-6-0"
+
+[deps]
+glib-2-80-0-1 = "glib"
+vcpkg-tool-meson-1-6-1-0 = "vcpkg-tool-meson"

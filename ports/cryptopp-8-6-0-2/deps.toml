@@ -1,0 +1,6 @@
+old = "cryptopp"
+new = "cryptopp-8-6-0-2"
+
+[deps]
+vcpkg-cmake-2022-09-26-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

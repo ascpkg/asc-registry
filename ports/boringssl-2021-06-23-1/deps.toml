@@ -1,0 +1,2 @@
+old = "boringssl"
+new = "boringssl-2021-06-23-1"

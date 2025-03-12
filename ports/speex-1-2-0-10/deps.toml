@@ -1,0 +1,5 @@
+old = "speex"
+new = "speex-1-2-0-10"
+
+[deps]
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"

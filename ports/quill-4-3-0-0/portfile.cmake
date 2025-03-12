@@ -1,0 +1,11 @@
+vcpkg_from_github(
+    OUT_SOURCE_PATH SOURCE_PATH
+    REPO odygrd/quill
+    REF v${VERSION}
+    SHA512 2d6d635397d57fd876ac237402138fb6b6abe9297b033473b8979cb6a1584c276fc805d8469dd851e108388310271cc691310469b8494016ff5f195944c0ede8
+    HEAD_REF master
+)
+
+file(COPY ${SOURCE_PATH}/quill/include/ DESTINATION "${CURRENT_PACKAGES_DIR}/include")
+
+vcpkg_install_copyright(FILE_LIST "${SOURCE_PATH}/LICENSE")

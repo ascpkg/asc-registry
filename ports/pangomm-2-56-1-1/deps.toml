@@ -1,0 +1,14 @@
+old = "pangomm"
+new = "pangomm-2-56-1-1"
+
+[deps]
+cairo-1-18-2-0 = "cairo"
+cairomm-1-18-0-0 = "cairomm"
+fontconfig-2-15-0-2 = "fontconfig"
+freetype-2-13-3-0 = "freetype"
+gettext-0-22-5-1 = "gettext"
+glib-2-80-0-1 = "glib"
+glibmm-2-80-1-0 = "glibmm"
+harfbuzz-10-2-0-3 = "harfbuzz"
+pango-1-56-1-1 = "pango"
+vcpkg-tool-meson-1-6-1-0 = "vcpkg-tool-meson"

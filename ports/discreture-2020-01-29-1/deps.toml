@@ -1,0 +1,6 @@
+old = "discreture"
+new = "discreture-2020-01-29-1"
+
+[deps]
+boost-container-1-76-0-0 = "boost-container"
+boost-iterator-1-76-0-0 = "boost-iterator"

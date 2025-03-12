@@ -1,0 +1,10 @@
+old = "hiredis"
+new = "hiredis-1-0-2-1"
+
+[deps]
+libevent-2-1-12-3 = "libevent"
+libuv-1-42-0-2 = "libuv"
+openssl-1-1-1l-3 = "openssl"
+pthread-3-0-0-1 = "pthread"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"

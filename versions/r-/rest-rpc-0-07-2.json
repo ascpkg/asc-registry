@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/rest-rpc-0-07-2",
+      "version-string": "0.07",
+      "port-version": 2
+    }
+  ]
+}

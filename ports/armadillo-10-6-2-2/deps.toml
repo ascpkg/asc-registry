@@ -1,0 +1,8 @@
+old = "armadillo"
+new = "armadillo-10-6-2-2"
+
+[deps]
+blas-1-1 = "blas"
+lapack-3-2 = "lapack"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-09-27-0 = "vcpkg-cmake-config"

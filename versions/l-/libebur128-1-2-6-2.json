@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libebur128-1-2-6-2",
+      "version": "1.2.6",
+      "port-version": 2
+    }
+  ]
+}

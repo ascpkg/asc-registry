@@ -1,0 +1,9 @@
+old = "usbmuxd"
+new = "usbmuxd-1-2-235-5"
+
+[deps]
+libimobiledevice-1-3-17-4 = "libimobiledevice"
+libusb-1-0-26-11791-3 = "libusb"
+libusb-win32-1-2-6-0-10 = "libusb-win32"
+pthreads-3-0-0-14 = "pthreads"
+vcpkg-msbuild-2023-08-08-0 = "vcpkg-msbuild"

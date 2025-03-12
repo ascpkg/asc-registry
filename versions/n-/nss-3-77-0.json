@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/nss-3-77-0",
+      "version": "3.77",
+      "port-version": 0
+    }
+  ]
+}

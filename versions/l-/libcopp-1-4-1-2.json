@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libcopp-1-4-1-2",
+      "version-semver": "1.4.1",
+      "port-version": 2
+    }
+  ]
+}

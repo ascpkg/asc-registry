@@ -1,0 +1,13 @@
+old = "drogon"
+new = "drogon-1-7-1-2"
+
+[deps]
+brotli-1-0-9-1 = "brotli"
+drogon-1-7-1-2 = "drogon"
+jsoncpp-1-9-4-0 = "jsoncpp"
+libmariadb-3-1-12-2 = "libmariadb"
+libpq-12-2-18 = "libpq"
+libuuid-1-0-3-8 = "libuuid"
+sqlite3-3-35-5-0 = "sqlite3"
+trantor-1-5-1-0 = "trantor"
+zlib-1-2-11-11 = "zlib"

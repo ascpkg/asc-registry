@@ -1,0 +1,16 @@
+old = "kf5bookmarks"
+new = "kf5bookmarks-5-84-0-0"
+
+[deps]
+ecm-5-84-0-1 = "ecm"
+gettext-0-21-6 = "gettext"
+kf5codecs-5-84-0-2 = "kf5codecs"
+kf5config-5-84-0-2 = "kf5config"
+kf5configwidgets-5-84-0-1 = "kf5configwidgets"
+kf5coreaddons-5-84-0-2 = "kf5coreaddons"
+kf5widgetsaddons-5-84-0-2 = "kf5widgetsaddons"
+kf5xmlgui-5-84-0-0 = "kf5xmlgui"
+qt5-base-5-15-2-11 = "qt5-base"
+qt5-tools-5-15-2-1 = "qt5-tools"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"

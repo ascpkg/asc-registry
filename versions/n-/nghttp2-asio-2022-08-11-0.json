@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/nghttp2-asio-2022-08-11-0",
+      "version-date": "2022-08-11",
+      "port-version": 0
+    }
+  ]
+}

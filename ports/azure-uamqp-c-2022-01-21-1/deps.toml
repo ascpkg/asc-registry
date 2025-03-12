@@ -1,0 +1,7 @@
+old = "azure-uamqp-c"
+new = "azure-uamqp-c-2022-01-21-1"
+
+[deps]
+azure-c-shared-utility-2022-01-21-2 = "azure-c-shared-utility"
+azure-macro-utils-c-2022-01-21-0 = "azure-macro-utils-c"
+umock-c-2022-01-21-0 = "umock-c"

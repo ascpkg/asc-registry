@@ -1,0 +1,6 @@
+old = "rtlsdr"
+new = "rtlsdr-2020-04-16-3"
+
+[deps]
+libusb-1-0-24-7 = "libusb"
+pthreads-3-0-0-10 = "pthreads"

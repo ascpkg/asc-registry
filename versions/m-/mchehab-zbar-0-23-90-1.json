@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/mchehab-zbar-0-23-90-1",
+      "version": "0.23.90",
+      "port-version": 1
+    }
+  ]
+}

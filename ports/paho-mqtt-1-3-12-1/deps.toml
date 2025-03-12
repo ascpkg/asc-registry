@@ -1,0 +1,8 @@
+old = "paho-mqtt"
+new = "paho-mqtt-1-3-12-1"
+
+[deps]
+libuuid-1-0-3-14 = "libuuid"
+openssl-3-1-1-1 = "openssl"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

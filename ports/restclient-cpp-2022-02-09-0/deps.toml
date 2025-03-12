@@ -1,0 +1,7 @@
+old = "restclient-cpp"
+new = "restclient-cpp-2022-02-09-0"
+
+[deps]
+curl-7-81-0-0 = "curl"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-01-30-0 = "vcpkg-cmake-config"

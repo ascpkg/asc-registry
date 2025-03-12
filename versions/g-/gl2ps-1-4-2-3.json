@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gl2ps-1-4-2-3",
+      "version": "1.4.2",
+      "port-version": 3
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+old = "vcpkg-get-python"
+new = "vcpkg-get-python-2024-06-08-0"

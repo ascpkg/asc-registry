@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/mpg123-1-32-9-1",
+      "version": "1.32.9",
+      "port-version": 1
+    }
+  ]
+}

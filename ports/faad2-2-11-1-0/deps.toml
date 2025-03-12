@@ -1,0 +1,5 @@
+old = "faad2"
+new = "faad2-2-11-1-0"
+
+[deps]
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

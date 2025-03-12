@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/rtlsdr-2020-04-16-2",
+      "version-string": "2020-04-16",
+      "port-version": 2
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+old = "cppkafka"
+new = "cppkafka-0-3-1-4"
+
+[deps]
+boost-program-options-1-81-0-2 = "boost-program-options"
+librdkafka-2-0-2-0 = "librdkafka"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

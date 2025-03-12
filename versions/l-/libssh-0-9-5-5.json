@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/libssh-0-9-5-5",
+      "version": "0.9.5",
+      "port-version": 5
+    }
+  ]
+}

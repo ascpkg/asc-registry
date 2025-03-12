@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/spdlog-1-8-5-4",
+      "version-semver": "1.8.5",
+      "port-version": 4
+    }
+  ]
+}

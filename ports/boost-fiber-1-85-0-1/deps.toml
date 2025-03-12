@@ -1,0 +1,16 @@
+old = "boost-fiber"
+new = "boost-fiber-1-85-0-1"
+
+[deps]
+boost-algorithm-1-85-0-1 = "boost-algorithm"
+boost-assert-1-85-0-1 = "boost-assert"
+boost-cmake-1-85-0-1 = "boost-cmake"
+boost-config-1-85-0-1 = "boost-config"
+boost-context-1-85-0-1 = "boost-context"
+boost-core-1-85-0-1 = "boost-core"
+boost-filesystem-1-85-0-1 = "boost-filesystem"
+boost-format-1-85-0-1 = "boost-format"
+boost-headers-1-85-0-1 = "boost-headers"
+boost-intrusive-1-85-0-1 = "boost-intrusive"
+boost-predef-1-85-0-1 = "boost-predef"
+boost-smart-ptr-1-85-0-1 = "boost-smart-ptr"

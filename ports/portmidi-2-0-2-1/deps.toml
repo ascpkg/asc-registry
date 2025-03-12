@@ -1,0 +1,7 @@
+old = "portmidi"
+new = "portmidi-2-0-2-1"
+
+[deps]
+alsa-1-2-5-1-0 = "alsa"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"

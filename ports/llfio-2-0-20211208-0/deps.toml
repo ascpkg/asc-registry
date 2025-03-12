@@ -1,0 +1,5 @@
+old = "llfio"
+new = "llfio-2-0-20211208-0"
+
+[deps]
+outcome-2-2-2-20211208-0 = "outcome"

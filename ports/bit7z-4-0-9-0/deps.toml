@@ -1,0 +1,8 @@
+old = "bit7z"
+new = "bit7z-4-0-9-0"
+
+[deps]
+7zip-24-09-0 = "7zip"
+ghc-filesystem-1-5-14-0 = "ghc-filesystem"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

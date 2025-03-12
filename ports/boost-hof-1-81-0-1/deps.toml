@@ -1,0 +1,5 @@
+old = "boost-hof"
+new = "boost-hof-1-81-0-1"
+
+[deps]
+boost-vcpkg-helpers-1-81-0-2 = "boost-vcpkg-helpers"

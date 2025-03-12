@@ -1,0 +1,7 @@
+old = "libpqxx"
+new = "libpqxx-7-9-0-0"
+
+[deps]
+libpq-16-2-0 = "libpq"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/aubio-2024-01-03-0",
+      "version-date": "2024-01-03",
+      "port-version": 0
+    }
+  ]
+}

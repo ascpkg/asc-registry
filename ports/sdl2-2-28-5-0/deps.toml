@@ -1,0 +1,9 @@
+old = "sdl2"
+new = "sdl2-2-28-5-0"
+
+[deps]
+alsa-1-2-10-0 = "alsa"
+dbus-1-15-8-2 = "dbus"
+libsamplerate-0-2-2-1 = "libsamplerate"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

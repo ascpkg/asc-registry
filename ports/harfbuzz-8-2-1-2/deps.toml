@@ -1,0 +1,12 @@
+old = "harfbuzz"
+new = "harfbuzz-8-2-1-2"
+
+[deps]
+cairo-1-17-8-4 = "cairo"
+freetype-2-12-1-4 = "freetype"
+gettext-0-21-1-3 = "gettext"
+glib-2-78-0-0 = "glib"
+gobject-introspection-1-72-0-5 = "gobject-introspection"
+graphite2-1-3-14-3 = "graphite2"
+icu-73-1-0 = "icu"
+vcpkg-tool-meson-0-63-0 = "vcpkg-tool-meson"

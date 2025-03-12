@@ -1,0 +1,6 @@
+old = "qscintilla"
+new = "qscintilla-2-13-4-2"
+
+[deps]
+qtbase-6-5-1-2 = "qtbase"
+vcpkg-qmake-2023-03-22-0 = "vcpkg-qmake"

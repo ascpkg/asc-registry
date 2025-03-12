@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/basisu-1-11-5",
+      "version-string": "1.11",
+      "port-version": 5
+    }
+  ]
+}

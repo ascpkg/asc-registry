@@ -1,0 +1,7 @@
+old = "imgui-node-editor"
+new = "imgui-node-editor-0-9-3-2"
+
+[deps]
+imgui-1-91-5-0 = "imgui"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/vcpkg-tool-meson-0-63-0",
+      "version": "0.63",
+      "port-version": 0
+    }
+  ]
+}

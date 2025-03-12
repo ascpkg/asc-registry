@@ -1,0 +1,11 @@
+old = "triton"
+new = "triton-0-9-5"
+
+[deps]
+boost-multiprecision-1-80-0-1 = "boost-multiprecision"
+boost-numeric-conversion-1-80-0-1 = "boost-numeric-conversion"
+capstone-5-0-0-rc2-1 = "capstone"
+python3-3-10-5-4 = "python3"
+vcpkg-cmake-2022-09-26-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+z3-4-11-0-0 = "z3"

@@ -1,0 +1,8 @@
+old = "ltla-cppirlba"
+new = "ltla-cppirlba-2023-09-20-0"
+
+[deps]
+eigen3-3-4-0-2 = "eigen3"
+ltla-aarand-2023-03-19-0 = "ltla-aarand"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

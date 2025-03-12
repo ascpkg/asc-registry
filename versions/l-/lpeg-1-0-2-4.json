@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/lpeg-1-0-2-4",
+      "version": "1.0.2",
+      "port-version": 4
+    }
+  ]
+}

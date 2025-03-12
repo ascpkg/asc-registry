@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/fbthrift-2024-07-08-00-0",
+      "version-string": "2024.07.08.00",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+old = "liblemon"
+new = "liblemon-2019-06-13-5"
+
+[deps]
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

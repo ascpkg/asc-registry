@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/polyclipping-6-4-2-11",
+      "version-string": "6.4.2",
+      "port-version": 11
+    }
+  ]
+}

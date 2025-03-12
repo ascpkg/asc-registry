@@ -1,0 +1,6 @@
+old = "gtest"
+new = "gtest-1-11-0-5"
+
+[deps]
+vcpkg-cmake-2022-02-14-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"

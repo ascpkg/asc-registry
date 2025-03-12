@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/readline-win32-5-0-7",
+      "version": "5.0",
+      "port-version": 7
+    }
+  ]
+}

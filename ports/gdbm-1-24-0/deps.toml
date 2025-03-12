@@ -1,0 +1,6 @@
+old = "gdbm"
+new = "gdbm-1-24-0"
+
+[deps]
+readline-0-5 = "readline"
+vcpkg-make-2025-02-08-0 = "vcpkg-make"

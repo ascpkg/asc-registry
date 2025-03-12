@@ -1,0 +1,17 @@
+old = "libigl"
+new = "libigl-2-5-0-1"
+
+[deps]
+cgal-5-6-1-1 = "cgal"
+eigen3-3-4-0-4 = "eigen3"
+embree3-3-13-5-4 = "embree3"
+glad-0-1-36-0 = "glad"
+glfw3-3-4-0 = "glfw3"
+imgui-1-90-7-1 = "imgui"
+imguizmo-2024-05-29-0 = "imguizmo"
+libigl-2-5-0-1 = "libigl"
+opengl-2022-12-04-3 = "opengl"
+stb-2023-04-11-1 = "stb"
+tinyxml2-10-0-0-0 = "tinyxml2"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

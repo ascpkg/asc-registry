@@ -1,0 +1,18 @@
+old = "mvfst"
+new = "mvfst-2024-01-01-00-0"
+
+[deps]
+boost-context-1-83-0-0 = "boost-context"
+boost-date-time-1-83-0-0 = "boost-date-time"
+boost-filesystem-1-83-0-0 = "boost-filesystem"
+boost-iostreams-1-83-0-1 = "boost-iostreams"
+boost-program-options-1-83-0-0 = "boost-program-options"
+boost-regex-1-83-0-0 = "boost-regex"
+boost-system-1-83-0-0 = "boost-system"
+boost-thread-1-83-0-0 = "boost-thread"
+fizz-2024-01-01-00-0 = "fizz"
+fmt-10-2-1-0 = "fmt"
+folly-2024-01-01-00-0 = "folly"
+glog-0-6-0-3 = "glog"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

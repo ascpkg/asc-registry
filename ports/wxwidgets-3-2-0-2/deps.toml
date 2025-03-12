@@ -1,0 +1,18 @@
+old = "wxwidgets"
+new = "wxwidgets-3-2-0-2"
+
+[deps]
+curl-7-84-0-1 = "curl"
+expat-2-4-8-1 = "expat"
+fontconfig-2-14-0-4 = "fontconfig"
+libjpeg-turbo-2-1-4-0 = "libjpeg-turbo"
+libpng-1-6-37-18 = "libpng"
+nanosvg-2022-04-29-0 = "nanosvg"
+pango-1-50-9-0 = "pango"
+pcre2-10-40-0 = "pcre2"
+sdl2-2-0-22-3 = "sdl2"
+tiff-4-4-0-1 = "tiff"
+vcpkg-cmake-2022-07-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+webview2-1-0-1210-39-0 = "webview2"
+zlib-1-2-12-1 = "zlib"

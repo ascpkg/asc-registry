@@ -1,0 +1,6 @@
+old = "ed25519"
+new = "ed25519-2017-02-10-1"
+
+[deps]
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

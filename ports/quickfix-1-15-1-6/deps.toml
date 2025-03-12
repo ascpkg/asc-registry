@@ -1,0 +1,7 @@
+old = "quickfix"
+new = "quickfix-1-15-1-6"
+
+[deps]
+openssl-1-1-1n-1 = "openssl"
+vcpkg-cmake-2022-02-14-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-0 = "vcpkg-cmake-config"

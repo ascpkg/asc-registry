@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ghc-filesystem-1-5-12-0",
+      "version": "1.5.12",
+      "port-version": 0
+    }
+  ]
+}

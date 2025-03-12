@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/uriparser-0-9-8-0",
+      "version": "0.9.8",
+      "port-version": 0
+    }
+  ]
+}

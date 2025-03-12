@@ -1,0 +1,6 @@
+old = "qtdatavis3d"
+new = "qtdatavis3d-6-3-0-0"
+
+[deps]
+qtbase-6-3-0-0 = "qtbase"
+qtdeclarative-6-3-0-0 = "qtdeclarative"

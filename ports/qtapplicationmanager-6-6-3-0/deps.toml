@@ -1,0 +1,10 @@
+old = "qtapplicationmanager"
+new = "qtapplicationmanager-6-6-3-0"
+
+[deps]
+libarchive-3-7-2-0 = "libarchive"
+libyaml-0-2-5-4 = "libyaml"
+qtapplicationmanager-6-6-3-0 = "qtapplicationmanager"
+qtbase-6-6-3-0 = "qtbase"
+qtdeclarative-6-6-3-0 = "qtdeclarative"
+qtwayland-6-6-3-0 = "qtwayland"

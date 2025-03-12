@@ -1,0 +1,5 @@
+old = "torch-th"
+new = "torch-th-2019-04-19-4"
+
+[deps]
+vcpkg-cmake-2022-09-26-0 = "vcpkg-cmake"

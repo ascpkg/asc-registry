@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/luajit-2-0-5-4",
+      "version-string": "2.0.5",
+      "port-version": 4
+    }
+  ]
+}

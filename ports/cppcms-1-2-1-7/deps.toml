@@ -1,0 +1,9 @@
+old = "cppcms"
+new = "cppcms-1-2-1-7"
+
+[deps]
+icu-73-1-2 = "icu"
+openssl-3-1-4-1 = "openssl"
+pcre-8-45-5 = "pcre"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+zlib-1-3-0 = "zlib"

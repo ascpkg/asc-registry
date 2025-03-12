@@ -1,0 +1,6 @@
+old = "qtshadertools"
+new = "qtshadertools-6-6-1-1"
+
+[deps]
+qtbase-6-6-1-11 = "qtbase"
+qtshadertools-6-6-1-1 = "qtshadertools"

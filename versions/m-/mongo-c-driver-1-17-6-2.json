@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/mongo-c-driver-1-17-6-2",
+      "version": "1.17.6",
+      "port-version": 2
+    }
+  ]
+}

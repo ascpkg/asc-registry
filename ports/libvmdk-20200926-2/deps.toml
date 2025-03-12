@@ -1,0 +1,6 @@
+old = "libvmdk"
+new = "libvmdk-20200926-2"
+
+[deps]
+gettext-0-21-9 = "gettext"
+zlib-1-2-11-13 = "zlib"

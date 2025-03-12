@@ -1,0 +1,14 @@
+old = "tgbot-cpp"
+new = "tgbot-cpp-1-2-1-1"
+
+[deps]
+boost-algorithm-1-76-0-0 = "boost-algorithm"
+boost-asio-1-76-0-0 = "boost-asio"
+boost-lexical-cast-1-76-0-0 = "boost-lexical-cast"
+boost-property-tree-1-76-0-0 = "boost-property-tree"
+boost-system-1-76-0-0 = "boost-system"
+boost-test-1-76-0-0 = "boost-test"
+boost-variant-1-76-0-0 = "boost-variant"
+curl-7-78-0-0 = "curl"
+openssl-1-1-1l-1 = "openssl"
+zlib-1-2-11-12 = "zlib"

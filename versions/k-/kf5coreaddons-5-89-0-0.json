@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/kf5coreaddons-5-89-0-0",
+      "version": "5.89.0",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/gumbo-0-12-2-0",
+      "version": "0.12.2",
+      "port-version": 0
+    }
+  ]
+}

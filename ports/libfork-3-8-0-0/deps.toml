@@ -1,0 +1,7 @@
+old = "libfork"
+new = "libfork-3-8-0-0"
+
+[deps]
+hwloc-2-10-0-0 = "hwloc"
+vcpkg-cmake-2024-04-18-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

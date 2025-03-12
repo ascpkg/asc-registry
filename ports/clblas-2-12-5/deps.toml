@@ -1,0 +1,5 @@
+old = "clblas"
+new = "clblas-2-12-5"
+
+[deps]
+opencl-2-2-8 = "opencl"

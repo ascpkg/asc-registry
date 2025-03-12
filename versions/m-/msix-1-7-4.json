@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/msix-1-7-4",
+      "version": "1.7",
+      "port-version": 4
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+old = "libmicrohttpd"
+new = "libmicrohttpd-0-9-63-7"
+
+[deps]
+gettext-0-21-7 = "gettext"

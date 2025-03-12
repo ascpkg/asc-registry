@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/mqtt-cpp-13-1-0-0",
+      "version-semver": "13.1.0",
+      "port-version": 0
+    }
+  ]
+}

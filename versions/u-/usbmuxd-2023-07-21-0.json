@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/usbmuxd-2023-07-21-0",
+      "version-date": "2023-07-21",
+      "port-version": 0
+    }
+  ]
+}

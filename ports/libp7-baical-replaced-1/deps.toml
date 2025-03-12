@@ -1,0 +1,5 @@
+old = "libp7-baical"
+new = "libp7-baical-replaced-1"
+
+[deps]
+libp7client-5-6-1 = "libp7client"

@@ -1,0 +1,5 @@
+old = "tidy-html5"
+new = "tidy-html5-5-8-0-0"
+
+[deps]
+vcpkg-cmake-2022-06-07-0 = "vcpkg-cmake"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/krabsetw-4-1-18-1",
+      "version": "4.1.18",
+      "port-version": 1
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/drekar-launch-process-cpp-0-1-0-0",
+      "version-semver": "0.1.0",
+      "port-version": 0
+    }
+  ]
+}

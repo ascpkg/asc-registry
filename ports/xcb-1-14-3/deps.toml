@@ -1,0 +1,14 @@
+old = "xcb"
+new = "xcb-1-14-3"
+
+[deps]
+bzip2-1-0-8-6 = "bzip2"
+libxau-1-0-9-0 = "libxau"
+libxdmcp-1-1-3-0 = "libxdmcp"
+libxslt-1-1-42-0 = "libxslt"
+pthread-3-0-0-2 = "pthread"
+pthread-stubs-0-4-1 = "pthread-stubs"
+xcb-proto-1-14-1-2 = "xcb-proto"
+xcb-util-m4-2022-01-24-0 = "xcb-util-m4"
+xorg-macros-1-19-3-1 = "xorg-macros"
+xproto-2021-5-0 = "xproto"

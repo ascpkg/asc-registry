@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/ogre-1-12-9-7",
+      "version": "1.12.9",
+      "port-version": 7
+    }
+  ]
+}

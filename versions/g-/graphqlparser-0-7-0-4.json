@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/graphqlparser-0-7-0-4",
+      "version": "0.7.0",
+      "port-version": 4
+    }
+  ]
+}

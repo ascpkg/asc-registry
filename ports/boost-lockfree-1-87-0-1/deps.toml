@@ -1,0 +1,16 @@
+old = "boost-lockfree"
+new = "boost-lockfree-1-87-0-1"
+
+[deps]
+boost-align-1-87-0-0 = "boost-align"
+boost-assert-1-87-0-0 = "boost-assert"
+boost-atomic-1-87-0-1 = "boost-atomic"
+boost-cmake-1-87-0-0 = "boost-cmake"
+boost-config-1-87-0-0 = "boost-config"
+boost-core-1-87-0-0 = "boost-core"
+boost-headers-1-87-0-0 = "boost-headers"
+boost-parameter-1-87-0-0 = "boost-parameter"
+boost-predef-1-87-0-0 = "boost-predef"
+boost-static-assert-1-87-0-0 = "boost-static-assert"
+boost-throw-exception-1-87-0-0 = "boost-throw-exception"
+boost-type-traits-1-87-0-0 = "boost-type-traits"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/azure-iot-sdk-c-2020-12-09-1",
+      "version-date": "2020-12-09",
+      "port-version": 1
+    }
+  ]
+}

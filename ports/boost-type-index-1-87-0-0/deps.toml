@@ -1,0 +1,10 @@
+old = "boost-type-index"
+new = "boost-type-index-1-87-0-0"
+
+[deps]
+boost-cmake-1-87-0-0 = "boost-cmake"
+boost-config-1-87-0-0 = "boost-config"
+boost-container-hash-1-87-0-0 = "boost-container-hash"
+boost-core-1-87-0-0 = "boost-core"
+boost-headers-1-87-0-0 = "boost-headers"
+boost-throw-exception-1-87-0-0 = "boost-throw-exception"

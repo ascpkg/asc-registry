@@ -1,0 +1,7 @@
+old = "thor"
+new = "thor-2-0-6"
+
+[deps]
+aurora-2017-06-21-c75699d2a8caa726260c29b6d7a0fd35f8f28933-1 = "aurora"
+sfml-2-5-1-13 = "sfml"
+vcpkg-cmake-2022-07-18-0 = "vcpkg-cmake"

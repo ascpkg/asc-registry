@@ -1,0 +1,7 @@
+old = "pcapplusplus"
+new = "pcapplusplus-21-05-0"
+
+[deps]
+libpcap-1-9-1-2-0 = "libpcap"
+pthreads-3-0-0-10 = "pthreads"
+winpcap-4-1-3-4 = "winpcap"

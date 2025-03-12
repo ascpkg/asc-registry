@@ -1,0 +1,7 @@
+old = "plustache"
+new = "plustache-0-4-0-5"
+
+[deps]
+boost-algorithm-1-87-0-0 = "boost-algorithm"
+boost-regex-1-87-0-0 = "boost-regex"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"

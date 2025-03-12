@@ -1,0 +1,6 @@
+old = "eabase"
+new = "eabase-2024-08-18-0"
+
+[deps]
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

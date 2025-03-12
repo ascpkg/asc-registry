@@ -1,0 +1,5 @@
+old = "tacopie"
+new = "tacopie-3-2-0-6"
+
+[deps]
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

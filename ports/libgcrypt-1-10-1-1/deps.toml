@@ -1,0 +1,7 @@
+old = "libgcrypt"
+new = "libgcrypt-1-10-1-1"
+
+[deps]
+libgcrypt-1-10-1-1 = "libgcrypt"
+libgpg-error-1-46-0 = "libgpg-error"
+vcpkg-cmake-get-vars-2022-09-04-0 = "vcpkg-cmake-get-vars"

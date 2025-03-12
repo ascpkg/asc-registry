@@ -1,0 +1,6 @@
+old = "qt5-script"
+new = "qt5-script-5-15-4-0"
+
+[deps]
+qt5-base-5-15-4-0 = "qt5-base"
+qt5-tools-5-15-4-0 = "qt5-tools"

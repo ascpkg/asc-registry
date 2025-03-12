@@ -1,0 +1,7 @@
+old = "crow"
+new = "crow-1-2-1-2-0"
+
+[deps]
+asio-1-32-0-0 = "asio"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

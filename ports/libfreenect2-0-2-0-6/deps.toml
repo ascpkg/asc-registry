@@ -1,0 +1,9 @@
+old = "libfreenect2"
+new = "libfreenect2-0-2-0-6"
+
+[deps]
+glfw3-3-3-4-0 = "glfw3"
+libjpeg-turbo-2-0-6-2 = "libjpeg-turbo"
+libusb-1-0-24-4 = "libusb"
+opencl-2-2-8 = "opencl"
+opengl-0-0-9 = "opengl"

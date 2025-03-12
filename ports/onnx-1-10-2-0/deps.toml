@@ -1,0 +1,9 @@
+old = "onnx"
+new = "onnx-1-10-2-0"
+
+[deps]
+protobuf-3-18-0-0 = "protobuf"
+pybind11-2-8-1-0 = "pybind11"
+python3-3-10-0-2 = "python3"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-11-01-0 = "vcpkg-cmake-config"

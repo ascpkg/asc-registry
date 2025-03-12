@@ -1,0 +1,10 @@
+old = "libimobiledevice"
+new = "libimobiledevice-1-3-17-0"
+
+[deps]
+dirent-1-23-2-1 = "dirent"
+getopt-0-1 = "getopt"
+libplist-1-3-6-1 = "libplist"
+libusbmuxd-1-2-219-1 = "libusbmuxd"
+openssl-1-1-1l-1 = "openssl"
+vcpkg-cmake-2021-09-13-0 = "vcpkg-cmake"

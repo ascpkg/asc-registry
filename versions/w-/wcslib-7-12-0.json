@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/wcslib-7-12-0",
+      "version": "7.12",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+old = "giflib"
+new = "giflib-5-2-2-1"
+
+[deps]
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"

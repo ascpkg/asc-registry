@@ -1,0 +1,7 @@
+old = "libproxy"
+new = "libproxy-0-4-17-2"
+
+[deps]
+libmodman-2-0-1-4 = "libmodman"
+vcpkg-cmake-2021-12-20-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-28-0 = "vcpkg-cmake-config"

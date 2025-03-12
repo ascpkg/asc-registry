@@ -1,0 +1,9 @@
+old = "sdl2-ttf"
+new = "sdl2-ttf-2-22-0-1"
+
+[deps]
+freetype-2-13-2-0 = "freetype"
+harfbuzz-8-3-0-3 = "harfbuzz"
+sdl2-2-30-0-0 = "sdl2"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

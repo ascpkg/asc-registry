@@ -1,0 +1,8 @@
+old = "h5py-lzf"
+new = "h5py-lzf-2022-05-24-0"
+
+[deps]
+hdf5-1-14-2-0 = "hdf5"
+liblzf-3-6-1 = "liblzf"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

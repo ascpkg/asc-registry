@@ -1,0 +1,9 @@
+old = "freetype-gl"
+new = "freetype-gl-1-0-0"
+
+[deps]
+freetype-2-13-3-0 = "freetype"
+glad-0-1-36-0 = "glad"
+glew-2-2-0-4 = "glew"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

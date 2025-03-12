@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/exiv2-0-28-1-0",
+      "version": "0.28.1",
+      "port-version": 0
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+old = "opencensus-cpp"
+new = "opencensus-cpp-2021-08-26-2"
+
+[deps]
+abseil-20211102-1-0 = "abseil"
+benchmark-1-6-1-0 = "benchmark"
+gtest-1-12-1-0 = "gtest"
+prometheus-cpp-1-0-1-0 = "prometheus-cpp"
+vcpkg-cmake-2022-07-18-0 = "vcpkg-cmake"

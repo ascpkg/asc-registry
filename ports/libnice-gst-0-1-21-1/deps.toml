@@ -1,0 +1,6 @@
+old = "libnice-gst"
+new = "libnice-gst-0-1-21-1"
+
+[deps]
+gstreamer-1-20-5-5 = "gstreamer"
+libnice-0-1-21-0 = "libnice"

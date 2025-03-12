@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/pagmo2-2-19-0-2",
+      "version": "2.19.0",
+      "port-version": 2
+    }
+  ]
+}

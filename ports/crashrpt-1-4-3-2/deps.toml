@@ -1,0 +1,13 @@
+old = "crashrpt"
+new = "crashrpt-1-4-3-2"
+
+[deps]
+crashrpt-1-4-3-2 = "crashrpt"
+dbghelp-0-0-1 = "dbghelp"
+libjpeg-turbo-2-1-2-0 = "libjpeg-turbo"
+libogg-1-3-5-0 = "libogg"
+libpng-1-6-37-16 = "libpng"
+libtheora-1-2-0alpha1-20170719-3 = "libtheora"
+tinyxml-2-6-2-8 = "tinyxml"
+wtl-10-0-10320-2 = "wtl"
+zlib-1-2-11-13 = "zlib"

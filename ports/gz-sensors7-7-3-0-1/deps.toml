@@ -1,0 +1,5 @@
+old = "gz-sensors7"
+new = "gz-sensors7-7-3-0-1"
+
+[deps]
+gz-sensors-7-3-0-0 = "gz-sensors"

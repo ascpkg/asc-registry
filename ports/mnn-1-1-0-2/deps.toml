@@ -1,0 +1,12 @@
+old = "mnn"
+new = "mnn-1-1-0-2"
+
+[deps]
+cuda-10-1-8 = "cuda"
+cudnn-7-6-5-4 = "cudnn"
+flatbuffers-2-0-0-2 = "flatbuffers"
+opencl-2-2-8 = "opencl"
+protobuf-3-18-0-1 = "protobuf"
+rapidjson-2020-09-14-2 = "rapidjson"
+stb-2020-09-14-1 = "stb"
+vulkan-1-1-82-1-2 = "vulkan"

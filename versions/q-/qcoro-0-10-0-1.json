@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qcoro-0-10-0-1",
+      "version": "0.10.0",
+      "port-version": 1
+    }
+  ]
+}

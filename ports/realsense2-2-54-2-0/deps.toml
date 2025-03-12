@@ -1,0 +1,8 @@
+old = "realsense2"
+new = "realsense2-2-54-2-0"
+
+[deps]
+libusb-1-0-26-11791-3 = "libusb"
+openni2-2-2-0-33-15 = "openni2"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

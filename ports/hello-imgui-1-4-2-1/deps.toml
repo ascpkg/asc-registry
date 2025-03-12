@@ -1,0 +1,9 @@
+old = "hello-imgui"
+new = "hello-imgui-1-4-2-1"
+
+[deps]
+glad-0-1-36-0 = "glad"
+imgui-1-90-2-0 = "imgui"
+stb-2023-04-11-1 = "stb"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

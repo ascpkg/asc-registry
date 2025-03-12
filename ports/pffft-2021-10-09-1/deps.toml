@@ -1,0 +1,6 @@
+old = "pffft"
+new = "pffft-2021-10-09-1"
+
+[deps]
+vcpkg-cmake-2022-06-07-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

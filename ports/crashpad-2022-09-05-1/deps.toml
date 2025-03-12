@@ -1,0 +1,7 @@
+old = "crashpad"
+new = "crashpad-2022-09-05-1"
+
+[deps]
+vcpkg-cmake-get-vars-2022-09-04-0 = "vcpkg-cmake-get-vars"
+vcpkg-tool-gn-2022-04-16-0 = "vcpkg-tool-gn"
+zlib-1-2-13-0 = "zlib"

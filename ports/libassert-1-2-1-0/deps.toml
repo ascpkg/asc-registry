@@ -1,0 +1,7 @@
+old = "libassert"
+new = "libassert-1-2-1-0"
+
+[deps]
+cpptrace-0-2-1-0 = "cpptrace"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

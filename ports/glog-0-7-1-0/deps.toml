@@ -1,0 +1,8 @@
+old = "glog"
+new = "glog-0-7-1-0"
+
+[deps]
+gflags-2-2-2-9 = "gflags"
+libunwind-1-8-1-0 = "libunwind"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

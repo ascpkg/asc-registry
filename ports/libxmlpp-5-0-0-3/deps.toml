@@ -1,0 +1,7 @@
+old = "libxmlpp"
+new = "libxmlpp-5-0-0-3"
+
+[deps]
+glibmm-2-74-0-0 = "glibmm"
+libxml2-2-10-3-1 = "libxml2"
+vcpkg-tool-meson-0-63-0 = "vcpkg-tool-meson"

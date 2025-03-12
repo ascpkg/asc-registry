@@ -1,0 +1,10 @@
+old = "azure-core-cpp"
+new = "azure-core-cpp-1-15-0-0"
+
+[deps]
+azure-core-cpp-1-15-0-0 = "azure-core-cpp"
+curl-8-12-1-0 = "curl"
+openssl-3-4-1-0 = "openssl"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
+wil-1-0-240803-1-0 = "wil"

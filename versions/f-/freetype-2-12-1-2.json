@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/freetype-2-12-1-2",
+      "version": "2.12.1",
+      "port-version": 2
+    }
+  ]
+}

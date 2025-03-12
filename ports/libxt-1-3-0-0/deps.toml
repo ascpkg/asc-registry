@@ -1,0 +1,13 @@
+old = "libxt"
+new = "libxt-1-3-0-0"
+
+[deps]
+bzip2-1-0-8-5 = "bzip2"
+glib-2-78-4-1 = "glib"
+libice-1-0-10-1 = "libice"
+libsm-1-2-3-1 = "libsm"
+libx11-1-8-1-1 = "libx11"
+libxt-1-3-0-0 = "libxt"
+vcpkg-cmake-get-vars-2023-12-31-0 = "vcpkg-cmake-get-vars"
+xorg-macros-1-19-3-0 = "xorg-macros"
+xproto-2021-5-0 = "xproto"

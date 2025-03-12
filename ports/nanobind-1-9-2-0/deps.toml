@@ -1,0 +1,7 @@
+old = "nanobind"
+new = "nanobind-1-9-2-0"
+
+[deps]
+python3-3-11-8-1 = "python3"
+robin-map-1-2-1-0 = "robin-map"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"

@@ -1,0 +1,6 @@
+old = "icu"
+new = "icu-74-2-5"
+
+[deps]
+icu-74-2-5 = "icu"
+vcpkg-make-2025-02-08-0 = "vcpkg-make"

@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/tabulate-1-4-0",
+      "version": "1.4",
+      "port-version": 0
+    }
+  ]
+}

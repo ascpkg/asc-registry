@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/dxsdk-d3dx-9-29-952-8-1",
+      "version": "9.29.952.8",
+      "port-version": 1
+    }
+  ]
+}

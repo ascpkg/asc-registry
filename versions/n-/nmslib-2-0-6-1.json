@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/nmslib-2-0-6-1",
+      "version-string": "2.0.6",
+      "port-version": 1
+    }
+  ]
+}

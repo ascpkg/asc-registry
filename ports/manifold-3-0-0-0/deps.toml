@@ -1,0 +1,8 @@
+old = "manifold"
+new = "manifold-3-0-0-0"
+
+[deps]
+clipper2-1-4-0-0 = "clipper2"
+tbb-2022-0-0-0 = "tbb"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

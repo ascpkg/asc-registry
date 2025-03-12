@@ -1,0 +1,10 @@
+old = "boost-crc"
+new = "boost-crc-1-85-0-0"
+
+[deps]
+boost-array-1-85-0-0 = "boost-array"
+boost-cmake-1-85-0-0 = "boost-cmake"
+boost-config-1-85-0-0 = "boost-config"
+boost-headers-1-85-0-0 = "boost-headers"
+boost-integer-1-85-0-0 = "boost-integer"
+boost-type-traits-1-85-0-0 = "boost-type-traits"

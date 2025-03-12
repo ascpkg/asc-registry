@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qttools-6-5-0-1",
+      "version": "6.5.0",
+      "port-version": 1
+    }
+  ]
+}

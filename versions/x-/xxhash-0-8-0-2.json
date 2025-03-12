@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/xxhash-0-8-0-2",
+      "version-string": "0.8.0",
+      "port-version": 2
+    }
+  ]
+}

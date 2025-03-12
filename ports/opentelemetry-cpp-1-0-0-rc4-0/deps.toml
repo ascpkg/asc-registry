@@ -1,0 +1,10 @@
+old = "opentelemetry-cpp"
+new = "opentelemetry-cpp-1-0-0-rc4-0"
+
+[deps]
+curl-7-78-0-0 = "curl"
+nlohmann-json-3-9-1-0 = "nlohmann-json"
+prometheus-cpp-0-12-3-0 = "prometheus-cpp"
+thrift-0-13-0-0 = "thrift"
+vcpkg-cmake-2021-07-30-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-08-11-0 = "vcpkg-cmake-config"

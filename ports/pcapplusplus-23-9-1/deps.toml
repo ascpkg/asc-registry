@@ -1,0 +1,8 @@
+old = "pcapplusplus"
+new = "pcapplusplus-23-9-1"
+
+[deps]
+libpcap-1-10-4-1 = "libpcap"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+winpcap-4-1-3-12 = "winpcap"

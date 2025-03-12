@@ -1,0 +1,11 @@
+old = "fizz"
+new = "fizz-2022-01-31-00-0"
+
+[deps]
+fmt-8-1-1-0 = "fmt"
+folly-2022-01-31-00-0 = "folly"
+libsodium-1-0-18-6 = "libsodium"
+openssl-1-1-1m-2 = "openssl"
+vcpkg-cmake-2022-01-19-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-01-30-0 = "vcpkg-cmake-config"
+zstd-1-5-2-0 = "zstd"

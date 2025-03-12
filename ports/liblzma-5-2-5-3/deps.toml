@@ -1,0 +1,6 @@
+old = "liblzma"
+new = "liblzma-5-2-5-3"
+
+[deps]
+vcpkg-cmake-2021-06-25-5 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-05-22-1 = "vcpkg-cmake-config"

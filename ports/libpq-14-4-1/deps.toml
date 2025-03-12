@@ -1,0 +1,16 @@
+old = "libpq"
+new = "libpq-14-4-1"
+
+[deps]
+gettext-0-21-9 = "gettext"
+icu-71-1-0 = "icu"
+libpq-14-4-1 = "libpq"
+libxml2-2-9-14-1 = "libxml2"
+libxslt-1-1-37-0 = "libxslt"
+lz4-1-9-3-4 = "lz4"
+openssl-3-0-5-4 = "openssl"
+python3-3-10-5-2 = "python3"
+readline-0-3 = "readline"
+tcl-core-9-0-a1-5 = "tcl"
+vcpkg-cmake-get-vars-2022-05-10-1 = "vcpkg-cmake-get-vars"
+zlib-1-2-12-2 = "zlib"

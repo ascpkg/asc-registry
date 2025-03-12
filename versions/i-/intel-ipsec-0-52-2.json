@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/intel-ipsec-0-52-2",
+      "version-string": "0.52",
+      "port-version": 2
+    }
+  ]
+}

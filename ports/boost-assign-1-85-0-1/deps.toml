@@ -1,0 +1,17 @@
+old = "boost-assign"
+new = "boost-assign-1-85-0-1"
+
+[deps]
+boost-array-1-85-0-1 = "boost-array"
+boost-cmake-1-85-0-1 = "boost-cmake"
+boost-config-1-85-0-1 = "boost-config"
+boost-core-1-85-0-1 = "boost-core"
+boost-headers-1-85-0-1 = "boost-headers"
+boost-move-1-85-0-1 = "boost-move"
+boost-preprocessor-1-85-0-1 = "boost-preprocessor"
+boost-ptr-container-1-85-0-1 = "boost-ptr-container"
+boost-range-1-85-0-1 = "boost-range"
+boost-static-assert-1-85-0-1 = "boost-static-assert"
+boost-throw-exception-1-85-0-1 = "boost-throw-exception"
+boost-tuple-1-85-0-1 = "boost-tuple"
+boost-type-traits-1-85-0-1 = "boost-type-traits"

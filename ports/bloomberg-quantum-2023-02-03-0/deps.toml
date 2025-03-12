@@ -1,0 +1,7 @@
+old = "bloomberg-quantum"
+new = "bloomberg-quantum-2023-02-03-0"
+
+[deps]
+boost-context-1-83-0-0 = "boost-context"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

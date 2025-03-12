@@ -1,0 +1,13 @@
+{
+  "name": "libepoxy",
+  "version": "1.5.10",
+  "description": "Epoxy is a library for handling OpenGL function pointer management for you",
+  "homepage": "https://github.com/anholt/libepoxy",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "vcpkg-tool-meson",
+      "host": true
+    }
+  ]
+}

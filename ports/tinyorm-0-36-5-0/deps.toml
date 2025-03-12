@@ -1,0 +1,11 @@
+old = "tinyorm"
+new = "tinyorm-0-36-5-0"
+
+[deps]
+libmysql-8-0-34-0 = "libmysql"
+qtbase-6-6-0-0 = "qtbase"
+range-v3-0-12-0-1 = "range-v3"
+tabulate-1-5-0 = "tabulate"
+tinyorm-0-36-5-0 = "tinyorm"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

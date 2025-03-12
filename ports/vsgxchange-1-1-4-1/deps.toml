@@ -1,0 +1,12 @@
+old = "vsgxchange"
+new = "vsgxchange-1-1-4-1"
+
+[deps]
+assimp-5-4-3-0 = "assimp"
+curl-8-11-1-0 = "curl"
+freetype-2-13-3-0 = "freetype"
+gdal-3-10-0-2 = "gdal"
+openexr-3-3-2-0 = "openexr"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"
+vsg-1-1-8-0 = "vsg"

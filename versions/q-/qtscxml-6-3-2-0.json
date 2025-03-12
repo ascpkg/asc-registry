@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/qtscxml-6-3-2-0",
+      "version": "6.3.2",
+      "port-version": 0
+    }
+  ]
+}

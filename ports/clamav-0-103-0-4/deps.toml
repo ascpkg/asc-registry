@@ -1,0 +1,14 @@
+old = "clamav"
+new = "clamav-0-103-0-4"
+
+[deps]
+bzip2-1-0-8-3 = "bzip2"
+json-c-2022-06-26-2 = "json-c"
+libmspack-0-10-1-4 = "libmspack"
+libxml2-2-10-3-0 = "libxml2"
+openssl-3-0-8-1 = "openssl"
+pcre2-10-40-1 = "pcre2"
+pthreads-3-0-0-13 = "pthreads"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"
+zlib-1-2-13-0 = "zlib"

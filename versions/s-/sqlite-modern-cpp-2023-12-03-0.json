@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/sqlite-modern-cpp-2023-12-03-0",
+      "version-date": "2023-12-03",
+      "port-version": 0
+    }
+  ]
+}

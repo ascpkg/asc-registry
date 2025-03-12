@@ -1,0 +1,5 @@
+old = "boost-build"
+new = "boost-build-1-87-0-0"
+
+[deps]
+boost-uninstall-1-87-0-0 = "boost-uninstall"

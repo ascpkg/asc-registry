@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/readline-0-4",
+      "version": "0",
+      "port-version": 4
+    }
+  ]
+}

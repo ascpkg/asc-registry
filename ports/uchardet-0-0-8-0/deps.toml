@@ -1,0 +1,7 @@
+old = "uchardet"
+new = "uchardet-0-0-8-0"
+
+[deps]
+getopt-0-2 = "getopt"
+vcpkg-cmake-2022-12-22-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

@@ -1,0 +1,7 @@
+old = "kddockwidgets"
+new = "kddockwidgets-2-0-0-0"
+
+[deps]
+qtbase-6-6-1-3 = "qtbase"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

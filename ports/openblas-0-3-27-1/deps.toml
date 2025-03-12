@@ -1,0 +1,8 @@
+old = "openblas"
+new = "openblas-0-3-27-1"
+
+[deps]
+openblas-0-3-27-1 = "openblas"
+pthread-3-0-0-2 = "pthread"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

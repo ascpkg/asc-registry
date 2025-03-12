@@ -1,0 +1,9 @@
+old = "fcl"
+new = "fcl-0-7-0-4"
+
+[deps]
+ccd-2-1-4 = "ccd"
+eigen3-3-4-0-5 = "eigen3"
+octomap-1-10-0-0 = "octomap"
+vcpkg-cmake-2024-04-23-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2024-05-23-0 = "vcpkg-cmake-config"

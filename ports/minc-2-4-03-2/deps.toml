@@ -1,0 +1,7 @@
+old = "minc"
+new = "minc-2-4-03-2"
+
+[deps]
+hdf5-1-12-0-4 = "hdf5"
+nifticlib-2020-04-30-1 = "nifticlib"
+zlib-1-2-11-12 = "zlib"

@@ -1,0 +1,5 @@
+old = "openssl-windows"
+new = "openssl-windows-deprecated-0"
+
+[deps]
+openssl-3-0-5-5 = "openssl"

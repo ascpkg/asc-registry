@@ -1,0 +1,8 @@
+old = "libgig"
+new = "libgig-4-3-0-0"
+
+[deps]
+cppunit-1-15-1-4 = "cppunit"
+libsndfile-1-2-0-2 = "libsndfile"
+vcpkg-cmake-2023-05-04-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2022-02-06-1 = "vcpkg-cmake-config"

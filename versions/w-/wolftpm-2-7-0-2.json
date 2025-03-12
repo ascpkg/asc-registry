@@ -1,0 +1,9 @@
+{
+  "versions": [
+    {
+      "path": "$/ports/wolftpm-2-7-0-2",
+      "version": "2.7.0",
+      "port-version": 2
+    }
+  ]
+}

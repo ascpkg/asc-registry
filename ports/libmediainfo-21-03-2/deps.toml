@@ -1,0 +1,10 @@
+old = "libmediainfo"
+new = "libmediainfo-21-03-2"
+
+[deps]
+curl-7-80-0-0 = "curl"
+libzen-0-4-39-1 = "libzen"
+tinyxml2-9-0-0-0 = "tinyxml2"
+vcpkg-cmake-2021-12-05-0 = "vcpkg-cmake"
+vcpkg-cmake-config-2021-12-01-0 = "vcpkg-cmake-config"
+zlib-1-2-11-13 = "zlib"

@@ -1,0 +1,7 @@
+old = "activemq-cpp"
+new = "activemq-cpp-3-9-5-17"
+
+[deps]
+apr-1-7-5-2 = "apr"
+libuuid-1-0-3-14 = "libuuid"
+vcpkg-msbuild-2023-08-08-0 = "vcpkg-msbuild"
